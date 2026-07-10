@@ -1,0 +1,14 @@
+{
+  "name": "@groundbreaker/branding",
+  "version": "1.0.0",
+  "description": "Groundbreaker Marketing brand design system",
+  "type": "module",
+  "exports": {
+    "./tokens": "./tokens/index.ts",
+    "./components": "./components/index.tsx"
+  },
+  "devDependencies": {
+    "react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
