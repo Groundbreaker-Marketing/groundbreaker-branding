@@ -33,3 +33,21 @@ Prefer it; if it's missing, run the equivalent git/gh commands shown in parenthe
 Branch protection on `main` is **ENABLED** for every org repo: GitHub rejects direct
 pushes and force-pushes to `main` — all changes must land via a Pull Request. The workflow above
 isn't just convention; it's enforced.
+
+
+## Copywriting standards (Claude: apply to ALL client-facing copy, every client)
+
+Standing rules from Josh (2026-08-19). They apply to every piece of client-facing
+text we write anywhere: site pages, navigation labels, meta titles and
+descriptions, photo alt text, strings in data files, GBP posts, and review
+replies. Follow them without being asked.
+
+- **No em dashes ( — ) in copy.** Rewrite the sentence with a period, colon,
+  comma, or semicolon instead; for label-price pairs use a middot
+  (e.g. "Specialty Bar · $23/guest").
+- **US spellings only.** organized, license, honored, personalized, favorites,
+  centerpiece, canceled/canceling. Never organised, licence, honoured, colour,
+  favourite, centrepiece, cancelled.
+- **Exemption: verbatim material.** Quoted customer reviews, published owner
+  replies, and carrier-registered SMS legal text stay exactly as published even
+  when they break the rules above. Code comments are out of scope.
