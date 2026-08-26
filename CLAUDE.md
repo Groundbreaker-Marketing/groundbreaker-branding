@@ -48,6 +48,10 @@ replies. Follow them without being asked.
 - **US spellings only.** organized, license, honored, personalized, favorites,
   centerpiece, canceled/canceling. Never organised, licence, honoured, colour,
   favourite, centrepiece, cancelled.
+- **US phrasing, not just US spelling.** Two correctly spelled words can still
+  read as British. Write "right away", "different from", "parking lot", "zip
+  code", "on the weekend", "drain field". The us-spellings check carries the
+  full list and fails a PR that reintroduces one.
 - **Exemption: verbatim material.** Quoted customer reviews, published owner
   replies, and carrier-registered SMS legal text stay exactly as published even
   when they break the rules above. Code comments are out of scope.
