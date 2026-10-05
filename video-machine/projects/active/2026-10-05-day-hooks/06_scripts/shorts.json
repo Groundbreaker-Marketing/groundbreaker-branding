@@ -1,0 +1,143 @@
+{
+  "_how": "Recipe for shorts.build (video-machine). keep = word-index ranges of the take's transcript (02_audio/words/<take>.json), inclusive; fixes = word index -> caption text. Takes recorded on Zoom 2026-10-05 from the day-hooks scripts. approved = Ashley approved the edit, title and description for publishing.",
+  "name_bar": {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "cover": [
+      0,
+      326,
+      134,
+      34
+    ]
+  },
+  "clips": [
+    {
+      "id": "smaller-map",
+      "source": "01_footage/zoom-153511-mp4.mp4",
+      "words": "02_audio/words/153511.json",
+      "keep": [
+        [
+          97,
+          259
+        ]
+      ],
+      "fixes": {
+        "179": "map in"
+      },
+      "title": "Big budget.\n*Smaller* map.",
+      "youtube": {
+        "title": "Why we made a busy septic company's service area smaller",
+        "description": "Six weeks in, this septic company is buying two new pump trucks. So why shrink the map? A big ad budget spread across a big service area pays for calls from towns you don't want to drive to. Pull it in closer and the whole budget lands near home, where the jobs are close.\n\n#septic #septicbusiness #googleads #localserviceads #smallbusinessmarketing"
+      },
+      "approved": false
+    },
+    {
+      "id": "raise-prices",
+      "source": "01_footage/zoom-153052-mp4.mp4",
+      "words": "02_audio/words/153052.json",
+      "keep": [
+        [
+          0,
+          85
+        ],
+        [
+          66,
+          78,
+          "152806"
+        ],
+        [
+          98,
+          134
+        ]
+      ],
+      "fixes": {
+        "107": "month"
+      },
+      "title": "Raise your prices\na *little*",
+      "youtube": {
+        "title": "Your customer won't feel a small price increase. Your margin will.",
+        "description": "Investors handed one of our septic clients a list of changes, and raising prices was on it. They were right. A small increase barely registers with the customer, but over a year it becomes the cushion that covers the surprises.\n\n#septic #pricing #smallbusiness #servicebusiness #profitmargin"
+      },
+      "approved": false,
+      "takes": {
+        "152806": {
+          "source": "01_footage/zoom-152806-mp4.mp4",
+          "words": "02_audio/words/152806.json"
+        }
+      },
+      "_note": "Zoom froze the video 30.2-32.7 s of take 153052 ('Over a year...surprises'); that sentence comes from take 152806 instead."
+    },
+    {
+      "id": "are-you-staying",
+      "source": "01_footage/zoom-153152-mp4.mp4",
+      "words": "02_audio/words/153152.json",
+      "keep": [
+        [
+          0,
+          122
+        ]
+      ],
+      "fixes": {
+        "45": "long-term",
+        "46": "",
+        "50": "I'll"
+      },
+      "title": "Ask your agency\nthis *first*",
+      "youtube": {
+        "title": "The question to ask before you invest more in marketing",
+        "description": "A septic client wants to invest more with us. Before they did, one of the owners asked whether I'll still be the one handling their account. When both companies are growing, the relationship has to be planned on purpose.\n\n#septic #marketingagency #smallbusinessowner #septicbusiness"
+      },
+      "approved": false
+    },
+    {
+      "id": "website-launch",
+      "source": "01_footage/zoom-153243-mp4.mp4",
+      "words": "02_audio/words/153243.json",
+      "keep": [
+        [
+          0,
+          127
+        ]
+      ],
+      "fixes": {
+        "83": "good-looking",
+        "84": ""
+      },
+      "title": "New website?\nProtect your *leads*",
+      "youtube": {
+        "title": "How a new website quietly loses leads on launch day",
+        "description": "A septic client was nervous about switching websites, and they had a point. Launch day is when a form can look fine and send nowhere. Before you switch, ask your designer how they'll prove your forms work on day one.\n\n#septic #websitedesign #smallbusinessmarketing #leadgeneration"
+      },
+      "approved": false
+    },
+    {
+      "id": "lifetime-value",
+      "source": "01_footage/zoom-153339-mp4.mp4",
+      "words": "02_audio/words/153339.json",
+      "keep": [
+        [
+          0,
+          9
+        ],
+        [
+          21,
+          139
+        ]
+      ],
+      "fixes": {
+        "4": "high-level",
+        "5": "",
+        "7": "Ads",
+        "30": "septic",
+        "36": "Ads.",
+        "9": "today,"
+      },
+      "title": "The number that's\nnot in *Google Ads*",
+      "youtube": {
+        "title": "The number that matters more than your cost per click",
+        "description": "We went through two septic client accounts with a Google Ads strategist. The target: a customer worth about three times what you paid to get them. Once you know a customer's lifetime value, you know what you can afford to pay for one. Comment \"value\" and I'll send you the simple version.\n\n#septic #googleads #ppc #customerlifetimevalue #smallbusinessmarketing"
+      },
+      "approved": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "clip": "raise-prices.mp4",
+  "duration_s": 40.5,
+  "transcript_words": 0,
+  "caption_chunks": 1,
+  "video_wh": [
+    1080,
+    1920
+  ],
+  "verdict": "PASS",
+  "checks": {
+    "presence": {
+      "pass": true,
+      "caption_chunks": 1,
+      "issues": []
+    },
+    "accuracy": {
+      "pass": true,
+      "issues": [],
+      "note": "no transcript \u2014 skipped"
+    },
+    "timing": {
+      "pass": true,
+      "issues": [],
+      "note": "no transcript \u2014 skipped"
+    },
+    "gaps": {
+      "pass": true,
+      "issues": [],
+      "note": "no transcript \u2014 skipped"
+    },
+    "speaker_color": {
+      "pass": true,
+      "colors": [],
+      "issues": [],
+      "note": "no colour(s) in use; speaker count unknown \u2014 distinctness not enforced"
+    },
+    "positioning": {
+      "pass": true,
+      "issues": [],
+      "note": "no positioning data"
+    },
+    "formatting": {
+      "pass": true,
+      "issues": [
+        {
+          "event": 0,
+          "text": "4 = (\u00ab8 - Tf A Stam 2] si a d | Ashley C",
+          "problem": "line long (85 chars)",
+          "severity": "warn"
+        }
+      ]
+    },
+    "_mode": {
+      "pass": true,
+      "note": "captions audited via OCR of burnt-in pixels (no .ass); similarity=1.0"
+    }
+  },
+  "metadata": {
+    "ass": null,
+    "speakers": null,
+    "expected_colors": null,
+    "resolved_from": "none"
+  },
+  "summary": "All caption checks passed"
+}

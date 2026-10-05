@@ -1,0 +1,748 @@
+{
+  "source": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-05-day-hooks/01_footage/zoom-153152-mp4.mp4",
+  "start": 0.0,
+  "end": 43.755,
+  "duration": 43.755,
+  "language": "en",
+  "text": "A septic client wants to invest more with us. The first thing they asked is if we're staying around. Both of our companies are growing and they're thinking about putting a lot more behind their marketing. Before they did, one of the owners asked about long-term plans and whether all still be the one handling their account. When both sides are growing, the relationship has to be planned on purpose. You can't just assume it will hold. Asking who will be on your account isn't awkward. It's the smartest question you can ask your marketing agency. If you're about to invest more with any agency, ask that first. And if you want to hear how we answer it, send me a message.",
+  "words": [
+    {
+      "word": "A",
+      "start": 2.22,
+      "end": 2.76,
+      "prob": 0.272
+    },
+    {
+      "word": "septic",
+      "start": 2.76,
+      "end": 3.32,
+      "prob": 0.864
+    },
+    {
+      "word": "client",
+      "start": 3.32,
+      "end": 3.66,
+      "prob": 0.993
+    },
+    {
+      "word": "wants",
+      "start": 3.66,
+      "end": 3.9,
+      "prob": 0.985
+    },
+    {
+      "word": "to",
+      "start": 3.9,
+      "end": 4.1,
+      "prob": 0.999
+    },
+    {
+      "word": "invest",
+      "start": 4.1,
+      "end": 4.5,
+      "prob": 0.993
+    },
+    {
+      "word": "more",
+      "start": 4.5,
+      "end": 4.82,
+      "prob": 0.994
+    },
+    {
+      "word": "with",
+      "start": 4.82,
+      "end": 5.06,
+      "prob": 0.99
+    },
+    {
+      "word": "us.",
+      "start": 5.06,
+      "end": 5.32,
+      "prob": 0.996
+    },
+    {
+      "word": "The",
+      "start": 5.56,
+      "end": 5.66,
+      "prob": 0.976
+    },
+    {
+      "word": "first",
+      "start": 5.66,
+      "end": 5.94,
+      "prob": 0.997
+    },
+    {
+      "word": "thing",
+      "start": 5.94,
+      "end": 6.14,
+      "prob": 0.993
+    },
+    {
+      "word": "they",
+      "start": 6.14,
+      "end": 6.28,
+      "prob": 0.996
+    },
+    {
+      "word": "asked",
+      "start": 6.28,
+      "end": 6.68,
+      "prob": 0.806
+    },
+    {
+      "word": "is",
+      "start": 6.68,
+      "end": 6.88,
+      "prob": 0.964
+    },
+    {
+      "word": "if",
+      "start": 6.88,
+      "end": 7.14,
+      "prob": 0.956
+    },
+    {
+      "word": "we're",
+      "start": 7.14,
+      "end": 7.38,
+      "prob": 0.976
+    },
+    {
+      "word": "staying",
+      "start": 7.38,
+      "end": 7.68,
+      "prob": 0.994
+    },
+    {
+      "word": "around.",
+      "start": 7.68,
+      "end": 8.08,
+      "prob": 0.997
+    },
+    {
+      "word": "Both",
+      "start": 8.76,
+      "end": 8.96,
+      "prob": 0.994
+    },
+    {
+      "word": "of",
+      "start": 8.96,
+      "end": 9.08,
+      "prob": 0.996
+    },
+    {
+      "word": "our",
+      "start": 9.08,
+      "end": 9.2,
+      "prob": 0.998
+    },
+    {
+      "word": "companies",
+      "start": 9.2,
+      "end": 9.46,
+      "prob": 0.996
+    },
+    {
+      "word": "are",
+      "start": 9.46,
+      "end": 9.68,
+      "prob": 0.999
+    },
+    {
+      "word": "growing",
+      "start": 9.68,
+      "end": 10.0,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 10.0,
+      "end": 10.2,
+      "prob": 0.81
+    },
+    {
+      "word": "they're",
+      "start": 10.2,
+      "end": 10.38,
+      "prob": 0.983
+    },
+    {
+      "word": "thinking",
+      "start": 10.38,
+      "end": 10.64,
+      "prob": 0.998
+    },
+    {
+      "word": "about",
+      "start": 10.64,
+      "end": 10.98,
+      "prob": 0.999
+    },
+    {
+      "word": "putting",
+      "start": 10.98,
+      "end": 11.2,
+      "prob": 0.998
+    },
+    {
+      "word": "a",
+      "start": 11.2,
+      "end": 11.4,
+      "prob": 0.994
+    },
+    {
+      "word": "lot",
+      "start": 11.4,
+      "end": 11.74,
+      "prob": 0.999
+    },
+    {
+      "word": "more",
+      "start": 11.74,
+      "end": 12.0,
+      "prob": 0.999
+    },
+    {
+      "word": "behind",
+      "start": 12.0,
+      "end": 12.32,
+      "prob": 0.999
+    },
+    {
+      "word": "their",
+      "start": 12.32,
+      "end": 12.54,
+      "prob": 0.994
+    },
+    {
+      "word": "marketing.",
+      "start": 12.54,
+      "end": 12.9,
+      "prob": 0.998
+    },
+    {
+      "word": "Before",
+      "start": 13.42,
+      "end": 13.82,
+      "prob": 0.991
+    },
+    {
+      "word": "they",
+      "start": 13.82,
+      "end": 14.08,
+      "prob": 0.995
+    },
+    {
+      "word": "did,",
+      "start": 14.08,
+      "end": 14.36,
+      "prob": 0.999
+    },
+    {
+      "word": "one",
+      "start": 14.52,
+      "end": 14.66,
+      "prob": 0.997
+    },
+    {
+      "word": "of",
+      "start": 14.66,
+      "end": 14.76,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 14.76,
+      "end": 14.88,
+      "prob": 0.998
+    },
+    {
+      "word": "owners",
+      "start": 14.88,
+      "end": 15.12,
+      "prob": 0.98
+    },
+    {
+      "word": "asked",
+      "start": 15.12,
+      "end": 15.58,
+      "prob": 0.997
+    },
+    {
+      "word": "about",
+      "start": 15.58,
+      "end": 15.84,
+      "prob": 0.999
+    },
+    {
+      "word": "long",
+      "start": 15.84,
+      "end": 16.4,
+      "prob": 0.995
+    },
+    {
+      "word": "-term",
+      "start": 16.4,
+      "end": 16.68,
+      "prob": 0.796
+    },
+    {
+      "word": "plans",
+      "start": 16.68,
+      "end": 17.3,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 17.82,
+      "end": 18.08,
+      "prob": 0.863
+    },
+    {
+      "word": "whether",
+      "start": 18.08,
+      "end": 18.34,
+      "prob": 0.998
+    },
+    {
+      "word": "all",
+      "start": 18.34,
+      "end": 18.72,
+      "prob": 0.663
+    },
+    {
+      "word": "still",
+      "start": 18.72,
+      "end": 18.88,
+      "prob": 0.611
+    },
+    {
+      "word": "be",
+      "start": 18.88,
+      "end": 19.06,
+      "prob": 0.952
+    },
+    {
+      "word": "the",
+      "start": 19.06,
+      "end": 19.2,
+      "prob": 0.997
+    },
+    {
+      "word": "one",
+      "start": 19.2,
+      "end": 19.54,
+      "prob": 0.996
+    },
+    {
+      "word": "handling",
+      "start": 19.54,
+      "end": 20.08,
+      "prob": 0.993
+    },
+    {
+      "word": "their",
+      "start": 20.08,
+      "end": 20.34,
+      "prob": 0.993
+    },
+    {
+      "word": "account.",
+      "start": 20.34,
+      "end": 20.64,
+      "prob": 0.995
+    },
+    {
+      "word": "When",
+      "start": 21.28,
+      "end": 21.52,
+      "prob": 0.996
+    },
+    {
+      "word": "both",
+      "start": 21.52,
+      "end": 21.8,
+      "prob": 0.998
+    },
+    {
+      "word": "sides",
+      "start": 21.8,
+      "end": 22.04,
+      "prob": 0.996
+    },
+    {
+      "word": "are",
+      "start": 22.04,
+      "end": 22.22,
+      "prob": 0.998
+    },
+    {
+      "word": "growing,",
+      "start": 22.22,
+      "end": 22.48,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 22.68,
+      "end": 22.74,
+      "prob": 0.805
+    },
+    {
+      "word": "relationship",
+      "start": 22.74,
+      "end": 23.34,
+      "prob": 0.998
+    },
+    {
+      "word": "has",
+      "start": 23.34,
+      "end": 23.78,
+      "prob": 0.998
+    },
+    {
+      "word": "to",
+      "start": 23.78,
+      "end": 23.96,
+      "prob": 1.0
+    },
+    {
+      "word": "be",
+      "start": 23.96,
+      "end": 24.08,
+      "prob": 0.999
+    },
+    {
+      "word": "planned",
+      "start": 24.08,
+      "end": 24.52,
+      "prob": 0.991
+    },
+    {
+      "word": "on",
+      "start": 24.52,
+      "end": 24.76,
+      "prob": 0.997
+    },
+    {
+      "word": "purpose.",
+      "start": 24.76,
+      "end": 25.12,
+      "prob": 0.992
+    },
+    {
+      "word": "You",
+      "start": 25.34,
+      "end": 25.42,
+      "prob": 0.994
+    },
+    {
+      "word": "can't",
+      "start": 25.42,
+      "end": 25.72,
+      "prob": 0.996
+    },
+    {
+      "word": "just",
+      "start": 25.72,
+      "end": 25.82,
+      "prob": 0.999
+    },
+    {
+      "word": "assume",
+      "start": 25.82,
+      "end": 26.18,
+      "prob": 0.998
+    },
+    {
+      "word": "it",
+      "start": 26.18,
+      "end": 26.34,
+      "prob": 0.99
+    },
+    {
+      "word": "will",
+      "start": 26.34,
+      "end": 26.48,
+      "prob": 0.995
+    },
+    {
+      "word": "hold.",
+      "start": 26.48,
+      "end": 26.8,
+      "prob": 0.996
+    },
+    {
+      "word": "Asking",
+      "start": 27.32,
+      "end": 27.78,
+      "prob": 0.995
+    },
+    {
+      "word": "who",
+      "start": 27.78,
+      "end": 28.0,
+      "prob": 0.949
+    },
+    {
+      "word": "will",
+      "start": 28.0,
+      "end": 28.18,
+      "prob": 0.83
+    },
+    {
+      "word": "be",
+      "start": 28.18,
+      "end": 28.46,
+      "prob": 0.964
+    },
+    {
+      "word": "on",
+      "start": 28.46,
+      "end": 28.64,
+      "prob": 0.995
+    },
+    {
+      "word": "your",
+      "start": 28.64,
+      "end": 28.76,
+      "prob": 0.998
+    },
+    {
+      "word": "account",
+      "start": 28.76,
+      "end": 29.06,
+      "prob": 0.997
+    },
+    {
+      "word": "isn't",
+      "start": 29.06,
+      "end": 29.5,
+      "prob": 0.992
+    },
+    {
+      "word": "awkward.",
+      "start": 29.5,
+      "end": 29.9,
+      "prob": 0.995
+    },
+    {
+      "word": "It's",
+      "start": 30.06,
+      "end": 30.24,
+      "prob": 0.996
+    },
+    {
+      "word": "the",
+      "start": 30.24,
+      "end": 30.38,
+      "prob": 0.999
+    },
+    {
+      "word": "smartest",
+      "start": 30.38,
+      "end": 30.76,
+      "prob": 0.996
+    },
+    {
+      "word": "question",
+      "start": 30.76,
+      "end": 31.36,
+      "prob": 0.999
+    },
+    {
+      "word": "you",
+      "start": 31.36,
+      "end": 31.58,
+      "prob": 0.847
+    },
+    {
+      "word": "can",
+      "start": 31.58,
+      "end": 31.76,
+      "prob": 0.993
+    },
+    {
+      "word": "ask",
+      "start": 31.76,
+      "end": 32.08,
+      "prob": 0.995
+    },
+    {
+      "word": "your",
+      "start": 32.08,
+      "end": 32.24,
+      "prob": 0.993
+    },
+    {
+      "word": "marketing",
+      "start": 32.24,
+      "end": 32.56,
+      "prob": 0.948
+    },
+    {
+      "word": "agency.",
+      "start": 32.56,
+      "end": 33.1,
+      "prob": 0.998
+    },
+    {
+      "word": "If",
+      "start": 33.62,
+      "end": 33.84,
+      "prob": 0.989
+    },
+    {
+      "word": "you're",
+      "start": 33.84,
+      "end": 34.04,
+      "prob": 0.957
+    },
+    {
+      "word": "about",
+      "start": 34.04,
+      "end": 34.26,
+      "prob": 0.994
+    },
+    {
+      "word": "to",
+      "start": 34.26,
+      "end": 34.44,
+      "prob": 0.999
+    },
+    {
+      "word": "invest",
+      "start": 34.44,
+      "end": 34.78,
+      "prob": 0.998
+    },
+    {
+      "word": "more",
+      "start": 34.78,
+      "end": 35.02,
+      "prob": 0.99
+    },
+    {
+      "word": "with",
+      "start": 35.02,
+      "end": 35.24,
+      "prob": 0.994
+    },
+    {
+      "word": "any",
+      "start": 35.24,
+      "end": 35.46,
+      "prob": 0.995
+    },
+    {
+      "word": "agency,",
+      "start": 35.46,
+      "end": 35.98,
+      "prob": 0.998
+    },
+    {
+      "word": "ask",
+      "start": 36.14,
+      "end": 36.58,
+      "prob": 0.995
+    },
+    {
+      "word": "that",
+      "start": 36.58,
+      "end": 36.94,
+      "prob": 0.986
+    },
+    {
+      "word": "first.",
+      "start": 36.94,
+      "end": 37.28,
+      "prob": 0.996
+    },
+    {
+      "word": "And",
+      "start": 37.74,
+      "end": 37.88,
+      "prob": 0.902
+    },
+    {
+      "word": "if",
+      "start": 37.88,
+      "end": 37.98,
+      "prob": 0.985
+    },
+    {
+      "word": "you",
+      "start": 37.98,
+      "end": 38.08,
+      "prob": 0.999
+    },
+    {
+      "word": "want",
+      "start": 38.08,
+      "end": 38.26,
+      "prob": 0.926
+    },
+    {
+      "word": "to",
+      "start": 38.26,
+      "end": 38.36,
+      "prob": 0.999
+    },
+    {
+      "word": "hear",
+      "start": 38.36,
+      "end": 38.46,
+      "prob": 0.999
+    },
+    {
+      "word": "how",
+      "start": 38.46,
+      "end": 38.64,
+      "prob": 0.997
+    },
+    {
+      "word": "we",
+      "start": 38.64,
+      "end": 38.78,
+      "prob": 0.996
+    },
+    {
+      "word": "answer",
+      "start": 38.78,
+      "end": 39.08,
+      "prob": 0.997
+    },
+    {
+      "word": "it,",
+      "start": 39.08,
+      "end": 39.28,
+      "prob": 0.991
+    },
+    {
+      "word": "send",
+      "start": 39.4,
+      "end": 39.52,
+      "prob": 0.994
+    },
+    {
+      "word": "me",
+      "start": 39.52,
+      "end": 39.68,
+      "prob": 0.998
+    },
+    {
+      "word": "a",
+      "start": 39.68,
+      "end": 39.74,
+      "prob": 0.999
+    },
+    {
+      "word": "message.",
+      "start": 39.74,
+      "end": 40.0,
+      "prob": 0.998
+    }
+  ]
+}
