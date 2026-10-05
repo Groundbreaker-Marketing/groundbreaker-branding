@@ -1,0 +1,88 @@
+{
+  "_how": "Created by `meta_ad.new_client <slug>`. Fill it in during the brand interview, one question at a time. Paths are relative to the video-machine repo root.",
+  "name": "Groundbreaker Marketing",
+  "ad_label": "Groundbreaker Marketing",
+  "drive_folder": "Groundbreaker Marketing",
+  "drive_subfolder": "Groundbreaker Marketing Video",
+  "offer": "Marketing for septic and home-service companies: Google Ads, Local Services Ads, Meta, websites and SEO, measured on cost per lead and customer lifetime value",
+  "avatar": "Owner-operators of septic and home-service companies who spend real money on ads",
+  "look": {
+    "caption_preset": "kit/skills/caption-clips/presets/spice_speaker58.json",
+    "caption_context": null,
+    "reframe_preset": "talking-head",
+    "zoom": 1.4,
+    "eye_y": 0.3,
+    "music": "",
+    "logo": "",
+    "colors": {
+      "primary": "#1c352b",
+      "accent": "#cdec60"
+    },
+    "fonts": "Montserrat (website + Shorts)",
+    "editing_notes": "Organic Shorts use the framed layout (shorts.build) while footage is 640x360 Zoom. Ashley on camera; captions word-by-word in the accent color.",
+    "brand_terms": {
+      "Groundbreaker Marketing": [
+        "groundbreaker marketing",
+        "ground breaker marketing",
+        "Groundbreakers Marketing"
+      ],
+      "Ashley Christian": [
+        "ashley christian",
+        "Ashley Christensen"
+      ],
+      "Google Ads": [
+        "google ads",
+        "Google ads",
+        "Google Ad's"
+      ]
+    },
+    "_brand_terms_how": "Exact spelling -> the ways a transcriber or writer gets it wrong. Captions are corrected and kept in this casing; copy lint fails any other spelling. Include on-camera people's names."
+  },
+  "copy": {
+    "allowed_repeats": [
+      "the fixed offer line",
+      "the fixed CTA line"
+    ],
+    "voice_notes": "Exact customer phrases to lean on; words the client never uses"
+  },
+  "meta": {
+    "ad_account_id": "act_",
+    "page_id": "",
+    "instagram_user_id": "",
+    "pixel_id": "",
+    "custom_event_type": "LEAD",
+    "objective": "OUTCOME_LEADS",
+    "optimization_goal": "OFFSITE_CONVERSIONS",
+    "cta_type": "LEARN_MORE",
+    "daily_budget_cents": 2000,
+    "special_ad_categories": [],
+    "targeting": {
+      "geo_locations": {
+        "countries": [
+          "US"
+        ]
+      },
+      "age_min": 25,
+      "age_max": 65,
+      "targeting_automation": {
+        "advantage_audience": 1
+      }
+    },
+    "url_tags": "utm_source=facebook&utm_medium=paid&utm_campaign={{campaign.name}}&utm_content={{ad.name}}"
+  },
+  "history_themes": {
+    "_how": "theme -> regexes matched against campaign/ad set/ad names, for `sources history`",
+    "founder video": [
+      "founder"
+    ],
+    "testimonial": [
+      "testimonial"
+    ]
+  },
+  "shorts": {
+    "font": "Montserrat",
+    "layout": "framed",
+    "youtube_channel": "UCx6IFKn193XppnCpVAByK9w",
+    "metricool_blog_id": 5857373
+  }
+}

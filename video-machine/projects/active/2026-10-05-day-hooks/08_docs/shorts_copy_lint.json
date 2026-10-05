@@ -1,0 +1,22 @@
+{
+  "smaller-map": {
+    "fails": [],
+    "warns": []
+  },
+  "raise-prices": {
+    "fails": [],
+    "warns": []
+  },
+  "are-you-staying": {
+    "fails": [],
+    "warns": []
+  },
+  "website-launch": {
+    "fails": [],
+    "warns": []
+  },
+  "lifetime-value": {
+    "fails": [],
+    "warns": []
+  }
+}

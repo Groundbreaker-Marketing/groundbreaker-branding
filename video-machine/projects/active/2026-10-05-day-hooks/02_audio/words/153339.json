@@ -1,0 +1,850 @@
+{
+  "source": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-05-day-hooks/01_footage/zoom-153339-mp4.mp4",
+  "start": 0.0,
+  "end": 49.045,
+  "duration": 49.045,
+  "language": "en",
+  "text": "I met with a high level Google ad strategist today, the kind that actually works at Google headquarters in San Francisco, and the most important number we discussed about these subject clients isn't actually their Google ads. We went through two client accounts with the strategist from Google. We kept coming back to lifetime value compared to what it costs to get the customer. The target is a customer worth about three times what you paid for. Once you know what a customer is worth over the years or your lifetime value, you know how much you can afford to pay for one. Stop judging ads by cost per click. Judge them by what the customers they bring are worth. If you want the simple version of how to think about this, comment value and I'll send it to you.",
+  "words": [
+    {
+      "word": "I",
+      "start": 2.9,
+      "end": 3.36,
+      "prob": 0.802
+    },
+    {
+      "word": "met",
+      "start": 3.36,
+      "end": 3.56,
+      "prob": 0.975
+    },
+    {
+      "word": "with",
+      "start": 3.56,
+      "end": 3.8,
+      "prob": 0.993
+    },
+    {
+      "word": "a",
+      "start": 3.8,
+      "end": 4.0,
+      "prob": 0.659
+    },
+    {
+      "word": "high",
+      "start": 4.0,
+      "end": 4.5,
+      "prob": 0.991
+    },
+    {
+      "word": "level",
+      "start": 4.5,
+      "end": 4.82,
+      "prob": 0.577
+    },
+    {
+      "word": "Google",
+      "start": 4.82,
+      "end": 5.12,
+      "prob": 0.98
+    },
+    {
+      "word": "ad",
+      "start": 5.12,
+      "end": 5.46,
+      "prob": 0.55
+    },
+    {
+      "word": "strategist",
+      "start": 5.46,
+      "end": 6.08,
+      "prob": 0.968
+    },
+    {
+      "word": "today,",
+      "start": 6.08,
+      "end": 6.4,
+      "prob": 0.986
+    },
+    {
+      "word": "the",
+      "start": 6.54,
+      "end": 6.62,
+      "prob": 0.991
+    },
+    {
+      "word": "kind",
+      "start": 6.62,
+      "end": 6.86,
+      "prob": 0.988
+    },
+    {
+      "word": "that",
+      "start": 6.86,
+      "end": 7.02,
+      "prob": 0.997
+    },
+    {
+      "word": "actually",
+      "start": 7.02,
+      "end": 7.38,
+      "prob": 0.995
+    },
+    {
+      "word": "works",
+      "start": 7.38,
+      "end": 7.68,
+      "prob": 0.985
+    },
+    {
+      "word": "at",
+      "start": 7.68,
+      "end": 7.96,
+      "prob": 0.977
+    },
+    {
+      "word": "Google",
+      "start": 7.96,
+      "end": 8.14,
+      "prob": 0.994
+    },
+    {
+      "word": "headquarters",
+      "start": 8.14,
+      "end": 8.6,
+      "prob": 0.903
+    },
+    {
+      "word": "in",
+      "start": 8.6,
+      "end": 8.86,
+      "prob": 0.989
+    },
+    {
+      "word": "San",
+      "start": 8.86,
+      "end": 9.0,
+      "prob": 0.989
+    },
+    {
+      "word": "Francisco,",
+      "start": 9.0,
+      "end": 9.5,
+      "prob": 0.993
+    },
+    {
+      "word": "and",
+      "start": 9.86,
+      "end": 10.26,
+      "prob": 0.991
+    },
+    {
+      "word": "the",
+      "start": 10.26,
+      "end": 10.44,
+      "prob": 0.999
+    },
+    {
+      "word": "most",
+      "start": 10.44,
+      "end": 10.66,
+      "prob": 0.999
+    },
+    {
+      "word": "important",
+      "start": 10.66,
+      "end": 11.1,
+      "prob": 0.999
+    },
+    {
+      "word": "number",
+      "start": 11.1,
+      "end": 11.36,
+      "prob": 0.994
+    },
+    {
+      "word": "we",
+      "start": 11.36,
+      "end": 11.56,
+      "prob": 0.995
+    },
+    {
+      "word": "discussed",
+      "start": 11.56,
+      "end": 11.9,
+      "prob": 0.993
+    },
+    {
+      "word": "about",
+      "start": 11.9,
+      "end": 12.3,
+      "prob": 0.997
+    },
+    {
+      "word": "these",
+      "start": 12.3,
+      "end": 12.52,
+      "prob": 0.896
+    },
+    {
+      "word": "subject",
+      "start": 12.52,
+      "end": 12.86,
+      "prob": 0.411
+    },
+    {
+      "word": "clients",
+      "start": 12.86,
+      "end": 13.34,
+      "prob": 0.995
+    },
+    {
+      "word": "isn't",
+      "start": 13.34,
+      "end": 13.96,
+      "prob": 0.932
+    },
+    {
+      "word": "actually",
+      "start": 13.96,
+      "end": 14.42,
+      "prob": 0.993
+    },
+    {
+      "word": "their",
+      "start": 14.42,
+      "end": 14.6,
+      "prob": 0.959
+    },
+    {
+      "word": "Google",
+      "start": 14.6,
+      "end": 14.82,
+      "prob": 0.995
+    },
+    {
+      "word": "ads.",
+      "start": 14.82,
+      "end": 15.16,
+      "prob": 0.946
+    },
+    {
+      "word": "We",
+      "start": 15.58,
+      "end": 15.8,
+      "prob": 0.994
+    },
+    {
+      "word": "went",
+      "start": 15.8,
+      "end": 15.98,
+      "prob": 1.0
+    },
+    {
+      "word": "through",
+      "start": 15.98,
+      "end": 16.14,
+      "prob": 0.998
+    },
+    {
+      "word": "two",
+      "start": 16.14,
+      "end": 16.38,
+      "prob": 0.877
+    },
+    {
+      "word": "client",
+      "start": 16.38,
+      "end": 16.7,
+      "prob": 0.996
+    },
+    {
+      "word": "accounts",
+      "start": 16.7,
+      "end": 17.14,
+      "prob": 0.996
+    },
+    {
+      "word": "with",
+      "start": 17.14,
+      "end": 17.52,
+      "prob": 0.99
+    },
+    {
+      "word": "the",
+      "start": 17.52,
+      "end": 17.68,
+      "prob": 0.881
+    },
+    {
+      "word": "strategist",
+      "start": 17.68,
+      "end": 18.2,
+      "prob": 0.897
+    },
+    {
+      "word": "from",
+      "start": 18.2,
+      "end": 18.38,
+      "prob": 0.996
+    },
+    {
+      "word": "Google.",
+      "start": 18.38,
+      "end": 18.68,
+      "prob": 0.998
+    },
+    {
+      "word": "We",
+      "start": 19.16,
+      "end": 19.58,
+      "prob": 0.994
+    },
+    {
+      "word": "kept",
+      "start": 19.58,
+      "end": 19.78,
+      "prob": 0.996
+    },
+    {
+      "word": "coming",
+      "start": 19.78,
+      "end": 20.02,
+      "prob": 0.998
+    },
+    {
+      "word": "back",
+      "start": 20.02,
+      "end": 20.32,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 20.32,
+      "end": 20.58,
+      "prob": 0.999
+    },
+    {
+      "word": "lifetime",
+      "start": 20.58,
+      "end": 21.14,
+      "prob": 0.965
+    },
+    {
+      "word": "value",
+      "start": 21.14,
+      "end": 21.78,
+      "prob": 0.998
+    },
+    {
+      "word": "compared",
+      "start": 21.78,
+      "end": 22.08,
+      "prob": 0.924
+    },
+    {
+      "word": "to",
+      "start": 22.08,
+      "end": 22.4,
+      "prob": 1.0
+    },
+    {
+      "word": "what",
+      "start": 22.4,
+      "end": 22.6,
+      "prob": 0.999
+    },
+    {
+      "word": "it",
+      "start": 22.6,
+      "end": 22.72,
+      "prob": 0.996
+    },
+    {
+      "word": "costs",
+      "start": 22.72,
+      "end": 23.06,
+      "prob": 0.789
+    },
+    {
+      "word": "to",
+      "start": 23.06,
+      "end": 23.4,
+      "prob": 0.998
+    },
+    {
+      "word": "get",
+      "start": 23.4,
+      "end": 23.58,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 23.58,
+      "end": 23.74,
+      "prob": 0.998
+    },
+    {
+      "word": "customer.",
+      "start": 23.74,
+      "end": 24.16,
+      "prob": 0.997
+    },
+    {
+      "word": "The",
+      "start": 24.58,
+      "end": 24.8,
+      "prob": 0.996
+    },
+    {
+      "word": "target",
+      "start": 24.8,
+      "end": 25.14,
+      "prob": 0.962
+    },
+    {
+      "word": "is",
+      "start": 25.14,
+      "end": 25.46,
+      "prob": 0.998
+    },
+    {
+      "word": "a",
+      "start": 25.46,
+      "end": 25.58,
+      "prob": 0.989
+    },
+    {
+      "word": "customer",
+      "start": 25.58,
+      "end": 25.94,
+      "prob": 0.998
+    },
+    {
+      "word": "worth",
+      "start": 25.94,
+      "end": 26.2,
+      "prob": 0.993
+    },
+    {
+      "word": "about",
+      "start": 26.2,
+      "end": 26.48,
+      "prob": 0.998
+    },
+    {
+      "word": "three",
+      "start": 26.48,
+      "end": 26.82,
+      "prob": 0.941
+    },
+    {
+      "word": "times",
+      "start": 26.82,
+      "end": 27.22,
+      "prob": 0.998
+    },
+    {
+      "word": "what",
+      "start": 27.22,
+      "end": 27.38,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 27.38,
+      "end": 27.54,
+      "prob": 1.0
+    },
+    {
+      "word": "paid",
+      "start": 27.54,
+      "end": 27.74,
+      "prob": 0.989
+    },
+    {
+      "word": "for.",
+      "start": 27.74,
+      "end": 28.02,
+      "prob": 0.997
+    },
+    {
+      "word": "Once",
+      "start": 28.48,
+      "end": 28.86,
+      "prob": 0.995
+    },
+    {
+      "word": "you",
+      "start": 28.86,
+      "end": 29.04,
+      "prob": 0.99
+    },
+    {
+      "word": "know",
+      "start": 29.04,
+      "end": 29.2,
+      "prob": 0.999
+    },
+    {
+      "word": "what",
+      "start": 29.2,
+      "end": 29.38,
+      "prob": 0.996
+    },
+    {
+      "word": "a",
+      "start": 29.38,
+      "end": 29.48,
+      "prob": 0.998
+    },
+    {
+      "word": "customer",
+      "start": 29.48,
+      "end": 29.84,
+      "prob": 0.998
+    },
+    {
+      "word": "is",
+      "start": 29.84,
+      "end": 30.12,
+      "prob": 0.998
+    },
+    {
+      "word": "worth",
+      "start": 30.12,
+      "end": 30.4,
+      "prob": 1.0
+    },
+    {
+      "word": "over",
+      "start": 30.4,
+      "end": 30.82,
+      "prob": 0.994
+    },
+    {
+      "word": "the",
+      "start": 30.82,
+      "end": 31.0,
+      "prob": 1.0
+    },
+    {
+      "word": "years",
+      "start": 31.0,
+      "end": 31.28,
+      "prob": 0.998
+    },
+    {
+      "word": "or",
+      "start": 31.28,
+      "end": 31.54,
+      "prob": 0.73
+    },
+    {
+      "word": "your",
+      "start": 31.54,
+      "end": 31.72,
+      "prob": 0.996
+    },
+    {
+      "word": "lifetime",
+      "start": 31.72,
+      "end": 32.12,
+      "prob": 0.996
+    },
+    {
+      "word": "value,",
+      "start": 32.12,
+      "end": 32.66,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 32.66,
+      "end": 32.84,
+      "prob": 0.627
+    },
+    {
+      "word": "know",
+      "start": 32.84,
+      "end": 33.24,
+      "prob": 0.709
+    },
+    {
+      "word": "how",
+      "start": 33.24,
+      "end": 33.46,
+      "prob": 0.995
+    },
+    {
+      "word": "much",
+      "start": 33.46,
+      "end": 33.62,
+      "prob": 0.995
+    },
+    {
+      "word": "you",
+      "start": 33.62,
+      "end": 33.72,
+      "prob": 0.995
+    },
+    {
+      "word": "can",
+      "start": 33.72,
+      "end": 33.84,
+      "prob": 0.998
+    },
+    {
+      "word": "afford",
+      "start": 33.84,
+      "end": 34.06,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 34.06,
+      "end": 34.26,
+      "prob": 0.999
+    },
+    {
+      "word": "pay",
+      "start": 34.26,
+      "end": 34.4,
+      "prob": 0.999
+    },
+    {
+      "word": "for",
+      "start": 34.4,
+      "end": 34.58,
+      "prob": 0.993
+    },
+    {
+      "word": "one.",
+      "start": 34.58,
+      "end": 34.82,
+      "prob": 0.991
+    },
+    {
+      "word": "Stop",
+      "start": 35.26,
+      "end": 35.7,
+      "prob": 0.981
+    },
+    {
+      "word": "judging",
+      "start": 35.7,
+      "end": 36.16,
+      "prob": 0.99
+    },
+    {
+      "word": "ads",
+      "start": 36.16,
+      "end": 36.56,
+      "prob": 0.99
+    },
+    {
+      "word": "by",
+      "start": 36.56,
+      "end": 36.92,
+      "prob": 0.992
+    },
+    {
+      "word": "cost",
+      "start": 36.92,
+      "end": 37.32,
+      "prob": 0.956
+    },
+    {
+      "word": "per",
+      "start": 37.32,
+      "end": 37.54,
+      "prob": 0.979
+    },
+    {
+      "word": "click.",
+      "start": 37.54,
+      "end": 37.84,
+      "prob": 0.995
+    },
+    {
+      "word": "Judge",
+      "start": 38.46,
+      "end": 38.56,
+      "prob": 0.949
+    },
+    {
+      "word": "them",
+      "start": 38.56,
+      "end": 38.88,
+      "prob": 0.996
+    },
+    {
+      "word": "by",
+      "start": 38.88,
+      "end": 39.08,
+      "prob": 0.997
+    },
+    {
+      "word": "what",
+      "start": 39.08,
+      "end": 39.24,
+      "prob": 0.994
+    },
+    {
+      "word": "the",
+      "start": 39.24,
+      "end": 39.36,
+      "prob": 0.995
+    },
+    {
+      "word": "customers",
+      "start": 39.36,
+      "end": 39.98,
+      "prob": 0.984
+    },
+    {
+      "word": "they",
+      "start": 39.98,
+      "end": 40.58,
+      "prob": 0.939
+    },
+    {
+      "word": "bring",
+      "start": 40.58,
+      "end": 40.98,
+      "prob": 0.994
+    },
+    {
+      "word": "are",
+      "start": 40.98,
+      "end": 41.34,
+      "prob": 0.958
+    },
+    {
+      "word": "worth.",
+      "start": 41.34,
+      "end": 41.58,
+      "prob": 0.999
+    },
+    {
+      "word": "If",
+      "start": 42.08,
+      "end": 42.2,
+      "prob": 0.996
+    },
+    {
+      "word": "you",
+      "start": 42.2,
+      "end": 42.3,
+      "prob": 0.999
+    },
+    {
+      "word": "want",
+      "start": 42.3,
+      "end": 42.4,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 42.4,
+      "end": 42.5,
+      "prob": 0.955
+    },
+    {
+      "word": "simple",
+      "start": 42.5,
+      "end": 42.74,
+      "prob": 0.991
+    },
+    {
+      "word": "version",
+      "start": 42.74,
+      "end": 43.12,
+      "prob": 0.999
+    },
+    {
+      "word": "of",
+      "start": 43.12,
+      "end": 43.44,
+      "prob": 0.992
+    },
+    {
+      "word": "how",
+      "start": 43.44,
+      "end": 43.6,
+      "prob": 0.982
+    },
+    {
+      "word": "to",
+      "start": 43.6,
+      "end": 43.7,
+      "prob": 0.999
+    },
+    {
+      "word": "think",
+      "start": 43.7,
+      "end": 43.88,
+      "prob": 0.999
+    },
+    {
+      "word": "about",
+      "start": 43.88,
+      "end": 44.1,
+      "prob": 0.998
+    },
+    {
+      "word": "this,",
+      "start": 44.1,
+      "end": 44.34,
+      "prob": 0.998
+    },
+    {
+      "word": "comment",
+      "start": 44.52,
+      "end": 44.62,
+      "prob": 0.989
+    },
+    {
+      "word": "value",
+      "start": 44.62,
+      "end": 45.02,
+      "prob": 0.565
+    },
+    {
+      "word": "and",
+      "start": 45.02,
+      "end": 45.32,
+      "prob": 0.608
+    },
+    {
+      "word": "I'll",
+      "start": 45.32,
+      "end": 45.44,
+      "prob": 0.99
+    },
+    {
+      "word": "send",
+      "start": 45.44,
+      "end": 45.62,
+      "prob": 0.998
+    },
+    {
+      "word": "it",
+      "start": 45.62,
+      "end": 45.76,
+      "prob": 0.997
+    },
+    {
+      "word": "to",
+      "start": 45.76,
+      "end": 45.9,
+      "prob": 0.996
+    },
+    {
+      "word": "you.",
+      "start": 45.9,
+      "end": 46.0,
+      "prob": 0.998
+    }
+  ]
+}

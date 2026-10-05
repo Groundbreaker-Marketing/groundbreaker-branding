@@ -1,0 +1,730 @@
+{
+  "source": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-05-day-hooks/01_footage/zoom-152806-mp4.mp4",
+  "start": 0.0,
+  "end": 51.499,
+  "duration": 51.499,
+  "language": "en",
+  "text": "Raise your prices a little on your septic services. Your customers won't even feel it, but your margin will. I met with a client today whose investors gave them a list of changes. One of them was raising prices. They walked me through the list and I told them honestly they were good changes, especially the price increase. A small increase barely registers with the company. Over a year it becomes a cushion that carries you through the surprises. We all know what happens. Margin isn't greed. It's how you get through the month the truck breaks down. If you've been putting off price increase, you're not crazy for being nervous, but it's probably the first thing I look at.",
+  "words": [
+    {
+      "word": "Raise",
+      "start": 6.51,
+      "end": 7.25,
+      "prob": 0.521
+    },
+    {
+      "word": "your",
+      "start": 7.25,
+      "end": 7.69,
+      "prob": 0.978
+    },
+    {
+      "word": "prices",
+      "start": 7.69,
+      "end": 8.09,
+      "prob": 0.981
+    },
+    {
+      "word": "a",
+      "start": 8.09,
+      "end": 8.51,
+      "prob": 0.98
+    },
+    {
+      "word": "little",
+      "start": 8.51,
+      "end": 8.69,
+      "prob": 0.998
+    },
+    {
+      "word": "on",
+      "start": 8.69,
+      "end": 9.01,
+      "prob": 0.992
+    },
+    {
+      "word": "your",
+      "start": 9.01,
+      "end": 9.13,
+      "prob": 0.993
+    },
+    {
+      "word": "septic",
+      "start": 9.13,
+      "end": 9.51,
+      "prob": 0.8
+    },
+    {
+      "word": "services.",
+      "start": 9.51,
+      "end": 9.95,
+      "prob": 0.99
+    },
+    {
+      "word": "Your",
+      "start": 10.17,
+      "end": 10.25,
+      "prob": 0.977
+    },
+    {
+      "word": "customers",
+      "start": 10.25,
+      "end": 10.71,
+      "prob": 0.995
+    },
+    {
+      "word": "won't",
+      "start": 10.71,
+      "end": 11.11,
+      "prob": 0.996
+    },
+    {
+      "word": "even",
+      "start": 11.11,
+      "end": 11.39,
+      "prob": 0.992
+    },
+    {
+      "word": "feel",
+      "start": 11.39,
+      "end": 11.75,
+      "prob": 0.997
+    },
+    {
+      "word": "it,",
+      "start": 11.75,
+      "end": 11.99,
+      "prob": 0.998
+    },
+    {
+      "word": "but",
+      "start": 12.07,
+      "end": 12.25,
+      "prob": 0.998
+    },
+    {
+      "word": "your",
+      "start": 12.25,
+      "end": 12.39,
+      "prob": 0.994
+    },
+    {
+      "word": "margin",
+      "start": 12.39,
+      "end": 12.77,
+      "prob": 0.994
+    },
+    {
+      "word": "will.",
+      "start": 12.77,
+      "end": 13.07,
+      "prob": 0.997
+    },
+    {
+      "word": "I",
+      "start": 13.67,
+      "end": 13.85,
+      "prob": 0.993
+    },
+    {
+      "word": "met",
+      "start": 13.85,
+      "end": 13.97,
+      "prob": 0.997
+    },
+    {
+      "word": "with",
+      "start": 13.97,
+      "end": 14.11,
+      "prob": 0.996
+    },
+    {
+      "word": "a",
+      "start": 14.11,
+      "end": 14.21,
+      "prob": 0.98
+    },
+    {
+      "word": "client",
+      "start": 14.21,
+      "end": 14.41,
+      "prob": 0.998
+    },
+    {
+      "word": "today",
+      "start": 14.41,
+      "end": 14.71,
+      "prob": 0.995
+    },
+    {
+      "word": "whose",
+      "start": 14.71,
+      "end": 14.93,
+      "prob": 0.789
+    },
+    {
+      "word": "investors",
+      "start": 14.93,
+      "end": 15.51,
+      "prob": 0.994
+    },
+    {
+      "word": "gave",
+      "start": 15.51,
+      "end": 15.83,
+      "prob": 0.992
+    },
+    {
+      "word": "them",
+      "start": 15.83,
+      "end": 16.05,
+      "prob": 0.995
+    },
+    {
+      "word": "a",
+      "start": 16.05,
+      "end": 16.19,
+      "prob": 0.998
+    },
+    {
+      "word": "list",
+      "start": 16.19,
+      "end": 16.37,
+      "prob": 0.999
+    },
+    {
+      "word": "of",
+      "start": 16.37,
+      "end": 16.55,
+      "prob": 1.0
+    },
+    {
+      "word": "changes.",
+      "start": 16.55,
+      "end": 16.93,
+      "prob": 0.998
+    },
+    {
+      "word": "One",
+      "start": 17.29,
+      "end": 17.43,
+      "prob": 0.994
+    },
+    {
+      "word": "of",
+      "start": 17.43,
+      "end": 17.55,
+      "prob": 0.999
+    },
+    {
+      "word": "them",
+      "start": 17.55,
+      "end": 17.69,
+      "prob": 0.999
+    },
+    {
+      "word": "was",
+      "start": 17.69,
+      "end": 17.91,
+      "prob": 0.996
+    },
+    {
+      "word": "raising",
+      "start": 17.91,
+      "end": 18.29,
+      "prob": 0.988
+    },
+    {
+      "word": "prices.",
+      "start": 18.29,
+      "end": 18.75,
+      "prob": 0.998
+    },
+    {
+      "word": "They",
+      "start": 19.27,
+      "end": 19.45,
+      "prob": 0.996
+    },
+    {
+      "word": "walked",
+      "start": 19.45,
+      "end": 19.67,
+      "prob": 0.769
+    },
+    {
+      "word": "me",
+      "start": 19.67,
+      "end": 19.89,
+      "prob": 0.998
+    },
+    {
+      "word": "through",
+      "start": 19.89,
+      "end": 20.01,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 20.01,
+      "end": 20.15,
+      "prob": 0.998
+    },
+    {
+      "word": "list",
+      "start": 20.15,
+      "end": 20.51,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 20.51,
+      "end": 20.95,
+      "prob": 0.683
+    },
+    {
+      "word": "I",
+      "start": 20.95,
+      "end": 21.13,
+      "prob": 0.995
+    },
+    {
+      "word": "told",
+      "start": 21.13,
+      "end": 21.31,
+      "prob": 0.999
+    },
+    {
+      "word": "them",
+      "start": 21.31,
+      "end": 21.51,
+      "prob": 0.998
+    },
+    {
+      "word": "honestly",
+      "start": 21.51,
+      "end": 21.91,
+      "prob": 0.66
+    },
+    {
+      "word": "they",
+      "start": 21.91,
+      "end": 22.11,
+      "prob": 0.64
+    },
+    {
+      "word": "were",
+      "start": 22.11,
+      "end": 22.23,
+      "prob": 0.994
+    },
+    {
+      "word": "good",
+      "start": 22.23,
+      "end": 22.55,
+      "prob": 0.989
+    },
+    {
+      "word": "changes,",
+      "start": 22.55,
+      "end": 23.67,
+      "prob": 0.602
+    },
+    {
+      "word": "especially",
+      "start": 24.05,
+      "end": 24.29,
+      "prob": 0.993
+    },
+    {
+      "word": "the",
+      "start": 24.29,
+      "end": 24.61,
+      "prob": 0.959
+    },
+    {
+      "word": "price",
+      "start": 24.61,
+      "end": 25.05,
+      "prob": 0.999
+    },
+    {
+      "word": "increase.",
+      "start": 25.05,
+      "end": 25.47,
+      "prob": 0.981
+    },
+    {
+      "word": "A",
+      "start": 26.11,
+      "end": 26.35,
+      "prob": 0.994
+    },
+    {
+      "word": "small",
+      "start": 26.35,
+      "end": 26.67,
+      "prob": 0.999
+    },
+    {
+      "word": "increase",
+      "start": 26.67,
+      "end": 27.09,
+      "prob": 0.977
+    },
+    {
+      "word": "barely",
+      "start": 27.09,
+      "end": 27.63,
+      "prob": 0.988
+    },
+    {
+      "word": "registers",
+      "start": 27.63,
+      "end": 28.21,
+      "prob": 0.998
+    },
+    {
+      "word": "with",
+      "start": 28.21,
+      "end": 28.55,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 28.55,
+      "end": 28.67,
+      "prob": 0.822
+    },
+    {
+      "word": "company.",
+      "start": 28.67,
+      "end": 29.01,
+      "prob": 1.0
+    },
+    {
+      "word": "Over",
+      "start": 29.53,
+      "end": 29.85,
+      "prob": 0.997
+    },
+    {
+      "word": "a",
+      "start": 29.85,
+      "end": 30.07,
+      "prob": 0.993
+    },
+    {
+      "word": "year",
+      "start": 30.07,
+      "end": 30.21,
+      "prob": 0.999
+    },
+    {
+      "word": "it",
+      "start": 30.21,
+      "end": 30.37,
+      "prob": 0.641
+    },
+    {
+      "word": "becomes",
+      "start": 30.37,
+      "end": 30.69,
+      "prob": 0.997
+    },
+    {
+      "word": "a",
+      "start": 30.69,
+      "end": 30.99,
+      "prob": 0.996
+    },
+    {
+      "word": "cushion",
+      "start": 30.99,
+      "end": 31.33,
+      "prob": 0.999
+    },
+    {
+      "word": "that",
+      "start": 31.33,
+      "end": 31.55,
+      "prob": 0.999
+    },
+    {
+      "word": "carries",
+      "start": 31.55,
+      "end": 31.91,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 31.91,
+      "end": 32.11,
+      "prob": 0.998
+    },
+    {
+      "word": "through",
+      "start": 32.11,
+      "end": 32.31,
+      "prob": 0.998
+    },
+    {
+      "word": "the",
+      "start": 32.31,
+      "end": 32.49,
+      "prob": 0.981
+    },
+    {
+      "word": "surprises.",
+      "start": 32.49,
+      "end": 32.93,
+      "prob": 0.985
+    },
+    {
+      "word": "We",
+      "start": 33.09,
+      "end": 33.15,
+      "prob": 0.995
+    },
+    {
+      "word": "all",
+      "start": 33.15,
+      "end": 33.31,
+      "prob": 0.999
+    },
+    {
+      "word": "know",
+      "start": 33.31,
+      "end": 33.41,
+      "prob": 0.999
+    },
+    {
+      "word": "what",
+      "start": 33.41,
+      "end": 33.51,
+      "prob": 0.801
+    },
+    {
+      "word": "happens.",
+      "start": 33.51,
+      "end": 33.85,
+      "prob": 0.998
+    },
+    {
+      "word": "Margin",
+      "start": 34.57,
+      "end": 35.01,
+      "prob": 0.667
+    },
+    {
+      "word": "isn't",
+      "start": 35.01,
+      "end": 35.45,
+      "prob": 0.985
+    },
+    {
+      "word": "greed.",
+      "start": 35.45,
+      "end": 35.83,
+      "prob": 0.855
+    },
+    {
+      "word": "It's",
+      "start": 36.13,
+      "end": 36.27,
+      "prob": 0.995
+    },
+    {
+      "word": "how",
+      "start": 36.27,
+      "end": 36.45,
+      "prob": 0.999
+    },
+    {
+      "word": "you",
+      "start": 36.45,
+      "end": 36.63,
+      "prob": 0.999
+    },
+    {
+      "word": "get",
+      "start": 36.63,
+      "end": 36.81,
+      "prob": 0.999
+    },
+    {
+      "word": "through",
+      "start": 36.81,
+      "end": 37.03,
+      "prob": 0.995
+    },
+    {
+      "word": "the",
+      "start": 37.03,
+      "end": 37.21,
+      "prob": 0.999
+    },
+    {
+      "word": "month",
+      "start": 37.21,
+      "end": 37.57,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 37.57,
+      "end": 38.03,
+      "prob": 0.797
+    },
+    {
+      "word": "truck",
+      "start": 38.03,
+      "end": 38.33,
+      "prob": 0.996
+    },
+    {
+      "word": "breaks",
+      "start": 38.33,
+      "end": 38.67,
+      "prob": 0.96
+    },
+    {
+      "word": "down.",
+      "start": 38.67,
+      "end": 38.93,
+      "prob": 0.999
+    },
+    {
+      "word": "If",
+      "start": 39.33,
+      "end": 39.61,
+      "prob": 0.991
+    },
+    {
+      "word": "you've",
+      "start": 39.61,
+      "end": 39.81,
+      "prob": 0.998
+    },
+    {
+      "word": "been",
+      "start": 39.81,
+      "end": 39.93,
+      "prob": 0.999
+    },
+    {
+      "word": "putting",
+      "start": 39.93,
+      "end": 40.13,
+      "prob": 0.995
+    },
+    {
+      "word": "off",
+      "start": 40.13,
+      "end": 40.49,
+      "prob": 0.997
+    },
+    {
+      "word": "price",
+      "start": 40.49,
+      "end": 40.85,
+      "prob": 0.992
+    },
+    {
+      "word": "increase,",
+      "start": 40.85,
+      "end": 41.33,
+      "prob": 0.971
+    },
+    {
+      "word": "you're",
+      "start": 41.49,
+      "end": 41.69,
+      "prob": 0.998
+    },
+    {
+      "word": "not",
+      "start": 41.69,
+      "end": 41.91,
+      "prob": 1.0
+    },
+    {
+      "word": "crazy",
+      "start": 41.91,
+      "end": 42.33,
+      "prob": 0.999
+    },
+    {
+      "word": "for",
+      "start": 42.33,
+      "end": 42.55,
+      "prob": 0.999
+    },
+    {
+      "word": "being",
+      "start": 42.55,
+      "end": 42.75,
+      "prob": 0.998
+    },
+    {
+      "word": "nervous,",
+      "start": 42.75,
+      "end": 43.09,
+      "prob": 1.0
+    },
+    {
+      "word": "but",
+      "start": 43.21,
+      "end": 43.37,
+      "prob": 0.999
+    },
+    {
+      "word": "it's",
+      "start": 43.37,
+      "end": 43.57,
+      "prob": 0.999
+    },
+    {
+      "word": "probably",
+      "start": 43.57,
+      "end": 43.87,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 43.87,
+      "end": 44.05,
+      "prob": 1.0
+    },
+    {
+      "word": "first",
+      "start": 44.05,
+      "end": 44.25,
+      "prob": 0.999
+    },
+    {
+      "word": "thing",
+      "start": 44.25,
+      "end": 44.45,
+      "prob": 0.999
+    },
+    {
+      "word": "I",
+      "start": 44.45,
+      "end": 44.57,
+      "prob": 0.993
+    },
+    {
+      "word": "look",
+      "start": 44.57,
+      "end": 44.73,
+      "prob": 0.903
+    },
+    {
+      "word": "at.",
+      "start": 44.73,
+      "end": 44.93,
+      "prob": 0.988
+    }
+  ]
+}

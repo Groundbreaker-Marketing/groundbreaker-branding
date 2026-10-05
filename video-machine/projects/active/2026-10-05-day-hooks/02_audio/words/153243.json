@@ -1,0 +1,778 @@
+{
+  "source": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-05-day-hooks/01_footage/zoom-153243-mp4.mp4",
+  "start": 0.0,
+  "end": 46.016,
+  "duration": 46.016,
+  "language": "en",
+  "text": "A new website is supposed to be exciting, but my septic client was nervous and they had a point. A septic company we work with is getting ready for a new website. They told me what worried them about the switch, so I walk them through every step we take on launch day. Most of those steps we actually learned the hard way. Launch day is when the leads can quietly disappear through a form that looks fine, but actually sends nowhere. A good looking site is the easy part, making sure every lead still reaches your job is the real work. If you're switching websites, ask your designer how they'll prove your form works on day one. If they don't have an answer, send me a message.",
+  "words": [
+    {
+      "word": "A",
+      "start": 2.03,
+      "end": 2.49,
+      "prob": 0.771
+    },
+    {
+      "word": "new",
+      "start": 2.49,
+      "end": 2.77,
+      "prob": 0.983
+    },
+    {
+      "word": "website",
+      "start": 2.77,
+      "end": 3.27,
+      "prob": 0.979
+    },
+    {
+      "word": "is",
+      "start": 3.27,
+      "end": 3.65,
+      "prob": 0.963
+    },
+    {
+      "word": "supposed",
+      "start": 3.65,
+      "end": 3.89,
+      "prob": 0.973
+    },
+    {
+      "word": "to",
+      "start": 3.89,
+      "end": 4.13,
+      "prob": 0.999
+    },
+    {
+      "word": "be",
+      "start": 4.13,
+      "end": 4.25,
+      "prob": 0.999
+    },
+    {
+      "word": "exciting,",
+      "start": 4.25,
+      "end": 4.71,
+      "prob": 0.993
+    },
+    {
+      "word": "but",
+      "start": 4.91,
+      "end": 5.11,
+      "prob": 0.994
+    },
+    {
+      "word": "my",
+      "start": 5.11,
+      "end": 5.29,
+      "prob": 0.996
+    },
+    {
+      "word": "septic",
+      "start": 5.29,
+      "end": 5.79,
+      "prob": 0.879
+    },
+    {
+      "word": "client",
+      "start": 5.79,
+      "end": 6.21,
+      "prob": 0.995
+    },
+    {
+      "word": "was",
+      "start": 6.21,
+      "end": 6.53,
+      "prob": 0.994
+    },
+    {
+      "word": "nervous",
+      "start": 6.53,
+      "end": 7.01,
+      "prob": 0.992
+    },
+    {
+      "word": "and",
+      "start": 7.01,
+      "end": 7.41,
+      "prob": 0.85
+    },
+    {
+      "word": "they",
+      "start": 7.41,
+      "end": 7.55,
+      "prob": 0.953
+    },
+    {
+      "word": "had",
+      "start": 7.55,
+      "end": 7.75,
+      "prob": 0.993
+    },
+    {
+      "word": "a",
+      "start": 7.75,
+      "end": 7.87,
+      "prob": 0.991
+    },
+    {
+      "word": "point.",
+      "start": 7.87,
+      "end": 8.09,
+      "prob": 0.998
+    },
+    {
+      "word": "A",
+      "start": 8.65,
+      "end": 8.81,
+      "prob": 0.968
+    },
+    {
+      "word": "septic",
+      "start": 8.81,
+      "end": 9.19,
+      "prob": 0.987
+    },
+    {
+      "word": "company",
+      "start": 9.19,
+      "end": 9.49,
+      "prob": 0.998
+    },
+    {
+      "word": "we",
+      "start": 9.49,
+      "end": 9.69,
+      "prob": 0.988
+    },
+    {
+      "word": "work",
+      "start": 9.69,
+      "end": 9.87,
+      "prob": 0.981
+    },
+    {
+      "word": "with",
+      "start": 9.87,
+      "end": 10.07,
+      "prob": 0.998
+    },
+    {
+      "word": "is",
+      "start": 10.07,
+      "end": 10.21,
+      "prob": 0.991
+    },
+    {
+      "word": "getting",
+      "start": 10.21,
+      "end": 10.39,
+      "prob": 0.998
+    },
+    {
+      "word": "ready",
+      "start": 10.39,
+      "end": 10.67,
+      "prob": 0.999
+    },
+    {
+      "word": "for",
+      "start": 10.67,
+      "end": 10.89,
+      "prob": 0.998
+    },
+    {
+      "word": "a",
+      "start": 10.89,
+      "end": 11.01,
+      "prob": 0.996
+    },
+    {
+      "word": "new",
+      "start": 11.01,
+      "end": 11.11,
+      "prob": 0.999
+    },
+    {
+      "word": "website.",
+      "start": 11.11,
+      "end": 11.59,
+      "prob": 0.987
+    },
+    {
+      "word": "They",
+      "start": 12.09,
+      "end": 12.31,
+      "prob": 0.993
+    },
+    {
+      "word": "told",
+      "start": 12.31,
+      "end": 12.61,
+      "prob": 0.998
+    },
+    {
+      "word": "me",
+      "start": 12.61,
+      "end": 12.81,
+      "prob": 0.999
+    },
+    {
+      "word": "what",
+      "start": 12.81,
+      "end": 13.01,
+      "prob": 0.994
+    },
+    {
+      "word": "worried",
+      "start": 13.01,
+      "end": 13.29,
+      "prob": 0.995
+    },
+    {
+      "word": "them",
+      "start": 13.29,
+      "end": 13.47,
+      "prob": 0.998
+    },
+    {
+      "word": "about",
+      "start": 13.47,
+      "end": 13.71,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 13.71,
+      "end": 13.91,
+      "prob": 0.996
+    },
+    {
+      "word": "switch,",
+      "start": 13.91,
+      "end": 14.27,
+      "prob": 0.881
+    },
+    {
+      "word": "so",
+      "start": 14.45,
+      "end": 14.65,
+      "prob": 0.994
+    },
+    {
+      "word": "I",
+      "start": 14.65,
+      "end": 14.85,
+      "prob": 0.995
+    },
+    {
+      "word": "walk",
+      "start": 14.85,
+      "end": 15.17,
+      "prob": 0.625
+    },
+    {
+      "word": "them",
+      "start": 15.17,
+      "end": 15.41,
+      "prob": 0.997
+    },
+    {
+      "word": "through",
+      "start": 15.41,
+      "end": 15.63,
+      "prob": 0.997
+    },
+    {
+      "word": "every",
+      "start": 15.63,
+      "end": 16.19,
+      "prob": 0.996
+    },
+    {
+      "word": "step",
+      "start": 16.19,
+      "end": 16.45,
+      "prob": 0.999
+    },
+    {
+      "word": "we",
+      "start": 16.45,
+      "end": 16.61,
+      "prob": 0.995
+    },
+    {
+      "word": "take",
+      "start": 16.61,
+      "end": 16.77,
+      "prob": 0.999
+    },
+    {
+      "word": "on",
+      "start": 16.77,
+      "end": 17.01,
+      "prob": 0.997
+    },
+    {
+      "word": "launch",
+      "start": 17.01,
+      "end": 17.31,
+      "prob": 0.963
+    },
+    {
+      "word": "day.",
+      "start": 17.31,
+      "end": 17.53,
+      "prob": 0.986
+    },
+    {
+      "word": "Most",
+      "start": 17.99,
+      "end": 18.21,
+      "prob": 0.994
+    },
+    {
+      "word": "of",
+      "start": 18.21,
+      "end": 18.41,
+      "prob": 0.999
+    },
+    {
+      "word": "those",
+      "start": 18.41,
+      "end": 18.55,
+      "prob": 0.844
+    },
+    {
+      "word": "steps",
+      "start": 18.55,
+      "end": 18.87,
+      "prob": 0.997
+    },
+    {
+      "word": "we",
+      "start": 18.87,
+      "end": 19.11,
+      "prob": 0.55
+    },
+    {
+      "word": "actually",
+      "start": 19.11,
+      "end": 19.41,
+      "prob": 0.976
+    },
+    {
+      "word": "learned",
+      "start": 19.41,
+      "end": 19.71,
+      "prob": 0.747
+    },
+    {
+      "word": "the",
+      "start": 19.71,
+      "end": 19.85,
+      "prob": 0.997
+    },
+    {
+      "word": "hard",
+      "start": 19.85,
+      "end": 20.05,
+      "prob": 0.998
+    },
+    {
+      "word": "way.",
+      "start": 20.05,
+      "end": 20.29,
+      "prob": 0.998
+    },
+    {
+      "word": "Launch",
+      "start": 20.95,
+      "end": 21.15,
+      "prob": 0.979
+    },
+    {
+      "word": "day",
+      "start": 21.15,
+      "end": 21.43,
+      "prob": 0.93
+    },
+    {
+      "word": "is",
+      "start": 21.43,
+      "end": 21.61,
+      "prob": 0.997
+    },
+    {
+      "word": "when",
+      "start": 21.61,
+      "end": 21.77,
+      "prob": 0.998
+    },
+    {
+      "word": "the",
+      "start": 21.77,
+      "end": 21.93,
+      "prob": 0.995
+    },
+    {
+      "word": "leads",
+      "start": 21.93,
+      "end": 22.13,
+      "prob": 0.99
+    },
+    {
+      "word": "can",
+      "start": 22.13,
+      "end": 22.37,
+      "prob": 0.998
+    },
+    {
+      "word": "quietly",
+      "start": 22.37,
+      "end": 22.97,
+      "prob": 0.991
+    },
+    {
+      "word": "disappear",
+      "start": 22.97,
+      "end": 23.79,
+      "prob": 0.996
+    },
+    {
+      "word": "through",
+      "start": 23.79,
+      "end": 24.27,
+      "prob": 0.982
+    },
+    {
+      "word": "a",
+      "start": 24.27,
+      "end": 24.45,
+      "prob": 0.996
+    },
+    {
+      "word": "form",
+      "start": 24.45,
+      "end": 24.71,
+      "prob": 0.715
+    },
+    {
+      "word": "that",
+      "start": 24.71,
+      "end": 24.87,
+      "prob": 0.998
+    },
+    {
+      "word": "looks",
+      "start": 24.87,
+      "end": 25.07,
+      "prob": 0.996
+    },
+    {
+      "word": "fine,",
+      "start": 25.07,
+      "end": 25.53,
+      "prob": 0.995
+    },
+    {
+      "word": "but",
+      "start": 25.65,
+      "end": 25.77,
+      "prob": 0.957
+    },
+    {
+      "word": "actually",
+      "start": 25.77,
+      "end": 26.17,
+      "prob": 0.964
+    },
+    {
+      "word": "sends",
+      "start": 26.17,
+      "end": 26.49,
+      "prob": 0.968
+    },
+    {
+      "word": "nowhere.",
+      "start": 26.49,
+      "end": 26.93,
+      "prob": 0.945
+    },
+    {
+      "word": "A",
+      "start": 27.59,
+      "end": 27.83,
+      "prob": 0.995
+    },
+    {
+      "word": "good",
+      "start": 27.83,
+      "end": 28.07,
+      "prob": 0.996
+    },
+    {
+      "word": "looking",
+      "start": 28.07,
+      "end": 28.23,
+      "prob": 0.63
+    },
+    {
+      "word": "site",
+      "start": 28.23,
+      "end": 28.65,
+      "prob": 0.99
+    },
+    {
+      "word": "is",
+      "start": 28.65,
+      "end": 28.93,
+      "prob": 0.995
+    },
+    {
+      "word": "the",
+      "start": 28.93,
+      "end": 29.05,
+      "prob": 0.999
+    },
+    {
+      "word": "easy",
+      "start": 29.05,
+      "end": 29.33,
+      "prob": 0.996
+    },
+    {
+      "word": "part,",
+      "start": 29.33,
+      "end": 29.61,
+      "prob": 0.999
+    },
+    {
+      "word": "making",
+      "start": 29.61,
+      "end": 29.91,
+      "prob": 0.517
+    },
+    {
+      "word": "sure",
+      "start": 29.91,
+      "end": 30.17,
+      "prob": 0.999
+    },
+    {
+      "word": "every",
+      "start": 30.17,
+      "end": 30.53,
+      "prob": 0.988
+    },
+    {
+      "word": "lead",
+      "start": 30.53,
+      "end": 30.93,
+      "prob": 0.99
+    },
+    {
+      "word": "still",
+      "start": 30.93,
+      "end": 31.21,
+      "prob": 0.957
+    },
+    {
+      "word": "reaches",
+      "start": 31.21,
+      "end": 31.55,
+      "prob": 0.998
+    },
+    {
+      "word": "your",
+      "start": 31.55,
+      "end": 31.85,
+      "prob": 0.992
+    },
+    {
+      "word": "job",
+      "start": 31.85,
+      "end": 32.25,
+      "prob": 0.998
+    },
+    {
+      "word": "is",
+      "start": 32.25,
+      "end": 32.65,
+      "prob": 0.913
+    },
+    {
+      "word": "the",
+      "start": 32.65,
+      "end": 33.19,
+      "prob": 0.974
+    },
+    {
+      "word": "real",
+      "start": 33.19,
+      "end": 33.69,
+      "prob": 0.96
+    },
+    {
+      "word": "work.",
+      "start": 33.69,
+      "end": 34.05,
+      "prob": 0.997
+    },
+    {
+      "word": "If",
+      "start": 34.75,
+      "end": 34.99,
+      "prob": 0.983
+    },
+    {
+      "word": "you're",
+      "start": 34.99,
+      "end": 35.13,
+      "prob": 0.969
+    },
+    {
+      "word": "switching",
+      "start": 35.13,
+      "end": 35.37,
+      "prob": 0.993
+    },
+    {
+      "word": "websites,",
+      "start": 35.37,
+      "end": 35.89,
+      "prob": 0.992
+    },
+    {
+      "word": "ask",
+      "start": 35.89,
+      "end": 36.37,
+      "prob": 0.997
+    },
+    {
+      "word": "your",
+      "start": 36.37,
+      "end": 36.51,
+      "prob": 0.998
+    },
+    {
+      "word": "designer",
+      "start": 36.51,
+      "end": 36.83,
+      "prob": 0.995
+    },
+    {
+      "word": "how",
+      "start": 36.83,
+      "end": 37.09,
+      "prob": 0.993
+    },
+    {
+      "word": "they'll",
+      "start": 37.09,
+      "end": 37.29,
+      "prob": 0.956
+    },
+    {
+      "word": "prove",
+      "start": 37.29,
+      "end": 37.57,
+      "prob": 0.988
+    },
+    {
+      "word": "your",
+      "start": 37.57,
+      "end": 37.85,
+      "prob": 0.985
+    },
+    {
+      "word": "form",
+      "start": 37.85,
+      "end": 38.17,
+      "prob": 0.993
+    },
+    {
+      "word": "works",
+      "start": 38.17,
+      "end": 38.51,
+      "prob": 0.996
+    },
+    {
+      "word": "on",
+      "start": 38.51,
+      "end": 38.83,
+      "prob": 0.993
+    },
+    {
+      "word": "day",
+      "start": 38.83,
+      "end": 38.99,
+      "prob": 0.912
+    },
+    {
+      "word": "one.",
+      "start": 38.99,
+      "end": 39.31,
+      "prob": 0.879
+    },
+    {
+      "word": "If",
+      "start": 39.85,
+      "end": 39.89,
+      "prob": 0.992
+    },
+    {
+      "word": "they",
+      "start": 39.89,
+      "end": 40.01,
+      "prob": 0.993
+    },
+    {
+      "word": "don't",
+      "start": 40.01,
+      "end": 40.23,
+      "prob": 0.999
+    },
+    {
+      "word": "have",
+      "start": 40.23,
+      "end": 40.35,
+      "prob": 0.999
+    },
+    {
+      "word": "an",
+      "start": 40.35,
+      "end": 40.45,
+      "prob": 0.974
+    },
+    {
+      "word": "answer,",
+      "start": 40.45,
+      "end": 40.73,
+      "prob": 1.0
+    },
+    {
+      "word": "send",
+      "start": 40.99,
+      "end": 41.23,
+      "prob": 0.994
+    },
+    {
+      "word": "me",
+      "start": 41.23,
+      "end": 41.39,
+      "prob": 0.999
+    },
+    {
+      "word": "a",
+      "start": 41.39,
+      "end": 41.47,
+      "prob": 0.999
+    },
+    {
+      "word": "message.",
+      "start": 41.47,
+      "end": 41.73,
+      "prob": 0.998
+    }
+  ]
+}

@@ -1,0 +1,1570 @@
+{
+  "source": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-05-day-hooks/01_footage/zoom-153511-mp4.mp4",
+  "start": 0.0,
+  "end": 137.664,
+  "duration": 137.664,
+  "language": "en",
+  "text": "Every septic company with a big marketing budget wants a bigger service area. We just made one smaller. Six weeks ago, our septic client trusted us with a really big Google Ads budget. Today, they told me they're buying two new pump trucks. My septic client is growing fast. My septic client is growing so fast they need two new pump trucks. Naturally, we shrink their map. Big ad budget for your septic company. Your service area might be too big, and here's why. We made one change today that sounds backwards for this busy septic company. Six weeks in, my client is buying two new pump trucks, and today we made their service area smaller. I know. Sounds backwards. Here's why. They have a big ad budget, and when you spread a big budget across a big map, your ads show up everywhere, including the far edge. The towns you don't want to send a truck to and pay for fuel for. You pay for that click and then you pay for the drive, so we pull their mapping closer. Same budget, now it all lands near home where the jobs are close and the trucks stay busy. Will it work? We're watching it closely and I'll tell you how it goes. But here's what I want you to hear. Spending more on ads doesn't mean you have to reach further. Sometimes it means aiming better. If your ads bring calls from places you don't want to drive, that's the first thing I look at. Send me a message.",
+  "words": [
+    {
+      "word": "Every",
+      "start": 2.29,
+      "end": 2.97,
+      "prob": 0.63
+    },
+    {
+      "word": "septic",
+      "start": 2.97,
+      "end": 3.45,
+      "prob": 0.846
+    },
+    {
+      "word": "company",
+      "start": 3.45,
+      "end": 3.83,
+      "prob": 0.998
+    },
+    {
+      "word": "with",
+      "start": 3.83,
+      "end": 4.13,
+      "prob": 0.989
+    },
+    {
+      "word": "a",
+      "start": 4.13,
+      "end": 4.29,
+      "prob": 0.992
+    },
+    {
+      "word": "big",
+      "start": 4.29,
+      "end": 4.51,
+      "prob": 0.991
+    },
+    {
+      "word": "marketing",
+      "start": 4.51,
+      "end": 4.95,
+      "prob": 0.996
+    },
+    {
+      "word": "budget",
+      "start": 4.95,
+      "end": 5.33,
+      "prob": 0.995
+    },
+    {
+      "word": "wants",
+      "start": 5.33,
+      "end": 5.81,
+      "prob": 0.965
+    },
+    {
+      "word": "a",
+      "start": 5.81,
+      "end": 6.11,
+      "prob": 0.995
+    },
+    {
+      "word": "bigger",
+      "start": 6.11,
+      "end": 6.37,
+      "prob": 0.999
+    },
+    {
+      "word": "service",
+      "start": 6.37,
+      "end": 6.79,
+      "prob": 0.993
+    },
+    {
+      "word": "area.",
+      "start": 6.79,
+      "end": 7.17,
+      "prob": 0.998
+    },
+    {
+      "word": "We",
+      "start": 7.69,
+      "end": 7.95,
+      "prob": 0.981
+    },
+    {
+      "word": "just",
+      "start": 7.95,
+      "end": 8.19,
+      "prob": 0.995
+    },
+    {
+      "word": "made",
+      "start": 8.19,
+      "end": 8.41,
+      "prob": 0.998
+    },
+    {
+      "word": "one",
+      "start": 8.41,
+      "end": 8.61,
+      "prob": 0.993
+    },
+    {
+      "word": "smaller.",
+      "start": 8.61,
+      "end": 9.01,
+      "prob": 0.995
+    },
+    {
+      "word": "Six",
+      "start": 16.09,
+      "end": 16.65,
+      "prob": 0.887
+    },
+    {
+      "word": "weeks",
+      "start": 16.65,
+      "end": 16.91,
+      "prob": 0.999
+    },
+    {
+      "word": "ago,",
+      "start": 16.91,
+      "end": 17.27,
+      "prob": 0.998
+    },
+    {
+      "word": "our",
+      "start": 17.49,
+      "end": 17.57,
+      "prob": 0.992
+    },
+    {
+      "word": "septic",
+      "start": 17.57,
+      "end": 17.97,
+      "prob": 0.973
+    },
+    {
+      "word": "client",
+      "start": 17.97,
+      "end": 18.27,
+      "prob": 0.99
+    },
+    {
+      "word": "trusted",
+      "start": 18.27,
+      "end": 18.61,
+      "prob": 0.753
+    },
+    {
+      "word": "us",
+      "start": 18.61,
+      "end": 18.95,
+      "prob": 0.999
+    },
+    {
+      "word": "with",
+      "start": 18.95,
+      "end": 19.13,
+      "prob": 0.998
+    },
+    {
+      "word": "a",
+      "start": 19.13,
+      "end": 19.27,
+      "prob": 0.993
+    },
+    {
+      "word": "really",
+      "start": 19.27,
+      "end": 19.53,
+      "prob": 0.996
+    },
+    {
+      "word": "big",
+      "start": 19.53,
+      "end": 19.79,
+      "prob": 0.997
+    },
+    {
+      "word": "Google",
+      "start": 19.79,
+      "end": 20.01,
+      "prob": 0.991
+    },
+    {
+      "word": "Ads",
+      "start": 20.01,
+      "end": 20.33,
+      "prob": 0.671
+    },
+    {
+      "word": "budget.",
+      "start": 20.33,
+      "end": 20.69,
+      "prob": 0.929
+    },
+    {
+      "word": "Today,",
+      "start": 21.21,
+      "end": 21.49,
+      "prob": 0.989
+    },
+    {
+      "word": "they",
+      "start": 21.63,
+      "end": 21.81,
+      "prob": 0.997
+    },
+    {
+      "word": "told",
+      "start": 21.81,
+      "end": 22.01,
+      "prob": 0.996
+    },
+    {
+      "word": "me",
+      "start": 22.01,
+      "end": 22.17,
+      "prob": 0.998
+    },
+    {
+      "word": "they're",
+      "start": 22.17,
+      "end": 22.35,
+      "prob": 0.97
+    },
+    {
+      "word": "buying",
+      "start": 22.35,
+      "end": 22.63,
+      "prob": 0.999
+    },
+    {
+      "word": "two",
+      "start": 22.63,
+      "end": 22.89,
+      "prob": 0.959
+    },
+    {
+      "word": "new",
+      "start": 22.89,
+      "end": 23.07,
+      "prob": 0.999
+    },
+    {
+      "word": "pump",
+      "start": 23.07,
+      "end": 23.29,
+      "prob": 0.876
+    },
+    {
+      "word": "trucks.",
+      "start": 23.29,
+      "end": 23.53,
+      "prob": 0.995
+    },
+    {
+      "word": "My",
+      "start": 30.63,
+      "end": 30.93,
+      "prob": 0.923
+    },
+    {
+      "word": "septic",
+      "start": 30.93,
+      "end": 31.31,
+      "prob": 0.98
+    },
+    {
+      "word": "client",
+      "start": 31.31,
+      "end": 31.65,
+      "prob": 0.994
+    },
+    {
+      "word": "is",
+      "start": 31.65,
+      "end": 31.89,
+      "prob": 0.998
+    },
+    {
+      "word": "growing",
+      "start": 31.89,
+      "end": 32.25,
+      "prob": 0.998
+    },
+    {
+      "word": "fast.",
+      "start": 32.25,
+      "end": 32.71,
+      "prob": 0.817
+    },
+    {
+      "word": "My",
+      "start": 39.67,
+      "end": 40.01,
+      "prob": 0.973
+    },
+    {
+      "word": "septic",
+      "start": 40.01,
+      "end": 40.39,
+      "prob": 0.997
+    },
+    {
+      "word": "client",
+      "start": 40.39,
+      "end": 40.65,
+      "prob": 0.995
+    },
+    {
+      "word": "is",
+      "start": 40.65,
+      "end": 40.85,
+      "prob": 0.999
+    },
+    {
+      "word": "growing",
+      "start": 40.85,
+      "end": 41.07,
+      "prob": 0.995
+    },
+    {
+      "word": "so",
+      "start": 41.07,
+      "end": 41.45,
+      "prob": 0.998
+    },
+    {
+      "word": "fast",
+      "start": 41.45,
+      "end": 41.91,
+      "prob": 1.0
+    },
+    {
+      "word": "they",
+      "start": 41.91,
+      "end": 42.21,
+      "prob": 0.404
+    },
+    {
+      "word": "need",
+      "start": 42.21,
+      "end": 42.47,
+      "prob": 0.999
+    },
+    {
+      "word": "two",
+      "start": 42.47,
+      "end": 42.73,
+      "prob": 0.979
+    },
+    {
+      "word": "new",
+      "start": 42.73,
+      "end": 42.93,
+      "prob": 0.998
+    },
+    {
+      "word": "pump",
+      "start": 42.93,
+      "end": 43.17,
+      "prob": 0.984
+    },
+    {
+      "word": "trucks.",
+      "start": 43.17,
+      "end": 43.47,
+      "prob": 0.998
+    },
+    {
+      "word": "Naturally,",
+      "start": 43.71,
+      "end": 44.27,
+      "prob": 0.996
+    },
+    {
+      "word": "we",
+      "start": 44.51,
+      "end": 44.71,
+      "prob": 0.998
+    },
+    {
+      "word": "shrink",
+      "start": 44.71,
+      "end": 45.03,
+      "prob": 0.927
+    },
+    {
+      "word": "their",
+      "start": 45.03,
+      "end": 45.35,
+      "prob": 0.996
+    },
+    {
+      "word": "map.",
+      "start": 45.35,
+      "end": 45.67,
+      "prob": 0.962
+    },
+    {
+      "word": "Big",
+      "start": 52.52,
+      "end": 52.88,
+      "prob": 0.977
+    },
+    {
+      "word": "ad",
+      "start": 52.88,
+      "end": 53.24,
+      "prob": 0.628
+    },
+    {
+      "word": "budget",
+      "start": 53.24,
+      "end": 53.58,
+      "prob": 0.986
+    },
+    {
+      "word": "for",
+      "start": 53.58,
+      "end": 53.78,
+      "prob": 0.999
+    },
+    {
+      "word": "your",
+      "start": 53.78,
+      "end": 53.88,
+      "prob": 0.994
+    },
+    {
+      "word": "septic",
+      "start": 53.88,
+      "end": 54.26,
+      "prob": 0.993
+    },
+    {
+      "word": "company.",
+      "start": 54.26,
+      "end": 54.68,
+      "prob": 0.999
+    },
+    {
+      "word": "Your",
+      "start": 54.68,
+      "end": 55.34,
+      "prob": 0.072
+    },
+    {
+      "word": "service",
+      "start": 55.34,
+      "end": 55.76,
+      "prob": 0.987
+    },
+    {
+      "word": "area",
+      "start": 55.76,
+      "end": 56.12,
+      "prob": 0.996
+    },
+    {
+      "word": "might",
+      "start": 56.12,
+      "end": 56.58,
+      "prob": 0.988
+    },
+    {
+      "word": "be",
+      "start": 56.58,
+      "end": 56.86,
+      "prob": 0.998
+    },
+    {
+      "word": "too",
+      "start": 56.86,
+      "end": 57.1,
+      "prob": 0.992
+    },
+    {
+      "word": "big,",
+      "start": 57.1,
+      "end": 57.36,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 57.44,
+      "end": 57.58,
+      "prob": 0.986
+    },
+    {
+      "word": "here's",
+      "start": 57.58,
+      "end": 57.92,
+      "prob": 0.994
+    },
+    {
+      "word": "why.",
+      "start": 57.92,
+      "end": 58.12,
+      "prob": 0.999
+    },
+    {
+      "word": "We",
+      "start": 63.58,
+      "end": 63.72,
+      "prob": 0.879
+    },
+    {
+      "word": "made",
+      "start": 63.72,
+      "end": 64.0,
+      "prob": 0.997
+    },
+    {
+      "word": "one",
+      "start": 64.0,
+      "end": 64.34,
+      "prob": 0.991
+    },
+    {
+      "word": "change",
+      "start": 64.34,
+      "end": 64.7,
+      "prob": 0.999
+    },
+    {
+      "word": "today",
+      "start": 64.7,
+      "end": 65.12,
+      "prob": 0.995
+    },
+    {
+      "word": "that",
+      "start": 65.12,
+      "end": 65.7,
+      "prob": 0.834
+    },
+    {
+      "word": "sounds",
+      "start": 65.7,
+      "end": 65.96,
+      "prob": 0.995
+    },
+    {
+      "word": "backwards",
+      "start": 65.96,
+      "end": 66.46,
+      "prob": 0.992
+    },
+    {
+      "word": "for",
+      "start": 66.46,
+      "end": 66.76,
+      "prob": 0.993
+    },
+    {
+      "word": "this",
+      "start": 66.76,
+      "end": 66.94,
+      "prob": 0.992
+    },
+    {
+      "word": "busy",
+      "start": 66.94,
+      "end": 67.3,
+      "prob": 0.996
+    },
+    {
+      "word": "septic",
+      "start": 67.3,
+      "end": 67.66,
+      "prob": 0.891
+    },
+    {
+      "word": "company.",
+      "start": 67.66,
+      "end": 68.0,
+      "prob": 0.999
+    },
+    {
+      "word": "Six",
+      "start": 74.35,
+      "end": 74.79,
+      "prob": 0.957
+    },
+    {
+      "word": "weeks",
+      "start": 74.79,
+      "end": 75.05,
+      "prob": 0.998
+    },
+    {
+      "word": "in,",
+      "start": 75.05,
+      "end": 75.37,
+      "prob": 0.99
+    },
+    {
+      "word": "my",
+      "start": 75.49,
+      "end": 75.57,
+      "prob": 0.996
+    },
+    {
+      "word": "client",
+      "start": 75.57,
+      "end": 75.83,
+      "prob": 0.997
+    },
+    {
+      "word": "is",
+      "start": 75.83,
+      "end": 76.03,
+      "prob": 0.996
+    },
+    {
+      "word": "buying",
+      "start": 76.03,
+      "end": 76.27,
+      "prob": 0.999
+    },
+    {
+      "word": "two",
+      "start": 76.27,
+      "end": 76.53,
+      "prob": 0.968
+    },
+    {
+      "word": "new",
+      "start": 76.53,
+      "end": 76.69,
+      "prob": 0.999
+    },
+    {
+      "word": "pump",
+      "start": 76.69,
+      "end": 76.91,
+      "prob": 0.946
+    },
+    {
+      "word": "trucks,",
+      "start": 76.91,
+      "end": 77.13,
+      "prob": 0.994
+    },
+    {
+      "word": "and",
+      "start": 77.39,
+      "end": 77.55,
+      "prob": 0.998
+    },
+    {
+      "word": "today",
+      "start": 77.55,
+      "end": 77.89,
+      "prob": 0.996
+    },
+    {
+      "word": "we",
+      "start": 77.89,
+      "end": 78.39,
+      "prob": 0.839
+    },
+    {
+      "word": "made",
+      "start": 78.39,
+      "end": 78.59,
+      "prob": 0.998
+    },
+    {
+      "word": "their",
+      "start": 78.59,
+      "end": 78.79,
+      "prob": 0.996
+    },
+    {
+      "word": "service",
+      "start": 78.79,
+      "end": 79.11,
+      "prob": 0.997
+    },
+    {
+      "word": "area",
+      "start": 79.11,
+      "end": 79.51,
+      "prob": 0.996
+    },
+    {
+      "word": "smaller.",
+      "start": 79.51,
+      "end": 80.01,
+      "prob": 0.997
+    },
+    {
+      "word": "I",
+      "start": 80.79,
+      "end": 81.03,
+      "prob": 0.995
+    },
+    {
+      "word": "know.",
+      "start": 81.03,
+      "end": 81.25,
+      "prob": 0.999
+    },
+    {
+      "word": "Sounds",
+      "start": 81.69,
+      "end": 81.85,
+      "prob": 0.79
+    },
+    {
+      "word": "backwards.",
+      "start": 81.85,
+      "end": 82.23,
+      "prob": 0.995
+    },
+    {
+      "word": "Here's",
+      "start": 82.57,
+      "end": 82.93,
+      "prob": 0.997
+    },
+    {
+      "word": "why.",
+      "start": 82.93,
+      "end": 83.17,
+      "prob": 0.999
+    },
+    {
+      "word": "They",
+      "start": 83.71,
+      "end": 83.89,
+      "prob": 0.994
+    },
+    {
+      "word": "have",
+      "start": 83.89,
+      "end": 84.03,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 84.03,
+      "end": 84.17,
+      "prob": 0.999
+    },
+    {
+      "word": "big",
+      "start": 84.17,
+      "end": 84.35,
+      "prob": 0.974
+    },
+    {
+      "word": "ad",
+      "start": 84.35,
+      "end": 84.69,
+      "prob": 0.943
+    },
+    {
+      "word": "budget,",
+      "start": 84.69,
+      "end": 85.05,
+      "prob": 0.99
+    },
+    {
+      "word": "and",
+      "start": 85.17,
+      "end": 85.31,
+      "prob": 0.998
+    },
+    {
+      "word": "when",
+      "start": 85.31,
+      "end": 85.43,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 85.43,
+      "end": 85.61,
+      "prob": 0.999
+    },
+    {
+      "word": "spread",
+      "start": 85.61,
+      "end": 86.03,
+      "prob": 0.997
+    },
+    {
+      "word": "a",
+      "start": 86.03,
+      "end": 86.41,
+      "prob": 0.997
+    },
+    {
+      "word": "big",
+      "start": 86.41,
+      "end": 86.63,
+      "prob": 0.993
+    },
+    {
+      "word": "budget",
+      "start": 86.63,
+      "end": 87.09,
+      "prob": 0.996
+    },
+    {
+      "word": "across",
+      "start": 87.09,
+      "end": 87.45,
+      "prob": 0.991
+    },
+    {
+      "word": "a",
+      "start": 87.45,
+      "end": 87.91,
+      "prob": 0.95
+    },
+    {
+      "word": "big",
+      "start": 87.91,
+      "end": 88.07,
+      "prob": 0.992
+    },
+    {
+      "word": "map,",
+      "start": 88.07,
+      "end": 88.37,
+      "prob": 0.989
+    },
+    {
+      "word": "your",
+      "start": 88.51,
+      "end": 88.61,
+      "prob": 0.992
+    },
+    {
+      "word": "ads",
+      "start": 88.61,
+      "end": 88.93,
+      "prob": 0.421
+    },
+    {
+      "word": "show",
+      "start": 88.93,
+      "end": 89.13,
+      "prob": 0.995
+    },
+    {
+      "word": "up",
+      "start": 89.13,
+      "end": 89.31,
+      "prob": 0.999
+    },
+    {
+      "word": "everywhere,",
+      "start": 89.31,
+      "end": 89.85,
+      "prob": 0.999
+    },
+    {
+      "word": "including",
+      "start": 90.05,
+      "end": 90.67,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 90.67,
+      "end": 91.07,
+      "prob": 0.999
+    },
+    {
+      "word": "far",
+      "start": 91.07,
+      "end": 91.33,
+      "prob": 0.857
+    },
+    {
+      "word": "edge.",
+      "start": 91.33,
+      "end": 91.67,
+      "prob": 0.969
+    },
+    {
+      "word": "The",
+      "start": 91.67,
+      "end": 92.23,
+      "prob": 0.195
+    },
+    {
+      "word": "towns",
+      "start": 92.23,
+      "end": 92.57,
+      "prob": 0.675
+    },
+    {
+      "word": "you",
+      "start": 92.57,
+      "end": 92.85,
+      "prob": 0.969
+    },
+    {
+      "word": "don't",
+      "start": 92.85,
+      "end": 93.01,
+      "prob": 0.991
+    },
+    {
+      "word": "want",
+      "start": 93.01,
+      "end": 93.13,
+      "prob": 0.935
+    },
+    {
+      "word": "to",
+      "start": 93.13,
+      "end": 93.29,
+      "prob": 0.995
+    },
+    {
+      "word": "send",
+      "start": 93.29,
+      "end": 93.41,
+      "prob": 0.992
+    },
+    {
+      "word": "a",
+      "start": 93.41,
+      "end": 93.55,
+      "prob": 0.871
+    },
+    {
+      "word": "truck",
+      "start": 93.55,
+      "end": 93.77,
+      "prob": 0.995
+    },
+    {
+      "word": "to",
+      "start": 93.77,
+      "end": 93.95,
+      "prob": 0.977
+    },
+    {
+      "word": "and",
+      "start": 93.95,
+      "end": 94.21,
+      "prob": 0.913
+    },
+    {
+      "word": "pay",
+      "start": 94.21,
+      "end": 94.47,
+      "prob": 0.994
+    },
+    {
+      "word": "for",
+      "start": 94.47,
+      "end": 94.63,
+      "prob": 0.996
+    },
+    {
+      "word": "fuel",
+      "start": 94.63,
+      "end": 94.97,
+      "prob": 0.991
+    },
+    {
+      "word": "for.",
+      "start": 94.97,
+      "end": 95.23,
+      "prob": 0.944
+    },
+    {
+      "word": "You",
+      "start": 95.77,
+      "end": 96.05,
+      "prob": 0.973
+    },
+    {
+      "word": "pay",
+      "start": 96.05,
+      "end": 96.27,
+      "prob": 0.996
+    },
+    {
+      "word": "for",
+      "start": 96.27,
+      "end": 96.39,
+      "prob": 0.997
+    },
+    {
+      "word": "that",
+      "start": 96.39,
+      "end": 96.55,
+      "prob": 0.96
+    },
+    {
+      "word": "click",
+      "start": 96.55,
+      "end": 96.79,
+      "prob": 0.886
+    },
+    {
+      "word": "and",
+      "start": 96.79,
+      "end": 97.15,
+      "prob": 0.747
+    },
+    {
+      "word": "then",
+      "start": 97.15,
+      "end": 97.29,
+      "prob": 0.981
+    },
+    {
+      "word": "you",
+      "start": 97.29,
+      "end": 97.41,
+      "prob": 0.977
+    },
+    {
+      "word": "pay",
+      "start": 97.41,
+      "end": 97.59,
+      "prob": 0.996
+    },
+    {
+      "word": "for",
+      "start": 97.59,
+      "end": 97.75,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 97.75,
+      "end": 97.85,
+      "prob": 0.996
+    },
+    {
+      "word": "drive,",
+      "start": 97.85,
+      "end": 98.19,
+      "prob": 0.99
+    },
+    {
+      "word": "so",
+      "start": 98.31,
+      "end": 98.53,
+      "prob": 0.985
+    },
+    {
+      "word": "we",
+      "start": 98.53,
+      "end": 98.71,
+      "prob": 0.995
+    },
+    {
+      "word": "pull",
+      "start": 98.71,
+      "end": 98.93,
+      "prob": 0.942
+    },
+    {
+      "word": "their",
+      "start": 98.93,
+      "end": 99.09,
+      "prob": 0.925
+    },
+    {
+      "word": "mapping",
+      "start": 99.09,
+      "end": 99.35,
+      "prob": 0.789
+    },
+    {
+      "word": "closer.",
+      "start": 99.35,
+      "end": 99.81,
+      "prob": 0.996
+    },
+    {
+      "word": "Same",
+      "start": 100.83,
+      "end": 101.05,
+      "prob": 0.962
+    },
+    {
+      "word": "budget,",
+      "start": 101.05,
+      "end": 101.43,
+      "prob": 0.981
+    },
+    {
+      "word": "now",
+      "start": 101.81,
+      "end": 102.03,
+      "prob": 0.949
+    },
+    {
+      "word": "it",
+      "start": 102.03,
+      "end": 102.19,
+      "prob": 0.673
+    },
+    {
+      "word": "all",
+      "start": 102.19,
+      "end": 102.49,
+      "prob": 0.992
+    },
+    {
+      "word": "lands",
+      "start": 102.49,
+      "end": 102.93,
+      "prob": 0.983
+    },
+    {
+      "word": "near",
+      "start": 102.93,
+      "end": 103.13,
+      "prob": 0.988
+    },
+    {
+      "word": "home",
+      "start": 103.13,
+      "end": 103.47,
+      "prob": 0.988
+    },
+    {
+      "word": "where",
+      "start": 103.47,
+      "end": 103.67,
+      "prob": 0.518
+    },
+    {
+      "word": "the",
+      "start": 103.67,
+      "end": 103.81,
+      "prob": 0.997
+    },
+    {
+      "word": "jobs",
+      "start": 103.81,
+      "end": 104.11,
+      "prob": 0.993
+    },
+    {
+      "word": "are",
+      "start": 104.11,
+      "end": 104.25,
+      "prob": 0.997
+    },
+    {
+      "word": "close",
+      "start": 104.25,
+      "end": 104.61,
+      "prob": 0.984
+    },
+    {
+      "word": "and",
+      "start": 104.61,
+      "end": 104.95,
+      "prob": 0.975
+    },
+    {
+      "word": "the",
+      "start": 104.95,
+      "end": 105.07,
+      "prob": 0.995
+    },
+    {
+      "word": "trucks",
+      "start": 105.07,
+      "end": 105.33,
+      "prob": 0.824
+    },
+    {
+      "word": "stay",
+      "start": 105.33,
+      "end": 105.59,
+      "prob": 0.983
+    },
+    {
+      "word": "busy.",
+      "start": 105.59,
+      "end": 105.91,
+      "prob": 0.999
+    },
+    {
+      "word": "Will",
+      "start": 106.69,
+      "end": 106.87,
+      "prob": 0.978
+    },
+    {
+      "word": "it",
+      "start": 106.87,
+      "end": 106.97,
+      "prob": 0.993
+    },
+    {
+      "word": "work?",
+      "start": 106.97,
+      "end": 107.17,
+      "prob": 0.999
+    },
+    {
+      "word": "We're",
+      "start": 107.77,
+      "end": 108.01,
+      "prob": 0.981
+    },
+    {
+      "word": "watching",
+      "start": 108.01,
+      "end": 108.31,
+      "prob": 0.997
+    },
+    {
+      "word": "it",
+      "start": 108.31,
+      "end": 108.51,
+      "prob": 0.997
+    },
+    {
+      "word": "closely",
+      "start": 108.51,
+      "end": 108.83,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 108.83,
+      "end": 109.11,
+      "prob": 0.904
+    },
+    {
+      "word": "I'll",
+      "start": 109.11,
+      "end": 109.21,
+      "prob": 0.987
+    },
+    {
+      "word": "tell",
+      "start": 109.21,
+      "end": 109.37,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 109.37,
+      "end": 109.49,
+      "prob": 0.998
+    },
+    {
+      "word": "how",
+      "start": 109.49,
+      "end": 109.63,
+      "prob": 0.999
+    },
+    {
+      "word": "it",
+      "start": 109.63,
+      "end": 109.77,
+      "prob": 0.998
+    },
+    {
+      "word": "goes.",
+      "start": 109.77,
+      "end": 109.91,
+      "prob": 0.999
+    },
+    {
+      "word": "But",
+      "start": 110.37,
+      "end": 110.51,
+      "prob": 0.963
+    },
+    {
+      "word": "here's",
+      "start": 110.51,
+      "end": 110.81,
+      "prob": 0.977
+    },
+    {
+      "word": "what",
+      "start": 110.81,
+      "end": 110.91,
+      "prob": 0.999
+    },
+    {
+      "word": "I",
+      "start": 110.91,
+      "end": 110.99,
+      "prob": 0.995
+    },
+    {
+      "word": "want",
+      "start": 110.99,
+      "end": 111.19,
+      "prob": 0.999
+    },
+    {
+      "word": "you",
+      "start": 111.19,
+      "end": 111.35,
+      "prob": 0.998
+    },
+    {
+      "word": "to",
+      "start": 111.35,
+      "end": 111.43,
+      "prob": 0.999
+    },
+    {
+      "word": "hear.",
+      "start": 111.43,
+      "end": 111.63,
+      "prob": 0.996
+    },
+    {
+      "word": "Spending",
+      "start": 112.05,
+      "end": 112.49,
+      "prob": 0.983
+    },
+    {
+      "word": "more",
+      "start": 112.49,
+      "end": 113.01,
+      "prob": 0.998
+    },
+    {
+      "word": "on",
+      "start": 113.01,
+      "end": 113.35,
+      "prob": 0.996
+    },
+    {
+      "word": "ads",
+      "start": 113.35,
+      "end": 113.71,
+      "prob": 0.987
+    },
+    {
+      "word": "doesn't",
+      "start": 113.71,
+      "end": 114.09,
+      "prob": 0.99
+    },
+    {
+      "word": "mean",
+      "start": 114.09,
+      "end": 114.33,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 114.33,
+      "end": 114.49,
+      "prob": 0.992
+    },
+    {
+      "word": "have",
+      "start": 114.49,
+      "end": 114.79,
+      "prob": 0.99
+    },
+    {
+      "word": "to",
+      "start": 114.79,
+      "end": 115.41,
+      "prob": 0.989
+    },
+    {
+      "word": "reach",
+      "start": 115.41,
+      "end": 115.73,
+      "prob": 0.998
+    },
+    {
+      "word": "further.",
+      "start": 115.73,
+      "end": 116.21,
+      "prob": 0.997
+    },
+    {
+      "word": "Sometimes",
+      "start": 116.35,
+      "end": 116.67,
+      "prob": 0.993
+    },
+    {
+      "word": "it",
+      "start": 116.67,
+      "end": 116.95,
+      "prob": 0.967
+    },
+    {
+      "word": "means",
+      "start": 116.95,
+      "end": 117.19,
+      "prob": 0.998
+    },
+    {
+      "word": "aiming",
+      "start": 117.19,
+      "end": 117.69,
+      "prob": 0.98
+    },
+    {
+      "word": "better.",
+      "start": 117.69,
+      "end": 118.07,
+      "prob": 0.999
+    },
+    {
+      "word": "If",
+      "start": 118.07,
+      "end": 118.73,
+      "prob": 0.682
+    },
+    {
+      "word": "your",
+      "start": 118.73,
+      "end": 118.87,
+      "prob": 0.961
+    },
+    {
+      "word": "ads",
+      "start": 118.87,
+      "end": 119.19,
+      "prob": 0.949
+    },
+    {
+      "word": "bring",
+      "start": 119.19,
+      "end": 119.61,
+      "prob": 0.988
+    },
+    {
+      "word": "calls",
+      "start": 119.61,
+      "end": 120.45,
+      "prob": 0.992
+    },
+    {
+      "word": "from",
+      "start": 120.45,
+      "end": 120.71,
+      "prob": 0.998
+    },
+    {
+      "word": "places",
+      "start": 120.71,
+      "end": 121.03,
+      "prob": 0.999
+    },
+    {
+      "word": "you",
+      "start": 121.03,
+      "end": 121.37,
+      "prob": 0.977
+    },
+    {
+      "word": "don't",
+      "start": 121.37,
+      "end": 121.55,
+      "prob": 0.998
+    },
+    {
+      "word": "want",
+      "start": 121.55,
+      "end": 121.65,
+      "prob": 0.831
+    },
+    {
+      "word": "to",
+      "start": 121.65,
+      "end": 121.73,
+      "prob": 0.998
+    },
+    {
+      "word": "drive,",
+      "start": 121.73,
+      "end": 122.01,
+      "prob": 0.995
+    },
+    {
+      "word": "that's",
+      "start": 122.13,
+      "end": 122.33,
+      "prob": 0.996
+    },
+    {
+      "word": "the",
+      "start": 122.33,
+      "end": 122.49,
+      "prob": 0.999
+    },
+    {
+      "word": "first",
+      "start": 122.49,
+      "end": 122.77,
+      "prob": 0.998
+    },
+    {
+      "word": "thing",
+      "start": 122.77,
+      "end": 122.99,
+      "prob": 0.997
+    },
+    {
+      "word": "I",
+      "start": 122.99,
+      "end": 123.11,
+      "prob": 0.991
+    },
+    {
+      "word": "look",
+      "start": 123.11,
+      "end": 123.33,
+      "prob": 0.864
+    },
+    {
+      "word": "at.",
+      "start": 123.33,
+      "end": 123.55,
+      "prob": 0.558
+    },
+    {
+      "word": "Send",
+      "start": 123.73,
+      "end": 123.93,
+      "prob": 0.972
+    },
+    {
+      "word": "me",
+      "start": 123.93,
+      "end": 124.09,
+      "prob": 0.997
+    },
+    {
+      "word": "a",
+      "start": 124.09,
+      "end": 124.15,
+      "prob": 0.997
+    },
+    {
+      "word": "message.",
+      "start": 124.15,
+      "end": 124.39,
+      "prob": 0.998
+    }
+  ]
+}
