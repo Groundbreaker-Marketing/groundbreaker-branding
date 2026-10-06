@@ -1,0 +1,140 @@
+{
+  "clip": "coupon-trick.mp4",
+  "resolution": "1080x1920",
+  "fps": 25.0,
+  "duration_s": 47.4,
+  "total_frames": 1180,
+  "verdict": "FAIL",
+  "checks": {
+    "aspect_ratio": {
+      "pass": true,
+      "ratio": "9:16",
+      "resolution": "1080x1920",
+      "issues": []
+    },
+    "crop_stability": {
+      "pass": true,
+      "seams_checked": 5,
+      "content_seams": 3,
+      "same_take_seams_gated": 0,
+      "max_seam_dy_pct": 0.05,
+      "zoom_seams": 2,
+      "zoom_moves_within_shots": 0,
+      "max_within_shot_dy_pct": 0.1,
+      "max_gateable_within_dy_pct": 0.0,
+      "max_within_shot_dx_pct": 0.48,
+      "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
+      "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
+      "within_dy_err_threshold_pct": 2.6,
+      "baseline_dy_pct": 0.002,
+      "issues": []
+    },
+    "face_tracking": {
+      "pass": true,
+      "faces_detected_pct": 100.0,
+      "avg_center_x": 0.5,
+      "issues": []
+    },
+    "framing": {
+      "pass": true,
+      "avg_face_size_pct": 1.6,
+      "max_sustained_deviation_pct": 18.8,
+      "segments": 6,
+      "issues": [],
+      "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
+    },
+    "frozen_frames": {
+      "pass": false,
+      "detected": 9,
+      "issues": [
+        {
+          "frame": 18,
+          "time_s": 0.72,
+          "frozen_span_s": 0.48,
+          "severity": "error",
+          "problem": "~0.48s frozen at 0.72s"
+        },
+        {
+          "frame": 33,
+          "time_s": 1.32,
+          "frozen_span_s": 0.36,
+          "severity": "error",
+          "problem": "~0.36s frozen at 1.32s"
+        },
+        {
+          "frame": 387,
+          "time_s": 15.48,
+          "frozen_span_s": 0.6,
+          "severity": "error",
+          "problem": "~0.6s frozen at 15.48s"
+        },
+        {
+          "frame": 579,
+          "time_s": 23.16,
+          "frozen_span_s": 0.72,
+          "severity": "error",
+          "problem": "~0.72s frozen at 23.16s"
+        },
+        {
+          "frame": 600,
+          "time_s": 24.0,
+          "frozen_span_s": 0.96,
+          "severity": "error",
+          "problem": "~0.96s frozen at 24.0s"
+        },
+        {
+          "frame": 825,
+          "time_s": 33.0,
+          "frozen_span_s": 0.36,
+          "severity": "error",
+          "problem": "~0.36s frozen at 33.0s"
+        },
+        {
+          "frame": 1026,
+          "time_s": 41.04,
+          "frozen_span_s": 0.36,
+          "severity": "error",
+          "problem": "~0.36s frozen at 41.04s"
+        },
+        {
+          "frame": 1053,
+          "time_s": 42.12,
+          "frozen_span_s": 0.48,
+          "severity": "error",
+          "problem": "~0.48s frozen at 42.12s"
+        },
+        {
+          "frame": 1083,
+          "time_s": 43.32,
+          "frozen_span_s": 0.48,
+          "severity": "error",
+          "problem": "~0.48s frozen at 43.32s"
+        }
+      ]
+    },
+    "black_frames": {
+      "pass": true,
+      "detected": 0,
+      "issues": []
+    },
+    "first_last_frame": {
+      "pass": true,
+      "issues": []
+    },
+    "jump_cuts": {
+      "pass": true,
+      "detected": 5,
+      "issues": [],
+      "note": "5 cut seams (self-detected; 5 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
+    }
+  },
+  "metadata": {
+    "segments": 6,
+    "seam_source": "self-detected",
+    "content_seams": 5,
+    "same_take_seams": 0,
+    "loose_thresholds": true,
+    "resolved_from": "none"
+  },
+  "summary": "FAIL: frozen_frames. ~0.48s frozen at 0.72s"
+}

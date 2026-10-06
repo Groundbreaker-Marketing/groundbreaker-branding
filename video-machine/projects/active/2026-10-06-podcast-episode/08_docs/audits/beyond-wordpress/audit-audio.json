@@ -1,0 +1,77 @@
+{
+  "clip": "beyond-wordpress.mp4",
+  "duration_s": 49.2,
+  "speech_level_db": -17.2,
+  "verdict": "PASS",
+  "checks": {
+    "word_clipping": {
+      "pass": true,
+      "issues": [],
+      "head_edge_db_below_speech": -4.4,
+      "tail_edge_db_below_speech": 5.6,
+      "total_words": 0,
+      "note": "no transcription available \u2014 edge measurements only"
+    },
+    "pops_clicks": {
+      "pass": true,
+      "issues": []
+    },
+    "clipping_distortion": {
+      "pass": true,
+      "railed_fraction_pct": 0.0442,
+      "railed_samples_total": 5049,
+      "peak_abs": 1.2,
+      "issues": []
+    },
+    "level_consistency": {
+      "pass": true,
+      "avg_voice_db": -18.7,
+      "range_db": 3.9,
+      "issues": []
+    },
+    "buzz_hum": {
+      "pass": true,
+      "music_declared": false,
+      "top_candidates": [
+        {
+          "freq_hz": 300.3,
+          "grid_hz": 300,
+          "prominence_db": 6.3,
+          "persistence": 0.17,
+          "below_speech_db": 14.5
+        },
+        {
+          "freq_hz": 300.3,
+          "grid_hz": 300,
+          "prominence_db": 6.3,
+          "persistence": 0.17,
+          "below_speech_db": 14.5
+        },
+        {
+          "freq_hz": 498.8,
+          "grid_hz": 500,
+          "off_grid": true,
+          "prominence_db": 5.6
+        }
+      ],
+      "issues": []
+    },
+    "clean_open_close": {
+      "pass": true,
+      "open_onset_ms": 0,
+      "close_tail_ms": 85,
+      "issues": []
+    },
+    "music_balance": {
+      "pass": true,
+      "issues": [],
+      "note": "no music bed declared"
+    }
+  },
+  "metadata": {
+    "music_declared": false,
+    "segments": 0,
+    "resolved_from": "none"
+  },
+  "summary": "All audio checks passed"
+}
