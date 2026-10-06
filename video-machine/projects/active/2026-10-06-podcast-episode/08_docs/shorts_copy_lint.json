@@ -1,0 +1,14 @@
+{
+  "ai-visibility-tracker": {
+    "fails": [],
+    "warns": []
+  },
+  "coupon-trick": {
+    "fails": [],
+    "warns": []
+  },
+  "one-fair-price": {
+    "fails": [],
+    "warns": []
+  }
+}

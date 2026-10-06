@@ -1,0 +1,84 @@
+{
+  "clip": "leads-from-chatgpt.mp4",
+  "resolution": "1080x1920",
+  "fps": 25.0,
+  "duration_s": 33.0,
+  "total_frames": 823,
+  "verdict": "FAIL",
+  "checks": {
+    "aspect_ratio": {
+      "pass": true,
+      "ratio": "9:16",
+      "resolution": "1080x1920",
+      "issues": []
+    },
+    "crop_stability": {
+      "pass": true,
+      "seams_checked": 0,
+      "content_seams": 0,
+      "same_take_seams_gated": 0,
+      "max_seam_dy_pct": 0.0,
+      "zoom_seams": 0,
+      "zoom_moves_within_shots": 0,
+      "max_within_shot_dy_pct": 0.03,
+      "max_gateable_within_dy_pct": 0.0,
+      "max_within_shot_dx_pct": 0.39,
+      "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
+      "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
+      "within_dy_err_threshold_pct": 2.6,
+      "baseline_dy_pct": 0.005,
+      "issues": []
+    },
+    "face_tracking": {
+      "pass": true,
+      "faces_detected_pct": 100.0,
+      "avg_center_x": 0.46,
+      "issues": []
+    },
+    "framing": {
+      "pass": true,
+      "avg_face_size_pct": 1.6,
+      "max_sustained_deviation_pct": 9.1,
+      "segments": 1,
+      "issues": [],
+      "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
+    },
+    "frozen_frames": {
+      "pass": false,
+      "detected": 1,
+      "issues": [
+        {
+          "frame": 21,
+          "time_s": 0.84,
+          "frozen_span_s": 0.36,
+          "severity": "error",
+          "problem": "~0.36s frozen at 0.84s"
+        }
+      ]
+    },
+    "black_frames": {
+      "pass": true,
+      "detected": 0,
+      "issues": []
+    },
+    "first_last_frame": {
+      "pass": true,
+      "issues": []
+    },
+    "jump_cuts": {
+      "pass": true,
+      "detected": 0,
+      "issues": [],
+      "note": "0 cut seams (self-detected; 0 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
+    }
+  },
+  "metadata": {
+    "segments": 1,
+    "seam_source": "self-detected",
+    "content_seams": 0,
+    "same_take_seams": 0,
+    "loose_thresholds": true,
+    "resolved_from": "none"
+  },
+  "summary": "FAIL: frozen_frames. ~0.36s frozen at 0.84s"
+}

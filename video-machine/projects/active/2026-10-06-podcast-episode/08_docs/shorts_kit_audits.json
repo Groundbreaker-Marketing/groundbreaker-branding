@@ -1,0 +1,212 @@
+{
+  "ai-visibility-tracker": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.36s frozen at 47.88s"
+    }
+  },
+  "beyond-wordpress": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.6s frozen at 13.08s"
+    }
+  },
+  "competitors-undercut": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.36s frozen at 0.24s"
+    }
+  },
+  "coupon-trick": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.48s frozen at 0.72s"
+    }
+  },
+  "do-what-google-wants": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "google-ai-calls": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "honest-companies-win": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.36s frozen at 7.08s"
+    }
+  },
+  "install-prices": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.48s frozen at 0.84s"
+    }
+  },
+  "leads-from-chatgpt": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.36s frozen at 0.84s"
+    }
+  },
+  "number-one-lever": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "one-fair-price": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.6s frozen at 39.48s"
+    }
+  },
+  "post-variable-prices": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.36s frozen at 1.68s"
+    }
+  },
+  "price-by-distance": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.48s frozen at 44.88s"
+    }
+  },
+  "record-every-call": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "what-google-rewards": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "FAIL",
+      "summary": "FAIL: frozen_frames. ~0.48s frozen at 6.24s"
+    }
+  }
+}

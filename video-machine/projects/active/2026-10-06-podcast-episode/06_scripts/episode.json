@@ -1,0 +1,230 @@
+{
+ "_how": "Recipe for podcast.episode (video-machine). Part 144311 (3:48) was a false start; the episode is the full retake in 144723. keep = inclusive word-index ranges of 02_audio/words/<take>.json in play order; drop = word ranges cut inside keep (false starts, stammered repeats); fillers (um/uh) drop automatically; fixes = word index -> caption text.",
+ "slug": "publish-your-prices",
+ "title": "Should Septic Companies Publish Their Prices Online?",
+ "takes": {
+  "144311": {
+   "source": "01_footage/zoom-144311.mp4",
+   "words": "02_audio/words/144311.json"
+  },
+  "144723": {
+   "source": "01_footage/zoom-144723.mp4",
+   "words": "02_audio/words/144723.json"
+  }
+ },
+ "keep": [
+  [
+   0,
+   4677,
+   "144723"
+  ]
+ ],
+ "drop": {
+  "144723": [
+   [
+    829,
+    833
+   ],
+   [
+    1184,
+    1194
+   ],
+   [
+    1311,
+    1320
+   ],
+   [
+    2905,
+    2906
+   ],
+   [
+    4104,
+    4104
+   ],
+   [
+    4116,
+    4117
+   ],
+   [
+    289,
+    289
+   ],
+   [
+    294,
+    294
+   ],
+   [
+    341,
+    341
+   ],
+   [
+    397,
+    397
+   ],
+   [
+    488,
+    488
+   ],
+   [
+    653,
+    653
+   ],
+   [
+    1449,
+    1449
+   ],
+   [
+    1531,
+    1531
+   ],
+   [
+    1879,
+    1879
+   ],
+   [
+    1884,
+    1884
+   ],
+   [
+    1947,
+    1947
+   ],
+   [
+    2005,
+    2005
+   ],
+   [
+    2190,
+    2190
+   ],
+   [
+    2252,
+    2252
+   ],
+   [
+    2849,
+    2849
+   ],
+   [
+    3093,
+    3093
+   ],
+   [
+    3247,
+    3247
+   ],
+   [
+    3495,
+    3495
+   ],
+   [
+    3603,
+    3603
+   ],
+   [
+    3972,
+    3972
+   ],
+   [
+    4050,
+    4050
+   ],
+   [
+    4627,
+    4627
+   ]
+  ]
+ },
+ "fixes": {
+  "144723": {
+   "34": "WEQ",
+   "4516": "WEQ",
+   "1590": "mother-in-law",
+   "1591": "",
+   "1592": ""
+  }
+ },
+ "fillers": true,
+ "pause": {
+  "max_gap": 0.75,
+  "pre": 0.15,
+  "post": 0.32
+ },
+ "lower_third": {
+  "name": "Ashley Christian",
+  "org": "Groundbreaker Marketing",
+  "cover": [
+   0,
+   326,
+   134,
+   34
+  ]
+ },
+ "chapters": [
+  [
+   0,
+   "144723",
+   "600 client questions in 30 days"
+  ],
+  [
+   404,
+   "144723",
+   "Why we record every client conversation"
+  ],
+  [
+   744,
+   "144723",
+   "Question 1: why publish your prices?"
+  ],
+  [
+   1076,
+   "144723",
+   "Tracking leads from ChatGPT and Gemini"
+  ],
+  [
+   1466,
+   "144723",
+   "Will competitors undercut me?"
+  ],
+  [
+   1730,
+   "144723",
+   "The $500 coupon competitor"
+  ],
+  [
+   2033,
+   "144723",
+   "What customers want: no haggling"
+  ],
+  [
+   2551,
+   "144723",
+   "Google's AI now calls you for a quote"
+  ],
+  [
+   2955,
+   "144723",
+   "What if my prices vary by distance?"
+  ],
+  [
+   3170,
+   "144723",
+   "How to post ranges, tiers and starting prices"
+  ],
+  [
+   3527,
+   "144723",
+   "Why we build on Astro instead of WordPress"
+  ],
+  [
+   3989,
+   "144723",
+   "Pricing calculators"
+  ],
+  [
+   4149,
+   "144723",
+   "Wrapping up"
+  ]
+ ]
+}

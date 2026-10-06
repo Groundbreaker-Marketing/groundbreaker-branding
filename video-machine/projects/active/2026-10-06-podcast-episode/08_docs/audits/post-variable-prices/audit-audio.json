@@ -1,0 +1,76 @@
+{
+  "clip": "post-variable-prices.mp4",
+  "duration_s": 48.4,
+  "speech_level_db": -17.0,
+  "verdict": "PASS",
+  "checks": {
+    "word_clipping": {
+      "pass": true,
+      "issues": [],
+      "head_edge_db_below_speech": -0.5,
+      "tail_edge_db_below_speech": 24.1,
+      "total_words": 0,
+      "note": "no transcription available \u2014 edge measurements only"
+    },
+    "pops_clicks": {
+      "pass": true,
+      "issues": []
+    },
+    "clipping_distortion": {
+      "pass": true,
+      "railed_fraction_pct": 0.0146,
+      "railed_samples_total": 4410,
+      "peak_abs": 1.195,
+      "issues": []
+    },
+    "level_consistency": {
+      "pass": true,
+      "avg_voice_db": -18.5,
+      "range_db": 2.7,
+      "issues": []
+    },
+    "buzz_hum": {
+      "pass": true,
+      "music_declared": false,
+      "top_candidates": [
+        {
+          "freq_hz": 501.0,
+          "grid_hz": 500,
+          "off_grid": true,
+          "prominence_db": 6.0
+        },
+        {
+          "freq_hz": 549.3,
+          "grid_hz": 550,
+          "prominence_db": 4.9,
+          "persistence": 0.42,
+          "below_speech_db": 17.7
+        },
+        {
+          "freq_hz": 301.0,
+          "grid_hz": 300,
+          "off_grid": true,
+          "prominence_db": 4.8
+        }
+      ],
+      "issues": []
+    },
+    "clean_open_close": {
+      "pass": true,
+      "open_onset_ms": 0,
+      "close_tail_ms": 215,
+      "issues": []
+    },
+    "music_balance": {
+      "pass": true,
+      "issues": [],
+      "note": "no music bed declared"
+    }
+  },
+  "metadata": {
+    "music_declared": false,
+    "segments": 0,
+    "resolved_from": "none"
+  },
+  "summary": "All audio checks passed"
+}
