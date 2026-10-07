@@ -1,6 +1,6 @@
 {
   "clip": "do-what-google-wants.mp4",
-  "duration_s": 39.8,
+  "duration_s": 43.6,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "%) = | ao \u00ae % : MI - . / seri . aan Ashl",
-          "problem": "line long (78 chars)",
+          "text": "A 3 od y \\ * toe se .o Lay a \u00a5 % / Ashle",
+          "problem": "line long (79 chars)",
           "severity": "warn"
         }
       ]

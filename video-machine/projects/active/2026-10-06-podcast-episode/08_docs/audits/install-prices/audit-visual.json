@@ -2,8 +2,8 @@
   "clip": "install-prices.mp4",
   "resolution": "1080x1920",
   "fps": 25.0,
-  "duration_s": 31.7,
-  "total_frames": 789,
+  "duration_s": 39.1,
+  "total_frames": 976,
   "verdict": "FAIL",
   "checks": {
     "aspect_ratio": {
@@ -20,9 +20,9 @@
       "max_seam_dy_pct": 0.0,
       "zoom_seams": 0,
       "zoom_moves_within_shots": 0,
-      "max_within_shot_dy_pct": 0.09,
+      "max_within_shot_dy_pct": 0.27,
       "max_gateable_within_dy_pct": 0.0,
-      "max_within_shot_dx_pct": 1.48,
+      "max_within_shot_dx_pct": 0.49,
       "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
       "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
       "within_dy_err_threshold_pct": 2.6,
@@ -38,14 +38,14 @@
     "framing": {
       "pass": true,
       "avg_face_size_pct": 1.5,
-      "max_sustained_deviation_pct": 13.4,
+      "max_sustained_deviation_pct": 14.0,
       "segments": 1,
       "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
     },
     "frozen_frames": {
       "pass": false,
-      "detected": 7,
+      "detected": 11,
       "issues": [
         {
           "frame": 21,
@@ -55,46 +55,67 @@
           "problem": "~0.48s frozen at 0.84s"
         },
         {
-          "frame": 582,
-          "time_s": 23.28,
-          "frozen_span_s": 0.72,
+          "frame": 369,
+          "time_s": 14.76,
+          "frozen_span_s": 0.48,
           "severity": "error",
-          "problem": "~0.72s frozen at 23.28s"
+          "problem": "~0.48s frozen at 14.76s"
         },
         {
-          "frame": 618,
-          "time_s": 24.72,
+          "frame": 393,
+          "time_s": 15.72,
+          "frozen_span_s": 0.48,
+          "severity": "error",
+          "problem": "~0.48s frozen at 15.72s"
+        },
+        {
+          "frame": 432,
+          "time_s": 17.28,
           "frozen_span_s": 0.36,
           "severity": "error",
-          "problem": "~0.36s frozen at 24.72s"
+          "problem": "~0.36s frozen at 17.28s"
         },
         {
-          "frame": 630,
-          "time_s": 25.2,
+          "frame": 690,
+          "time_s": 27.6,
+          "frozen_span_s": 0.48,
+          "severity": "error",
+          "problem": "~0.48s frozen at 27.6s"
+        },
+        {
+          "frame": 705,
+          "time_s": 28.2,
+          "frozen_span_s": 0.48,
+          "severity": "error",
+          "problem": "~0.48s frozen at 28.2s"
+        },
+        {
+          "frame": 753,
+          "time_s": 30.12,
+          "frozen_span_s": 0.96,
+          "severity": "error",
+          "problem": "~0.96s frozen at 30.12s"
+        },
+        {
+          "frame": 780,
+          "time_s": 31.2,
           "frozen_span_s": 0.36,
           "severity": "error",
-          "problem": "~0.36s frozen at 25.2s"
+          "problem": "~0.36s frozen at 31.2s"
         },
         {
-          "frame": 645,
-          "time_s": 25.8,
-          "frozen_span_s": 0.6,
+          "frame": 798,
+          "time_s": 31.92,
+          "frozen_span_s": 0.48,
           "severity": "error",
-          "problem": "~0.6s frozen at 25.8s"
+          "problem": "~0.48s frozen at 31.92s"
         },
         {
-          "frame": 696,
-          "time_s": 27.84,
+          "frame": 903,
+          "time_s": 36.12,
           "frozen_span_s": 0.36,
           "severity": "error",
-          "problem": "~0.36s frozen at 27.84s"
-        },
-        {
-          "frame": 759,
-          "time_s": 30.36,
-          "frozen_span_s": 0.6,
-          "severity": "error",
-          "problem": "~0.6s frozen at 30.36s"
+          "problem": "~0.36s frozen at 36.12s"
         }
       ]
     },

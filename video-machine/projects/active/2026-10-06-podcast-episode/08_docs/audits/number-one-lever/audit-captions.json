@@ -1,6 +1,6 @@
 {
   "clip": "number-one-lever.mp4",
-  "duration_s": 50.8,
+  "duration_s": 51.3,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "\u2122= d * Lr . 4 i F Ashley Christian - Gro",
-          "problem": "line long (72 chars)",
+          "text": "se: - 3 \\ \\ \\ ; , . ES + te - . a y V4 j",
+          "problem": "line long (90 chars)",
           "severity": "warn"
         }
       ]

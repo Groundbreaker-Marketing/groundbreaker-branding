@@ -1,6 +1,6 @@
 {
   "clip": "record-every-call.mp4",
-  "duration_s": 38.9,
+  "duration_s": 44.2,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": ". - . \u00a2 wf \u201cse od \u2019 \\-2 fi a aw Ai _ Ash",
-          "problem": "line long (79 chars)",
+          "text": "SP \u00a5 \\ j \u00bb \\ \\ ee rs r P } ~ . ~ oh | 4 ",
+          "problem": "line long (86 chars)",
           "severity": "warn"
         }
       ]

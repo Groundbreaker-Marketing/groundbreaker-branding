@@ -1,6 +1,6 @@
 {
   "clip": "install-prices.mp4",
-  "duration_s": 31.7,
+  "duration_s": 39.1,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "1 +3 ' mw fl P ww \u00b0 Ashley Christian - G",
-          "problem": "line long (70 chars)",
+          "text": "\" a] | 4 at + I N \\ | | i we Ax he , Ash",
+          "problem": "line long (79 chars)",
           "severity": "warn"
         }
       ]

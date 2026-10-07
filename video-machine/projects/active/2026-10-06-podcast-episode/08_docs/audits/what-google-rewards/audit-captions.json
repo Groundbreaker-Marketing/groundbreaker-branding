@@ -1,6 +1,6 @@
 {
   "clip": "what-google-rewards.mp4",
-  "duration_s": 37.5,
+  "duration_s": 43.3,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "j . a | \u00e9 u . ~ s ~~ Ne! pak f = ~ 1 Ash",
-          "problem": "line long (81 chars)",
+          "text": "} ~ \\ \u2122 a ; w / i \u00e9 ~ uy \u2018 Tv at Ashley ",
+          "problem": "line long (75 chars)",
           "severity": "warn"
         }
       ]

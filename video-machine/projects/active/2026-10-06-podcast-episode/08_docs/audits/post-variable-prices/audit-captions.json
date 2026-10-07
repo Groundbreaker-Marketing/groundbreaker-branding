@@ -1,8 +1,8 @@
 {
   "clip": "post-variable-prices.mp4",
-  "duration_s": 48.4,
+  "duration_s": 51.4,
   "transcript_words": 0,
-  "caption_chunks": 1,
+  "caption_chunks": 2,
   "video_wh": [
     1080,
     1920
@@ -11,7 +11,7 @@
   "checks": {
     "presence": {
       "pass": true,
-      "caption_chunks": 1,
+      "caption_chunks": 2,
       "issues": []
     },
     "accuracy": {
@@ -45,8 +45,14 @@
       "issues": [
         {
           "event": 0,
-          "text": "\u2018ee = \u2018 L- gat sk ' na > \u2018o Py Ashley Ch",
-          "problem": "line long (87 chars)",
+          "text": "Danan Pe : ww Y A \\s* \u201cys J we N {? * yy",
+          "problem": "line long (93 chars)",
+          "severity": "warn"
+        },
+        {
+          "event": 1,
+          "text": "\\e\u2019 ~= \\ \u2018 , ; cod vi wo \" ve . i \u2014 p se",
+          "problem": "line long (99 chars)",
           "severity": "warn"
         }
       ]

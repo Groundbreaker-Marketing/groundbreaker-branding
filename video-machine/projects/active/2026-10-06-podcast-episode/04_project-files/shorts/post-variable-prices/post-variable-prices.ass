@@ -13,8 +13,8 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:48.32,Title,,0,0,0,,{\pos(540,600)}How to post\N{\c&H0060ECCD}variable{\c&H00FFFFFF&} prices
-Dialogue: 2,0:00:00.00,0:00:48.32,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:51.36,Title,,0,0,0,,{\pos(540,600)}How to post\N{\c&H0060ECCD}variable{\c&H00FFFFFF&} prices
+Dialogue: 2,0:00:00.00,0:00:51.36,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
 Dialogue: 1,0:00:00.12,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}How{\c&H00FFFFFF&} do I put
 Dialogue: 1,0:00:00.28,0:00:00.38,Cap,,0,0,0,,{\pos(540,1400)}How {\c&H0060ECCD}do{\c&H00FFFFFF&} I put
 Dialogue: 1,0:00:00.38,0:00:00.46,Cap,,0,0,0,,{\pos(540,1400)}How do {\c&H0060ECCD}I{\c&H00FFFFFF&} put
@@ -27,139 +27,132 @@ Dialogue: 1,0:00:01.34,0:00:01.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}If{\
 Dialogue: 1,0:00:01.70,0:00:01.92,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}it's{\c&H00FFFFFF&} a
 Dialogue: 1,0:00:01.92,0:00:02.06,Cap,,0,0,0,,{\pos(540,1400)}If it's {\c&H0060ECCD}a{\c&H00FFFFFF&}
 Dialogue: 1,0:00:02.06,0:00:02.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}variable{\c&H00FFFFFF&} or
-Dialogue: 1,0:00:02.40,0:00:03.00,Cap,,0,0,0,,{\pos(540,1400)}variable {\c&H0060ECCD}or{\c&H00FFFFFF&}
-Dialogue: 1,0:00:03.16,0:00:03.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} have different
-Dialogue: 1,0:00:03.20,0:00:03.32,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&} different
-Dialogue: 1,0:00:03.32,0:00:03.58,Cap,,0,0,0,,{\pos(540,1400)}we have {\c&H0060ECCD}different{\c&H00FFFFFF&}
-Dialogue: 1,0:00:03.58,0:00:04.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}prices{\c&H00FFFFFF&} for
-Dialogue: 1,0:00:04.16,0:00:04.46,Cap,,0,0,0,,{\pos(540,1400)}prices {\c&H0060ECCD}for{\c&H00FFFFFF&}
-Dialogue: 1,0:00:04.46,0:00:04.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}different{\c&H00FFFFFF&} size
-Dialogue: 1,0:00:04.72,0:00:05.06,Cap,,0,0,0,,{\pos(540,1400)}different {\c&H0060ECCD}size{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.06,0:00:05.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.84,0:00:06.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} fine to give
-Dialogue: 1,0:00:06.30,0:00:06.60,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}fine{\c&H00FFFFFF&} to give
-Dialogue: 1,0:00:06.60,0:00:06.76,Cap,,0,0,0,,{\pos(540,1400)}it's fine {\c&H0060ECCD}to{\c&H00FFFFFF&} give
-Dialogue: 1,0:00:06.76,0:00:06.84,Cap,,0,0,0,,{\pos(540,1400)}it's fine to {\c&H0060ECCD}give{\c&H00FFFFFF&}
-Dialogue: 1,0:00:06.84,0:00:07.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} range if you
-Dialogue: 1,0:00:07.00,0:00:07.28,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}range{\c&H00FFFFFF&} if you
-Dialogue: 1,0:00:07.28,0:00:07.50,Cap,,0,0,0,,{\pos(540,1400)}a range {\c&H0060ECCD}if{\c&H00FFFFFF&} you
-Dialogue: 1,0:00:07.50,0:00:07.72,Cap,,0,0,0,,{\pos(540,1400)}a range if {\c&H0060ECCD}you{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.72,0:00:08.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} the bottom
-Dialogue: 1,0:00:08.26,0:00:08.72,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}the{\c&H00FFFFFF&} bottom
-Dialogue: 1,0:00:08.72,0:00:09.02,Cap,,0,0,0,,{\pos(540,1400)}have the {\c&H0060ECCD}bottom{\c&H00FFFFFF&}
-Dialogue: 1,0:00:09.02,0:00:09.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} the top of
-Dialogue: 1,0:00:09.32,0:00:09.44,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}the{\c&H00FFFFFF&} top of
-Dialogue: 1,0:00:09.44,0:00:09.76,Cap,,0,0,0,,{\pos(540,1400)}and the {\c&H0060ECCD}top{\c&H00FFFFFF&} of
-Dialogue: 1,0:00:09.76,0:00:10.00,Cap,,0,0,0,,{\pos(540,1400)}and the top {\c&H0060ECCD}of{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.00,0:00:10.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} you'll
-Dialogue: 1,0:00:10.20,0:00:10.72,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}you'll{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.72,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}charge{\c&H00FFFFFF&} for a pump
-Dialogue: 1,0:00:11.86,0:00:12.02,Cap,,0,0,0,,{\pos(540,1400)}charge {\c&H0060ECCD}for{\c&H00FFFFFF&} a pump
-Dialogue: 1,0:00:12.02,0:00:12.26,Cap,,0,0,0,,{\pos(540,1400)}charge for {\c&H0060ECCD}a{\c&H00FFFFFF&} pump
-Dialogue: 1,0:00:12.26,0:00:12.42,Cap,,0,0,0,,{\pos(540,1400)}charge for a {\c&H0060ECCD}pump{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.42,0:00:12.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&} put that in
-Dialogue: 1,0:00:12.64,0:00:13.32,Cap,,0,0,0,,{\pos(540,1400)}out {\c&H0060ECCD}put{\c&H00FFFFFF&} that in
-Dialogue: 1,0:00:13.32,0:00:13.56,Cap,,0,0,0,,{\pos(540,1400)}out put {\c&H0060ECCD}that{\c&H00FFFFFF&} in
-Dialogue: 1,0:00:13.56,0:00:13.74,Cap,,0,0,0,,{\pos(540,1400)}out put that {\c&H0060ECCD}in{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.74,0:00:14.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&} or some
-Dialogue: 1,0:00:14.00,0:00:14.40,Cap,,0,0,0,,{\pos(540,1400)}there {\c&H0060ECCD}or{\c&H00FFFFFF&} some
-Dialogue: 1,0:00:14.40,0:00:14.82,Cap,,0,0,0,,{\pos(540,1400)}there or {\c&H0060ECCD}some{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.82,0:00:15.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} will do
-Dialogue: 1,0:00:15.14,0:00:15.40,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}will{\c&H00FFFFFF&} do
-Dialogue: 1,0:00:15.40,0:00:15.68,Cap,,0,0,0,,{\pos(540,1400)}people will {\c&H0060ECCD}do{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.68,0:00:16.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} X amount for
-Dialogue: 1,0:00:16.88,0:00:17.42,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}X{\c&H00FFFFFF&} amount for
-Dialogue: 1,0:00:17.42,0:00:17.70,Cap,,0,0,0,,{\pos(540,1400)}it's X {\c&H0060ECCD}amount{\c&H00FFFFFF&} for
-Dialogue: 1,0:00:17.70,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}it's X amount {\c&H0060ECCD}for{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.98,0:00:18.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} first
-Dialogue: 1,0:00:18.08,0:00:18.40,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}first{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.40,0:00:18.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thousand{\c&H00FFFFFF&} gallons
-Dialogue: 1,0:00:18.82,0:00:19.22,Cap,,0,0,0,,{\pos(540,1400)}thousand {\c&H0060ECCD}gallons{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.22,0:00:19.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then X amount
-Dialogue: 1,0:00:19.50,0:00:19.64,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} X amount
-Dialogue: 1,0:00:19.64,0:00:19.96,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}X{\c&H00FFFFFF&} amount
-Dialogue: 1,0:00:19.96,0:00:20.22,Cap,,0,0,0,,{\pos(540,1400)}and then X {\c&H0060ECCD}amount{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.22,0:00:20.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}after{\c&H00FFFFFF&} that
-Dialogue: 1,0:00:20.62,0:00:20.88,Cap,,0,0,0,,{\pos(540,1400)}after {\c&H0060ECCD}that{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.88,0:00:21.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everyone{\c&H00FFFFFF&} has a
-Dialogue: 1,0:00:21.62,0:00:22.04,Cap,,0,0,0,,{\pos(540,1400)}everyone {\c&H0060ECCD}has{\c&H00FFFFFF&} a
-Dialogue: 1,0:00:22.04,0:00:22.20,Cap,,0,0,0,,{\pos(540,1400)}everyone has {\c&H0060ECCD}a{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.20,0:00:22.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}different{\c&H00FFFFFF&} way
-Dialogue: 1,0:00:22.40,0:00:22.60,Cap,,0,0,0,,{\pos(540,1400)}different {\c&H0060ECCD}way{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.60,0:00:22.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} they price
-Dialogue: 1,0:00:22.80,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}they{\c&H00FFFFFF&} price
-Dialogue: 1,0:00:22.94,0:00:23.40,Cap,,0,0,0,,{\pos(540,1400)}that they {\c&H0060ECCD}price{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.40,0:00:23.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} there's a lot
-Dialogue: 1,0:00:23.90,0:00:24.26,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}there's{\c&H00FFFFFF&} a lot
-Dialogue: 1,0:00:24.26,0:00:24.54,Cap,,0,0,0,,{\pos(540,1400)}and there's {\c&H0060ECCD}a{\c&H00FFFFFF&} lot
-Dialogue: 1,0:00:24.54,0:00:24.82,Cap,,0,0,0,,{\pos(540,1400)}and there's a {\c&H0060ECCD}lot{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.82,0:00:25.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} different ways
-Dialogue: 1,0:00:25.00,0:00:25.26,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}different{\c&H00FFFFFF&} ways
-Dialogue: 1,0:00:25.26,0:00:25.56,Cap,,0,0,0,,{\pos(540,1400)}of different {\c&H0060ECCD}ways{\c&H00FFFFFF&}
-Dialogue: 1,0:00:25.56,0:00:25.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} there's
-Dialogue: 1,0:00:25.82,0:00:26.06,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}there's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.06,0:00:26.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} several
-Dialogue: 1,0:00:26.44,0:00:26.78,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}several{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.78,0:00:27.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tiers{\c&H00FFFFFF&} so it's
-Dialogue: 1,0:00:27.06,0:00:27.60,Cap,,0,0,0,,{\pos(540,1400)}tiers {\c&H0060ECCD}so{\c&H00FFFFFF&} it's
-Dialogue: 1,0:00:27.60,0:00:27.74,Cap,,0,0,0,,{\pos(540,1400)}tiers so {\c&H0060ECCD}it's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:27.74,0:00:27.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&} to just list
-Dialogue: 1,0:00:27.86,0:00:27.98,Cap,,0,0,0,,{\pos(540,1400)}fine {\c&H0060ECCD}to{\c&H00FFFFFF&} just list
-Dialogue: 1,0:00:27.98,0:00:28.12,Cap,,0,0,0,,{\pos(540,1400)}fine to {\c&H0060ECCD}just{\c&H00FFFFFF&} list
-Dialogue: 1,0:00:28.12,0:00:28.34,Cap,,0,0,0,,{\pos(540,1400)}fine to just {\c&H0060ECCD}list{\c&H00FFFFFF&}
-Dialogue: 1,0:00:28.34,0:00:28.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} tiers it's
-Dialogue: 1,0:00:28.48,0:00:28.76,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}tiers{\c&H00FFFFFF&} it's
-Dialogue: 1,0:00:28.76,0:00:29.08,Cap,,0,0,0,,{\pos(540,1400)}the tiers {\c&H0060ECCD}it's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:29.08,0:00:29.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&} to say
-Dialogue: 1,0:00:29.34,0:00:29.52,Cap,,0,0,0,,{\pos(540,1400)}fine {\c&H0060ECCD}to{\c&H00FFFFFF&} say
-Dialogue: 1,0:00:29.52,0:00:29.82,Cap,,0,0,0,,{\pos(540,1400)}fine to {\c&H0060ECCD}say{\c&H00FFFFFF&}
-Dialogue: 1,0:00:29.82,0:00:30.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}starting{\c&H00FFFFFF&} at your
-Dialogue: 1,0:00:30.92,0:00:31.44,Cap,,0,0,0,,{\pos(540,1400)}starting {\c&H0060ECCD}at{\c&H00FFFFFF&} your
-Dialogue: 1,0:00:31.44,0:00:32.10,Cap,,0,0,0,,{\pos(540,1400)}starting at {\c&H0060ECCD}your{\c&H00FFFFFF&}
-Dialogue: 1,0:00:32.10,0:00:32.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lowest{\c&H00FFFFFF&} price and
-Dialogue: 1,0:00:32.56,0:00:32.98,Cap,,0,0,0,,{\pos(540,1400)}lowest {\c&H0060ECCD}price{\c&H00FFFFFF&} and
-Dialogue: 1,0:00:32.98,0:00:33.18,Cap,,0,0,0,,{\pos(540,1400)}lowest price {\c&H0060ECCD}and{\c&H00FFFFFF&}
-Dialogue: 1,0:00:33.18,0:00:33.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} not list
-Dialogue: 1,0:00:33.32,0:00:33.62,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}not{\c&H00FFFFFF&} list
-Dialogue: 1,0:00:33.62,0:00:33.86,Cap,,0,0,0,,{\pos(540,1400)}then not {\c&H0060ECCD}list{\c&H00FFFFFF&}
-Dialogue: 1,0:00:33.86,0:00:34.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anything{\c&H00FFFFFF&} else
-Dialogue: 1,0:00:34.14,0:00:34.58,Cap,,0,0,0,,{\pos(540,1400)}anything {\c&H0060ECCD}else{\c&H00FFFFFF&}
-Dialogue: 1,0:00:34.60,0:00:35.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} point here is
-Dialogue: 1,0:00:35.00,0:00:35.36,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}point{\c&H00FFFFFF&} here is
-Dialogue: 1,0:00:35.36,0:00:35.64,Cap,,0,0,0,,{\pos(540,1400)}The point {\c&H0060ECCD}here{\c&H00FFFFFF&} is
-Dialogue: 1,0:00:35.64,0:00:35.82,Cap,,0,0,0,,{\pos(540,1400)}The point here {\c&H0060ECCD}is{\c&H00FFFFFF&}
-Dialogue: 1,0:00:35.82,0:00:36.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} to get super
-Dialogue: 1,0:00:36.06,0:00:36.26,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}to{\c&H00FFFFFF&} get super
-Dialogue: 1,0:00:36.26,0:00:36.52,Cap,,0,0,0,,{\pos(540,1400)}not to {\c&H0060ECCD}get{\c&H00FFFFFF&} super
-Dialogue: 1,0:00:36.52,0:00:37.26,Cap,,0,0,0,,{\pos(540,1400)}not to get {\c&H0060ECCD}super{\c&H00FFFFFF&}
-Dialogue: 1,0:00:37.26,0:00:38.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the weeds
-Dialogue: 1,0:00:38.28,0:00:38.42,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&} weeds
-Dialogue: 1,0:00:38.42,0:00:38.76,Cap,,0,0,0,,{\pos(540,1400)}in the {\c&H0060ECCD}weeds{\c&H00FFFFFF&}
-Dialogue: 1,0:00:38.76,0:00:39.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} exactly
-Dialogue: 1,0:00:39.14,0:00:40.04,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}exactly{\c&H00FFFFFF&}
-Dialogue: 1,0:00:40.04,0:00:40.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} prices
-Dialogue: 1,0:00:40.48,0:00:40.92,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}prices{\c&H00FFFFFF&}
-Dialogue: 1,0:00:40.92,0:00:41.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&}
-Dialogue: 1,0:00:41.14,0:00:41.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}publishing{\c&H00FFFFFF&}
-Dialogue: 1,0:00:41.60,0:00:41.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} you're trying
-Dialogue: 1,0:00:41.98,0:00:42.58,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}you're{\c&H00FFFFFF&} trying
-Dialogue: 1,0:00:42.58,0:00:43.00,Cap,,0,0,0,,{\pos(540,1400)}but you're {\c&H0060ECCD}trying{\c&H00FFFFFF&}
-Dialogue: 1,0:00:43.00,0:00:43.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} basically get
-Dialogue: 1,0:00:43.30,0:00:43.84,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}basically{\c&H00FFFFFF&} get
-Dialogue: 1,0:00:43.84,0:00:44.24,Cap,,0,0,0,,{\pos(540,1400)}to basically {\c&H0060ECCD}get{\c&H00FFFFFF&}
-Dialogue: 1,0:00:44.24,0:00:44.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} your prices
-Dialogue: 1,0:00:44.80,0:00:44.98,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}your{\c&H00FFFFFF&} prices
-Dialogue: 1,0:00:44.98,0:00:45.34,Cap,,0,0,0,,{\pos(540,1400)}just your {\c&H0060ECCD}prices{\c&H00FFFFFF&}
-Dialogue: 1,0:00:45.34,0:00:45.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&} there
-Dialogue: 1,0:00:45.54,0:00:45.78,Cap,,0,0,0,,{\pos(540,1400)}out {\c&H0060ECCD}there{\c&H00FFFFFF&}
-Dialogue: 1,0:00:45.78,0:00:45.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}even{\c&H00FFFFFF&} if it's your
-Dialogue: 1,0:00:45.94,0:00:46.12,Cap,,0,0,0,,{\pos(540,1400)}even {\c&H0060ECCD}if{\c&H00FFFFFF&} it's your
-Dialogue: 1,0:00:46.12,0:00:46.28,Cap,,0,0,0,,{\pos(540,1400)}even if {\c&H0060ECCD}it's{\c&H00FFFFFF&} your
-Dialogue: 1,0:00:46.28,0:00:46.40,Cap,,0,0,0,,{\pos(540,1400)}even if it's {\c&H0060ECCD}your{\c&H00FFFFFF&}
-Dialogue: 1,0:00:46.40,0:00:46.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}starting{\c&H00FFFFFF&} price or
-Dialogue: 1,0:00:46.72,0:00:47.14,Cap,,0,0,0,,{\pos(540,1400)}starting {\c&H0060ECCD}price{\c&H00FFFFFF&} or
-Dialogue: 1,0:00:47.14,0:00:47.34,Cap,,0,0,0,,{\pos(540,1400)}starting price {\c&H0060ECCD}or{\c&H00FFFFFF&}
-Dialogue: 1,0:00:47.34,0:00:47.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} it's a range
-Dialogue: 1,0:00:47.50,0:00:47.64,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}it's{\c&H00FFFFFF&} a range
-Dialogue: 1,0:00:47.64,0:00:47.78,Cap,,0,0,0,,{\pos(540,1400)}if it's {\c&H0060ECCD}a{\c&H00FFFFFF&} range
-Dialogue: 1,0:00:47.78,0:00:48.28,Cap,,0,0,0,,{\pos(540,1400)}if it's a {\c&H0060ECCD}range{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.40,0:00:03.82,Cap,,0,0,0,,{\pos(540,1400)}variable {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.88,0:00:04.00,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:04.00,0:00:04.26,Cap,,0,0,0,,{\pos(540,1400)}we have {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.26,0:00:04.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}prices{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:04.84,0:00:05.14,Cap,,0,0,0,,{\pos(540,1400)}prices {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.14,0:00:05.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}different{\c&H00FFFFFF&} size
+Dialogue: 1,0:00:05.40,0:00:05.74,Cap,,0,0,0,,{\pos(540,1400)}different {\c&H0060ECCD}size{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.74,0:00:06.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.72,0:00:06.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you have the
+Dialogue: 1,0:00:06.94,0:00:07.16,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} have the
+Dialogue: 1,0:00:07.16,0:00:07.70,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}have{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:07.70,0:00:08.16,Cap,,0,0,0,,{\pos(540,1400)}if you have {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.16,0:00:08.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bottom{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:08.46,0:00:08.76,Cap,,0,0,0,,{\pos(540,1400)}bottom {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:08.76,0:00:08.88,Cap,,0,0,0,,{\pos(540,1400)}bottom and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.88,0:00:09.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}top{\c&H00FFFFFF&} of what
+Dialogue: 1,0:00:09.20,0:00:09.44,Cap,,0,0,0,,{\pos(540,1400)}top {\c&H0060ECCD}of{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:09.44,0:00:09.64,Cap,,0,0,0,,{\pos(540,1400)}top of {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.64,0:00:11.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you'll{\c&H00FFFFFF&} charge for
+Dialogue: 1,0:00:11.34,0:00:12.48,Cap,,0,0,0,,{\pos(540,1400)}you'll {\c&H0060ECCD}charge{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:12.48,0:00:12.94,Cap,,0,0,0,,{\pos(540,1400)}you'll charge {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.94,0:00:13.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} pump out put
+Dialogue: 1,0:00:13.18,0:00:13.34,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}pump{\c&H00FFFFFF&} out put
+Dialogue: 1,0:00:13.34,0:00:13.56,Cap,,0,0,0,,{\pos(540,1400)}a pump {\c&H0060ECCD}out{\c&H00FFFFFF&} put
+Dialogue: 1,0:00:13.56,0:00:14.24,Cap,,0,0,0,,{\pos(540,1400)}a pump out {\c&H0060ECCD}put{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.24,0:00:14.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} in there or
+Dialogue: 1,0:00:14.48,0:00:14.66,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}in{\c&H00FFFFFF&} there or
+Dialogue: 1,0:00:14.66,0:00:14.92,Cap,,0,0,0,,{\pos(540,1400)}that in {\c&H0060ECCD}there{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:14.92,0:00:15.32,Cap,,0,0,0,,{\pos(540,1400)}that in there {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.32,0:00:15.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}some{\c&H00FFFFFF&} people will
+Dialogue: 1,0:00:15.74,0:00:16.06,Cap,,0,0,0,,{\pos(540,1400)}some {\c&H0060ECCD}people{\c&H00FFFFFF&} will
+Dialogue: 1,0:00:16.06,0:00:16.32,Cap,,0,0,0,,{\pos(540,1400)}some people {\c&H0060ECCD}will{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.32,0:00:18.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} it's X amount
+Dialogue: 1,0:00:18.72,0:00:19.92,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}it's{\c&H00FFFFFF&} X amount
+Dialogue: 1,0:00:19.92,0:00:20.46,Cap,,0,0,0,,{\pos(540,1400)}do it's {\c&H0060ECCD}X{\c&H00FFFFFF&} amount
+Dialogue: 1,0:00:20.46,0:00:20.74,Cap,,0,0,0,,{\pos(540,1400)}do it's X {\c&H0060ECCD}amount{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.74,0:00:21.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} the first
+Dialogue: 1,0:00:21.02,0:00:21.12,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}the{\c&H00FFFFFF&} first
+Dialogue: 1,0:00:21.12,0:00:21.44,Cap,,0,0,0,,{\pos(540,1400)}for the {\c&H0060ECCD}first{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.44,0:00:21.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thousand{\c&H00FFFFFF&} gallons
+Dialogue: 1,0:00:21.86,0:00:22.26,Cap,,0,0,0,,{\pos(540,1400)}thousand {\c&H0060ECCD}gallons{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.26,0:00:22.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then X amount
+Dialogue: 1,0:00:22.54,0:00:22.68,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} X amount
+Dialogue: 1,0:00:22.68,0:00:23.00,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}X{\c&H00FFFFFF&} amount
+Dialogue: 1,0:00:23.00,0:00:23.26,Cap,,0,0,0,,{\pos(540,1400)}and then X {\c&H0060ECCD}amount{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.26,0:00:23.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}after{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:23.66,0:00:23.92,Cap,,0,0,0,,{\pos(540,1400)}after {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.92,0:00:24.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everyone{\c&H00FFFFFF&} has a
+Dialogue: 1,0:00:24.66,0:00:25.08,Cap,,0,0,0,,{\pos(540,1400)}everyone {\c&H0060ECCD}has{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:25.08,0:00:25.24,Cap,,0,0,0,,{\pos(540,1400)}everyone has {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.24,0:00:25.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}different{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:25.44,0:00:25.64,Cap,,0,0,0,,{\pos(540,1400)}different {\c&H0060ECCD}way{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.64,0:00:25.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} they price
+Dialogue: 1,0:00:25.84,0:00:25.98,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}they{\c&H00FFFFFF&} price
+Dialogue: 1,0:00:25.98,0:00:26.44,Cap,,0,0,0,,{\pos(540,1400)}that they {\c&H0060ECCD}price{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.44,0:00:26.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} there's a lot
+Dialogue: 1,0:00:26.94,0:00:27.30,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}there's{\c&H00FFFFFF&} a lot
+Dialogue: 1,0:00:27.30,0:00:27.58,Cap,,0,0,0,,{\pos(540,1400)}and there's {\c&H0060ECCD}a{\c&H00FFFFFF&} lot
+Dialogue: 1,0:00:27.58,0:00:27.86,Cap,,0,0,0,,{\pos(540,1400)}and there's a {\c&H0060ECCD}lot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.86,0:00:28.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} different ways
+Dialogue: 1,0:00:28.04,0:00:28.30,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}different{\c&H00FFFFFF&} ways
+Dialogue: 1,0:00:28.30,0:00:28.60,Cap,,0,0,0,,{\pos(540,1400)}of different {\c&H0060ECCD}ways{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.60,0:00:28.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} there's
+Dialogue: 1,0:00:28.86,0:00:29.10,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}there's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.10,0:00:29.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} several
+Dialogue: 1,0:00:29.48,0:00:29.82,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}several{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.82,0:00:30.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tiers{\c&H00FFFFFF&} so it's
+Dialogue: 1,0:00:30.10,0:00:30.64,Cap,,0,0,0,,{\pos(540,1400)}tiers {\c&H0060ECCD}so{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:30.64,0:00:30.78,Cap,,0,0,0,,{\pos(540,1400)}tiers so {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.78,0:00:30.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&} to just list
+Dialogue: 1,0:00:30.90,0:00:31.02,Cap,,0,0,0,,{\pos(540,1400)}fine {\c&H0060ECCD}to{\c&H00FFFFFF&} just list
+Dialogue: 1,0:00:31.02,0:00:31.16,Cap,,0,0,0,,{\pos(540,1400)}fine to {\c&H0060ECCD}just{\c&H00FFFFFF&} list
+Dialogue: 1,0:00:31.16,0:00:31.38,Cap,,0,0,0,,{\pos(540,1400)}fine to just {\c&H0060ECCD}list{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.38,0:00:31.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} tiers it's
+Dialogue: 1,0:00:31.52,0:00:31.80,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}tiers{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:31.80,0:00:32.12,Cap,,0,0,0,,{\pos(540,1400)}the tiers {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.12,0:00:32.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&} to say
+Dialogue: 1,0:00:32.38,0:00:32.56,Cap,,0,0,0,,{\pos(540,1400)}fine {\c&H0060ECCD}to{\c&H00FFFFFF&} say
+Dialogue: 1,0:00:32.56,0:00:32.86,Cap,,0,0,0,,{\pos(540,1400)}fine to {\c&H0060ECCD}say{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.86,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}starting{\c&H00FFFFFF&} at your
+Dialogue: 1,0:00:33.96,0:00:34.48,Cap,,0,0,0,,{\pos(540,1400)}starting {\c&H0060ECCD}at{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:34.48,0:00:35.14,Cap,,0,0,0,,{\pos(540,1400)}starting at {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.14,0:00:35.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lowest{\c&H00FFFFFF&} price and
+Dialogue: 1,0:00:35.60,0:00:36.02,Cap,,0,0,0,,{\pos(540,1400)}lowest {\c&H0060ECCD}price{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:36.02,0:00:36.22,Cap,,0,0,0,,{\pos(540,1400)}lowest price {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.22,0:00:36.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} not list
+Dialogue: 1,0:00:36.36,0:00:36.66,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}not{\c&H00FFFFFF&} list
+Dialogue: 1,0:00:36.66,0:00:36.90,Cap,,0,0,0,,{\pos(540,1400)}then not {\c&H0060ECCD}list{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.90,0:00:37.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anything{\c&H00FFFFFF&} else
+Dialogue: 1,0:00:37.18,0:00:37.62,Cap,,0,0,0,,{\pos(540,1400)}anything {\c&H0060ECCD}else{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.64,0:00:38.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} point here is
+Dialogue: 1,0:00:38.04,0:00:38.40,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}point{\c&H00FFFFFF&} here is
+Dialogue: 1,0:00:38.40,0:00:38.68,Cap,,0,0,0,,{\pos(540,1400)}The point {\c&H0060ECCD}here{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:38.68,0:00:38.86,Cap,,0,0,0,,{\pos(540,1400)}The point here {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.86,0:00:39.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} to get super
+Dialogue: 1,0:00:39.10,0:00:39.30,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}to{\c&H00FFFFFF&} get super
+Dialogue: 1,0:00:39.30,0:00:39.56,Cap,,0,0,0,,{\pos(540,1400)}not to {\c&H0060ECCD}get{\c&H00FFFFFF&} super
+Dialogue: 1,0:00:39.56,0:00:40.30,Cap,,0,0,0,,{\pos(540,1400)}not to get {\c&H0060ECCD}super{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.30,0:00:41.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the weeds
+Dialogue: 1,0:00:41.32,0:00:41.46,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&} weeds
+Dialogue: 1,0:00:41.46,0:00:41.80,Cap,,0,0,0,,{\pos(540,1400)}in the {\c&H0060ECCD}weeds{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.80,0:00:42.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} exactly
+Dialogue: 1,0:00:42.18,0:00:43.08,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}exactly{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.08,0:00:43.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} prices
+Dialogue: 1,0:00:43.52,0:00:43.96,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}prices{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.96,0:00:44.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.18,0:00:44.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}publishing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.64,0:00:45.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} you're trying
+Dialogue: 1,0:00:45.02,0:00:45.62,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}you're{\c&H00FFFFFF&} trying
+Dialogue: 1,0:00:45.62,0:00:46.04,Cap,,0,0,0,,{\pos(540,1400)}but you're {\c&H0060ECCD}trying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.04,0:00:46.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} basically get
+Dialogue: 1,0:00:46.34,0:00:46.88,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}basically{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:46.88,0:00:47.28,Cap,,0,0,0,,{\pos(540,1400)}to basically {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.28,0:00:47.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} your prices
+Dialogue: 1,0:00:47.84,0:00:48.02,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}your{\c&H00FFFFFF&} prices
+Dialogue: 1,0:00:48.02,0:00:48.38,Cap,,0,0,0,,{\pos(540,1400)}just your {\c&H0060ECCD}prices{\c&H00FFFFFF&}
+Dialogue: 1,0:00:48.38,0:00:48.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:48.58,0:00:48.82,Cap,,0,0,0,,{\pos(540,1400)}out {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:48.82,0:00:48.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}even{\c&H00FFFFFF&} if it's your
+Dialogue: 1,0:00:48.98,0:00:49.16,Cap,,0,0,0,,{\pos(540,1400)}even {\c&H0060ECCD}if{\c&H00FFFFFF&} it's your
+Dialogue: 1,0:00:49.16,0:00:49.32,Cap,,0,0,0,,{\pos(540,1400)}even if {\c&H0060ECCD}it's{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:49.32,0:00:49.44,Cap,,0,0,0,,{\pos(540,1400)}even if it's {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:49.44,0:00:49.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}starting{\c&H00FFFFFF&} price or
+Dialogue: 1,0:00:49.76,0:00:50.18,Cap,,0,0,0,,{\pos(540,1400)}starting {\c&H0060ECCD}price{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:50.18,0:00:50.38,Cap,,0,0,0,,{\pos(540,1400)}starting price {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:50.38,0:00:50.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} it's a range
+Dialogue: 1,0:00:50.54,0:00:50.68,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}it's{\c&H00FFFFFF&} a range
+Dialogue: 1,0:00:50.68,0:00:50.82,Cap,,0,0,0,,{\pos(540,1400)}if it's {\c&H0060ECCD}a{\c&H00FFFFFF&} range
+Dialogue: 1,0:00:50.82,0:00:51.32,Cap,,0,0,0,,{\pos(540,1400)}if it's a {\c&H0060ECCD}range{\c&H00FFFFFF&}

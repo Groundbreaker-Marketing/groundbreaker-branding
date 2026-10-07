@@ -23,6 +23,15 @@ lessons under "For the engine"; whoever maintains the engine ports them into the
 - Done by hand: show name captioned WEQ from Emma's 10-06 email (Whisper heard WEC); title of the
   car-shopping clip says "five new drivers" since the ages were not stated.
 - For the engine: turn on Zoom HD + "optimize for 3rd-party editor" before the 10-14 taping.
+- v2 the same evening (Ashley: "a little too aggressively edited for ums and pauses, it gets cut
+  off and awkward in a few places"; AI upscale look approved): measured 91 of 103 episode joins and
+  77 of 88 Shorts joins in sound. Rebuilt with podcast/cutpoints.py (video-machine#13): ums and
+  stammers cut only where the sound dips 25 dB both sides (17 of 61 ums), pauses up to 1 s kept,
+  cuts placed by real voice edges. Episode 26:09, 27 joins, none in speech. Shorts: glued trims
+  restored and hidden from captions, a few boundaries moved by hand (google-ai-calls lost its
+  "first client" ending; description updated). Source AI-upscaled to 1080p (63 min). v1 kept in
+  Drive under "v1 (first edit)". audit-visual "frozen" flags on 12 clips checked: no hold over
+  4 frames; low motion after the upscaler removed compression noise.
 
 ### 2026-10-05 day-hooks (first organic Shorts)
 - Worked: Zoom API pull (S2S app "GBM Recordings") of 11 takes recorded from the end-of-day hook

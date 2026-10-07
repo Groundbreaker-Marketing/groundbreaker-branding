@@ -1,8 +1,8 @@
 {
   "clip": "coupon-trick.mp4",
-  "duration_s": 47.4,
+  "duration_s": 59.3,
   "transcript_words": 0,
-  "caption_chunks": 1,
+  "caption_chunks": 2,
   "video_wh": [
     1080,
     1920
@@ -11,7 +11,7 @@
   "checks": {
     "presence": {
       "pass": true,
-      "caption_chunks": 1,
+      "caption_chunks": 2,
       "issues": []
     },
     "accuracy": {
@@ -45,8 +45,14 @@
       "issues": [
         {
           "event": 0,
-          "text": "\\ < \u2018 . ' r} ] \u201d . / \u00e9 _\u201d Ashley Christi",
-          "problem": "line long (77 chars)",
+          "text": "A <3 . ~q - + \\ \\ \\ ' \u00b0 \\ al : y : yA \u00bb ",
+          "problem": "line long (96 chars)",
+          "severity": "warn"
+        },
+        {
+          "event": 1,
+          "text": "I - e S | i | \\ p : NS | \u00e9 | no. Je uy .",
+          "problem": "line long (95 chars)",
           "severity": "warn"
         }
       ]

@@ -1,6 +1,6 @@
 {
   "clip": "price-by-distance.mp4",
-  "duration_s": 50.1,
+  "duration_s": 58.5,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,14 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "~ \" * . * J \u2018 , \u2018 \u201d% \u201c\u201d = 5 we i . \u00b0 twa",
-          "problem": "trailing punctuation",
-          "severity": "warn"
-        },
-        {
-          "event": 0,
-          "text": "~ \" * . * J \u2018 , \u2018 \u201d% \u201c\u201d = 5 we i . \u00b0 twa",
-          "problem": "line long (90 chars)",
+          "text": "\u2018= oo ~=\u2014 lp . K i \u00a5 a. \\ \u2018 \\ _ a uy J .",
+          "problem": "line long (89 chars)",
           "severity": "warn"
         }
       ]
