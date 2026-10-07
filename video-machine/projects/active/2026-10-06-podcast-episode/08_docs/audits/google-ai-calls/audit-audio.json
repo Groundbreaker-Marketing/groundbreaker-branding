@@ -1,14 +1,14 @@
 {
   "clip": "google-ai-calls.mp4",
-  "duration_s": 38.0,
-  "speech_level_db": -16.3,
+  "duration_s": 36.2,
+  "speech_level_db": -16.4,
   "verdict": "PASS",
   "checks": {
     "word_clipping": {
       "pass": true,
       "issues": [],
-      "head_edge_db_below_speech": 0.7,
-      "tail_edge_db_below_speech": 13.7,
+      "head_edge_db_below_speech": 1.1,
+      "tail_edge_db_below_speech": 10.8,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,15 +18,15 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.012,
-      "railed_samples_total": 2959,
-      "peak_abs": 1.191,
+      "railed_fraction_pct": 0.015,
+      "railed_samples_total": 3088,
+      "peak_abs": 1.205,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
-      "avg_voice_db": -17.7,
-      "range_db": 2.8,
+      "avg_voice_db": -18.1,
+      "range_db": 3.3,
       "issues": []
     },
     "buzz_hum": {
@@ -37,20 +37,20 @@
           "freq_hz": 422.6,
           "grid_hz": 420,
           "off_grid": true,
-          "prominence_db": 6.9
+          "prominence_db": 6.7
         },
         {
           "freq_hz": 49.8,
           "grid_hz": 50,
           "prominence_db": 3.4,
-          "persistence": 0.0,
-          "below_speech_db": 53.0
+          "persistence": 0.17,
+          "below_speech_db": 53.1
         },
         {
-          "freq_hz": 301.0,
-          "grid_hz": 300,
+          "freq_hz": 498.0,
+          "grid_hz": 500,
           "off_grid": true,
-          "prominence_db": 2.7
+          "prominence_db": 3.0
         }
       ],
       "issues": []
@@ -58,7 +58,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 0,
-      "close_tail_ms": 75,
+      "close_tail_ms": 265,
       "issues": []
     },
     "music_balance": {

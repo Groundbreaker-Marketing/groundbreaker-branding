@@ -1,14 +1,14 @@
 {
   "clip": "beyond-wordpress.mp4",
-  "duration_s": 49.2,
-  "speech_level_db": -17.2,
+  "duration_s": 53.5,
+  "speech_level_db": -17.0,
   "verdict": "PASS",
   "checks": {
     "word_clipping": {
       "pass": true,
       "issues": [],
-      "head_edge_db_below_speech": -4.4,
-      "tail_edge_db_below_speech": 5.6,
+      "head_edge_db_below_speech": -4.3,
+      "tail_edge_db_below_speech": 14.1,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,15 +18,15 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.0442,
-      "railed_samples_total": 5049,
-      "peak_abs": 1.2,
+      "railed_fraction_pct": 0.0458,
+      "railed_samples_total": 6243,
+      "peak_abs": 1.196,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
-      "avg_voice_db": -18.7,
-      "range_db": 3.9,
+      "avg_voice_db": -18.4,
+      "range_db": 2.5,
       "issues": []
     },
     "buzz_hum": {
@@ -34,24 +34,24 @@
       "music_declared": false,
       "top_candidates": [
         {
-          "freq_hz": 300.3,
-          "grid_hz": 300,
-          "prominence_db": 6.3,
-          "persistence": 0.17,
-          "below_speech_db": 14.5
-        },
-        {
-          "freq_hz": 300.3,
-          "grid_hz": 300,
-          "prominence_db": 6.3,
-          "persistence": 0.17,
-          "below_speech_db": 14.5
-        },
-        {
-          "freq_hz": 498.8,
+          "freq_hz": 498.0,
           "grid_hz": 500,
           "off_grid": true,
-          "prominence_db": 5.6
+          "prominence_db": 6.0
+        },
+        {
+          "freq_hz": 300.3,
+          "grid_hz": 300,
+          "prominence_db": 5.8,
+          "persistence": 0.19,
+          "below_speech_db": 14.8
+        },
+        {
+          "freq_hz": 300.3,
+          "grid_hz": 300,
+          "prominence_db": 5.8,
+          "persistence": 0.19,
+          "below_speech_db": 14.8
         }
       ],
       "issues": []
@@ -59,7 +59,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 0,
-      "close_tail_ms": 85,
+      "close_tail_ms": 285,
       "issues": []
     },
     "music_balance": {

@@ -1,14 +1,14 @@
 {
   "clip": "honest-companies-win.mp4",
-  "duration_s": 37.7,
-  "speech_level_db": -16.4,
+  "duration_s": 45.7,
+  "speech_level_db": -16.3,
   "verdict": "PASS",
   "checks": {
     "word_clipping": {
       "pass": true,
       "issues": [],
-      "head_edge_db_below_speech": -0.1,
-      "tail_edge_db_below_speech": 20.1,
+      "head_edge_db_below_speech": 0.0,
+      "tail_edge_db_below_speech": 23.5,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,15 +18,15 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.0126,
-      "railed_samples_total": 2902,
-      "peak_abs": 1.191,
+      "railed_fraction_pct": 0.0116,
+      "railed_samples_total": 3483,
+      "peak_abs": 1.196,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
-      "avg_voice_db": -17.9,
-      "range_db": 1.4,
+      "avg_voice_db": -17.8,
+      "range_db": 1.7,
       "issues": []
     },
     "buzz_hum": {
@@ -34,22 +34,22 @@
       "music_declared": false,
       "top_candidates": [
         {
-          "freq_hz": 478.3,
+          "freq_hz": 479.0,
           "grid_hz": 480,
           "off_grid": true,
-          "prominence_db": 5.8
-        },
-        {
-          "freq_hz": 551.5,
-          "grid_hz": 550,
-          "off_grid": true,
-          "prominence_db": 4.2
+          "prominence_db": 4.5
         },
         {
           "freq_hz": 498.0,
           "grid_hz": 500,
           "off_grid": true,
-          "prominence_db": 4.0
+          "prominence_db": 3.8
+        },
+        {
+          "freq_hz": 422.6,
+          "grid_hz": 420,
+          "off_grid": true,
+          "prominence_db": 3.4
         }
       ],
       "issues": []
@@ -57,7 +57,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 0,
-      "close_tail_ms": 95,
+      "close_tail_ms": 115,
       "issues": []
     },
     "music_balance": {

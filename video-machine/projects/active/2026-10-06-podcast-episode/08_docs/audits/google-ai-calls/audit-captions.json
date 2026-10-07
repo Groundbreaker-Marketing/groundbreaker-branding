@@ -1,6 +1,6 @@
 {
   "clip": "google-ai-calls.mp4",
-  "duration_s": 38.0,
+  "duration_s": 36.2,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "5 .\" \u2019 oe. i \" #, \u2014 , : it, Ashley Chris",
-          "problem": "line long (73 chars)",
+          "text": ". 7 am | \\ \\ ~ oh . \u00bb Fee Y VA * Ashley ",
+          "problem": "line long (77 chars)",
           "severity": "warn"
         }
       ]

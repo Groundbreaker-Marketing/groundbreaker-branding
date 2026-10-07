@@ -2,8 +2,8 @@
   "clip": "one-fair-price.mp4",
   "resolution": "1080x1920",
   "fps": 25.0,
-  "duration_s": 47.3,
-  "total_frames": 1180,
+  "duration_s": 46.6,
+  "total_frames": 1164,
   "verdict": "FAIL",
   "checks": {
     "aspect_ratio": {
@@ -15,18 +15,18 @@
     "crop_stability": {
       "pass": true,
       "seams_checked": 1,
-      "content_seams": 1,
+      "content_seams": 0,
       "same_take_seams_gated": 0,
-      "max_seam_dy_pct": 0.03,
-      "zoom_seams": 0,
+      "max_seam_dy_pct": 0.0,
+      "zoom_seams": 1,
       "zoom_moves_within_shots": 0,
-      "max_within_shot_dy_pct": 0.02,
+      "max_within_shot_dy_pct": 0.03,
       "max_gateable_within_dy_pct": 0.0,
-      "max_within_shot_dx_pct": 0.52,
+      "max_within_shot_dx_pct": 0.23,
       "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
       "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
       "within_dy_err_threshold_pct": 2.6,
-      "baseline_dy_pct": 0.004,
+      "baseline_dy_pct": 0.005,
       "issues": []
     },
     "face_tracking": {
@@ -38,7 +38,7 @@
     "framing": {
       "pass": true,
       "avg_face_size_pct": 1.5,
-      "max_sustained_deviation_pct": 13.5,
+      "max_sustained_deviation_pct": 14.0,
       "segments": 2,
       "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
@@ -48,11 +48,11 @@
       "detected": 1,
       "issues": [
         {
-          "frame": 987,
-          "time_s": 39.48,
-          "frozen_span_s": 0.6,
+          "frame": 960,
+          "time_s": 38.4,
+          "frozen_span_s": 0.48,
           "severity": "error",
-          "problem": "~0.6s frozen at 39.48s"
+          "problem": "~0.48s frozen at 38.4s"
         }
       ]
     },
@@ -80,5 +80,5 @@
     "loose_thresholds": true,
     "resolved_from": "none"
   },
-  "summary": "FAIL: frozen_frames. ~0.6s frozen at 39.48s"
+  "summary": "FAIL: frozen_frames. ~0.48s frozen at 38.4s"
 }

@@ -1,6 +1,6 @@
 {
   "clip": "beyond-wordpress.mp4",
-  "duration_s": 49.2,
+  "duration_s": 53.5,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "EA | 4 ww a fi 2 Ai \u201c \u2018 / Ashley Christi",
-          "problem": "line long (68 chars)",
+          "text": "y ww Za | e \\ \\ ! \u201c o - us a \u2018 Ashley Ch",
+          "problem": "line long (73 chars)",
           "severity": "warn"
         }
       ]

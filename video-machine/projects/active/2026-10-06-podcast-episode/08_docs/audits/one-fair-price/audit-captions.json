@@ -1,6 +1,6 @@
 {
   "clip": "one-fair-price.mp4",
-  "duration_s": 47.3,
+  "duration_s": 46.6,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,14 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "< ~ \u00a5 \u2019 =) yk * \u2018 { / % 7, @ Ashley Chri",
-          "problem": "trailing punctuation",
-          "severity": "warn"
-        },
-        {
-          "event": 0,
-          "text": "< ~ \u00a5 \u2019 =) yk * \u2018 { / % 7, @ Ashley Chri",
-          "problem": "line long (75 chars)",
+          "text": "<< | ie \u00a5 cy a? A | / - \u00a2 { \u201c $) Ashley ",
+          "problem": "line long (77 chars)",
           "severity": "warn"
         }
       ]

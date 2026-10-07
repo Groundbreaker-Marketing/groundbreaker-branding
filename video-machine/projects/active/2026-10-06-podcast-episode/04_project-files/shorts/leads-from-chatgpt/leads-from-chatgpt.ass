@@ -13,8 +13,8 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:32.96,Title,,0,0,0,,{\pos(540,600)}Leads from\N{\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} are real
-Dialogue: 2,0:00:00.00,0:00:32.96,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:34.57,Title,,0,0,0,,{\pos(540,600)}Leads from\N{\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} are real
+Dialogue: 2,0:00:00.00,0:00:34.57,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
 Dialogue: 1,0:00:00.24,0:00:00.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} we are seeing
 Dialogue: 1,0:00:00.86,0:00:01.62,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}we{\c&H00FFFFFF&} are seeing
 Dialogue: 1,0:00:01.62,0:00:01.74,Cap,,0,0,0,,{\pos(540,1400)}So we {\c&H0060ECCD}are{\c&H00FFFFFF&} seeing
@@ -29,58 +29,58 @@ Dialogue: 1,0:00:04.14,0:00:04.58,Cap,,0,0,0,,{\pos(540,1400)}getting {\c&H0060E
 Dialogue: 1,0:00:04.58,0:00:04.76,Cap,,0,0,0,,{\pos(540,1400)}getting more {\c&H0060ECCD}and{\c&H00FFFFFF&}
 Dialogue: 1,0:00:04.76,0:00:05.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} requests
 Dialogue: 1,0:00:05.12,0:00:05.88,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}requests{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.88,0:00:06.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} ChatGPT or
-Dialogue: 1,0:00:06.66,0:00:08.08,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} or
-Dialogue: 1,0:00:08.08,0:00:08.48,Cap,,0,0,0,,{\pos(540,1400)}from ChatGPT {\c&H0060ECCD}or{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.48,0:00:10.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Gemini{\c&H00FFFFFF&} or the
-Dialogue: 1,0:00:10.00,0:00:10.60,Cap,,0,0,0,,{\pos(540,1400)}Gemini {\c&H0060ECCD}or{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:10.60,0:00:10.76,Cap,,0,0,0,,{\pos(540,1400)}Gemini or {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.76,0:00:11.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} AI search
-Dialogue: 1,0:00:11.02,0:00:11.34,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}AI{\c&H00FFFFFF&} search
-Dialogue: 1,0:00:11.34,0:00:12.06,Cap,,0,0,0,,{\pos(540,1400)}Google AI {\c&H0060ECCD}search{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.16,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} we actually
-Dialogue: 1,0:00:12.62,0:00:12.84,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}we{\c&H00FFFFFF&} actually
-Dialogue: 1,0:00:12.84,0:00:13.20,Cap,,0,0,0,,{\pos(540,1400)}And we {\c&H0060ECCD}actually{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.20,0:00:13.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}track{\c&H00FFFFFF&} every
-Dialogue: 1,0:00:13.68,0:00:14.22,Cap,,0,0,0,,{\pos(540,1400)}track {\c&H0060ECCD}every{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.22,0:00:14.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}single{\c&H00FFFFFF&} phone
-Dialogue: 1,0:00:14.78,0:00:16.68,Cap,,0,0,0,,{\pos(540,1400)}single {\c&H0060ECCD}phone{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.68,0:00:17.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}call{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.64,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}text{\c&H00FFFFFF&} message
-Dialogue: 1,0:00:17.98,0:00:18.80,Cap,,0,0,0,,{\pos(540,1400)}text {\c&H0060ECCD}message{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.90,0:00:19.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} form that
-Dialogue: 1,0:00:19.56,0:00:19.96,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}form{\c&H00FFFFFF&} that
-Dialogue: 1,0:00:19.96,0:00:20.46,Cap,,0,0,0,,{\pos(540,1400)}website form {\c&H0060ECCD}that{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.46,0:00:20.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}comes{\c&H00FFFFFF&} into our
-Dialogue: 1,0:00:20.76,0:00:20.98,Cap,,0,0,0,,{\pos(540,1400)}comes {\c&H0060ECCD}into{\c&H00FFFFFF&} our
-Dialogue: 1,0:00:20.98,0:00:21.16,Cap,,0,0,0,,{\pos(540,1400)}comes into {\c&H0060ECCD}our{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.16,0:00:21.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clients{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.46,0:00:21.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}businesses{\c&H00FFFFFF&} we
-Dialogue: 1,0:00:21.82,0:00:22.08,Cap,,0,0,0,,{\pos(540,1400)}businesses {\c&H0060ECCD}we{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.08,0:00:22.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}track{\c&H00FFFFFF&} all of them
-Dialogue: 1,0:00:22.36,0:00:22.62,Cap,,0,0,0,,{\pos(540,1400)}track {\c&H0060ECCD}all{\c&H00FFFFFF&} of them
-Dialogue: 1,0:00:22.62,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}track all {\c&H0060ECCD}of{\c&H00FFFFFF&} them
-Dialogue: 1,0:00:22.76,0:00:22.88,Cap,,0,0,0,,{\pos(540,1400)}track all of {\c&H0060ECCD}them{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.88,0:00:23.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} attribution
-Dialogue: 1,0:00:23.08,0:00:23.82,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}attribution{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.82,0:00:24.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tracking{\c&H00FFFFFF&} so if
-Dialogue: 1,0:00:24.30,0:00:24.70,Cap,,0,0,0,,{\pos(540,1400)}tracking {\c&H0060ECCD}so{\c&H00FFFFFF&} if
-Dialogue: 1,0:00:24.70,0:00:25.24,Cap,,0,0,0,,{\pos(540,1400)}tracking so {\c&H0060ECCD}if{\c&H00FFFFFF&}
-Dialogue: 1,0:00:25.24,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}someone{\c&H00FFFFFF&} searches
-Dialogue: 1,0:00:25.58,0:00:25.98,Cap,,0,0,0,,{\pos(540,1400)}someone {\c&H0060ECCD}searches{\c&H00FFFFFF&}
-Dialogue: 1,0:00:25.98,0:00:26.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} ChatGPT and
-Dialogue: 1,0:00:26.18,0:00:26.88,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} and
-Dialogue: 1,0:00:26.88,0:00:27.78,Cap,,0,0,0,,{\pos(540,1400)}on ChatGPT {\c&H0060ECCD}and{\c&H00FFFFFF&}
-Dialogue: 1,0:00:27.78,0:00:28.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} they call
-Dialogue: 1,0:00:28.02,0:00:28.62,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}they{\c&H00FFFFFF&} call
-Dialogue: 1,0:00:28.62,0:00:29.58,Cap,,0,0,0,,{\pos(540,1400)}then they {\c&H0060ECCD}call{\c&H00FFFFFF&}
-Dialogue: 1,0:00:29.58,0:00:29.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} customer or
-Dialogue: 1,0:00:29.90,0:00:30.34,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}customer{\c&H00FFFFFF&} or
-Dialogue: 1,0:00:30.34,0:00:30.62,Cap,,0,0,0,,{\pos(540,1400)}our customer {\c&H0060ECCD}or{\c&H00FFFFFF&}
-Dialogue: 1,0:00:30.62,0:00:30.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} client's
-Dialogue: 1,0:00:30.78,0:00:31.22,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}client's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:31.22,0:00:31.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} we know
-Dialogue: 1,0:00:31.60,0:00:32.34,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}we{\c&H00FFFFFF&} know
-Dialogue: 1,0:00:32.34,0:00:32.54,Cap,,0,0,0,,{\pos(540,1400)}business we {\c&H0060ECCD}know{\c&H00FFFFFF&}
-Dialogue: 1,0:00:32.54,0:00:32.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} it
-Dialogue: 1,0:00:32.76,0:00:33.10,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.88,0:00:07.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} ChatGPT or
+Dialogue: 1,0:00:07.62,0:00:09.04,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:09.04,0:00:09.44,Cap,,0,0,0,,{\pos(540,1400)}from ChatGPT {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.44,0:00:10.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Gemini{\c&H00FFFFFF&} or the
+Dialogue: 1,0:00:10.96,0:00:12.18,Cap,,0,0,0,,{\pos(540,1400)}Gemini {\c&H0060ECCD}or{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:12.18,0:00:12.34,Cap,,0,0,0,,{\pos(540,1400)}Gemini or {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.34,0:00:12.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} AI search
+Dialogue: 1,0:00:12.60,0:00:12.92,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}AI{\c&H00FFFFFF&} search
+Dialogue: 1,0:00:12.92,0:00:13.64,Cap,,0,0,0,,{\pos(540,1400)}Google AI {\c&H0060ECCD}search{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.74,0:00:14.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} we actually
+Dialogue: 1,0:00:14.20,0:00:14.42,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}we{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:14.42,0:00:14.78,Cap,,0,0,0,,{\pos(540,1400)}And we {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.78,0:00:15.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}track{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:15.26,0:00:15.80,Cap,,0,0,0,,{\pos(540,1400)}track {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.80,0:00:16.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}single{\c&H00FFFFFF&} phone
+Dialogue: 1,0:00:16.36,0:00:18.26,Cap,,0,0,0,,{\pos(540,1400)}single {\c&H0060ECCD}phone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.26,0:00:18.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.22,0:00:19.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}text{\c&H00FFFFFF&} message
+Dialogue: 1,0:00:19.56,0:00:20.38,Cap,,0,0,0,,{\pos(540,1400)}text {\c&H0060ECCD}message{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.48,0:00:21.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} form that
+Dialogue: 1,0:00:21.14,0:00:21.54,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}form{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:21.54,0:00:22.04,Cap,,0,0,0,,{\pos(540,1400)}website form {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.04,0:00:22.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}comes{\c&H00FFFFFF&} into our
+Dialogue: 1,0:00:22.34,0:00:22.56,Cap,,0,0,0,,{\pos(540,1400)}comes {\c&H0060ECCD}into{\c&H00FFFFFF&} our
+Dialogue: 1,0:00:22.56,0:00:22.74,Cap,,0,0,0,,{\pos(540,1400)}comes into {\c&H0060ECCD}our{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.74,0:00:23.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clients{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.04,0:00:23.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}businesses{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:23.40,0:00:23.66,Cap,,0,0,0,,{\pos(540,1400)}businesses {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.66,0:00:23.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}track{\c&H00FFFFFF&} all of them
+Dialogue: 1,0:00:23.94,0:00:24.20,Cap,,0,0,0,,{\pos(540,1400)}track {\c&H0060ECCD}all{\c&H00FFFFFF&} of them
+Dialogue: 1,0:00:24.20,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}track all {\c&H0060ECCD}of{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:24.34,0:00:24.46,Cap,,0,0,0,,{\pos(540,1400)}track all of {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.46,0:00:24.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} attribution
+Dialogue: 1,0:00:24.66,0:00:25.40,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}attribution{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.40,0:00:25.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tracking{\c&H00FFFFFF&} so if
+Dialogue: 1,0:00:25.88,0:00:26.28,Cap,,0,0,0,,{\pos(540,1400)}tracking {\c&H0060ECCD}so{\c&H00FFFFFF&} if
+Dialogue: 1,0:00:26.28,0:00:26.82,Cap,,0,0,0,,{\pos(540,1400)}tracking so {\c&H0060ECCD}if{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.82,0:00:27.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}someone{\c&H00FFFFFF&} searches
+Dialogue: 1,0:00:27.16,0:00:27.56,Cap,,0,0,0,,{\pos(540,1400)}someone {\c&H0060ECCD}searches{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.56,0:00:27.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} ChatGPT and
+Dialogue: 1,0:00:27.76,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:28.46,0:00:29.36,Cap,,0,0,0,,{\pos(540,1400)}on ChatGPT {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.36,0:00:29.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} they call
+Dialogue: 1,0:00:29.60,0:00:30.20,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}they{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:30.20,0:00:31.16,Cap,,0,0,0,,{\pos(540,1400)}then they {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.16,0:00:31.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} customer or
+Dialogue: 1,0:00:31.48,0:00:31.92,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}customer{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:31.92,0:00:32.20,Cap,,0,0,0,,{\pos(540,1400)}our customer {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.20,0:00:32.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} client's
+Dialogue: 1,0:00:32.36,0:00:32.80,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}client's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.80,0:00:33.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} we know
+Dialogue: 1,0:00:33.18,0:00:33.92,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}we{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:33.92,0:00:34.12,Cap,,0,0,0,,{\pos(540,1400)}business we {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.12,0:00:34.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:34.34,0:00:34.68,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}it{\c&H00FFFFFF&}

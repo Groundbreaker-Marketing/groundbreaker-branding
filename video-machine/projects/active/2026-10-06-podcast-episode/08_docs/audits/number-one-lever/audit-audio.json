@@ -1,6 +1,6 @@
 {
   "clip": "number-one-lever.mp4",
-  "duration_s": 50.8,
+  "duration_s": 51.3,
   "speech_level_db": -16.5,
   "verdict": "PASS",
   "checks": {
@@ -8,7 +8,7 @@
       "pass": true,
       "issues": [],
       "head_edge_db_below_speech": 20.8,
-      "tail_edge_db_below_speech": 23.5,
+      "tail_edge_db_below_speech": 29.5,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,14 +18,14 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.0181,
-      "railed_samples_total": 3704,
+      "railed_fraction_pct": 0.0177,
+      "railed_samples_total": 3678,
       "peak_abs": 1.191,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
-      "avg_voice_db": -17.9,
+      "avg_voice_db": -18.1,
       "range_db": 2.1,
       "issues": []
     },
@@ -37,19 +37,19 @@
           "freq_hz": 477.5,
           "grid_hz": 480,
           "off_grid": true,
-          "prominence_db": 4.7
+          "prominence_db": 4.9
         },
         {
           "freq_hz": 422.6,
           "grid_hz": 420,
           "off_grid": true,
-          "prominence_db": 4.6
+          "prominence_db": 4.5
         },
         {
-          "freq_hz": 551.5,
+          "freq_hz": 550.8,
           "grid_hz": 550,
           "off_grid": true,
-          "prominence_db": 3.7
+          "prominence_db": 4.1
         }
       ],
       "issues": []
@@ -57,7 +57,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 30,
-      "close_tail_ms": 145,
+      "close_tail_ms": 355,
       "issues": []
     },
     "music_balance": {

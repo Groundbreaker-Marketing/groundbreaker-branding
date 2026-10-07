@@ -1,6 +1,6 @@
 {
   "clip": "ai-visibility-tracker.mp4",
-  "duration_s": 48.4,
+  "duration_s": 55.2,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "|< t > \u00e9 : mo E > . i s* wv. Ashley Chri",
-          "problem": "line long (76 chars)",
+          "text": "Pp \\' \\ Da | \\ r 4\u201c - VA i) 4 } \u00bb & : \u2014 ",
+          "problem": "line long (89 chars)",
           "severity": "warn"
         }
       ]

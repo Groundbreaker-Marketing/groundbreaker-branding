@@ -13,8 +13,8 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:39.74,Title,,0,0,0,,{\pos(540,600)}Do what\N{\c&H0060ECCD}Google{\c&H00FFFFFF&} wants
-Dialogue: 2,0:00:00.00,0:00:39.74,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:43.59,Title,,0,0,0,,{\pos(540,600)}Do what\N{\c&H0060ECCD}Google{\c&H00FFFFFF&} wants
+Dialogue: 2,0:00:00.00,0:00:43.59,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
 Dialogue: 1,0:00:00.00,0:00:00.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} clients who
 Dialogue: 1,0:00:00.30,0:00:00.64,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}clients{\c&H00FFFFFF&} who
 Dialogue: 1,0:00:00.64,0:00:00.78,Cap,,0,0,0,,{\pos(540,1400)}our clients {\c&H0060ECCD}who{\c&H00FFFFFF&}
@@ -42,114 +42,114 @@ Dialogue: 1,0:00:06.96,0:00:07.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gett
 Dialogue: 1,0:00:07.20,0:00:07.58,Cap,,0,0,0,,{\pos(540,1400)}getting {\c&H0060ECCD}leads{\c&H00FFFFFF&} and
 Dialogue: 1,0:00:07.58,0:00:07.76,Cap,,0,0,0,,{\pos(540,1400)}getting leads {\c&H0060ECCD}and{\c&H00FFFFFF&}
 Dialogue: 1,0:00:07.76,0:00:08.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} and website
-Dialogue: 1,0:00:08.16,0:00:08.48,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}and{\c&H00FFFFFF&} website
-Dialogue: 1,0:00:08.48,0:00:09.18,Cap,,0,0,0,,{\pos(540,1400)}calls and {\c&H0060ECCD}website{\c&H00FFFFFF&}
-Dialogue: 1,0:00:09.18,0:00:09.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}forms{\c&H00FFFFFF&} into their
-Dialogue: 1,0:00:09.54,0:00:10.02,Cap,,0,0,0,,{\pos(540,1400)}forms {\c&H0060ECCD}into{\c&H00FFFFFF&} their
-Dialogue: 1,0:00:10.02,0:00:10.20,Cap,,0,0,0,,{\pos(540,1400)}forms into {\c&H0060ECCD}their{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.20,0:00:10.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} from AI
-Dialogue: 1,0:00:10.50,0:00:11.00,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}from{\c&H00FFFFFF&} AI
-Dialogue: 1,0:00:11.00,0:00:11.34,Cap,,0,0,0,,{\pos(540,1400)}business from {\c&H0060ECCD}AI{\c&H00FFFFFF&}
-Dialogue: 1,0:00:11.34,0:00:11.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} that's that
-Dialogue: 1,0:00:11.76,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}that's{\c&H00FFFFFF&} that
-Dialogue: 1,0:00:12.80,0:00:13.18,Cap,,0,0,0,,{\pos(540,1400)}so that's {\c&H0060ECCD}that{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.18,0:00:13.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} I tell
-Dialogue: 1,0:00:13.50,0:00:13.64,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}I{\c&H00FFFFFF&} tell
-Dialogue: 1,0:00:13.64,0:00:13.90,Cap,,0,0,0,,{\pos(540,1400)}when I {\c&H0060ECCD}tell{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.90,0:00:14.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} that
-Dialogue: 1,0:00:14.14,0:00:14.48,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}that{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.48,0:00:15.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they're{\c&H00FFFFFF&} usually
-Dialogue: 1,0:00:15.52,0:00:15.70,Cap,,0,0,0,,{\pos(540,1400)}they're {\c&H0060ECCD}usually{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.70,0:00:15.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} yeah let's
-Dialogue: 1,0:00:15.88,0:00:16.00,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}yeah{\c&H00FFFFFF&} let's
-Dialogue: 1,0:00:16.00,0:00:16.26,Cap,,0,0,0,,{\pos(540,1400)}like yeah {\c&H0060ECCD}let's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.26,0:00:16.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}publish{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:16.54,0:00:16.68,Cap,,0,0,0,,{\pos(540,1400)}publish {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.68,0:00:16.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}prices{\c&H00FFFFFF&} so most of
-Dialogue: 1,0:00:16.96,0:00:17.30,Cap,,0,0,0,,{\pos(540,1400)}prices {\c&H0060ECCD}so{\c&H00FFFFFF&} most of
-Dialogue: 1,0:00:17.30,0:00:17.90,Cap,,0,0,0,,{\pos(540,1400)}prices so {\c&H0060ECCD}most{\c&H00FFFFFF&} of
-Dialogue: 1,0:00:17.90,0:00:18.00,Cap,,0,0,0,,{\pos(540,1400)}prices so most {\c&H0060ECCD}of{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.00,0:00:18.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} time people
-Dialogue: 1,0:00:18.08,0:00:18.26,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}time{\c&H00FFFFFF&} people
-Dialogue: 1,0:00:18.26,0:00:18.50,Cap,,0,0,0,,{\pos(540,1400)}the time {\c&H0060ECCD}people{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.50,0:00:18.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} have an
-Dialogue: 1,0:00:18.72,0:00:18.86,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}have{\c&H00FFFFFF&} an
-Dialogue: 1,0:00:18.86,0:00:18.98,Cap,,0,0,0,,{\pos(540,1400)}don't have {\c&H0060ECCD}an{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.98,0:00:19.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}issue{\c&H00FFFFFF&} with
-Dialogue: 1,0:00:19.24,0:00:19.44,Cap,,0,0,0,,{\pos(540,1400)}issue {\c&H0060ECCD}with{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.44,0:00:19.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}publishing{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:19.84,0:00:20.02,Cap,,0,0,0,,{\pos(540,1400)}publishing {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.02,0:00:20.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}prices{\c&H00FFFFFF&} when they
-Dialogue: 1,0:00:20.32,0:00:20.60,Cap,,0,0,0,,{\pos(540,1400)}prices {\c&H0060ECCD}when{\c&H00FFFFFF&} they
-Dialogue: 1,0:00:20.60,0:00:20.72,Cap,,0,0,0,,{\pos(540,1400)}prices when {\c&H0060ECCD}they{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.72,0:00:21.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}understand{\c&H00FFFFFF&} what
-Dialogue: 1,0:00:21.10,0:00:21.28,Cap,,0,0,0,,{\pos(540,1400)}understand {\c&H0060ECCD}what{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.28,0:00:21.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} does but more
-Dialogue: 1,0:00:21.40,0:00:21.68,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}does{\c&H00FFFFFF&} but more
-Dialogue: 1,0:00:21.68,0:00:22.28,Cap,,0,0,0,,{\pos(540,1400)}it does {\c&H0060ECCD}but{\c&H00FFFFFF&} more
-Dialogue: 1,0:00:22.28,0:00:22.56,Cap,,0,0,0,,{\pos(540,1400)}it does but {\c&H0060ECCD}more{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.56,0:00:22.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} more Google
-Dialogue: 1,0:00:22.68,0:00:22.86,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}more{\c&H00FFFFFF&} Google
-Dialogue: 1,0:00:22.86,0:00:23.16,Cap,,0,0,0,,{\pos(540,1400)}and more {\c&H0060ECCD}Google{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.16,0:00:23.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} pushing people
-Dialogue: 1,0:00:23.38,0:00:23.72,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}pushing{\c&H00FFFFFF&} people
-Dialogue: 1,0:00:23.72,0:00:24.24,Cap,,0,0,0,,{\pos(540,1400)}is pushing {\c&H0060ECCD}people{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.24,0:00:24.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}towards{\c&H00FFFFFF&} showing
-Dialogue: 1,0:00:24.82,0:00:25.70,Cap,,0,0,0,,{\pos(540,1400)}towards {\c&H0060ECCD}showing{\c&H00FFFFFF&}
-Dialogue: 1,0:00:25.70,0:00:25.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} prices the
-Dialogue: 1,0:00:25.90,0:00:26.22,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}prices{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:26.22,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}your prices {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.46,0:00:26.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} that you
-Dialogue: 1,0:00:26.64,0:00:26.84,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}that{\c&H00FFFFFF&} you
-Dialogue: 1,0:00:26.84,0:00:26.96,Cap,,0,0,0,,{\pos(540,1400)}more that {\c&H0060ECCD}you{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.96,0:00:27.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}show{\c&H00FFFFFF&} your prices
-Dialogue: 1,0:00:27.14,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}show {\c&H0060ECCD}your{\c&H00FFFFFF&} prices
-Dialogue: 1,0:00:27.28,0:00:27.66,Cap,,0,0,0,,{\pos(540,1400)}show your {\c&H0060ECCD}prices{\c&H00FFFFFF&}
-Dialogue: 1,0:00:27.66,0:00:28.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} more you're
-Dialogue: 1,0:00:28.20,0:00:28.38,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}more{\c&H00FFFFFF&} you're
-Dialogue: 1,0:00:28.38,0:00:28.56,Cap,,0,0,0,,{\pos(540,1400)}the more {\c&H0060ECCD}you're{\c&H00FFFFFF&}
-Dialogue: 1,0:00:28.56,0:00:28.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to show up
-Dialogue: 1,0:00:28.66,0:00:28.76,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} show up
-Dialogue: 1,0:00:28.76,0:00:28.96,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}show{\c&H00FFFFFF&} up
-Dialogue: 1,0:00:28.96,0:00:29.16,Cap,,0,0,0,,{\pos(540,1400)}going to show {\c&H0060ECCD}up{\c&H00FFFFFF&}
-Dialogue: 1,0:00:29.16,0:00:29.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} is what
-Dialogue: 1,0:00:29.42,0:00:29.56,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}is{\c&H00FFFFFF&} what
-Dialogue: 1,0:00:29.56,0:00:29.82,Cap,,0,0,0,,{\pos(540,1400)}this is {\c&H0060ECCD}what{\c&H00FFFFFF&}
-Dialogue: 1,0:00:29.82,0:00:30.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} wants from
-Dialogue: 1,0:00:30.12,0:00:30.70,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}wants{\c&H00FFFFFF&} from
-Dialogue: 1,0:00:30.70,0:00:31.30,Cap,,0,0,0,,{\pos(540,1400)}Google wants {\c&H0060ECCD}from{\c&H00FFFFFF&}
-Dialogue: 1,0:00:31.30,0:00:31.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&}
-Dialogue: 1,0:00:31.92,0:00:32.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} the more you
-Dialogue: 1,0:00:32.28,0:00:32.38,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}the{\c&H00FFFFFF&} more you
-Dialogue: 1,0:00:32.38,0:00:32.54,Cap,,0,0,0,,{\pos(540,1400)}So the {\c&H0060ECCD}more{\c&H00FFFFFF&} you
-Dialogue: 1,0:00:32.54,0:00:32.74,Cap,,0,0,0,,{\pos(540,1400)}So the more {\c&H0060ECCD}you{\c&H00FFFFFF&}
-Dialogue: 1,0:00:32.74,0:00:33.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} what Google
-Dialogue: 1,0:00:33.00,0:00:33.26,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}what{\c&H00FFFFFF&} Google
-Dialogue: 1,0:00:33.26,0:00:33.48,Cap,,0,0,0,,{\pos(540,1400)}do what {\c&H0060ECCD}Google{\c&H00FFFFFF&}
-Dialogue: 1,0:00:33.48,0:00:33.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wants{\c&H00FFFFFF&}
-Dialogue: 1,0:00:33.90,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} more they're
-Dialogue: 1,0:00:33.96,0:00:34.10,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}more{\c&H00FFFFFF&} they're
-Dialogue: 1,0:00:34.10,0:00:34.32,Cap,,0,0,0,,{\pos(540,1400)}the more {\c&H0060ECCD}they're{\c&H00FFFFFF&}
-Dialogue: 1,0:00:34.32,0:00:34.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to reward
-Dialogue: 1,0:00:34.40,0:00:34.48,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} reward
-Dialogue: 1,0:00:34.48,0:00:34.78,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}reward{\c&H00FFFFFF&}
-Dialogue: 1,0:00:34.78,0:00:35.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} by showing
-Dialogue: 1,0:00:35.00,0:00:35.18,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}by{\c&H00FFFFFF&} showing
-Dialogue: 1,0:00:35.18,0:00:35.52,Cap,,0,0,0,,{\pos(540,1400)}you by {\c&H0060ECCD}showing{\c&H00FFFFFF&}
-Dialogue: 1,0:00:35.52,0:00:35.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} first
-Dialogue: 1,0:00:35.82,0:00:36.32,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}first{\c&H00FFFFFF&}
-Dialogue: 1,0:00:36.32,0:00:36.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} is really
-Dialogue: 1,0:00:36.42,0:00:36.70,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}is{\c&H00FFFFFF&} really
-Dialogue: 1,0:00:36.70,0:00:36.98,Cap,,0,0,0,,{\pos(540,1400)}which is {\c&H0060ECCD}really{\c&H00FFFFFF&}
-Dialogue: 1,0:00:36.98,0:00:37.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} win of what
-Dialogue: 1,0:00:37.28,0:00:37.58,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}win{\c&H00FFFFFF&} of what
-Dialogue: 1,0:00:37.58,0:00:37.74,Cap,,0,0,0,,{\pos(540,1400)}the win {\c&H0060ECCD}of{\c&H00FFFFFF&} what
-Dialogue: 1,0:00:37.74,0:00:37.84,Cap,,0,0,0,,{\pos(540,1400)}the win of {\c&H0060ECCD}what{\c&H00FFFFFF&}
-Dialogue: 1,0:00:37.84,0:00:37.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we're{\c&H00FFFFFF&} trying to
-Dialogue: 1,0:00:37.96,0:00:38.12,Cap,,0,0,0,,{\pos(540,1400)}we're {\c&H0060ECCD}trying{\c&H00FFFFFF&} to
-Dialogue: 1,0:00:38.12,0:00:38.24,Cap,,0,0,0,,{\pos(540,1400)}we're trying {\c&H0060ECCD}to{\c&H00FFFFFF&}
-Dialogue: 1,0:00:38.24,0:00:38.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}get{\c&H00FFFFFF&} and grow the
-Dialogue: 1,0:00:38.42,0:00:38.94,Cap,,0,0,0,,{\pos(540,1400)}get {\c&H0060ECCD}and{\c&H00FFFFFF&} grow the
-Dialogue: 1,0:00:38.94,0:00:39.10,Cap,,0,0,0,,{\pos(540,1400)}get and {\c&H0060ECCD}grow{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:39.10,0:00:39.22,Cap,,0,0,0,,{\pos(540,1400)}get and grow {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:39.22,0:00:39.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.16,0:00:09.28,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}and{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:09.28,0:00:09.98,Cap,,0,0,0,,{\pos(540,1400)}calls and {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.98,0:00:10.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}forms{\c&H00FFFFFF&} into their
+Dialogue: 1,0:00:10.34,0:00:10.82,Cap,,0,0,0,,{\pos(540,1400)}forms {\c&H0060ECCD}into{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:10.82,0:00:11.00,Cap,,0,0,0,,{\pos(540,1400)}forms into {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.00,0:00:11.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} from AI
+Dialogue: 1,0:00:11.30,0:00:11.80,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}from{\c&H00FFFFFF&} AI
+Dialogue: 1,0:00:11.80,0:00:12.14,Cap,,0,0,0,,{\pos(540,1400)}business from {\c&H0060ECCD}AI{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.14,0:00:12.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} that's that
+Dialogue: 1,0:00:12.56,0:00:13.60,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}that's{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:13.60,0:00:13.98,Cap,,0,0,0,,{\pos(540,1400)}so that's {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.98,0:00:14.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} I tell
+Dialogue: 1,0:00:14.30,0:00:14.44,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}I{\c&H00FFFFFF&} tell
+Dialogue: 1,0:00:14.44,0:00:14.70,Cap,,0,0,0,,{\pos(540,1400)}when I {\c&H0060ECCD}tell{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.70,0:00:14.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:14.94,0:00:15.28,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.28,0:00:16.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they're{\c&H00FFFFFF&} usually
+Dialogue: 1,0:00:16.32,0:00:16.50,Cap,,0,0,0,,{\pos(540,1400)}they're {\c&H0060ECCD}usually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.50,0:00:16.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} yeah let's
+Dialogue: 1,0:00:16.68,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}yeah{\c&H00FFFFFF&} let's
+Dialogue: 1,0:00:16.80,0:00:17.06,Cap,,0,0,0,,{\pos(540,1400)}like yeah {\c&H0060ECCD}let's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.06,0:00:17.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}publish{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:17.34,0:00:17.48,Cap,,0,0,0,,{\pos(540,1400)}publish {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.48,0:00:17.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}prices{\c&H00FFFFFF&} so most of
+Dialogue: 1,0:00:17.76,0:00:18.10,Cap,,0,0,0,,{\pos(540,1400)}prices {\c&H0060ECCD}so{\c&H00FFFFFF&} most of
+Dialogue: 1,0:00:18.10,0:00:18.70,Cap,,0,0,0,,{\pos(540,1400)}prices so {\c&H0060ECCD}most{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:18.70,0:00:18.80,Cap,,0,0,0,,{\pos(540,1400)}prices so most {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.80,0:00:18.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} time people
+Dialogue: 1,0:00:18.88,0:00:19.06,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}time{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:19.06,0:00:19.30,Cap,,0,0,0,,{\pos(540,1400)}the time {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.30,0:00:19.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} have an
+Dialogue: 1,0:00:19.52,0:00:19.66,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}have{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:19.66,0:00:19.78,Cap,,0,0,0,,{\pos(540,1400)}don't have {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.78,0:00:20.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}issue{\c&H00FFFFFF&} with
+Dialogue: 1,0:00:20.04,0:00:20.24,Cap,,0,0,0,,{\pos(540,1400)}issue {\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.24,0:00:20.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}publishing{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:20.64,0:00:20.82,Cap,,0,0,0,,{\pos(540,1400)}publishing {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.82,0:00:21.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}prices{\c&H00FFFFFF&} when they
+Dialogue: 1,0:00:21.12,0:00:21.40,Cap,,0,0,0,,{\pos(540,1400)}prices {\c&H0060ECCD}when{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:21.40,0:00:21.52,Cap,,0,0,0,,{\pos(540,1400)}prices when {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.52,0:00:21.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}understand{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:21.90,0:00:22.08,Cap,,0,0,0,,{\pos(540,1400)}understand {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.08,0:00:22.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} does but more
+Dialogue: 1,0:00:22.20,0:00:23.38,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}does{\c&H00FFFFFF&} but more
+Dialogue: 1,0:00:23.38,0:00:23.98,Cap,,0,0,0,,{\pos(540,1400)}it does {\c&H0060ECCD}but{\c&H00FFFFFF&} more
+Dialogue: 1,0:00:23.98,0:00:24.26,Cap,,0,0,0,,{\pos(540,1400)}it does but {\c&H0060ECCD}more{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.26,0:00:24.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} more Google
+Dialogue: 1,0:00:24.38,0:00:24.56,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}more{\c&H00FFFFFF&} Google
+Dialogue: 1,0:00:24.56,0:00:24.86,Cap,,0,0,0,,{\pos(540,1400)}and more {\c&H0060ECCD}Google{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.86,0:00:25.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} pushing people
+Dialogue: 1,0:00:25.08,0:00:25.42,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}pushing{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:25.42,0:00:25.94,Cap,,0,0,0,,{\pos(540,1400)}is pushing {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.94,0:00:28.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}towards{\c&H00FFFFFF&} showing
+Dialogue: 1,0:00:28.24,0:00:29.12,Cap,,0,0,0,,{\pos(540,1400)}towards {\c&H0060ECCD}showing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.12,0:00:29.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} prices the
+Dialogue: 1,0:00:29.32,0:00:29.64,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}prices{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:29.64,0:00:29.88,Cap,,0,0,0,,{\pos(540,1400)}your prices {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.88,0:00:30.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} that you
+Dialogue: 1,0:00:30.06,0:00:30.26,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}that{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:30.26,0:00:30.38,Cap,,0,0,0,,{\pos(540,1400)}more that {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.38,0:00:30.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}show{\c&H00FFFFFF&} your prices
+Dialogue: 1,0:00:30.56,0:00:30.70,Cap,,0,0,0,,{\pos(540,1400)}show {\c&H0060ECCD}your{\c&H00FFFFFF&} prices
+Dialogue: 1,0:00:30.70,0:00:31.08,Cap,,0,0,0,,{\pos(540,1400)}show your {\c&H0060ECCD}prices{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.08,0:00:31.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} more you're
+Dialogue: 1,0:00:31.62,0:00:31.80,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}more{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:31.80,0:00:31.98,Cap,,0,0,0,,{\pos(540,1400)}the more {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.98,0:00:32.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to show up
+Dialogue: 1,0:00:32.08,0:00:32.18,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} show up
+Dialogue: 1,0:00:32.18,0:00:32.38,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}show{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:32.38,0:00:32.58,Cap,,0,0,0,,{\pos(540,1400)}going to show {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.58,0:00:32.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} is what
+Dialogue: 1,0:00:32.84,0:00:32.98,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}is{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:32.98,0:00:33.24,Cap,,0,0,0,,{\pos(540,1400)}this is {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.24,0:00:33.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} wants from
+Dialogue: 1,0:00:33.54,0:00:34.12,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}wants{\c&H00FFFFFF&} from
+Dialogue: 1,0:00:34.12,0:00:34.72,Cap,,0,0,0,,{\pos(540,1400)}Google wants {\c&H0060ECCD}from{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.72,0:00:35.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.34,0:00:35.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} the more you
+Dialogue: 1,0:00:35.70,0:00:35.80,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}the{\c&H00FFFFFF&} more you
+Dialogue: 1,0:00:35.80,0:00:35.96,Cap,,0,0,0,,{\pos(540,1400)}So the {\c&H0060ECCD}more{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:35.96,0:00:36.16,Cap,,0,0,0,,{\pos(540,1400)}So the more {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.16,0:00:36.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} what Google
+Dialogue: 1,0:00:36.42,0:00:36.68,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}what{\c&H00FFFFFF&} Google
+Dialogue: 1,0:00:36.68,0:00:36.90,Cap,,0,0,0,,{\pos(540,1400)}do what {\c&H0060ECCD}Google{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.90,0:00:37.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wants{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.32,0:00:37.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} more they're
+Dialogue: 1,0:00:37.38,0:00:37.52,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}more{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:37.52,0:00:37.74,Cap,,0,0,0,,{\pos(540,1400)}the more {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.74,0:00:37.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to reward
+Dialogue: 1,0:00:37.82,0:00:37.90,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} reward
+Dialogue: 1,0:00:37.90,0:00:38.20,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}reward{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.20,0:00:38.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} by showing
+Dialogue: 1,0:00:38.42,0:00:38.60,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}by{\c&H00FFFFFF&} showing
+Dialogue: 1,0:00:38.60,0:00:38.94,Cap,,0,0,0,,{\pos(540,1400)}you by {\c&H0060ECCD}showing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.94,0:00:39.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} first
+Dialogue: 1,0:00:39.24,0:00:39.74,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}first{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.74,0:00:40.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} is really
+Dialogue: 1,0:00:40.10,0:00:40.38,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}is{\c&H00FFFFFF&} really
+Dialogue: 1,0:00:40.38,0:00:40.66,Cap,,0,0,0,,{\pos(540,1400)}which is {\c&H0060ECCD}really{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.66,0:00:40.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} win of what
+Dialogue: 1,0:00:40.96,0:00:41.26,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}win{\c&H00FFFFFF&} of what
+Dialogue: 1,0:00:41.26,0:00:41.42,Cap,,0,0,0,,{\pos(540,1400)}the win {\c&H0060ECCD}of{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:41.42,0:00:41.52,Cap,,0,0,0,,{\pos(540,1400)}the win of {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.52,0:00:41.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we're{\c&H00FFFFFF&} trying to
+Dialogue: 1,0:00:41.64,0:00:41.80,Cap,,0,0,0,,{\pos(540,1400)}we're {\c&H0060ECCD}trying{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:41.80,0:00:41.92,Cap,,0,0,0,,{\pos(540,1400)}we're trying {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.92,0:00:42.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}get{\c&H00FFFFFF&} and grow the
+Dialogue: 1,0:00:42.10,0:00:42.62,Cap,,0,0,0,,{\pos(540,1400)}get {\c&H0060ECCD}and{\c&H00FFFFFF&} grow the
+Dialogue: 1,0:00:42.62,0:00:42.78,Cap,,0,0,0,,{\pos(540,1400)}get and {\c&H0060ECCD}grow{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:42.78,0:00:42.90,Cap,,0,0,0,,{\pos(540,1400)}get and grow {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.90,0:00:43.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&}

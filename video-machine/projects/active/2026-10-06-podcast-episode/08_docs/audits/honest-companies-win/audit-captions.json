@@ -1,6 +1,6 @@
 {
   "clip": "honest-companies-win.mp4",
-  "duration_s": 37.7,
+  "duration_s": 45.7,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,14 @@
       "issues": [
         {
           "event": 0,
-          "text": "Se: \\ \u00e9 mo, I > seat . Ce Ashley Christi",
-          "problem": "line long (71 chars)",
+          "text": "a a Ashley Christi 1G dbreaker Marketi l",
+          "problem": "trailing punctuation",
+          "severity": "warn"
+        },
+        {
+          "event": 0,
+          "text": "a a Ashley Christi 1G dbreaker Marketi l",
+          "problem": "line long (82 chars)",
           "severity": "warn"
         }
       ]

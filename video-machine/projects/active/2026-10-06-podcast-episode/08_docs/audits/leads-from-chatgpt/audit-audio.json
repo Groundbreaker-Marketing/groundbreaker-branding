@@ -1,6 +1,6 @@
 {
   "clip": "leads-from-chatgpt.mp4",
-  "duration_s": 33.0,
+  "duration_s": 34.6,
   "speech_level_db": -15.7,
   "verdict": "PASS",
   "checks": {
@@ -8,7 +8,7 @@
       "pass": true,
       "issues": [],
       "head_edge_db_below_speech": 3.5,
-      "tail_edge_db_below_speech": 6.1,
+      "tail_edge_db_below_speech": 6.4,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,15 +18,15 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.0174,
-      "railed_samples_total": 2632,
-      "peak_abs": 1.193,
+      "railed_fraction_pct": 0.0176,
+      "railed_samples_total": 2726,
+      "peak_abs": 1.191,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
       "avg_voice_db": -17.1,
-      "range_db": 1.8,
+      "range_db": 2.0,
       "issues": []
     },
     "buzz_hum": {
@@ -34,22 +34,22 @@
       "music_declared": false,
       "top_candidates": [
         {
+          "freq_hz": 297.4,
+          "grid_hz": 300,
+          "off_grid": true,
+          "prominence_db": 6.8
+        },
+        {
+          "freq_hz": 297.4,
+          "grid_hz": 300,
+          "off_grid": true,
+          "prominence_db": 6.8
+        },
+        {
           "freq_hz": 550.8,
           "grid_hz": 550,
           "off_grid": true,
-          "prominence_db": 6.1
-        },
-        {
-          "freq_hz": 297.4,
-          "grid_hz": 300,
-          "off_grid": true,
-          "prominence_db": 5.9
-        },
-        {
-          "freq_hz": 297.4,
-          "grid_hz": 300,
-          "off_grid": true,
-          "prominence_db": 5.9
+          "prominence_db": 5.4
         }
       ],
       "issues": []
@@ -57,7 +57,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 0,
-      "close_tail_ms": 45,
+      "close_tail_ms": 35,
       "issues": []
     },
     "music_balance": {

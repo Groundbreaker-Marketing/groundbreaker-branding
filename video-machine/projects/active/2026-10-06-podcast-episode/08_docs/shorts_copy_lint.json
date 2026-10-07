@@ -1,5 +1,25 @@
 {
+  "record-every-call": {
+    "fails": [],
+    "warns": []
+  },
+  "number-one-lever": {
+    "fails": [],
+    "warns": []
+  },
+  "leads-from-chatgpt": {
+    "fails": [],
+    "warns": []
+  },
   "ai-visibility-tracker": {
+    "fails": [],
+    "warns": []
+  },
+  "do-what-google-wants": {
+    "fails": [],
+    "warns": []
+  },
+  "competitors-undercut": {
     "fails": [],
     "warns": []
   },
@@ -8,6 +28,34 @@
     "warns": []
   },
   "one-fair-price": {
+    "fails": [],
+    "warns": []
+  },
+  "honest-companies-win": {
+    "fails": [],
+    "warns": []
+  },
+  "what-google-rewards": {
+    "fails": [],
+    "warns": []
+  },
+  "google-ai-calls": {
+    "fails": [],
+    "warns": []
+  },
+  "price-by-distance": {
+    "fails": [],
+    "warns": []
+  },
+  "post-variable-prices": {
+    "fails": [],
+    "warns": []
+  },
+  "install-prices": {
+    "fails": [],
+    "warns": []
+  },
+  "beyond-wordpress": {
     "fails": [],
     "warns": []
   }

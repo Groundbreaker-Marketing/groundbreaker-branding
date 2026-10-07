@@ -1,13 +1,13 @@
 0:00 600 client questions in 30 days
-2:11 Why we record every client conversation
-4:08 Question 1: why publish your prices?
-6:04 Tracking leads from ChatGPT and Gemini
-8:10 Will competitors undercut me?
-9:32 The $500 coupon competitor
-11:04 What customers want: no haggling
-13:51 Google's AI now calls you for a quote
-16:05 What if my prices vary by distance?
-17:15 How to post ranges, tiers and starting prices
-19:13 Why we build on Astro instead of WordPress
-21:46 Pricing calculators
-22:31 Wrapping up
+2:14 Why we record every client conversation
+4:13 Question 1: why publish your prices?
+6:10 Tracking leads from ChatGPT and Gemini
+8:29 Will competitors undercut me?
+9:53 The $500 coupon competitor
+11:28 What customers want: no haggling
+14:18 Google's AI now calls you for a quote
+16:37 What if my prices vary by distance?
+17:49 How to post ranges, tiers and starting prices
+19:54 Why we build on Astro instead of WordPress
+22:28 Pricing calculators
+23:18 Wrapping up

@@ -2,8 +2,8 @@
   "clip": "google-ai-calls.mp4",
   "resolution": "1080x1920",
   "fps": 25.0,
-  "duration_s": 38.0,
-  "total_frames": 949,
+  "duration_s": 36.2,
+  "total_frames": 904,
   "verdict": "PASS",
   "checks": {
     "aspect_ratio": {
@@ -22,7 +22,7 @@
       "zoom_moves_within_shots": 0,
       "max_within_shot_dy_pct": 0.29,
       "max_gateable_within_dy_pct": 0.0,
-      "max_within_shot_dx_pct": 0.61,
+      "max_within_shot_dx_pct": 0.4,
       "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
       "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
       "within_dy_err_threshold_pct": 2.6,
@@ -37,8 +37,8 @@
     },
     "framing": {
       "pass": true,
-      "avg_face_size_pct": 1.4,
-      "max_sustained_deviation_pct": 12.4,
+      "avg_face_size_pct": 1.5,
+      "max_sustained_deviation_pct": 7.8,
       "segments": 1,
       "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"

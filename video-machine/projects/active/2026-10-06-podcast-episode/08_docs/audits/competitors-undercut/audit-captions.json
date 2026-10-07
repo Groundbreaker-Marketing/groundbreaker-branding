@@ -1,6 +1,6 @@
 {
   "clip": "competitors-undercut.mp4",
-  "duration_s": 32.8,
+  "duration_s": 33.2,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "f | a 7 if wt \u2018 a ) 8 Ashley Christian -",
-          "problem": "line long (64 chars)",
+          "text": "t S ' \\ <i \\ e a \u2018 r 4 ty f y / Ashley C",
+          "problem": "line long (74 chars)",
           "severity": "warn"
         }
       ]

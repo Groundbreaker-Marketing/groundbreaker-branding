@@ -1,6 +1,6 @@
 {
   "clip": "leads-from-chatgpt.mp4",
-  "duration_s": 33.0,
+  "duration_s": 34.6,
   "transcript_words": 0,
   "caption_chunks": 1,
   "video_wh": [
@@ -45,8 +45,8 @@
       "issues": [
         {
           "event": 0,
-          "text": "\u2018Se - ' = G a) 4\u00a2 / $c\u2019. . \u00ab Ashley Chri",
-          "problem": "line long (76 chars)",
+          "text": "il \u2018es \u2018 \u201c \\ yo \\ nO, 4 y 4 7 6 \u00abx a ay ",
+          "problem": "line long (90 chars)",
           "severity": "warn"
         }
       ]

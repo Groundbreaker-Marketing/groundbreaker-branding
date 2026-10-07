@@ -2,9 +2,9 @@
   "clip": "record-every-call.mp4",
   "resolution": "1080x1920",
   "fps": 25.0,
-  "duration_s": 38.9,
-  "total_frames": 971,
-  "verdict": "PASS",
+  "duration_s": 44.2,
+  "total_frames": 1103,
+  "verdict": "FAIL",
   "checks": {
     "aspect_ratio": {
       "pass": true,
@@ -22,7 +22,7 @@
       "zoom_moves_within_shots": 0,
       "max_within_shot_dy_pct": 0.05,
       "max_gateable_within_dy_pct": 0.0,
-      "max_within_shot_dx_pct": 0.14,
+      "max_within_shot_dx_pct": 0.11,
       "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
       "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
       "within_dy_err_threshold_pct": 2.6,
@@ -38,15 +38,30 @@
     "framing": {
       "pass": true,
       "avg_face_size_pct": 1.7,
-      "max_sustained_deviation_pct": 14.0,
+      "max_sustained_deviation_pct": 14.4,
       "segments": 1,
       "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
     },
     "frozen_frames": {
-      "pass": true,
-      "detected": 0,
-      "issues": []
+      "pass": false,
+      "detected": 2,
+      "issues": [
+        {
+          "frame": 726,
+          "time_s": 29.04,
+          "frozen_span_s": 0.36,
+          "severity": "error",
+          "problem": "~0.36s frozen at 29.04s"
+        },
+        {
+          "frame": 741,
+          "time_s": 29.64,
+          "frozen_span_s": 0.36,
+          "severity": "error",
+          "problem": "~0.36s frozen at 29.64s"
+        }
+      ]
     },
     "black_frames": {
       "pass": true,
@@ -72,5 +87,5 @@
     "loose_thresholds": true,
     "resolved_from": "none"
   },
-  "summary": "All visual checks passed"
+  "summary": "FAIL: frozen_frames. ~0.36s frozen at 29.04s"
 }

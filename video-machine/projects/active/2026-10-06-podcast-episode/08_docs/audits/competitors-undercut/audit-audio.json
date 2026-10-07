@@ -1,14 +1,14 @@
 {
   "clip": "competitors-undercut.mp4",
-  "duration_s": 32.8,
-  "speech_level_db": -16.7,
+  "duration_s": 33.2,
+  "speech_level_db": -16.6,
   "verdict": "PASS",
   "checks": {
     "word_clipping": {
       "pass": true,
       "issues": [],
-      "head_edge_db_below_speech": 13.9,
-      "tail_edge_db_below_speech": 8.4,
+      "head_edge_db_below_speech": 14.5,
+      "tail_edge_db_below_speech": 16.9,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,15 +18,15 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.0176,
-      "railed_samples_total": 3403,
-      "peak_abs": 1.227,
+      "railed_fraction_pct": 0.0167,
+      "railed_samples_total": 3276,
+      "peak_abs": 1.201,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
-      "avg_voice_db": -18.1,
-      "range_db": 2.6,
+      "avg_voice_db": -18.0,
+      "range_db": 3.6,
       "issues": []
     },
     "buzz_hum": {
@@ -34,23 +34,23 @@
       "music_declared": false,
       "top_candidates": [
         {
-          "freq_hz": 50.5,
+          "freq_hz": 49.8,
           "grid_hz": 50,
-          "prominence_db": 5.8,
-          "persistence": 0.19,
-          "below_speech_db": 50.0
-        },
-        {
-          "freq_hz": 497.3,
-          "grid_hz": 500,
-          "off_grid": true,
-          "prominence_db": 5.4
+          "prominence_db": 5.7,
+          "persistence": 0.31,
+          "below_speech_db": 50.3
         },
         {
           "freq_hz": 422.6,
           "grid_hz": 420,
           "off_grid": true,
-          "prominence_db": 5.3
+          "prominence_db": 4.7
+        },
+        {
+          "freq_hz": 498.0,
+          "grid_hz": 500,
+          "off_grid": true,
+          "prominence_db": 4.1
         }
       ],
       "issues": []
@@ -58,7 +58,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 30,
-      "close_tail_ms": 75,
+      "close_tail_ms": 85,
       "issues": []
     },
     "music_balance": {

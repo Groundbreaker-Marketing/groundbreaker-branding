@@ -1,11 +1,95 @@
 {
- "output_seconds": 1515.08,
- "segments": 104,
- "loudness_in": {
-  "input_i": "-19.62",
-  "input_tp": "3.51",
-  "input_lra": "2.10"
+ "output_seconds": 1568.96,
+ "segments": 28,
+ "pause": {
+  "max_gap": 1.0,
+  "pre": 0.3,
+  "post": 0.45
  },
+ "loudness_in": {
+  "input_i": "-19.63",
+  "input_tp": "3.51",
+  "input_lra": "2.20"
+ },
+ "joins_not_in_silence": [
+  {
+   "at": 62.12,
+   "out_db": -41.1,
+   "in_db": -33.9,
+   "after": "answer those today.",
+   "before": "and I hope"
+  },
+  {
+   "at": 282.88,
+   "out_db": -27.0,
+   "in_db": -82.8,
+   "after": "don't require it",
+   "before": "I think to"
+  },
+  {
+   "at": 671.95,
+   "out_db": -60.5,
+   "in_db": -34.8,
+   "after": "customer that doesn't,",
+   "before": "doesn't shop around,"
+  },
+  {
+   "at": 758.95,
+   "out_db": -44.3,
+   "in_db": -28.1,
+   "after": "looking for trust.",
+   "before": "when someone gets"
+  },
+  {
+   "at": 1223.06,
+   "out_db": -26.2,
+   "in_db": -42.4,
+   "after": "so WordPress",
+   "before": "is definitely the"
+  },
+  {
+   "at": 1232.77,
+   "out_db": -40.2,
+   "in_db": -25.6,
+   "after": "and,",
+   "before": "so we used"
+  },
+  {
+   "at": 1284.3,
+   "out_db": -28.0,
+   "in_db": -25.2,
+   "after": "that we use.",
+   "before": "and what we"
+  },
+  {
+   "at": 1410.83,
+   "out_db": -32.6,
+   "in_db": -49.9,
+   "after": "sauce right there.",
+   "before": "This is, you"
+  },
+  {
+   "at": 1443.4,
+   "out_db": -28.3,
+   "in_db": -52.3,
+   "after": "that is that,",
+   "before": "all of our"
+  },
+  {
+   "at": 1538.17,
+   "out_db": -31.6,
+   "in_db": -32.5,
+   "after": "which is, it's,",
+   "before": "really entertaining to"
+  },
+  {
+   "at": 1550.08,
+   "out_db": -40.8,
+   "in_db": -27.1,
+   "after": "had a listener,",
+   "before": "just this past"
+  }
+ ],
  "cut_words": [
   {
    "take": "144723",
@@ -19,35 +103,35 @@
    "i": 270,
    "word": "um",
    "at": 94.01,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 289,
    "word": "we",
    "at": 99.77,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 294,
    "word": "that",
    "at": 100.61,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 303,
    "word": "um",
    "at": 102.83,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 341,
    "word": "for",
    "at": 115.91,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -61,56 +145,56 @@
    "i": 397,
    "word": "to",
    "at": 136.17,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 462,
    "word": "um",
    "at": 159.89,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 478,
    "word": "um",
    "at": 167.65,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 488,
    "word": "it's",
    "at": 170.39,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 512,
    "word": "um",
    "at": 179.91,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 653,
    "word": "with",
    "at": 229.45,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 785,
    "word": "um",
    "at": 272.29,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 820,
    "word": "um",
    "at": 284.17,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -152,49 +236,7 @@
    "i": 1166,
    "word": "um",
    "at": 418.34,
-   "why": "filler"
-  },
-  {
-   "take": "144723",
-   "i": 1184,
-   "word": "basically",
-   "at": 424.24,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1185,
-   "word": "it",
-   "at": 424.64,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1186,
-   "word": "will",
-   "at": 425.62,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1187,
-   "word": "look",
-   "at": 425.9,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1188,
-   "word": "at",
-   "at": 426.56,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1189,
-   "word": "every",
-   "at": 426.94,
-   "why": "drop"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -233,101 +275,31 @@
   },
   {
    "take": "144723",
-   "i": 1311,
-   "word": "Yeah,",
-   "at": 472.49,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1312,
-   "word": "I'm",
-   "at": 473.19,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1313,
-   "word": "trying",
-   "at": 473.41,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1314,
-   "word": "to",
-   "at": 473.55,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1315,
-   "word": "think",
-   "at": 473.69,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1316,
-   "word": "through",
-   "at": 473.87,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1317,
-   "word": "some",
-   "at": 474.05,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1318,
-   "word": "specific",
-   "at": 474.45,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1319,
-   "word": "instances,",
-   "at": 475.71,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
-   "i": 1320,
-   "word": "but",
-   "at": 476.09,
-   "why": "drop"
-  },
-  {
-   "take": "144723",
    "i": 1350,
    "word": "um",
    "at": 485.65,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1394,
    "word": "um",
    "at": 499.65,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1404,
    "word": "um",
    "at": 503.69,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1449,
    "word": "is,",
    "at": 517.01,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -341,28 +313,28 @@
    "i": 1504,
    "word": "um,",
    "at": 532.75,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1518,
    "word": "Um,",
    "at": 536.23,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1531,
    "word": "top,",
    "at": 540.77,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1735,
    "word": "um,",
    "at": 609.07,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -376,21 +348,21 @@
    "i": 1868,
    "word": "um",
    "at": 656.66,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1879,
    "word": "weren't",
    "at": 660.04,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 1884,
    "word": "the",
    "at": 661.9,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -404,7 +376,7 @@
    "i": 1947,
    "word": "I'm,",
    "at": 681.17,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -418,7 +390,7 @@
    "i": 2005,
    "word": "going",
    "at": 697.03,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -439,7 +411,7 @@
    "i": 2190,
    "word": "our,",
    "at": 760.29,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -453,63 +425,63 @@
    "i": 2252,
    "word": "and",
    "at": 783.9,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2317,
    "word": "um",
    "at": 803.08,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2344,
    "word": "um",
    "at": 812.24,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2368,
    "word": "um",
    "at": 818.94,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2564,
    "word": "um",
    "at": 883.54,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2581,
    "word": "um",
    "at": 890.36,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2736,
    "word": "um",
    "at": 941.12,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2828,
    "word": "um",
    "at": 975.28,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2849,
    "word": "if",
    "at": 985.26,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -523,98 +495,98 @@
    "i": 2905,
    "word": "and",
    "at": 1002.44,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 2906,
    "word": "i",
    "at": 1002.92,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3072,
    "word": "um",
    "at": 1060.09,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3093,
    "word": "the",
    "at": 1067.93,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3120,
    "word": "um",
    "at": 1077.37,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3214,
    "word": "um",
    "at": 1106.93,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3218,
    "word": "uh",
    "at": 1109.21,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3247,
    "word": "to",
    "at": 1121.75,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3258,
    "word": "um",
    "at": 1125.41,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3265,
    "word": "um",
    "at": 1128.13,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3459,
    "word": "um",
    "at": 1193.12,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3492,
    "word": "um",
    "at": 1203.34,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3495,
    "word": "it's",
    "at": 1205.3,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 3502,
    "word": "um",
    "at": 1207.58,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -649,7 +621,7 @@
    "i": 3726,
    "word": "um,",
    "at": 1286.34,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -663,70 +635,70 @@
    "i": 3972,
    "word": "And",
    "at": 1367.98,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4045,
    "word": "um",
    "at": 1393.36,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4050,
    "word": "a",
    "at": 1395.52,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4093,
    "word": "um",
    "at": 1406.85,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4104,
    "word": "that's",
    "at": 1412.49,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4116,
    "word": "i",
    "at": 1415.77,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4117,
    "word": "have",
    "at": 1415.93,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4224,
    "word": "Um,",
    "at": 1452.53,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4257,
    "word": "um,",
    "at": 1462.33,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4275,
    "word": "Um,",
    "at": 1468.47,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -740,28 +712,28 @@
    "i": 4462,
    "word": "um",
    "at": 1535.15,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4501,
    "word": "um",
    "at": 1547.97,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4518,
    "word": "um",
    "at": 1552.91,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4544,
    "word": "um,",
    "at": 1560.35,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -775,14 +747,14 @@
    "i": 4567,
    "word": "um,",
    "at": 1570.07,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4585,
    "word": "um,",
    "at": 1575.43,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
@@ -796,14 +768,205 @@
    "i": 4624,
    "word": "um",
    "at": 1588.35,
-   "why": "filler"
+   "why": "filler kept (no clean cut)"
   },
   {
    "take": "144723",
    "i": 4627,
    "word": "i",
    "at": 1589.11,
-   "why": "drop"
+   "why": "drop kept (no clean cut)"
+  }
+ ],
+ "joins": [
+  {
+   "at": 62.12,
+   "out_db": -41.1,
+   "in_db": -33.9,
+   "after": "answer those today.",
+   "before": "and I hope"
+  },
+  {
+   "at": 124.75,
+   "out_db": -40.7,
+   "in_db": -41.1,
+   "after": "And also your,",
+   "before": "just understanding of"
+  },
+  {
+   "at": 282.88,
+   "out_db": -27.0,
+   "in_db": -82.8,
+   "after": "don't require it",
+   "before": "I think to"
+  },
+  {
+   "at": 419.96,
+   "out_db": -60.7,
+   "in_db": -52.2,
+   "after": "look at every",
+   "before": "So every person"
+  },
+  {
+   "at": 461.04,
+   "out_db": -56.2,
+   "in_db": -56.8,
+   "after": "can think of.",
+   "before": "Yeah, I'm trying"
+  },
+  {
+   "at": 511.61,
+   "out_db": -52.1,
+   "in_db": -59.4,
+   "after": "I've had is,",
+   "before": "what if, you"
+  },
+  {
+   "at": 550.31,
+   "out_db": -55.6,
+   "in_db": -37.4,
+   "after": "aunt or somebody",
+   "before": "had essentially called"
+  },
+  {
+   "at": 608.51,
+   "out_db": -44.4,
+   "in_db": -68.3,
+   "after": "is a strategy.",
+   "before": "I would say"
+  },
+  {
+   "at": 654.25,
+   "out_db": -55.3,
+   "in_db": -62.3,
+   "after": "put me behind.",
+   "before": "and so I"
+  },
+  {
+   "at": 671.95,
+   "out_db": -60.5,
+   "in_db": -34.8,
+   "after": "customer that doesn't,",
+   "before": "doesn't shop around,"
+  },
+  {
+   "at": 688.04,
+   "out_db": -59.5,
+   "in_db": -44.2,
+   "after": "that matter. When,",
+   "before": "so my husband,"
+  },
+  {
+   "at": 695.53,
+   "out_db": -46.7,
+   "in_db": -54.3,
+   "after": "is insane. Our,",
+   "before": "our insurance bill"
+  },
+  {
+   "at": 758.95,
+   "out_db": -44.3,
+   "in_db": -28.1,
+   "after": "looking for trust.",
+   "before": "when someone gets"
+  },
+  {
+   "at": 968.62,
+   "out_db": -52.2,
+   "in_db": -56.5,
+   "after": "if your competitor",
+   "before": "if you're worried"
+  },
+  {
+   "at": 996.72,
+   "out_db": -42.2,
+   "in_db": -59.1,
+   "after": "in other segments.",
+   "before": "But another question"
+  },
+  {
+   "at": 1222.5,
+   "out_db": -52.0,
+   "in_db": -35.0,
+   "after": "which is insane.",
+   "before": "so WordPress"
+  },
+  {
+   "at": 1223.06,
+   "out_db": -26.2,
+   "in_db": -42.4,
+   "after": "so WordPress",
+   "before": "is definitely the"
+  },
+  {
+   "at": 1231.96,
+   "out_db": -41.0,
+   "in_db": -46.4,
+   "after": "ones out there.",
+   "before": "and,"
+  },
+  {
+   "at": 1232.77,
+   "out_db": -40.2,
+   "in_db": -25.6,
+   "after": "and,",
+   "before": "so we used"
+  },
+  {
+   "at": 1284.3,
+   "out_db": -28.0,
+   "in_db": -25.2,
+   "after": "that we use.",
+   "before": "and what we"
+  },
+  {
+   "at": 1399.75,
+   "out_db": -56.6,
+   "in_db": -52.1,
+   "after": "hope that helps.",
+   "before": "And that's really"
+  },
+  {
+   "at": 1410.83,
+   "out_db": -32.6,
+   "in_db": -49.9,
+   "after": "sauce right there.",
+   "before": "This is, you"
+  },
+  {
+   "at": 1443.4,
+   "out_db": -28.3,
+   "in_db": -52.3,
+   "after": "that is that,",
+   "before": "all of our"
+  },
+  {
+   "at": 1459.15,
+   "out_db": -56.0,
+   "in_db": -52.4,
+   "after": "to their website",
+   "before": "without, they didn't"
+  },
+  {
+   "at": 1468.45,
+   "out_db": -51.5,
+   "in_db": -56.2,
+   "after": "of our clients.",
+   "before": "But if you"
+  },
+  {
+   "at": 1538.17,
+   "out_db": -31.6,
+   "in_db": -32.5,
+   "after": "which is, it's,",
+   "before": "really entertaining to"
+  },
+  {
+   "at": 1550.08,
+   "out_db": -40.8,
+   "in_db": -27.1,
+   "after": "had a listener,",
+   "before": "just this past"
   }
  ]
 }
