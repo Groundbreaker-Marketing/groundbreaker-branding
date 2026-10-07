@@ -32,6 +32,10 @@ lessons under "For the engine"; whoever maintains the engine ports them into the
   "first client" ending; description updated). Source AI-upscaled to 1080p (63 min). v1 kept in
   Drive under "v1 (first edit)". audit-visual "frozen" flags on 12 clips checked: no hold over
   4 frames; low motion after the upscaler removed compression noise.
+- v3 2026-10-07: Ashley found the full AI look too strong ("about half way"; the editing itself
+  "is great"), then loved half strength. Source = zoom-144723-ai50.mp4 (podcast.upscale --strength
+  0.5, video-machine#15), same cut. Drive: main files = half AI; v1 and v2 (full AI) under
+  "Older versions". Half strength is now the engine default.
 
 ### 2026-10-05 day-hooks (first organic Shorts)
 - Worked: Zoom API pull (S2S app "GBM Recordings") of 11 takes recorded from the end-of-day hook
