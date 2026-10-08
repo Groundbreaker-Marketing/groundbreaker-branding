@@ -1,7 +1,7 @@
 {
  "_how": "Recipe for podcast.episode (video-machine). Part 144311 (3:48) was a false start; the episode is the full retake in 144723. keep = inclusive word-index ranges of 02_audio/words/<take>.json in play order; drop = word ranges cut inside keep (false starts, stammered repeats); fillers (um/uh) drop automatically; fixes = word index -> caption text.",
  "slug": "publish-your-prices",
- "title": "Should Septic Companies Publish Their Prices Online?",
+ "title": "We Got 600 Questions From Septic Clients. The #1 Was About Prices.",
  "takes": {
   "144311": {
    "source": "01_footage/zoom-144311.mp4",
@@ -217,5 +217,25 @@
    "144723",
    "Wrapping up"
   ]
- ]
+ ],
+ "publish": {
+  "approved": false,
+  "publish_at": "2026-10-14T08:00:00",
+  "media_url": "https://static.metricool.com/video/4530374/202610/7da66475e2b34c7a.mp4",
+  "youtube": {
+   "title": "We Got 600 Questions From Septic Clients. The #1 Was About Prices.",
+   "description": "This week it's just me. We pulled more than 600 questions our septic clients asked us in the last 30 days, and the biggest one by far was about putting prices on your website. I cover why upfront prices are the strongest lever for showing up in AI search, what to do if you're worried competitors will undercut you, how to post prices that change with distance or tank size, and the new Google feature where its AI calls you for a quote.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic marketing",
+    "AI search",
+    "pricing",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "thumbnail": "07_notes/episode/thumbnail.jpg"
+ }
 }
