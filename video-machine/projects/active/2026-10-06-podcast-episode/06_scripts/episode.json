@@ -219,7 +219,7 @@
   ]
  ],
  "publish": {
-  "approved": false,
+  "approved": true,
   "publish_at": "2026-10-14T08:00:00",
   "media_url": "https://static.metricool.com/video/4530374/202610/7da66475e2b34c7a.mp4",
   "youtube": {
@@ -236,6 +236,12 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "metricool": {
+   "post_id": 390784509,
+   "media": "https://static.metricool.com/video/4530374/202610/7da66475e2b34c7a.mp4",
+   "thumbnail": "https://static.metricool.com/video/4530374/202610/9a966ef827274cfc.jpg",
+   "scheduled": "2026-10-14T08:00:00"
+  }
  }
 }
