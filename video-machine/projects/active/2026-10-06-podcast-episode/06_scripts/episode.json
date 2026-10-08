@@ -236,12 +236,13 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "thumbnail": "07_notes/episode/thumbnail-v3-room.jpg",
   "metricool": {
-   "post_id": 390784509,
+   "post_id": 391344417,
    "media": "https://static.metricool.com/video/4530374/202610/7da66475e2b34c7a.mp4",
-   "thumbnail": "https://static.metricool.com/video/4530374/202610/9a966ef827274cfc.jpg",
-   "scheduled": "2026-10-14T08:00:00"
+   "thumbnail": "https://static.metricool.com/video/4530374/202610/28c41b0cd6b341bf.jpg",
+   "scheduled": "2026-10-14T08:00:00",
+   "note": "Metricool's PUT replaced post 390784509 with 391344417 when the thumbnail changed"
   }
  }
 }
