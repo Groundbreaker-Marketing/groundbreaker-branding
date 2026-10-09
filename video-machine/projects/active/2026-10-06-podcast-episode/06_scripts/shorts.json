@@ -40,7 +40,7 @@
    "words": "02_audio/words/144723.json",
    "keep": [
     [
-     875,
+     876,
      1023
     ]
    ],
@@ -51,7 +51,10 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.47
+   "crop_x": 0.47,
+   "fixes": {
+    "876": "The"
+   }
   },
   {
    "id": "leads-from-chatgpt",
@@ -59,7 +62,7 @@
    "words": "02_audio/words/144723.json",
    "keep": [
     [
-     1072,
+     1073,
      1146
     ]
    ],
@@ -73,10 +76,12 @@
     "1087": "",
     "1088": "",
     "1089": "",
-    "1095": ""
+    "1095": "",
+    "1073": "We"
    },
    "layout": "crop",
-   "crop_x": 0.47
+   "crop_x": 0.47,
+   "trim_start": 0.44
   },
   {
    "id": "ai-visibility-tracker",
@@ -260,7 +265,8 @@
     "2223": ""
    },
    "layout": "crop",
-   "crop_x": 0.47
+   "crop_x": 0.47,
+   "dropped": "2026-10-09: Ashley, we don't need this one"
   },
   {
    "id": "honest-companies-win",
@@ -475,7 +481,8 @@
     "3507": ""
    },
    "layout": "crop",
-   "crop_x": 0.47
+   "crop_x": 0.47,
+   "dropped": "2026-10-09: Ashley, not my favorite, don't publish"
   },
   {
    "id": "beyond-wordpress",
