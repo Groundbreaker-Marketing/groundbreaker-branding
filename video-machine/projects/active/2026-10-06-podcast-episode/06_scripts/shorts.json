@@ -112,7 +112,9 @@
     "1187": "",
     "1188": "",
     "1189": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "do-what-google-wants",
