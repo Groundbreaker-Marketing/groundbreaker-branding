@@ -1,5 +1,9 @@
 {
-  "ai-visibility-tracker": {
+  "competitors-undercut": {
+    "fails": [],
+    "warns": []
+  },
+  "coupon-trick": {
     "fails": [],
     "warns": []
   }

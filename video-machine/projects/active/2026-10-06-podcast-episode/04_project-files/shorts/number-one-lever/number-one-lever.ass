@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:51.21,Title,,0,0,0,,{\pos(540,600)}The #1 lever for\N{\c&H0060ECCD}AI search{\c&H00FFFFFF&}
-Dialogue: 2,0:00:00.00,0:00:51.21,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:51.21,Title,,0,0,0,,{\pos(540,360)}The #1 lever for\N{\c&H0060ECCD}AI search{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}But{\c&H00FFFFFF&} the reason
 Dialogue: 1,0:00:00.34,0:00:00.52,Cap,,0,0,0,,{\pos(540,1400)}But {\c&H0060ECCD}the{\c&H00FFFFFF&} reason
 Dialogue: 1,0:00:00.52,0:00:00.80,Cap,,0,0,0,,{\pos(540,1400)}But the {\c&H0060ECCD}reason{\c&H00FFFFFF&}
