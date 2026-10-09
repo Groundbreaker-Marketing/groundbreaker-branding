@@ -1,515 +1,650 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 15 clips from the 2026-10-06 solo episode (take 144723, the full retake). keep = word-index ranges of 02_audio/words/144723.json, inclusive, in play order; fillers (um/uh) skip automatically; fixes = word index -> caption text. approved = Ashley approved the edit, title and description for publishing. Caption-hidden words (fixes \"\") stay in the audio: cutting them would clip the words beside them.",
- "fillers": true,
- "clips": [
-  {
-   "id": "record-every-call",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     403,
-     522
-    ]
-   ],
-   "title": "Why we record\n*every* client call",
-   "youtube": {
-    "title": "Why we record every client conversation",
-    "description": "When you work with us, every email, text, phone call and Zoom meeting is recorded and filed in your own secure folder. Your goals and preferences never get lost, even with 600 questions coming in a month.\n\n#septic #septicbusiness #clientservice #marketingagency"
-   },
-   "approved": false,
-   "fixes": {
-    "430": "",
-    "431": "",
-    "448": "",
-    "449": "",
-    "479": "",
-    "480": "",
-    "481": "",
-    "488": "",
-    "489": "",
-    "490": "",
-    "491": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "number-one-lever",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     876,
-     1023
-    ]
-   ],
-   "title": "The #1 lever for\n*AI search*",
-   "youtube": {
-    "title": "Want your septic company in AI answers? Publish your prices.",
-    "description": "If your local competitors hide their prices and you publish yours, you become the company AI search recommends. It is the biggest single lever we have seen for showing up in ChatGPT, Gemini and Google's AI results.\n\n#septic #aisearch #septicpumping #localseo"
-   },
-   "approved": false,
-   "layout": "crop",
-   "crop_x": 0.47,
-   "fixes": {
-    "876": "The"
-   }
-  },
-  {
-   "id": "leads-from-chatgpt",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     1073,
-     1146
-    ]
-   ],
-   "title": "Leads from\n*ChatGPT* are real",
-   "youtube": {
-    "title": "Septic customers are finding you through ChatGPT now",
-    "description": "More homeowners now ask ChatGPT, Gemini or Google's AI who to call for septic service. With attribution tracking on every call, text and form, you see exactly which leads came from AI.\n\n#septic #chatgpt #leadtracking #septicbusiness"
-   },
-   "approved": false,
-   "fixes": {
-    "1087": "",
-    "1088": "",
-    "1089": "",
-    "1095": "",
-    "1073": "We"
-   },
-   "layout": "crop",
-   "crop_x": 0.47,
-   "trim_start": 0.44
-  },
-  {
-   "id": "ai-visibility-tracker",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     1152,
-     1189
-    ],
-    [
-     1195,
-     1310
-    ]
-   ],
-   "title": "How we track\n*AI visibility*",
-   "youtube": {
-    "title": "How we measure where your septic company ranks in AI search",
-    "description": "Real searches, run in your service area on the top four AI platforms, show who comes up first, second and third. Your dashboard shows where you stand against the competition.\n\n#septic #aivisibility #septicmarketing #localbusiness"
-   },
-   "approved": false,
-   "fixes": {
-    "1160": "",
-    "1161": "",
-    "1198": "",
-    "1184": "",
-    "1185": "",
-    "1186": "",
-    "1187": "",
-    "1188": "",
-    "1189": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "do-what-google-wants",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     1322,
-     1463
-    ]
-   ],
-   "title": "Do what\n*Google* wants",
-   "youtube": {
-    "title": "Google keeps pushing businesses to show their prices",
-    "description": "Show your prices and Google shows you more often. Septic companies that made this change are getting calls, texts and form leads from AI search today.\n\n#septic #localseo #pricing #septicpumping"
-   },
-   "approved": false,
-   "fixes": {
-    "1449": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "competitors-undercut",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     1474,
-     1517
-    ],
-    [
-     1536,
-     1542
-    ],
-    [
-     1545,
-     1552
-    ],
-    [
-     1660,
-     1671
-    ],
-    [
-     1681,
-     1720
-    ]
-   ],
-   "title": "Won't competitors\n*undercut* me?",
-   "youtube": {
-    "title": "Afraid competitors will undercut your septic prices?",
-    "description": "Your competitors probably already know what you charge. Those calls asking for a quick pump-out price and then hanging up? They happen every day. Publishing your prices gives away nothing they don't already have.\n\n#septic #septicbusiness #pricing #competition"
-   },
-   "approved": false,
-   "fixes": {
-    "1476": "",
-    "1477": "",
-    "1505": "",
-    "1506": "",
-    "1660": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.51
-  },
-  {
-   "id": "coupon-trick",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     1736,
-     1742
-    ],
-    [
-     1745,
-     1767
-    ],
-    [
-     1812,
-     1826
-    ],
-    [
-     1829,
-     1849
-    ],
-    [
-     1890,
-     2013
-    ]
-   ],
-   "title": "Fake high price,\nbig *coupon*?",
-   "youtube": {
-    "title": "A $1,200 pump-out with a $500 coupon: should you copy it?",
-    "description": "One septic company lists pump-outs at $1,200 and offers $500 off. Some customers will bite. The ones who compare prices trust that company less. A fair, clear price builds more trust than a markdown.\n\n#septic #pumpout #pricingstrategy #septicbusiness"
-   },
-   "approved": false,
-   "fixes": {
-    "1819": "$1,200,",
-    "1837": "$500",
-    "1849": "$700",
-    "1833": "",
-    "1834": "",
-    "1894": "",
-    "1895": "",
-    "1896": "",
-    "1897": "",
-    "1915": "",
-    "1916": "",
-    "1947": "",
-    "1972": "",
-    "2006": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.51
-  },
-  {
-   "id": "one-fair-price",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     2034,
-     2048
-    ],
-    [
-     2051,
-     2142
-    ],
-    [
-     2212,
-     2242
-    ]
-   ],
-   "title": "Customers want\n*one fair price*",
-   "youtube": {
-    "title": "What car shopping for five new drivers taught us about pricing",
-    "description": "We would rather buy where the sticker price is the price you pay. Most of your septic customers feel the same way. They want transparency, and they want to trust you.\n\n#septic #customertrust #pricing #smallbusiness"
-   },
-   "approved": false,
-   "fixes": {
-    "2095": "",
-    "2096": "",
-    "2116": "",
-    "2129": "",
-    "2131": "",
-    "2223": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47,
-   "dropped": "2026-10-09: Ashley, we don't need this one"
-  },
-  {
-   "id": "honest-companies-win",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     2254,
-     2405
-    ]
-   ],
-   "title": "Honest septic\ncompanies *win*",
-   "youtube": {
-    "title": "Repair first, replace second: why honesty wins on Google",
-    "description": "Homeowners can't see inside their septic system, the same way most of us can't judge a mechanic. The company that recommends the repair before the replacement earns trust, and trust is what Google ranks.\n\n#septic #septicrepair #honestbusiness #septicservice"
-   },
-   "approved": false,
-   "fixes": {
-    "2277": "",
-    "2278": "",
-    "2279": "",
-    "2315": "",
-    "2316": "",
-    "2317": "",
-    "2318": "",
-    "2319": "",
-    "2328": "",
-    "2329": "",
-    "2330": "",
-    "2331": "",
-    "2368": "",
-    "2369": "",
-    "2370": "",
-    "2371": "",
-    "2372": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "what-google-rewards",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     2407,
-     2537
-    ]
-   ],
-   "title": "What Google\nreally *rewards*",
-   "youtube": {
-    "title": "Google's business model, and where your septic company fits in it",
-    "description": "Google wants its users happy, so it shows the businesses most likely to treat customers well. Reviews are a big part of that trust. Prices you show up front are the other part.\n\n#septic #googlereviews #localseo #septicmarketing"
-   },
-   "approved": false,
-   "fixes": {
-    "2418": "",
-    "2419": "",
-    "2429": "",
-    "2447": "",
-    "2448": "",
-    "2468": "",
-    "2469": "",
-    "2479": "",
-    "2480": "",
-    "2481": "",
-    "2482": "",
-    "2483": "",
-    "2491": "",
-    "2492": "",
-    "2493": "",
-    "2494": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "google-ai-calls",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     2623,
-     2735
-    ]
-   ],
-   "title": "Google's AI\nis *calling you*",
-   "youtube": {
-    "title": "Google's AI now calls septic companies for quotes",
-    "description": "A Get a Quote button on the Google Business Profile has Google's voice AI call four or five septic companies, ask each one for a quote, and send the answers back to the homeowner, even when a company doesn't pick up.\n\n#septic #googlebusinessprofile #voiceai #septicbusiness"
-   },
-   "approved": false,
-   "fixes": {
-    "2683": "",
-    "2684": "",
-    "2685": "",
-    "2721": "",
-    "2722": "",
-    "2723": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "price-by-distance",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     2964,
-     2991
-    ],
-    [
-     2994,
-     3000
-    ],
-    [
-     3014,
-     3150
-    ]
-   ],
-   "title": "Why far pump-outs\ncost *more*",
-   "youtube": {
-    "title": "Pricing septic pump-outs by distance from your yard",
-    "description": "Diesel, wear on the truck and the drive to the dump site all add up. Inspections and installs can travel farther because the job is worth more, but pumping prices need to follow the miles.\n\n#septic #pumptruck #septicpumping #pricing"
-   },
-   "approved": false,
-   "fixes": {
-    "3025": "",
-    "3026": "",
-    "3093": "",
-    "3099": "",
-    "3100": "",
-    "3101": "",
-    "3102": "",
-    "3103": "",
-    "3104": "",
-    "3126": "",
-    "3127": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "post-variable-prices",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     3172,
-     3194
-    ],
-    [
-     3280,
-     3406
-    ]
-   ],
-   "title": "How to post\n*variable* prices",
-   "youtube": {
-    "title": "How to put septic prices on your website when they vary",
-    "description": "Give a range, list your tiers, price the first thousand gallons, or show a starting price. Your website doesn't need every number. It needs a number.\n\n#septic #septicwebsite #pricing #septicpumping"
-   },
-   "approved": false,
-   "fixes": {
-    "3312": "X",
-    "3321": "X",
-    "3291": "",
-    "3294": "",
-    "3185": "",
-    "3186": "",
-    "3307": "",
-    "3308": "",
-    "3309": "",
-    "3310": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  },
-  {
-   "id": "install-prices",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     3407,
-     3422
-    ],
-    [
-     3426,
-     3524
-    ]
-   ],
-   "title": "Post install prices,\nget *more installs*",
-   "youtube": {
-    "title": "Publishing install prices brought one septic company more installs",
-    "description": "One of our clients put prices on the two system models they install most. They now show up in Google and AI search for those jobs and book more of them. Don't overthink which prices to share.\n\n#septic #septicinstall #septicsystem #septicbusiness"
-   },
-   "approved": false,
-   "fixes": {
-    "3437": "",
-    "3438": "",
-    "3439": "",
-    "3457": "",
-    "3458": "",
-    "3459": "",
-    "3466": "",
-    "3491": "",
-    "3492": "",
-    "3495": "",
-    "3505": "",
-    "3506": "",
-    "3507": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47,
-   "dropped": "2026-10-09: Ashley, not my favorite, don't publish"
-  },
-  {
-   "id": "beyond-wordpress",
-   "source": "01_footage/zoom-144723-ai50.mp4",
-   "words": "02_audio/words/144723.json",
-   "keep": [
-    [
-     3539,
-     3561
-    ],
-    [
-     3642,
-     3776
-    ]
-   ],
-   "title": "Why we stopped\nusing *WordPress*",
-   "youtube": {
-    "title": "Why we build septic websites on Astro instead of WordPress",
-    "description": "Modern sites built with AI tools load fast, and speed helps you rank. The harder part is the formula: the right information, the right trust signals for Google, and a page that turns visitors into customers.\n\n#septic #septicwebsite #webdesign #seo"
-   },
-   "approved": false,
-   "fixes": {
-    "3669": "",
-    "3670": ""
-   },
-   "layout": "crop",
-   "crop_x": 0.47
-  }
- ]
+  "_how": "Recipe for shorts.build (video-machine). 15 clips from the 2026-10-06 solo episode (take 144723, the full retake). keep = word-index ranges of 02_audio/words/144723.json, inclusive, in play order; fillers (um/uh) skip automatically; fixes = word index -> caption text. approved = Ashley approved the edit, title and description for publishing. Caption-hidden words (fixes \"\") stay in the audio: cutting them would clip the words beside them.",
+  "fillers": true,
+  "clips": [
+    {
+      "id": "record-every-call",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          403,
+          522
+        ]
+      ],
+      "title": "Why we record\n*every* client call",
+      "youtube": {
+        "title": "Why we record every client conversation",
+        "description": "When you work with us, every email, text, phone call and Zoom meeting is recorded and filed in your own secure folder. Your goals and preferences never get lost, even with 600 questions coming in a month.\n\n#septic #septicbusiness #clientservice #marketingagency"
+      },
+      "approved": false,
+      "fixes": {
+        "430": "",
+        "431": "",
+        "448": "",
+        "449": "",
+        "479": "",
+        "480": "",
+        "481": "",
+        "488": "",
+        "489": "",
+        "490": "",
+        "491": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-15T17:00:00",
+      "metricool": {
+        "post_id": 392231028,
+        "media": "https://static.metricool.com/video/4530374/202610/3af44d479f7f48c1.mp4",
+        "scheduled": "2026-10-15T17:00:00"
+      }
+    },
+    {
+      "id": "number-one-lever",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          876,
+          1023
+        ]
+      ],
+      "title": "The #1 lever for\n*AI search*",
+      "youtube": {
+        "title": "Want your septic company in AI answers? Publish your prices.",
+        "description": "If your local competitors hide their prices and you publish yours, you become the company AI search recommends. It is the biggest single lever we have seen for showing up in ChatGPT, Gemini and Google's AI results.\n\n#septic #aisearch #septicpumping #localseo"
+      },
+      "approved": false,
+      "layout": "crop",
+      "crop_x": 0.47,
+      "fixes": {
+        "876": "The"
+      },
+      "networks": [
+        "youtube",
+        "tiktok",
+        "instagram",
+        "facebook",
+        "linkedin"
+      ],
+      "publish_at": "2026-10-19T12:00:00"
+    },
+    {
+      "id": "leads-from-chatgpt",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          1073,
+          1146
+        ]
+      ],
+      "title": "Leads from\n*ChatGPT* are real",
+      "youtube": {
+        "title": "Septic customers are finding you through ChatGPT now",
+        "description": "More homeowners now ask ChatGPT, Gemini or Google's AI who to call for septic service. With attribution tracking on every call, text and form, you see exactly which leads came from AI.\n\n#septic #chatgpt #leadtracking #septicbusiness"
+      },
+      "approved": false,
+      "fixes": {
+        "1087": "",
+        "1088": "",
+        "1089": "",
+        "1095": "",
+        "1073": "We"
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "trim_start": 0.44,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-19T17:00:00"
+    },
+    {
+      "id": "ai-visibility-tracker",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          1152,
+          1189
+        ],
+        [
+          1195,
+          1310
+        ]
+      ],
+      "title": "How we track\n*AI visibility*",
+      "youtube": {
+        "title": "How we measure where your septic company ranks in AI search",
+        "description": "Real searches, run in your service area on the top four AI platforms, show who comes up first, second and third. Your dashboard shows where you stand against the competition.\n\n#septic #aivisibility #septicmarketing #localbusiness"
+      },
+      "approved": false,
+      "fixes": {
+        "1160": "",
+        "1161": "",
+        "1198": "",
+        "1184": "",
+        "1185": "",
+        "1186": "",
+        "1187": "",
+        "1188": "",
+        "1189": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-14T17:00:00",
+      "metricool": {
+        "post_id": 392231044,
+        "media": "https://static.metricool.com/video/4530374/202610/b0454378dcad4996.mp4",
+        "scheduled": "2026-10-14T17:00:00"
+      }
+    },
+    {
+      "id": "do-what-google-wants",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          1322,
+          1463
+        ]
+      ],
+      "title": "Do what\n*Google* wants",
+      "youtube": {
+        "title": "Google keeps pushing businesses to show their prices",
+        "description": "Show your prices and Google shows you more often. Septic companies that made this change are getting calls, texts and form leads from AI search today.\n\n#septic #localseo #pricing #septicpumping"
+      },
+      "approved": false,
+      "fixes": {
+        "1449": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-16T17:00:00",
+      "metricool": {
+        "post_id": 392231058,
+        "media": "https://static.metricool.com/video/4530374/202610/9d21363ab24a480a.mp4",
+        "scheduled": "2026-10-16T17:00:00"
+      }
+    },
+    {
+      "id": "competitors-undercut",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          1474,
+          1517
+        ],
+        [
+          1536,
+          1542
+        ],
+        [
+          1545,
+          1552
+        ],
+        [
+          1660,
+          1671
+        ],
+        [
+          1681,
+          1720
+        ]
+      ],
+      "title": "Won't competitors\n*undercut* me?",
+      "youtube": {
+        "title": "Afraid competitors will undercut your septic prices?",
+        "description": "Your competitors probably already know what you charge. Those calls asking for a quick pump-out price and then hanging up? They happen every day. Publishing your prices gives away nothing they don't already have.\n\n#septic #septicbusiness #pricing #competition"
+      },
+      "approved": false,
+      "fixes": {
+        "1476": "",
+        "1477": "",
+        "1505": "",
+        "1506": "",
+        "1660": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.51,
+      "networks": [
+        "youtube",
+        "tiktok",
+        "instagram",
+        "facebook",
+        "linkedin"
+      ],
+      "publish_at": "2026-10-16T12:00:00",
+      "metricool": {
+        "post_id": 392231072,
+        "media": "https://static.metricool.com/video/4530374/202610/360c8e922bb64741.mp4",
+        "scheduled": "2026-10-16T12:00:00"
+      }
+    },
+    {
+      "id": "coupon-trick",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          1736,
+          1742
+        ],
+        [
+          1745,
+          1767
+        ],
+        [
+          1812,
+          1826
+        ],
+        [
+          1829,
+          1849
+        ],
+        [
+          1890,
+          2013
+        ]
+      ],
+      "title": "Fake high price,\nbig *coupon*?",
+      "youtube": {
+        "title": "A $1,200 pump-out with a $500 coupon: should you copy it?",
+        "description": "One septic company lists pump-outs at $1,200 and offers $500 off. Some customers will bite. The ones who compare prices trust that company less. A fair, clear price builds more trust than a markdown.\n\n#septic #pumpout #pricingstrategy #septicbusiness"
+      },
+      "approved": false,
+      "fixes": {
+        "1819": "$1,200,",
+        "1837": "$500",
+        "1849": "$700",
+        "1833": "",
+        "1834": "",
+        "1894": "",
+        "1895": "",
+        "1896": "",
+        "1897": "",
+        "1915": "",
+        "1916": "",
+        "1947": "",
+        "1972": "",
+        "2006": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.51,
+      "networks": [
+        "youtube",
+        "tiktok",
+        "instagram",
+        "facebook",
+        "linkedin"
+      ],
+      "publish_at": "2026-10-14T12:00:00",
+      "metricool": {
+        "post_id": 392227647,
+        "media": "https://static.metricool.com/video/4530374/202610/fdbe729c0ec74ddd.mp4",
+        "scheduled": "2026-10-14T12:00:00"
+      }
+    },
+    {
+      "id": "one-fair-price",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          2034,
+          2048
+        ],
+        [
+          2051,
+          2142
+        ],
+        [
+          2212,
+          2242
+        ]
+      ],
+      "title": "Customers want\n*one fair price*",
+      "youtube": {
+        "title": "What car shopping for five new drivers taught us about pricing",
+        "description": "We would rather buy where the sticker price is the price you pay. Most of your septic customers feel the same way. They want transparency, and they want to trust you.\n\n#septic #customertrust #pricing #smallbusiness"
+      },
+      "approved": false,
+      "fixes": {
+        "2095": "",
+        "2096": "",
+        "2116": "",
+        "2129": "",
+        "2131": "",
+        "2223": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "dropped": "2026-10-09: Ashley, we don't need this one"
+    },
+    {
+      "id": "honest-companies-win",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          2254,
+          2405
+        ]
+      ],
+      "title": "Honest septic\ncompanies *win*",
+      "youtube": {
+        "title": "Repair first, replace second: why honesty wins on Google",
+        "description": "Homeowners can't see inside their septic system, the same way most of us can't judge a mechanic. The company that recommends the repair before the replacement earns trust, and trust is what Google ranks.\n\n#septic #septicrepair #honestbusiness #septicservice"
+      },
+      "approved": false,
+      "fixes": {
+        "2277": "",
+        "2278": "",
+        "2279": "",
+        "2315": "",
+        "2316": "",
+        "2317": "",
+        "2318": "",
+        "2319": "",
+        "2328": "",
+        "2329": "",
+        "2330": "",
+        "2331": "",
+        "2368": "",
+        "2369": "",
+        "2370": "",
+        "2371": "",
+        "2372": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-18T12:00:00",
+      "metricool": {
+        "post_id": 392231090,
+        "media": "https://static.metricool.com/video/4530374/202610/b85ea540b72a40ac.mp4",
+        "scheduled": "2026-10-18T12:00:00"
+      }
+    },
+    {
+      "id": "what-google-rewards",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          2407,
+          2537
+        ]
+      ],
+      "title": "What Google\nreally *rewards*",
+      "youtube": {
+        "title": "Google's business model, and where your septic company fits in it",
+        "description": "Google wants its users happy, so it shows the businesses most likely to treat customers well. Reviews are a big part of that trust. Prices you show up front are the other part.\n\n#septic #googlereviews #localseo #septicmarketing"
+      },
+      "approved": false,
+      "fixes": {
+        "2418": "",
+        "2419": "",
+        "2429": "",
+        "2447": "",
+        "2448": "",
+        "2468": "",
+        "2469": "",
+        "2479": "",
+        "2480": "",
+        "2481": "",
+        "2482": "",
+        "2483": "",
+        "2491": "",
+        "2492": "",
+        "2493": "",
+        "2494": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-17T12:00:00",
+      "metricool": {
+        "post_id": 392231109,
+        "media": "https://static.metricool.com/video/4530374/202610/711652f538864108.mp4",
+        "scheduled": "2026-10-17T12:00:00"
+      }
+    },
+    {
+      "id": "google-ai-calls",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          2623,
+          2735
+        ]
+      ],
+      "title": "Google's AI\nis *calling you*",
+      "youtube": {
+        "title": "Google's AI now calls septic companies for quotes",
+        "description": "A Get a Quote button on the Google Business Profile has Google's voice AI call four or five septic companies, ask each one for a quote, and send the answers back to the homeowner, even when a company doesn't pick up.\n\n#septic #googlebusinessprofile #voiceai #septicbusiness"
+      },
+      "approved": false,
+      "fixes": {
+        "2683": "",
+        "2684": "",
+        "2685": "",
+        "2721": "",
+        "2722": "",
+        "2723": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok",
+        "instagram",
+        "facebook",
+        "linkedin"
+      ],
+      "publish_at": "2026-10-15T12:00:00",
+      "metricool": {
+        "post_id": 392231125,
+        "media": "https://static.metricool.com/video/4530374/202610/28f5182729434421.mp4",
+        "scheduled": "2026-10-15T12:00:00"
+      }
+    },
+    {
+      "id": "price-by-distance",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          2964,
+          2991
+        ],
+        [
+          2994,
+          3000
+        ],
+        [
+          3014,
+          3150
+        ]
+      ],
+      "title": "Why far pump-outs\ncost *more*",
+      "youtube": {
+        "title": "Pricing septic pump-outs by distance from your yard",
+        "description": "Diesel, wear on the truck and the drive to the dump site all add up. Inspections and installs can travel farther because the job is worth more, but pumping prices need to follow the miles.\n\n#septic #pumptruck #septicpumping #pricing"
+      },
+      "approved": false,
+      "fixes": {
+        "3025": "",
+        "3026": "",
+        "3093": "",
+        "3099": "",
+        "3100": "",
+        "3101": "",
+        "3102": "",
+        "3103": "",
+        "3104": "",
+        "3126": "",
+        "3127": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-17T17:00:00",
+      "metricool": {
+        "post_id": 392231139,
+        "media": "https://static.metricool.com/video/4530374/202610/f9ef6acdf5f44875.mp4",
+        "scheduled": "2026-10-17T17:00:00"
+      }
+    },
+    {
+      "id": "post-variable-prices",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          3172,
+          3194
+        ],
+        [
+          3280,
+          3406
+        ]
+      ],
+      "title": "How to post\n*variable* prices",
+      "youtube": {
+        "title": "How to put septic prices on your website when they vary",
+        "description": "Give a range, list your tiers, price the first thousand gallons, or show a starting price. Your website doesn't need every number. It needs a number.\n\n#septic #septicwebsite #pricing #septicpumping"
+      },
+      "approved": false,
+      "fixes": {
+        "3312": "X",
+        "3321": "X",
+        "3291": "",
+        "3294": "",
+        "3185": "",
+        "3186": "",
+        "3307": "",
+        "3308": "",
+        "3309": "",
+        "3310": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok",
+        "instagram",
+        "facebook",
+        "linkedin"
+      ],
+      "publish_at": "2026-10-20T12:00:00",
+      "metricool": {
+        "post_id": 392231152,
+        "media": "https://static.metricool.com/video/4530374/202610/8917cfca4ae24803.mp4",
+        "scheduled": "2026-10-20T12:00:00"
+      }
+    },
+    {
+      "id": "install-prices",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          3407,
+          3422
+        ],
+        [
+          3426,
+          3524
+        ]
+      ],
+      "title": "Post install prices,\nget *more installs*",
+      "youtube": {
+        "title": "Publishing install prices brought one septic company more installs",
+        "description": "One of our clients put prices on the two system models they install most. They now show up in Google and AI search for those jobs and book more of them. Don't overthink which prices to share.\n\n#septic #septicinstall #septicsystem #septicbusiness"
+      },
+      "approved": false,
+      "fixes": {
+        "3437": "",
+        "3438": "",
+        "3439": "",
+        "3457": "",
+        "3458": "",
+        "3459": "",
+        "3466": "",
+        "3491": "",
+        "3492": "",
+        "3495": "",
+        "3505": "",
+        "3506": "",
+        "3507": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "dropped": "2026-10-09: Ashley, not my favorite, don't publish"
+    },
+    {
+      "id": "beyond-wordpress",
+      "source": "01_footage/zoom-144723-ai50.mp4",
+      "words": "02_audio/words/144723.json",
+      "keep": [
+        [
+          3539,
+          3561
+        ],
+        [
+          3642,
+          3776
+        ]
+      ],
+      "title": "Why we stopped\nusing *WordPress*",
+      "youtube": {
+        "title": "Why we build septic websites on Astro instead of WordPress",
+        "description": "Modern sites built with AI tools load fast, and speed helps you rank. The harder part is the formula: the right information, the right trust signals for Google, and a page that turns visitors into customers.\n\n#septic #septicwebsite #webdesign #seo"
+      },
+      "approved": false,
+      "fixes": {
+        "3669": "",
+        "3670": ""
+      },
+      "layout": "crop",
+      "crop_x": 0.47,
+      "networks": [
+        "youtube",
+        "tiktok"
+      ],
+      "publish_at": "2026-10-20T17:00:00",
+      "metricool": {
+        "post_id": 392231165,
+        "media": "https://static.metricool.com/video/4530374/202610/c14edc45eaec45dc.mp4",
+        "scheduled": "2026-10-20T17:00:00"
+      }
+    }
+  ]
 }
