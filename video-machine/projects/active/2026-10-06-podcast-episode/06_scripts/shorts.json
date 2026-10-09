@@ -1,16 +1,6 @@
 {
  "_how": "Recipe for shorts.build (video-machine). 15 clips from the 2026-10-06 solo episode (take 144723, the full retake). keep = word-index ranges of 02_audio/words/144723.json, inclusive, in play order; fillers (um/uh) skip automatically; fixes = word index -> caption text. approved = Ashley approved the edit, title and description for publishing. Caption-hidden words (fixes \"\") stay in the audio: cutting them would clip the words beside them.",
  "fillers": true,
- "name_bar": {
-  "name": "Ashley Christian",
-  "org": "Groundbreaker Marketing",
-  "cover": [
-   0,
-   326,
-   134,
-   34
-  ]
- },
  "clips": [
   {
    "id": "record-every-call",
@@ -40,7 +30,9 @@
     "489": "",
     "490": "",
     "491": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "number-one-lever",
@@ -57,7 +49,9 @@
     "title": "Want your septic company in AI answers? Publish your prices.",
     "description": "If your local competitors hide their prices and you publish yours, you become the company AI search recommends. It is the biggest single lever we have seen for showing up in ChatGPT, Gemini and Google's AI results.\n\n#septic #aisearch #septicpumping #localseo"
    },
-   "approved": false
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "leads-from-chatgpt",
@@ -80,7 +74,9 @@
     "1088": "",
     "1089": "",
     "1095": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "ai-visibility-tracker",
@@ -134,7 +130,9 @@
    "approved": false,
    "fixes": {
     "1449": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "competitors-undercut",
@@ -174,7 +172,9 @@
     "1505": "",
     "1506": "",
     "1660": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.51
   },
   {
    "id": "coupon-trick",
@@ -223,7 +223,9 @@
     "1947": "",
     "1972": "",
     "2006": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.51
   },
   {
    "id": "one-fair-price",
@@ -256,7 +258,9 @@
     "2129": "",
     "2131": "",
     "2223": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "honest-companies-win",
@@ -292,7 +296,9 @@
     "2370": "",
     "2371": "",
     "2372": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "what-google-rewards",
@@ -327,7 +333,9 @@
     "2492": "",
     "2493": "",
     "2494": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "google-ai-calls",
@@ -352,7 +360,9 @@
     "2721": "",
     "2722": "",
     "2723": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "price-by-distance",
@@ -390,7 +400,9 @@
     "3104": "",
     "3126": "",
     "3127": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "post-variable-prices",
@@ -423,7 +435,9 @@
     "3308": "",
     "3309": "",
     "3310": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "install-prices",
@@ -459,7 +473,9 @@
     "3505": "",
     "3506": "",
     "3507": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   },
   {
    "id": "beyond-wordpress",
@@ -484,7 +500,9 @@
    "fixes": {
     "3669": "",
     "3670": ""
-   }
+   },
+   "layout": "crop",
+   "crop_x": 0.47
   }
  ]
 }

@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:33.12,Title,,0,0,0,,{\pos(540,600)}Won't competitors\N{\c&H0060ECCD}undercut{\c&H00FFFFFF&} me?
-Dialogue: 2,0:00:00.00,0:00:33.12,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:33.12,Title,,0,0,0,,{\pos(540,360)}Won't competitors\N{\c&H0060ECCD}undercut{\c&H00FFFFFF&} me?
 Dialogue: 1,0:00:00.00,0:00:00.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} if
 Dialogue: 1,0:00:00.16,0:00:00.96,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}if{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.96,0:00:01.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm{\c&H00FFFFFF&} not sure

@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:36.18,Title,,0,0,0,,{\pos(540,600)}Google's AI\Nis {\c&H0060ECCD}calling you{\c&H00FFFFFF&}
-Dialogue: 2,0:00:00.00,0:00:36.18,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:36.18,Title,,0,0,0,,{\pos(540,360)}Google's AI\Nis {\c&H0060ECCD}calling you{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.18,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you're a
 Dialogue: 1,0:00:00.26,0:00:00.40,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you're{\c&H00FFFFFF&} a
 Dialogue: 1,0:00:00.40,0:00:00.66,Cap,,0,0,0,,{\pos(540,1400)}if you're {\c&H0060ECCD}a{\c&H00FFFFFF&}

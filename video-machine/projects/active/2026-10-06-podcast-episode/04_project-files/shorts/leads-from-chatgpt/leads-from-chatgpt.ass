@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:34.57,Title,,0,0,0,,{\pos(540,600)}Leads from\N{\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} are real
-Dialogue: 2,0:00:00.00,0:00:34.57,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:34.57,Title,,0,0,0,,{\pos(540,360)}Leads from\N{\c&H0060ECCD}ChatGPT{\c&H00FFFFFF&} are real
 Dialogue: 1,0:00:00.24,0:00:00.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} we are seeing
 Dialogue: 1,0:00:00.86,0:00:01.62,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}we{\c&H00FFFFFF&} are seeing
 Dialogue: 1,0:00:01.62,0:00:01.74,Cap,,0,0,0,,{\pos(540,1400)}So we {\c&H0060ECCD}are{\c&H00FFFFFF&} seeing

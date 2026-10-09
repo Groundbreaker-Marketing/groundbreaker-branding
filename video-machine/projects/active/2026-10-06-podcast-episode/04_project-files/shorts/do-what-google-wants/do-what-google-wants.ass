@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:43.59,Title,,0,0,0,,{\pos(540,600)}Do what\N{\c&H0060ECCD}Google{\c&H00FFFFFF&} wants
-Dialogue: 2,0:00:00.00,0:00:43.59,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:43.59,Title,,0,0,0,,{\pos(540,360)}Do what\N{\c&H0060ECCD}Google{\c&H00FFFFFF&} wants
 Dialogue: 1,0:00:00.00,0:00:00.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} clients who
 Dialogue: 1,0:00:00.30,0:00:00.64,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}clients{\c&H00FFFFFF&} who
 Dialogue: 1,0:00:00.64,0:00:00.78,Cap,,0,0,0,,{\pos(540,1400)}our clients {\c&H0060ECCD}who{\c&H00FFFFFF&}

@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:51.36,Title,,0,0,0,,{\pos(540,600)}How to post\N{\c&H0060ECCD}variable{\c&H00FFFFFF&} prices
-Dialogue: 2,0:00:00.00,0:00:51.36,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:51.36,Title,,0,0,0,,{\pos(540,360)}How to post\N{\c&H0060ECCD}variable{\c&H00FFFFFF&} prices
 Dialogue: 1,0:00:00.12,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}How{\c&H00FFFFFF&} do I put
 Dialogue: 1,0:00:00.28,0:00:00.38,Cap,,0,0,0,,{\pos(540,1400)}How {\c&H0060ECCD}do{\c&H00FFFFFF&} I put
 Dialogue: 1,0:00:00.38,0:00:00.46,Cap,,0,0,0,,{\pos(540,1400)}How do {\c&H0060ECCD}I{\c&H00FFFFFF&} put

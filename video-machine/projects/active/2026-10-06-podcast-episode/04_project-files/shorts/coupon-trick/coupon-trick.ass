@@ -13,8 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:59.14,Title,,0,0,0,,{\pos(540,600)}Fake high price,\Nbig {\c&H0060ECCD}coupon{\c&H00FFFFFF&}?
-Dialogue: 2,0:00:00.00,0:00:59.14,Name,,0,0,0,,{\pos(28,1235)}Ashley Christian{\c&H0060ECCD}  ·  Groundbreaker Marketing
+Dialogue: 2,0:00:00.00,0:00:59.14,Title,,0,0,0,,{\pos(540,360)}Fake high price,\Nbig {\c&H0060ECCD}coupon{\c&H00FFFFFF&}?
 Dialogue: 1,0:00:00.04,0:00:00.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} did have a
 Dialogue: 1,0:00:00.18,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}did{\c&H00FFFFFF&} have a
 Dialogue: 1,0:00:00.28,0:00:00.42,Cap,,0,0,0,,{\pos(540,1400)}I did {\c&H0060ECCD}have{\c&H00FFFFFF&} a
