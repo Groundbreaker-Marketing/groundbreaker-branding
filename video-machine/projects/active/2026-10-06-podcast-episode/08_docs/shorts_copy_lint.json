@@ -1,9 +1,5 @@
 {
-  "competitors-undercut": {
-    "fails": [],
-    "warns": []
-  },
-  "coupon-trick": {
+  "leads-from-chatgpt": {
     "fails": [],
     "warns": []
   }
