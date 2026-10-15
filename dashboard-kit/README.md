@@ -1,14 +1,14 @@
 # Dashboard kit
 
 One look for every internal Groundbreaker dashboard: the same colors, the same type, and the
-same header with our logo. Josh picked the "Forest Bar" direction on 2026-10-14; the app
-picker rail (the "Suite Rail" idea) comes next, on top of this.
+same header with our logo. Josh picked the "Forest Bar" direction on 2026-10-14, then the app picker
+rail from the "Suite Rail" idea on top of it (v1.1.0).
 
 ## What is in it
 
 | File (in `dist/`) | What it is | Who uses it |
 |---|---|---|
-| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, the inline logos, `bar()` and `tabs()` | Ops, Finance, Leads, Onboarding and Access functions |
+| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops, Finance, Leads, Website & SEO, Social & Video, Onboarding and Access functions |
 | `gbm-dash.css` | Page tokens (light and dark) plus the bar and tabs | Onboarding's static page |
 | `gbm-bar.css` | The bar and tabs alone, with namespaced `--gbm-*` tokens, for a page that keeps its own palette | Access (client-facing) |
 | `gbm-logo*.svg`, `gbm-mark*.svg` | Copies of `../logos` | Reviews |
@@ -27,12 +27,29 @@ ${tabs([{ href: '/', label: 'My work', on: true }, { href: '/triage', label: 'Tr
 <main>…</main></body></html>`;
 ```
 
-- `bar({ app, home, user, signOut, signOutLabel, right })`. `right` is trusted HTML from the
-  app (filters, a refresh button); everything else is escaped.
+- `bar({ app, home, user, signOut, signOutLabel, right, current, email })`. `right` is trusted
+  HTML from the app (filters, a refresh button); everything else is escaped.
 - The logo is inline SVG, so it works under a strict CSP (`img-src` does not need to allow
   anything). Below 560px wide the full logo swaps to the GM mark.
 - Fonts: DM Sans from Google Fonts, the same face as groundbreakermarketing.com. A page's CSP
   needs `style-src https://fonts.googleapis.com` and `font-src https://fonts.gstatic.com`.
+
+## The app picker
+
+Pass `current` (the app's id in `apps.json`) and the signed-in `email` to `bar()` and it adds the
+picker: a rail down the left on screens 900px and wider, an "Apps" menu in the bar on narrower
+ones. Put what `bar()` returns directly inside `<body>`; the rail lays the page out with
+`body:has(> .gbm-rail)`, so no wrapper and no script (Ops' CSP forbids scripts).
+
+**Who sees what is read from each app's own gate.** `apps.json` names the file and variable that
+gate each app (Finance's `ALLOWED_EMAILS`, Leads' `ADMIN_EMAILS`, and so on) and the build reads
+them, so the picker can never offer an app its gate would refuse. The gates stay the security; the
+picker only hides links. The build prints who sees each app. Ops is the exception: its gate is
+Cloudflare Access plus its People page, neither a file, so `apps.json` declares the domain.
+
+When someone changes an allowlist, rebuild and sync: `node dashboard-kit/sync.mjs --check` lists
+every dashboard whose copy is now behind. Adding an app: an entry in `apps.json` with its gate,
+then sync and ship every consumer so the new link shows up everywhere.
 
 Static page, same markup by hand: copy the `<header class="gbm-bar">…</header>` that `bar()`
 returns (run `node -e "import('./dist/gbm-dash.js').then(m=>console.log(m.bar({app:'Name'})))"`).
