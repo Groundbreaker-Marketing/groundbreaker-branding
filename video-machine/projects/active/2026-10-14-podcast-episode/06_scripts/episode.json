@@ -1,11 +1,11 @@
 {
  "_how": "Recipe for podcast.episode (video-machine). Guest episode, Kim Turner of Turner Septic Services, recorded on Zoom 2026-10-14 (one part, 202403, 1280x720 HD; no AI upscale: a test frame was not clearly sharper and 47 min at 720p would take 6 to 10 hours). keep = inclusive word-index ranges of 02_audio/words/202403.json; drop = stammered repeats, false starts, 'like figure shit out?' (the feed is marked clean) and Ashley's aside about Kim's customers (2160-2238, a client's customers on a public episode; cut from 'some fun.' to Kim's next line, the nearest real pauses); fillers drop automatically; fixes = word index -> caption text (names Whisper lowercased, generated). lower_third.people: the name follows Zoom's active-speaker camera.",
  "slug": "septic-from-scratch",
- "title": "No Experience, a Used Truck, and Nearly 400 Reviews | Kim Turner",
+ "title": "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
  "title_options": [
+  "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
   "No Experience, a Used Truck, and Nearly 400 Reviews | Kim Turner",
   "How Kim Turner Built Turner Septic in 5 Years With No Experience",
-  "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
   "The Septic Girl With 42,000 TikTok Followers: Kim Turner",
   "Why Kim Turner's Septic Inspection Reports Run 20 Pages"
  ],
@@ -457,7 +457,7 @@
  "publish": {
   "approved": false,
   "youtube": {
-   "title": "No Experience, a Used Truck, and Nearly 400 Reviews | Kim Turner",
+   "title": "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
    "description": "My friend Kim Turner of Turner Septic Services joins me this week. Five years ago she had never pumped a septic tank. Her now-husband said they should start a septic company (\"and by us, I mean you\"), so she got her CDL and her New Hampshire septic inspector's license and started with one used truck, in an area where four family-owned haulers had been working for 30 years. Today her company has nearly 400 reviews and is growing fast.\n\nKim is honest about what this business really takes: the nights she cried in her truck, why she calls herself the bottleneck, and how education and humor built both her following and her reputation.\n\nWhat we cover:\n- Learning the trade from a mentor who would watch but not teach\n- Turning septic education into funny TikToks (about 42,000 followers)\n- The lonely side of owning a business, and why you have to ask for help\n- Hiring friends and family, brand-new trucks and Starlink on every truck\n- Pumping through a winter with frost 4 to 5 feet deep\n- Why her inspection reports run 15 to 20 pages\n- Using Claude to turn her inspection report into a checklist for her operations manager\n\nFind Kim at turnersepticservices.com, and as Turner Septic on TikTok, Instagram, Facebook and YouTube.",
    "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
    "category": "EDUCATION",
