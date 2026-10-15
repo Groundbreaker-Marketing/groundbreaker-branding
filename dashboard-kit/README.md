@@ -38,8 +38,9 @@ ${tabs([{ href: '/', label: 'My work', on: true }, { href: '/triage', label: 'Tr
 
 Pass `current` (the app's id in `apps.json`) and the signed-in `email` to `bar()` and it adds the
 picker: a rail down the left on screens 900px and wider, an "Apps" menu in the bar on narrower
-ones. Put what `bar()` returns directly inside `<body>`; the rail lays the page out with
-`body:has(> .gbm-rail)`, so no wrapper and no script (Ops' CSP forbids scripts).
+ones. Put what `bar()` returns directly inside `<body>`: the rail is a fixed column, and
+`body:has(> .gbm-rail)` pads the page right by its width, so no wrapper and no script (Ops' CSP
+forbids scripts). Keep `<body>` free of horizontal padding of its own; give it to the content.
 
 **Who sees what is read from each app's own gate.** `apps.json` names the file and variable that
 gate each app (Finance's `ALLOWED_EMAILS`, Leads' `ADMIN_EMAILS`, and so on) and the build reads
