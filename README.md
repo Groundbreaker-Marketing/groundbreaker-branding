@@ -39,10 +39,19 @@ To update fonts, colors, or other brand elements:
 
 ## Logo Assets
 
-Add logo files to a `logos/` directory. Provide variations:
-- Primary lockup (horizontal and stacked)
-- Icon/symbol only
-- Monochrome versions (for single-color applications)
-- Minimum clear space and sizing guidelines
+Vector files traced from the master logo, in `logos/`:
 
-_(Logos to be added by Ashley)_
+| File | Use |
+|---|---|
+| `gbm-logo.svg` | Full color, on white or light backgrounds |
+| `gbm-logo-reverse.svg` | White wordmark and mark, on forest green or dark mode |
+| `gbm-mark.svg` / `gbm-mark-reverse.svg` | The GM mark alone: favicons, tight spaces, phone widths |
+| `gbm-logo-source.png` | The original 4049px master the SVGs were traced from |
+
+Keep the lime piece lime in every version. Do not recolor the wordmark charcoal or any other color.
+
+## Dashboard kit
+
+`dashboard-kit/` holds the shared look for our internal dashboards (Ops, Onboarding, Finance,
+Leads, Access, Reviews): the color tokens, the Forest Bar header, section tabs, and the logos,
+synced into each dashboard repo. See `dashboard-kit/README.md`.
