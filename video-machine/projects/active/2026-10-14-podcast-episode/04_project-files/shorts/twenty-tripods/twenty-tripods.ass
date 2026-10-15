@@ -1,0 +1,160 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:45.86,Title,,0,0,0,,{\pos(540,360)}My crew won't touch\Nmy {\c&H0060ECCD}social media{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}My{\c&H00FFFFFF&} crew will not
+Dialogue: 1,0:00:00.19,0:00:00.41,Cap,,0,0,0,,{\pos(540,1400)}My {\c&H0060ECCD}crew{\c&H00FFFFFF&} will not
+Dialogue: 1,0:00:00.41,0:00:00.57,Cap,,0,0,0,,{\pos(540,1400)}My crew {\c&H0060ECCD}will{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:00.57,0:00:00.69,Cap,,0,0,0,,{\pos(540,1400)}My crew will {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.69,0:00:00.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} anything to
+Dialogue: 1,0:00:00.85,0:00:01.09,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}anything{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:01.09,0:00:01.19,Cap,,0,0,0,,{\pos(540,1400)}have anything {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.19,0:00:01.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} with my social
+Dialogue: 1,0:00:01.25,0:00:01.35,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}with{\c&H00FFFFFF&} my social
+Dialogue: 1,0:00:01.35,0:00:01.45,Cap,,0,0,0,,{\pos(540,1400)}do with {\c&H0060ECCD}my{\c&H00FFFFFF&} social
+Dialogue: 1,0:00:01.45,0:00:01.71,Cap,,0,0,0,,{\pos(540,1400)}do with my {\c&H0060ECCD}social{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.71,0:00:01.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}media{\c&H00FFFFFF&} even if I
+Dialogue: 1,0:00:01.95,0:00:02.25,Cap,,0,0,0,,{\pos(540,1400)}media {\c&H0060ECCD}even{\c&H00FFFFFF&} if I
+Dialogue: 1,0:00:02.25,0:00:02.39,Cap,,0,0,0,,{\pos(540,1400)}media even {\c&H0060ECCD}if{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:02.39,0:00:02.45,Cap,,0,0,0,,{\pos(540,1400)}media even if {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.45,0:00:02.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}offer{\c&H00FFFFFF&} to pay them
+Dialogue: 1,0:00:02.63,0:00:02.75,Cap,,0,0,0,,{\pos(540,1400)}offer {\c&H0060ECCD}to{\c&H00FFFFFF&} pay them
+Dialogue: 1,0:00:02.75,0:00:02.97,Cap,,0,0,0,,{\pos(540,1400)}offer to {\c&H0060ECCD}pay{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:02.97,0:00:03.22,Cap,,0,0,0,,{\pos(540,1400)}offer to pay {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.22,0:00:03.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} have probably
+Dialogue: 1,0:00:03.86,0:00:04.24,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}have{\c&H00FFFFFF&} probably
+Dialogue: 1,0:00:04.24,0:00:04.58,Cap,,0,0,0,,{\pos(540,1400)}I have {\c&H0060ECCD}probably{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.58,0:00:04.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}20{\c&H00FFFFFF&} tripods that I
+Dialogue: 1,0:00:04.86,0:00:05.42,Cap,,0,0,0,,{\pos(540,1400)}20 {\c&H0060ECCD}tripods{\c&H00FFFFFF&} that I
+Dialogue: 1,0:00:05.42,0:00:05.84,Cap,,0,0,0,,{\pos(540,1400)}20 tripods {\c&H0060ECCD}that{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:05.84,0:00:05.96,Cap,,0,0,0,,{\pos(540,1400)}20 tripods that {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.96,0:00:06.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}set{\c&H00FFFFFF&} up so most
+Dialogue: 1,0:00:06.20,0:00:07.28,Cap,,0,0,0,,{\pos(540,1400)}set {\c&H0060ECCD}up{\c&H00FFFFFF&} so most
+Dialogue: 1,0:00:07.28,0:00:07.78,Cap,,0,0,0,,{\pos(540,1400)}set up {\c&H0060ECCD}so{\c&H00FFFFFF&} most
+Dialogue: 1,0:00:07.78,0:00:08.08,Cap,,0,0,0,,{\pos(540,1400)}set up so {\c&H0060ECCD}most{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.08,0:00:08.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} my videos are
+Dialogue: 1,0:00:08.22,0:00:08.36,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}my{\c&H00FFFFFF&} videos are
+Dialogue: 1,0:00:08.36,0:00:08.64,Cap,,0,0,0,,{\pos(540,1400)}of my {\c&H0060ECCD}videos{\c&H00FFFFFF&} are
+Dialogue: 1,0:00:08.64,0:00:08.78,Cap,,0,0,0,,{\pos(540,1400)}of my videos {\c&H0060ECCD}are{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.78,0:00:10.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tripods{\c&H00FFFFFF&} but it's
+Dialogue: 1,0:00:10.22,0:00:10.72,Cap,,0,0,0,,{\pos(540,1400)}tripods {\c&H0060ECCD}but{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:10.72,0:00:11.12,Cap,,0,0,0,,{\pos(540,1400)}tripods but {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.12,0:00:11.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fun{\c&H00FFFFFF&} and people
+Dialogue: 1,0:00:11.50,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}fun {\c&H0060ECCD}and{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:11.86,0:00:12.18,Cap,,0,0,0,,{\pos(540,1400)}fun and {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.18,0:00:12.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}love{\c&H00FFFFFF&} it I had
+Dialogue: 1,0:00:12.58,0:00:12.78,Cap,,0,0,0,,{\pos(540,1400)}love {\c&H0060ECCD}it{\c&H00FFFFFF&} I had
+Dialogue: 1,0:00:12.78,0:00:12.96,Cap,,0,0,0,,{\pos(540,1400)}love it {\c&H0060ECCD}I{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:12.96,0:00:13.10,Cap,,0,0,0,,{\pos(540,1400)}love it I {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.10,0:00:13.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} woman in
+Dialogue: 1,0:00:13.40,0:00:13.60,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}woman{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:13.60,0:00:13.76,Cap,,0,0,0,,{\pos(540,1400)}one woman {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.76,0:00:14.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Australia{\c&H00FFFFFF&} message
+Dialogue: 1,0:00:14.38,0:00:15.00,Cap,,0,0,0,,{\pos(540,1400)}Australia {\c&H0060ECCD}message{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.00,0:00:15.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}me{\c&H00FFFFFF&} DM me she
+Dialogue: 1,0:00:15.22,0:00:15.54,Cap,,0,0,0,,{\pos(540,1400)}me {\c&H0060ECCD}DM{\c&H00FFFFFF&} me she
+Dialogue: 1,0:00:15.54,0:00:15.78,Cap,,0,0,0,,{\pos(540,1400)}me DM {\c&H0060ECCD}me{\c&H00FFFFFF&} she
+Dialogue: 1,0:00:15.78,0:00:16.32,Cap,,0,0,0,,{\pos(540,1400)}me DM me {\c&H0060ECCD}she{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.32,0:00:16.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}goes{\c&H00FFFFFF&} you will
+Dialogue: 1,0:00:16.46,0:00:16.60,Cap,,0,0,0,,{\pos(540,1400)}goes {\c&H0060ECCD}you{\c&H00FFFFFF&} will
+Dialogue: 1,0:00:16.60,0:00:16.74,Cap,,0,0,0,,{\pos(540,1400)}goes you {\c&H0060ECCD}will{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.74,0:00:16.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}never{\c&H00FFFFFF&} pump my
+Dialogue: 1,0:00:16.98,0:00:17.24,Cap,,0,0,0,,{\pos(540,1400)}never {\c&H0060ECCD}pump{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:17.24,0:00:17.40,Cap,,0,0,0,,{\pos(540,1400)}never pump {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.40,0:00:17.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} but thank
+Dialogue: 1,0:00:17.72,0:00:17.88,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}but{\c&H00FFFFFF&} thank
+Dialogue: 1,0:00:17.88,0:00:18.16,Cap,,0,0,0,,{\pos(540,1400)}septic but {\c&H0060ECCD}thank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.16,0:00:18.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} for making me
+Dialogue: 1,0:00:18.32,0:00:18.48,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}for{\c&H00FFFFFF&} making me
+Dialogue: 1,0:00:18.48,0:00:18.68,Cap,,0,0,0,,{\pos(540,1400)}you for {\c&H0060ECCD}making{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:18.68,0:00:18.86,Cap,,0,0,0,,{\pos(540,1400)}you for making {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.86,0:00:19.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}laugh{\c&H00FFFFFF&} today My
+Dialogue: 1,0:00:19.10,0:00:19.29,Cap,,0,0,0,,{\pos(540,1400)}laugh {\c&H0060ECCD}today{\c&H00FFFFFF&} My
+Dialogue: 1,0:00:19.29,0:00:19.71,Cap,,0,0,0,,{\pos(540,1400)}laugh today {\c&H0060ECCD}My{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.71,0:00:19.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whole{\c&H00FFFFFF&} business
+Dialogue: 1,0:00:19.89,0:00:20.19,Cap,,0,0,0,,{\pos(540,1400)}whole {\c&H0060ECCD}business{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.19,0:00:20.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}has{\c&H00FFFFFF&} morphed into
+Dialogue: 1,0:00:20.39,0:00:20.71,Cap,,0,0,0,,{\pos(540,1400)}has {\c&H0060ECCD}morphed{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:20.71,0:00:20.91,Cap,,0,0,0,,{\pos(540,1400)}has morphed {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.91,0:00:21.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} very
+Dialogue: 1,0:00:21.09,0:00:21.23,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}very{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.23,0:00:21.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}educational{\c&H00FFFFFF&} fun
+Dialogue: 1,0:00:21.81,0:00:22.49,Cap,,0,0,0,,{\pos(540,1400)}educational {\c&H0060ECCD}fun{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.49,0:00:23.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} is not as
+Dialogue: 1,0:00:23.95,0:00:24.11,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}is{\c&H00FFFFFF&} not as
+Dialogue: 1,0:00:24.11,0:00:24.29,Cap,,0,0,0,,{\pos(540,1400)}septic is {\c&H0060ECCD}not{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:24.29,0:00:24.53,Cap,,0,0,0,,{\pos(540,1400)}septic is not {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.53,0:00:24.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}faux{\c&H00FFFFFF&} pas as we
+Dialogue: 1,0:00:24.81,0:00:25.23,Cap,,0,0,0,,{\pos(540,1400)}faux {\c&H0060ECCD}pas{\c&H00FFFFFF&} as we
+Dialogue: 1,0:00:25.23,0:00:25.89,Cap,,0,0,0,,{\pos(540,1400)}faux pas {\c&H0060ECCD}as{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:25.89,0:00:26.89,Cap,,0,0,0,,{\pos(540,1400)}faux pas as {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.89,0:00:27.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}think{\c&H00FFFFFF&} it is ask
+Dialogue: 1,0:00:27.17,0:00:27.33,Cap,,0,0,0,,{\pos(540,1400)}think {\c&H0060ECCD}it{\c&H00FFFFFF&} is ask
+Dialogue: 1,0:00:27.33,0:00:27.63,Cap,,0,0,0,,{\pos(540,1400)}think it {\c&H0060ECCD}is{\c&H00FFFFFF&} ask
+Dialogue: 1,0:00:27.63,0:00:28.91,Cap,,0,0,0,,{\pos(540,1400)}think it is {\c&H0060ECCD}ask{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.91,0:00:29.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}questions{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:29.29,0:00:29.69,Cap,,0,0,0,,{\pos(540,1400)}questions {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.69,0:00:29.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fun{\c&H00FFFFFF&} with it I
+Dialogue: 1,0:00:29.93,0:00:30.09,Cap,,0,0,0,,{\pos(540,1400)}fun {\c&H0060ECCD}with{\c&H00FFFFFF&} it I
+Dialogue: 1,0:00:30.09,0:00:30.23,Cap,,0,0,0,,{\pos(540,1400)}fun with {\c&H0060ECCD}it{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:30.23,0:00:30.57,Cap,,0,0,0,,{\pos(540,1400)}fun with it {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.57,0:00:30.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}think{\c&H00FFFFFF&} I'm up to
+Dialogue: 1,0:00:30.81,0:00:30.93,Cap,,0,0,0,,{\pos(540,1400)}think {\c&H0060ECCD}I'm{\c&H00FFFFFF&} up to
+Dialogue: 1,0:00:30.93,0:00:31.01,Cap,,0,0,0,,{\pos(540,1400)}think I'm {\c&H0060ECCD}up{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:31.01,0:00:31.11,Cap,,0,0,0,,{\pos(540,1400)}think I'm up {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.11,0:00:31.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} 42,000
+Dialogue: 1,0:00:31.23,0:00:31.99,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}42,000{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.99,0:00:32.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}TikTok{\c&H00FFFFFF&} followers
+Dialogue: 1,0:00:32.33,0:00:32.99,Cap,,0,0,0,,{\pos(540,1400)}TikTok {\c&H0060ECCD}followers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.15,0:00:34.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:34.43,0:00:34.67,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.67,0:00:34.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} I just
+Dialogue: 1,0:00:34.79,0:00:34.91,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}I{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:34.91,0:00:35.21,Cap,,0,0,0,,{\pos(540,1400)}and I {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.21,0:00:35.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} really enjoy
+Dialogue: 1,0:00:35.27,0:00:35.69,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}really{\c&H00FFFFFF&} enjoy
+Dialogue: 1,0:00:35.69,0:00:36.31,Cap,,0,0,0,,{\pos(540,1400)}I really {\c&H0060ECCD}enjoy{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.31,0:00:36.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}making{\c&H00FFFFFF&} these
+Dialogue: 1,0:00:36.85,0:00:37.09,Cap,,0,0,0,,{\pos(540,1400)}making {\c&H0060ECCD}these{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.09,0:00:37.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}videos{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:37.39,0:00:37.57,Cap,,0,0,0,,{\pos(540,1400)}videos {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.57,0:00:37.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.07,0:00:38.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whether{\c&H00FFFFFF&} you book
+Dialogue: 1,0:00:38.21,0:00:38.59,Cap,,0,0,0,,{\pos(540,1400)}whether {\c&H0060ECCD}you{\c&H00FFFFFF&} book
+Dialogue: 1,0:00:38.59,0:00:39.17,Cap,,0,0,0,,{\pos(540,1400)}whether you {\c&H0060ECCD}book{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.17,0:00:39.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:39.35,0:00:39.63,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.63,0:00:40.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}inspection{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:40.05,0:00:40.35,Cap,,0,0,0,,{\pos(540,1400)}inspection {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.35,0:00:40.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pump{\c&H00FFFFFF&} with me
+Dialogue: 1,0:00:40.91,0:00:41.09,Cap,,0,0,0,,{\pos(540,1400)}pump {\c&H0060ECCD}with{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:41.09,0:00:41.41,Cap,,0,0,0,,{\pos(540,1400)}pump with {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.49,0:00:41.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} we've
+Dialogue: 1,0:00:41.77,0:00:41.95,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}we've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.95,0:00:42.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gotten{\c&H00FFFFFF&} a lot of
+Dialogue: 1,0:00:42.11,0:00:42.31,Cap,,0,0,0,,{\pos(540,1400)}gotten {\c&H0060ECCD}a{\c&H00FFFFFF&} lot of
+Dialogue: 1,0:00:42.31,0:00:42.71,Cap,,0,0,0,,{\pos(540,1400)}gotten a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:42.71,0:00:42.89,Cap,,0,0,0,,{\pos(540,1400)}gotten a lot {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.89,0:00:43.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}feedback{\c&H00FFFFFF&} on our
+Dialogue: 1,0:00:43.21,0:00:43.49,Cap,,0,0,0,,{\pos(540,1400)}feedback {\c&H0060ECCD}on{\c&H00FFFFFF&} our
+Dialogue: 1,0:00:43.49,0:00:43.59,Cap,,0,0,0,,{\pos(540,1400)}feedback on {\c&H0060ECCD}our{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.59,0:00:43.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}social{\c&H00FFFFFF&} media or
+Dialogue: 1,0:00:43.81,0:00:44.29,Cap,,0,0,0,,{\pos(540,1400)}social {\c&H0060ECCD}media{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:44.29,0:00:44.73,Cap,,0,0,0,,{\pos(540,1400)}social media {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.73,0:00:44.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} just makes
+Dialogue: 1,0:00:44.85,0:00:44.95,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}just{\c&H00FFFFFF&} makes
+Dialogue: 1,0:00:44.95,0:00:45.14,Cap,,0,0,0,,{\pos(540,1400)}it just {\c&H0060ECCD}makes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.14,0:00:45.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} day
+Dialogue: 1,0:00:45.29,0:00:45.69,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}day{\c&H00FFFFFF&}

@@ -1,0 +1,654 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Turner's guest episode (take 202403, Zoom HD 1280x720, no upscale). keep = inclusive word-index ranges of 02_audio/words/202403.json in play order (splits drop Ashley's short interjections and false starts); fillers skip automatically; fixes = word index -> caption text (the episode's name fixes plus each clip's own). Posting plan: release week 2026-10-21..27, every clip to YouTube + TikTok at noon or 5 PM CT, the five best also to Instagram, Facebook and LinkedIn at noon on weekdays. approved = Ashley approved it in Ops.",
+ "fillers": true,
+ "clips": [
+  {
+   "id": "zero-experience",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     93,
+     213
+    ],
+    [
+     217,
+     221
+    ],
+    [
+     227,
+     229
+    ]
+   ],
+   "title": "Started a septic company\nwith *zero* experience",
+   "youtube": {
+    "title": "She started a septic company with zero experience",
+    "description": "Five years ago Kim Turner didn't know where things went when you flushed the toilet. Her now-husband suggested a septic company, so she got her CDL and her New Hampshire inspector's license and bought a used truck. Now her company is growing so fast she hired a business coach.\n\n#septic #septicbusiness #womeninbusiness #entrepreneur"
+   },
+   "approved": false,
+   "fixes": {
+    "93": "Never",
+    "124": "Tinder,",
+    "188": "CDL",
+    "196": "New",
+    "197": "Hampshire"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook",
+    "linkedin"
+   ],
+   "publish_at": "2026-10-21T12:00:00"
+  },
+  {
+   "id": "septic-whisperer",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     1209,
+     1236
+    ],
+    [
+     1307,
+     1307
+    ],
+    [
+     1310,
+     1337
+    ],
+    [
+     1340,
+     1365
+    ],
+    [
+     1391,
+     1416
+    ]
+   ],
+   "title": "He wouldn't teach me.\nHe *watched*.",
+   "youtube": {
+    "title": "The septic whisperer who wouldn't teach her",
+    "description": "Kim Turner's mentor Walter refused to teach her. He watched her figure it out instead, and after seeing her upside down in a five-foot tank, he said she'd be fine.\n\n#septic #septicpumping #mentorship #trades"
+   },
+   "approved": false,
+   "fixes": {
+    "1209": "There's",
+    "1215": "Walter.",
+    "1307": "Walter,",
+    "1328": "asks"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-21T17:00:00"
+  },
+  {
+   "id": "almost-400-reviews",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     6173,
+     6177
+    ],
+    [
+     6180,
+     6207
+    ],
+    [
+     6209,
+     6264
+    ]
+   ],
+   "title": "How we got almost\n*400* reviews",
+   "youtube": {
+    "title": "How a septic company gets almost 400 reviews",
+    "description": "Turner Septic doesn't just drop a hose and hand over a bill. Every invoice explains scum, sludge and baffles, and every call gets returned. That's how you get close to 400 reviews.\n\n#septic #googlereviews #customerservice #septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "6173": "We're",
+    "6206": "$500",
+    "6227": "1,500",
+    "6251": "baffle's"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook",
+    "linkedin"
+   ],
+   "publish_at": "2026-10-22T12:00:00"
+  },
+  {
+   "id": "million-views",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     1808,
+     1818
+    ],
+    [
+     1820,
+     1838
+    ],
+    [
+     1840,
+     1890
+    ],
+    [
+     1895,
+     1935
+    ]
+   ],
+   "title": "The septic video\nwith *a million* views",
+   "youtube": {
+    "title": "How a septic company got a million views",
+    "description": "Kim Turner takes the trends people already watch and gives them a septic twist. Poop emoji nails, a pump truck, and a fountain on a 100-degree day got her a million views.\n\n#septic #tiktokmarketing #socialmedia #septictruck"
+   },
+   "approved": false,
+   "fixes": {
+    "1808": "My",
+    "1830": "Mercedes",
+    "1870": "Septic",
+    "1871": "Truck!",
+    "1903": "New",
+    "1904": "Hampshire"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-22T17:00:00"
+  },
+  {
+   "id": "two-page-inspections",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     6643,
+     6727
+    ],
+    [
+     6729,
+     6771
+    ]
+   ],
+   "title": "Most inspections: 2 pages.\nHers: *20*.",
+   "youtube": {
+    "title": "Why her septic inspection reports run 20 pages",
+    "description": "Kim Turner kept seeing two-page septic inspections that couldn't say whether a system worked. Hers run 15 to 20 pages and cover everything from the clean-out to the end of the leach field.\n\n#septicinspection #septic #homeinspection #realestate"
+   },
+   "approved": false,
+   "fixes": {
+    "6643": "I",
+    "6709": "clean-out",
+    "6710": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook",
+    "linkedin"
+   ],
+   "publish_at": "2026-10-23T12:00:00"
+  },
+  {
+   "id": "twenty-tripods",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     1969,
+     1987
+    ],
+    [
+     1989,
+     2013
+    ],
+    [
+     2016,
+     2041
+    ],
+    [
+     2045,
+     2073
+    ],
+    [
+     2077,
+     2126
+    ]
+   ],
+   "title": "My crew won't touch\nmy *social media*",
+   "youtube": {
+    "title": "Her crew won't film, so she bought 20 tripods",
+    "description": "Kim's crew wants nothing to do with her videos, even if she pays them, so she films herself on about 20 tripods. The payoff: about 42,000 TikTok followers and a lot of feedback from customers.\n\n#septic #contentcreation #tiktok #smallbusinessmarketing"
+   },
+   "approved": false,
+   "fixes": {
+    "1969": "My",
+    "2004": "are",
+    "2020": "in",
+    "2021": "Australia",
+    "2024": "DM",
+    "2045": "My",
+    "2083": "42,000",
+    "2084": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-23T17:00:00"
+  },
+  {
+   "id": "phd-in-poo",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     2239,
+     2262
+    ],
+    [
+     2266,
+     2287
+    ],
+    [
+     2293,
+     2297
+    ],
+    [
+     2304,
+     2314
+    ],
+    [
+     2318,
+     2320
+    ]
+   ],
+   "title": "I have my\n*PhD* in poo",
+   "youtube": {
+    "title": "Is it real poop or staged? Kim won't tell.",
+    "description": "Kim Turner can't promise whether it's real poop or a prop in her videos, but the job behind it always is. Every wastewater pro needs a little humor.\n\n#septic #septichumor #wastewater #funny"
+   },
+   "approved": false,
+   "fixes": {
+    "2239": "I",
+    "2255": "staged.",
+    "2266": "It's",
+    "2312": "PhD",
+    "2320": "pooposcopies."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-24T12:00:00"
+  },
+  {
+   "id": "frozen-winter",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     4951,
+     4973
+    ],
+    [
+     4975,
+     4982
+    ],
+    [
+     5013,
+     5065
+    ],
+    [
+     5075,
+     5079
+    ],
+    [
+     5119,
+     5141
+    ],
+    [
+     5143,
+     5152
+    ]
+   ],
+   "title": "4 to 5 feet of frost.\nWe *still* pump.",
+   "youtube": {
+    "title": "How a New Hampshire septic company pumps through frozen winters",
+    "description": "Last winter the frost went 4 to 5 feet deep. Kim Turner's crew answered with heating mats, jackhammers, a heated garage and car wash stops between jobs.\n\n#septic #winter #septicpumping #newhampshire"
+   },
+   "approved": false,
+   "fixes": {
+    "4951": "Last",
+    "4963": "New",
+    "4964": "Hampshire",
+    "5079": "garage."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-24T17:00:00"
+  },
+  {
+   "id": "birthing-gloves",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     5708,
+     5752
+    ],
+    [
+     5754,
+     5790
+    ],
+    [
+     5795,
+     5835
+    ],
+    [
+     5837,
+     5845
+    ]
+   ],
+   "title": "Go grab the\n*birthing gloves*",
+   "youtube": {
+    "title": "Why Kim's crew carries livestock birthing gloves",
+    "description": "When a D-box is full, regular gloves won't cut it. Kim grew up with livestock, so her crew reaches for birthing gloves, and the looks on customers' faces are part of the experience.\n\n#septic #septicservice #customerexperience #septichumor"
+   },
+   "approved": false,
+   "fixes": {
+    "5708": "I",
+    "5722": "D-box",
+    "5723": "",
+    "5779": "customers'"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-25T12:00:00"
+  },
+  {
+   "id": "business-is-lonely",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     3202,
+     3239
+    ],
+    [
+     3241,
+     3300
+    ],
+    [
+     3313,
+     3321
+    ],
+    [
+     3323,
+     3342
+    ]
+   ],
+   "title": "Owning a business\ncan be *lonely*",
+   "youtube": {
+    "title": "Owning a septic business can be lonely",
+    "description": "Payroll, equipment, who to hire, and nights lying awake. Kim Turner gets real about the side of business ownership that social media doesn't show.\n\n#smallbusinessowner #septic #mentalhealth #entrepreneur"
+   },
+   "approved": false,
+   "fixes": {
+    "3209": "Kim",
+    "3210": "Turner.",
+    "3241": "It",
+    "3313": "And"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-25T17:00:00"
+  },
+  {
+   "id": "brand-new-trucks",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     4571,
+     4577
+    ],
+    [
+     4591,
+     4617
+    ],
+    [
+     4619,
+     4624
+    ],
+    [
+     4626,
+     4663
+    ],
+    [
+     4668,
+     4696
+    ]
+   ],
+   "title": "Why we drive\n*brand new* trucks",
+   "youtube": {
+    "title": "Why this septic company runs brand new trucks",
+    "description": "People tell Kim she must be rolling in the dough. The truth: a new truck doesn't leak oil in your yard, keeps her crew cool on hot days, and works as a rolling billboard. She even put Starlink on her trucks.\n\n#septic #pumptruck #septictruck #crew"
+   },
+   "approved": false,
+   "fixes": {
+    "4571": "These",
+    "4591": "When",
+    "4599": "Kim",
+    "4642": "AC.",
+    "4678": "CSR",
+    "4691": "Starlink"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook",
+    "linkedin"
+   ],
+   "publish_at": "2026-10-26T12:00:00"
+  },
+  {
+   "id": "voice-to-report",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     7103,
+     7108
+    ],
+    [
+     7110,
+     7133
+    ],
+    [
+     7135,
+     7154
+    ],
+    [
+     7159,
+     7172
+    ],
+    [
+     7174,
+     7187
+    ],
+    [
+     7189,
+     7207
+    ],
+    [
+     7209,
+     7226
+    ],
+    [
+     7228,
+     7235
+    ],
+    [
+     7238,
+     7245
+    ],
+    [
+     7247,
+     7249
+    ]
+   ],
+   "title": "Talk through the inspection.\nLet *AI* write it.",
+   "youtube": {
+    "title": "Write a 15-page inspection report without a week of typing",
+    "description": "Talk through what you see on site, record it with an app like Wispr Flow or a Plaud device, then let AI drop it into your inspection template. Same top-tier report, without spending a week writing it.\n\n#AI #septicinspection #septic #productivity"
+   },
+   "approved": false,
+   "fixes": {
+    "7103": "You",
+    "7123": "Wispr",
+    "7124": "Flow",
+    "7133": "Plaud",
+    "7209": "There"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-26T17:00:00"
+  },
+  {
+   "id": "im-the-bottleneck",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     8073,
+     8082
+    ],
+    [
+     8090,
+     8102
+    ],
+    [
+     8104,
+     8143
+    ],
+    [
+     8145,
+     8157
+    ]
+   ],
+   "title": "The bottleneck\nis *me*",
+   "youtube": {
+    "title": "\"The business doesn't have a bottleneck. I'm the bottleneck.\"",
+    "description": "I asked Kim Turner what she'd tell herself five years ago. Her answer: take care of yourself, because the business will swallow you whole, and the owner is often the one slowing it down.\n\n#entrepreneur #smallbusiness #septic #leadership"
+   },
+   "approved": false,
+   "fixes": {
+    "8073": "If",
+    "8079": "Kim",
+    "8099": "Take",
+    "8104": "Yep,",
+    "8131": "Turner",
+    "8132": "Septic",
+    "8135": "The"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook",
+    "linkedin"
+   ],
+   "publish_at": "2026-10-27T12:00:00"
+  },
+  {
+   "id": "cried-in-my-truck",
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json",
+   "keep": [
+    [
+     2546,
+     2562
+    ],
+    [
+     2564,
+     2644
+    ],
+    [
+     2651,
+     2669
+    ],
+    [
+     2673,
+     2715
+    ]
+   ],
+   "title": "I sat in my truck\nand *cried*",
+   "youtube": {
+    "title": "The part of starting a septic business nobody shows you",
+    "description": "In her first couple of years, Kim Turner had one-hour jobs take five, and she cried in her truck wondering what she was doing wrong. Now she shares what she learned instead of keeping industry secrets.\n\n#septic #septicbusiness #entrepreneurlife #wastewater"
+   },
+   "approved": false,
+   "fixes": {
+    "2546": "I'm",
+    "2651": "Our",
+    "2661": "United",
+    "2662": "States"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "publish_at": "2026-10-27T17:00:00"
+  }
+ ]
+}

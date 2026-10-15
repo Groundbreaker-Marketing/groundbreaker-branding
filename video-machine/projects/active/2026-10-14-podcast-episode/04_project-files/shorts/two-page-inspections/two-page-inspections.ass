@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:38.40,Title,,0,0,0,,{\pos(540,360)}Most inspections: 2 pages.\NHers: {\c&H0060ECCD}20{\c&H00FFFFFF&}.
+Dialogue: 1,0:00:00.30,0:00:00.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} saw a lot
+Dialogue: 1,0:00:00.66,0:00:00.96,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}saw{\c&H00FFFFFF&} a lot
+Dialogue: 1,0:00:00.96,0:00:01.16,Cap,,0,0,0,,{\pos(540,1400)}I saw {\c&H0060ECCD}a{\c&H00FFFFFF&} lot
+Dialogue: 1,0:00:01.16,0:00:01.28,Cap,,0,0,0,,{\pos(540,1400)}I saw a {\c&H0060ECCD}lot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.28,0:00:01.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} inspections
+Dialogue: 1,0:00:01.40,0:00:01.80,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}inspections{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.80,0:00:02.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} they were
+Dialogue: 1,0:00:02.12,0:00:02.22,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}they{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:02.22,0:00:02.32,Cap,,0,0,0,,{\pos(540,1400)}and they {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.32,0:00:02.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} two pages
+Dialogue: 1,0:00:02.46,0:00:02.64,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}two{\c&H00FFFFFF&} pages
+Dialogue: 1,0:00:02.64,0:00:03.14,Cap,,0,0,0,,{\pos(540,1400)}like two {\c&H0060ECCD}pages{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.35,0:00:03.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} I'm like
+Dialogue: 1,0:00:03.71,0:00:03.81,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}I'm{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:03.81,0:00:04.09,Cap,,0,0,0,,{\pos(540,1400)}And I'm {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.28,0:00:04.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wait{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.64,0:00:04.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} you even know
+Dialogue: 1,0:00:04.76,0:00:04.86,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}you{\c&H00FFFFFF&} even know
+Dialogue: 1,0:00:04.86,0:00:05.06,Cap,,0,0,0,,{\pos(540,1400)}do you {\c&H0060ECCD}even{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:05.06,0:00:05.22,Cap,,0,0,0,,{\pos(540,1400)}do you even {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.22,0:00:05.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} it's working
+Dialogue: 1,0:00:05.34,0:00:05.46,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}it's{\c&H00FFFFFF&} working
+Dialogue: 1,0:00:05.46,0:00:05.68,Cap,,0,0,0,,{\pos(540,1400)}if it's {\c&H0060ECCD}working{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.68,0:00:05.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} not?
+Dialogue: 1,0:00:05.82,0:00:06.16,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}not?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.16,0:00:06.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} I developed my
+Dialogue: 1,0:00:06.34,0:00:06.86,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}I{\c&H00FFFFFF&} developed my
+Dialogue: 1,0:00:06.86,0:00:07.54,Cap,,0,0,0,,{\pos(540,1400)}So I {\c&H0060ECCD}developed{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:07.54,0:00:07.82,Cap,,0,0,0,,{\pos(540,1400)}So I developed {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.82,0:00:08.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}own{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.24,0:00:08.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}It's{\c&H00FFFFFF&} 15 to 20
+Dialogue: 1,0:00:08.34,0:00:08.70,Cap,,0,0,0,,{\pos(540,1400)}It's {\c&H0060ECCD}15{\c&H00FFFFFF&} to 20
+Dialogue: 1,0:00:08.70,0:00:08.86,Cap,,0,0,0,,{\pos(540,1400)}It's 15 {\c&H0060ECCD}to{\c&H00FFFFFF&} 20
+Dialogue: 1,0:00:08.86,0:00:09.12,Cap,,0,0,0,,{\pos(540,1400)}It's 15 to {\c&H0060ECCD}20{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.12,0:00:09.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pages{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.85,0:00:10.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}It{\c&H00FFFFFF&} is a love
+Dialogue: 1,0:00:10.21,0:00:10.43,Cap,,0,0,0,,{\pos(540,1400)}It {\c&H0060ECCD}is{\c&H00FFFFFF&} a love
+Dialogue: 1,0:00:10.43,0:00:10.77,Cap,,0,0,0,,{\pos(540,1400)}It is {\c&H0060ECCD}a{\c&H00FFFFFF&} love
+Dialogue: 1,0:00:10.77,0:00:11.81,Cap,,0,0,0,,{\pos(540,1400)}It is a {\c&H0060ECCD}love{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.81,0:00:12.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} I love to
+Dialogue: 1,0:00:12.37,0:00:12.75,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}I{\c&H00FFFFFF&} love to
+Dialogue: 1,0:00:12.75,0:00:12.95,Cap,,0,0,0,,{\pos(540,1400)}and I {\c&H0060ECCD}love{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:12.95,0:00:13.09,Cap,,0,0,0,,{\pos(540,1400)}and I love {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.09,0:00:13.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}share{\c&H00FFFFFF&} it with
+Dialogue: 1,0:00:13.27,0:00:13.37,Cap,,0,0,0,,{\pos(540,1400)}share {\c&H0060ECCD}it{\c&H00FFFFFF&} with
+Dialogue: 1,0:00:13.37,0:00:13.47,Cap,,0,0,0,,{\pos(540,1400)}share it {\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.47,0:00:13.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.01,0:00:14.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}It's{\c&H00FFFFFF&} a lot of
+Dialogue: 1,0:00:14.37,0:00:14.43,Cap,,0,0,0,,{\pos(540,1400)}It's {\c&H0060ECCD}a{\c&H00FFFFFF&} lot of
+Dialogue: 1,0:00:14.43,0:00:14.55,Cap,,0,0,0,,{\pos(540,1400)}It's a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:14.55,0:00:14.63,Cap,,0,0,0,,{\pos(540,1400)}It's a lot {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.63,0:00:14.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}work{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.91,0:00:15.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} you get from
+Dialogue: 1,0:00:15.43,0:00:16.41,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}you{\c&H00FFFFFF&} get from
+Dialogue: 1,0:00:16.41,0:00:16.87,Cap,,0,0,0,,{\pos(540,1400)}but you {\c&H0060ECCD}get{\c&H00FFFFFF&} from
+Dialogue: 1,0:00:16.87,0:00:17.83,Cap,,0,0,0,,{\pos(540,1400)}but you get {\c&H0060ECCD}from{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.83,0:00:18.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} beginning of
+Dialogue: 1,0:00:18.89,0:00:19.19,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}beginning{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:19.19,0:00:19.37,Cap,,0,0,0,,{\pos(540,1400)}the beginning {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.37,0:00:19.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} septic where
+Dialogue: 1,0:00:19.47,0:00:19.87,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}septic{\c&H00FFFFFF&} where
+Dialogue: 1,0:00:19.87,0:00:20.05,Cap,,0,0,0,,{\pos(540,1400)}your septic {\c&H0060ECCD}where{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.05,0:00:20.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} comes into the
+Dialogue: 1,0:00:20.17,0:00:20.39,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}comes{\c&H00FFFFFF&} into the
+Dialogue: 1,0:00:20.39,0:00:20.57,Cap,,0,0,0,,{\pos(540,1400)}it comes {\c&H0060ECCD}into{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:20.57,0:00:20.67,Cap,,0,0,0,,{\pos(540,1400)}it comes into {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.67,0:00:20.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clean-out{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:20.99,0:00:21.09,Cap,,0,0,0,,{\pos(540,1400)}clean-out {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:21.09,0:00:21.17,Cap,,0,0,0,,{\pos(540,1400)}clean-out in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.17,0:00:21.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}house{\c&H00FFFFFF&} to the end
+Dialogue: 1,0:00:21.49,0:00:22.07,Cap,,0,0,0,,{\pos(540,1400)}house {\c&H0060ECCD}to{\c&H00FFFFFF&} the end
+Dialogue: 1,0:00:22.07,0:00:22.21,Cap,,0,0,0,,{\pos(540,1400)}house to {\c&H0060ECCD}the{\c&H00FFFFFF&} end
+Dialogue: 1,0:00:22.21,0:00:22.45,Cap,,0,0,0,,{\pos(540,1400)}house to the {\c&H0060ECCD}end{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.45,0:00:22.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} your leach
+Dialogue: 1,0:00:22.57,0:00:22.69,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}your{\c&H00FFFFFF&} leach
+Dialogue: 1,0:00:22.69,0:00:22.89,Cap,,0,0,0,,{\pos(540,1400)}of your {\c&H0060ECCD}leach{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.89,0:00:23.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}field{\c&H00FFFFFF&} everything
+Dialogue: 1,0:00:23.11,0:00:24.57,Cap,,0,0,0,,{\pos(540,1400)}field {\c&H0060ECCD}everything{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.57,0:00:24.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} as long as
+Dialogue: 1,0:00:24.87,0:00:25.09,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}as{\c&H00FFFFFF&} long as
+Dialogue: 1,0:00:25.09,0:00:25.21,Cap,,0,0,0,,{\pos(540,1400)}is as {\c&H0060ECCD}long{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:25.21,0:00:25.33,Cap,,0,0,0,,{\pos(540,1400)}is as long {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.33,0:00:25.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} can get it
+Dialogue: 1,0:00:25.43,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}can{\c&H00FFFFFF&} get it
+Dialogue: 1,0:00:25.58,0:00:26.30,Cap,,0,0,0,,{\pos(540,1400)}we can {\c&H0060ECCD}get{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:26.30,0:00:26.44,Cap,,0,0,0,,{\pos(540,1400)}we can get {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.44,0:00:26.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}accessible{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:26.82,0:00:27.46,Cap,,0,0,0,,{\pos(540,1400)}accessible {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.46,0:00:27.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}look{\c&H00FFFFFF&} at every
+Dialogue: 1,0:00:27.72,0:00:27.84,Cap,,0,0,0,,{\pos(540,1400)}look {\c&H0060ECCD}at{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:27.84,0:00:28.10,Cap,,0,0,0,,{\pos(540,1400)}look at {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.10,0:00:28.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}component{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:28.50,0:00:28.80,Cap,,0,0,0,,{\pos(540,1400)}component {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.80,0:00:29.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}break{\c&H00FFFFFF&} it down you
+Dialogue: 1,0:00:29.20,0:00:29.34,Cap,,0,0,0,,{\pos(540,1400)}break {\c&H0060ECCD}it{\c&H00FFFFFF&} down you
+Dialogue: 1,0:00:29.34,0:00:30.50,Cap,,0,0,0,,{\pos(540,1400)}break it {\c&H0060ECCD}down{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:30.50,0:00:30.92,Cap,,0,0,0,,{\pos(540,1400)}break it down {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.92,0:00:31.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} when someone
+Dialogue: 1,0:00:31.02,0:00:31.34,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}when{\c&H00FFFFFF&} someone
+Dialogue: 1,0:00:31.34,0:00:31.58,Cap,,0,0,0,,{\pos(540,1400)}know when {\c&H0060ECCD}someone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.58,0:00:31.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}says{\c&H00FFFFFF&} the system
+Dialogue: 1,0:00:31.78,0:00:31.92,Cap,,0,0,0,,{\pos(540,1400)}says {\c&H0060ECCD}the{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:31.92,0:00:32.20,Cap,,0,0,0,,{\pos(540,1400)}says the {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.20,0:00:32.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} failing and
+Dialogue: 1,0:00:32.36,0:00:32.70,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}failing{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:32.70,0:00:33.46,Cap,,0,0,0,,{\pos(540,1400)}is failing {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.46,0:00:34.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} didn't open
+Dialogue: 1,0:00:34.02,0:00:34.28,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}didn't{\c&H00FFFFFF&} open
+Dialogue: 1,0:00:34.28,0:00:34.50,Cap,,0,0,0,,{\pos(540,1400)}they didn't {\c&H0060ECCD}open{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.50,0:00:34.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} distribution
+Dialogue: 1,0:00:34.64,0:00:35.08,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}distribution{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.08,0:00:35.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}box{\c&H00FFFFFF&} or they
+Dialogue: 1,0:00:35.44,0:00:35.60,Cap,,0,0,0,,{\pos(540,1400)}box {\c&H0060ECCD}or{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:35.60,0:00:35.68,Cap,,0,0,0,,{\pos(540,1400)}box or {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.68,0:00:35.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}didn't{\c&H00FFFFFF&} even get
+Dialogue: 1,0:00:35.82,0:00:35.92,Cap,,0,0,0,,{\pos(540,1400)}didn't {\c&H0060ECCD}even{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:35.92,0:00:36.06,Cap,,0,0,0,,{\pos(540,1400)}didn't even {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.06,0:00:36.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}into{\c&H00FFFFFF&} the leach
+Dialogue: 1,0:00:36.18,0:00:36.32,Cap,,0,0,0,,{\pos(540,1400)}into {\c&H0060ECCD}the{\c&H00FFFFFF&} leach
+Dialogue: 1,0:00:36.32,0:00:36.48,Cap,,0,0,0,,{\pos(540,1400)}into the {\c&H0060ECCD}leach{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.48,0:00:36.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}field{\c&H00FFFFFF&} it's not a
+Dialogue: 1,0:00:36.74,0:00:37.54,Cap,,0,0,0,,{\pos(540,1400)}field {\c&H0060ECCD}it's{\c&H00FFFFFF&} not a
+Dialogue: 1,0:00:37.54,0:00:37.64,Cap,,0,0,0,,{\pos(540,1400)}field it's {\c&H0060ECCD}not{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:37.64,0:00:37.76,Cap,,0,0,0,,{\pos(540,1400)}field it's not {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.76,0:00:37.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}failing{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:37.98,0:00:38.52,Cap,,0,0,0,,{\pos(540,1400)}failing {\c&H0060ECCD}system{\c&H00FFFFFF&}

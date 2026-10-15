@@ -1,0 +1,514 @@
+{
+ "_how": "Recipe for podcast.episode (video-machine). Guest episode, Kim Turner of Turner Septic Services, recorded on Zoom 2026-10-14 (one part, 202403, 1280x720 HD; no AI upscale: a test frame was not clearly sharper and 47 min at 720p would take 6 to 10 hours). keep = inclusive word-index ranges of 02_audio/words/202403.json; drop = stammered repeats, false starts, 'like figure shit out?' (the feed is marked clean) and Ashley's aside about Kim's customers (2160-2238, a client's customers on a public episode; cut from 'some fun.' to Kim's next line, the nearest real pauses); fillers drop automatically; fixes = word index -> caption text (names Whisper lowercased, generated). lower_third.people: the name follows Zoom's active-speaker camera.",
+ "slug": "septic-from-scratch",
+ "title": "No Experience, a Used Truck, and Nearly 400 Reviews | Kim Turner",
+ "title_options": [
+  "No Experience, a Used Truck, and Nearly 400 Reviews | Kim Turner",
+  "How Kim Turner Built Turner Septic in 5 Years With No Experience",
+  "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
+  "The Septic Girl With 42,000 TikTok Followers: Kim Turner",
+  "Why Kim Turner's Septic Inspection Reports Run 20 Pages"
+ ],
+ "takes": {
+  "202403": {
+   "source": "01_footage/zoom-202403.mp4",
+   "words": "02_audio/words/202403.json"
+  }
+ },
+ "keep": [
+  [
+   0,
+   8433,
+   "202403"
+  ]
+ ],
+ "drop": {
+  "202403": [
+   [
+    446,
+    446
+   ],
+   [
+    462,
+    462
+   ],
+   [
+    870,
+    870
+   ],
+   [
+    1195,
+    1208
+   ],
+   [
+    1698,
+    1698
+   ],
+   [
+    1705,
+    1709
+   ],
+   [
+    1739,
+    1740
+   ],
+   [
+    1819,
+    1819
+   ],
+   [
+    1839,
+    1839
+   ],
+   [
+    2160,
+    2238
+   ],
+   [
+    2292,
+    2292
+   ],
+   [
+    2298,
+    2298
+   ],
+   [
+    2434,
+    2434
+   ],
+   [
+    2649,
+    2650
+   ],
+   [
+    2974,
+    2974
+   ],
+   [
+    3322,
+    3322
+   ],
+   [
+    3671,
+    3671
+   ],
+   [
+    3674,
+    3674
+   ],
+   [
+    4038,
+    4038
+   ],
+   [
+    4376,
+    4377
+   ],
+   [
+    4428,
+    4431
+   ],
+   [
+    4480,
+    4480
+   ],
+   [
+    4738,
+    4738
+   ],
+   [
+    5248,
+    5248
+   ],
+   [
+    5608,
+    5608
+   ],
+   [
+    5791,
+    5791
+   ],
+   [
+    5863,
+    5863
+   ],
+   [
+    5955,
+    5955
+   ],
+   [
+    6369,
+    6369
+   ],
+   [
+    6401,
+    6401
+   ],
+   [
+    6489,
+    6489
+   ],
+   [
+    6533,
+    6533
+   ],
+   [
+    6537,
+    6537
+   ],
+   [
+    6773,
+    6773
+   ],
+   [
+    6820,
+    6820
+   ],
+   [
+    6825,
+    6825
+   ],
+   [
+    7038,
+    7038
+   ],
+   [
+    7134,
+    7134
+   ],
+   [
+    7173,
+    7173
+   ],
+   [
+    7237,
+    7237
+   ],
+   [
+    7379,
+    7380
+   ],
+   [
+    7425,
+    7425
+   ],
+   [
+    7537,
+    7537
+   ],
+   [
+    7641,
+    7641
+   ],
+   [
+    7723,
+    7723
+   ],
+   [
+    8165,
+    8165
+   ],
+   [
+    8357,
+    8357
+   ]
+  ]
+ },
+ "fixes": {
+  "202403": {
+   "4": "The",
+   "5": "#2",
+   "6": "",
+   "7": "Septic",
+   "8": "Podcast.",
+   "9": "Today",
+   "17": "Kim",
+   "18": "Turner",
+   "20": "Turner",
+   "21": "Septic",
+   "24": "Kim,",
+   "29": "Kim",
+   "45": "Kim,",
+   "91": "Kim",
+   "92": "Turner.",
+   "124": "Tinder,",
+   "188": "CDL",
+   "196": "New",
+   "197": "Hampshire",
+   "346": "Ashley,",
+   "710": "Type",
+   "711": "A",
+   "908": "Kim",
+   "971": "CSRs,",
+   "1188": "YouTube",
+   "1209": "There's",
+   "1215": "Walter.",
+   "1270": "Kim",
+   "1307": "Walter",
+   "1569": "WWETT",
+   "1570": "Show,",
+   "1571": "WEQ,",
+   "1572": "NOWRA.",
+   "1573": "I",
+   "1574": "know",
+   "1702": "Turner",
+   "1703": "Septic",
+   "1830": "Mercedes",
+   "1903": "New",
+   "1904": "Hampshire",
+   "2021": "Australia",
+   "2024": "DM",
+   "2170": "Kim",
+   "2255": "staged.",
+   "2312": "PhD",
+   "2320": "pooposcopies.",
+   "2458": "Kim",
+   "2661": "United",
+   "2662": "States",
+   "2976": "CRM",
+   "3123": "Kim",
+   "3150": "May",
+   "3165": "Jeffrey",
+   "3209": "Kim",
+   "3210": "Turner.",
+   "3302": "CSRs",
+   "3395": "Kim",
+   "3400": "Kim",
+   "3407": "SEOs",
+   "3409": "PIPs",
+   "3507": "Kim",
+   "3558": "OCD",
+   "3560": "Type",
+   "3561": "A",
+   "3763": "Europe",
+   "3810": "TikToks",
+   "3849": "Aruba",
+   "3861": "hauler",
+   "3891": "Aruba",
+   "3927": "Aruba",
+   "3929": "DM'd",
+   "3954": "Aruba",
+   "4003": "Kim",
+   "4007": "Kim",
+   "4423": "It goes",
+   "4424": "a",
+   "4599": "Kim",
+   "4678": "CSR",
+   "4691": "Starlink",
+   "4715": "CSR",
+   "4791": "New",
+   "4792": "Hampshire",
+   "4905": "winter",
+   "4912": "winter",
+   "4924": "Jeffrey",
+   "4927": "Jeffrey",
+   "4963": "New",
+   "4964": "Hampshire",
+   "5096": "North",
+   "5097": "Country",
+   "5334": "Ford",
+   "5338": "Loki",
+   "5352": "Ford",
+   "5353": "F600",
+   "5398": "Loki's",
+   "5402": "Loki",
+   "5464": "Barney",
+   "5473": "Barney",
+   "5486": "Big",
+   "5487": "Bird",
+   "5504": "Cloacina",
+   "5516": "Cloacina",
+   "5520": "Greek",
+   "5538": "Scoop",
+   "5539": "Dog",
+   "5545": "Biggie",
+   "5546": "Smalls",
+   "5550": "Odin",
+   "5555": "Zeus",
+   "5561": "Beth",
+   "5567": "Yellowstone",
+   "5571": "Beth",
+   "5572": "Dutton",
+   "5595": "Scoop",
+   "5596": "Dog",
+   "5682": "Zeus",
+   "5688": "Odin's",
+   "5722": "D-box",
+   "5723": "",
+   "5913": "Turner",
+   "5914": "Septic",
+   "6089": "Disney",
+   "6094": "Disney",
+   "6095": "Disney",
+   "6324": "Lisa",
+   "6423": "septic",
+   "6572": "Kim",
+   "6867": "National",
+   "6868": "Association",
+   "6869": "of",
+   "6870": "Wastewater",
+   "6871": "Technicians",
+   "7123": "Wispr",
+   "7124": "Flow",
+   "7133": "Plaud",
+   "7158": "Kim",
+   "7374": "SOPs",
+   "7410": "Kim",
+   "7509": "Kim",
+   "7551": "KFT",
+   "7573": "FEMA",
+   "7581": "Miley",
+   "7582": "Cyrus",
+   "7767": "Maine",
+   "7848": "Eeyore",
+   "7852": "Tigger",
+   "7858": "Red",
+   "7859": "Bull",
+   "8079": "Kim",
+   "8131": "Turner",
+   "8132": "Septic",
+   "8270": "TurnerSepticServices.com",
+   "8271": "",
+   "8275": "Ashley",
+   "8280": "Facebook",
+   "8281": "Instagram",
+   "8283": "YouTube",
+   "8288": "LinkedIn",
+   "8291": "Turner",
+   "8292": "Septic",
+   "8355": "Ashley",
+   "8366": "Colorado",
+   "8420": "Kim"
+  }
+ },
+ "fillers": true,
+ "lower_third": {
+  "cover": [
+   0,
+   326,
+   134,
+   34
+  ],
+  "people": [
+   {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "at": 900
+   },
+   {
+    "name": "Kim Turner",
+    "org": "Turner Septic Services",
+    "at": 120
+   }
+  ]
+ },
+ "chapters": [
+  [
+   0,
+   "202403",
+   "Starting a septic company with no experience"
+  ],
+  [
+   1146,
+   "202403",
+   "Learning the trade and moving into inspections"
+  ],
+  [
+   1541,
+   "202403",
+   "Turning septic education into viral TikToks"
+  ],
+  [
+   2893,
+   "202403",
+   "The lonely side of owning a septic business"
+  ],
+  [
+   3995,
+   "202403",
+   "Hiring and keeping a crew that feels like family"
+  ],
+  [
+   4774,
+   "202403",
+   "Pumping through a New Hampshire winter"
+  ],
+  [
+   5435,
+   "202403",
+   "Fleet names, birthing gloves and nearly 400 reviews"
+  ],
+  [
+   6572,
+   "202403",
+   "Septic inspection reports that run 15 to 20 pages"
+  ],
+  [
+   7028,
+   "202403",
+   "Using AI for inspection checklists and SOPs"
+  ],
+  [
+   8050,
+   "202403",
+   "Advice to her younger self: you're the bottleneck"
+  ]
+ ],
+ "publish": {
+  "approved": false,
+  "youtube": {
+   "title": "No Experience, a Used Truck, and Nearly 400 Reviews | Kim Turner",
+   "description": "My friend Kim Turner of Turner Septic Services joins me this week. Five years ago she had never pumped a septic tank. Her now-husband said they should start a septic company (\"and by us, I mean you\"), so she got her CDL and her New Hampshire septic inspector's license and started with one used truck, in an area where four family-owned haulers had been working for 30 years. Today her company has nearly 400 reviews and is growing fast.\n\nKim is honest about what this business really takes: the nights she cried in her truck, why she calls herself the bottleneck, and how education and humor built both her following and her reputation.\n\nWhat we cover:\n- Learning the trade from a mentor who would watch but not teach\n- Turning septic education into funny TikToks (about 42,000 followers)\n- The lonely side of owning a business, and why you have to ask for help\n- Hiring friends and family, brand-new trucks and Starlink on every truck\n- Pumping through a winter with frost 4 to 5 feet deep\n- Why her inspection reports run 15 to 20 pages\n- Using Claude to turn her inspection report into a checklist for her operations manager\n\nFind Kim at turnersepticservices.com, and as Turner Septic on TikTok, Instagram, Facebook and YouTube.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic pumping",
+    "septic inspection",
+    "septic social media",
+    "women in septic",
+    "Turner Septic",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "thumbnail": "07_notes/episode/thumbnail.jpg"
+ },
+ "thumbnail": {
+  "at": 780.0,
+  "source": "01_footage/zoom-202403.mp4",
+  "lines": [
+   [
+    "NO EXPERIENCE",
+    "big"
+   ],
+   [
+    "1 USED TRUCK",
+    "big"
+   ],
+   [
+    "NOW NEARLY",
+    "small"
+   ],
+   [
+    "400 REVIEWS",
+    "box"
+   ]
+  ],
+  "photo_crop": [
+   531,
+   0,
+   1131,
+   1080
+  ],
+  "guest": {
+   "at": 805.8,
+   "photo_crop": [
+    660,
+    0,
+    1260,
+    1080
+   ]
+  }
+ }
+}

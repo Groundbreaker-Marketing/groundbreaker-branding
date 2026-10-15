@@ -10,6 +10,7 @@ projects/**/*.mp3
 projects/**/*.png
 projects/**/*.jpg
 projects/**/*.jpeg
+projects/**/*.npy
 projects/**/10_WORK/
 projects/**/stages/
 projects/**/caption_gen_cache/
