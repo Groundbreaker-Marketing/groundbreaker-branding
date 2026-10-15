@@ -25,7 +25,7 @@
 
 /* App picker. bar({ current, email }) renders it only when the viewer can open two or more apps:
    a rail down the left on wide screens, an "Apps" menu in the bar on narrow ones. No script
-   (Ops' CSP forbids scripts): the menu is a <details>, the rail lays out with body:has(). */
+   (Ops' CSP forbids scripts): the menu is a <details>, the rail is placed with body:has(). */
 .gbm-rail{display:none}
 .gbm-apps{position:relative}
 .gbm-apps>summary{list-style:none;cursor:pointer;font-size:.8rem;font-weight:600;color:var(--gbm-bar-ink);border:1px solid var(--gbm-bar-line);border-radius:7px;padding:.32rem .7rem}
@@ -41,10 +41,13 @@
 .gbm-rail-h{font-family:var(--gbm-font);font-size:.66rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gbm-bar-ink-2);opacity:.8;padding:0 .6rem .4rem}
 .gbm-rail :focus-visible,.gbm-apps :focus-visible{outline:2px solid var(--gbm-bar-app);outline-offset:2px}
 @media (min-width:900px){
-  body:has(> .gbm-rail){display:grid;grid-template-columns:var(--gbm-rail-w) minmax(0,1fr);align-content:start;background-image:linear-gradient(90deg,var(--gbm-bar) 0 var(--gbm-rail-w),transparent var(--gbm-rail-w))}
-  body:has(> .gbm-rail)>*{grid-column:2;min-width:0}
-  body:has(> .gbm-rail)>.gbm-bar{grid-column:1/-1}
-  body:has(> .gbm-rail)>.gbm-rail{grid-column:1;grid-row:2/span 30;display:block;border-top:1px solid var(--gbm-bar-line)}
-  .gbm-rail-in{position:sticky;top:0;display:flex;flex-direction:column;gap:2px;padding:1rem .7rem}
+  /* The rail is a fixed forest column; the page keeps its own layout, shifted right by the
+     rail's width (a grid here would shrink pages that center their content with auto margins).
+     The bar still spans the full width, over the top of the rail. */
+  body:has(> .gbm-rail){padding-inline-start:var(--gbm-rail-w)}
+  body:has(> .gbm-rail)>.gbm-bar{margin-inline-start:calc(-1 * var(--gbm-rail-w));position:relative;z-index:3}
+  body:has(> .gbm-rail)>.gbm-rail{display:block;position:fixed;inset:0 auto 0 0;width:var(--gbm-rail-w);z-index:2;overflow-y:auto;background:var(--gbm-bar);padding-top:3.4rem}
+  .gbm-rail-in{display:flex;flex-direction:column;gap:2px;padding:1rem .7rem;border-top:1px solid var(--gbm-bar-line)}
   body:has(> .gbm-rail) .gbm-bar .gbm-apps{display:none}
 }
+
