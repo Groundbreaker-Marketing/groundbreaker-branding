@@ -1,0 +1,122 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:30.70,Title,,0,0,0,,{\pos(540,360)}He wouldn't teach me.\NHe {\c&H0060ECCD}watched{\c&H00FFFFFF&}.
+Dialogue: 1,0:00:00.00,0:00:00.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}There's{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:00.39,0:00:00.55,Cap,,0,0,0,,{\pos(540,1400)}There's {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.55,0:00:00.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gentleman{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.19,0:00:01.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}his{\c&H00FFFFFF&} name is
+Dialogue: 1,0:00:01.31,0:00:01.45,Cap,,0,0,0,,{\pos(540,1400)}his {\c&H0060ECCD}name{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:01.45,0:00:01.57,Cap,,0,0,0,,{\pos(540,1400)}his name {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.57,0:00:01.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Walter{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.15,0:00:02.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}he{\c&H00FFFFFF&} would not
+Dialogue: 1,0:00:02.41,0:00:02.61,Cap,,0,0,0,,{\pos(540,1400)}he {\c&H0060ECCD}would{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:02.61,0:00:02.77,Cap,,0,0,0,,{\pos(540,1400)}he would {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.77,0:00:02.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}teach{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:02.99,0:00:03.27,Cap,,0,0,0,,{\pos(540,1400)}teach {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.29,0:00:03.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}He{\c&H00FFFFFF&} told me I
+Dialogue: 1,0:00:03.57,0:00:03.73,Cap,,0,0,0,,{\pos(540,1400)}He {\c&H0060ECCD}told{\c&H00FFFFFF&} me I
+Dialogue: 1,0:00:03.73,0:00:03.83,Cap,,0,0,0,,{\pos(540,1400)}He told {\c&H0060ECCD}me{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:03.83,0:00:03.89,Cap,,0,0,0,,{\pos(540,1400)}He told me {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.89,0:00:04.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}need{\c&H00FFFFFF&} to learn on
+Dialogue: 1,0:00:04.05,0:00:04.19,Cap,,0,0,0,,{\pos(540,1400)}need {\c&H0060ECCD}to{\c&H00FFFFFF&} learn on
+Dialogue: 1,0:00:04.19,0:00:04.33,Cap,,0,0,0,,{\pos(540,1400)}need to {\c&H0060ECCD}learn{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:04.33,0:00:04.45,Cap,,0,0,0,,{\pos(540,1400)}need to learn {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.45,0:00:04.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} own
+Dialogue: 1,0:00:04.55,0:00:04.87,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}own{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.87,0:00:04.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} he would
+Dialogue: 1,0:00:04.95,0:00:05.07,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}he{\c&H00FFFFFF&} would
+Dialogue: 1,0:00:05.07,0:00:05.19,Cap,,0,0,0,,{\pos(540,1400)}but he {\c&H0060ECCD}would{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.19,0:00:05.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}watch{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:05.51,0:00:05.85,Cap,,0,0,0,,{\pos(540,1400)}watch {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.94,0:00:06.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Walter{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.36,0:00:06.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} call him the
+Dialogue: 1,0:00:06.68,0:00:06.90,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}call{\c&H00FFFFFF&} him the
+Dialogue: 1,0:00:06.90,0:00:07.02,Cap,,0,0,0,,{\pos(540,1400)}I call {\c&H0060ECCD}him{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:07.02,0:00:07.14,Cap,,0,0,0,,{\pos(540,1400)}I call him {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.14,0:00:07.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} whisperer
+Dialogue: 1,0:00:07.52,0:00:08.10,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}whisperer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.10,0:00:08.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} my valley who
+Dialogue: 1,0:00:08.26,0:00:08.40,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}my{\c&H00FFFFFF&} valley who
+Dialogue: 1,0:00:08.40,0:00:09.56,Cap,,0,0,0,,{\pos(540,1400)}of my {\c&H0060ECCD}valley{\c&H00FFFFFF&} who
+Dialogue: 1,0:00:09.56,0:00:10.02,Cap,,0,0,0,,{\pos(540,1400)}of my valley {\c&H0060ECCD}who{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.02,0:00:10.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} still ask
+Dialogue: 1,0:00:10.16,0:00:10.54,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}still{\c&H00FFFFFF&} ask
+Dialogue: 1,0:00:10.54,0:00:10.88,Cap,,0,0,0,,{\pos(540,1400)}I still {\c&H0060ECCD}ask{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.88,0:00:11.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}questions{\c&H00FFFFFF&} today
+Dialogue: 1,0:00:11.38,0:00:11.72,Cap,,0,0,0,,{\pos(540,1400)}questions {\c&H0060ECCD}today{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.72,0:00:12.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} he asks me
+Dialogue: 1,0:00:12.02,0:00:12.18,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}he{\c&H00FFFFFF&} asks me
+Dialogue: 1,0:00:12.18,0:00:12.42,Cap,,0,0,0,,{\pos(540,1400)}but he {\c&H0060ECCD}asks{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:12.42,0:00:12.56,Cap,,0,0,0,,{\pos(540,1400)}but he asks {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.56,0:00:12.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} lot more which
+Dialogue: 1,0:00:12.70,0:00:12.82,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}lot{\c&H00FFFFFF&} more which
+Dialogue: 1,0:00:12.82,0:00:13.10,Cap,,0,0,0,,{\pos(540,1400)}a lot {\c&H0060ECCD}more{\c&H00FFFFFF&} which
+Dialogue: 1,0:00:13.10,0:00:13.50,Cap,,0,0,0,,{\pos(540,1400)}a lot more {\c&H0060ECCD}which{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.50,0:00:13.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} really cool at
+Dialogue: 1,0:00:13.60,0:00:13.80,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}really{\c&H00FFFFFF&} cool at
+Dialogue: 1,0:00:13.80,0:00:15.16,Cap,,0,0,0,,{\pos(540,1400)}is really {\c&H0060ECCD}cool{\c&H00FFFFFF&} at
+Dialogue: 1,0:00:15.16,0:00:15.40,Cap,,0,0,0,,{\pos(540,1400)}is really cool {\c&H0060ECCD}at{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.40,0:00:15.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} point I was
+Dialogue: 1,0:00:15.62,0:00:15.88,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}point{\c&H00FFFFFF&} I was
+Dialogue: 1,0:00:15.88,0:00:16.10,Cap,,0,0,0,,{\pos(540,1400)}one point {\c&H0060ECCD}I{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:16.10,0:00:16.32,Cap,,0,0,0,,{\pos(540,1400)}one point I {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.32,0:00:16.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}upside{\c&H00FFFFFF&} down in
+Dialogue: 1,0:00:16.66,0:00:16.94,Cap,,0,0,0,,{\pos(540,1400)}upside {\c&H0060ECCD}down{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:16.94,0:00:17.30,Cap,,0,0,0,,{\pos(540,1400)}upside down {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.30,0:00:17.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} a five foot
+Dialogue: 1,0:00:17.50,0:00:17.70,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}a{\c&H00FFFFFF&} five foot
+Dialogue: 1,0:00:17.70,0:00:17.92,Cap,,0,0,0,,{\pos(540,1400)}about a {\c&H0060ECCD}five{\c&H00FFFFFF&} foot
+Dialogue: 1,0:00:17.92,0:00:18.12,Cap,,0,0,0,,{\pos(540,1400)}about a five {\c&H0060ECCD}foot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.12,0:00:18.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tank{\c&H00FFFFFF&} and he
+Dialogue: 1,0:00:18.64,0:00:19.08,Cap,,0,0,0,,{\pos(540,1400)}tank {\c&H0060ECCD}and{\c&H00FFFFFF&} he
+Dialogue: 1,0:00:19.08,0:00:19.32,Cap,,0,0,0,,{\pos(540,1400)}tank and {\c&H0060ECCD}he{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.32,0:00:19.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}looked{\c&H00FFFFFF&} at my now
+Dialogue: 1,0:00:19.58,0:00:19.70,Cap,,0,0,0,,{\pos(540,1400)}looked {\c&H0060ECCD}at{\c&H00FFFFFF&} my now
+Dialogue: 1,0:00:19.70,0:00:19.84,Cap,,0,0,0,,{\pos(540,1400)}looked at {\c&H0060ECCD}my{\c&H00FFFFFF&} now
+Dialogue: 1,0:00:19.84,0:00:20.00,Cap,,0,0,0,,{\pos(540,1400)}looked at my {\c&H0060ECCD}now{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.00,0:00:20.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}husband{\c&H00FFFFFF&} and said
+Dialogue: 1,0:00:20.28,0:00:20.46,Cap,,0,0,0,,{\pos(540,1400)}husband {\c&H0060ECCD}and{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:20.46,0:00:20.70,Cap,,0,0,0,,{\pos(540,1400)}husband and {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.70,0:00:21.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}she's{\c&H00FFFFFF&} gonna be
+Dialogue: 1,0:00:21.44,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}she's {\c&H0060ECCD}gonna{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:21.58,0:00:21.76,Cap,,0,0,0,,{\pos(540,1400)}she's gonna {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.76,0:00:22.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&} he told me
+Dialogue: 1,0:00:22.19,0:00:22.65,Cap,,0,0,0,,{\pos(540,1400)}fine {\c&H0060ECCD}he{\c&H00FFFFFF&} told me
+Dialogue: 1,0:00:22.65,0:00:22.85,Cap,,0,0,0,,{\pos(540,1400)}fine he {\c&H0060ECCD}told{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:22.85,0:00:22.99,Cap,,0,0,0,,{\pos(540,1400)}fine he told {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.99,0:00:23.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} he goes
+Dialogue: 1,0:00:23.15,0:00:23.31,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}he{\c&H00FFFFFF&} goes
+Dialogue: 1,0:00:23.31,0:00:23.45,Cap,,0,0,0,,{\pos(540,1400)}that he {\c&H0060ECCD}goes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.45,0:00:23.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} fine kid I
+Dialogue: 1,0:00:23.61,0:00:23.81,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}fine{\c&H00FFFFFF&} kid I
+Dialogue: 1,0:00:23.81,0:00:24.03,Cap,,0,0,0,,{\pos(540,1400)}you're fine {\c&H0060ECCD}kid{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:24.03,0:00:24.83,Cap,,0,0,0,,{\pos(540,1400)}you're fine kid {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.83,0:00:24.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} like yeah I
+Dialogue: 1,0:00:24.97,0:00:25.19,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}like{\c&H00FFFFFF&} yeah I
+Dialogue: 1,0:00:25.19,0:00:26.77,Cap,,0,0,0,,{\pos(540,1400)}was like {\c&H0060ECCD}yeah{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:26.77,0:00:27.07,Cap,,0,0,0,,{\pos(540,1400)}was like yeah {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.07,0:00:28.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} no idea what
+Dialogue: 1,0:00:28.05,0:00:28.17,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}no{\c&H00FFFFFF&} idea what
+Dialogue: 1,0:00:28.17,0:00:28.31,Cap,,0,0,0,,{\pos(540,1400)}have no {\c&H0060ECCD}idea{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:28.31,0:00:28.41,Cap,,0,0,0,,{\pos(540,1400)}have no idea {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.41,0:00:28.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm{\c&H00FFFFFF&} doing but I'm
+Dialogue: 1,0:00:28.51,0:00:28.63,Cap,,0,0,0,,{\pos(540,1400)}I'm {\c&H0060ECCD}doing{\c&H00FFFFFF&} but I'm
+Dialogue: 1,0:00:28.63,0:00:29.39,Cap,,0,0,0,,{\pos(540,1400)}I'm doing {\c&H0060ECCD}but{\c&H00FFFFFF&} I'm
+Dialogue: 1,0:00:29.39,0:00:29.53,Cap,,0,0,0,,{\pos(540,1400)}I'm doing but {\c&H0060ECCD}I'm{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.53,0:00:29.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gonna{\c&H00FFFFFF&} figure it
+Dialogue: 1,0:00:29.93,0:00:30.19,Cap,,0,0,0,,{\pos(540,1400)}gonna {\c&H0060ECCD}figure{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:30.19,0:00:30.33,Cap,,0,0,0,,{\pos(540,1400)}gonna figure {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.33,0:00:30.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&}

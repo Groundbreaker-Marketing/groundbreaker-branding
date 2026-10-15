@@ -1,0 +1,136 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:43.40,Title,,0,0,0,,{\pos(540,360)}The septic video\Nwith {\c&H0060ECCD}a million{\c&H00FFFFFF&} views
+Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}My{\c&H00FFFFFF&} first one that
+Dialogue: 1,0:00:00.19,0:00:00.59,Cap,,0,0,0,,{\pos(540,1400)}My {\c&H0060ECCD}first{\c&H00FFFFFF&} one that
+Dialogue: 1,0:00:00.59,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}My first {\c&H0060ECCD}one{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:00.83,0:00:00.97,Cap,,0,0,0,,{\pos(540,1400)}My first one {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.97,0:00:01.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}went{\c&H00FFFFFF&} viral it's
+Dialogue: 1,0:00:01.15,0:00:02.23,Cap,,0,0,0,,{\pos(540,1400)}went {\c&H0060ECCD}viral{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:02.23,0:00:03.15,Cap,,0,0,0,,{\pos(540,1400)}went viral {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.15,0:00:03.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}kind{\c&H00FFFFFF&} of past its
+Dialogue: 1,0:00:03.31,0:00:03.45,Cap,,0,0,0,,{\pos(540,1400)}kind {\c&H0060ECCD}of{\c&H00FFFFFF&} past its
+Dialogue: 1,0:00:03.45,0:00:03.80,Cap,,0,0,0,,{\pos(540,1400)}kind of {\c&H0060ECCD}past{\c&H00FFFFFF&} its
+Dialogue: 1,0:00:03.80,0:00:04.14,Cap,,0,0,0,,{\pos(540,1400)}kind of past {\c&H0060ECCD}its{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.14,0:00:04.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}time{\c&H00FFFFFF&} but these
+Dialogue: 1,0:00:04.42,0:00:04.72,Cap,,0,0,0,,{\pos(540,1400)}time {\c&H0060ECCD}but{\c&H00FFFFFF&} these
+Dialogue: 1,0:00:04.72,0:00:05.18,Cap,,0,0,0,,{\pos(540,1400)}time but {\c&H0060ECCD}these{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.18,0:00:05.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}very{\c&H00FFFFFF&} beautiful
+Dialogue: 1,0:00:05.42,0:00:05.96,Cap,,0,0,0,,{\pos(540,1400)}very {\c&H0060ECCD}beautiful{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.96,0:00:06.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}women{\c&H00FFFFFF&} were like
+Dialogue: 1,0:00:06.34,0:00:06.64,Cap,,0,0,0,,{\pos(540,1400)}women {\c&H0060ECCD}were{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:06.64,0:00:06.96,Cap,,0,0,0,,{\pos(540,1400)}women were {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.96,0:00:07.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} Mercedes so
+Dialogue: 1,0:00:07.50,0:00:08.24,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}Mercedes{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:08.24,0:00:10.00,Cap,,0,0,0,,{\pos(540,1400)}going Mercedes {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.00,0:00:10.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} first one that
+Dialogue: 1,0:00:10.38,0:00:10.66,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}first{\c&H00FFFFFF&} one that
+Dialogue: 1,0:00:10.66,0:00:10.78,Cap,,0,0,0,,{\pos(540,1400)}my first {\c&H0060ECCD}one{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:10.78,0:00:10.88,Cap,,0,0,0,,{\pos(540,1400)}my first one {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.88,0:00:11.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}went{\c&H00FFFFFF&} viral is I
+Dialogue: 1,0:00:11.00,0:00:11.30,Cap,,0,0,0,,{\pos(540,1400)}went {\c&H0060ECCD}viral{\c&H00FFFFFF&} is I
+Dialogue: 1,0:00:11.30,0:00:12.00,Cap,,0,0,0,,{\pos(540,1400)}went viral {\c&H0060ECCD}is{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:12.00,0:00:12.40,Cap,,0,0,0,,{\pos(540,1400)}went viral is {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.40,0:00:12.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}took{\c&H00FFFFFF&} her video
+Dialogue: 1,0:00:12.64,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}took {\c&H0060ECCD}her{\c&H00FFFFFF&} video
+Dialogue: 1,0:00:12.80,0:00:13.06,Cap,,0,0,0,,{\pos(540,1400)}took her {\c&H0060ECCD}video{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.06,0:00:13.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then I put
+Dialogue: 1,0:00:13.24,0:00:13.34,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} I put
+Dialogue: 1,0:00:13.34,0:00:13.44,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}I{\c&H00FFFFFF&} put
+Dialogue: 1,0:00:13.44,0:00:13.72,Cap,,0,0,0,,{\pos(540,1400)}and then I {\c&H0060ECCD}put{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.72,0:00:13.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} my little
+Dialogue: 1,0:00:13.92,0:00:14.12,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}my{\c&H00FFFFFF&} little
+Dialogue: 1,0:00:14.12,0:00:14.32,Cap,,0,0,0,,{\pos(540,1400)}in my {\c&H0060ECCD}little{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.32,0:00:14.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clips{\c&H00FFFFFF&} with my
+Dialogue: 1,0:00:14.58,0:00:14.74,Cap,,0,0,0,,{\pos(540,1400)}clips {\c&H0060ECCD}with{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:14.74,0:00:14.88,Cap,,0,0,0,,{\pos(540,1400)}clips with {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.88,0:00:15.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} truck and
+Dialogue: 1,0:00:15.26,0:00:15.44,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}truck{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:15.44,0:00:15.60,Cap,,0,0,0,,{\pos(540,1400)}septic truck {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.60,0:00:15.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} had these long
+Dialogue: 1,0:00:15.66,0:00:15.76,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}had{\c&H00FFFFFF&} these long
+Dialogue: 1,0:00:15.76,0:00:15.94,Cap,,0,0,0,,{\pos(540,1400)}I had {\c&H0060ECCD}these{\c&H00FFFFFF&} long
+Dialogue: 1,0:00:15.94,0:00:16.32,Cap,,0,0,0,,{\pos(540,1400)}I had these {\c&H0060ECCD}long{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.32,0:00:16.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}nails{\c&H00FFFFFF&} with poop
+Dialogue: 1,0:00:16.72,0:00:17.26,Cap,,0,0,0,,{\pos(540,1400)}nails {\c&H0060ECCD}with{\c&H00FFFFFF&} poop
+Dialogue: 1,0:00:17.26,0:00:17.50,Cap,,0,0,0,,{\pos(540,1400)}nails with {\c&H0060ECCD}poop{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.50,0:00:17.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}emojis{\c&H00FFFFFF&} on them
+Dialogue: 1,0:00:17.86,0:00:18.10,Cap,,0,0,0,,{\pos(540,1400)}emojis {\c&H0060ECCD}on{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:18.10,0:00:18.24,Cap,,0,0,0,,{\pos(540,1400)}emojis on {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.24,0:00:18.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} I went Septic
+Dialogue: 1,0:00:18.64,0:00:18.72,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}I{\c&H00FFFFFF&} went Septic
+Dialogue: 1,0:00:18.72,0:00:18.84,Cap,,0,0,0,,{\pos(540,1400)}and I {\c&H0060ECCD}went{\c&H00FFFFFF&} Septic
+Dialogue: 1,0:00:18.84,0:00:19.82,Cap,,0,0,0,,{\pos(540,1400)}and I went {\c&H0060ECCD}Septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.82,0:00:20.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Truck!{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.22,0:00:22.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} so I got
+Dialogue: 1,0:00:22.66,0:00:22.82,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}so{\c&H00FFFFFF&} I got
+Dialogue: 1,0:00:22.82,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}and so {\c&H0060ECCD}I{\c&H00FFFFFF&} got
+Dialogue: 1,0:00:22.94,0:00:23.12,Cap,,0,0,0,,{\pos(540,1400)}and so I {\c&H0060ECCD}got{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.12,0:00:23.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}known{\c&H00FFFFFF&} as the
+Dialogue: 1,0:00:23.34,0:00:23.50,Cap,,0,0,0,,{\pos(540,1400)}known {\c&H0060ECCD}as{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:23.50,0:00:23.62,Cap,,0,0,0,,{\pos(540,1400)}known as {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.62,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} girl where
+Dialogue: 1,0:00:24.34,0:00:25.02,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}girl{\c&H00FFFFFF&} where
+Dialogue: 1,0:00:25.02,0:00:26.24,Cap,,0,0,0,,{\pos(540,1400)}septic girl {\c&H0060ECCD}where{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.24,0:00:26.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} live my last
+Dialogue: 1,0:00:26.34,0:00:27.58,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}live{\c&H00FFFFFF&} my last
+Dialogue: 1,0:00:27.58,0:00:28.06,Cap,,0,0,0,,{\pos(540,1400)}I live {\c&H0060ECCD}my{\c&H00FFFFFF&} last
+Dialogue: 1,0:00:28.06,0:00:28.38,Cap,,0,0,0,,{\pos(540,1400)}I live my {\c&H0060ECCD}last{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.38,0:00:28.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} to go viral
+Dialogue: 1,0:00:28.52,0:00:28.60,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}to{\c&H00FFFFFF&} go viral
+Dialogue: 1,0:00:28.60,0:00:28.72,Cap,,0,0,0,,{\pos(540,1400)}one to {\c&H0060ECCD}go{\c&H00FFFFFF&} viral
+Dialogue: 1,0:00:28.72,0:00:29.08,Cap,,0,0,0,,{\pos(540,1400)}one to go {\c&H0060ECCD}viral{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.08,0:00:29.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} was like 100
+Dialogue: 1,0:00:29.32,0:00:29.44,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}was{\c&H00FFFFFF&} like 100
+Dialogue: 1,0:00:29.44,0:00:29.58,Cap,,0,0,0,,{\pos(540,1400)}it was {\c&H0060ECCD}like{\c&H00FFFFFF&} 100
+Dialogue: 1,0:00:29.58,0:00:29.86,Cap,,0,0,0,,{\pos(540,1400)}it was like {\c&H0060ECCD}100{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.86,0:00:30.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}degrees{\c&H00FFFFFF&} here in
+Dialogue: 1,0:00:30.22,0:00:30.50,Cap,,0,0,0,,{\pos(540,1400)}degrees {\c&H0060ECCD}here{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:30.50,0:00:30.68,Cap,,0,0,0,,{\pos(540,1400)}degrees here {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.68,0:00:30.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}northern{\c&H00FFFFFF&} New
+Dialogue: 1,0:00:30.86,0:00:31.00,Cap,,0,0,0,,{\pos(540,1400)}northern {\c&H0060ECCD}New{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.00,0:00:31.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Hampshire{\c&H00FFFFFF&} and our
+Dialogue: 1,0:00:31.34,0:00:32.00,Cap,,0,0,0,,{\pos(540,1400)}Hampshire {\c&H0060ECCD}and{\c&H00FFFFFF&} our
+Dialogue: 1,0:00:32.00,0:00:32.38,Cap,,0,0,0,,{\pos(540,1400)}Hampshire and {\c&H0060ECCD}our{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.38,0:00:32.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} facility
+Dialogue: 1,0:00:32.82,0:00:33.20,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}facility{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.20,0:00:33.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}had{\c&H00FFFFFF&} water fresh
+Dialogue: 1,0:00:33.46,0:00:33.86,Cap,,0,0,0,,{\pos(540,1400)}had {\c&H0060ECCD}water{\c&H00FFFFFF&} fresh
+Dialogue: 1,0:00:33.86,0:00:34.24,Cap,,0,0,0,,{\pos(540,1400)}had water {\c&H0060ECCD}fresh{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.24,0:00:34.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} running and
+Dialogue: 1,0:00:34.50,0:00:34.80,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}running{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:34.80,0:00:36.06,Cap,,0,0,0,,{\pos(540,1400)}water running {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.06,0:00:36.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} came around the
+Dialogue: 1,0:00:36.26,0:00:36.50,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}came{\c&H00FFFFFF&} around the
+Dialogue: 1,0:00:36.50,0:00:36.64,Cap,,0,0,0,,{\pos(540,1400)}I came {\c&H0060ECCD}around{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:36.64,0:00:36.76,Cap,,0,0,0,,{\pos(540,1400)}I came around {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.76,0:00:37.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}corner{\c&H00FFFFFF&} laughing
+Dialogue: 1,0:00:37.02,0:00:38.08,Cap,,0,0,0,,{\pos(540,1400)}corner {\c&H0060ECCD}laughing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.08,0:00:38.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} giggling
+Dialogue: 1,0:00:38.30,0:00:38.58,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}giggling{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.58,0:00:39.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}jumping{\c&H00FFFFFF&} through
+Dialogue: 1,0:00:39.24,0:00:39.58,Cap,,0,0,0,,{\pos(540,1400)}jumping {\c&H0060ECCD}through{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.58,0:00:39.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} fountain of
+Dialogue: 1,0:00:39.82,0:00:40.78,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}fountain{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:40.78,0:00:41.00,Cap,,0,0,0,,{\pos(540,1400)}this fountain {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.00,0:00:41.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} it had a
+Dialogue: 1,0:00:41.28,0:00:41.94,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}it{\c&H00FFFFFF&} had a
+Dialogue: 1,0:00:41.94,0:00:42.08,Cap,,0,0,0,,{\pos(540,1400)}water it {\c&H0060ECCD}had{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:42.08,0:00:42.24,Cap,,0,0,0,,{\pos(540,1400)}water it had {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.24,0:00:42.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}million{\c&H00FFFFFF&} views
+Dialogue: 1,0:00:42.38,0:00:42.72,Cap,,0,0,0,,{\pos(540,1400)}million {\c&H0060ECCD}views{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.72,0:00:42.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} crazy
+Dialogue: 1,0:00:42.98,0:00:43.52,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}crazy{\c&H00FFFFFF&}

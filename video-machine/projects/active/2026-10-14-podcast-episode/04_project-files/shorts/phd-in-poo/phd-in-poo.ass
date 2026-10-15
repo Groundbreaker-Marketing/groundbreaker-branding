@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:25.90,Title,,0,0,0,,{\pos(540,360)}I have my\N{\c&H0060ECCD}PhD{\c&H00FFFFFF&} in poo
+Dialogue: 1,0:00:00.00,0:00:00.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} cannot
+Dialogue: 1,0:00:00.15,0:00:00.45,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}cannot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.45,0:00:00.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}guarantee{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:00.89,0:00:01.43,Cap,,0,0,0,,{\pos(540,1400)}guarantee {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.43,0:00:01.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}these{\c&H00FFFFFF&} videos if
+Dialogue: 1,0:00:01.65,0:00:01.95,Cap,,0,0,0,,{\pos(540,1400)}these {\c&H0060ECCD}videos{\c&H00FFFFFF&} if
+Dialogue: 1,0:00:01.95,0:00:02.35,Cap,,0,0,0,,{\pos(540,1400)}these videos {\c&H0060ECCD}if{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.35,0:00:02.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} is poop or
+Dialogue: 1,0:00:02.45,0:00:02.59,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}is{\c&H00FFFFFF&} poop or
+Dialogue: 1,0:00:02.59,0:00:02.85,Cap,,0,0,0,,{\pos(540,1400)}it is {\c&H0060ECCD}poop{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:02.85,0:00:03.71,Cap,,0,0,0,,{\pos(540,1400)}it is poop {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.71,0:00:03.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} is something I
+Dialogue: 1,0:00:03.95,0:00:04.11,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}is{\c&H00FFFFFF&} something I
+Dialogue: 1,0:00:04.11,0:00:04.39,Cap,,0,0,0,,{\pos(540,1400)}it is {\c&H0060ECCD}something{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:04.39,0:00:04.59,Cap,,0,0,0,,{\pos(540,1400)}it is something {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.59,0:00:04.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} staged
+Dialogue: 1,0:00:04.71,0:00:05.07,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}staged{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.07,0:00:05.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} cannot ever
+Dialogue: 1,0:00:05.43,0:00:05.83,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}cannot{\c&H00FFFFFF&} ever
+Dialogue: 1,0:00:05.83,0:00:06.17,Cap,,0,0,0,,{\pos(540,1400)}I cannot {\c&H0060ECCD}ever{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.17,0:00:06.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}guarantee{\c&H00FFFFFF&} what it
+Dialogue: 1,0:00:06.61,0:00:07.95,Cap,,0,0,0,,{\pos(540,1400)}guarantee {\c&H0060ECCD}what{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:07.95,0:00:08.13,Cap,,0,0,0,,{\pos(540,1400)}guarantee what {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.13,0:00:08.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} It's real it's
+Dialogue: 1,0:00:08.38,0:00:09.96,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}It's{\c&H00FFFFFF&} real it's
+Dialogue: 1,0:00:09.96,0:00:10.25,Cap,,0,0,0,,{\pos(540,1400)}is It's {\c&H0060ECCD}real{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:10.25,0:00:11.00,Cap,,0,0,0,,{\pos(540,1400)}is It's real {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.00,0:00:11.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}real{\c&H00FFFFFF&} yes it's
+Dialogue: 1,0:00:11.38,0:00:13.26,Cap,,0,0,0,,{\pos(540,1400)}real {\c&H0060ECCD}yes{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:13.26,0:00:13.57,Cap,,0,0,0,,{\pos(540,1400)}real yes {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.57,0:00:13.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}slightly{\c&H00FFFFFF&} staged
+Dialogue: 1,0:00:13.78,0:00:14.25,Cap,,0,0,0,,{\pos(540,1400)}slightly {\c&H0060ECCD}staged{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.25,0:00:14.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} it's real in
+Dialogue: 1,0:00:14.81,0:00:15.16,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}it's{\c&H00FFFFFF&} real in
+Dialogue: 1,0:00:15.16,0:00:15.49,Cap,,0,0,0,,{\pos(540,1400)}but it's {\c&H0060ECCD}real{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:15.49,0:00:15.75,Cap,,0,0,0,,{\pos(540,1400)}but it's real {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.75,0:00:15.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} moment I was
+Dialogue: 1,0:00:15.85,0:00:16.07,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}moment{\c&H00FFFFFF&} I was
+Dialogue: 1,0:00:16.07,0:00:16.37,Cap,,0,0,0,,{\pos(540,1400)}the moment {\c&H0060ECCD}I{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:16.37,0:00:16.59,Cap,,0,0,0,,{\pos(540,1400)}the moment I {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.59,0:00:16.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doing{\c&H00FFFFFF&} that job or
+Dialogue: 1,0:00:16.76,0:00:16.99,Cap,,0,0,0,,{\pos(540,1400)}doing {\c&H0060ECCD}that{\c&H00FFFFFF&} job or
+Dialogue: 1,0:00:16.99,0:00:17.26,Cap,,0,0,0,,{\pos(540,1400)}doing that {\c&H0060ECCD}job{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:17.26,0:00:17.66,Cap,,0,0,0,,{\pos(540,1400)}doing that job {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.66,0:00:18.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} happened I
+Dialogue: 1,0:00:18.69,0:00:19.20,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}happened{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:19.20,0:00:19.38,Cap,,0,0,0,,{\pos(540,1400)}this happened {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.38,0:00:19.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} say now that
+Dialogue: 1,0:00:19.62,0:00:19.82,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}say{\c&H00FFFFFF&} now that
+Dialogue: 1,0:00:19.82,0:00:20.00,Cap,,0,0,0,,{\pos(540,1400)}just say {\c&H0060ECCD}now{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:20.00,0:00:20.16,Cap,,0,0,0,,{\pos(540,1400)}just say now {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.16,0:00:20.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm{\c&H00FFFFFF&} a wastewater
+Dialogue: 1,0:00:20.40,0:00:20.48,Cap,,0,0,0,,{\pos(540,1400)}I'm {\c&H0060ECCD}a{\c&H00FFFFFF&} wastewater
+Dialogue: 1,0:00:20.48,0:00:20.82,Cap,,0,0,0,,{\pos(540,1400)}I'm a {\c&H0060ECCD}wastewater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.82,0:00:21.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}engineer{\c&H00FFFFFF&} of I
+Dialogue: 1,0:00:21.32,0:00:21.68,Cap,,0,0,0,,{\pos(540,1400)}engineer {\c&H0060ECCD}of{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:21.68,0:00:22.10,Cap,,0,0,0,,{\pos(540,1400)}engineer of {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.10,0:00:22.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} my PhD in
+Dialogue: 1,0:00:22.58,0:00:22.84,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}my{\c&H00FFFFFF&} PhD in
+Dialogue: 1,0:00:22.84,0:00:23.72,Cap,,0,0,0,,{\pos(540,1400)}have my {\c&H0060ECCD}PhD{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:23.72,0:00:23.88,Cap,,0,0,0,,{\pos(540,1400)}have my PhD {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.88,0:00:24.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}poo{\c&H00FFFFFF&} I perform
+Dialogue: 1,0:00:24.16,0:00:24.26,Cap,,0,0,0,,{\pos(540,1400)}poo {\c&H0060ECCD}I{\c&H00FFFFFF&} perform
+Dialogue: 1,0:00:24.26,0:00:24.62,Cap,,0,0,0,,{\pos(540,1400)}poo I {\c&H0060ECCD}perform{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.62,0:00:25.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pooposcopies{\c&H00FFFFFF&}
