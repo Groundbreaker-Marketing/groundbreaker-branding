@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "updated": "2026-10-14",
+  "version": "1.1.2",
+  "updated": "2026-10-15",
   "_consumers": "Every dashboard that carries the kit, and where each dist file lands in it. Paths are relative to ~/apps. sync.mjs writes these; each repo then ships its own PR and deploy.",
   "consumers": [
     {
@@ -26,6 +26,14 @@
       "deploy": "cd dashboard && npm run deploy (by hand)",
       "files": {
         "gbm-dash.js": "dashboard/src/gbm-dash.js"
+      }
+    },
+    {
+      "repo": "automation-runner",
+      "host": "security.groundbreakermarketing.com",
+      "deploy": "cd security-dashboard && npm run deploy (by hand)",
+      "files": {
+        "gbm-dash.js": "security-dashboard/src/gbm-dash.js"
       }
     },
     {
