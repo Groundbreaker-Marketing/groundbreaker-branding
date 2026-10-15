@@ -22,3 +22,29 @@
 .gbm-tabs a:hover,.gbm-tabs button:hover{color:var(--ink,#1b2620)}
 .gbm-tabs .on,.gbm-tabs [aria-current="page"],.gbm-tabs [aria-selected="true"]{color:var(--ink,#1b2620);font-weight:650;border-bottom-color:#cdec60}
 .gbm-tabs .badge{display:inline-block;min-width:18px;padding:0 5px;border-radius:999px;background:var(--crit,#c2453d);color:#fff;font-size:.68rem;font-weight:700;text-align:center;margin-left:.3rem}
+
+/* App picker. bar({ current, email }) renders it only when the viewer can open two or more apps:
+   a rail down the left on wide screens, an "Apps" menu in the bar on narrow ones. No script
+   (Ops' CSP forbids scripts): the menu is a <details>, the rail lays out with body:has(). */
+.gbm-rail{display:none}
+.gbm-apps{position:relative}
+.gbm-apps>summary{list-style:none;cursor:pointer;font-size:.8rem;font-weight:600;color:var(--gbm-bar-ink);border:1px solid var(--gbm-bar-line);border-radius:7px;padding:.32rem .7rem}
+.gbm-apps>summary::-webkit-details-marker{display:none}
+.gbm-apps>summary::after{content:"";display:inline-block;margin-left:.45rem;border:4px solid transparent;border-top-color:currentColor;border-bottom-width:0;vertical-align:2px}
+.gbm-apps[open]>summary,.gbm-apps>summary:hover{border-color:var(--gbm-bar-app);color:var(--gbm-bar-app)}
+.gbm-apps-menu{position:absolute;z-index:60;top:calc(100% + 8px);left:0;min-width:210px;display:flex;flex-direction:column;gap:2px;background:var(--gbm-bar);border:1px solid var(--gbm-bar-line);border-radius:10px;padding:6px;box-shadow:0 12px 32px rgba(0,0,0,.3)}
+.gbm-app-link{display:flex;align-items:center;gap:.6rem;font-family:var(--gbm-font);font-size:.86rem;color:var(--gbm-bar-ink-2);padding:.45rem .6rem;border-radius:7px;text-decoration:none;white-space:nowrap}
+.gbm-app-link i{width:7px;height:7px;border-radius:50%;background:var(--gbm-rail-dot);flex:none}
+.gbm-app-link:hover{color:var(--gbm-bar-ink);background:var(--gbm-rail-hover)}
+.gbm-app-link.on{background:var(--gbm-bar-app);color:#1c352b;font-weight:650}
+.gbm-app-link.on i{background:#1c352b}
+.gbm-rail-h{font-family:var(--gbm-font);font-size:.66rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gbm-bar-ink-2);opacity:.8;padding:0 .6rem .4rem}
+.gbm-rail :focus-visible,.gbm-apps :focus-visible{outline:2px solid var(--gbm-bar-app);outline-offset:2px}
+@media (min-width:900px){
+  body:has(> .gbm-rail){display:grid;grid-template-columns:var(--gbm-rail-w) minmax(0,1fr);align-content:start;background-image:linear-gradient(90deg,var(--gbm-bar) 0 var(--gbm-rail-w),transparent var(--gbm-rail-w))}
+  body:has(> .gbm-rail)>*{grid-column:2;min-width:0}
+  body:has(> .gbm-rail)>.gbm-bar{grid-column:1/-1}
+  body:has(> .gbm-rail)>.gbm-rail{grid-column:1;grid-row:2/span 30;display:block;border-top:1px solid var(--gbm-bar-line)}
+  .gbm-rail-in{position:sticky;top:0;display:flex;flex-direction:column;gap:2px;padding:1rem .7rem}
+  body:has(> .gbm-rail) .gbm-bar .gbm-apps{display:none}
+}

@@ -1,0 +1,18 @@
+{
+  "_": "The app picker's list, in display order. Who sees an app is READ from that app's own allowlist (gate.file, relative to ~/apps) every time the kit builds, so the picker can never offer an app its gate would refuse. The gates themselves are unchanged and stay the real security; the picker only hides links. An app with no readable gate declares `who` instead and says why in `gate_note`.",
+  "apps": [
+    { "id": "ops", "name": "Ops", "url": "https://ops.groundbreakermarketing.com/",
+      "who": { "domain": "groundbreakermarketing.com" },
+      "gate_note": "Cloudflare Access plus the People page in Ops (D1). Neither is a file, so the picker offers Ops to every @groundbreakermarketing.com address; Ops itself still refuses anyone not on its People page." },
+    { "id": "onboarding", "name": "Onboarding", "url": "https://onboarding.groundbreakermarketing.com/",
+      "gate": { "file": "onboarding-dashboard/wrangler.toml", "domain": "ALLOWED_DOMAIN", "emails": "ALLOWED_EMAILS" } },
+    { "id": "leads", "name": "Leads", "url": "https://tracking.groundbreakermarketing.com/dashboard",
+      "gate": { "file": "ads-ops/call-tracking/master/wrangler.toml", "emails": "ADMIN_EMAILS" } },
+    { "id": "website", "name": "Website & SEO", "url": "https://miguel.groundbreakermarketing.com/",
+      "gate": { "file": "ads-ops/call-tracking/website/wrangler.toml", "emails": "ALLOWED_EMAILS" } },
+    { "id": "social", "name": "Social & Video", "url": "https://liam.groundbreakermarketing.com/",
+      "gate": { "file": "ads-ops/call-tracking/social/wrangler.toml", "emails": "ALLOWED_EMAILS" } },
+    { "id": "finance", "name": "Finance", "url": "https://finance.groundbreakermarketing.com/",
+      "gate": { "file": "finance-jobs/dashboard/wrangler.toml", "emails": "ALLOWED_EMAILS" } }
+  ]
+}

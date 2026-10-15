@@ -4,3 +4,4 @@
   --gbm-gutter:clamp(16px,2.5vw,28px);--gbm-font:"DM Sans",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--gbm-bar:#132219;--gbm-bar-line:rgba(243,245,239,.18)}}
 :root[data-theme="dark"]{--gbm-bar:#132219;--gbm-bar-line:rgba(243,245,239,.18)}
+:root{--gbm-rail-w:208px;--gbm-rail-dot:rgba(243,245,239,.32);--gbm-rail-hover:rgba(243,245,239,.08)}
