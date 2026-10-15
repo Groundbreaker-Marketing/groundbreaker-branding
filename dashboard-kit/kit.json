@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-10-14",
+  "_consumers": "Every dashboard that carries the kit, and where each dist file lands in it. Paths are relative to ~/apps. sync.mjs writes these; each repo then ships its own PR and deploy.",
+  "consumers": [
+    { "repo": "clients/ops-dashboard", "host": "ops.groundbreakermarketing.com", "deploy": "npm run deploy (by hand)",
+      "files": { "gbm-dash.js": "src/web/gbm-dash.js" } },
+    { "repo": "onboarding-dashboard", "host": "onboarding.groundbreakermarketing.com", "deploy": "GitHub Actions on merge",
+      "files": { "gbm-dash.css": "site/gbm-dash.css", "gbm-dash.js": "functions/_lib/gbm-dash.js" } },
+    { "repo": "finance-jobs", "host": "finance.groundbreakermarketing.com", "deploy": "cd dashboard && npm run deploy (by hand)",
+      "files": { "gbm-dash.js": "dashboard/src/gbm-dash.js" } },
+    { "repo": "ads-ops", "host": "tracking.groundbreakermarketing.com", "deploy": "cd call-tracking/master && npx wrangler deploy (by hand)",
+      "files": { "gbm-dash.js": "call-tracking/master/src/gbm-dash.js" } },
+    { "repo": "client-access", "host": "access.groundbreakermarketing.com", "deploy": "GitHub Actions on merge",
+      "files": { "gbm-bar.css": "site/gbm-bar.css", "gbm-dash.js": "functions/_lib/gbm-dash.js" } },
+    { "repo": "client-reviews", "host": "review.groundbreakermarketing.com", "deploy": "GitHub Actions on merge",
+      "files": { "gbm-logo-reverse.svg": "site/gbm-logo-reverse.svg" } }
+  ]
+}

@@ -13,12 +13,12 @@ export const tokens = {
       900: '#0f1b16',
     },
     accent: {
-      50: '#fffef5',
-      100: '#fffce0',
-      200: '#fff9b8',
-      300: '#fff68f',
-      400: '#fff267',
-      500: '#e6dd3f',
+      50: '#fafde9',
+      100: '#f3fad0',
+      200: '#eaf7b3',
+      300: '#e3f59b',
+      400: '#d9f17f',
+      500: '#d2ee6d',
       600: '#cdec60', // Accent brand color
       700: '#b8d946',
       800: '#94b031',
@@ -37,16 +37,16 @@ export const tokens = {
       900: '#111827',
     },
     semantic: {
-      success: '#10b981',
-      warning: '#f59e0b',
-      error: '#ef4444',
-      info: '#3b82f6',
+      success: '#2f8f5b',
+      warning: '#b98a12',
+      error: '#c2453d',
+      info: '#3b5f8a',
     },
   },
   typography: {
     fontFamily: {
-      heading: '"YOUR_HEADING_FONT", sans-serif', // Replace with actual font
-      body: '"YOUR_BODY_FONT", sans-serif', // Replace with actual font
+      heading: '"DM Sans", system-ui, -apple-system, "Segoe UI", sans-serif', // same face as groundbreakermarketing.com
+      body: '"DM Sans", system-ui, -apple-system, "Segoe UI", sans-serif',
     },
     fontSize: {
       xs: '0.75rem',

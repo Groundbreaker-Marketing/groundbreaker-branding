@@ -1,0 +1,6 @@
+/* Bar tokens, namespaced so the bar drops into a page that keeps its own palette
+   (the client-facing Access and Reviews pages load only bar.css + chrome.css). */
+:root{--gbm-bar:#1c352b;--gbm-bar-ink:#f3f5ef;--gbm-bar-ink-2:#cfe0d6;--gbm-bar-line:rgba(243,245,239,.26);--gbm-bar-app:#cdec60;
+  --gbm-gutter:clamp(16px,2.5vw,28px);--gbm-font:"DM Sans",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--gbm-bar:#132219;--gbm-bar-line:rgba(243,245,239,.18)}}
+:root[data-theme="dark"]{--gbm-bar:#132219;--gbm-bar-line:rgba(243,245,239,.18)}

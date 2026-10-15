@@ -1,0 +1,30 @@
+/* Groundbreaker dashboard tokens. One set for every internal dashboard, light and dark.
+   Names match what Ops and Onboarding were written against, so their CSS needs no renames.
+   Dark mode: --forest turns lime because it is used as the accent/ink color; the bar has
+   its own --gbm-* tokens (bar.css) so it stays forest in both themes. */
+:root{
+  --ink:#1b2620;--ink-2:#3e4d46;--ink-3:#6f7d76;
+  --paper:#f3f5ef;--card:#ffffff;--paper-2:#e9ede3;--line:#d3dacd;--line-2:#e6eae1;
+  --forest:#1c352b;--forest-2:#27473a;--on-forest:#f3f5ef;--lime:#cdec60;--lime-ink:#4f6600;--accent-soft:#e3ecd9;
+  --good:#2f8f5b;--good-bg:#e1f3e8;--warn:#b98a12;--warn-bg:#fbf0cf;--crit:#c2453d;--crit-bg:#fae2df;--info-bg:#e6edf5;--info:#3b5f8a;
+  --shadow:0 12px 40px rgba(20,35,28,.16);
+  --display:"DM Sans",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
+  --body:"DM Sans",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --ink:#e6ebe4;--ink-2:#b9c4bb;--ink-3:#86938a;
+  --paper:#0f1613;--card:#161f1a;--paper-2:#1c2620;--line:#2b3730;--line-2:#222d27;
+  --forest:#cdec60;--forest-2:#b5d64a;--on-forest:#0f1613;--lime:#cdec60;--lime-ink:#cdec60;--accent-soft:#1f2c23;
+  --good:#5cc08a;--good-bg:#16302270;--warn:#e0b33a;--warn-bg:#33290f;--crit:#e4736b;--crit-bg:#3a1c19;--info-bg:#1a2633;--info:#8db2dc;
+  --shadow:0 12px 40px rgba(0,0,0,.5);
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --ink:#e6ebe4;--ink-2:#b9c4bb;--ink-3:#86938a;
+  --paper:#0f1613;--card:#161f1a;--paper-2:#1c2620;--line:#2b3730;--line-2:#222d27;
+  --forest:#cdec60;--forest-2:#b5d64a;--on-forest:#0f1613;--lime:#cdec60;--lime-ink:#cdec60;--accent-soft:#1f2c23;
+  --good:#5cc08a;--good-bg:#16302270;--warn:#e0b33a;--warn-bg:#33290f;--crit:#e4736b;--crit-bg:#3a1c19;--info-bg:#1a2633;--info:#8db2dc;
+  --shadow:0 12px 40px rgba(0,0,0,.5);
+  color-scheme:dark;
+}
