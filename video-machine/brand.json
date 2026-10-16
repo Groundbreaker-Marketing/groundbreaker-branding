@@ -156,6 +156,9 @@
     ]
   },
   "shorts": {
+    "_how": "Organic Shorts. Podcast clips (shorts/) and Ashley's own teleprompter Shorts (reels.build --scripts with a content-machine reels/clients/groundbreaker/batches file) are reviewed on the Ops Content page, Review tab, and schedule through Metricool brand metricool_blog_id after her approval. review = ops: there is no review_url here on purpose, so nothing goes to Liam's FnD Review Shorts tab.",
+    "review": "ops",
+    "prompt": "Um, uh, so, you know... Groundbreaker Marketing, Ashley Christian, The #2 Septic Podcast, septic, pump-out, drain field, Local Services Ads, LSA, Google Business Profile, Google Ads, call tracking.",
     "font": "Montserrat",
     "layout": "framed",
     "youtube_channel": "UCx6IFKn193XppnCpVAByK9w",
