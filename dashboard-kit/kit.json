@@ -76,6 +76,14 @@
       "files": {
         "gbm-logo-reverse.svg": "site/gbm-logo-reverse.svg"
       }
+    },
+    {
+      "repo": "contracts",
+      "host": "contracts.groundbreakermarketing.com",
+      "deploy": "cd dashboard && npm run deploy (by hand)",
+      "files": {
+        "gbm-dash.js": "dashboard/src/gbm-dash.js"
+      }
     }
   ]
 }
