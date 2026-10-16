@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:46.62,Title,,0,0,0,,{\pos(540,360)}I sat in my truck\Nand {\c&H0060ECCD}cried{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:46.62,Title,,0,0,0,,{\pos(540,360)}I sat in my septic truck\Nand {\c&H0060ECCD}cried{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm{\c&H00FFFFFF&} gonna tell
 Dialogue: 1,0:00:00.14,0:00:00.36,Cap,,0,0,0,,{\pos(540,1400)}I'm {\c&H0060ECCD}gonna{\c&H00FFFFFF&} tell
 Dialogue: 1,0:00:00.36,0:00:00.62,Cap,,0,0,0,,{\pos(540,1400)}I'm gonna {\c&H0060ECCD}tell{\c&H00FFFFFF&}

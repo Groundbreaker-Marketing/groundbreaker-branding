@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:38.66,Title,,0,0,0,,{\pos(540,360)}Talk through the inspection.\NLet {\c&H0060ECCD}AI{\c&H00FFFFFF&} write it.
+Dialogue: 2,0:00:00.00,0:00:38.66,Title,,0,0,0,,{\pos(540,360)}Let {\c&H0060ECCD}AI{\c&H00FFFFFF&} write your\Nseptic inspections
 Dialogue: 1,0:00:00.00,0:00:00.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}You{\c&H00FFFFFF&} can actually
 Dialogue: 1,0:00:00.22,0:00:00.38,Cap,,0,0,0,,{\pos(540,1400)}You {\c&H0060ECCD}can{\c&H00FFFFFF&} actually
 Dialogue: 1,0:00:00.38,0:00:00.78,Cap,,0,0,0,,{\pos(540,1400)}You can {\c&H0060ECCD}actually{\c&H00FFFFFF&}

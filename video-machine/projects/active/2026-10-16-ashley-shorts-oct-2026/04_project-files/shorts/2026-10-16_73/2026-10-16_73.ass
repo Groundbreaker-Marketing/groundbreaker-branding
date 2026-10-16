@@ -13,93 +13,92 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:31.96,Title,,0,0,0,,{\pos(540,360)}3 questions your\Nsite should answer
-Dialogue: 1,0:00:00.00,0:00:01.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}here{\c&H00FFFFFF&} are three
-Dialogue: 1,0:00:01.44,0:00:01.60,Cap,,0,0,0,,{\pos(540,1400)}here {\c&H0060ECCD}are{\c&H00FFFFFF&} three
-Dialogue: 1,0:00:01.60,0:00:01.92,Cap,,0,0,0,,{\pos(540,1400)}here are {\c&H0060ECCD}three{\c&H00FFFFFF&}
-Dialogue: 1,0:00:01.92,0:00:02.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}questions{\c&H00FFFFFF&}
-Dialogue: 1,0:00:02.54,0:00:03.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowners{\c&H00FFFFFF&} sent
-Dialogue: 1,0:00:03.10,0:00:03.54,Cap,,0,0,0,,{\pos(540,1400)}homeowners {\c&H0060ECCD}sent{\c&H00FFFFFF&}
-Dialogue: 1,0:00:03.54,0:00:03.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} septic
-Dialogue: 1,0:00:03.76,0:00:04.18,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}septic{\c&H00FFFFFF&}
-Dialogue: 1,0:00:04.18,0:00:04.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clients{\c&H00FFFFFF&} this week
-Dialogue: 1,0:00:04.56,0:00:04.84,Cap,,0,0,0,,{\pos(540,1400)}clients {\c&H0060ECCD}this{\c&H00FFFFFF&} week
-Dialogue: 1,0:00:04.84,0:00:05.12,Cap,,0,0,0,,{\pos(540,1400)}clients this {\c&H0060ECCD}week{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.12,0:00:05.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} you offer free
-Dialogue: 1,0:00:05.90,0:00:06.04,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}you{\c&H00FFFFFF&} offer free
-Dialogue: 1,0:00:06.04,0:00:06.44,Cap,,0,0,0,,{\pos(540,1400)}do you {\c&H0060ECCD}offer{\c&H00FFFFFF&} free
-Dialogue: 1,0:00:06.44,0:00:06.72,Cap,,0,0,0,,{\pos(540,1400)}do you offer {\c&H0060ECCD}free{\c&H00FFFFFF&}
-Dialogue: 1,0:00:06.72,0:00:07.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}quotes{\c&H00FFFFFF&} is
-Dialogue: 1,0:00:07.20,0:00:07.76,Cap,,0,0,0,,{\pos(540,1400)}quotes {\c&H0060ECCD}is{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.76,0:00:08.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}financing{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.44,0:00:09.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}available{\c&H00FFFFFF&} we just
-Dialogue: 1,0:00:09.10,0:00:09.86,Cap,,0,0,0,,{\pos(540,1400)}available {\c&H0060ECCD}we{\c&H00FFFFFF&} just
-Dialogue: 1,0:00:09.86,0:00:10.14,Cap,,0,0,0,,{\pos(540,1400)}available we {\c&H0060ECCD}just{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.14,0:00:10.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bought{\c&H00FFFFFF&} this house
-Dialogue: 1,0:00:10.36,0:00:10.56,Cap,,0,0,0,,{\pos(540,1400)}bought {\c&H0060ECCD}this{\c&H00FFFFFF&} house
-Dialogue: 1,0:00:10.56,0:00:10.82,Cap,,0,0,0,,{\pos(540,1400)}bought this {\c&H0060ECCD}house{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.82,0:00:11.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} found two
-Dialogue: 1,0:00:11.04,0:00:11.28,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}found{\c&H00FFFFFF&} two
-Dialogue: 1,0:00:11.28,0:00:11.54,Cap,,0,0,0,,{\pos(540,1400)}and found {\c&H0060ECCD}two{\c&H00FFFFFF&}
-Dialogue: 1,0:00:11.54,0:00:11.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&} how much do
-Dialogue: 1,0:00:11.84,0:00:12.16,Cap,,0,0,0,,{\pos(540,1400)}tanks {\c&H0060ECCD}how{\c&H00FFFFFF&} much do
-Dialogue: 1,0:00:12.16,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}tanks how {\c&H0060ECCD}much{\c&H00FFFFFF&} do
-Dialogue: 1,0:00:12.36,0:00:12.56,Cap,,0,0,0,,{\pos(540,1400)}tanks how much {\c&H0060ECCD}do{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.56,0:00:12.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} charge if
-Dialogue: 1,0:00:12.68,0:00:12.96,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}charge{\c&H00FFFFFF&} if
-Dialogue: 1,0:00:12.96,0:00:13.98,Cap,,0,0,0,,{\pos(540,1400)}you charge {\c&H0060ECCD}if{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.98,0:00:14.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} website
-Dialogue: 1,0:00:14.18,0:00:14.60,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}website{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.60,0:00:14.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} answer
-Dialogue: 1,0:00:14.98,0:00:15.32,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}answer{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.32,0:00:15.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}those{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:15.58,0:00:15.78,Cap,,0,0,0,,{\pos(540,1400)}those {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.78,0:00:16.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowner{\c&H00FFFFFF&} is
-Dialogue: 1,0:00:16.24,0:00:16.50,Cap,,0,0,0,,{\pos(540,1400)}homeowner {\c&H0060ECCD}is{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.50,0:00:16.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}guessing{\c&H00FFFFFF&} or
-Dialogue: 1,0:00:16.94,0:00:17.50,Cap,,0,0,0,,{\pos(540,1400)}guessing {\c&H0060ECCD}or{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.50,0:00:17.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calling{\c&H00FFFFFF&} someone
-Dialogue: 1,0:00:17.90,0:00:18.30,Cap,,0,0,0,,{\pos(540,1400)}calling {\c&H0060ECCD}someone{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.30,0:00:18.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whose{\c&H00FFFFFF&} website
-Dialogue: 1,0:00:18.62,0:00:19.00,Cap,,0,0,0,,{\pos(540,1400)}whose {\c&H0060ECCD}website{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.00,0:00:19.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}does{\c&H00FFFFFF&} Add a short
-Dialogue: 1,0:00:19.28,0:00:20.02,Cap,,0,0,0,,{\pos(540,1400)}does {\c&H0060ECCD}Add{\c&H00FFFFFF&} a short
-Dialogue: 1,0:00:20.02,0:00:20.14,Cap,,0,0,0,,{\pos(540,1400)}does Add {\c&H0060ECCD}a{\c&H00FFFFFF&} short
-Dialogue: 1,0:00:20.14,0:00:20.42,Cap,,0,0,0,,{\pos(540,1400)}does Add a {\c&H0060ECCD}short{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.42,0:00:20.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}list{\c&H00FFFFFF&} of questions
-Dialogue: 1,0:00:20.68,0:00:20.84,Cap,,0,0,0,,{\pos(540,1400)}list {\c&H0060ECCD}of{\c&H00FFFFFF&} questions
-Dialogue: 1,0:00:20.84,0:00:21.26,Cap,,0,0,0,,{\pos(540,1400)}list of {\c&H0060ECCD}questions{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.26,0:00:21.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} answers to
-Dialogue: 1,0:00:21.52,0:00:21.92,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}answers{\c&H00FFFFFF&} to
-Dialogue: 1,0:00:21.92,0:00:22.12,Cap,,0,0,0,,{\pos(540,1400)}and answers {\c&H0060ECCD}to{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.12,0:00:22.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} home
-Dialogue: 1,0:00:22.26,0:00:22.46,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}home{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.46,0:00:22.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homepage{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.82,0:00:23.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}free{\c&H00FFFFFF&} quote or not
-Dialogue: 1,0:00:23.60,0:00:23.98,Cap,,0,0,0,,{\pos(540,1400)}free {\c&H0060ECCD}quote{\c&H00FFFFFF&} or not
-Dialogue: 1,0:00:23.98,0:00:24.24,Cap,,0,0,0,,{\pos(540,1400)}free quote {\c&H0060ECCD}or{\c&H00FFFFFF&} not
-Dialogue: 1,0:00:24.24,0:00:24.48,Cap,,0,0,0,,{\pos(540,1400)}free quote or {\c&H0060ECCD}not{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.48,0:00:25.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}financing{\c&H00FFFFFF&} or not
-Dialogue: 1,0:00:25.16,0:00:25.50,Cap,,0,0,0,,{\pos(540,1400)}financing {\c&H0060ECCD}or{\c&H00FFFFFF&} not
-Dialogue: 1,0:00:25.50,0:00:25.74,Cap,,0,0,0,,{\pos(540,1400)}financing or {\c&H0060ECCD}not{\c&H00FFFFFF&}
-Dialogue: 1,0:00:25.74,0:00:25.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} starting price
-Dialogue: 1,0:00:25.98,0:00:26.32,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}starting{\c&H00FFFFFF&} price
-Dialogue: 1,0:00:26.32,0:00:26.66,Cap,,0,0,0,,{\pos(540,1400)}a starting {\c&H0060ECCD}price{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.66,0:00:26.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} a range answer
-Dialogue: 1,0:00:26.94,0:00:27.14,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}a{\c&H00FFFFFF&} range answer
-Dialogue: 1,0:00:27.14,0:00:27.38,Cap,,0,0,0,,{\pos(540,1400)}or a {\c&H0060ECCD}range{\c&H00FFFFFF&} answer
-Dialogue: 1,0:00:27.38,0:00:28.30,Cap,,0,0,0,,{\pos(540,1400)}or a range {\c&H0060ECCD}answer{\c&H00FFFFFF&}
-Dialogue: 1,0:00:28.30,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} once on your
-Dialogue: 1,0:00:28.46,0:00:28.76,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}once{\c&H00FFFFFF&} on your
-Dialogue: 1,0:00:28.76,0:00:28.94,Cap,,0,0,0,,{\pos(540,1400)}it once {\c&H0060ECCD}on{\c&H00FFFFFF&} your
-Dialogue: 1,0:00:28.94,0:00:29.06,Cap,,0,0,0,,{\pos(540,1400)}it once on {\c&H0060ECCD}your{\c&H00FFFFFF&}
-Dialogue: 1,0:00:29.06,0:00:29.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} and stop
-Dialogue: 1,0:00:29.44,0:00:29.70,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}and{\c&H00FFFFFF&} stop
-Dialogue: 1,0:00:29.70,0:00:30.02,Cap,,0,0,0,,{\pos(540,1400)}website and {\c&H0060ECCD}stop{\c&H00FFFFFF&}
-Dialogue: 1,0:00:30.02,0:00:30.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answering{\c&H00FFFFFF&} it 50
-Dialogue: 1,0:00:30.50,0:00:30.70,Cap,,0,0,0,,{\pos(540,1400)}answering {\c&H0060ECCD}it{\c&H00FFFFFF&} 50
-Dialogue: 1,0:00:30.70,0:00:31.00,Cap,,0,0,0,,{\pos(540,1400)}answering it {\c&H0060ECCD}50{\c&H00FFFFFF&}
-Dialogue: 1,0:00:31.00,0:00:31.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}times{\c&H00FFFFFF&} on the
-Dialogue: 1,0:00:31.36,0:00:31.60,Cap,,0,0,0,,{\pos(540,1400)}times {\c&H0060ECCD}on{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:31.60,0:00:31.70,Cap,,0,0,0,,{\pos(540,1400)}times on {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:31.70,0:00:32.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:30.66,Title,,0,0,0,,{\pos(540,360)}3 questions your\Nsite should answer
+Dialogue: 1,0:00:00.13,0:00:00.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Here are{\c&H00FFFFFF&} three
+Dialogue: 1,0:00:00.29,0:00:00.61,Cap,,0,0,0,,{\pos(540,1400)}Here are {\c&H0060ECCD}three{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.61,0:00:01.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}questions{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.23,0:00:01.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowners{\c&H00FFFFFF&} sent
+Dialogue: 1,0:00:01.79,0:00:02.23,Cap,,0,0,0,,{\pos(540,1400)}homeowners {\c&H0060ECCD}sent{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.23,0:00:02.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:02.45,0:00:02.87,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.87,0:00:03.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clients{\c&H00FFFFFF&} this week
+Dialogue: 1,0:00:03.25,0:00:03.53,Cap,,0,0,0,,{\pos(540,1400)}clients {\c&H0060ECCD}this{\c&H00FFFFFF&} week
+Dialogue: 1,0:00:03.53,0:00:03.81,Cap,,0,0,0,,{\pos(540,1400)}clients this {\c&H0060ECCD}week{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.81,0:00:04.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} you offer free
+Dialogue: 1,0:00:04.59,0:00:04.73,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}you{\c&H00FFFFFF&} offer free
+Dialogue: 1,0:00:04.73,0:00:05.13,Cap,,0,0,0,,{\pos(540,1400)}do you {\c&H0060ECCD}offer{\c&H00FFFFFF&} free
+Dialogue: 1,0:00:05.13,0:00:05.41,Cap,,0,0,0,,{\pos(540,1400)}do you offer {\c&H0060ECCD}free{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.41,0:00:05.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}quotes{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:05.89,0:00:06.45,Cap,,0,0,0,,{\pos(540,1400)}quotes {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.45,0:00:07.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}financing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.13,0:00:07.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}available{\c&H00FFFFFF&} we just
+Dialogue: 1,0:00:07.79,0:00:08.55,Cap,,0,0,0,,{\pos(540,1400)}available {\c&H0060ECCD}we{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:08.55,0:00:08.83,Cap,,0,0,0,,{\pos(540,1400)}available we {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.83,0:00:09.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bought{\c&H00FFFFFF&} this house
+Dialogue: 1,0:00:09.05,0:00:09.25,Cap,,0,0,0,,{\pos(540,1400)}bought {\c&H0060ECCD}this{\c&H00FFFFFF&} house
+Dialogue: 1,0:00:09.25,0:00:09.51,Cap,,0,0,0,,{\pos(540,1400)}bought this {\c&H0060ECCD}house{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.51,0:00:09.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} found two
+Dialogue: 1,0:00:09.73,0:00:09.97,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}found{\c&H00FFFFFF&} two
+Dialogue: 1,0:00:09.97,0:00:10.23,Cap,,0,0,0,,{\pos(540,1400)}and found {\c&H0060ECCD}two{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.23,0:00:10.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&} how much do
+Dialogue: 1,0:00:10.53,0:00:10.85,Cap,,0,0,0,,{\pos(540,1400)}tanks {\c&H0060ECCD}how{\c&H00FFFFFF&} much do
+Dialogue: 1,0:00:10.85,0:00:11.05,Cap,,0,0,0,,{\pos(540,1400)}tanks how {\c&H0060ECCD}much{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:11.05,0:00:11.25,Cap,,0,0,0,,{\pos(540,1400)}tanks how much {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.25,0:00:11.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} charge if
+Dialogue: 1,0:00:11.37,0:00:11.65,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}charge{\c&H00FFFFFF&} if
+Dialogue: 1,0:00:11.65,0:00:12.67,Cap,,0,0,0,,{\pos(540,1400)}you charge {\c&H0060ECCD}if{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.67,0:00:12.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:12.87,0:00:13.29,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.29,0:00:13.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} answer
+Dialogue: 1,0:00:13.67,0:00:14.01,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}answer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.01,0:00:14.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}those{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:14.27,0:00:14.47,Cap,,0,0,0,,{\pos(540,1400)}those {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.47,0:00:14.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowner{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:14.93,0:00:15.19,Cap,,0,0,0,,{\pos(540,1400)}homeowner {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.19,0:00:15.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}guessing{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:15.63,0:00:16.19,Cap,,0,0,0,,{\pos(540,1400)}guessing {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.19,0:00:16.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calling{\c&H00FFFFFF&} someone
+Dialogue: 1,0:00:16.59,0:00:16.99,Cap,,0,0,0,,{\pos(540,1400)}calling {\c&H0060ECCD}someone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.99,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whose{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:17.31,0:00:17.69,Cap,,0,0,0,,{\pos(540,1400)}whose {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.69,0:00:17.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}does{\c&H00FFFFFF&} Add a short
+Dialogue: 1,0:00:17.97,0:00:18.71,Cap,,0,0,0,,{\pos(540,1400)}does {\c&H0060ECCD}Add{\c&H00FFFFFF&} a short
+Dialogue: 1,0:00:18.71,0:00:18.83,Cap,,0,0,0,,{\pos(540,1400)}does Add {\c&H0060ECCD}a{\c&H00FFFFFF&} short
+Dialogue: 1,0:00:18.83,0:00:19.11,Cap,,0,0,0,,{\pos(540,1400)}does Add a {\c&H0060ECCD}short{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.11,0:00:19.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}list{\c&H00FFFFFF&} of questions
+Dialogue: 1,0:00:19.37,0:00:19.53,Cap,,0,0,0,,{\pos(540,1400)}list {\c&H0060ECCD}of{\c&H00FFFFFF&} questions
+Dialogue: 1,0:00:19.53,0:00:19.95,Cap,,0,0,0,,{\pos(540,1400)}list of {\c&H0060ECCD}questions{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.95,0:00:20.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} answers to
+Dialogue: 1,0:00:20.21,0:00:20.61,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}answers{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:20.61,0:00:20.81,Cap,,0,0,0,,{\pos(540,1400)}and answers {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.81,0:00:20.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} home
+Dialogue: 1,0:00:20.95,0:00:21.15,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}home{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.15,0:00:21.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homepage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.51,0:00:22.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}free{\c&H00FFFFFF&} quote or not
+Dialogue: 1,0:00:22.29,0:00:22.67,Cap,,0,0,0,,{\pos(540,1400)}free {\c&H0060ECCD}quote{\c&H00FFFFFF&} or not
+Dialogue: 1,0:00:22.67,0:00:22.93,Cap,,0,0,0,,{\pos(540,1400)}free quote {\c&H0060ECCD}or{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:22.93,0:00:23.17,Cap,,0,0,0,,{\pos(540,1400)}free quote or {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.17,0:00:23.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}financing{\c&H00FFFFFF&} or not
+Dialogue: 1,0:00:23.85,0:00:24.19,Cap,,0,0,0,,{\pos(540,1400)}financing {\c&H0060ECCD}or{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:24.19,0:00:24.43,Cap,,0,0,0,,{\pos(540,1400)}financing or {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.43,0:00:24.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} starting price
+Dialogue: 1,0:00:24.67,0:00:25.01,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}starting{\c&H00FFFFFF&} price
+Dialogue: 1,0:00:25.01,0:00:25.35,Cap,,0,0,0,,{\pos(540,1400)}a starting {\c&H0060ECCD}price{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.35,0:00:25.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} a range answer
+Dialogue: 1,0:00:25.63,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}a{\c&H00FFFFFF&} range answer
+Dialogue: 1,0:00:25.83,0:00:26.07,Cap,,0,0,0,,{\pos(540,1400)}or a {\c&H0060ECCD}range{\c&H00FFFFFF&} answer
+Dialogue: 1,0:00:26.07,0:00:26.99,Cap,,0,0,0,,{\pos(540,1400)}or a range {\c&H0060ECCD}answer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.99,0:00:27.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} once on your
+Dialogue: 1,0:00:27.15,0:00:27.45,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}once{\c&H00FFFFFF&} on your
+Dialogue: 1,0:00:27.45,0:00:27.63,Cap,,0,0,0,,{\pos(540,1400)}it once {\c&H0060ECCD}on{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:27.63,0:00:27.75,Cap,,0,0,0,,{\pos(540,1400)}it once on {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.75,0:00:28.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} and stop
+Dialogue: 1,0:00:28.13,0:00:28.39,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}and{\c&H00FFFFFF&} stop
+Dialogue: 1,0:00:28.39,0:00:28.71,Cap,,0,0,0,,{\pos(540,1400)}website and {\c&H0060ECCD}stop{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.71,0:00:29.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answering{\c&H00FFFFFF&} it 50
+Dialogue: 1,0:00:29.19,0:00:29.39,Cap,,0,0,0,,{\pos(540,1400)}answering {\c&H0060ECCD}it{\c&H00FFFFFF&} 50
+Dialogue: 1,0:00:29.39,0:00:29.69,Cap,,0,0,0,,{\pos(540,1400)}answering it {\c&H0060ECCD}50{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.69,0:00:30.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}times{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:30.05,0:00:30.29,Cap,,0,0,0,,{\pos(540,1400)}times {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:30.29,0:00:30.39,Cap,,0,0,0,,{\pos(540,1400)}times on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.39,0:00:30.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&}

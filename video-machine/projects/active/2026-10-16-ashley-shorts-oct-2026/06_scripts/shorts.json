@@ -7,7 +7,7 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     85,
+     86,
      146
     ],
     [
@@ -20,7 +20,7 @@
     ]
    ],
    "fixes": {
-    "86": "1:30",
+    "86": "A 1:30",
     "87": "",
     "130": "Ads",
     "154": "$1,690",
@@ -46,7 +46,8 @@
     "n": 1
    },
    "coverage": 0.882,
-   "read_at": 85.45
+   "read_at": 85.45,
+   "locked": true
   },
   {
    "id": "2026-10-16_02",
@@ -79,7 +80,7 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     464,
+     465,
      469
     ],
     [
@@ -87,7 +88,9 @@
      558
     ]
    ],
-   "fixes": {},
+   "fixes": {
+    "465": "How did"
+   },
    "title": "\"How did you\nhear about us?\"",
    "layout": "crop",
    "crop_x": 0.478,
@@ -100,7 +103,8 @@
     "n": 3
    },
    "coverage": 1.0,
-   "read_at": 290.7
+   "read_at": 290.7,
+   "locked": true
   },
   {
    "id": "2026-10-16_04",
@@ -551,7 +555,7 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     2505,
+     2506,
      2604
     ]
    ],
@@ -564,7 +568,8 @@
     "2535": "start",
     "2543": "works",
     "2547": "In",
-    "2597": "happened."
+    "2597": "happened.",
+    "2506": "The fastest"
    },
    "title": "Stop fixing your ads",
    "layout": "crop",
@@ -578,7 +583,8 @@
     "n": 25
    },
    "coverage": 0.904,
-   "read_at": 1333.69
+   "read_at": 1333.69,
+   "locked": true
   },
   {
    "id": "2026-10-16_26",
@@ -834,14 +840,15 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     3578,
+     3579,
      3658
     ]
    ],
    "fixes": {
     "3581": "maker",
     "3601": "hooked",
-    "3616": "shot"
+    "3616": "shot",
+    "3579": "A septic"
    },
    "title": "Show the dirty part",
    "layout": "crop",
@@ -855,7 +862,8 @@
     "n": 34
    },
    "coverage": 0.951,
-   "read_at": 1870.72
+   "read_at": 1870.72,
+   "locked": true
   },
   {
    "id": "2026-10-16_35",
@@ -1016,7 +1024,7 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     4251,
+     4252,
      4259
     ],
     [
@@ -1027,7 +1035,8 @@
    "fixes": {
     "4266": "robocalls.",
     "4277": "calls",
-    "4301": "the"
+    "4301": "the",
+    "4252": "Got a"
    },
    "title": "New number?\nExpect robocalls.",
    "layout": "crop",
@@ -1041,7 +1050,8 @@
     "n": 41
    },
    "coverage": 0.952,
-   "read_at": 2188.13
+   "read_at": 2188.13,
+   "locked": true
   },
   {
    "id": "2026-10-16_42",
@@ -1049,7 +1059,7 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     4378,
+     4379,
      4478
     ]
    ],
@@ -1058,7 +1068,8 @@
     "4417": "quote",
     "4468": "sale",
     "4471": "and",
-    "4472": "they'll"
+    "4472": "they'll",
+    "4379": "The way"
    },
    "title": "Chase the quote\nlike the job",
    "layout": "crop",
@@ -1072,7 +1083,8 @@
     "n": 42
    },
    "coverage": 0.947,
-   "read_at": 2249.84
+   "read_at": 2249.84,
+   "locked": true
   },
   {
    "id": "2026-10-16_43",
@@ -1113,12 +1125,13 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     4629,
+     4630,
      4714
     ]
    ],
    "fixes": {
-    "4662": "those"
+    "4662": "those",
+    "4630": "Is your"
    },
    "title": "Is your sales\nline on a cell?",
    "layout": "crop",
@@ -1132,7 +1145,8 @@
     "n": 44
    },
    "coverage": 0.988,
-   "read_at": 2346.59
+   "read_at": 2346.59,
+   "locked": true
   },
   {
    "id": "2026-10-16_45",
@@ -1469,11 +1483,13 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     5930,
+     5931,
      6027
     ]
    ],
-   "fixes": {},
+   "fixes": {
+    "5931": "Got an"
+   },
    "title": "Read the bottom\nof that email",
    "layout": "crop",
    "crop_x": 0.466,
@@ -1486,7 +1502,8 @@
     "n": 62
    },
    "coverage": 1.0,
-   "read_at": 3067.96
+   "read_at": 3067.96,
+   "locked": true
   },
   {
    "id": "2026-10-16_63",
@@ -1494,12 +1511,13 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     6028,
+     6029,
      6108
     ]
    ],
    "fixes": {
-    "6095": "marketing"
+    "6095": "marketing",
+    "6029": "The best"
    },
    "title": "They asked me\nfor a deadline",
    "layout": "crop",
@@ -1513,7 +1531,8 @@
     "n": 63
    },
    "coverage": 0.976,
-   "read_at": 3103.3
+   "read_at": 3103.3,
+   "locked": true
   },
   {
    "id": "2026-10-16_64",
@@ -1700,13 +1719,14 @@
    "words": "02_audio/words/zoom-164658.json",
    "keep": [
     [
-     6717,
+     6718,
      6805
     ]
    ],
    "fixes": {
     "6766": "Add",
-    "6777": "homepage."
+    "6777": "homepage.",
+    "6718": "Here are"
    },
    "title": "3 questions your\nsite should answer",
    "layout": "crop",
@@ -1720,7 +1740,8 @@
     "n": 73
    },
    "coverage": 0.977,
-   "read_at": 3427.51
+   "read_at": 3427.51,
+   "locked": true
   }
  ]
 }

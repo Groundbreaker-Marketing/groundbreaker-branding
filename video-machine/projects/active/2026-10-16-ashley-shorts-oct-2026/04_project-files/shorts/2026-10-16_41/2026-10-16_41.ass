@@ -13,93 +13,92 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:28.82,Title,,0,0,0,,{\pos(540,360)}New number?\NExpect robocalls.
-Dialogue: 1,0:00:00.00,0:00:01.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}got{\c&H00FFFFFF&} a new
-Dialogue: 1,0:00:01.03,0:00:01.19,Cap,,0,0,0,,{\pos(540,1400)}got {\c&H0060ECCD}a{\c&H00FFFFFF&} new
-Dialogue: 1,0:00:01.19,0:00:01.33,Cap,,0,0,0,,{\pos(540,1400)}got a {\c&H0060ECCD}new{\c&H00FFFFFF&}
-Dialogue: 1,0:00:01.33,0:00:01.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tracking{\c&H00FFFFFF&} number
-Dialogue: 1,0:00:01.69,0:00:02.03,Cap,,0,0,0,,{\pos(540,1400)}tracking {\c&H0060ECCD}number{\c&H00FFFFFF&}
-Dialogue: 1,0:00:02.03,0:00:02.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} a new website
-Dialogue: 1,0:00:02.31,0:00:02.45,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}a{\c&H00FFFFFF&} new website
-Dialogue: 1,0:00:02.45,0:00:02.57,Cap,,0,0,0,,{\pos(540,1400)}or a {\c&H0060ECCD}new{\c&H00FFFFFF&} website
-Dialogue: 1,0:00:02.57,0:00:02.95,Cap,,0,0,0,,{\pos(540,1400)}or a new {\c&H0060ECCD}website{\c&H00FFFFFF&}
-Dialogue: 1,0:00:02.95,0:00:04.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}expect{\c&H00FFFFFF&} robo
-Dialogue: 1,0:00:04.21,0:00:04.67,Cap,,0,0,0,,{\pos(540,1400)}expect {\c&H0060ECCD}robo{\c&H00FFFFFF&}
-Dialogue: 1,0:00:04.67,0:00:05.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}robocalls{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.07,0:00:05.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} see it a
-Dialogue: 1,0:00:05.43,0:00:05.67,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}see{\c&H00FFFFFF&} it a
-Dialogue: 1,0:00:05.67,0:00:05.77,Cap,,0,0,0,,{\pos(540,1400)}we see {\c&H0060ECCD}it{\c&H00FFFFFF&} a
-Dialogue: 1,0:00:05.77,0:00:05.87,Cap,,0,0,0,,{\pos(540,1400)}we see it {\c&H0060ECCD}a{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.87,0:00:06.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lot{\c&H00FFFFFF&} for about six
-Dialogue: 1,0:00:06.11,0:00:06.67,Cap,,0,0,0,,{\pos(540,1400)}lot {\c&H0060ECCD}for{\c&H00FFFFFF&} about six
-Dialogue: 1,0:00:06.67,0:00:06.91,Cap,,0,0,0,,{\pos(540,1400)}lot for {\c&H0060ECCD}about{\c&H00FFFFFF&} six
-Dialogue: 1,0:00:06.91,0:00:07.27,Cap,,0,0,0,,{\pos(540,1400)}lot for about {\c&H0060ECCD}six{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.27,0:00:07.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}weeks{\c&H00FFFFFF&} spam calls
-Dialogue: 1,0:00:07.57,0:00:07.93,Cap,,0,0,0,,{\pos(540,1400)}weeks {\c&H0060ECCD}spam{\c&H00FFFFFF&} calls
-Dialogue: 1,0:00:07.93,0:00:08.23,Cap,,0,0,0,,{\pos(540,1400)}weeks spam {\c&H0060ECCD}calls{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.23,0:00:08.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spike{\c&H00FFFFFF&} on the
-Dialogue: 1,0:00:08.63,0:00:09.01,Cap,,0,0,0,,{\pos(540,1400)}spike {\c&H0060ECCD}on{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:09.01,0:00:09.15,Cap,,0,0,0,,{\pos(540,1400)}spike on {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:09.15,0:00:09.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} profile
-Dialogue: 1,0:00:09.37,0:00:09.85,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}profile{\c&H00FFFFFF&}
-Dialogue: 1,0:00:09.85,0:00:10.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then they
-Dialogue: 1,0:00:10.19,0:00:10.33,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} they
-Dialogue: 1,0:00:10.33,0:00:10.49,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}they{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.49,0:00:10.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drop{\c&H00FFFFFF&} off so we
-Dialogue: 1,0:00:10.75,0:00:11.03,Cap,,0,0,0,,{\pos(540,1400)}drop {\c&H0060ECCD}off{\c&H00FFFFFF&} so we
-Dialogue: 1,0:00:11.03,0:00:11.55,Cap,,0,0,0,,{\pos(540,1400)}drop off {\c&H0060ECCD}so{\c&H00FFFFFF&} we
-Dialogue: 1,0:00:11.55,0:00:11.69,Cap,,0,0,0,,{\pos(540,1400)}drop off so {\c&H0060ECCD}we{\c&H00FFFFFF&}
-Dialogue: 1,0:00:11.69,0:00:11.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}put{\c&H00FFFFFF&} a short
-Dialogue: 1,0:00:11.87,0:00:11.99,Cap,,0,0,0,,{\pos(540,1400)}put {\c&H0060ECCD}a{\c&H00FFFFFF&} short
-Dialogue: 1,0:00:11.99,0:00:12.23,Cap,,0,0,0,,{\pos(540,1400)}put a {\c&H0060ECCD}short{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.23,0:00:12.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}greeting{\c&H00FFFFFF&} on the
-Dialogue: 1,0:00:12.61,0:00:12.81,Cap,,0,0,0,,{\pos(540,1400)}greeting {\c&H0060ECCD}on{\c&H00FFFFFF&} the
-Dialogue: 1,0:00:12.81,0:00:12.93,Cap,,0,0,0,,{\pos(540,1400)}greeting on {\c&H0060ECCD}the{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.93,0:00:13.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}line{\c&H00FFFFFF&} you've
-Dialogue: 1,0:00:13.23,0:00:14.01,Cap,,0,0,0,,{\pos(540,1400)}line {\c&H0060ECCD}you've{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.01,0:00:14.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reached{\c&H00FFFFFF&} such and
-Dialogue: 1,0:00:14.21,0:00:14.45,Cap,,0,0,0,,{\pos(540,1400)}reached {\c&H0060ECCD}such{\c&H00FFFFFF&} and
-Dialogue: 1,0:00:14.45,0:00:14.57,Cap,,0,0,0,,{\pos(540,1400)}reached such {\c&H0060ECCD}and{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.57,0:00:14.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} company press
-Dialogue: 1,0:00:14.75,0:00:15.15,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}company{\c&H00FFFFFF&} press
-Dialogue: 1,0:00:15.15,0:00:15.65,Cap,,0,0,0,,{\pos(540,1400)}the company {\c&H0060ECCD}press{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.65,0:00:15.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} to be
-Dialogue: 1,0:00:15.85,0:00:15.99,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}to{\c&H00FFFFFF&} be
-Dialogue: 1,0:00:15.99,0:00:16.11,Cap,,0,0,0,,{\pos(540,1400)}one to {\c&H0060ECCD}be{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.11,0:00:16.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}connected{\c&H00FFFFFF&} robots
-Dialogue: 1,0:00:16.57,0:00:17.57,Cap,,0,0,0,,{\pos(540,1400)}connected {\c&H0060ECCD}robots{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.57,0:00:17.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} press one
-Dialogue: 1,0:00:17.99,0:00:18.27,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}press{\c&H00FFFFFF&} one
-Dialogue: 1,0:00:18.27,0:00:18.55,Cap,,0,0,0,,{\pos(540,1400)}don't press {\c&H0060ECCD}one{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.55,0:00:18.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} your
-Dialogue: 1,0:00:18.87,0:00:19.01,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}your{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.01,0:00:19.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} do when
-Dialogue: 1,0:00:19.43,0:00:19.73,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}do{\c&H00FFFFFF&} when
-Dialogue: 1,0:00:19.73,0:00:20.43,Cap,,0,0,0,,{\pos(540,1400)}customers do {\c&H0060ECCD}when{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.43,0:00:20.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} wave passes
-Dialogue: 1,0:00:20.55,0:00:20.77,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}wave{\c&H00FFFFFF&} passes
-Dialogue: 1,0:00:20.77,0:00:21.35,Cap,,0,0,0,,{\pos(540,1400)}the wave {\c&H0060ECCD}passes{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.35,0:00:21.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} turn it back
-Dialogue: 1,0:00:21.69,0:00:21.91,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}turn{\c&H00FFFFFF&} it back
-Dialogue: 1,0:00:21.91,0:00:22.03,Cap,,0,0,0,,{\pos(540,1400)}we turn {\c&H0060ECCD}it{\c&H00FFFFFF&} back
-Dialogue: 1,0:00:22.03,0:00:22.21,Cap,,0,0,0,,{\pos(540,1400)}we turn it {\c&H0060ECCD}back{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.21,0:00:22.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}off{\c&H00FFFFFF&} so real
-Dialogue: 1,0:00:22.49,0:00:22.71,Cap,,0,0,0,,{\pos(540,1400)}off {\c&H0060ECCD}so{\c&H00FFFFFF&} real
-Dialogue: 1,0:00:22.71,0:00:23.11,Cap,,0,0,0,,{\pos(540,1400)}off so {\c&H0060ECCD}real{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.11,0:00:23.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}callers{\c&H00FFFFFF&} can get
-Dialogue: 1,0:00:23.67,0:00:23.85,Cap,,0,0,0,,{\pos(540,1400)}callers {\c&H0060ECCD}can{\c&H00FFFFFF&} get
-Dialogue: 1,0:00:23.85,0:00:24.05,Cap,,0,0,0,,{\pos(540,1400)}callers can {\c&H0060ECCD}get{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.05,0:00:24.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}through{\c&H00FFFFFF&} if your
-Dialogue: 1,0:00:24.33,0:00:25.05,Cap,,0,0,0,,{\pos(540,1400)}through {\c&H0060ECCD}if{\c&H00FFFFFF&} your
-Dialogue: 1,0:00:25.05,0:00:25.19,Cap,,0,0,0,,{\pos(540,1400)}through if {\c&H0060ECCD}your{\c&H00FFFFFF&}
-Dialogue: 1,0:00:25.19,0:00:25.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&} suddenly
-Dialogue: 1,0:00:25.59,0:00:26.07,Cap,,0,0,0,,{\pos(540,1400)}phone {\c&H0060ECCD}suddenly{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.07,0:00:26.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fills{\c&H00FFFFFF&} with junk
-Dialogue: 1,0:00:26.35,0:00:26.55,Cap,,0,0,0,,{\pos(540,1400)}fills {\c&H0060ECCD}with{\c&H00FFFFFF&} junk
-Dialogue: 1,0:00:26.55,0:00:26.77,Cap,,0,0,0,,{\pos(540,1400)}fills with {\c&H0060ECCD}junk{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.77,0:00:27.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} panic it's
-Dialogue: 1,0:00:27.13,0:00:27.59,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}panic{\c&H00FFFFFF&} it's
-Dialogue: 1,0:00:27.59,0:00:27.91,Cap,,0,0,0,,{\pos(540,1400)}don't panic {\c&H0060ECCD}it's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:27.91,0:00:28.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} just
-Dialogue: 1,0:00:28.19,0:00:28.39,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}just{\c&H00FFFFFF&}
-Dialogue: 1,0:00:28.39,0:00:28.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}temporary{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:27.92,Title,,0,0,0,,{\pos(540,360)}New number?\NExpect robocalls.
+Dialogue: 1,0:00:00.12,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Got a{\c&H00FFFFFF&} new
+Dialogue: 1,0:00:00.28,0:00:00.42,Cap,,0,0,0,,{\pos(540,1400)}Got a {\c&H0060ECCD}new{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.42,0:00:00.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tracking{\c&H00FFFFFF&} number
+Dialogue: 1,0:00:00.78,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}tracking {\c&H0060ECCD}number{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.12,0:00:01.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} a new website
+Dialogue: 1,0:00:01.40,0:00:01.54,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}a{\c&H00FFFFFF&} new website
+Dialogue: 1,0:00:01.54,0:00:01.66,Cap,,0,0,0,,{\pos(540,1400)}or a {\c&H0060ECCD}new{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:01.66,0:00:02.04,Cap,,0,0,0,,{\pos(540,1400)}or a new {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.04,0:00:03.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}expect{\c&H00FFFFFF&} robo
+Dialogue: 1,0:00:03.30,0:00:03.76,Cap,,0,0,0,,{\pos(540,1400)}expect {\c&H0060ECCD}robo{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.76,0:00:04.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}robocalls{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.16,0:00:04.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} see it a
+Dialogue: 1,0:00:04.52,0:00:04.76,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}see{\c&H00FFFFFF&} it a
+Dialogue: 1,0:00:04.76,0:00:04.86,Cap,,0,0,0,,{\pos(540,1400)}we see {\c&H0060ECCD}it{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:04.86,0:00:04.96,Cap,,0,0,0,,{\pos(540,1400)}we see it {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.96,0:00:05.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lot{\c&H00FFFFFF&} for about six
+Dialogue: 1,0:00:05.20,0:00:05.76,Cap,,0,0,0,,{\pos(540,1400)}lot {\c&H0060ECCD}for{\c&H00FFFFFF&} about six
+Dialogue: 1,0:00:05.76,0:00:06.00,Cap,,0,0,0,,{\pos(540,1400)}lot for {\c&H0060ECCD}about{\c&H00FFFFFF&} six
+Dialogue: 1,0:00:06.00,0:00:06.36,Cap,,0,0,0,,{\pos(540,1400)}lot for about {\c&H0060ECCD}six{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.36,0:00:06.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}weeks{\c&H00FFFFFF&} spam calls
+Dialogue: 1,0:00:06.66,0:00:07.02,Cap,,0,0,0,,{\pos(540,1400)}weeks {\c&H0060ECCD}spam{\c&H00FFFFFF&} calls
+Dialogue: 1,0:00:07.02,0:00:07.32,Cap,,0,0,0,,{\pos(540,1400)}weeks spam {\c&H0060ECCD}calls{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.32,0:00:07.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spike{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:07.72,0:00:08.10,Cap,,0,0,0,,{\pos(540,1400)}spike {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:08.10,0:00:08.24,Cap,,0,0,0,,{\pos(540,1400)}spike on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.24,0:00:08.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} profile
+Dialogue: 1,0:00:08.46,0:00:08.94,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}profile{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.94,0:00:09.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then they
+Dialogue: 1,0:00:09.28,0:00:09.42,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:09.42,0:00:09.58,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.58,0:00:09.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drop{\c&H00FFFFFF&} off so we
+Dialogue: 1,0:00:09.84,0:00:10.12,Cap,,0,0,0,,{\pos(540,1400)}drop {\c&H0060ECCD}off{\c&H00FFFFFF&} so we
+Dialogue: 1,0:00:10.12,0:00:10.64,Cap,,0,0,0,,{\pos(540,1400)}drop off {\c&H0060ECCD}so{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:10.64,0:00:10.78,Cap,,0,0,0,,{\pos(540,1400)}drop off so {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.78,0:00:10.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}put{\c&H00FFFFFF&} a short
+Dialogue: 1,0:00:10.96,0:00:11.08,Cap,,0,0,0,,{\pos(540,1400)}put {\c&H0060ECCD}a{\c&H00FFFFFF&} short
+Dialogue: 1,0:00:11.08,0:00:11.32,Cap,,0,0,0,,{\pos(540,1400)}put a {\c&H0060ECCD}short{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.32,0:00:11.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}greeting{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:11.70,0:00:11.90,Cap,,0,0,0,,{\pos(540,1400)}greeting {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:11.90,0:00:12.02,Cap,,0,0,0,,{\pos(540,1400)}greeting on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.02,0:00:12.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}line{\c&H00FFFFFF&} you've
+Dialogue: 1,0:00:12.32,0:00:13.10,Cap,,0,0,0,,{\pos(540,1400)}line {\c&H0060ECCD}you've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.10,0:00:13.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reached{\c&H00FFFFFF&} such and
+Dialogue: 1,0:00:13.30,0:00:13.54,Cap,,0,0,0,,{\pos(540,1400)}reached {\c&H0060ECCD}such{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:13.54,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}reached such {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.66,0:00:13.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} company press
+Dialogue: 1,0:00:13.84,0:00:14.24,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}company{\c&H00FFFFFF&} press
+Dialogue: 1,0:00:14.24,0:00:14.74,Cap,,0,0,0,,{\pos(540,1400)}the company {\c&H0060ECCD}press{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.74,0:00:14.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} to be
+Dialogue: 1,0:00:14.94,0:00:15.08,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}to{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:15.08,0:00:15.20,Cap,,0,0,0,,{\pos(540,1400)}one to {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.20,0:00:15.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}connected{\c&H00FFFFFF&} robots
+Dialogue: 1,0:00:15.66,0:00:16.66,Cap,,0,0,0,,{\pos(540,1400)}connected {\c&H0060ECCD}robots{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.66,0:00:17.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} press one
+Dialogue: 1,0:00:17.08,0:00:17.36,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}press{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:17.36,0:00:17.64,Cap,,0,0,0,,{\pos(540,1400)}don't press {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.64,0:00:17.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:17.96,0:00:18.10,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.10,0:00:18.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} do when
+Dialogue: 1,0:00:18.52,0:00:18.82,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}do{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:18.82,0:00:19.52,Cap,,0,0,0,,{\pos(540,1400)}customers do {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.52,0:00:19.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} wave passes
+Dialogue: 1,0:00:19.64,0:00:19.86,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}wave{\c&H00FFFFFF&} passes
+Dialogue: 1,0:00:19.86,0:00:20.44,Cap,,0,0,0,,{\pos(540,1400)}the wave {\c&H0060ECCD}passes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.44,0:00:20.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} turn it back
+Dialogue: 1,0:00:20.78,0:00:21.00,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}turn{\c&H00FFFFFF&} it back
+Dialogue: 1,0:00:21.00,0:00:21.12,Cap,,0,0,0,,{\pos(540,1400)}we turn {\c&H0060ECCD}it{\c&H00FFFFFF&} back
+Dialogue: 1,0:00:21.12,0:00:21.30,Cap,,0,0,0,,{\pos(540,1400)}we turn it {\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.30,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}off{\c&H00FFFFFF&} so real
+Dialogue: 1,0:00:21.58,0:00:21.80,Cap,,0,0,0,,{\pos(540,1400)}off {\c&H0060ECCD}so{\c&H00FFFFFF&} real
+Dialogue: 1,0:00:21.80,0:00:22.20,Cap,,0,0,0,,{\pos(540,1400)}off so {\c&H0060ECCD}real{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.20,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}callers{\c&H00FFFFFF&} can get
+Dialogue: 1,0:00:22.76,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}callers {\c&H0060ECCD}can{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:22.94,0:00:23.14,Cap,,0,0,0,,{\pos(540,1400)}callers can {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.14,0:00:23.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}through{\c&H00FFFFFF&} if your
+Dialogue: 1,0:00:23.42,0:00:24.14,Cap,,0,0,0,,{\pos(540,1400)}through {\c&H0060ECCD}if{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:24.14,0:00:24.28,Cap,,0,0,0,,{\pos(540,1400)}through if {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.28,0:00:24.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&} suddenly
+Dialogue: 1,0:00:24.68,0:00:25.16,Cap,,0,0,0,,{\pos(540,1400)}phone {\c&H0060ECCD}suddenly{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.16,0:00:25.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fills{\c&H00FFFFFF&} with junk
+Dialogue: 1,0:00:25.44,0:00:25.64,Cap,,0,0,0,,{\pos(540,1400)}fills {\c&H0060ECCD}with{\c&H00FFFFFF&} junk
+Dialogue: 1,0:00:25.64,0:00:25.86,Cap,,0,0,0,,{\pos(540,1400)}fills with {\c&H0060ECCD}junk{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.86,0:00:26.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} panic it's
+Dialogue: 1,0:00:26.22,0:00:26.68,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}panic{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:26.68,0:00:27.00,Cap,,0,0,0,,{\pos(540,1400)}don't panic {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.00,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:27.28,0:00:27.48,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.48,0:00:28.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}temporary{\c&H00FFFFFF&}
