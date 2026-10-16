@@ -1,0 +1,1726 @@
+{
+ "fillers": true,
+ "clips": [
+  {
+   "id": "2026-10-16_01",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     85,
+     146
+    ],
+    [
+     153,
+     178
+    ],
+    [
+     185,
+     201
+    ]
+   ],
+   "fixes": {
+    "86": "1:30",
+    "87": "",
+    "130": "Ads",
+    "154": "$1,690",
+    "155": "",
+    "157": "",
+    "158": "since",
+    "159": "August.",
+    "160": "And",
+    "185": "charges",
+    "186": "you",
+    "187": "don't",
+    "188": "recognize."
+   },
+   "title": "A 1:30 AM call\nfrom Tennessee",
+   "layout": "crop",
+   "crop_x": 0.466,
+   "youtube": {
+    "title": "A 1:30 AM call exposed a Google Ads account nobody knew about",
+    "description": "A late-night call from out of state led us to a second Google Ads account running banner ads for a septic company. Here's how to check your own card statement for one.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The 1:30 AM call from Tennessee",
+    "n": 1
+   },
+   "coverage": 0.882,
+   "read_at": 85.45
+  },
+  {
+   "id": "2026-10-16_02",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     202,
+     292
+    ]
+   ],
+   "fixes": {},
+   "title": "My calls stopped.\nWas it you?",
+   "layout": "crop",
+   "crop_x": 0.464,
+   "youtube": {
+    "title": "My calls stopped. Did my marketing company break something?",
+    "description": "A septic owner thought our changes killed their calls. The call count told a different story. Here's how to read week-to-week swings.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Did your changes kill my calls?",
+    "n": 2
+   },
+   "coverage": 0.989,
+   "read_at": 149.48
+  },
+  {
+   "id": "2026-10-16_03",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     464,
+     469
+    ],
+    [
+     471,
+     558
+    ]
+   ],
+   "fixes": {},
+   "title": "\"How did you\nhear about us?\"",
+   "layout": "crop",
+   "crop_x": 0.478,
+   "youtube": {
+    "title": "\"How did you hear about us?\" isn't telling you the truth",
+    "description": "A client's own tracking sheet credited Instagram with half their bookings. Click tracking found 5. Why both numbers are true, and which one to spend on.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "How did you hear about us?",
+    "n": 3
+   },
+   "coverage": 1.0,
+   "read_at": 290.7
+  },
+  {
+   "id": "2026-10-16_04",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     652,
+     741
+    ]
+   ],
+   "fixes": {
+    "660": "Services",
+    "666": "L.",
+    "667": "L.",
+    "668": "C.",
+    "730": "your"
+   },
+   "title": "3 letters. 2 months.\nNo LSA.",
+   "layout": "crop",
+   "crop_x": 0.48,
+   "youtube": {
+    "title": "Why Google kept rejecting this septic company's LSA license",
+    "description": "Two months of Local Services Ads rejections came down to three letters. If your verification is stuck, check this first.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "3 letters, 2 months, no LSA",
+    "n": 4
+   },
+   "coverage": 0.933,
+   "read_at": 380.31,
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_05",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     742,
+     848
+    ]
+   ],
+   "fixes": {
+    "783": "how-to",
+    "784": "",
+    "803": "145.",
+    "804": "",
+    "806": "",
+    "807": "",
+    "845": "you'd"
+   },
+   "title": "A page for every town?",
+   "layout": "crop",
+   "crop_x": 0.481,
+   "youtube": {
+    "title": "Should a septic company build a page for every town?",
+    "description": "One East Texas septic company added town pages and homeowner guides. Here's what happened to their Google clicks and calls, and the one rule for doing it.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Should every town get its own page?",
+    "n": 5
+   },
+   "coverage": 0.962,
+   "read_at": 415.69
+  },
+  {
+   "id": "2026-10-16_06",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     849,
+     941
+    ]
+   ],
+   "fixes": {
+    "885": "great.",
+    "903": "pump-out",
+    "904": ""
+   },
+   "title": "Install ads: the\nreal cost per call",
+   "layout": "crop",
+   "crop_x": 0.48,
+   "youtube": {
+    "title": "What a septic install call really costs from Google Ads",
+    "description": "Install ads looked like $73 a call until we read the calls. Here's the real cost per install call and how to budget for it.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Install calls cost twice what you think",
+    "n": 6
+   },
+   "coverage": 0.979,
+   "read_at": 457.61
+  },
+  {
+   "id": "2026-10-16_08",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     955,
+     1045
+    ]
+   ],
+   "fixes": {
+    "1035": "accounts"
+   },
+   "title": "Who OWNS your\nGoogle accounts?",
+   "layout": "crop",
+   "crop_x": 0.477,
+   "youtube": {
+    "title": "Ask this before you hire any marketing company",
+    "description": "One septic company's search history was locked in someone else's account. Another's ads ran under the old agency's name. The one question to ask before you sign.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Who owns your Google accounts?",
+    "n": 8
+   },
+   "coverage": 0.989,
+   "read_at": 528.48
+  },
+  {
+   "id": "2026-10-16_09",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1046,
+     1146
+    ]
+   ],
+   "fixes": {
+    "1047": "pump-outs",
+    "1048": "",
+    "1074": "pump-out",
+    "1075": "",
+    "1095": "26%",
+    "1096": ""
+   },
+   "title": "78 pump-outs.\nZero ads.",
+   "layout": "crop",
+   "crop_x": 0.479,
+   "youtube": {
+    "title": "This septic company booked 78 pump-outs by just calling customers",
+    "description": "Customers who ignored the reminder texts said yes on the phone. What one septic company learned from three weeks of outbound calls.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "78 pump-outs from phone calls",
+    "n": 9
+   },
+   "coverage": 1.0,
+   "read_at": 566.12
+  },
+  {
+   "id": "2026-10-16_10",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1147,
+     1241
+    ]
+   ],
+   "fixes": {
+    "1161": "1,",
+    "1166": "Ads",
+    "1209": "in",
+    "1216": "someone",
+    "1236": "90%"
+   },
+   "title": "Missed LSA calls\ncan cost you now",
+   "layout": "crop",
+   "crop_x": 0.475,
+   "youtube": {
+    "title": "Google Local Services Ads now charges for missed calls",
+    "description": "An unanswered LSA call can now be billed as a lead. Two settings to check this week so a missed call doesn't cost you twice.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Google can bill you for missed calls",
+    "n": 10
+   },
+   "coverage": 0.945,
+   "read_at": 601.71
+  },
+  {
+   "id": "2026-10-16_12",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1280,
+     1377
+    ]
+   ],
+   "fixes": {
+    "1300": "Risers"
+   },
+   "title": "Google invented\na FREE offer",
+   "layout": "crop",
+   "crop_x": 0.483,
+   "youtube": {
+    "title": "Google put a FREE offer on this septic company's profile",
+    "description": "Nobody created it. Google wrote it from an old website FAQ and added the word free. What that means for every word on your website.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Google made up a free offer",
+    "n": 12
+   },
+   "coverage": 0.989,
+   "read_at": 658.98
+  },
+  {
+   "id": "2026-10-16_13",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1410,
+     1484
+    ],
+    [
+     1491,
+     1505
+    ]
+   ],
+   "fixes": {
+    "1467": "a"
+   },
+   "title": "\"It can't be this\neasy, can it?\"",
+   "layout": "crop",
+   "crop_x": 0.473,
+   "youtube": {
+    "title": "Office managers: changing your website should take one text",
+    "description": "An office manager couldn't believe website edits were this easy. They should be. What to expect from whoever manages your site.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Can I make edits myself?",
+    "n": 13
+   },
+   "coverage": 0.989,
+   "read_at": 718.52
+  },
+  {
+   "id": "2026-10-16_15",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1566,
+     1664
+    ]
+   ],
+   "fixes": {
+    "1597": "go"
+   },
+   "title": "\"Facebook doesn't\nwork for me\"",
+   "layout": "crop",
+   "crop_x": 0.461,
+   "youtube": {
+    "title": "\"Facebook doesn't work for my business.\" Here's why it feels that way",
+    "description": "Google leads go looking for you. Facebook leads get interrupted. How to work Facebook leads so you can judge them fairly.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Facebook doesn't work for my business",
+    "n": 15
+   },
+   "coverage": 0.978,
+   "read_at": 790.34
+  },
+  {
+   "id": "2026-10-16_16",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1665,
+     1765
+    ]
+   ],
+   "fixes": {
+    "1724": "That",
+    "1758": "know-how",
+    "1759": ""
+   },
+   "title": "AI got 2 septic\nwebsites wrong",
+   "layout": "crop",
+   "crop_x": 0.465,
+   "youtube": {
+    "title": "AI wrote 2 septic websites. The owners caught the mistakes",
+    "description": "AI drafts fast, but it doesn't know your trade. Two owners caught errors on their new sites, and why that review step matters.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "AI wrote that septic tanks have alarms",
+    "n": 16
+   },
+   "coverage": 0.99,
+   "read_at": 990.29
+  },
+  {
+   "id": "2026-10-16_17",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1766,
+     1860
+    ]
+   ],
+   "fixes": {},
+   "title": "The line the owner\nhad me delete",
+   "layout": "crop",
+   "crop_x": 0.478,
+   "youtube": {
+    "title": "Why this septic company refuses to replace baffle walls",
+    "description": "A septic owner struck a service off their own website and explained why. That explanation builds more trust than any slogan.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Why they won't replace a baffle wall",
+    "n": 17
+   },
+   "coverage": 1.0,
+   "read_at": 1029.04
+  },
+  {
+   "id": "2026-10-16_18",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     1861,
+     1949
+    ]
+   ],
+   "fixes": {
+    "1894": "the",
+    "1902": "Services",
+    "1932": "used"
+   },
+   "title": "Your name,\n5 different ways",
+   "layout": "crop",
+   "crop_x": 0.484,
+   "youtube": {
+    "title": "Your business name is spelled 5 ways online. Fix it",
+    "description": "Nine phone numbers, five names, an LSA delay and an AI mix-up, all from listings that don't match. Pick one of each and make them match.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Your name is spelled 5 ways",
+    "n": 18
+   },
+   "coverage": 0.966,
+   "read_at": 1062.55,
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_19",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2047,
+     2146
+    ]
+   ],
+   "fixes": {
+    "2062": "me?",
+    "2096": "listings",
+    "2106": "list"
+   },
+   "title": "More directories\nfor AI? No.",
+   "layout": "crop",
+   "crop_x": 0.479,
+   "youtube": {
+    "title": "Do you need more directory listings to show up in AI?",
+    "description": "A client thought AI search meant signing up for more directories. Here's where AI actually looked, and what to fix first.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Do I need more directories for AI?",
+    "n": 19
+   },
+   "coverage": 0.969,
+   "read_at": 1147.11
+  },
+  {
+   "id": "2026-10-16_21",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2277,
+     2371
+    ]
+   ],
+   "fixes": {
+    "2297": "about",
+    "2298": "$4,200",
+    "2299": "",
+    "2300": "",
+    "2319": "Services",
+    "2330": "searched"
+   },
+   "title": "Paying for people\nwho know you",
+   "layout": "crop",
+   "crop_x": 0.482,
+   "youtube": {
+    "title": "Are you paying Google for people who already know your name?",
+    "description": "One company spent thousands on searches for its own name. How a small brand campaign and a blocked keyword stop paying for customers you already won.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "You're paying for your own name",
+    "n": 21
+   },
+   "coverage": 0.945,
+   "read_at": 1241.6
+  },
+  {
+   "id": "2026-10-16_22",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2372,
+     2455
+    ]
+   ],
+   "fixes": {
+    "2382": "An",
+    "2396": "some",
+    "2406": "I'd"
+   },
+   "title": "Burned by an\nagency before?",
+   "layout": "crop",
+   "crop_x": 0.485,
+   "youtube": {
+    "title": "Burned by a marketing company before? Ask these 3 questions",
+    "description": "A septic owner told me they'd been burned too many times. The three questions I'd ask any marketing company before signing, including mine.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "\"I've been burned before\"",
+    "n": 22
+   },
+   "coverage": 0.963,
+   "read_at": 1285.39
+  },
+  {
+   "id": "2026-10-16_25",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2505,
+     2604
+    ]
+   ],
+   "fixes": {
+    "2511": "an",
+    "2525": "lead",
+    "2526": "form",
+    "2533": "makes",
+    "2534": "Facebook",
+    "2535": "start",
+    "2543": "works",
+    "2547": "In",
+    "2597": "happened."
+   },
+   "title": "Stop fixing your ads",
+   "layout": "crop",
+   "crop_x": 0.482,
+   "youtube": {
+    "title": "The fastest way to break your ad account",
+    "description": "Every tweak restarts the learning. Why we batch changes and leave winning keywords alone.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Stop touching your ads",
+    "n": 25
+   },
+   "coverage": 0.904,
+   "read_at": 1333.69
+  },
+  {
+   "id": "2026-10-16_26",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2616,
+     2693
+    ]
+   ],
+   "fixes": {
+    "2620": "pump-out.",
+    "2621": ""
+   },
+   "title": "Your customers\ndon't say \"pump-out\"",
+   "layout": "crop",
+   "crop_x": 0.48,
+   "youtube": {
+    "title": "Your septic customers don't talk like you do",
+    "description": "Homeowners call pumping a drain and just found their tanks. Using their words on your website and ads gets you found by the people searching.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Homeowners don't say pump-out",
+    "n": 26
+   },
+   "coverage": 0.987,
+   "read_at": 1384.52
+  },
+  {
+   "id": "2026-10-16_27",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2694,
+     2794
+    ]
+   ],
+   "fixes": {
+    "2707": "your",
+    "2708": "yard.",
+    "2719": "pump-outs",
+    "2720": "",
+    "2724": "4.7,",
+    "2725": "",
+    "2736": "Services",
+    "2751": "We"
+   },
+   "title": "8 pumps a day, not 4.7",
+   "layout": "crop",
+   "crop_x": 0.489,
+   "youtube": {
+    "title": "Why a smaller service area can make a septic company more money",
+    "description": "Trucks driving 30 minutes between stops kill your margin. How to draw your ad map around profit instead of everywhere you'd go.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The cheapest call is closest to your yard",
+    "n": 27
+   },
+   "coverage": 0.96,
+   "read_at": 1423.45
+  },
+  {
+   "id": "2026-10-16_28",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2795,
+     2875
+    ]
+   ],
+   "fixes": {
+    "2842": "one-sheet,",
+    "2843": ""
+   },
+   "title": "Do service plans\nactually sell?",
+   "layout": "crop",
+   "crop_x": 0.478,
+   "youtube": {
+    "title": "Do septic service agreements actually sell?",
+    "description": "The biggest septic companies push proactive service plans. Three tiers, a printed one-sheet, and every tech offering it.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Do service agreements actually sell?",
+    "n": 28
+   },
+   "coverage": 0.987,
+   "read_at": 1464.48
+  },
+  {
+   "id": "2026-10-16_29",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     2876,
+     2953
+    ]
+   ],
+   "fixes": {},
+   "title": "Google's lead\ncount vs. yours",
+   "layout": "crop",
+   "crop_x": 0.481,
+   "youtube": {
+    "title": "Google says 27 leads. We counted 19. Who's right?",
+    "description": "Google counts actions, not people. Why its conversion count can be too high or too low, and the lead count to trust instead.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Google's number isn't your number",
+    "n": 29
+   },
+   "coverage": 1.0,
+   "read_at": 1495.94
+  },
+  {
+   "id": "2026-10-16_30",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3020,
+     3110
+    ]
+   ],
+   "fixes": {
+    "3023": "company's",
+    "3024": "leader",
+    "3037": "listen",
+    "3043": "research",
+    "3048": "reach",
+    "3105": "That's",
+    "3107": "this"
+   },
+   "title": "\"I listen. I research.\nI call.\"",
+   "layout": "crop",
+   "crop_x": 0.485,
+   "youtube": {
+    "title": "How a septic company decided who to hire before ever picking up the phone",
+    "description": "A prospect listened, researched, then reached out already trusting us. What that means for septic owners making their own videos.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "How one prospect picks a marketing company",
+    "n": 30
+   },
+   "coverage": 0.907,
+   "read_at": 1574.61,
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_31",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3116,
+     3209
+    ]
+   ],
+   "fixes": {
+    "3121": "Services",
+    "3123": "cares",
+    "3143": "89%",
+    "3168": "1,200,"
+   },
+   "title": "2 things\nLSA cares about",
+   "layout": "crop",
+   "crop_x": 0.484,
+   "youtube": {
+    "title": "What Google Local Services Ads cares about most",
+    "description": "Reviews and answered calls drive Local Services Ads. Where most septic companies stand, and the company with over 1,200 reviews.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Reviews first, then the phone",
+    "n": 31
+   },
+   "coverage": 0.938,
+   "read_at": 1669.33,
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_32",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3292,
+     3381
+    ],
+    [
+     3387,
+     3404
+    ]
+   ],
+   "fixes": {
+    "3317": "drives",
+    "3319": "to",
+    "3326": "the",
+    "3328": "that's",
+    "3353": "home",
+    "3354": "builder",
+    "3360": "it"
+   },
+   "title": "Your most expensive\nfree service",
+   "layout": "crop",
+   "crop_x": 0.483,
+   "youtube": {
+    "title": "Free septic install quotes are costing you more than you think",
+    "description": "Driving out for a quote you don't win costs half a day. How one septic office and one builder protect their time.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Free install quotes are costing you",
+    "n": 32
+   },
+   "coverage": 0.909,
+   "read_at": 1750.48
+  },
+  {
+   "id": "2026-10-16_33",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3485,
+     3504
+    ],
+    [
+     3511,
+     3577
+    ]
+   ],
+   "fixes": {
+    "3550": "the"
+   },
+   "title": "Your best photo\ngets buried",
+   "layout": "crop",
+   "crop_x": 0.486,
+   "youtube": {
+    "title": "Septic owners: take this photo before you backfill",
+    "description": "Your best job photo disappears the moment you cover it. Three photos to take on every install.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Take the photo before you backfill",
+    "n": 33
+   },
+   "coverage": 0.988,
+   "read_at": 1840.66
+  },
+  {
+   "id": "2026-10-16_34",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3578,
+     3658
+    ]
+   ],
+   "fixes": {
+    "3581": "maker",
+    "3601": "hooked",
+    "3616": "shot"
+   },
+   "title": "Show the dirty part",
+   "layout": "crop",
+   "crop_x": 0.498,
+   "youtube": {
+    "title": "Show the dirty part: what makes a septic ad work",
+    "description": "An equipment maker told us to cut the pretty shots and show the truck dumping. Why the real work sells better.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Show the truck dumping",
+    "n": 34
+   },
+   "coverage": 0.951,
+   "read_at": 1870.72
+  },
+  {
+   "id": "2026-10-16_35",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3707,
+     3716
+    ],
+    [
+     3721,
+     3782
+    ]
+   ],
+   "fixes": {
+    "3746": "One",
+    "3769": "shots",
+    "3776": "beat-up",
+    "3777": ""
+   },
+   "title": "Do you need a\nvideographer?",
+   "layout": "crop",
+   "crop_x": 0.481,
+   "youtube": {
+    "title": "Do you need a videographer to make ads for your business?",
+    "description": "Our best ads this month came from phone videos and raw clips. What to send instead of waiting for a pro shoot.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Do I need a videographer?",
+    "n": 35
+   },
+   "coverage": 0.758,
+   "read_at": 1931.89
+  },
+  {
+   "id": "2026-10-16_37",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3827,
+     3836
+    ],
+    [
+     3841,
+     3914
+    ]
+   ],
+   "fixes": {
+    "3832": "I"
+   },
+   "title": "\"My nephew does\nmy marketing\"",
+   "layout": "crop",
+   "crop_x": 0.477,
+   "youtube": {
+    "title": "\"My nephew does my marketing.\" Here's the problem",
+    "description": "A founder's nephew said Meta hates words. Views aren't sales. Why building a website and selling with ads are different jobs.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "\"My nephew does my marketing\"",
+    "n": 37
+   },
+   "coverage": 0.975,
+   "read_at": 2002.34,
+   "dropped": "Ashley on camera: \"I don't love that one. Don't use it.\"",
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_38",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     3923,
+     4010
+    ]
+   ],
+   "fixes": {
+    "3929": "it'll",
+    "3955": "That's",
+    "3968": "business"
+   },
+   "title": "\"Looks like the\nmarketing is working\"",
+   "layout": "crop",
+   "crop_x": 0.482,
+   "youtube": {
+    "title": "When your septic marketing works too well",
+    "description": "One owner was too busy to take a call because the marketing worked. Why your ad budget should follow your hiring, not the other way around.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "When your marketing works too well",
+    "n": 38
+   },
+   "coverage": 0.963,
+   "read_at": 2038.94
+  },
+  {
+   "id": "2026-10-16_39",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4011,
+     4101
+    ]
+   ],
+   "fixes": {
+    "4049": "great",
+    "4063": "who'll"
+   },
+   "title": "Your hiring ad\nis missing this",
+   "layout": "crop",
+   "crop_x": 0.483,
+   "youtube": {
+    "title": "What to put in a septic hiring ad so the right people apply",
+    "description": "Most hiring ads skip what applicants want to know. Uniforms, nicotine policy, benefits and what a great job looks like.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "What to put in a septic hiring ad",
+    "n": 39
+   },
+   "coverage": 0.945,
+   "read_at": 2068.16
+  },
+  {
+   "id": "2026-10-16_40",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4106,
+     4173
+    ]
+   ],
+   "fixes": {
+    "4132": "last"
+   },
+   "title": "\"Searches down\n35%\" Relax.",
+   "layout": "crop",
+   "crop_x": 0.483,
+   "youtube": {
+    "title": "Google says your searches dropped 35%. Don't panic yet",
+    "description": "Google's monthly email made a great month look bad. How to read it against last year, and why a 35% drop can mean one search term.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Google said my searches dropped 35%",
+    "n": 40
+   },
+   "coverage": 0.782,
+   "read_at": 2120.22,
+   "dropped": "held for accuracy: the read says septic client, but the story is an HVAC client",
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_41",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4251,
+     4259
+    ],
+    [
+     4264,
+     4343
+    ]
+   ],
+   "fixes": {
+    "4266": "robocalls.",
+    "4277": "calls",
+    "4301": "the"
+   },
+   "title": "New number?\nExpect robocalls.",
+   "layout": "crop",
+   "crop_x": 0.481,
+   "youtube": {
+    "title": "Why septic companies get robocalls after a new website",
+    "description": "Spam calls spike for about six weeks after a new number or website. The simple greeting that filters them out.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The robocall wave",
+    "n": 41
+   },
+   "coverage": 0.952,
+   "read_at": 2188.13
+  },
+  {
+   "id": "2026-10-16_42",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4378,
+     4478
+    ]
+   ],
+   "fixes": {
+    "4408": "send.",
+    "4417": "quote",
+    "4468": "sale",
+    "4471": "and",
+    "4472": "they'll"
+   },
+   "title": "Chase the quote\nlike the job",
+   "layout": "crop",
+   "crop_x": 0.486,
+   "youtube": {
+    "title": "How you follow up on a quote is how customers expect you'll work",
+    "description": "Dozens of quotes out and nobody calling back. The follow-up routine that closes more, and what it tells the customer about you.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Follow-up is a preview of the job",
+    "n": 42
+   },
+   "coverage": 0.947,
+   "read_at": 2249.84
+  },
+  {
+   "id": "2026-10-16_43",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4479,
+     4490
+    ],
+    [
+     4495,
+     4576
+    ]
+   ],
+   "fixes": {
+    "4495": "week?",
+    "4573": "state's",
+    "4574": "onsite"
+   },
+   "title": "Blogging didn't\nwork. This did.",
+   "layout": "crop",
+   "crop_x": 0.477,
+   "youtube": {
+    "title": "What actually improved our clients' SEO this year",
+    "description": "Paid backlinks faded and new blog posts got almost no traffic. Fixing the pages already on page two of Google is what worked.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "What actually moved SEO this year",
+    "n": 43
+   },
+   "coverage": 0.967,
+   "read_at": 2287.58
+  },
+  {
+   "id": "2026-10-16_44",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4629,
+     4714
+    ]
+   ],
+   "fixes": {
+    "4662": "those"
+   },
+   "title": "Is your sales\nline on a cell?",
+   "layout": "crop",
+   "crop_x": 0.478,
+   "youtube": {
+    "title": "Is your sales line forwarded to someone's cell phone?",
+    "description": "One client's sales calls weren't recorded at all. Why every sales call should come from the business line.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Is your sales line on someone's cell?",
+    "n": 44
+   },
+   "coverage": 0.988,
+   "read_at": 2346.59
+  },
+  {
+   "id": "2026-10-16_45",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4720,
+     4806
+    ]
+   ],
+   "fixes": {
+    "4723": "a",
+    "4724": "contractor's",
+    "4740": "product.",
+    "4761": "trusts",
+    "4762": "neither."
+   },
+   "title": "Same question.\n3 answers.",
+   "layout": "crop",
+   "crop_x": 0.481,
+   "youtube": {
+    "title": "Your team gives customers different answers. Here's the fix",
+    "description": "Reading a contractor's sales calls turned up three answers to one question. How to write down your answers so everyone gives the same one.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "3 answers to the same question",
+    "n": 45
+   },
+   "coverage": 0.939,
+   "read_at": 2394.67
+  },
+  {
+   "id": "2026-10-16_49",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4869,
+     4966
+    ]
+   ],
+   "fixes": {},
+   "title": "Search your name.\nFrom your phone.",
+   "layout": "crop",
+   "crop_x": 0.476,
+   "youtube": {
+    "title": "Search your septic company's name. Who shows up first?",
+    "description": "For one septic company, three competitor ads showed above their own listing on their own name. The two-minute check and the cheap fix.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Search your own name on your phone",
+    "n": 49
+   },
+   "coverage": 0.99,
+   "read_at": 2498.02
+  },
+  {
+   "id": "2026-10-16_50",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     4967,
+     5051
+    ],
+    [
+     5057,
+     5066
+    ]
+   ],
+   "fixes": {
+    "4994": "7:30",
+    "4995": "",
+    "5000": "7:30",
+    "5001": "",
+    "5005": "Backup",
+    "5009": "AM?",
+    "5049": "3",
+    "5050": "that"
+   },
+   "title": "No call button at 6 AM",
+   "layout": "crop",
+   "crop_x": 0.472,
+   "youtube": {
+    "title": "3 Google Ads settings that cost septic companies calls",
+    "description": "A call button that went to sleep at 7:30, an address that sent clicks to the map, and competitor names eating budget. All fixed in a week.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Your call button goes to sleep at 7:30",
+    "n": 50
+   },
+   "coverage": 0.956,
+   "read_at": 2532.09
+  },
+  {
+   "id": "2026-10-16_51",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5067,
+     5155
+    ]
+   ],
+   "fixes": {
+    "5070": "Services",
+    "5071": "Ads",
+    "5130": "client's"
+   },
+   "title": "$36 a day\nbudget. $163 day.",
+   "layout": "crop",
+   "crop_x": 0.474,
+   "youtube": {
+    "title": "Your LSA budget isn't a hard limit",
+    "description": "A $36-a-day Local Services Ads budget spent $163 in one day with no changes. Why you need someone watching the month.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "A $36 budget, a $163 day",
+    "n": 51
+   },
+   "coverage": 0.967,
+   "read_at": 2564.19,
+   "dropped": "Ashley on camera: \"Don't use that one. It's dumb.\"",
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_55",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5224,
+     5227
+    ],
+    [
+     5232,
+     5256
+    ],
+    [
+     5261,
+     5309
+    ]
+   ],
+   "fixes": {
+    "5246": "ads",
+    "5289": "stopped"
+   },
+   "title": "1 setting = junk leads",
+   "layout": "crop",
+   "crop_x": 0.471,
+   "youtube": {
+    "title": "The Facebook ad setting that brings in spam leads",
+    "description": "Audience Network spent $78 for zero leads on one account and caused 30 spam forms a day on another. Where to turn it off.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The setting that brings spam leads",
+    "n": 55
+   },
+   "coverage": 0.975,
+   "read_at": 2665.2
+  },
+  {
+   "id": "2026-10-16_56",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5310,
+     5398
+    ]
+   ],
+   "fixes": {
+    "5346": "we",
+    "5347": "turn",
+    "5359": "sites",
+    "5361": "send",
+    "5365": "expansion",
+    "5378": "Google's"
+   },
+   "title": "Don't click\n\"Apply\" yet",
+   "layout": "crop",
+   "crop_x": 0.472,
+   "youtube": {
+    "title": "Should you accept Google Ads recommendations?",
+    "description": "A septic owner thought they'd accepted something from Google. Two automatic suggestions we keep off, and why.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The apply button Google keeps pushing",
+    "n": 56
+   },
+   "coverage": 0.931,
+   "read_at": 2730.54,
+   "dropped": "Ashley on camera: \"Don't use that one. I don't like it either.\"",
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_57",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5408,
+     5497
+    ]
+   ],
+   "fixes": {},
+   "title": "Are ads paying\nfor old customers?",
+   "layout": "crop",
+   "crop_x": 0.463,
+   "youtube": {
+    "title": "How much of your ad budget goes to customers you already have?",
+    "description": "Uploading a customer list shows how much ad money is going to people who already bought. What to do when it's too much.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "How much ad money goes to past customers?",
+    "n": 57
+   },
+   "coverage": 1.0,
+   "read_at": 2802.32
+  },
+  {
+   "id": "2026-10-16_58",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5498,
+     5581
+    ]
+   ],
+   "fixes": {
+    "5549": "30"
+   },
+   "title": "Google thinks\nyou're not septic",
+   "layout": "crop",
+   "crop_x": 0.464,
+   "youtube": {
+    "title": "Why your septic company isn't showing up on Google Maps",
+    "description": "One septic and excavation company was listed only as an excavating contractor. The 30-minute category change that matters most.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Not on the septic map",
+    "n": 58
+   },
+   "coverage": 0.988,
+   "read_at": 2832.69
+  },
+  {
+   "id": "2026-10-16_59",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5582,
+     5671
+    ]
+   ],
+   "fixes": {
+    "5632": "was"
+   },
+   "title": "A listing you\ndidn't make",
+   "layout": "crop",
+   "crop_x": 0.461,
+   "youtube": {
+    "title": "There might be a Google listing for your business you didn't create",
+    "description": "An unclaimed duplicate, filed as garbage collection, outranked a septic company's real listing. How to find yours.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The listing you didn't make",
+    "n": 59
+   },
+   "coverage": 0.989,
+   "read_at": 2867.67
+  },
+  {
+   "id": "2026-10-16_60",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5672,
+     5760
+    ]
+   ],
+   "fixes": {
+    "5674": "2-minute",
+    "5675": "",
+    "5695": "backing",
+    "5700": "and"
+   },
+   "title": "Test your website\nin 2 minutes",
+   "layout": "crop",
+   "crop_x": 0.46,
+   "youtube": {
+    "title": "The 2-minute phone test for your septic website",
+    "description": "Pretend your tank is backing up and open your own website. Four things to check before a customer hits the back button.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The 2-minute phone test",
+    "n": 60
+   },
+   "coverage": 0.977,
+   "read_at": 2904.14
+  },
+  {
+   "id": "2026-10-16_61",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5817,
+     5895
+    ]
+   ],
+   "fixes": {},
+   "title": "That old special?\nIt's in your ads.",
+   "layout": "crop",
+   "crop_x": 0.471,
+   "youtube": {
+    "title": "Google might be putting your old website specials in your ads",
+    "description": "Google Ads can now pull offers from your website into your ads automatically. Why to clean out old specials this week.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Old specials can end up in your ads",
+    "n": 61
+   },
+   "coverage": 1.0,
+   "read_at": 3019.66
+  },
+  {
+   "id": "2026-10-16_62",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     5930,
+     6027
+    ]
+   ],
+   "fixes": {},
+   "title": "Read the bottom\nof that email",
+   "layout": "crop",
+   "crop_x": 0.466,
+   "youtube": {
+    "title": "That \"Google Ads expert\" calling you might not work for Google",
+    "description": "A septic company got a holiday-surge pitch from a rep whose fine print named a partner company. What to ask before you change anything.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Your dedicated Google Ads expert",
+    "n": 62
+   },
+   "coverage": 1.0,
+   "read_at": 3067.96
+  },
+  {
+   "id": "2026-10-16_63",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6028,
+     6108
+    ]
+   ],
+   "fixes": {
+    "6095": "marketing"
+   },
+   "title": "They asked me\nfor a deadline",
+   "layout": "crop",
+   "crop_x": 0.483,
+   "youtube": {
+    "title": "The best thing a client asked me for: a deadline",
+    "description": "A busy owner asked for deadlines so their website would finally launch. Why dates help both sides.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "The best thing a client asked for",
+    "n": 63
+   },
+   "coverage": 0.976,
+   "read_at": 3103.3
+  },
+  {
+   "id": "2026-10-16_64",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6109,
+     6189
+    ]
+   ],
+   "fixes": {},
+   "title": "They're buying\nan ANSWER",
+   "layout": "crop",
+   "crop_x": 0.472,
+   "youtube": {
+    "title": "What customers are really buying when they call you",
+    "description": "Reading a contractor's best sales calls showed customers weren't buying price. They were buying an answer.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Most callers are buying an answer",
+    "n": 64
+   },
+   "coverage": 0.963,
+   "read_at": 3140.7
+  },
+  {
+   "id": "2026-10-16_66",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6263,
+     6353
+    ]
+   ],
+   "fixes": {
+    "6265": "when",
+    "6279": "12:23",
+    "6280": "",
+    "6282": "AM,",
+    "6283": "7:01",
+    "6285": "AM,",
+    "6289": "o'clock",
+    "6324": "It's",
+    "6327": "asked",
+    "6350": "customers"
+   },
+   "title": "12:23 AM. 7:01 AM.\nSunday.",
+   "layout": "crop",
+   "crop_x": 0.459,
+   "youtube": {
+    "title": "When septic customers actually reach out (it's not 9 to 5)",
+    "description": "Leads came in after midnight, before 7 AM and on a Sunday. Why texting back first wins those customers.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "After-hours leads want a text",
+    "n": 66
+   },
+   "coverage": 0.921,
+   "read_at": 3231.89,
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_68",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6354,
+     6446
+    ]
+   ],
+   "fixes": {
+    "6387": "one.",
+    "6388": "She'd",
+    "6389": "worked"
+   },
+   "title": "A new site without\nlosing the old one",
+   "layout": "crop",
+   "crop_x": 0.459,
+   "youtube": {
+    "title": "Getting a new website without losing your Google rankings",
+    "description": "Owners fear losing what their old site built. How we rebuild on top of the pages and wording that already rank.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "We're not scrapping your website",
+    "n": 68
+   },
+   "coverage": 0.946,
+   "read_at": 3280.96
+  },
+  {
+   "id": "2026-10-16_70",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6447,
+     6520
+    ]
+   ],
+   "fixes": {
+    "6468": "county?"
+   },
+   "title": "\"Do you work with\nmy competitor?\"",
+   "layout": "crop",
+   "crop_x": 0.464,
+   "youtube": {
+    "title": "Ask this before hiring a septic marketing company",
+    "description": "A new septic owner's first question: do you already work with someone in my county? Why every owner should ask it.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Do you already work with someone near me?",
+    "n": 70
+   },
+   "coverage": 0.986,
+   "read_at": 3327.44,
+   "dropped": "Ashley on camera: \"Don't use that one.\"",
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_71",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6525,
+     6613
+    ]
+   ],
+   "fixes": {
+    "6544": "service",
+    "6567": "6"
+   },
+   "title": "6 weeks. 6 problems.",
+   "layout": "crop",
+   "crop_x": 0.465,
+   "youtube": {
+    "title": "What happened when a company tried to publish its prices",
+    "description": "A price sheet took six weeks of sign-offs, then contradicted itself six ways. Why publishing prices makes your team agree.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Their own price sheet didn't agree",
+    "n": 71
+   },
+   "coverage": 0.967,
+   "read_at": 3361.03,
+   "dropped": "held for accuracy: the read says septic client, but the story is an HVAC, electrical and plumbing client",
+   "locked": true
+  },
+  {
+   "id": "2026-10-16_72",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6627,
+     6716
+    ]
+   ],
+   "fixes": {
+    "6639": "is",
+    "6683": "Services",
+    "6688": "ads"
+   },
+   "title": "Open late?\nTell Google.",
+   "layout": "crop",
+   "crop_x": 0.456,
+   "youtube": {
+    "title": "Answer the phone after 5? Make sure Google knows",
+    "description": "Google favors businesses that are open when someone searches. Why your Google profile hours should match when a person really answers.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "Open after 5? Tell Google.",
+    "n": 72
+   },
+   "coverage": 0.903,
+   "read_at": 3399.57
+  },
+  {
+   "id": "2026-10-16_73",
+   "source": "01_footage/zoom-164658.mp4",
+   "words": "02_audio/words/zoom-164658.json",
+   "keep": [
+    [
+     6717,
+     6805
+    ]
+   ],
+   "fixes": {
+    "6766": "Add",
+    "6777": "homepage."
+   },
+   "title": "3 questions your\nsite should answer",
+   "layout": "crop",
+   "crop_x": 0.462,
+   "youtube": {
+    "title": "3 questions every septic website should answer",
+    "description": "Homeowners asked about free quotes, financing and price this week. Answer them on your homepage so they don't have to call to find out.\n\nWe help Septic companies get more calls, and we prove those results with real numbers. Groundbreaker Marketing"
+   },
+   "script": {
+    "title": "3 questions homeowners asked this week",
+    "n": 73
+   },
+   "coverage": 0.977,
+   "read_at": 3427.51
+  }
+ ]
+}

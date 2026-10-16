@@ -1,0 +1,111 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.50,Title,,0,0,0,,{\pos(540,360)}Missed LSA calls\Ncan cost you now
+Dialogue: 1,0:00:00.00,0:00:00.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Septic{\c&H00FFFFFF&} owners
+Dialogue: 1,0:00:00.36,0:00:00.78,Cap,,0,0,0,,{\pos(540,1400)}Septic {\c&H0060ECCD}owners{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.84,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} can now
+Dialogue: 1,0:00:01.12,0:00:01.34,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}can{\c&H00FFFFFF&} now
+Dialogue: 1,0:00:01.34,0:00:01.56,Cap,,0,0,0,,{\pos(540,1400)}Google can {\c&H0060ECCD}now{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.56,0:00:01.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}charge{\c&H00FFFFFF&} you for
+Dialogue: 1,0:00:01.94,0:00:02.10,Cap,,0,0,0,,{\pos(540,1400)}charge {\c&H0060ECCD}you{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:02.10,0:00:02.28,Cap,,0,0,0,,{\pos(540,1400)}charge you {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.28,0:00:02.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} you don't
+Dialogue: 1,0:00:02.64,0:00:02.84,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}you{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:02.84,0:00:03.16,Cap,,0,0,0,,{\pos(540,1400)}calls you {\c&H0060ECCD}don't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.16,0:00:03.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.86,0:00:04.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Since{\c&H00FFFFFF&} October 1
+Dialogue: 1,0:00:04.32,0:00:04.72,Cap,,0,0,0,,{\pos(540,1400)}Since {\c&H0060ECCD}October{\c&H00FFFFFF&} 1
+Dialogue: 1,0:00:04.72,0:00:05.18,Cap,,0,0,0,,{\pos(540,1400)}Since October {\c&H0060ECCD}1{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.18,0:00:05.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} local services
+Dialogue: 1,0:00:05.40,0:00:05.68,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}local{\c&H00FFFFFF&} services
+Dialogue: 1,0:00:05.68,0:00:06.22,Cap,,0,0,0,,{\pos(540,1400)}a local {\c&H0060ECCD}services{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.22,0:00:06.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ad{\c&H00FFFFFF&} Ads call
+Dialogue: 1,0:00:06.64,0:00:06.92,Cap,,0,0,0,,{\pos(540,1400)}ad {\c&H0060ECCD}Ads{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:06.92,0:00:07.38,Cap,,0,0,0,,{\pos(540,1400)}ad Ads {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.38,0:00:07.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}during{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:07.70,0:00:07.92,Cap,,0,0,0,,{\pos(540,1400)}during {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.92,0:00:08.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} hours
+Dialogue: 1,0:00:08.18,0:00:08.58,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}hours{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.58,0:00:08.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}can{\c&H00FFFFFF&} count as a
+Dialogue: 1,0:00:08.88,0:00:09.22,Cap,,0,0,0,,{\pos(540,1400)}can {\c&H0060ECCD}count{\c&H00FFFFFF&} as a
+Dialogue: 1,0:00:09.22,0:00:09.46,Cap,,0,0,0,,{\pos(540,1400)}can count {\c&H0060ECCD}as{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:09.46,0:00:09.56,Cap,,0,0,0,,{\pos(540,1400)}can count as {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.56,0:00:09.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lead{\c&H00FFFFFF&} when nobody
+Dialogue: 1,0:00:09.82,0:00:10.30,Cap,,0,0,0,,{\pos(540,1400)}lead {\c&H0060ECCD}when{\c&H00FFFFFF&} nobody
+Dialogue: 1,0:00:10.30,0:00:10.64,Cap,,0,0,0,,{\pos(540,1400)}lead when {\c&H0060ECCD}nobody{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.64,0:00:10.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}picks{\c&H00FFFFFF&} up and the
+Dialogue: 1,0:00:10.98,0:00:11.24,Cap,,0,0,0,,{\pos(540,1400)}picks {\c&H0060ECCD}up{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:11.24,0:00:11.46,Cap,,0,0,0,,{\pos(540,1400)}picks up {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:11.46,0:00:11.58,Cap,,0,0,0,,{\pos(540,1400)}picks up and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.58,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}caller{\c&H00FFFFFF&} stays on
+Dialogue: 1,0:00:11.86,0:00:12.18,Cap,,0,0,0,,{\pos(540,1400)}caller {\c&H0060ECCD}stays{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:12.18,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}caller stays {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.36,0:00:12.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}past{\c&H00FFFFFF&} 20 seconds
+Dialogue: 1,0:00:12.64,0:00:12.90,Cap,,0,0,0,,{\pos(540,1400)}past {\c&H0060ECCD}20{\c&H00FFFFFF&} seconds
+Dialogue: 1,0:00:12.90,0:00:13.32,Cap,,0,0,0,,{\pos(540,1400)}past 20 {\c&H0060ECCD}seconds{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.32,0:00:14.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} a missed call
+Dialogue: 1,0:00:14.04,0:00:14.18,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}a{\c&H00FFFFFF&} missed call
+Dialogue: 1,0:00:14.18,0:00:14.40,Cap,,0,0,0,,{\pos(540,1400)}so a {\c&H0060ECCD}missed{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:14.40,0:00:14.66,Cap,,0,0,0,,{\pos(540,1400)}so a missed {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.66,0:00:15.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}isn't{\c&H00FFFFFF&} just a
+Dialogue: 1,0:00:15.04,0:00:15.24,Cap,,0,0,0,,{\pos(540,1400)}isn't {\c&H0060ECCD}just{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:15.24,0:00:15.40,Cap,,0,0,0,,{\pos(540,1400)}isn't just {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.40,0:00:15.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}missed{\c&H00FFFFFF&} job
+Dialogue: 1,0:00:15.58,0:00:15.88,Cap,,0,0,0,,{\pos(540,1400)}missed {\c&H0060ECCD}job{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.88,0:00:16.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anymore{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:16.20,0:00:16.48,Cap,,0,0,0,,{\pos(540,1400)}anymore {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.48,0:00:16.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} a bill
+Dialogue: 1,0:00:16.90,0:00:17.08,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}a{\c&H00FFFFFF&} bill
+Dialogue: 1,0:00:17.08,0:00:17.22,Cap,,0,0,0,,{\pos(540,1400)}actually a {\c&H0060ECCD}bill{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.22,0:00:17.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}here's{\c&H00FFFFFF&} two fixes
+Dialogue: 1,0:00:17.74,0:00:17.94,Cap,,0,0,0,,{\pos(540,1400)}here's {\c&H0060ECCD}two{\c&H00FFFFFF&} fixes
+Dialogue: 1,0:00:17.94,0:00:18.36,Cap,,0,0,0,,{\pos(540,1400)}here's two {\c&H0060ECCD}fixes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.36,0:00:19.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}make{\c&H00FFFFFF&} the hours in
+Dialogue: 1,0:00:19.38,0:00:19.52,Cap,,0,0,0,,{\pos(540,1400)}make {\c&H0060ECCD}the{\c&H00FFFFFF&} hours in
+Dialogue: 1,0:00:19.52,0:00:19.86,Cap,,0,0,0,,{\pos(540,1400)}make the {\c&H0060ECCD}hours{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:19.86,0:00:20.08,Cap,,0,0,0,,{\pos(540,1400)}make the hours {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.08,0:00:20.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} lsa account
+Dialogue: 1,0:00:20.20,0:00:20.62,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}lsa{\c&H00FFFFFF&} account
+Dialogue: 1,0:00:20.62,0:00:21.00,Cap,,0,0,0,,{\pos(540,1400)}your lsa {\c&H0060ECCD}account{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.00,0:00:21.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}match{\c&H00FFFFFF&} the hours
+Dialogue: 1,0:00:21.52,0:00:21.72,Cap,,0,0,0,,{\pos(540,1400)}match {\c&H0060ECCD}the{\c&H00FFFFFF&} hours
+Dialogue: 1,0:00:21.72,0:00:22.10,Cap,,0,0,0,,{\pos(540,1400)}match the {\c&H0060ECCD}hours{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.10,0:00:22.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}someone{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:22.50,0:00:23.08,Cap,,0,0,0,,{\pos(540,1400)}someone {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.08,0:00:23.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answers{\c&H00FFFFFF&} the phone
+Dialogue: 1,0:00:23.58,0:00:23.76,Cap,,0,0,0,,{\pos(540,1400)}answers {\c&H0060ECCD}the{\c&H00FFFFFF&} phone
+Dialogue: 1,0:00:23.76,0:00:24.02,Cap,,0,0,0,,{\pos(540,1400)}answers the {\c&H0060ECCD}phone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.02,0:00:24.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} make sure
+Dialogue: 1,0:00:24.74,0:00:24.94,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}make{\c&H00FFFFFF&} sure
+Dialogue: 1,0:00:24.94,0:00:25.06,Cap,,0,0,0,,{\pos(540,1400)}and make {\c&H0060ECCD}sure{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.06,0:00:25.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} phone menu
+Dialogue: 1,0:00:25.26,0:00:25.50,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}phone{\c&H00FFFFFF&} menu
+Dialogue: 1,0:00:25.50,0:00:25.82,Cap,,0,0,0,,{\pos(540,1400)}your phone {\c&H0060ECCD}menu{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.82,0:00:26.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}isn't{\c&H00FFFFFF&} making
+Dialogue: 1,0:00:26.22,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}isn't {\c&H0060ECCD}making{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.46,0:00:26.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}callers{\c&H00FFFFFF&} wait if
+Dialogue: 1,0:00:26.90,0:00:27.14,Cap,,0,0,0,,{\pos(540,1400)}callers {\c&H0060ECCD}wait{\c&H00FFFFFF&} if
+Dialogue: 1,0:00:27.14,0:00:27.88,Cap,,0,0,0,,{\pos(540,1400)}callers wait {\c&H0060ECCD}if{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.88,0:00:28.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} answer less
+Dialogue: 1,0:00:28.02,0:00:28.44,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}answer{\c&H00FFFFFF&} less
+Dialogue: 1,0:00:28.44,0:00:28.68,Cap,,0,0,0,,{\pos(540,1400)}you answer {\c&H0060ECCD}less{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.68,0:00:28.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}than{\c&H00FFFFFF&} 90% of your
+Dialogue: 1,0:00:28.88,0:00:29.40,Cap,,0,0,0,,{\pos(540,1400)}than {\c&H0060ECCD}90%{\c&H00FFFFFF&} of your
+Dialogue: 1,0:00:29.40,0:00:29.94,Cap,,0,0,0,,{\pos(540,1400)}than 90% {\c&H0060ECCD}of{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:29.94,0:00:30.10,Cap,,0,0,0,,{\pos(540,1400)}than 90% of {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.10,0:00:30.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} start there
+Dialogue: 1,0:00:30.52,0:00:31.00,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}start{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:31.00,0:00:31.38,Cap,,0,0,0,,{\pos(540,1400)}calls start {\c&H0060ECCD}there{\c&H00FFFFFF&}

@@ -1,0 +1,103 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:28.49,Title,,0,0,0,,{\pos(540,360)}Your best photo\Ngets buried
+Dialogue: 1,0:00:00.00,0:00:00.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Your{\c&H00FFFFFF&} best septic
+Dialogue: 1,0:00:00.18,0:00:00.56,Cap,,0,0,0,,{\pos(540,1400)}Your {\c&H0060ECCD}best{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:00.56,0:00:01.06,Cap,,0,0,0,,{\pos(540,1400)}Your best {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.06,0:00:01.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}marketing{\c&H00FFFFFF&} photo
+Dialogue: 1,0:00:01.42,0:00:01.76,Cap,,0,0,0,,{\pos(540,1400)}marketing {\c&H0060ECCD}photo{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.76,0:00:02.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gets{\c&H00FFFFFF&} buried every
+Dialogue: 1,0:00:02.06,0:00:02.46,Cap,,0,0,0,,{\pos(540,1400)}gets {\c&H0060ECCD}buried{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:02.46,0:00:02.84,Cap,,0,0,0,,{\pos(540,1400)}gets buried {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.84,0:00:03.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}day{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.44,0:00:03.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Ask{\c&H00FFFFFF&} a home
+Dialogue: 1,0:00:03.96,0:00:04.14,Cap,,0,0,0,,{\pos(540,1400)}Ask {\c&H0060ECCD}a{\c&H00FFFFFF&} home
+Dialogue: 1,0:00:04.14,0:00:04.26,Cap,,0,0,0,,{\pos(540,1400)}Ask a {\c&H0060ECCD}home{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.26,0:00:04.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}builder{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.78,0:00:05.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}By{\c&H00FFFFFF&} the time a
+Dialogue: 1,0:00:05.08,0:00:05.22,Cap,,0,0,0,,{\pos(540,1400)}By {\c&H0060ECCD}the{\c&H00FFFFFF&} time a
+Dialogue: 1,0:00:05.22,0:00:05.42,Cap,,0,0,0,,{\pos(540,1400)}By the {\c&H0060ECCD}time{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:05.42,0:00:05.60,Cap,,0,0,0,,{\pos(540,1400)}By the time {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.60,0:00:05.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}house{\c&H00FFFFFF&} is finished
+Dialogue: 1,0:00:05.78,0:00:05.94,Cap,,0,0,0,,{\pos(540,1400)}house {\c&H0060ECCD}is{\c&H00FFFFFF&} finished
+Dialogue: 1,0:00:05.94,0:00:06.23,Cap,,0,0,0,,{\pos(540,1400)}house is {\c&H0060ECCD}finished{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.23,0:00:06.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} owners have
+Dialogue: 1,0:00:06.33,0:00:06.63,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}owners{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:06.63,0:00:06.89,Cap,,0,0,0,,{\pos(540,1400)}the owners {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.89,0:00:07.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}moved{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:07.17,0:00:07.57,Cap,,0,0,0,,{\pos(540,1400)}moved {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.61,0:00:07.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} couch is in
+Dialogue: 1,0:00:07.91,0:00:08.17,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}couch{\c&H00FFFFFF&} is in
+Dialogue: 1,0:00:08.17,0:00:08.31,Cap,,0,0,0,,{\pos(540,1400)}the couch {\c&H0060ECCD}is{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:08.31,0:00:08.43,Cap,,0,0,0,,{\pos(540,1400)}the couch is {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.43,0:00:08.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plastic{\c&H00FFFFFF&} wrap
+Dialogue: 1,0:00:08.81,0:00:09.29,Cap,,0,0,0,,{\pos(540,1400)}plastic {\c&H0060ECCD}wrap{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.35,0:00:09.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there's{\c&H00FFFFFF&} dog bowls
+Dialogue: 1,0:00:09.53,0:00:09.77,Cap,,0,0,0,,{\pos(540,1400)}there's {\c&H0060ECCD}dog{\c&H00FFFFFF&} bowls
+Dialogue: 1,0:00:09.77,0:00:10.03,Cap,,0,0,0,,{\pos(540,1400)}there's dog {\c&H0060ECCD}bowls{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.03,0:00:10.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everywhere{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.81,0:00:11.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Septic{\c&H00FFFFFF&} is worse
+Dialogue: 1,0:00:11.33,0:00:11.47,Cap,,0,0,0,,{\pos(540,1400)}Septic {\c&H0060ECCD}is{\c&H00FFFFFF&} worse
+Dialogue: 1,0:00:11.47,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}Septic is {\c&H0060ECCD}worse{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.83,0:00:12.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}once{\c&H00FFFFFF&} you backfill
+Dialogue: 1,0:00:12.43,0:00:12.61,Cap,,0,0,0,,{\pos(540,1400)}once {\c&H0060ECCD}you{\c&H00FFFFFF&} backfill
+Dialogue: 1,0:00:12.61,0:00:13.17,Cap,,0,0,0,,{\pos(540,1400)}once you {\c&H0060ECCD}backfill{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.17,0:00:13.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} gone so make
+Dialogue: 1,0:00:13.45,0:00:13.67,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}gone{\c&H00FFFFFF&} so make
+Dialogue: 1,0:00:13.67,0:00:14.19,Cap,,0,0,0,,{\pos(540,1400)}it's gone {\c&H0060ECCD}so{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:14.19,0:00:14.39,Cap,,0,0,0,,{\pos(540,1400)}it's gone so {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.39,0:00:14.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} a habit before
+Dialogue: 1,0:00:14.49,0:00:14.59,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}a{\c&H00FFFFFF&} habit before
+Dialogue: 1,0:00:14.59,0:00:14.91,Cap,,0,0,0,,{\pos(540,1400)}it a {\c&H0060ECCD}habit{\c&H00FFFFFF&} before
+Dialogue: 1,0:00:14.91,0:00:15.53,Cap,,0,0,0,,{\pos(540,1400)}it a habit {\c&H0060ECCD}before{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.53,0:00:15.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} cover it take
+Dialogue: 1,0:00:15.73,0:00:16.03,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}cover{\c&H00FFFFFF&} it take
+Dialogue: 1,0:00:16.03,0:00:16.23,Cap,,0,0,0,,{\pos(540,1400)}you cover {\c&H0060ECCD}it{\c&H00FFFFFF&} take
+Dialogue: 1,0:00:16.23,0:00:16.51,Cap,,0,0,0,,{\pos(540,1400)}you cover it {\c&H0060ECCD}take{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.51,0:00:16.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}three{\c&H00FFFFFF&} photos wide
+Dialogue: 1,0:00:16.71,0:00:17.09,Cap,,0,0,0,,{\pos(540,1400)}three {\c&H0060ECCD}photos{\c&H00FFFFFF&} wide
+Dialogue: 1,0:00:17.09,0:00:17.65,Cap,,0,0,0,,{\pos(540,1400)}three photos {\c&H0060ECCD}wide{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.65,0:00:18.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}close{\c&H00FFFFFF&} up and the
+Dialogue: 1,0:00:18.13,0:00:18.49,Cap,,0,0,0,,{\pos(540,1400)}close {\c&H0060ECCD}up{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:18.49,0:00:18.85,Cap,,0,0,0,,{\pos(540,1400)}close up {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:18.85,0:00:19.01,Cap,,0,0,0,,{\pos(540,1400)}close up and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.01,0:00:19.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}crew{\c&H00FFFFFF&} if you can't
+Dialogue: 1,0:00:19.23,0:00:19.41,Cap,,0,0,0,,{\pos(540,1400)}crew {\c&H0060ECCD}if{\c&H00FFFFFF&} you can't
+Dialogue: 1,0:00:19.41,0:00:19.51,Cap,,0,0,0,,{\pos(540,1400)}crew if {\c&H0060ECCD}you{\c&H00FFFFFF&} can't
+Dialogue: 1,0:00:19.51,0:00:19.83,Cap,,0,0,0,,{\pos(540,1400)}crew if you {\c&H0060ECCD}can't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.83,0:00:20.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}send{\c&H00FFFFFF&} them to
+Dialogue: 1,0:00:20.51,0:00:20.69,Cap,,0,0,0,,{\pos(540,1400)}send {\c&H0060ECCD}them{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:20.69,0:00:20.91,Cap,,0,0,0,,{\pos(540,1400)}send them {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.91,0:00:21.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whoever{\c&H00FFFFFF&} runs your
+Dialogue: 1,0:00:21.17,0:00:21.51,Cap,,0,0,0,,{\pos(540,1400)}whoever {\c&H0060ECCD}runs{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:21.51,0:00:21.65,Cap,,0,0,0,,{\pos(540,1400)}whoever runs {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.65,0:00:21.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} profile
+Dialogue: 1,0:00:21.91,0:00:22.49,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}profile{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.49,0:00:23.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}real{\c&H00FFFFFF&} job photos
+Dialogue: 1,0:00:23.33,0:00:23.77,Cap,,0,0,0,,{\pos(540,1400)}real {\c&H0060ECCD}job{\c&H00FFFFFF&} photos
+Dialogue: 1,0:00:23.77,0:00:24.27,Cap,,0,0,0,,{\pos(540,1400)}real job {\c&H0060ECCD}photos{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.27,0:00:24.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}beat{\c&H00FFFFFF&} stock photos
+Dialogue: 1,0:00:24.57,0:00:24.95,Cap,,0,0,0,,{\pos(540,1400)}beat {\c&H0060ECCD}stock{\c&H00FFFFFF&} photos
+Dialogue: 1,0:00:24.95,0:00:25.41,Cap,,0,0,0,,{\pos(540,1400)}beat stock {\c&H0060ECCD}photos{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.41,0:00:25.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}every{\c&H00FFFFFF&} time and
+Dialogue: 1,0:00:25.93,0:00:26.25,Cap,,0,0,0,,{\pos(540,1400)}every {\c&H0060ECCD}time{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:26.25,0:00:26.57,Cap,,0,0,0,,{\pos(540,1400)}every time {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.57,0:00:26.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}nobody{\c&H00FFFFFF&} else in
+Dialogue: 1,0:00:26.93,0:00:27.25,Cap,,0,0,0,,{\pos(540,1400)}nobody {\c&H0060ECCD}else{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:27.25,0:00:27.53,Cap,,0,0,0,,{\pos(540,1400)}nobody else {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.53,0:00:27.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}town{\c&H00FFFFFF&} has yours
+Dialogue: 1,0:00:27.79,0:00:28.19,Cap,,0,0,0,,{\pos(540,1400)}town {\c&H0060ECCD}has{\c&H00FFFFFF&} yours
+Dialogue: 1,0:00:28.19,0:00:28.61,Cap,,0,0,0,,{\pos(540,1400)}town has {\c&H0060ECCD}yours{\c&H00FFFFFF&}

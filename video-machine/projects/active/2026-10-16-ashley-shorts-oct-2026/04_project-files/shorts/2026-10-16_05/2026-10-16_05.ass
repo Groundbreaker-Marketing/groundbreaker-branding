@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.73,Title,,0,0,0,,{\pos(540,360)}A page for every town?
+Dialogue: 1,0:00:00.00,0:00:00.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Should{\c&H00FFFFFF&} every town
+Dialogue: 1,0:00:00.14,0:00:00.74,Cap,,0,0,0,,{\pos(540,1400)}Should {\c&H0060ECCD}every{\c&H00FFFFFF&} town
+Dialogue: 1,0:00:00.74,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}Should every {\c&H0060ECCD}town{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.12,0:00:01.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} serve get its
+Dialogue: 1,0:00:01.44,0:00:01.80,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}serve{\c&H00FFFFFF&} get its
+Dialogue: 1,0:00:01.80,0:00:02.00,Cap,,0,0,0,,{\pos(540,1400)}you serve {\c&H0060ECCD}get{\c&H00FFFFFF&} its
+Dialogue: 1,0:00:02.00,0:00:02.20,Cap,,0,0,0,,{\pos(540,1400)}you serve get {\c&H0060ECCD}its{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.20,0:00:02.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}own{\c&H00FFFFFF&} page on your
+Dialogue: 1,0:00:02.58,0:00:03.00,Cap,,0,0,0,,{\pos(540,1400)}own {\c&H0060ECCD}page{\c&H00FFFFFF&} on your
+Dialogue: 1,0:00:03.00,0:00:03.20,Cap,,0,0,0,,{\pos(540,1400)}own page {\c&H0060ECCD}on{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:03.20,0:00:03.34,Cap,,0,0,0,,{\pos(540,1400)}own page on {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.34,0:00:03.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} website?
+Dialogue: 1,0:00:03.76,0:00:04.28,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}website?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.56,0:00:05.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} got that
+Dialogue: 1,0:00:05.16,0:00:05.32,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}got{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:05.32,0:00:05.50,Cap,,0,0,0,,{\pos(540,1400)}I got {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.50,0:00:05.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}question{\c&H00FFFFFF&} from a
+Dialogue: 1,0:00:05.84,0:00:06.08,Cap,,0,0,0,,{\pos(540,1400)}question {\c&H0060ECCD}from{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:06.08,0:00:06.22,Cap,,0,0,0,,{\pos(540,1400)}question from {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.22,0:00:06.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}client{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:06.52,0:00:06.70,Cap,,0,0,0,,{\pos(540,1400)}client {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.70,0:00:07.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}California{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:07.20,0:00:07.50,Cap,,0,0,0,,{\pos(540,1400)}California {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.50,0:00:07.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}month{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.00,0:00:08.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.81,0:00:09.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you really
+Dialogue: 1,0:00:09.22,0:00:09.48,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} really
+Dialogue: 1,0:00:09.48,0:00:09.78,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}really{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.78,0:00:10.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}work{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:10.04,0:00:10.37,Cap,,0,0,0,,{\pos(540,1400)}work {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.51,0:00:11.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}A{\c&H00FFFFFF&} septic client
+Dialogue: 1,0:00:11.06,0:00:11.39,Cap,,0,0,0,,{\pos(540,1400)}A {\c&H0060ECCD}septic{\c&H00FFFFFF&} client
+Dialogue: 1,0:00:11.39,0:00:11.66,Cap,,0,0,0,,{\pos(540,1400)}A septic {\c&H0060ECCD}client{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.66,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} East Texas
+Dialogue: 1,0:00:11.86,0:00:12.12,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}East{\c&H00FFFFFF&} Texas
+Dialogue: 1,0:00:12.12,0:00:12.54,Cap,,0,0,0,,{\pos(540,1400)}in East {\c&H0060ECCD}Texas{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.54,0:00:13.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}added{\c&H00FFFFFF&} town pages
+Dialogue: 1,0:00:13.10,0:00:13.56,Cap,,0,0,0,,{\pos(540,1400)}added {\c&H0060ECCD}town{\c&H00FFFFFF&} pages
+Dialogue: 1,0:00:13.56,0:00:14.00,Cap,,0,0,0,,{\pos(540,1400)}added town {\c&H0060ECCD}pages{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.00,0:00:14.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} homeowner
+Dialogue: 1,0:00:14.36,0:00:14.81,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}homeowner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.81,0:00:15.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}how-to{\c&H00FFFFFF&} guides
+Dialogue: 1,0:00:15.22,0:00:15.48,Cap,,0,0,0,,{\pos(540,1400)}how-to {\c&H0060ECCD}guides{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.48,0:00:15.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}starting{\c&H00FFFFFF&} in June
+Dialogue: 1,0:00:15.89,0:00:16.12,Cap,,0,0,0,,{\pos(540,1400)}starting {\c&H0060ECCD}in{\c&H00FFFFFF&} June
+Dialogue: 1,0:00:16.12,0:00:16.40,Cap,,0,0,0,,{\pos(540,1400)}starting in {\c&H0060ECCD}June{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.54,0:00:17.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}By{\c&H00FFFFFF&} September
+Dialogue: 1,0:00:17.06,0:00:17.69,Cap,,0,0,0,,{\pos(540,1400)}By {\c&H0060ECCD}September{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.18,0:00:18.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clicks{\c&H00FFFFFF&} from
+Dialogue: 1,0:00:18.36,0:00:18.57,Cap,,0,0,0,,{\pos(540,1400)}clicks {\c&H0060ECCD}from{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.57,0:00:18.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} had gone
+Dialogue: 1,0:00:18.88,0:00:19.12,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}had{\c&H00FFFFFF&} gone
+Dialogue: 1,0:00:19.12,0:00:19.31,Cap,,0,0,0,,{\pos(540,1400)}Google had {\c&H0060ECCD}gone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.31,0:00:19.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} about 65 a
+Dialogue: 1,0:00:19.56,0:00:19.75,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}about{\c&H00FFFFFF&} 65 a
+Dialogue: 1,0:00:19.75,0:00:20.36,Cap,,0,0,0,,{\pos(540,1400)}from about {\c&H0060ECCD}65{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:20.36,0:00:20.75,Cap,,0,0,0,,{\pos(540,1400)}from about 65 {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.75,0:00:20.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}month{\c&H00FFFFFF&} to about
+Dialogue: 1,0:00:20.95,0:00:21.18,Cap,,0,0,0,,{\pos(540,1400)}month {\c&H0060ECCD}to{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:21.18,0:00:21.38,Cap,,0,0,0,,{\pos(540,1400)}month to {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.38,0:00:21.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}145{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.81,0:00:22.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} a month
+Dialogue: 1,0:00:22.54,0:00:22.69,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}a{\c&H00FFFFFF&} month
+Dialogue: 1,0:00:22.69,0:00:23.01,Cap,,0,0,0,,{\pos(540,1400)}and a {\c&H0060ECCD}month{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.07,0:00:23.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Calls{\c&H00FFFFFF&} and texts
+Dialogue: 1,0:00:23.59,0:00:23.77,Cap,,0,0,0,,{\pos(540,1400)}Calls {\c&H0060ECCD}and{\c&H00FFFFFF&} texts
+Dialogue: 1,0:00:23.77,0:00:24.15,Cap,,0,0,0,,{\pos(540,1400)}Calls and {\c&H0060ECCD}texts{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.15,0:00:24.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} the website
+Dialogue: 1,0:00:24.35,0:00:24.47,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}the{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:24.47,0:00:24.83,Cap,,0,0,0,,{\pos(540,1400)}from the {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.83,0:00:25.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}went{\c&H00FFFFFF&} from about
+Dialogue: 1,0:00:25.19,0:00:25.35,Cap,,0,0,0,,{\pos(540,1400)}went {\c&H0060ECCD}from{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:25.35,0:00:25.55,Cap,,0,0,0,,{\pos(540,1400)}went from {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.55,0:00:26.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}14{\c&H00FFFFFF&} a month to
+Dialogue: 1,0:00:26.09,0:00:26.31,Cap,,0,0,0,,{\pos(540,1400)}14 {\c&H0060ECCD}a{\c&H00FFFFFF&} month to
+Dialogue: 1,0:00:26.31,0:00:26.47,Cap,,0,0,0,,{\pos(540,1400)}14 a {\c&H0060ECCD}month{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:26.47,0:00:26.69,Cap,,0,0,0,,{\pos(540,1400)}14 a month {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.69,0:00:27.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}25{\c&H00FFFFFF&} a month
+Dialogue: 1,0:00:27.07,0:00:27.35,Cap,,0,0,0,,{\pos(540,1400)}25 {\c&H0060ECCD}a{\c&H00FFFFFF&} month
+Dialogue: 1,0:00:27.35,0:00:27.73,Cap,,0,0,0,,{\pos(540,1400)}25 a {\c&H0060ECCD}month{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.83,0:00:28.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} 11 more
+Dialogue: 1,0:00:28.29,0:00:28.55,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}11{\c&H00FFFFFF&} more
+Dialogue: 1,0:00:28.55,0:00:28.83,Cap,,0,0,0,,{\pos(540,1400)}That's 11 {\c&H0060ECCD}more{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.83,0:00:29.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} a month
+Dialogue: 1,0:00:29.27,0:00:29.49,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}a{\c&H00FFFFFF&} month
+Dialogue: 1,0:00:29.49,0:00:29.67,Cap,,0,0,0,,{\pos(540,1400)}customers a {\c&H0060ECCD}month{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.67,0:00:29.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}without{\c&H00FFFFFF&} paying
+Dialogue: 1,0:00:29.97,0:00:30.37,Cap,,0,0,0,,{\pos(540,1400)}without {\c&H0060ECCD}paying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.37,0:00:30.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} a single
+Dialogue: 1,0:00:30.59,0:00:30.73,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}a{\c&H00FFFFFF&} single
+Dialogue: 1,0:00:30.73,0:00:30.97,Cap,,0,0,0,,{\pos(540,1400)}for a {\c&H0060ECCD}single{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.97,0:00:31.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}click{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.27,0:00:31.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}One{\c&H00FFFFFF&} rule
+Dialogue: 1,0:00:31.69,0:00:32.09,Cap,,0,0,0,,{\pos(540,1400)}One {\c&H0060ECCD}rule{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.19,0:00:32.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}only{\c&H00FFFFFF&} build pages
+Dialogue: 1,0:00:32.83,0:00:33.07,Cap,,0,0,0,,{\pos(540,1400)}only {\c&H0060ECCD}build{\c&H00FFFFFF&} pages
+Dialogue: 1,0:00:33.07,0:00:33.37,Cap,,0,0,0,,{\pos(540,1400)}only build {\c&H0060ECCD}pages{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.37,0:00:33.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} towns you'd
+Dialogue: 1,0:00:33.63,0:00:33.93,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}towns{\c&H00FFFFFF&} you'd
+Dialogue: 1,0:00:33.93,0:00:34.19,Cap,,0,0,0,,{\pos(540,1400)}for towns {\c&H0060ECCD}you'd{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.19,0:00:34.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} drive
+Dialogue: 1,0:00:34.77,0:00:35.17,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}drive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.17,0:00:35.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&}

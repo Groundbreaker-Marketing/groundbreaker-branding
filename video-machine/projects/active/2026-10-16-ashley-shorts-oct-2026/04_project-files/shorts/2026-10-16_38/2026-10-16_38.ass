@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:25.96,Title,,0,0,0,,{\pos(540,360)}"Looks like the\Nmarketing is working"
+Dialogue: 1,0:00:00.00,0:00:00.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} keep thinking
+Dialogue: 1,0:00:00.13,0:00:00.35,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}keep{\c&H00FFFFFF&} thinking
+Dialogue: 1,0:00:00.35,0:00:00.71,Cap,,0,0,0,,{\pos(540,1400)}I keep {\c&H0060ECCD}thinking{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.71,0:00:01.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} septic jobs
+Dialogue: 1,0:00:01.05,0:00:01.41,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}septic{\c&H00FFFFFF&} jobs
+Dialogue: 1,0:00:01.41,0:00:01.67,Cap,,0,0,0,,{\pos(540,1400)}the septic {\c&H0060ECCD}jobs{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.67,0:00:01.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it'll{\c&H00FFFFFF&} slow down
+Dialogue: 1,0:00:01.87,0:00:02.11,Cap,,0,0,0,,{\pos(540,1400)}it'll {\c&H0060ECCD}slow{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:02.11,0:00:02.31,Cap,,0,0,0,,{\pos(540,1400)}it'll slow {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.31,0:00:02.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}enough{\c&H00FFFFFF&} for me to
+Dialogue: 1,0:00:02.55,0:00:02.71,Cap,,0,0,0,,{\pos(540,1400)}enough {\c&H0060ECCD}for{\c&H00FFFFFF&} me to
+Dialogue: 1,0:00:02.71,0:00:02.83,Cap,,0,0,0,,{\pos(540,1400)}enough for {\c&H0060ECCD}me{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:02.83,0:00:02.95,Cap,,0,0,0,,{\pos(540,1400)}enough for me {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.95,0:00:03.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}jump{\c&H00FFFFFF&} on a call
+Dialogue: 1,0:00:03.15,0:00:03.29,Cap,,0,0,0,,{\pos(540,1400)}jump {\c&H0060ECCD}on{\c&H00FFFFFF&} a call
+Dialogue: 1,0:00:03.29,0:00:03.39,Cap,,0,0,0,,{\pos(540,1400)}jump on {\c&H0060ECCD}a{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:03.39,0:00:03.75,Cap,,0,0,0,,{\pos(540,1400)}jump on a {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.85,0:00:04.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Looks{\c&H00FFFFFF&} like the
+Dialogue: 1,0:00:04.33,0:00:04.51,Cap,,0,0,0,,{\pos(540,1400)}Looks {\c&H0060ECCD}like{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:04.51,0:00:04.65,Cap,,0,0,0,,{\pos(540,1400)}Looks like {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.65,0:00:04.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}marketing{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:04.97,0:00:05.19,Cap,,0,0,0,,{\pos(540,1400)}marketing {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.19,0:00:05.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}working{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.87,0:00:06.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}A{\c&H00FFFFFF&} septic owner
+Dialogue: 1,0:00:06.29,0:00:06.71,Cap,,0,0,0,,{\pos(540,1400)}A {\c&H0060ECCD}septic{\c&H00FFFFFF&} owner
+Dialogue: 1,0:00:06.71,0:00:06.95,Cap,,0,0,0,,{\pos(540,1400)}A septic {\c&H0060ECCD}owner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.95,0:00:07.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}texted{\c&H00FFFFFF&} me that
+Dialogue: 1,0:00:07.45,0:00:07.81,Cap,,0,0,0,,{\pos(540,1400)}texted {\c&H0060ECCD}me{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:07.81,0:00:08.07,Cap,,0,0,0,,{\pos(540,1400)}texted me {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.07,0:00:08.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} month and
+Dialogue: 1,0:00:08.31,0:00:08.65,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}month{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:08.65,0:00:08.91,Cap,,0,0,0,,{\pos(540,1400)}this month {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.91,0:00:09.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} a good
+Dialogue: 1,0:00:09.11,0:00:09.21,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}a{\c&H00FFFFFF&} good
+Dialogue: 1,0:00:09.21,0:00:09.45,Cap,,0,0,0,,{\pos(540,1400)}That's a {\c&H0060ECCD}good{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.45,0:00:09.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}problem{\c&H00FFFFFF&} until it
+Dialogue: 1,0:00:09.99,0:00:10.45,Cap,,0,0,0,,{\pos(540,1400)}problem {\c&H0060ECCD}until{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:10.45,0:00:10.75,Cap,,0,0,0,,{\pos(540,1400)}problem until {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.75,0:00:11.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}isn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.37,0:00:11.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}When{\c&H00FFFFFF&} we market
+Dialogue: 1,0:00:11.85,0:00:12.05,Cap,,0,0,0,,{\pos(540,1400)}When {\c&H0060ECCD}we{\c&H00FFFFFF&} market
+Dialogue: 1,0:00:12.05,0:00:12.45,Cap,,0,0,0,,{\pos(540,1400)}When we {\c&H0060ECCD}market{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.45,0:00:12.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}smaller{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:12.89,0:00:13.35,Cap,,0,0,0,,{\pos(540,1400)}smaller {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.35,0:00:13.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}companies{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.97,0:00:14.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:14.29,0:00:14.69,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.69,0:00:15.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}double{\c&H00FFFFFF&} in about
+Dialogue: 1,0:00:15.03,0:00:15.25,Cap,,0,0,0,,{\pos(540,1400)}double {\c&H0060ECCD}in{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:15.25,0:00:15.45,Cap,,0,0,0,,{\pos(540,1400)}double in {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.45,0:00:15.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}six{\c&H00FFFFFF&} months and
+Dialogue: 1,0:00:15.75,0:00:16.15,Cap,,0,0,0,,{\pos(540,1400)}six {\c&H0060ECCD}months{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:16.15,0:00:16.47,Cap,,0,0,0,,{\pos(540,1400)}six months {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.47,0:00:16.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:16.65,0:00:16.87,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.87,0:00:17.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}scrambling{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:17.35,0:00:17.57,Cap,,0,0,0,,{\pos(540,1400)}scrambling {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.57,0:00:17.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hire{\c&H00FFFFFF&} and service
+Dialogue: 1,0:00:17.95,0:00:18.65,Cap,,0,0,0,,{\pos(540,1400)}hire {\c&H0060ECCD}and{\c&H00FFFFFF&} service
+Dialogue: 1,0:00:18.65,0:00:19.11,Cap,,0,0,0,,{\pos(540,1400)}hire and {\c&H0060ECCD}service{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.11,0:00:19.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}slips{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.79,0:00:20.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} your ad budget
+Dialogue: 1,0:00:20.19,0:00:20.41,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}your{\c&H00FFFFFF&} ad budget
+Dialogue: 1,0:00:20.41,0:00:20.67,Cap,,0,0,0,,{\pos(540,1400)}So your {\c&H0060ECCD}ad{\c&H00FFFFFF&} budget
+Dialogue: 1,0:00:20.67,0:00:21.05,Cap,,0,0,0,,{\pos(540,1400)}So your ad {\c&H0060ECCD}budget{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.05,0:00:21.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} a dial and
+Dialogue: 1,0:00:21.37,0:00:21.53,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}a{\c&H00FFFFFF&} dial and
+Dialogue: 1,0:00:21.53,0:00:21.89,Cap,,0,0,0,,{\pos(540,1400)}is a {\c&H0060ECCD}dial{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:21.89,0:00:22.13,Cap,,0,0,0,,{\pos(540,1400)}is a dial {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.13,0:00:22.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} a switch
+Dialogue: 1,0:00:22.29,0:00:22.41,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}a{\c&H00FFFFFF&} switch
+Dialogue: 1,0:00:22.41,0:00:22.85,Cap,,0,0,0,,{\pos(540,1400)}not a {\c&H0060ECCD}switch{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.93,0:00:23.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Turn{\c&H00FFFFFF&} it up when
+Dialogue: 1,0:00:23.03,0:00:23.17,Cap,,0,0,0,,{\pos(540,1400)}Turn {\c&H0060ECCD}it{\c&H00FFFFFF&} up when
+Dialogue: 1,0:00:23.17,0:00:23.33,Cap,,0,0,0,,{\pos(540,1400)}Turn it {\c&H0060ECCD}up{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:23.33,0:00:23.47,Cap,,0,0,0,,{\pos(540,1400)}Turn it up {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.47,0:00:23.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} have trucks
+Dialogue: 1,0:00:23.55,0:00:23.69,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}have{\c&H00FFFFFF&} trucks
+Dialogue: 1,0:00:23.69,0:00:23.99,Cap,,0,0,0,,{\pos(540,1400)}you have {\c&H0060ECCD}trucks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.99,0:00:24.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} people and
+Dialogue: 1,0:00:24.17,0:00:24.45,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}people{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:24.45,0:00:24.69,Cap,,0,0,0,,{\pos(540,1400)}and people {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.69,0:00:24.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}turn{\c&H00FFFFFF&} it down when
+Dialogue: 1,0:00:24.93,0:00:25.09,Cap,,0,0,0,,{\pos(540,1400)}turn {\c&H0060ECCD}it{\c&H00FFFFFF&} down when
+Dialogue: 1,0:00:25.09,0:00:25.31,Cap,,0,0,0,,{\pos(540,1400)}turn it {\c&H0060ECCD}down{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:25.31,0:00:25.55,Cap,,0,0,0,,{\pos(540,1400)}turn it down {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.55,0:00:25.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:25.69,0:00:26.13,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}don't{\c&H00FFFFFF&}

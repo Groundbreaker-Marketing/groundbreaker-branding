@@ -1,0 +1,103 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:29.89,Title,,0,0,0,,{\pos(540,360)}Same question.\N3 answers.
+Dialogue: 1,0:00:00.00,0:00:00.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} we read a
+Dialogue: 1,0:00:00.12,0:00:00.34,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}we{\c&H00FFFFFF&} read a
+Dialogue: 1,0:00:00.34,0:00:00.62,Cap,,0,0,0,,{\pos(540,1400)}when we {\c&H0060ECCD}read{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:00.62,0:00:01.08,Cap,,0,0,0,,{\pos(540,1400)}when we read {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.08,0:00:01.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}contractor's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.44,0:00:01.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}recorded{\c&H00FFFFFF&} sales
+Dialogue: 1,0:00:01.90,0:00:02.24,Cap,,0,0,0,,{\pos(540,1400)}recorded {\c&H0060ECCD}sales{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.24,0:00:02.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} we found
+Dialogue: 1,0:00:02.56,0:00:02.76,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}we{\c&H00FFFFFF&} found
+Dialogue: 1,0:00:02.76,0:00:02.98,Cap,,0,0,0,,{\pos(540,1400)}calls we {\c&H0060ECCD}found{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.98,0:00:03.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}three{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:03.32,0:00:03.58,Cap,,0,0,0,,{\pos(540,1400)}three {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.58,0:00:04.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answers{\c&H00FFFFFF&} to the
+Dialogue: 1,0:00:04.00,0:00:04.28,Cap,,0,0,0,,{\pos(540,1400)}answers {\c&H0060ECCD}to{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:04.28,0:00:04.40,Cap,,0,0,0,,{\pos(540,1400)}answers to {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.40,0:00:04.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}same{\c&H00FFFFFF&} question
+Dialogue: 1,0:00:04.60,0:00:05.02,Cap,,0,0,0,,{\pos(540,1400)}same {\c&H0060ECCD}question{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.02,0:00:05.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}same{\c&H00FFFFFF&} company same
+Dialogue: 1,0:00:05.84,0:00:06.38,Cap,,0,0,0,,{\pos(540,1400)}same {\c&H0060ECCD}company{\c&H00FFFFFF&} same
+Dialogue: 1,0:00:06.38,0:00:07.14,Cap,,0,0,0,,{\pos(540,1400)}same company {\c&H0060ECCD}same{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.14,0:00:07.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}product{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.64,0:00:08.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}different{\c&H00FFFFFF&} person
+Dialogue: 1,0:00:08.12,0:00:08.54,Cap,,0,0,0,,{\pos(540,1400)}different {\c&H0060ECCD}person{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.54,0:00:08.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} the phone
+Dialogue: 1,0:00:08.70,0:00:08.82,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}the{\c&H00FFFFFF&} phone
+Dialogue: 1,0:00:08.82,0:00:09.06,Cap,,0,0,0,,{\pos(540,1400)}on the {\c&H0060ECCD}phone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.06,0:00:10.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} notice
+Dialogue: 1,0:00:10.22,0:00:10.56,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}notice{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.56,0:00:11.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} one person
+Dialogue: 1,0:00:11.38,0:00:11.58,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}one{\c&H00FFFFFF&} person
+Dialogue: 1,0:00:11.58,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}if one {\c&H0060ECCD}person{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.86,0:00:12.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}says{\c&H00FFFFFF&} three weeks
+Dialogue: 1,0:00:12.16,0:00:12.40,Cap,,0,0,0,,{\pos(540,1400)}says {\c&H0060ECCD}three{\c&H00FFFFFF&} weeks
+Dialogue: 1,0:00:12.40,0:00:12.68,Cap,,0,0,0,,{\pos(540,1400)}says three {\c&H0060ECCD}weeks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.68,0:00:12.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} another says
+Dialogue: 1,0:00:12.90,0:00:13.18,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}another{\c&H00FFFFFF&} says
+Dialogue: 1,0:00:13.18,0:00:13.50,Cap,,0,0,0,,{\pos(540,1400)}and another {\c&H0060ECCD}says{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.50,0:00:13.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}six{\c&H00FFFFFF&} the customer
+Dialogue: 1,0:00:13.78,0:00:14.22,Cap,,0,0,0,,{\pos(540,1400)}six {\c&H0060ECCD}the{\c&H00FFFFFF&} customer
+Dialogue: 1,0:00:14.22,0:00:14.60,Cap,,0,0,0,,{\pos(540,1400)}six the {\c&H0060ECCD}customer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.60,0:00:14.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} trusts
+Dialogue: 1,0:00:14.96,0:00:15.20,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}trusts{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.20,0:00:15.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}neither{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.70,0:00:16.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} pick the
+Dialogue: 1,0:00:16.54,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}pick{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:16.80,0:00:16.96,Cap,,0,0,0,,{\pos(540,1400)}so pick {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.96,0:00:17.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answers{\c&H00FFFFFF&} to your
+Dialogue: 1,0:00:17.38,0:00:17.62,Cap,,0,0,0,,{\pos(540,1400)}answers {\c&H0060ECCD}to{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:17.62,0:00:17.76,Cap,,0,0,0,,{\pos(540,1400)}answers to {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.76,0:00:18.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}top{\c&H00FFFFFF&} ten questions
+Dialogue: 1,0:00:18.12,0:00:18.44,Cap,,0,0,0,,{\pos(540,1400)}top {\c&H0060ECCD}ten{\c&H00FFFFFF&} questions
+Dialogue: 1,0:00:18.44,0:00:18.98,Cap,,0,0,0,,{\pos(540,1400)}top ten {\c&H0060ECCD}questions{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.98,0:00:19.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} write them
+Dialogue: 1,0:00:19.22,0:00:19.48,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}write{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:19.48,0:00:19.72,Cap,,0,0,0,,{\pos(540,1400)}and write {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.72,0:00:19.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}down{\c&H00FFFFFF&} and make
+Dialogue: 1,0:00:19.92,0:00:20.10,Cap,,0,0,0,,{\pos(540,1400)}down {\c&H0060ECCD}and{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:20.10,0:00:20.24,Cap,,0,0,0,,{\pos(540,1400)}down and {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.24,0:00:20.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sure{\c&H00FFFFFF&} everybody
+Dialogue: 1,0:00:20.40,0:00:20.88,Cap,,0,0,0,,{\pos(540,1400)}sure {\c&H0060ECCD}everybody{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.88,0:00:21.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}uses{\c&H00FFFFFF&} them then
+Dialogue: 1,0:00:21.32,0:00:21.68,Cap,,0,0,0,,{\pos(540,1400)}uses {\c&H0060ECCD}them{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:21.68,0:00:22.32,Cap,,0,0,0,,{\pos(540,1400)}uses them {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.32,0:00:22.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}listen{\c&H00FFFFFF&} to a few
+Dialogue: 1,0:00:22.62,0:00:22.82,Cap,,0,0,0,,{\pos(540,1400)}listen {\c&H0060ECCD}to{\c&H00FFFFFF&} a few
+Dialogue: 1,0:00:22.82,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}listen to {\c&H0060ECCD}a{\c&H00FFFFFF&} few
+Dialogue: 1,0:00:22.94,0:00:23.08,Cap,,0,0,0,,{\pos(540,1400)}listen to a {\c&H0060ECCD}few{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.08,0:00:23.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} each week
+Dialogue: 1,0:00:23.44,0:00:23.72,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}each{\c&H00FFFFFF&} week
+Dialogue: 1,0:00:23.72,0:00:23.90,Cap,,0,0,0,,{\pos(540,1400)}calls each {\c&H0060ECCD}week{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.90,0:00:24.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} see who's
+Dialogue: 1,0:00:24.14,0:00:24.46,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}see{\c&H00FFFFFF&} who's
+Dialogue: 1,0:00:24.46,0:00:24.74,Cap,,0,0,0,,{\pos(540,1400)}and see {\c&H0060ECCD}who's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.74,0:00:24.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} off script
+Dialogue: 1,0:00:24.96,0:00:25.22,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}off{\c&H00FFFFFF&} script
+Dialogue: 1,0:00:25.22,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}going off {\c&H0060ECCD}script{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.58,0:00:26.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}consistent{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.74,0:00:27.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answers{\c&H00FFFFFF&} sound
+Dialogue: 1,0:00:27.32,0:00:27.70,Cap,,0,0,0,,{\pos(540,1400)}answers {\c&H0060ECCD}sound{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.70,0:00:27.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} a company
+Dialogue: 1,0:00:27.90,0:00:28.02,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}a{\c&H00FFFFFF&} company
+Dialogue: 1,0:00:28.02,0:00:28.34,Cap,,0,0,0,,{\pos(540,1400)}like a {\c&H0060ECCD}company{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.34,0:00:28.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} knows what
+Dialogue: 1,0:00:28.56,0:00:28.90,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}knows{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:28.90,0:00:29.12,Cap,,0,0,0,,{\pos(540,1400)}that knows {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.12,0:00:29.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:29.36,0:00:29.72,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}doing{\c&H00FFFFFF&}

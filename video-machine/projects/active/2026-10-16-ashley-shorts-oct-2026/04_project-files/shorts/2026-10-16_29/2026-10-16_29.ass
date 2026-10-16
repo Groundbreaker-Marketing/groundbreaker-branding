@@ -1,0 +1,94 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:29.53,Title,,0,0,0,,{\pos(540,360)}Google's lead\Ncount vs. yours
+Dialogue: 1,0:00:00.00,0:00:00.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google's{\c&H00FFFFFF&} count of
+Dialogue: 1,0:00:00.39,0:00:00.59,Cap,,0,0,0,,{\pos(540,1400)}Google's {\c&H0060ECCD}count{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:00.59,0:00:00.79,Cap,,0,0,0,,{\pos(540,1400)}Google's count {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.79,0:00:00.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} leads is not
+Dialogue: 1,0:00:00.93,0:00:01.23,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}leads{\c&H00FFFFFF&} is not
+Dialogue: 1,0:00:01.23,0:00:01.57,Cap,,0,0,0,,{\pos(540,1400)}your leads {\c&H0060ECCD}is{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:01.57,0:00:01.81,Cap,,0,0,0,,{\pos(540,1400)}your leads is {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.81,0:00:02.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} count of
+Dialogue: 1,0:00:02.15,0:00:02.47,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}count{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:02.47,0:00:02.65,Cap,,0,0,0,,{\pos(540,1400)}your count {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.65,0:00:02.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:02.81,0:00:03.19,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.19,0:00:03.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leads{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.85,0:00:04.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}One{\c&H00FFFFFF&} month
+Dialogue: 1,0:00:04.21,0:00:04.63,Cap,,0,0,0,,{\pos(540,1400)}One {\c&H0060ECCD}month{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.71,0:00:04.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} said a
+Dialogue: 1,0:00:04.85,0:00:05.11,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}said{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:05.11,0:00:05.27,Cap,,0,0,0,,{\pos(540,1400)}Google said {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.27,0:00:05.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} client had
+Dialogue: 1,0:00:05.61,0:00:05.87,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}client{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:05.87,0:00:06.09,Cap,,0,0,0,,{\pos(540,1400)}septic client {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.09,0:00:06.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}27{\c&H00FFFFFF&} conversions
+Dialogue: 1,0:00:06.55,0:00:07.43,Cap,,0,0,0,,{\pos(540,1400)}27 {\c&H0060ECCD}conversions{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.67,0:00:08.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} counted 19
+Dialogue: 1,0:00:08.11,0:00:08.45,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}counted{\c&H00FFFFFF&} 19
+Dialogue: 1,0:00:08.45,0:00:08.95,Cap,,0,0,0,,{\pos(540,1400)}We counted {\c&H0060ECCD}19{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.95,0:00:09.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}real{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:09.23,0:00:09.71,Cap,,0,0,0,,{\pos(540,1400)}real {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.90,0:00:10.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Repeat{\c&H00FFFFFF&} callers
+Dialogue: 1,0:00:10.44,0:00:10.98,Cap,,0,0,0,,{\pos(540,1400)}Repeat {\c&H0060ECCD}callers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.98,0:00:11.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}got{\c&H00FFFFFF&} counted
+Dialogue: 1,0:00:11.14,0:00:11.48,Cap,,0,0,0,,{\pos(540,1400)}got {\c&H0060ECCD}counted{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.48,0:00:11.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}again{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.12,0:00:12.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}For{\c&H00FFFFFF&} another
+Dialogue: 1,0:00:12.46,0:00:12.70,Cap,,0,0,0,,{\pos(540,1400)}For {\c&H0060ECCD}another{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.70,0:00:13.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}client{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.06,0:00:13.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} said 104
+Dialogue: 1,0:00:13.38,0:00:13.62,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}said{\c&H00FFFFFF&} 104
+Dialogue: 1,0:00:13.62,0:00:14.20,Cap,,0,0,0,,{\pos(540,1400)}Google said {\c&H0060ECCD}104{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.20,0:00:14.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} we counted
+Dialogue: 1,0:00:14.56,0:00:14.70,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}we{\c&H00FFFFFF&} counted
+Dialogue: 1,0:00:14.70,0:00:15.00,Cap,,0,0,0,,{\pos(540,1400)}and we {\c&H0060ECCD}counted{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.00,0:00:16.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}126{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:16.10,0:00:16.62,Cap,,0,0,0,,{\pos(540,1400)}126 {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.72,0:00:17.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} missed
+Dialogue: 1,0:00:17.08,0:00:17.40,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}missed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.40,0:00:17.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}some{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.88,0:00:18.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} counts
+Dialogue: 1,0:00:18.30,0:00:18.68,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}counts{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.68,0:00:19.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actions{\c&H00FFFFFF&} but you
+Dialogue: 1,0:00:19.20,0:00:19.46,Cap,,0,0,0,,{\pos(540,1400)}actions {\c&H0060ECCD}but{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:19.46,0:00:19.66,Cap,,0,0,0,,{\pos(540,1400)}actions but {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.66,0:00:19.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} need
+Dialogue: 1,0:00:19.96,0:00:20.16,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}need{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.16,0:00:20.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} calling
+Dialogue: 1,0:00:20.54,0:00:21.12,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}calling{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.24,0:00:21.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}One{\c&H00FFFFFF&} person
+Dialogue: 1,0:00:21.70,0:00:22.18,Cap,,0,0,0,,{\pos(540,1400)}One {\c&H0060ECCD}person{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.18,0:00:22.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}counted{\c&H00FFFFFF&} once
+Dialogue: 1,0:00:22.62,0:00:23.00,Cap,,0,0,0,,{\pos(540,1400)}counted {\c&H0060ECCD}once{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.00,0:00:23.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}however{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:23.26,0:00:23.56,Cap,,0,0,0,,{\pos(540,1400)}however {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.56,0:00:23.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reached{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:23.90,0:00:24.26,Cap,,0,0,0,,{\pos(540,1400)}reached {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.46,0:00:25.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Spam{\c&H00FFFFFF&} and sales
+Dialogue: 1,0:00:25.06,0:00:25.20,Cap,,0,0,0,,{\pos(540,1400)}Spam {\c&H0060ECCD}and{\c&H00FFFFFF&} sales
+Dialogue: 1,0:00:25.20,0:00:25.50,Cap,,0,0,0,,{\pos(540,1400)}Spam and {\c&H0060ECCD}sales{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.50,0:00:25.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} taken out
+Dialogue: 1,0:00:25.88,0:00:26.26,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}taken{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:26.26,0:00:26.66,Cap,,0,0,0,,{\pos(540,1400)}calls taken {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.74,0:00:26.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} the only
+Dialogue: 1,0:00:26.96,0:00:27.14,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}the{\c&H00FFFFFF&} only
+Dialogue: 1,0:00:27.14,0:00:27.58,Cap,,0,0,0,,{\pos(540,1400)}That's the {\c&H0060ECCD}only{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.58,0:00:27.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lead{\c&H00FFFFFF&} count worth
+Dialogue: 1,0:00:27.88,0:00:28.18,Cap,,0,0,0,,{\pos(540,1400)}lead {\c&H0060ECCD}count{\c&H00FFFFFF&} worth
+Dialogue: 1,0:00:28.18,0:00:28.52,Cap,,0,0,0,,{\pos(540,1400)}lead count {\c&H0060ECCD}worth{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.52,0:00:28.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} attention
+Dialogue: 1,0:00:28.74,0:00:29.30,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}attention{\c&H00FFFFFF&}

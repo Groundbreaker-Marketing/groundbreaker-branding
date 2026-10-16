@@ -1,0 +1,108 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:34.00,Title,,0,0,0,,{\pos(540,360)}Install ads: the\Nreal cost per call
+Dialogue: 1,0:00:00.00,0:00:00.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Septic{\c&H00FFFFFF&} owners
+Dialogue: 1,0:00:00.39,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}Septic {\c&H0060ECCD}owners{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.89,0:00:01.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you run ads
+Dialogue: 1,0:00:01.11,0:00:01.47,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} run ads
+Dialogue: 1,0:00:01.47,0:00:01.85,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}run{\c&H00FFFFFF&} ads
+Dialogue: 1,0:00:01.85,0:00:02.23,Cap,,0,0,0,,{\pos(540,1400)}if you run {\c&H0060ECCD}ads{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.23,0:00:02.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} new installs
+Dialogue: 1,0:00:02.43,0:00:02.61,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}new{\c&H00FFFFFF&} installs
+Dialogue: 1,0:00:02.61,0:00:03.39,Cap,,0,0,0,,{\pos(540,1400)}for new {\c&H0060ECCD}installs{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.39,0:00:03.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} cost per
+Dialogue: 1,0:00:03.75,0:00:04.17,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}cost{\c&H00FFFFFF&} per
+Dialogue: 1,0:00:04.17,0:00:04.37,Cap,,0,0,0,,{\pos(540,1400)}your cost {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.37,0:00:04.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}call{\c&H00FFFFFF&} is probably
+Dialogue: 1,0:00:04.63,0:00:04.87,Cap,,0,0,0,,{\pos(540,1400)}call {\c&H0060ECCD}is{\c&H00FFFFFF&} probably
+Dialogue: 1,0:00:04.87,0:00:05.35,Cap,,0,0,0,,{\pos(540,1400)}call is {\c&H0060ECCD}probably{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.35,0:00:05.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fooling{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:05.91,0:00:06.21,Cap,,0,0,0,,{\pos(540,1400)}fooling {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.29,0:00:06.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} looked at 90
+Dialogue: 1,0:00:06.75,0:00:07.11,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}looked{\c&H00FFFFFF&} at 90
+Dialogue: 1,0:00:07.11,0:00:07.29,Cap,,0,0,0,,{\pos(540,1400)}We looked {\c&H0060ECCD}at{\c&H00FFFFFF&} 90
+Dialogue: 1,0:00:07.29,0:00:07.65,Cap,,0,0,0,,{\pos(540,1400)}We looked at {\c&H0060ECCD}90{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.65,0:00:07.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}days{\c&H00FFFFFF&} of install
+Dialogue: 1,0:00:07.87,0:00:08.15,Cap,,0,0,0,,{\pos(540,1400)}days {\c&H0060ECCD}of{\c&H00FFFFFF&} install
+Dialogue: 1,0:00:08.15,0:00:08.53,Cap,,0,0,0,,{\pos(540,1400)}days of {\c&H0060ECCD}install{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.53,0:00:08.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ads{\c&H00FFFFFF&} for a septic
+Dialogue: 1,0:00:08.95,0:00:09.11,Cap,,0,0,0,,{\pos(540,1400)}ads {\c&H0060ECCD}for{\c&H00FFFFFF&} a septic
+Dialogue: 1,0:00:09.11,0:00:09.27,Cap,,0,0,0,,{\pos(540,1400)}ads for {\c&H0060ECCD}a{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:09.27,0:00:09.59,Cap,,0,0,0,,{\pos(540,1400)}ads for a {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.59,0:00:10.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company{\c&H00FFFFFF&} in Texas
+Dialogue: 1,0:00:10.01,0:00:10.31,Cap,,0,0,0,,{\pos(540,1400)}company {\c&H0060ECCD}in{\c&H00FFFFFF&} Texas
+Dialogue: 1,0:00:10.31,0:00:10.81,Cap,,0,0,0,,{\pos(540,1400)}company in {\c&H0060ECCD}Texas{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.07,0:00:11.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}About{\c&H00FFFFFF&} $73 per
+Dialogue: 1,0:00:11.53,0:00:12.25,Cap,,0,0,0,,{\pos(540,1400)}About {\c&H0060ECCD}$73{\c&H00FFFFFF&} per
+Dialogue: 1,0:00:12.25,0:00:12.89,Cap,,0,0,0,,{\pos(540,1400)}About $73 {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.89,0:00:13.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.47,0:00:13.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Looks{\c&H00FFFFFF&} great
+Dialogue: 1,0:00:13.91,0:00:14.67,Cap,,0,0,0,,{\pos(540,1400)}Looks {\c&H0060ECCD}great{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.85,0:00:15.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}But{\c&H00FFFFFF&} when we read
+Dialogue: 1,0:00:15.25,0:00:15.43,Cap,,0,0,0,,{\pos(540,1400)}But {\c&H0060ECCD}when{\c&H00FFFFFF&} we read
+Dialogue: 1,0:00:15.43,0:00:15.63,Cap,,0,0,0,,{\pos(540,1400)}But when {\c&H0060ECCD}we{\c&H00FFFFFF&} read
+Dialogue: 1,0:00:15.63,0:00:15.95,Cap,,0,0,0,,{\pos(540,1400)}But when we {\c&H0060ECCD}read{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.95,0:00:16.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} calls
+Dialogue: 1,0:00:16.11,0:00:16.53,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}calls{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.57,0:00:16.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}only{\c&H00FFFFFF&} about half
+Dialogue: 1,0:00:16.75,0:00:16.97,Cap,,0,0,0,,{\pos(540,1400)}only {\c&H0060ECCD}about{\c&H00FFFFFF&} half
+Dialogue: 1,0:00:16.97,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}only about {\c&H0060ECCD}half{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.31,0:00:17.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} wanted
+Dialogue: 1,0:00:17.89,0:00:18.25,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}wanted{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.25,0:00:18.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}an{\c&H00FFFFFF&} install
+Dialogue: 1,0:00:18.45,0:00:18.99,Cap,,0,0,0,,{\pos(540,1400)}an {\c&H0060ECCD}install{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.05,0:00:19.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} rest wanted a
+Dialogue: 1,0:00:19.43,0:00:19.77,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}rest{\c&H00FFFFFF&} wanted a
+Dialogue: 1,0:00:19.77,0:00:20.09,Cap,,0,0,0,,{\pos(540,1400)}The rest {\c&H0060ECCD}wanted{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:20.09,0:00:20.33,Cap,,0,0,0,,{\pos(540,1400)}The rest wanted {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.33,0:00:20.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pump-out{\c&H00FFFFFF&} or a
+Dialogue: 1,0:00:20.83,0:00:21.21,Cap,,0,0,0,,{\pos(540,1400)}pump-out {\c&H0060ECCD}or{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:21.21,0:00:21.35,Cap,,0,0,0,,{\pos(540,1400)}pump-out or {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.35,0:00:21.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}repair{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.08,0:00:22.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} a real install
+Dialogue: 1,0:00:22.72,0:00:22.88,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}a{\c&H00FFFFFF&} real install
+Dialogue: 1,0:00:22.88,0:00:23.12,Cap,,0,0,0,,{\pos(540,1400)}So a {\c&H0060ECCD}real{\c&H00FFFFFF&} install
+Dialogue: 1,0:00:23.12,0:00:23.50,Cap,,0,0,0,,{\pos(540,1400)}So a real {\c&H0060ECCD}install{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.50,0:00:23.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}call{\c&H00FFFFFF&} costs more
+Dialogue: 1,0:00:23.82,0:00:24.18,Cap,,0,0,0,,{\pos(540,1400)}call {\c&H0060ECCD}costs{\c&H00FFFFFF&} more
+Dialogue: 1,0:00:24.18,0:00:24.32,Cap,,0,0,0,,{\pos(540,1400)}call costs {\c&H0060ECCD}more{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.32,0:00:24.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} $150 to
+Dialogue: 1,0:00:24.48,0:00:25.18,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}$150{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:25.18,0:00:25.84,Cap,,0,0,0,,{\pos(540,1400)}like $150 {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.84,0:00:27.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}$175{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.46,0:00:28.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} still a
+Dialogue: 1,0:00:28.10,0:00:28.36,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}still{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:28.36,0:00:28.56,Cap,,0,0,0,,{\pos(540,1400)}That's still {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.56,0:00:28.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}good{\c&H00FFFFFF&} deal on a
+Dialogue: 1,0:00:28.68,0:00:29.00,Cap,,0,0,0,,{\pos(540,1400)}good {\c&H0060ECCD}deal{\c&H00FFFFFF&} on a
+Dialogue: 1,0:00:29.00,0:00:29.26,Cap,,0,0,0,,{\pos(540,1400)}good deal {\c&H0060ECCD}on{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:29.26,0:00:29.40,Cap,,0,0,0,,{\pos(540,1400)}good deal on {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.40,0:00:29.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}job{\c&H00FFFFFF&} that size
+Dialogue: 1,0:00:29.62,0:00:29.90,Cap,,0,0,0,,{\pos(540,1400)}job {\c&H0060ECCD}that{\c&H00FFFFFF&} size
+Dialogue: 1,0:00:29.90,0:00:30.30,Cap,,0,0,0,,{\pos(540,1400)}job that {\c&H0060ECCD}size{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.30,0:00:30.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} plan your
+Dialogue: 1,0:00:30.88,0:00:31.26,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}plan{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:31.26,0:00:31.50,Cap,,0,0,0,,{\pos(540,1400)}just plan {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.50,0:00:31.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}budget{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:31.82,0:00:32.06,Cap,,0,0,0,,{\pos(540,1400)}budget {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:32.06,0:00:32.18,Cap,,0,0,0,,{\pos(540,1400)}budget on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.18,0:00:32.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}real{\c&H00FFFFFF&} number not
+Dialogue: 1,0:00:32.46,0:00:32.88,Cap,,0,0,0,,{\pos(540,1400)}real {\c&H0060ECCD}number{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:32.88,0:00:33.28,Cap,,0,0,0,,{\pos(540,1400)}real number {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.28,0:00:33.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} the pretty one
+Dialogue: 1,0:00:33.46,0:00:33.54,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}the{\c&H00FFFFFF&} pretty one
+Dialogue: 1,0:00:33.54,0:00:33.76,Cap,,0,0,0,,{\pos(540,1400)}on the {\c&H0060ECCD}pretty{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:33.76,0:00:34.12,Cap,,0,0,0,,{\pos(540,1400)}on the pretty {\c&H0060ECCD}one{\c&H00FFFFFF&}

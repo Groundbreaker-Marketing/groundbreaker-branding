@@ -1,0 +1,94 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:26.93,Title,,0,0,0,,{\pos(540,360)}1 setting = junk leads
+Dialogue: 1,0:00:00.00,0:00:01.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} your facebook
+Dialogue: 1,0:00:01.44,0:00:01.64,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}your{\c&H00FFFFFF&} facebook
+Dialogue: 1,0:00:01.64,0:00:01.98,Cap,,0,0,0,,{\pos(540,1400)}if your {\c&H0060ECCD}facebook{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.98,0:00:02.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ads{\c&H00FFFFFF&} bring in junk
+Dialogue: 1,0:00:02.41,0:00:02.71,Cap,,0,0,0,,{\pos(540,1400)}ads {\c&H0060ECCD}bring{\c&H00FFFFFF&} in junk
+Dialogue: 1,0:00:02.71,0:00:02.85,Cap,,0,0,0,,{\pos(540,1400)}ads bring {\c&H0060ECCD}in{\c&H00FFFFFF&} junk
+Dialogue: 1,0:00:02.85,0:00:03.17,Cap,,0,0,0,,{\pos(540,1400)}ads bring in {\c&H0060ECCD}junk{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.17,0:00:03.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leads{\c&H00FFFFFF&} check one
+Dialogue: 1,0:00:03.57,0:00:03.85,Cap,,0,0,0,,{\pos(540,1400)}leads {\c&H0060ECCD}check{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:03.85,0:00:04.09,Cap,,0,0,0,,{\pos(540,1400)}leads check {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.09,0:00:04.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}setting{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:04.41,0:00:04.83,Cap,,0,0,0,,{\pos(540,1400)}setting {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.83,0:00:05.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}called{\c&H00FFFFFF&} audience
+Dialogue: 1,0:00:05.05,0:00:05.55,Cap,,0,0,0,,{\pos(540,1400)}called {\c&H0060ECCD}audience{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.55,0:00:06.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}network{\c&H00FFFFFF&} it shows
+Dialogue: 1,0:00:06.03,0:00:06.75,Cap,,0,0,0,,{\pos(540,1400)}network {\c&H0060ECCD}it{\c&H00FFFFFF&} shows
+Dialogue: 1,0:00:06.75,0:00:06.99,Cap,,0,0,0,,{\pos(540,1400)}network it {\c&H0060ECCD}shows{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.99,0:00:07.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} ads inside
+Dialogue: 1,0:00:07.23,0:00:07.55,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}ads{\c&H00FFFFFF&} inside
+Dialogue: 1,0:00:07.55,0:00:08.01,Cap,,0,0,0,,{\pos(540,1400)}your ads {\c&H0060ECCD}inside{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.01,0:00:08.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}other{\c&H00FFFFFF&} apps and
+Dialogue: 1,0:00:08.39,0:00:08.77,Cap,,0,0,0,,{\pos(540,1400)}other {\c&H0060ECCD}apps{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:08.77,0:00:08.91,Cap,,0,0,0,,{\pos(540,1400)}other apps {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.91,0:00:09.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}websites{\c&H00FFFFFF&} not on
+Dialogue: 1,0:00:09.33,0:00:09.85,Cap,,0,0,0,,{\pos(540,1400)}websites {\c&H0060ECCD}not{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:09.85,0:00:10.13,Cap,,0,0,0,,{\pos(540,1400)}websites not {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.13,0:00:10.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}facebook{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:10.53,0:00:10.75,Cap,,0,0,0,,{\pos(540,1400)}facebook {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.75,0:00:11.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}instagram{\c&H00FFFFFF&} for one
+Dialogue: 1,0:00:11.16,0:00:11.88,Cap,,0,0,0,,{\pos(540,1400)}instagram {\c&H0060ECCD}for{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:11.88,0:00:12.10,Cap,,0,0,0,,{\pos(540,1400)}instagram for {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.10,0:00:12.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}client{\c&H00FFFFFF&} it spent
+Dialogue: 1,0:00:12.42,0:00:12.66,Cap,,0,0,0,,{\pos(540,1400)}client {\c&H0060ECCD}it{\c&H00FFFFFF&} spent
+Dialogue: 1,0:00:12.66,0:00:12.82,Cap,,0,0,0,,{\pos(540,1400)}client it {\c&H0060ECCD}spent{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.82,0:00:13.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} 78 and
+Dialogue: 1,0:00:13.06,0:00:13.54,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}78{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:13.54,0:00:14.10,Cap,,0,0,0,,{\pos(540,1400)}about 78 {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.10,0:00:14.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}brought{\c&H00FFFFFF&} in zero
+Dialogue: 1,0:00:14.30,0:00:14.48,Cap,,0,0,0,,{\pos(540,1400)}brought {\c&H0060ECCD}in{\c&H00FFFFFF&} zero
+Dialogue: 1,0:00:14.48,0:00:14.78,Cap,,0,0,0,,{\pos(540,1400)}brought in {\c&H0060ECCD}zero{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.78,0:00:15.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leads{\c&H00FFFFFF&} I've had
+Dialogue: 1,0:00:15.26,0:00:16.00,Cap,,0,0,0,,{\pos(540,1400)}leads {\c&H0060ECCD}I've{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:16.00,0:00:16.10,Cap,,0,0,0,,{\pos(540,1400)}leads I've {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.10,0:00:16.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clients{\c&H00FFFFFF&} getting
+Dialogue: 1,0:00:16.46,0:00:16.70,Cap,,0,0,0,,{\pos(540,1400)}clients {\c&H0060ECCD}getting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.70,0:00:17.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}30{\c&H00FFFFFF&} spam forms a
+Dialogue: 1,0:00:17.12,0:00:17.56,Cap,,0,0,0,,{\pos(540,1400)}30 {\c&H0060ECCD}spam{\c&H00FFFFFF&} forms a
+Dialogue: 1,0:00:17.56,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}30 spam {\c&H0060ECCD}forms{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:17.98,0:00:18.20,Cap,,0,0,0,,{\pos(540,1400)}30 spam forms {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.20,0:00:18.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}day{\c&H00FFFFFF&} turning that
+Dialogue: 1,0:00:18.48,0:00:19.24,Cap,,0,0,0,,{\pos(540,1400)}day {\c&H0060ECCD}turning{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:19.24,0:00:19.46,Cap,,0,0,0,,{\pos(540,1400)}day turning {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.46,0:00:19.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} setting off
+Dialogue: 1,0:00:19.76,0:00:20.08,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}setting{\c&H00FFFFFF&} off
+Dialogue: 1,0:00:20.08,0:00:20.40,Cap,,0,0,0,,{\pos(540,1400)}one setting {\c&H0060ECCD}off{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.40,0:00:20.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} what stopped
+Dialogue: 1,0:00:20.64,0:00:20.82,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}what{\c&H00FFFFFF&} stopped
+Dialogue: 1,0:00:20.82,0:00:21.16,Cap,,0,0,0,,{\pos(540,1400)}is what {\c&H0060ECCD}stopped{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.16,0:00:21.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.62,0:00:22.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} turn it off
+Dialogue: 1,0:00:22.02,0:00:22.22,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}turn{\c&H00FFFFFF&} it off
+Dialogue: 1,0:00:22.22,0:00:22.36,Cap,,0,0,0,,{\pos(540,1400)}We turn {\c&H0060ECCD}it{\c&H00FFFFFF&} off
+Dialogue: 1,0:00:22.36,0:00:22.60,Cap,,0,0,0,,{\pos(540,1400)}We turn it {\c&H0060ECCD}off{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.60,0:00:22.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} every ad we
+Dialogue: 1,0:00:22.84,0:00:23.34,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}every{\c&H00FFFFFF&} ad we
+Dialogue: 1,0:00:23.34,0:00:23.70,Cap,,0,0,0,,{\pos(540,1400)}on every {\c&H0060ECCD}ad{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:23.70,0:00:23.90,Cap,,0,0,0,,{\pos(540,1400)}on every ad {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.90,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}run{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.38,0:00:24.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Ask{\c&H00FFFFFF&} whoever runs
+Dialogue: 1,0:00:24.72,0:00:25.04,Cap,,0,0,0,,{\pos(540,1400)}Ask {\c&H0060ECCD}whoever{\c&H00FFFFFF&} runs
+Dialogue: 1,0:00:25.04,0:00:25.42,Cap,,0,0,0,,{\pos(540,1400)}Ask whoever {\c&H0060ECCD}runs{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.42,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} ads to check
+Dialogue: 1,0:00:25.58,0:00:25.90,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}ads{\c&H00FFFFFF&} to check
+Dialogue: 1,0:00:25.90,0:00:26.10,Cap,,0,0,0,,{\pos(540,1400)}your ads {\c&H0060ECCD}to{\c&H00FFFFFF&} check
+Dialogue: 1,0:00:26.10,0:00:26.32,Cap,,0,0,0,,{\pos(540,1400)}your ads to {\c&H0060ECCD}check{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.32,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} this week
+Dialogue: 1,0:00:26.46,0:00:26.64,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}this{\c&H00FFFFFF&} week
+Dialogue: 1,0:00:26.64,0:00:27.06,Cap,,0,0,0,,{\pos(540,1400)}it this {\c&H0060ECCD}week{\c&H00FFFFFF&}

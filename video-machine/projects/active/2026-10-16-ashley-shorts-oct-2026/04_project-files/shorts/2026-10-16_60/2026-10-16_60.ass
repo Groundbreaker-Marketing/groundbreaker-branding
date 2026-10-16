@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:26.54,Title,,0,0,0,,{\pos(540,360)}Test your website\Nin 2 minutes
+Dialogue: 1,0:00:00.00,0:00:00.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Here's{\c&H00FFFFFF&} a 2-minute
+Dialogue: 1,0:00:00.25,0:00:00.37,Cap,,0,0,0,,{\pos(540,1400)}Here's {\c&H0060ECCD}a{\c&H00FFFFFF&} 2-minute
+Dialogue: 1,0:00:00.37,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}Here's a {\c&H0060ECCD}2-minute{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.83,0:00:01.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}test{\c&H00FFFFFF&} that tells
+Dialogue: 1,0:00:01.21,0:00:01.41,Cap,,0,0,0,,{\pos(540,1400)}test {\c&H0060ECCD}that{\c&H00FFFFFF&} tells
+Dialogue: 1,0:00:01.41,0:00:01.65,Cap,,0,0,0,,{\pos(540,1400)}test that {\c&H0060ECCD}tells{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.65,0:00:01.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} if your
+Dialogue: 1,0:00:01.81,0:00:01.95,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}if{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:01.95,0:00:02.07,Cap,,0,0,0,,{\pos(540,1400)}you if {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.07,0:00:02.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:02.41,0:00:02.67,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.67,0:00:03.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}costing{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:03.05,0:00:03.27,Cap,,0,0,0,,{\pos(540,1400)}costing {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.27,0:00:03.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.83,0:00:04.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Pull{\c&H00FFFFFF&} out your
+Dialogue: 1,0:00:04.31,0:00:04.47,Cap,,0,0,0,,{\pos(540,1400)}Pull {\c&H0060ECCD}out{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:04.47,0:00:04.65,Cap,,0,0,0,,{\pos(540,1400)}Pull out {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.65,0:00:05.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.21,0:00:05.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Pretend{\c&H00FFFFFF&} your tank
+Dialogue: 1,0:00:05.67,0:00:05.85,Cap,,0,0,0,,{\pos(540,1400)}Pretend {\c&H0060ECCD}your{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:05.85,0:00:06.11,Cap,,0,0,0,,{\pos(540,1400)}Pretend your {\c&H0060ECCD}tank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.11,0:00:06.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} backing up
+Dialogue: 1,0:00:06.33,0:00:06.59,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}backing{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:06.59,0:00:06.99,Cap,,0,0,0,,{\pos(540,1400)}is backing {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.09,0:00:07.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Search{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:07.57,0:00:07.81,Cap,,0,0,0,,{\pos(540,1400)}Search {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.81,0:00:08.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}service{\c&H00FFFFFF&} and your
+Dialogue: 1,0:00:08.15,0:00:08.33,Cap,,0,0,0,,{\pos(540,1400)}service {\c&H0060ECCD}and{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:08.33,0:00:08.47,Cap,,0,0,0,,{\pos(540,1400)}service and {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.47,0:00:08.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}town{\c&H00FFFFFF&} and open
+Dialogue: 1,0:00:08.77,0:00:08.99,Cap,,0,0,0,,{\pos(540,1400)}town {\c&H0060ECCD}and{\c&H00FFFFFF&} open
+Dialogue: 1,0:00:08.99,0:00:09.27,Cap,,0,0,0,,{\pos(540,1400)}town and {\c&H0060ECCD}open{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.27,0:00:09.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:09.45,0:00:09.97,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.13,0:00:10.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Can{\c&H00FFFFFF&} you call in
+Dialogue: 1,0:00:10.53,0:00:10.65,Cap,,0,0,0,,{\pos(540,1400)}Can {\c&H0060ECCD}you{\c&H00FFFFFF&} call in
+Dialogue: 1,0:00:10.65,0:00:10.99,Cap,,0,0,0,,{\pos(540,1400)}Can you {\c&H0060ECCD}call{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:10.99,0:00:11.21,Cap,,0,0,0,,{\pos(540,1400)}Can you call {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.21,0:00:11.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} tap without
+Dialogue: 1,0:00:11.43,0:00:11.73,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}tap{\c&H00FFFFFF&} without
+Dialogue: 1,0:00:11.73,0:00:12.01,Cap,,0,0,0,,{\pos(540,1400)}one tap {\c&H0060ECCD}without{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.01,0:00:12.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}scrolling?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.83,0:00:12.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Can{\c&H00FFFFFF&} you see your
+Dialogue: 1,0:00:12.97,0:00:13.11,Cap,,0,0,0,,{\pos(540,1400)}Can {\c&H0060ECCD}you{\c&H00FFFFFF&} see your
+Dialogue: 1,0:00:13.11,0:00:13.31,Cap,,0,0,0,,{\pos(540,1400)}Can you {\c&H0060ECCD}see{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:13.31,0:00:13.51,Cap,,0,0,0,,{\pos(540,1400)}Can you see {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.51,0:00:14.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reviews{\c&H00FFFFFF&} right
+Dialogue: 1,0:00:14.05,0:00:14.31,Cap,,0,0,0,,{\pos(540,1400)}reviews {\c&H0060ECCD}right{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.31,0:00:14.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}away?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.83,0:00:15.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Is{\c&H00FFFFFF&} it clear what
+Dialogue: 1,0:00:15.31,0:00:15.43,Cap,,0,0,0,,{\pos(540,1400)}Is {\c&H0060ECCD}it{\c&H00FFFFFF&} clear what
+Dialogue: 1,0:00:15.43,0:00:15.77,Cap,,0,0,0,,{\pos(540,1400)}Is it {\c&H0060ECCD}clear{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:15.77,0:00:16.01,Cap,,0,0,0,,{\pos(540,1400)}Is it clear {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.01,0:00:16.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}towns{\c&H00FFFFFF&} you serve
+Dialogue: 1,0:00:16.35,0:00:16.55,Cap,,0,0,0,,{\pos(540,1400)}towns {\c&H0060ECCD}you{\c&H00FFFFFF&} serve
+Dialogue: 1,0:00:16.55,0:00:16.83,Cap,,0,0,0,,{\pos(540,1400)}towns you {\c&H0060ECCD}serve{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.83,0:00:17.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} what happens
+Dialogue: 1,0:00:17.03,0:00:17.25,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}what{\c&H00FFFFFF&} happens
+Dialogue: 1,0:00:17.25,0:00:17.61,Cap,,0,0,0,,{\pos(540,1400)}and what {\c&H0060ECCD}happens{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.61,0:00:18.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}next?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.41,0:00:18.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}If{\c&H00FFFFFF&} you had to
+Dialogue: 1,0:00:18.89,0:00:19.03,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}you{\c&H00FFFFFF&} had to
+Dialogue: 1,0:00:19.03,0:00:19.25,Cap,,0,0,0,,{\pos(540,1400)}If you {\c&H0060ECCD}had{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:19.25,0:00:19.37,Cap,,0,0,0,,{\pos(540,1400)}If you had {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.37,0:00:19.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hunt{\c&H00FFFFFF&} for any of
+Dialogue: 1,0:00:19.59,0:00:19.81,Cap,,0,0,0,,{\pos(540,1400)}hunt {\c&H0060ECCD}for{\c&H00FFFFFF&} any of
+Dialogue: 1,0:00:19.81,0:00:20.07,Cap,,0,0,0,,{\pos(540,1400)}hunt for {\c&H0060ECCD}any{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:20.07,0:00:20.25,Cap,,0,0,0,,{\pos(540,1400)}hunt for any {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.25,0:00:20.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.73,0:00:20.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} does every
+Dialogue: 1,0:00:20.89,0:00:21.15,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}does{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:21.15,0:00:21.63,Cap,,0,0,0,,{\pos(540,1400)}so does {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.63,0:00:22.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.33,0:00:22.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} most of them
+Dialogue: 1,0:00:22.57,0:00:22.87,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}most{\c&H00FFFFFF&} of them
+Dialogue: 1,0:00:22.87,0:00:23.03,Cap,,0,0,0,,{\pos(540,1400)}And most {\c&H0060ECCD}of{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:23.03,0:00:23.23,Cap,,0,0,0,,{\pos(540,1400)}And most of {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.23,0:00:23.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} hunt
+Dialogue: 1,0:00:23.61,0:00:24.09,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}hunt{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.09,0:00:24.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} just call
+Dialogue: 1,0:00:24.47,0:00:24.69,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}just{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:24.69,0:00:24.93,Cap,,0,0,0,,{\pos(540,1400)}they just {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.93,0:00:25.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} next company
+Dialogue: 1,0:00:25.09,0:00:25.29,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}next{\c&H00FFFFFF&} company
+Dialogue: 1,0:00:25.29,0:00:25.65,Cap,,0,0,0,,{\pos(540,1400)}the next {\c&H0060ECCD}company{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.65,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} the list
+Dialogue: 1,0:00:25.83,0:00:25.93,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}the{\c&H00FFFFFF&} list
+Dialogue: 1,0:00:25.93,0:00:26.33,Cap,,0,0,0,,{\pos(540,1400)}on the {\c&H0060ECCD}list{\c&H00FFFFFF&}

@@ -6,6 +6,24 @@ in at the end of EVERY project (ad-machine SOP step 7): what worked, what broke,
 misunderstood, what was done by hand. A producer who cannot push to the engine repo puts engine
 lessons under "For the engine"; whoever maintains the engine ports them into the SOP.
 
+### 2026-10-16 ashley-shorts-oct-2026 (Ashley's own teleprompter Shorts, first batch)
+- Worked: 75 scripts (content-machine reels/clients/groundbreaker/batches/2026-10-16.json) read off the
+  Elgato Prompter (Camera Hub, five 15-script sessions) into one 58:25 Zoom cloud recording (meeting
+  6620561605, 1280x720). podcast.zoom pull, then `reels.build --scripts` (first run of the batch-file
+  path, video-machine #40): 57 of 75 matched, 51 rendered (1080x1920, -14 LUFS, crop on her face) and
+  pushed with `opsboard push-shorts` to the Ops Content Review tab as batch ashley-shorts-2026-10-16
+  (Ops id 34, all needs_review, no publish_at yet). Nothing touched Liam's FnD Review tab.
+- Ashley's notes out loud: cut 14 on camera, skipped 8 (content-machine batches/2026-10-16-notes.md).
+  Of the 57 matched, 37/51/56/70 are her on-camera cuts and 40/71 are held (her "septic client"
+  ad-lib was about HVAC clients): all six `dropped` + `locked` in shorts.json.
+- Done by hand: title line breaks on 04, 18, 30, 31, 66 (wrap() split "2 / months", "7:01 / AM"),
+  locked. Caption footer: social.copy_rules FAILs "groundbreakermarketing.com" in any form as a brand
+  misspelling, so the footer ends "Groundbreaker Marketing" (content-machine #37).
+- First push --apply printed the plan but Ops had no batch afterwards; a second --apply created it
+  (id 34) with all 51 items. Idempotent, so re-running is safe; check `opsboard status` after.
+- For the engine: reels.build `wrap()` should not split a number from its word or "AM"/"PM" from the
+  time; copy_rules should exempt a domain name from the brand-terms check.
+
 ### 2026-10-06 podcast-episode (first Zoom podcast episode + 15 Shorts)
 - Worked: podcast.zoom pull of a 30-minute personal-room recording (two parts); podcast.transcribe
   (large-v3-turbo, ~0.7x real time); podcast.episode built a 25:15 episode from 26:44 (61 fillers,

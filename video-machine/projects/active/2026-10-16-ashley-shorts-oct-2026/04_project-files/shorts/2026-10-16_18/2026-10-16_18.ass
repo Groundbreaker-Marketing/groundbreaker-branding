@@ -1,0 +1,105 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.24,Title,,0,0,0,,{\pos(540,360)}Your name,\N5 different ways
+Dialogue: 1,0:00:00.00,0:00:00.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Your{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:00.21,0:00:00.75,Cap,,0,0,0,,{\pos(540,1400)}Your {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.75,0:00:01.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} name is
+Dialogue: 1,0:00:01.13,0:00:01.55,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}name{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:01.55,0:00:01.85,Cap,,0,0,0,,{\pos(540,1400)}business name {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.85,0:00:02.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}probably{\c&H00FFFFFF&} spelled
+Dialogue: 1,0:00:02.29,0:00:02.75,Cap,,0,0,0,,{\pos(540,1400)}probably {\c&H0060ECCD}spelled{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.75,0:00:03.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}five{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:03.09,0:00:03.39,Cap,,0,0,0,,{\pos(540,1400)}five {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.39,0:00:03.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ways{\c&H00FFFFFF&} online and
+Dialogue: 1,0:00:03.65,0:00:04.03,Cap,,0,0,0,,{\pos(540,1400)}ways {\c&H0060ECCD}online{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:04.03,0:00:04.49,Cap,,0,0,0,,{\pos(540,1400)}ways online {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.49,0:00:04.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} costing you
+Dialogue: 1,0:00:04.93,0:00:05.43,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}costing{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:05.43,0:00:05.81,Cap,,0,0,0,,{\pos(540,1400)}it's costing {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.97,0:00:06.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}One{\c&H00FFFFFF&} company we
+Dialogue: 1,0:00:06.55,0:00:06.95,Cap,,0,0,0,,{\pos(540,1400)}One {\c&H0060ECCD}company{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:06.95,0:00:07.19,Cap,,0,0,0,,{\pos(540,1400)}One company {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.19,0:00:07.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}audited{\c&H00FFFFFF&} had nine
+Dialogue: 1,0:00:07.67,0:00:08.03,Cap,,0,0,0,,{\pos(540,1400)}audited {\c&H0060ECCD}had{\c&H00FFFFFF&} nine
+Dialogue: 1,0:00:08.03,0:00:08.39,Cap,,0,0,0,,{\pos(540,1400)}audited had {\c&H0060ECCD}nine{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.39,0:00:08.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&} numbers
+Dialogue: 1,0:00:08.79,0:00:09.31,Cap,,0,0,0,,{\pos(540,1400)}phone {\c&H0060ECCD}numbers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.37,0:00:09.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}five{\c&H00FFFFFF&} versions of
+Dialogue: 1,0:00:09.69,0:00:10.11,Cap,,0,0,0,,{\pos(540,1400)}five {\c&H0060ECCD}versions{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:10.11,0:00:10.31,Cap,,0,0,0,,{\pos(540,1400)}five versions {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.31,0:00:10.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} name
+Dialogue: 1,0:00:10.43,0:00:10.81,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.83,0:00:10.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} an old
+Dialogue: 1,0:00:10.89,0:00:11.03,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}an{\c&H00FFFFFF&} old
+Dialogue: 1,0:00:11.03,0:00:11.31,Cap,,0,0,0,,{\pos(540,1400)}and an {\c&H0060ECCD}old{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.31,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}address{\c&H00FFFFFF&} across
+Dialogue: 1,0:00:11.83,0:00:12.37,Cap,,0,0,0,,{\pos(540,1400)}address {\c&H0060ECCD}across{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.37,0:00:12.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} directories
+Dialogue: 1,0:00:12.69,0:00:13.49,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}directories{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.59,0:00:14.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Another{\c&H00FFFFFF&} waited
+Dialogue: 1,0:00:14.23,0:00:14.53,Cap,,0,0,0,,{\pos(540,1400)}Another {\c&H0060ECCD}waited{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.53,0:00:14.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}two{\c&H00FFFFFF&} months on
+Dialogue: 1,0:00:14.83,0:00:15.17,Cap,,0,0,0,,{\pos(540,1400)}two {\c&H0060ECCD}months{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:15.17,0:00:15.39,Cap,,0,0,0,,{\pos(540,1400)}two months {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.39,0:00:15.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}local{\c&H00FFFFFF&} Services
+Dialogue: 1,0:00:15.63,0:00:15.97,Cap,,0,0,0,,{\pos(540,1400)}local {\c&H0060ECCD}Services{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.97,0:00:16.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ads{\c&H00FFFFFF&} because the
+Dialogue: 1,0:00:16.25,0:00:16.57,Cap,,0,0,0,,{\pos(540,1400)}ads {\c&H0060ECCD}because{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:16.57,0:00:16.79,Cap,,0,0,0,,{\pos(540,1400)}ads because {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.79,0:00:17.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}license{\c&H00FFFFFF&} said LLC
+Dialogue: 1,0:00:17.17,0:00:17.51,Cap,,0,0,0,,{\pos(540,1400)}license {\c&H0060ECCD}said{\c&H00FFFFFF&} LLC
+Dialogue: 1,0:00:17.51,0:00:18.01,Cap,,0,0,0,,{\pos(540,1400)}license said {\c&H0060ECCD}LLC{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.01,0:00:18.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} the profile
+Dialogue: 1,0:00:18.91,0:00:19.05,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}the{\c&H00FFFFFF&} profile
+Dialogue: 1,0:00:19.05,0:00:19.47,Cap,,0,0,0,,{\pos(540,1400)}and the {\c&H0060ECCD}profile{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.47,0:00:19.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}didn't{\c&H00FFFFFF&} and AI
+Dialogue: 1,0:00:19.99,0:00:20.75,Cap,,0,0,0,,{\pos(540,1400)}didn't {\c&H0060ECCD}and{\c&H00FFFFFF&} AI
+Dialogue: 1,0:00:20.75,0:00:21.15,Cap,,0,0,0,,{\pos(540,1400)}didn't and {\c&H0060ECCD}AI{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.15,0:00:21.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tools{\c&H00FFFFFF&} listed one
+Dialogue: 1,0:00:21.55,0:00:22.01,Cap,,0,0,0,,{\pos(540,1400)}tools {\c&H0060ECCD}listed{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:22.01,0:00:22.63,Cap,,0,0,0,,{\pos(540,1400)}tools listed {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.63,0:00:22.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} our clients as
+Dialogue: 1,0:00:22.79,0:00:22.91,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}our{\c&H00FFFFFF&} clients as
+Dialogue: 1,0:00:22.91,0:00:23.31,Cap,,0,0,0,,{\pos(540,1400)}of our {\c&H0060ECCD}clients{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:23.31,0:00:23.59,Cap,,0,0,0,,{\pos(540,1400)}of our clients {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.59,0:00:23.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}two{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:23.83,0:00:24.07,Cap,,0,0,0,,{\pos(540,1400)}two {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.07,0:00:24.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}businesses{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.57,0:00:25.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:25.31,0:00:25.53,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.53,0:00:25.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:25.85,0:00:26.33,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:26.33,0:00:26.47,Cap,,0,0,0,,{\pos(540,1400)}website and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.47,0:00:26.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} profile
+Dialogue: 1,0:00:26.69,0:00:27.19,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}profile{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.19,0:00:27.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}used{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:27.73,0:00:28.15,Cap,,0,0,0,,{\pos(540,1400)}used {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.15,0:00:28.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}names{\c&H00FFFFFF&} pick one
+Dialogue: 1,0:00:28.53,0:00:29.29,Cap,,0,0,0,,{\pos(540,1400)}names {\c&H0060ECCD}pick{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:29.29,0:00:29.65,Cap,,0,0,0,,{\pos(540,1400)}names pick {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.65,0:00:29.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}name{\c&H00FFFFFF&} one phone
+Dialogue: 1,0:00:29.99,0:00:30.81,Cap,,0,0,0,,{\pos(540,1400)}name {\c&H0060ECCD}one{\c&H00FFFFFF&} phone
+Dialogue: 1,0:00:30.81,0:00:31.09,Cap,,0,0,0,,{\pos(540,1400)}name one {\c&H0060ECCD}phone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.09,0:00:31.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}number{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:31.41,0:00:31.95,Cap,,0,0,0,,{\pos(540,1400)}number {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.95,0:00:32.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}address{\c&H00FFFFFF&} and then
+Dialogue: 1,0:00:32.31,0:00:32.67,Cap,,0,0,0,,{\pos(540,1400)}address {\c&H0060ECCD}and{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:32.67,0:00:32.75,Cap,,0,0,0,,{\pos(540,1400)}address and {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.75,0:00:33.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}make{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:33.01,0:00:33.53,Cap,,0,0,0,,{\pos(540,1400)}make {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.53,0:00:33.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}listing{\c&H00FFFFFF&} match
+Dialogue: 1,0:00:33.97,0:00:34.49,Cap,,0,0,0,,{\pos(540,1400)}listing {\c&H0060ECCD}match{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.49,0:00:35.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}exactly{\c&H00FFFFFF&}

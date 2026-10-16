@@ -1,0 +1,97 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:27.67,Title,,0,0,0,,{\pos(540,360)}Show the dirty part
+Dialogue: 1,0:00:00.00,0:00:01.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:01.36,0:00:01.76,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.76,0:00:02.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}equipment{\c&H00FFFFFF&} maker
+Dialogue: 1,0:00:02.36,0:00:03.08,Cap,,0,0,0,,{\pos(540,1400)}equipment {\c&H0060ECCD}maker{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.08,0:00:03.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}looked{\c&H00FFFFFF&} at the
+Dialogue: 1,0:00:03.42,0:00:03.54,Cap,,0,0,0,,{\pos(540,1400)}looked {\c&H0060ECCD}at{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:03.54,0:00:03.66,Cap,,0,0,0,,{\pos(540,1400)}looked at {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.66,0:00:03.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}five{\c&H00FFFFFF&} ads we made
+Dialogue: 1,0:00:03.94,0:00:04.26,Cap,,0,0,0,,{\pos(540,1400)}five {\c&H0060ECCD}ads{\c&H00FFFFFF&} we made
+Dialogue: 1,0:00:04.26,0:00:04.44,Cap,,0,0,0,,{\pos(540,1400)}five ads {\c&H0060ECCD}we{\c&H00FFFFFF&} made
+Dialogue: 1,0:00:04.44,0:00:04.70,Cap,,0,0,0,,{\pos(540,1400)}five ads we {\c&H0060ECCD}made{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.70,0:00:04.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} said one
+Dialogue: 1,0:00:04.86,0:00:05.06,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}said{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:05.06,0:00:05.28,Cap,,0,0,0,,{\pos(540,1400)}and said {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.28,0:00:05.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thing{\c&H00FFFFFF&} lose the
+Dialogue: 1,0:00:05.52,0:00:06.52,Cap,,0,0,0,,{\pos(540,1400)}thing {\c&H0060ECCD}lose{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:06.52,0:00:06.84,Cap,,0,0,0,,{\pos(540,1400)}thing lose {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.84,0:00:07.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pretty{\c&H00FFFFFF&} wheels
+Dialogue: 1,0:00:07.10,0:00:07.50,Cap,,0,0,0,,{\pos(540,1400)}pretty {\c&H0060ECCD}wheels{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.50,0:00:07.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}turning{\c&H00FFFFFF&} show the
+Dialogue: 1,0:00:07.82,0:00:08.98,Cap,,0,0,0,,{\pos(540,1400)}turning {\c&H0060ECCD}show{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:08.98,0:00:09.28,Cap,,0,0,0,,{\pos(540,1400)}turning show {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.28,0:00:09.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}truck{\c&H00FFFFFF&} hooked up
+Dialogue: 1,0:00:09.52,0:00:09.74,Cap,,0,0,0,,{\pos(540,1400)}truck {\c&H0060ECCD}hooked{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:09.74,0:00:09.98,Cap,,0,0,0,,{\pos(540,1400)}truck hooked {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.98,0:00:10.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} dumping
+Dialogue: 1,0:00:10.18,0:00:10.66,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}dumping{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.86,0:00:11.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That{\c&H00FFFFFF&} was the
+Dialogue: 1,0:00:11.22,0:00:11.40,Cap,,0,0,0,,{\pos(540,1400)}That {\c&H0060ECCD}was{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:11.40,0:00:11.54,Cap,,0,0,0,,{\pos(540,1400)}That was {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.54,0:00:11.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:11.74,0:00:12.22,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.36,0:00:12.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Their{\c&H00FFFFFF&} buyers
+Dialogue: 1,0:00:12.70,0:00:13.12,Cap,,0,0,0,,{\pos(540,1400)}Their {\c&H0060ECCD}buyers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.12,0:00:13.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} care about
+Dialogue: 1,0:00:13.44,0:00:13.68,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}care{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:13.68,0:00:13.94,Cap,,0,0,0,,{\pos(540,1400)}don't care {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.94,0:00:14.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}nice{\c&H00FFFFFF&} shot of a
+Dialogue: 1,0:00:14.34,0:00:14.66,Cap,,0,0,0,,{\pos(540,1400)}nice {\c&H0060ECCD}shot{\c&H00FFFFFF&} of a
+Dialogue: 1,0:00:14.66,0:00:14.84,Cap,,0,0,0,,{\pos(540,1400)}nice shot {\c&H0060ECCD}of{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:14.84,0:00:14.92,Cap,,0,0,0,,{\pos(540,1400)}nice shot of {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.92,0:00:15.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trailer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.48,0:00:15.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}They{\c&H00FFFFFF&} care about
+Dialogue: 1,0:00:15.56,0:00:15.82,Cap,,0,0,0,,{\pos(540,1400)}They {\c&H0060ECCD}care{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:15.82,0:00:16.02,Cap,,0,0,0,,{\pos(540,1400)}They care {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.02,0:00:16.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} dirty part of
+Dialogue: 1,0:00:16.22,0:00:16.50,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}dirty{\c&H00FFFFFF&} part of
+Dialogue: 1,0:00:16.50,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}the dirty {\c&H0060ECCD}part{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:16.80,0:00:16.96,Cap,,0,0,0,,{\pos(540,1400)}the dirty part {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.96,0:00:17.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} day the
+Dialogue: 1,0:00:17.10,0:00:17.26,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}day{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:17.26,0:00:17.44,Cap,,0,0,0,,{\pos(540,1400)}the day {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.44,0:00:17.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}machine{\c&H00FFFFFF&} fixes
+Dialogue: 1,0:00:17.78,0:00:18.32,Cap,,0,0,0,,{\pos(540,1400)}machine {\c&H0060ECCD}fixes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.58,0:00:18.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Your{\c&H00FFFFFF&} customers
+Dialogue: 1,0:00:18.98,0:00:19.40,Cap,,0,0,0,,{\pos(540,1400)}Your {\c&H0060ECCD}customers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.40,0:00:19.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} the same
+Dialogue: 1,0:00:19.60,0:00:19.74,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}the{\c&H00FFFFFF&} same
+Dialogue: 1,0:00:19.74,0:00:20.12,Cap,,0,0,0,,{\pos(540,1400)}are the {\c&H0060ECCD}same{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.16,0:00:20.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Show{\c&H00FFFFFF&} the real
+Dialogue: 1,0:00:20.32,0:00:20.48,Cap,,0,0,0,,{\pos(540,1400)}Show {\c&H0060ECCD}the{\c&H00FFFFFF&} real
+Dialogue: 1,0:00:20.48,0:00:20.76,Cap,,0,0,0,,{\pos(540,1400)}Show the {\c&H0060ECCD}real{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.76,0:00:21.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}work{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.20,0:00:21.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} tank open
+Dialogue: 1,0:00:21.32,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}tank{\c&H00FFFFFF&} open
+Dialogue: 1,0:00:21.58,0:00:22.10,Cap,,0,0,0,,{\pos(540,1400)}The tank {\c&H0060ECCD}open{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.18,0:00:22.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} camera on the
+Dialogue: 1,0:00:22.50,0:00:22.86,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}camera{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:22.86,0:00:23.06,Cap,,0,0,0,,{\pos(540,1400)}the camera {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:23.06,0:00:23.18,Cap,,0,0,0,,{\pos(540,1400)}the camera on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.18,0:00:23.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}screen{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.90,0:00:24.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} yard put back
+Dialogue: 1,0:00:24.02,0:00:24.28,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}yard{\c&H00FFFFFF&} put back
+Dialogue: 1,0:00:24.28,0:00:24.52,Cap,,0,0,0,,{\pos(540,1400)}the yard {\c&H0060ECCD}put{\c&H00FFFFFF&} back
+Dialogue: 1,0:00:24.52,0:00:24.76,Cap,,0,0,0,,{\pos(540,1400)}the yard put {\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.76,0:00:25.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}together{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.50,0:00:25.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Pretty{\c&H00FFFFFF&} footage
+Dialogue: 1,0:00:25.80,0:00:26.20,Cap,,0,0,0,,{\pos(540,1400)}Pretty {\c&H0060ECCD}footage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.20,0:00:26.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gets{\c&H00FFFFFF&} scrolled
+Dialogue: 1,0:00:26.50,0:00:26.98,Cap,,0,0,0,,{\pos(540,1400)}gets {\c&H0060ECCD}scrolled{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.98,0:00:27.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}past{\c&H00FFFFFF&}

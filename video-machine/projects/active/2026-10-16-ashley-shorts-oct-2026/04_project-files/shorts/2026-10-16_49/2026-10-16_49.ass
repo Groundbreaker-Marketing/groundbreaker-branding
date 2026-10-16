@@ -1,0 +1,114 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.75,Title,,0,0,0,,{\pos(540,360)}Search your name.\NFrom your phone.
+Dialogue: 1,0:00:00.00,0:00:00.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Search{\c&H00FFFFFF&} your own
+Dialogue: 1,0:00:00.21,0:00:00.47,Cap,,0,0,0,,{\pos(540,1400)}Search {\c&H0060ECCD}your{\c&H00FFFFFF&} own
+Dialogue: 1,0:00:00.47,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}Search your {\c&H0060ECCD}own{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.83,0:00:01.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} company
+Dialogue: 1,0:00:01.29,0:00:01.61,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}company{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.61,0:00:01.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}name{\c&H00FFFFFF&} on your
+Dialogue: 1,0:00:01.87,0:00:02.03,Cap,,0,0,0,,{\pos(540,1400)}name {\c&H0060ECCD}on{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:02.03,0:00:02.17,Cap,,0,0,0,,{\pos(540,1400)}name on {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.17,0:00:02.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&} from a town
+Dialogue: 1,0:00:02.49,0:00:02.95,Cap,,0,0,0,,{\pos(540,1400)}phone {\c&H0060ECCD}from{\c&H00FFFFFF&} a town
+Dialogue: 1,0:00:02.95,0:00:03.15,Cap,,0,0,0,,{\pos(540,1400)}phone from {\c&H0060ECCD}a{\c&H00FFFFFF&} town
+Dialogue: 1,0:00:03.15,0:00:03.45,Cap,,0,0,0,,{\pos(540,1400)}phone from a {\c&H0060ECCD}town{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.45,0:00:03.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} serve
+Dialogue: 1,0:00:03.69,0:00:04.19,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}serve{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.21,0:00:04.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} your office
+Dialogue: 1,0:00:04.43,0:00:04.67,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}your{\c&H00FFFFFF&} office
+Dialogue: 1,0:00:04.67,0:00:05.27,Cap,,0,0,0,,{\pos(540,1400)}not your {\c&H0060ECCD}office{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.39,0:00:05.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}For{\c&H00FFFFFF&} one septic
+Dialogue: 1,0:00:05.87,0:00:06.07,Cap,,0,0,0,,{\pos(540,1400)}For {\c&H0060ECCD}one{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:06.07,0:00:06.47,Cap,,0,0,0,,{\pos(540,1400)}For one {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.47,0:00:06.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}client{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.85,0:00:06.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} top three
+Dialogue: 1,0:00:06.93,0:00:07.17,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}top{\c&H00FFFFFF&} three
+Dialogue: 1,0:00:07.17,0:00:07.47,Cap,,0,0,0,,{\pos(540,1400)}the top {\c&H0060ECCD}three{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.47,0:00:07.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}results{\c&H00FFFFFF&} were ads
+Dialogue: 1,0:00:07.83,0:00:08.09,Cap,,0,0,0,,{\pos(540,1400)}results {\c&H0060ECCD}were{\c&H00FFFFFF&} ads
+Dialogue: 1,0:00:08.09,0:00:08.51,Cap,,0,0,0,,{\pos(540,1400)}results were {\c&H0060ECCD}ads{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.51,0:00:08.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} other
+Dialogue: 1,0:00:08.73,0:00:09.03,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}other{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.03,0:00:09.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}companies{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.49,0:00:09.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} above their
+Dialogue: 1,0:00:09.89,0:00:10.17,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}above{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:10.17,0:00:10.39,Cap,,0,0,0,,{\pos(540,1400)}all above {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.39,0:00:10.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}own{\c&H00FFFFFF&} listing those
+Dialogue: 1,0:00:10.57,0:00:10.99,Cap,,0,0,0,,{\pos(540,1400)}own {\c&H0060ECCD}listing{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:10.99,0:00:11.79,Cap,,0,0,0,,{\pos(540,1400)}own listing {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.79,0:00:12.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ads{\c&H00FFFFFF&} didn't even
+Dialogue: 1,0:00:12.29,0:00:12.61,Cap,,0,0,0,,{\pos(540,1400)}ads {\c&H0060ECCD}didn't{\c&H00FFFFFF&} even
+Dialogue: 1,0:00:12.61,0:00:12.77,Cap,,0,0,0,,{\pos(540,1400)}ads didn't {\c&H0060ECCD}even{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.77,0:00:13.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}use{\c&H00FFFFFF&} the name
+Dialogue: 1,0:00:13.05,0:00:13.21,Cap,,0,0,0,,{\pos(540,1400)}use {\c&H0060ECCD}the{\c&H00FFFFFF&} name
+Dialogue: 1,0:00:13.21,0:00:13.49,Cap,,0,0,0,,{\pos(540,1400)}use the {\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.49,0:00:14.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}broad{\c&H00FFFFFF&} settings
+Dialogue: 1,0:00:14.33,0:00:14.85,Cap,,0,0,0,,{\pos(540,1400)}broad {\c&H0060ECCD}settings{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.85,0:00:15.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}were{\c&H00FFFFFF&} catching it
+Dialogue: 1,0:00:15.09,0:00:15.47,Cap,,0,0,0,,{\pos(540,1400)}were {\c&H0060ECCD}catching{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:15.47,0:00:15.69,Cap,,0,0,0,,{\pos(540,1400)}were catching {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.69,0:00:16.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anyway{\c&H00FFFFFF&} so people
+Dialogue: 1,0:00:16.05,0:00:16.43,Cap,,0,0,0,,{\pos(540,1400)}anyway {\c&H0060ECCD}so{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:16.43,0:00:16.89,Cap,,0,0,0,,{\pos(540,1400)}anyway so {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.89,0:00:17.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}looking{\c&H00FFFFFF&} for that
+Dialogue: 1,0:00:17.23,0:00:17.41,Cap,,0,0,0,,{\pos(540,1400)}looking {\c&H0060ECCD}for{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:17.41,0:00:17.57,Cap,,0,0,0,,{\pos(540,1400)}looking for {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.57,0:00:17.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company{\c&H00FFFFFF&} saw
+Dialogue: 1,0:00:17.91,0:00:18.19,Cap,,0,0,0,,{\pos(540,1400)}company {\c&H0060ECCD}saw{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.19,0:00:18.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}competitors{\c&H00FFFFFF&} first
+Dialogue: 1,0:00:18.73,0:00:19.15,Cap,,0,0,0,,{\pos(540,1400)}competitors {\c&H0060ECCD}first{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.15,0:00:19.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} fix is cheap
+Dialogue: 1,0:00:19.85,0:00:20.25,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}fix{\c&H00FFFFFF&} is cheap
+Dialogue: 1,0:00:20.25,0:00:20.59,Cap,,0,0,0,,{\pos(540,1400)}the fix {\c&H0060ECCD}is{\c&H00FFFFFF&} cheap
+Dialogue: 1,0:00:20.59,0:00:21.03,Cap,,0,0,0,,{\pos(540,1400)}the fix is {\c&H0060ECCD}cheap{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.03,0:00:21.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}run{\c&H00FFFFFF&} a small ad
+Dialogue: 1,0:00:21.53,0:00:21.67,Cap,,0,0,0,,{\pos(540,1400)}run {\c&H0060ECCD}a{\c&H00FFFFFF&} small ad
+Dialogue: 1,0:00:21.67,0:00:22.03,Cap,,0,0,0,,{\pos(540,1400)}run a {\c&H0060ECCD}small{\c&H00FFFFFF&} ad
+Dialogue: 1,0:00:22.03,0:00:22.33,Cap,,0,0,0,,{\pos(540,1400)}run a small {\c&H0060ECCD}ad{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.33,0:00:22.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} your own name
+Dialogue: 1,0:00:22.65,0:00:22.81,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}your{\c&H00FFFFFF&} own name
+Dialogue: 1,0:00:22.81,0:00:23.05,Cap,,0,0,0,,{\pos(540,1400)}on your {\c&H0060ECCD}own{\c&H00FFFFFF&} name
+Dialogue: 1,0:00:23.05,0:00:23.43,Cap,,0,0,0,,{\pos(540,1400)}on your own {\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.43,0:00:23.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} treats you
+Dialogue: 1,0:00:23.91,0:00:24.29,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}treats{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:24.29,0:00:24.49,Cap,,0,0,0,,{\pos(540,1400)}Google treats {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.49,0:00:24.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} the best match
+Dialogue: 1,0:00:24.81,0:00:24.97,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}the{\c&H00FFFFFF&} best match
+Dialogue: 1,0:00:24.97,0:00:25.29,Cap,,0,0,0,,{\pos(540,1400)}as the {\c&H0060ECCD}best{\c&H00FFFFFF&} match
+Dialogue: 1,0:00:25.29,0:00:25.63,Cap,,0,0,0,,{\pos(540,1400)}as the best {\c&H0060ECCD}match{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.63,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} usually you
+Dialogue: 1,0:00:25.83,0:00:26.19,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}usually{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:26.19,0:00:26.35,Cap,,0,0,0,,{\pos(540,1400)}so usually {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.35,0:00:26.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}get{\c&H00FFFFFF&} the top spot
+Dialogue: 1,0:00:26.49,0:00:26.63,Cap,,0,0,0,,{\pos(540,1400)}get {\c&H0060ECCD}the{\c&H00FFFFFF&} top spot
+Dialogue: 1,0:00:26.63,0:00:26.83,Cap,,0,0,0,,{\pos(540,1400)}get the {\c&H0060ECCD}top{\c&H00FFFFFF&} spot
+Dialogue: 1,0:00:26.83,0:00:27.25,Cap,,0,0,0,,{\pos(540,1400)}get the top {\c&H0060ECCD}spot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.25,0:00:27.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} less per
+Dialogue: 1,0:00:27.79,0:00:28.09,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}less{\c&H00FFFFFF&} per
+Dialogue: 1,0:00:28.09,0:00:28.35,Cap,,0,0,0,,{\pos(540,1400)}for less {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.35,0:00:28.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}click{\c&H00FFFFFF&} than they
+Dialogue: 1,0:00:28.61,0:00:28.85,Cap,,0,0,0,,{\pos(540,1400)}click {\c&H0060ECCD}than{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:28.85,0:00:29.05,Cap,,0,0,0,,{\pos(540,1400)}click than {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.05,0:00:29.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pay{\c&H00FFFFFF&} do the search
+Dialogue: 1,0:00:29.35,0:00:29.97,Cap,,0,0,0,,{\pos(540,1400)}pay {\c&H0060ECCD}do{\c&H00FFFFFF&} the search
+Dialogue: 1,0:00:29.97,0:00:30.13,Cap,,0,0,0,,{\pos(540,1400)}pay do {\c&H0060ECCD}the{\c&H00FFFFFF&} search
+Dialogue: 1,0:00:30.13,0:00:30.35,Cap,,0,0,0,,{\pos(540,1400)}pay do the {\c&H0060ECCD}search{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.35,0:00:30.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}today{\c&H00FFFFFF&} it takes
+Dialogue: 1,0:00:30.71,0:00:30.97,Cap,,0,0,0,,{\pos(540,1400)}today {\c&H0060ECCD}it{\c&H00FFFFFF&} takes
+Dialogue: 1,0:00:30.97,0:00:31.23,Cap,,0,0,0,,{\pos(540,1400)}today it {\c&H0060ECCD}takes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.23,0:00:31.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}two{\c&H00FFFFFF&} minutes
+Dialogue: 1,0:00:31.43,0:00:31.91,Cap,,0,0,0,,{\pos(540,1400)}two {\c&H0060ECCD}minutes{\c&H00FFFFFF&}
