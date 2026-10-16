@@ -1,0 +1,116 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:34.48,Title,,0,0,0,,{\pos(540,360)}Stop fixing your ads
+Dialogue: 1,0:00:00.00,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} fastest way
+Dialogue: 1,0:00:00.83,0:00:01.33,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}fastest{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:01.33,0:00:01.67,Cap,,0,0,0,,{\pos(540,1400)}the fastest {\c&H0060ECCD}way{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.67,0:00:01.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} break a an
+Dialogue: 1,0:00:01.88,0:00:02.19,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}break{\c&H00FFFFFF&} a an
+Dialogue: 1,0:00:02.19,0:00:02.47,Cap,,0,0,0,,{\pos(540,1400)}to break {\c&H0060ECCD}a{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:02.47,0:00:02.91,Cap,,0,0,0,,{\pos(540,1400)}to break a {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.91,0:00:03.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ad{\c&H00FFFFFF&} account is to
+Dialogue: 1,0:00:03.17,0:00:03.43,Cap,,0,0,0,,{\pos(540,1400)}ad {\c&H0060ECCD}account{\c&H00FFFFFF&} is to
+Dialogue: 1,0:00:03.43,0:00:03.69,Cap,,0,0,0,,{\pos(540,1400)}ad account {\c&H0060ECCD}is{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:03.69,0:00:03.83,Cap,,0,0,0,,{\pos(540,1400)}ad account is {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.83,0:00:04.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}keep{\c&H00FFFFFF&} fixing it a
+Dialogue: 1,0:00:04.09,0:00:04.55,Cap,,0,0,0,,{\pos(540,1400)}keep {\c&H0060ECCD}fixing{\c&H00FFFFFF&} it a
+Dialogue: 1,0:00:04.55,0:00:04.77,Cap,,0,0,0,,{\pos(540,1400)}keep fixing {\c&H0060ECCD}it{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:04.77,0:00:05.33,Cap,,0,0,0,,{\pos(540,1400)}keep fixing it {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.33,0:00:05.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}client{\c&H00FFFFFF&} wanted to
+Dialogue: 1,0:00:05.65,0:00:05.95,Cap,,0,0,0,,{\pos(540,1400)}client {\c&H0060ECCD}wanted{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:05.95,0:00:06.12,Cap,,0,0,0,,{\pos(540,1400)}client wanted {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.12,0:00:06.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tweak{\c&H00FFFFFF&} their lead
+Dialogue: 1,0:00:06.49,0:00:06.91,Cap,,0,0,0,,{\pos(540,1400)}tweak {\c&H0060ECCD}their{\c&H00FFFFFF&} lead
+Dialogue: 1,0:00:06.91,0:00:07.31,Cap,,0,0,0,,{\pos(540,1400)}tweak their {\c&H0060ECCD}lead{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.31,0:00:07.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}form{\c&H00FFFFFF&} every few
+Dialogue: 1,0:00:07.62,0:00:08.36,Cap,,0,0,0,,{\pos(540,1400)}form {\c&H0060ECCD}every{\c&H00FFFFFF&} few
+Dialogue: 1,0:00:08.36,0:00:08.63,Cap,,0,0,0,,{\pos(540,1400)}form every {\c&H0060ECCD}few{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.63,0:00:08.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}days{\c&H00FFFFFF&} every change
+Dialogue: 1,0:00:08.95,0:00:10.01,Cap,,0,0,0,,{\pos(540,1400)}days {\c&H0060ECCD}every{\c&H00FFFFFF&} change
+Dialogue: 1,0:00:10.01,0:00:10.39,Cap,,0,0,0,,{\pos(540,1400)}days every {\c&H0060ECCD}change{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.39,0:00:10.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} makes
+Dialogue: 1,0:00:10.71,0:00:11.12,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}makes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.12,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Facebook{\c&H00FFFFFF&} start
+Dialogue: 1,0:00:11.86,0:00:12.03,Cap,,0,0,0,,{\pos(540,1400)}Facebook {\c&H0060ECCD}start{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.03,0:00:12.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}learning{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.31,0:00:12.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}algorithm{\c&H00FFFFFF&} over
+Dialogue: 1,0:00:12.86,0:00:13.33,Cap,,0,0,0,,{\pos(540,1400)}algorithm {\c&H0060ECCD}over{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.33,0:00:14.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:14.17,0:00:14.41,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.41,0:00:14.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Facebook{\c&H00FFFFFF&} both
+Dialogue: 1,0:00:14.77,0:00:15.12,Cap,,0,0,0,,{\pos(540,1400)}Facebook {\c&H0060ECCD}both{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.12,0:00:15.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}works{\c&H00FFFFFF&} the same
+Dialogue: 1,0:00:15.41,0:00:15.59,Cap,,0,0,0,,{\pos(540,1400)}works {\c&H0060ECCD}the{\c&H00FFFFFF&} same
+Dialogue: 1,0:00:15.59,0:00:15.81,Cap,,0,0,0,,{\pos(540,1400)}works the {\c&H0060ECCD}same{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.81,0:00:16.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}way{\c&H00FFFFFF&} In most new
+Dialogue: 1,0:00:16.03,0:00:16.65,Cap,,0,0,0,,{\pos(540,1400)}way {\c&H0060ECCD}In{\c&H00FFFFFF&} most new
+Dialogue: 1,0:00:16.65,0:00:16.95,Cap,,0,0,0,,{\pos(540,1400)}way In {\c&H0060ECCD}most{\c&H00FFFFFF&} new
+Dialogue: 1,0:00:16.95,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}way In most {\c&H0060ECCD}new{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.31,0:00:17.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}accounts{\c&H00FFFFFF&} one or
+Dialogue: 1,0:00:17.83,0:00:18.23,Cap,,0,0,0,,{\pos(540,1400)}accounts {\c&H0060ECCD}one{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:18.23,0:00:18.38,Cap,,0,0,0,,{\pos(540,1400)}accounts one {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.38,0:00:18.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}two{\c&H00FFFFFF&} keywords end
+Dialogue: 1,0:00:18.55,0:00:19.01,Cap,,0,0,0,,{\pos(540,1400)}two {\c&H0060ECCD}keywords{\c&H00FFFFFF&} end
+Dialogue: 1,0:00:19.01,0:00:19.33,Cap,,0,0,0,,{\pos(540,1400)}two keywords {\c&H0060ECCD}end{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.33,0:00:19.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}up{\c&H00FFFFFF&} doing most of
+Dialogue: 1,0:00:19.47,0:00:19.65,Cap,,0,0,0,,{\pos(540,1400)}up {\c&H0060ECCD}doing{\c&H00FFFFFF&} most of
+Dialogue: 1,0:00:19.65,0:00:19.99,Cap,,0,0,0,,{\pos(540,1400)}up doing {\c&H0060ECCD}most{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:19.99,0:00:20.19,Cap,,0,0,0,,{\pos(540,1400)}up doing most {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.19,0:00:20.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} work turn
+Dialogue: 1,0:00:20.29,0:00:20.55,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}work{\c&H00FFFFFF&} turn
+Dialogue: 1,0:00:20.55,0:00:21.38,Cap,,0,0,0,,{\pos(540,1400)}the work {\c&H0060ECCD}turn{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.38,0:00:21.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}those{\c&H00FFFFFF&} off to
+Dialogue: 1,0:00:21.67,0:00:21.97,Cap,,0,0,0,,{\pos(540,1400)}those {\c&H0060ECCD}off{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:21.97,0:00:22.21,Cap,,0,0,0,,{\pos(540,1400)}those off {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.21,0:00:22.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}force{\c&H00FFFFFF&} the others
+Dialogue: 1,0:00:22.47,0:00:22.62,Cap,,0,0,0,,{\pos(540,1400)}force {\c&H0060ECCD}the{\c&H00FFFFFF&} others
+Dialogue: 1,0:00:22.62,0:00:22.97,Cap,,0,0,0,,{\pos(540,1400)}force the {\c&H0060ECCD}others{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.97,0:00:23.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} results
+Dialogue: 1,0:00:23.21,0:00:23.59,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}results{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.59,0:00:23.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} fall and
+Dialogue: 1,0:00:23.91,0:00:24.29,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}fall{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:24.29,0:00:24.45,Cap,,0,0,0,,{\pos(540,1400)}usually fall {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.45,0:00:24.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} come back
+Dialogue: 1,0:00:24.65,0:00:24.79,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}come{\c&H00FFFFFF&} back
+Dialogue: 1,0:00:24.79,0:00:25.21,Cap,,0,0,0,,{\pos(540,1400)}don't come {\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.31,0:00:25.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} we save up
+Dialogue: 1,0:00:25.81,0:00:26.27,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}we{\c&H00FFFFFF&} save up
+Dialogue: 1,0:00:26.27,0:00:26.57,Cap,,0,0,0,,{\pos(540,1400)}So we {\c&H0060ECCD}save{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:26.57,0:00:26.75,Cap,,0,0,0,,{\pos(540,1400)}So we save {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.75,0:00:27.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}changes{\c&H00FFFFFF&} and make
+Dialogue: 1,0:00:27.17,0:00:27.47,Cap,,0,0,0,,{\pos(540,1400)}changes {\c&H0060ECCD}and{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:27.47,0:00:27.65,Cap,,0,0,0,,{\pos(540,1400)}changes and {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.65,0:00:27.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&} together on
+Dialogue: 1,0:00:27.83,0:00:28.17,Cap,,0,0,0,,{\pos(540,1400)}them {\c&H0060ECCD}together{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:28.17,0:00:28.43,Cap,,0,0,0,,{\pos(540,1400)}them together {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.43,0:00:28.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} schedule
+Dialogue: 1,0:00:28.57,0:00:29.15,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}schedule{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.21,0:00:29.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Then{\c&H00FFFFFF&} we wait long
+Dialogue: 1,0:00:29.63,0:00:29.81,Cap,,0,0,0,,{\pos(540,1400)}Then {\c&H0060ECCD}we{\c&H00FFFFFF&} wait long
+Dialogue: 1,0:00:29.81,0:00:30.05,Cap,,0,0,0,,{\pos(540,1400)}Then we {\c&H0060ECCD}wait{\c&H00FFFFFF&} long
+Dialogue: 1,0:00:30.05,0:00:30.38,Cap,,0,0,0,,{\pos(540,1400)}Then we wait {\c&H0060ECCD}long{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.38,0:00:30.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}enough{\c&H00FFFFFF&} to see
+Dialogue: 1,0:00:30.63,0:00:30.83,Cap,,0,0,0,,{\pos(540,1400)}enough {\c&H0060ECCD}to{\c&H00FFFFFF&} see
+Dialogue: 1,0:00:30.83,0:00:30.99,Cap,,0,0,0,,{\pos(540,1400)}enough to {\c&H0060ECCD}see{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.99,0:00:31.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} happened
+Dialogue: 1,0:00:31.15,0:00:31.69,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}happened{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.86,0:00:32.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Boring{\c&H00FFFFFF&} is how ad
+Dialogue: 1,0:00:32.23,0:00:32.53,Cap,,0,0,0,,{\pos(540,1400)}Boring {\c&H0060ECCD}is{\c&H00FFFFFF&} how ad
+Dialogue: 1,0:00:32.53,0:00:32.79,Cap,,0,0,0,,{\pos(540,1400)}Boring is {\c&H0060ECCD}how{\c&H00FFFFFF&} ad
+Dialogue: 1,0:00:32.79,0:00:33.15,Cap,,0,0,0,,{\pos(540,1400)}Boring is how {\c&H0060ECCD}ad{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.15,0:00:33.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}accounts{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:33.53,0:00:33.88,Cap,,0,0,0,,{\pos(540,1400)}accounts {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.88,0:00:34.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}money{\c&H00FFFFFF&}

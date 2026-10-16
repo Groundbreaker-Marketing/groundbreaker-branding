@@ -1,0 +1,107 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:32.69,Title,,0,0,0,,{\pos(540,360)}Your hiring ad\Nis missing this
+Dialogue: 1,0:00:00.00,0:00:00.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}If{\c&H00FFFFFF&} your septic
+Dialogue: 1,0:00:00.16,0:00:00.36,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}your{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:00.36,0:00:03.34,Cap,,0,0,0,,{\pos(540,1400)}If your {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.19,0:00:04.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hiring{\c&H00FFFFFF&} ads aren't
+Dialogue: 1,0:00:04.57,0:00:05.09,Cap,,0,0,0,,{\pos(540,1400)}hiring {\c&H0060ECCD}ads{\c&H00FFFFFF&} aren't
+Dialogue: 1,0:00:05.09,0:00:05.45,Cap,,0,0,0,,{\pos(540,1400)}hiring ads {\c&H0060ECCD}aren't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.45,0:00:05.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}working{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.09,0:00:06.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} probably the
+Dialogue: 1,0:00:06.23,0:00:06.65,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}probably{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:06.65,0:00:06.97,Cap,,0,0,0,,{\pos(540,1400)}it's probably {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.97,0:00:07.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}job{\c&H00FFFFFF&} description
+Dialogue: 1,0:00:07.29,0:00:07.93,Cap,,0,0,0,,{\pos(540,1400)}job {\c&H0060ECCD}description{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.15,0:00:08.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}People{\c&H00FFFFFF&} want to
+Dialogue: 1,0:00:08.67,0:00:08.87,Cap,,0,0,0,,{\pos(540,1400)}People {\c&H0060ECCD}want{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:08.87,0:00:08.99,Cap,,0,0,0,,{\pos(540,1400)}People want {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.99,0:00:09.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} what the job
+Dialogue: 1,0:00:09.19,0:00:09.43,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}what{\c&H00FFFFFF&} the job
+Dialogue: 1,0:00:09.43,0:00:09.57,Cap,,0,0,0,,{\pos(540,1400)}know what {\c&H0060ECCD}the{\c&H00FFFFFF&} job
+Dialogue: 1,0:00:09.57,0:00:09.85,Cap,,0,0,0,,{\pos(540,1400)}know what the {\c&H0060ECCD}job{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.85,0:00:10.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} actually like
+Dialogue: 1,0:00:10.07,0:00:10.57,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}actually{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:10.57,0:00:10.91,Cap,,0,0,0,,{\pos(540,1400)}is actually {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.91,0:00:11.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} say it
+Dialogue: 1,0:00:11.13,0:00:11.37,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}say{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:11.37,0:00:11.69,Cap,,0,0,0,,{\pos(540,1400)}so say {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.83,0:00:12.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What's{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:12.35,0:00:12.47,Cap,,0,0,0,,{\pos(540,1400)}What's {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.47,0:00:13.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}uniform?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.17,0:00:13.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What's{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:13.59,0:00:13.71,Cap,,0,0,0,,{\pos(540,1400)}What's {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.71,0:00:14.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}nicotine{\c&H00FFFFFF&} policy?
+Dialogue: 1,0:00:14.09,0:00:14.71,Cap,,0,0,0,,{\pos(540,1400)}nicotine {\c&H0060ECCD}policy?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.81,0:00:15.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} are the
+Dialogue: 1,0:00:15.13,0:00:15.25,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}are{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:15.25,0:00:15.35,Cap,,0,0,0,,{\pos(540,1400)}What are {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.35,0:00:15.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}benefits?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.05,0:00:16.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} does great
+Dialogue: 1,0:00:16.35,0:00:16.53,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}does{\c&H00FFFFFF&} great
+Dialogue: 1,0:00:16.53,0:00:16.73,Cap,,0,0,0,,{\pos(540,1400)}What does {\c&H0060ECCD}great{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.73,0:00:16.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}job{\c&H00FFFFFF&} look like?
+Dialogue: 1,0:00:16.99,0:00:17.37,Cap,,0,0,0,,{\pos(540,1400)}job {\c&H0060ECCD}look{\c&H00FFFFFF&} like?
+Dialogue: 1,0:00:17.37,0:00:17.83,Cap,,0,0,0,,{\pos(540,1400)}job look {\c&H0060ECCD}like?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.07,0:00:18.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}A{\c&H00FFFFFF&} septic owner
+Dialogue: 1,0:00:18.49,0:00:18.87,Cap,,0,0,0,,{\pos(540,1400)}A {\c&H0060ECCD}septic{\c&H00FFFFFF&} owner
+Dialogue: 1,0:00:18.87,0:00:19.07,Cap,,0,0,0,,{\pos(540,1400)}A septic {\c&H0060ECCD}owner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.07,0:00:19.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}told{\c&H00FFFFFF&} me this
+Dialogue: 1,0:00:19.33,0:00:19.49,Cap,,0,0,0,,{\pos(540,1400)}told {\c&H0060ECCD}me{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:19.49,0:00:19.67,Cap,,0,0,0,,{\pos(540,1400)}told me {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.67,0:00:19.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}month{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:19.87,0:00:20.07,Cap,,0,0,0,,{\pos(540,1400)}month {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.07,0:00:20.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}finding{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:20.47,0:00:20.91,Cap,,0,0,0,,{\pos(540,1400)}finding {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.91,0:00:21.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}who'll{\c&H00FFFFFF&} pick up a
+Dialogue: 1,0:00:21.07,0:00:21.33,Cap,,0,0,0,,{\pos(540,1400)}who'll {\c&H0060ECCD}pick{\c&H00FFFFFF&} up a
+Dialogue: 1,0:00:21.33,0:00:21.45,Cap,,0,0,0,,{\pos(540,1400)}who'll pick {\c&H0060ECCD}up{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:21.45,0:00:21.55,Cap,,0,0,0,,{\pos(540,1400)}who'll pick up {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.55,0:00:21.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}shovel{\c&H00FFFFFF&} is the
+Dialogue: 1,0:00:21.81,0:00:22.03,Cap,,0,0,0,,{\pos(540,1400)}shovel {\c&H0060ECCD}is{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:22.03,0:00:22.15,Cap,,0,0,0,,{\pos(540,1400)}shovel is {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.15,0:00:22.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hardest{\c&H00FFFFFF&} part of
+Dialogue: 1,0:00:22.45,0:00:22.75,Cap,,0,0,0,,{\pos(540,1400)}hardest {\c&H0060ECCD}part{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:22.75,0:00:22.91,Cap,,0,0,0,,{\pos(540,1400)}hardest part {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.91,0:00:23.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}growing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.27,0:00:23.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} the ad that
+Dialogue: 1,0:00:23.99,0:00:24.19,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}the{\c&H00FFFFFF&} ad that
+Dialogue: 1,0:00:24.19,0:00:24.45,Cap,,0,0,0,,{\pos(540,1400)}and the {\c&H0060ECCD}ad{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:24.45,0:00:24.67,Cap,,0,0,0,,{\pos(540,1400)}and the ad {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.67,0:00:24.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wins{\c&H00FFFFFF&} tells the
+Dialogue: 1,0:00:24.99,0:00:25.33,Cap,,0,0,0,,{\pos(540,1400)}wins {\c&H0060ECCD}tells{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:25.33,0:00:25.55,Cap,,0,0,0,,{\pos(540,1400)}wins tells {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.55,0:00:25.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}truth{\c&H00FFFFFF&} about the
+Dialogue: 1,0:00:25.79,0:00:26.05,Cap,,0,0,0,,{\pos(540,1400)}truth {\c&H0060ECCD}about{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:26.05,0:00:26.21,Cap,,0,0,0,,{\pos(540,1400)}truth about {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.21,0:00:26.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}job{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.71,0:00:26.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} dirty parts
+Dialogue: 1,0:00:26.79,0:00:27.01,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}dirty{\c&H00FFFFFF&} parts
+Dialogue: 1,0:00:27.01,0:00:27.47,Cap,,0,0,0,,{\pos(540,1400)}The dirty {\c&H0060ECCD}parts{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.47,0:00:27.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}too{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.07,0:00:28.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} right people
+Dialogue: 1,0:00:28.35,0:00:28.61,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}right{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:28.61,0:00:29.05,Cap,,0,0,0,,{\pos(540,1400)}The right {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.05,0:00:29.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}apply{\c&H00FFFFFF&} anyway and
+Dialogue: 1,0:00:29.63,0:00:30.29,Cap,,0,0,0,,{\pos(540,1400)}apply {\c&H0060ECCD}anyway{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:30.29,0:00:30.65,Cap,,0,0,0,,{\pos(540,1400)}apply anyway {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.65,0:00:30.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} wrong ones
+Dialogue: 1,0:00:30.77,0:00:31.05,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}wrong{\c&H00FFFFFF&} ones
+Dialogue: 1,0:00:31.05,0:00:31.45,Cap,,0,0,0,,{\pos(540,1400)}the wrong {\c&H0060ECCD}ones{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.45,0:00:31.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} waste your
+Dialogue: 1,0:00:31.79,0:00:31.97,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}waste{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:31.97,0:00:32.15,Cap,,0,0,0,,{\pos(540,1400)}don't waste {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.15,0:00:32.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}time{\c&H00FFFFFF&}

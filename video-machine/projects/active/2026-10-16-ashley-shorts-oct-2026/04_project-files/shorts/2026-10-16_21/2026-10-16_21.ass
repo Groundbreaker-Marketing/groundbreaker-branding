@@ -1,0 +1,109 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:34.59,Title,,0,0,0,,{\pos(540,360)}Paying for people\Nwho know you
+Dialogue: 1,0:00:00.00,0:00:01.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} might be
+Dialogue: 1,0:00:01.41,0:00:01.71,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}might{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:01.71,0:00:01.91,Cap,,0,0,0,,{\pos(540,1400)}you might {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.91,0:00:02.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}paying{\c&H00FFFFFF&} Google
+Dialogue: 1,0:00:02.23,0:00:02.59,Cap,,0,0,0,,{\pos(540,1400)}paying {\c&H0060ECCD}Google{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.59,0:00:03.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}every{\c&H00FFFFFF&} time
+Dialogue: 1,0:00:03.15,0:00:03.51,Cap,,0,0,0,,{\pos(540,1400)}every {\c&H0060ECCD}time{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.51,0:00:03.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}someone{\c&H00FFFFFF&} searches
+Dialogue: 1,0:00:03.91,0:00:04.27,Cap,,0,0,0,,{\pos(540,1400)}someone {\c&H0060ECCD}searches{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.27,0:00:04.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:04.59,0:00:04.97,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.97,0:00:05.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company's{\c&H00FFFFFF&} name a
+Dialogue: 1,0:00:05.51,0:00:05.69,Cap,,0,0,0,,{\pos(540,1400)}company's {\c&H0060ECCD}name{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:05.69,0:00:06.61,Cap,,0,0,0,,{\pos(540,1400)}company's name {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.61,0:00:06.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:06.97,0:00:07.23,Cap,,0,0,0,,{\pos(540,1400)}company {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.23,0:00:07.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}audited{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:07.75,0:00:08.01,Cap,,0,0,0,,{\pos(540,1400)}audited {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.01,0:00:08.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}month{\c&H00FFFFFF&} spent about
+Dialogue: 1,0:00:08.29,0:00:08.85,Cap,,0,0,0,,{\pos(540,1400)}month {\c&H0060ECCD}spent{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:08.85,0:00:09.35,Cap,,0,0,0,,{\pos(540,1400)}month spent {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.35,0:00:10.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}$4,200{\c&H00FFFFFF&} in 90 days
+Dialogue: 1,0:00:10.29,0:00:10.61,Cap,,0,0,0,,{\pos(540,1400)}$4,200 {\c&H0060ECCD}in{\c&H00FFFFFF&} 90 days
+Dialogue: 1,0:00:10.61,0:00:10.91,Cap,,0,0,0,,{\pos(540,1400)}$4,200 in {\c&H0060ECCD}90{\c&H00FFFFFF&} days
+Dialogue: 1,0:00:10.91,0:00:11.19,Cap,,0,0,0,,{\pos(540,1400)}$4,200 in 90 {\c&H0060ECCD}days{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.19,0:00:11.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} searches for
+Dialogue: 1,0:00:11.53,0:00:11.89,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}searches{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:11.89,0:00:12.19,Cap,,0,0,0,,{\pos(540,1400)}on searches {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.19,0:00:12.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} own name
+Dialogue: 1,0:00:12.39,0:00:12.73,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}own{\c&H00FFFFFF&} name
+Dialogue: 1,0:00:12.73,0:00:13.11,Cap,,0,0,0,,{\pos(540,1400)}their own {\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.11,0:00:13.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:13.61,0:00:13.87,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.87,0:00:14.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}competitors{\c&H00FFFFFF&} names
+Dialogue: 1,0:00:14.45,0:00:14.85,Cap,,0,0,0,,{\pos(540,1400)}competitors {\c&H0060ECCD}names{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.85,0:00:16.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} 82 of their
+Dialogue: 1,0:00:16.05,0:00:16.61,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}82{\c&H00FFFFFF&} of their
+Dialogue: 1,0:00:16.61,0:00:17.01,Cap,,0,0,0,,{\pos(540,1400)}and 82 {\c&H0060ECCD}of{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:17.01,0:00:17.21,Cap,,0,0,0,,{\pos(540,1400)}and 82 of {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.21,0:00:17.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}local{\c&H00FFFFFF&} Services
+Dialogue: 1,0:00:17.61,0:00:18.03,Cap,,0,0,0,,{\pos(540,1400)}local {\c&H0060ECCD}Services{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.03,0:00:18.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leads{\c&H00FFFFFF&} in a year
+Dialogue: 1,0:00:18.41,0:00:18.59,Cap,,0,0,0,,{\pos(540,1400)}leads {\c&H0060ECCD}in{\c&H00FFFFFF&} a year
+Dialogue: 1,0:00:18.59,0:00:18.73,Cap,,0,0,0,,{\pos(540,1400)}leads in {\c&H0060ECCD}a{\c&H00FFFFFF&} year
+Dialogue: 1,0:00:18.73,0:00:18.95,Cap,,0,0,0,,{\pos(540,1400)}leads in a {\c&H0060ECCD}year{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.95,0:00:19.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}came{\c&H00FFFFFF&} from people
+Dialogue: 1,0:00:19.23,0:00:19.41,Cap,,0,0,0,,{\pos(540,1400)}came {\c&H0060ECCD}from{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:19.41,0:00:19.71,Cap,,0,0,0,,{\pos(540,1400)}came from {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.71,0:00:19.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}who{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:19.87,0:00:20.03,Cap,,0,0,0,,{\pos(540,1400)}who {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.03,0:00:20.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}searching{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.35,0:00:20.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}searched{\c&H00FFFFFF&} them by
+Dialogue: 1,0:00:20.63,0:00:20.85,Cap,,0,0,0,,{\pos(540,1400)}searched {\c&H0060ECCD}them{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:20.85,0:00:21.07,Cap,,0,0,0,,{\pos(540,1400)}searched them {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.07,0:00:21.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.71,0:00:22.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Those{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:22.31,0:00:22.67,Cap,,0,0,0,,{\pos(540,1400)}Those {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.67,0:00:23.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}already{\c&H00FFFFFF&} knew who
+Dialogue: 1,0:00:23.11,0:00:23.33,Cap,,0,0,0,,{\pos(540,1400)}already {\c&H0060ECCD}knew{\c&H00FFFFFF&} who
+Dialogue: 1,0:00:23.33,0:00:23.49,Cap,,0,0,0,,{\pos(540,1400)}already knew {\c&H0060ECCD}who{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.49,0:00:23.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:23.63,0:00:24.01,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.25,0:00:24.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Run{\c&H00FFFFFF&} a small cheap
+Dialogue: 1,0:00:24.75,0:00:24.91,Cap,,0,0,0,,{\pos(540,1400)}Run {\c&H0060ECCD}a{\c&H00FFFFFF&} small cheap
+Dialogue: 1,0:00:24.91,0:00:25.29,Cap,,0,0,0,,{\pos(540,1400)}Run a {\c&H0060ECCD}small{\c&H00FFFFFF&} cheap
+Dialogue: 1,0:00:25.29,0:00:25.65,Cap,,0,0,0,,{\pos(540,1400)}Run a small {\c&H0060ECCD}cheap{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.65,0:00:26.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ad{\c&H00FFFFFF&} on your own
+Dialogue: 1,0:00:26.03,0:00:26.33,Cap,,0,0,0,,{\pos(540,1400)}ad {\c&H0060ECCD}on{\c&H00FFFFFF&} your own
+Dialogue: 1,0:00:26.33,0:00:26.51,Cap,,0,0,0,,{\pos(540,1400)}ad on {\c&H0060ECCD}your{\c&H00FFFFFF&} own
+Dialogue: 1,0:00:26.51,0:00:26.85,Cap,,0,0,0,,{\pos(540,1400)}ad on your {\c&H0060ECCD}own{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.85,0:00:27.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}name{\c&H00FFFFFF&} so you hold
+Dialogue: 1,0:00:27.19,0:00:27.39,Cap,,0,0,0,,{\pos(540,1400)}name {\c&H0060ECCD}so{\c&H00FFFFFF&} you hold
+Dialogue: 1,0:00:27.39,0:00:27.53,Cap,,0,0,0,,{\pos(540,1400)}name so {\c&H0060ECCD}you{\c&H00FFFFFF&} hold
+Dialogue: 1,0:00:27.53,0:00:27.89,Cap,,0,0,0,,{\pos(540,1400)}name so you {\c&H0060ECCD}hold{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.89,0:00:28.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} top spot but
+Dialogue: 1,0:00:28.07,0:00:28.27,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}top{\c&H00FFFFFF&} spot but
+Dialogue: 1,0:00:28.27,0:00:28.69,Cap,,0,0,0,,{\pos(540,1400)}the top {\c&H0060ECCD}spot{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:28.69,0:00:28.91,Cap,,0,0,0,,{\pos(540,1400)}the top spot {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.91,0:00:29.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}block{\c&H00FFFFFF&} your name
+Dialogue: 1,0:00:29.31,0:00:29.53,Cap,,0,0,0,,{\pos(540,1400)}block {\c&H0060ECCD}your{\c&H00FFFFFF&} name
+Dialogue: 1,0:00:29.53,0:00:29.83,Cap,,0,0,0,,{\pos(540,1400)}block your {\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.83,0:00:30.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everywhere{\c&H00FFFFFF&} else
+Dialogue: 1,0:00:30.27,0:00:30.79,Cap,,0,0,0,,{\pos(540,1400)}everywhere {\c&H0060ECCD}else{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.03,0:00:31.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Stop{\c&H00FFFFFF&} paying full
+Dialogue: 1,0:00:31.33,0:00:31.77,Cap,,0,0,0,,{\pos(540,1400)}Stop {\c&H0060ECCD}paying{\c&H00FFFFFF&} full
+Dialogue: 1,0:00:31.77,0:00:32.11,Cap,,0,0,0,,{\pos(540,1400)}Stop paying {\c&H0060ECCD}full{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.11,0:00:32.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}price{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:32.49,0:00:32.67,Cap,,0,0,0,,{\pos(540,1400)}price {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.67,0:00:33.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} who you
+Dialogue: 1,0:00:33.23,0:00:33.53,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}who{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:33.53,0:00:33.77,Cap,,0,0,0,,{\pos(540,1400)}customers who {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.77,0:00:34.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}already{\c&H00FFFFFF&} won
+Dialogue: 1,0:00:34.23,0:00:34.65,Cap,,0,0,0,,{\pos(540,1400)}already {\c&H0060ECCD}won{\c&H00FFFFFF&}

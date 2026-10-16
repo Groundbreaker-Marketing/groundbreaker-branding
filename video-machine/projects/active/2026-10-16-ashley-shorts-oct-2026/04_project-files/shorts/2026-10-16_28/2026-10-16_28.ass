@@ -1,0 +1,96 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:29.60,Title,,0,0,0,,{\pos(540,360)}Do service plans\Nactually sell?
+Dialogue: 1,0:00:00.00,0:00:00.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Do{\c&H00FFFFFF&} septic service
+Dialogue: 1,0:00:00.15,0:00:00.61,Cap,,0,0,0,,{\pos(540,1400)}Do {\c&H0060ECCD}septic{\c&H00FFFFFF&} service
+Dialogue: 1,0:00:00.61,0:00:00.91,Cap,,0,0,0,,{\pos(540,1400)}Do septic {\c&H0060ECCD}service{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.91,0:00:01.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}agreements{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.35,0:00:01.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} sell?
+Dialogue: 1,0:00:01.79,0:00:02.27,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}sell?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.45,0:00:03.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.14,0:00:03.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} somebody
+Dialogue: 1,0:00:03.49,0:00:03.88,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}somebody{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.88,0:00:04.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}offers{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:04.31,0:00:04.71,Cap,,0,0,0,,{\pos(540,1400)}offers {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.79,0:00:05.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} biggest
+Dialogue: 1,0:00:05.25,0:00:05.61,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}biggest{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.61,0:00:05.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} companies
+Dialogue: 1,0:00:05.99,0:00:06.40,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}companies{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.40,0:00:06.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:06.79,0:00:07.23,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.29,0:00:07.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} ones over 10
+Dialogue: 1,0:00:07.37,0:00:07.64,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}ones{\c&H00FFFFFF&} over 10
+Dialogue: 1,0:00:07.64,0:00:07.97,Cap,,0,0,0,,{\pos(540,1400)}the ones {\c&H0060ECCD}over{\c&H00FFFFFF&} 10
+Dialogue: 1,0:00:07.97,0:00:08.25,Cap,,0,0,0,,{\pos(540,1400)}the ones over {\c&H0060ECCD}10{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.25,0:00:08.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}million{\c&H00FFFFFF&} a year
+Dialogue: 1,0:00:08.53,0:00:08.73,Cap,,0,0,0,,{\pos(540,1400)}million {\c&H0060ECCD}a{\c&H00FFFFFF&} year
+Dialogue: 1,0:00:08.73,0:00:09.02,Cap,,0,0,0,,{\pos(540,1400)}million a {\c&H0060ECCD}year{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.07,0:00:09.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}push{\c&H00FFFFFF&} proactive
+Dialogue: 1,0:00:09.57,0:00:10.09,Cap,,0,0,0,,{\pos(540,1400)}push {\c&H0060ECCD}proactive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.09,0:00:10.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}service{\c&H00FFFFFF&} plans
+Dialogue: 1,0:00:10.62,0:00:11.11,Cap,,0,0,0,,{\pos(540,1400)}service {\c&H0060ECCD}plans{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.11,0:00:11.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hard{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.81,0:00:12.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} best plans
+Dialogue: 1,0:00:12.29,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}best{\c&H00FFFFFF&} plans
+Dialogue: 1,0:00:12.62,0:00:12.99,Cap,,0,0,0,,{\pos(540,1400)}The best {\c&H0060ECCD}plans{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.99,0:00:13.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} three tiers
+Dialogue: 1,0:00:13.21,0:00:13.49,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}three{\c&H00FFFFFF&} tiers
+Dialogue: 1,0:00:13.49,0:00:14.02,Cap,,0,0,0,,{\pos(540,1400)}have three {\c&H0060ECCD}tiers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.21,0:00:14.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:14.47,0:00:14.73,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.73,0:00:15.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}options{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.38,0:00:15.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} when every
+Dialogue: 1,0:00:15.79,0:00:15.95,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}when{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:15.95,0:00:16.40,Cap,,0,0,0,,{\pos(540,1400)}And when {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.40,0:00:16.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tech{\c&H00FFFFFF&} hands every
+Dialogue: 1,0:00:16.73,0:00:17.03,Cap,,0,0,0,,{\pos(540,1400)}tech {\c&H0060ECCD}hands{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:17.03,0:00:17.40,Cap,,0,0,0,,{\pos(540,1400)}tech hands {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.40,0:00:17.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customer{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:17.83,0:00:18.07,Cap,,0,0,0,,{\pos(540,1400)}customer {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.07,0:00:18.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}printed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.29,0:00:18.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one-sheet{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.97,0:00:19.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} one in five
+Dialogue: 1,0:00:19.59,0:00:19.93,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}one{\c&H00FFFFFF&} in five
+Dialogue: 1,0:00:19.93,0:00:20.12,Cap,,0,0,0,,{\pos(540,1400)}about one {\c&H0060ECCD}in{\c&H00FFFFFF&} five
+Dialogue: 1,0:00:20.12,0:00:20.43,Cap,,0,0,0,,{\pos(540,1400)}about one in {\c&H0060ECCD}five{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.43,0:00:20.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}say{\c&H00FFFFFF&} yes
+Dialogue: 1,0:00:20.73,0:00:21.17,Cap,,0,0,0,,{\pos(540,1400)}say {\c&H0060ECCD}yes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.35,0:00:21.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Most{\c&H00FFFFFF&} companies
+Dialogue: 1,0:00:21.95,0:00:22.38,Cap,,0,0,0,,{\pos(540,1400)}Most {\c&H0060ECCD}companies{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.38,0:00:22.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} a plan
+Dialogue: 1,0:00:22.62,0:00:22.75,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}a{\c&H00FFFFFF&} plan
+Dialogue: 1,0:00:22.75,0:00:23.15,Cap,,0,0,0,,{\pos(540,1400)}have a {\c&H0060ECCD}plan{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.21,0:00:23.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} nobody offers
+Dialogue: 1,0:00:23.27,0:00:23.57,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}nobody{\c&H00FFFFFF&} offers
+Dialogue: 1,0:00:23.57,0:00:23.88,Cap,,0,0,0,,{\pos(540,1400)}but nobody {\c&H0060ECCD}offers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.88,0:00:24.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.47,0:00:24.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Before{\c&H00FFFFFF&} you spend
+Dialogue: 1,0:00:24.97,0:00:25.16,Cap,,0,0,0,,{\pos(540,1400)}Before {\c&H0060ECCD}you{\c&H00FFFFFF&} spend
+Dialogue: 1,0:00:25.16,0:00:25.40,Cap,,0,0,0,,{\pos(540,1400)}Before you {\c&H0060ECCD}spend{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.40,0:00:25.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} money trying
+Dialogue: 1,0:00:25.59,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}money{\c&H00FFFFFF&} trying
+Dialogue: 1,0:00:25.83,0:00:26.12,Cap,,0,0,0,,{\pos(540,1400)}more money {\c&H0060ECCD}trying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.12,0:00:26.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} cover new
+Dialogue: 1,0:00:26.29,0:00:26.49,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}cover{\c&H00FFFFFF&} new
+Dialogue: 1,0:00:26.49,0:00:26.69,Cap,,0,0,0,,{\pos(540,1400)}to cover {\c&H0060ECCD}new{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.69,0:00:27.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}towns{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.31,0:00:27.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sell{\c&H00FFFFFF&} to the
+Dialogue: 1,0:00:27.66,0:00:27.85,Cap,,0,0,0,,{\pos(540,1400)}sell {\c&H0060ECCD}to{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:27.85,0:00:27.97,Cap,,0,0,0,,{\pos(540,1400)}sell to {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.97,0:00:28.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:28.43,0:00:28.66,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.66,0:00:29.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}already{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:29.03,0:00:29.57,Cap,,0,0,0,,{\pos(540,1400)}already {\c&H0060ECCD}have{\c&H00FFFFFF&}

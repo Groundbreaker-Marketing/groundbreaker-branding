@@ -1,0 +1,111 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:29.14,Title,,0,0,0,,{\pos(540,360)}The line the owner\Nhad me delete
+Dialogue: 1,0:00:00.00,0:00:00.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}A{\c&H00FFFFFF&} septic owner
+Dialogue: 1,0:00:00.16,0:00:00.56,Cap,,0,0,0,,{\pos(540,1400)}A {\c&H0060ECCD}septic{\c&H00FFFFFF&} owner
+Dialogue: 1,0:00:00.56,0:00:00.80,Cap,,0,0,0,,{\pos(540,1400)}A septic {\c&H0060ECCD}owner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.80,0:00:01.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gave{\c&H00FFFFFF&} me the best
+Dialogue: 1,0:00:01.04,0:00:01.16,Cap,,0,0,0,,{\pos(540,1400)}gave {\c&H0060ECCD}me{\c&H00FFFFFF&} the best
+Dialogue: 1,0:00:01.16,0:00:01.32,Cap,,0,0,0,,{\pos(540,1400)}gave me {\c&H0060ECCD}the{\c&H00FFFFFF&} best
+Dialogue: 1,0:00:01.32,0:00:01.62,Cap,,0,0,0,,{\pos(540,1400)}gave me the {\c&H0060ECCD}best{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.62,0:00:01.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}line{\c&H00FFFFFF&} on the whole
+Dialogue: 1,0:00:01.90,0:00:02.14,Cap,,0,0,0,,{\pos(540,1400)}line {\c&H0060ECCD}on{\c&H00FFFFFF&} the whole
+Dialogue: 1,0:00:02.14,0:00:02.26,Cap,,0,0,0,,{\pos(540,1400)}line on {\c&H0060ECCD}the{\c&H00FFFFFF&} whole
+Dialogue: 1,0:00:02.26,0:00:02.42,Cap,,0,0,0,,{\pos(540,1400)}line on the {\c&H0060ECCD}whole{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.42,0:00:02.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:02.82,0:00:03.04,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.04,0:00:03.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}correcting{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:03.42,0:00:03.84,Cap,,0,0,0,,{\pos(540,1400)}correcting {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.92,0:00:04.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} draft said
+Dialogue: 1,0:00:04.34,0:00:04.64,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}draft{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:04.64,0:00:04.96,Cap,,0,0,0,,{\pos(540,1400)}The draft {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.96,0:00:05.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} they repair
+Dialogue: 1,0:00:05.14,0:00:05.30,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}they{\c&H00FFFFFF&} repair
+Dialogue: 1,0:00:05.30,0:00:05.68,Cap,,0,0,0,,{\pos(540,1400)}that they {\c&H0060ECCD}repair{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.68,0:00:06.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}baffles{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.38,0:00:06.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} owner said
+Dialogue: 1,0:00:06.46,0:00:06.70,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}owner{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:06.70,0:00:07.12,Cap,,0,0,0,,{\pos(540,1400)}The owner {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.20,0:00:07.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}take{\c&H00FFFFFF&} that out
+Dialogue: 1,0:00:07.34,0:00:07.54,Cap,,0,0,0,,{\pos(540,1400)}take {\c&H0060ECCD}that{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:07.54,0:00:07.92,Cap,,0,0,0,,{\pos(540,1400)}take that {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.94,0:00:08.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} don't replace
+Dialogue: 1,0:00:08.14,0:00:08.38,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}don't{\c&H00FFFFFF&} replace
+Dialogue: 1,0:00:08.38,0:00:08.76,Cap,,0,0,0,,{\pos(540,1400)}We don't {\c&H0060ECCD}replace{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.76,0:00:09.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}baffle{\c&H00FFFFFF&} walls
+Dialogue: 1,0:00:09.14,0:00:09.44,Cap,,0,0,0,,{\pos(540,1400)}baffle {\c&H0060ECCD}walls{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.44,0:00:09.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} a broken
+Dialogue: 1,0:00:09.68,0:00:09.86,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}a{\c&H00FFFFFF&} broken
+Dialogue: 1,0:00:09.86,0:00:10.20,Cap,,0,0,0,,{\pos(540,1400)}because a {\c&H0060ECCD}broken{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.20,0:00:10.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}baffle{\c&H00FFFFFF&} wall
+Dialogue: 1,0:00:10.72,0:00:11.00,Cap,,0,0,0,,{\pos(540,1400)}baffle {\c&H0060ECCD}wall{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.00,0:00:11.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} means the
+Dialogue: 1,0:00:11.42,0:00:11.72,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}means{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:11.72,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}usually means {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.86,0:00:12.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whole{\c&H00FFFFFF&} tank is
+Dialogue: 1,0:00:12.06,0:00:12.30,Cap,,0,0,0,,{\pos(540,1400)}whole {\c&H0060ECCD}tank{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:12.30,0:00:12.50,Cap,,0,0,0,,{\pos(540,1400)}whole tank {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.50,0:00:12.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}eroding{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.18,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} last thing we
+Dialogue: 1,0:00:13.66,0:00:13.94,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}last{\c&H00FFFFFF&} thing we
+Dialogue: 1,0:00:13.94,0:00:14.18,Cap,,0,0,0,,{\pos(540,1400)}The last {\c&H0060ECCD}thing{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:14.18,0:00:14.34,Cap,,0,0,0,,{\pos(540,1400)}The last thing {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.34,0:00:14.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}want{\c&H00FFFFFF&} is a
+Dialogue: 1,0:00:14.60,0:00:14.76,Cap,,0,0,0,,{\pos(540,1400)}want {\c&H0060ECCD}is{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:14.76,0:00:14.88,Cap,,0,0,0,,{\pos(540,1400)}want is {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.88,0:00:15.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customer{\c&H00FFFFFF&} paying
+Dialogue: 1,0:00:15.22,0:00:15.60,Cap,,0,0,0,,{\pos(540,1400)}customer {\c&H0060ECCD}paying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.60,0:00:15.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} a baffle
+Dialogue: 1,0:00:15.82,0:00:15.94,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}a{\c&H00FFFFFF&} baffle
+Dialogue: 1,0:00:15.94,0:00:16.38,Cap,,0,0,0,,{\pos(540,1400)}for a {\c&H0060ECCD}baffle{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.38,0:00:16.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} calling us
+Dialogue: 1,0:00:16.86,0:00:17.22,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}calling{\c&H00FFFFFF&} us
+Dialogue: 1,0:00:17.22,0:00:17.44,Cap,,0,0,0,,{\pos(540,1400)}then calling {\c&H0060ECCD}us{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.44,0:00:17.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}back{\c&H00FFFFFF&} for a whole
+Dialogue: 1,0:00:17.66,0:00:17.86,Cap,,0,0,0,,{\pos(540,1400)}back {\c&H0060ECCD}for{\c&H00FFFFFF&} a whole
+Dialogue: 1,0:00:17.86,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}back for {\c&H0060ECCD}a{\c&H00FFFFFF&} whole
+Dialogue: 1,0:00:17.98,0:00:18.14,Cap,,0,0,0,,{\pos(540,1400)}back for a {\c&H0060ECCD}whole{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.14,0:00:18.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}new{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:18.32,0:00:18.72,Cap,,0,0,0,,{\pos(540,1400)}new {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.72,0:00:19.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That{\c&H00FFFFFF&} one sentence
+Dialogue: 1,0:00:19.44,0:00:19.76,Cap,,0,0,0,,{\pos(540,1400)}That {\c&H0060ECCD}one{\c&H00FFFFFF&} sentence
+Dialogue: 1,0:00:19.76,0:00:20.18,Cap,,0,0,0,,{\pos(540,1400)}That one {\c&H0060ECCD}sentence{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.18,0:00:20.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tells{\c&H00FFFFFF&} a homeowner
+Dialogue: 1,0:00:20.60,0:00:20.76,Cap,,0,0,0,,{\pos(540,1400)}tells {\c&H0060ECCD}a{\c&H00FFFFFF&} homeowner
+Dialogue: 1,0:00:20.76,0:00:21.12,Cap,,0,0,0,,{\pos(540,1400)}tells a {\c&H0060ECCD}homeowner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.12,0:00:21.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} about that
+Dialogue: 1,0:00:21.44,0:00:21.72,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}about{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:21.72,0:00:21.92,Cap,,0,0,0,,{\pos(540,1400)}more about {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.92,0:00:22.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company's{\c&H00FFFFFF&} honesty
+Dialogue: 1,0:00:22.42,0:00:22.92,Cap,,0,0,0,,{\pos(540,1400)}company's {\c&H0060ECCD}honesty{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.92,0:00:23.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}than{\c&H00FFFFFF&} any slogan
+Dialogue: 1,0:00:23.18,0:00:23.50,Cap,,0,0,0,,{\pos(540,1400)}than {\c&H0060ECCD}any{\c&H00FFFFFF&} slogan
+Dialogue: 1,0:00:23.50,0:00:24.04,Cap,,0,0,0,,{\pos(540,1400)}than any {\c&H0060ECCD}slogan{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.24,0:00:24.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Put{\c&H00FFFFFF&} the things
+Dialogue: 1,0:00:24.74,0:00:24.90,Cap,,0,0,0,,{\pos(540,1400)}Put {\c&H0060ECCD}the{\c&H00FFFFFF&} things
+Dialogue: 1,0:00:24.90,0:00:25.14,Cap,,0,0,0,,{\pos(540,1400)}Put the {\c&H0060ECCD}things{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.14,0:00:25.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} won't do on
+Dialogue: 1,0:00:25.40,0:00:25.88,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}won't{\c&H00FFFFFF&} do on
+Dialogue: 1,0:00:25.88,0:00:26.18,Cap,,0,0,0,,{\pos(540,1400)}you won't {\c&H0060ECCD}do{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:26.18,0:00:26.52,Cap,,0,0,0,,{\pos(540,1400)}you won't do {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.52,0:00:26.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} website too
+Dialogue: 1,0:00:26.70,0:00:27.12,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}website{\c&H00FFFFFF&} too
+Dialogue: 1,0:00:27.12,0:00:27.54,Cap,,0,0,0,,{\pos(540,1400)}your website {\c&H0060ECCD}too{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.60,0:00:28.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} where the
+Dialogue: 1,0:00:28.02,0:00:28.18,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}where{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:28.18,0:00:28.30,Cap,,0,0,0,,{\pos(540,1400)}That's where {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.30,0:00:28.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trust{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:28.56,0:00:28.98,Cap,,0,0,0,,{\pos(540,1400)}trust {\c&H0060ECCD}is{\c&H00FFFFFF&}

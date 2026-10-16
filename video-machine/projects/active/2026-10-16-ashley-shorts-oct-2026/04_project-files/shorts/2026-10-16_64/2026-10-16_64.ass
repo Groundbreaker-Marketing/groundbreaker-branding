@@ -1,0 +1,97 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:28.16,Title,,0,0,0,,{\pos(540,360)}They're buying\Nan ANSWER
+Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} listened to the
+Dialogue: 1,0:00:00.19,0:00:00.53,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}listened{\c&H00FFFFFF&} to the
+Dialogue: 1,0:00:00.53,0:00:00.71,Cap,,0,0,0,,{\pos(540,1400)}I listened {\c&H0060ECCD}to{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:00.71,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}I listened to {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.83,0:00:01.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}calls{\c&H00FFFFFF&} behind a
+Dialogue: 1,0:00:01.11,0:00:01.43,Cap,,0,0,0,,{\pos(540,1400)}calls {\c&H0060ECCD}behind{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:01.43,0:00:01.67,Cap,,0,0,0,,{\pos(540,1400)}calls behind {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.67,0:00:02.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.01,0:00:02.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}contractor's{\c&H00FFFFFF&} best
+Dialogue: 1,0:00:02.87,0:00:03.29,Cap,,0,0,0,,{\pos(540,1400)}contractor's {\c&H0060ECCD}best{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.29,0:00:03.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}jobs{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.13,0:00:04.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} customers
+Dialogue: 1,0:00:04.53,0:00:05.03,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}customers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.03,0:00:05.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}weren't{\c&H00FFFFFF&} buying
+Dialogue: 1,0:00:05.45,0:00:05.79,Cap,,0,0,0,,{\pos(540,1400)}weren't {\c&H0060ECCD}buying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.79,0:00:06.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} lowest price
+Dialogue: 1,0:00:06.23,0:00:06.63,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}lowest{\c&H00FFFFFF&} price
+Dialogue: 1,0:00:06.63,0:00:07.13,Cap,,0,0,0,,{\pos(540,1400)}the lowest {\c&H0060ECCD}price{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.19,0:00:07.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}They{\c&H00FFFFFF&} were buying
+Dialogue: 1,0:00:07.25,0:00:07.41,Cap,,0,0,0,,{\pos(540,1400)}They {\c&H0060ECCD}were{\c&H00FFFFFF&} buying
+Dialogue: 1,0:00:07.41,0:00:07.85,Cap,,0,0,0,,{\pos(540,1400)}They were {\c&H0060ECCD}buying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.85,0:00:08.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}an{\c&H00FFFFFF&} answer
+Dialogue: 1,0:00:08.07,0:00:08.61,Cap,,0,0,0,,{\pos(540,1400)}an {\c&H0060ECCD}answer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.82,0:00:09.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}One{\c&H00FFFFFF&} caller had
+Dialogue: 1,0:00:09.34,0:00:09.64,Cap,,0,0,0,,{\pos(540,1400)}One {\c&H0060ECCD}caller{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:09.64,0:00:09.88,Cap,,0,0,0,,{\pos(540,1400)}One caller {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.88,0:00:10.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spent{\c&H00FFFFFF&} two months
+Dialogue: 1,0:00:10.16,0:00:10.48,Cap,,0,0,0,,{\pos(540,1400)}spent {\c&H0060ECCD}two{\c&H00FFFFFF&} months
+Dialogue: 1,0:00:10.48,0:00:10.86,Cap,,0,0,0,,{\pos(540,1400)}spent two {\c&H0060ECCD}months{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.86,0:00:11.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trying{\c&H00FFFFFF&} to get
+Dialogue: 1,0:00:11.10,0:00:11.26,Cap,,0,0,0,,{\pos(540,1400)}trying {\c&H0060ECCD}to{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:11.26,0:00:11.38,Cap,,0,0,0,,{\pos(540,1400)}trying to {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.38,0:00:11.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anybody{\c&H00FFFFFF&} to call
+Dialogue: 1,0:00:11.80,0:00:11.98,Cap,,0,0,0,,{\pos(540,1400)}anybody {\c&H0060ECCD}to{\c&H00FFFFFF&} call
+Dialogue: 1,0:00:11.98,0:00:12.18,Cap,,0,0,0,,{\pos(540,1400)}anybody to {\c&H0060ECCD}call{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.18,0:00:12.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.78,0:00:13.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} company that
+Dialogue: 1,0:00:13.02,0:00:13.42,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}company{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:13.42,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}The company {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.66,0:00:14.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}won{\c&H00FFFFFF&} picked up the
+Dialogue: 1,0:00:14.00,0:00:14.48,Cap,,0,0,0,,{\pos(540,1400)}won {\c&H0060ECCD}picked{\c&H00FFFFFF&} up the
+Dialogue: 1,0:00:14.48,0:00:14.66,Cap,,0,0,0,,{\pos(540,1400)}won picked {\c&H0060ECCD}up{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:14.66,0:00:14.82,Cap,,0,0,0,,{\pos(540,1400)}won picked up {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.82,0:00:15.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}phone{\c&H00FFFFFF&} gave a
+Dialogue: 1,0:00:15.14,0:00:15.72,Cap,,0,0,0,,{\pos(540,1400)}phone {\c&H0060ECCD}gave{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:15.72,0:00:15.90,Cap,,0,0,0,,{\pos(540,1400)}phone gave {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.90,0:00:16.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}straight{\c&H00FFFFFF&} price
+Dialogue: 1,0:00:16.24,0:00:16.68,Cap,,0,0,0,,{\pos(540,1400)}straight {\c&H0060ECCD}price{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.68,0:00:17.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} named the
+Dialogue: 1,0:00:17.16,0:00:17.46,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}named{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:17.46,0:00:17.64,Cap,,0,0,0,,{\pos(540,1400)}and named {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.64,0:00:17.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}worst{\c&H00FFFFFF&} case first
+Dialogue: 1,0:00:17.94,0:00:18.26,Cap,,0,0,0,,{\pos(540,1400)}worst {\c&H0060ECCD}case{\c&H00FFFFFF&} first
+Dialogue: 1,0:00:18.26,0:00:18.86,Cap,,0,0,0,,{\pos(540,1400)}worst case {\c&H0060ECCD}first{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.86,0:00:19.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} customers
+Dialogue: 1,0:00:19.92,0:00:20.42,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}customers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.42,0:00:20.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} the same when
+Dialogue: 1,0:00:20.70,0:00:20.88,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}the{\c&H00FFFFFF&} same when
+Dialogue: 1,0:00:20.88,0:00:21.18,Cap,,0,0,0,,{\pos(540,1400)}are the {\c&H0060ECCD}same{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:21.18,0:00:21.78,Cap,,0,0,0,,{\pos(540,1400)}are the same {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.78,0:00:21.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} tank is
+Dialogue: 1,0:00:21.88,0:00:22.08,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}tank{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:22.08,0:00:22.28,Cap,,0,0,0,,{\pos(540,1400)}the tank {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.28,0:00:22.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}backing{\c&H00FFFFFF&} up the
+Dialogue: 1,0:00:22.54,0:00:22.86,Cap,,0,0,0,,{\pos(540,1400)}backing {\c&H0060ECCD}up{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:22.86,0:00:23.16,Cap,,0,0,0,,{\pos(540,1400)}backing up {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.16,0:00:23.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}first{\c&H00FFFFFF&} company to
+Dialogue: 1,0:00:23.44,0:00:23.88,Cap,,0,0,0,,{\pos(540,1400)}first {\c&H0060ECCD}company{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:23.88,0:00:24.04,Cap,,0,0,0,,{\pos(540,1400)}first company {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.04,0:00:24.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answer{\c&H00FFFFFF&} with a
+Dialogue: 1,0:00:24.42,0:00:24.62,Cap,,0,0,0,,{\pos(540,1400)}answer {\c&H0060ECCD}with{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:24.62,0:00:24.74,Cap,,0,0,0,,{\pos(540,1400)}answer with {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.74,0:00:25.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clear{\c&H00FFFFFF&} answer
+Dialogue: 1,0:00:25.18,0:00:25.66,Cap,,0,0,0,,{\pos(540,1400)}clear {\c&H0060ECCD}answer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.66,0:00:26.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} gets the
+Dialogue: 1,0:00:26.12,0:00:26.38,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}gets{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:26.38,0:00:26.56,Cap,,0,0,0,,{\pos(540,1400)}usually gets {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.56,0:00:26.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}job{\c&H00FFFFFF&} be that
+Dialogue: 1,0:00:26.86,0:00:27.52,Cap,,0,0,0,,{\pos(540,1400)}job {\c&H0060ECCD}be{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:27.52,0:00:27.76,Cap,,0,0,0,,{\pos(540,1400)}job be {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.76,0:00:28.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company{\c&H00FFFFFF&}

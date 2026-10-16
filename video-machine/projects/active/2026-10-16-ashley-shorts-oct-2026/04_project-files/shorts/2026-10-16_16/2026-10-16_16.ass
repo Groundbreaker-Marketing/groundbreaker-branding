@@ -1,0 +1,116 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.39,Title,,0,0,0,,{\pos(540,360)}AI got 2 septic\Nwebsites wrong
+Dialogue: 1,0:00:00.02,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}AI{\c&H00FFFFFF&} helped us
+Dialogue: 1,0:00:00.28,0:00:00.68,Cap,,0,0,0,,{\pos(540,1400)}AI {\c&H0060ECCD}helped{\c&H00FFFFFF&} us
+Dialogue: 1,0:00:00.68,0:00:00.90,Cap,,0,0,0,,{\pos(540,1400)}AI helped {\c&H0060ECCD}us{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.90,0:00:01.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}draft{\c&H00FFFFFF&} two septic
+Dialogue: 1,0:00:01.18,0:00:01.52,Cap,,0,0,0,,{\pos(540,1400)}draft {\c&H0060ECCD}two{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:01.52,0:00:02.00,Cap,,0,0,0,,{\pos(540,1400)}draft two {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.00,0:00:02.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}websites{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:02.38,0:00:02.74,Cap,,0,0,0,,{\pos(540,1400)}websites {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.74,0:00:03.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}month{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.38,0:00:03.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Both{\c&H00FFFFFF&} owners
+Dialogue: 1,0:00:03.90,0:00:04.28,Cap,,0,0,0,,{\pos(540,1400)}Both {\c&H0060ECCD}owners{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.28,0:00:04.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}caught{\c&H00FFFFFF&} mistakes
+Dialogue: 1,0:00:04.58,0:00:05.26,Cap,,0,0,0,,{\pos(540,1400)}caught {\c&H0060ECCD}mistakes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.38,0:00:05.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}One{\c&H00FFFFFF&} draft said a
+Dialogue: 1,0:00:05.66,0:00:05.94,Cap,,0,0,0,,{\pos(540,1400)}One {\c&H0060ECCD}draft{\c&H00FFFFFF&} said a
+Dialogue: 1,0:00:05.94,0:00:06.30,Cap,,0,0,0,,{\pos(540,1400)}One draft {\c&H0060ECCD}said{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:06.30,0:00:06.52,Cap,,0,0,0,,{\pos(540,1400)}One draft said {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.52,0:00:06.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}dirty{\c&H00FFFFFF&} outlet
+Dialogue: 1,0:00:06.78,0:00:07.24,Cap,,0,0,0,,{\pos(540,1400)}dirty {\c&H0060ECCD}outlet{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.24,0:00:07.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}filter{\c&H00FFFFFF&} can set
+Dialogue: 1,0:00:07.60,0:00:07.90,Cap,,0,0,0,,{\pos(540,1400)}filter {\c&H0060ECCD}can{\c&H00FFFFFF&} set
+Dialogue: 1,0:00:07.90,0:00:08.04,Cap,,0,0,0,,{\pos(540,1400)}filter can {\c&H0060ECCD}set{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.04,0:00:08.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}off{\c&H00FFFFFF&} alarms and
+Dialogue: 1,0:00:08.20,0:00:08.62,Cap,,0,0,0,,{\pos(540,1400)}off {\c&H0060ECCD}alarms{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:08.62,0:00:08.90,Cap,,0,0,0,,{\pos(540,1400)}off alarms {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.90,0:00:09.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wear{\c&H00FFFFFF&} out the pump
+Dialogue: 1,0:00:09.06,0:00:09.20,Cap,,0,0,0,,{\pos(540,1400)}wear {\c&H0060ECCD}out{\c&H00FFFFFF&} the pump
+Dialogue: 1,0:00:09.20,0:00:09.36,Cap,,0,0,0,,{\pos(540,1400)}wear out {\c&H0060ECCD}the{\c&H00FFFFFF&} pump
+Dialogue: 1,0:00:09.36,0:00:09.62,Cap,,0,0,0,,{\pos(540,1400)}wear out the {\c&H0060ECCD}pump{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.62,0:00:09.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}inside{\c&H00FFFFFF&} the tank
+Dialogue: 1,0:00:09.92,0:00:10.12,Cap,,0,0,0,,{\pos(540,1400)}inside {\c&H0060ECCD}the{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:10.12,0:00:10.50,Cap,,0,0,0,,{\pos(540,1400)}inside the {\c&H0060ECCD}tank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.58,0:00:11.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} owner wrote
+Dialogue: 1,0:00:11.04,0:00:11.20,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}owner{\c&H00FFFFFF&} wrote
+Dialogue: 1,0:00:11.20,0:00:11.42,Cap,,0,0,0,,{\pos(540,1400)}The owner {\c&H0060ECCD}wrote{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.42,0:00:11.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.90,0:00:12.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} tanks don't
+Dialogue: 1,0:00:12.10,0:00:12.38,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}tanks{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:12.38,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}our tanks {\c&H0060ECCD}don't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.62,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} alarms or
+Dialogue: 1,0:00:12.80,0:00:13.14,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}alarms{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:13.14,0:00:13.38,Cap,,0,0,0,,{\pos(540,1400)}have alarms {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.38,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumps{\c&H00FFFFFF&} inside
+Dialogue: 1,0:00:13.66,0:00:14.00,Cap,,0,0,0,,{\pos(540,1400)}pumps {\c&H0060ECCD}inside{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.00,0:00:14.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.48,0:00:14.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} other draft
+Dialogue: 1,0:00:14.98,0:00:15.26,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}other{\c&H00FFFFFF&} draft
+Dialogue: 1,0:00:15.26,0:00:15.60,Cap,,0,0,0,,{\pos(540,1400)}The other {\c&H0060ECCD}draft{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.60,0:00:15.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bragged{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:15.98,0:00:16.14,Cap,,0,0,0,,{\pos(540,1400)}bragged {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.14,0:00:16.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} camera had
+Dialogue: 1,0:00:16.28,0:00:16.60,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}camera{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:16.60,0:00:16.78,Cap,,0,0,0,,{\pos(540,1400)}their camera {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.78,0:00:17.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}found{\c&H00FFFFFF&} lost
+Dialogue: 1,0:00:17.00,0:00:17.30,Cap,,0,0,0,,{\pos(540,1400)}found {\c&H0060ECCD}lost{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.30,0:00:17.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}jewelry{\c&H00FFFFFF&} in a
+Dialogue: 1,0:00:17.64,0:00:17.82,Cap,,0,0,0,,{\pos(540,1400)}jewelry {\c&H0060ECCD}in{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:17.82,0:00:17.90,Cap,,0,0,0,,{\pos(540,1400)}jewelry in {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.90,0:00:18.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pipe{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.40,0:00:18.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That{\c&H00FFFFFF&} owner said
+Dialogue: 1,0:00:18.66,0:00:18.86,Cap,,0,0,0,,{\pos(540,1400)}That {\c&H0060ECCD}owner{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:18.86,0:00:19.28,Cap,,0,0,0,,{\pos(540,1400)}That owner {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.36,0:00:19.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} wish we were
+Dialogue: 1,0:00:19.42,0:00:19.66,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}wish{\c&H00FFFFFF&} we were
+Dialogue: 1,0:00:19.66,0:00:19.82,Cap,,0,0,0,,{\pos(540,1400)}I wish {\c&H0060ECCD}we{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:19.82,0:00:19.96,Cap,,0,0,0,,{\pos(540,1400)}I wish we {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.96,0:00:20.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}finding{\c&H00FFFFFF&} lost
+Dialogue: 1,0:00:20.28,0:00:20.60,Cap,,0,0,0,,{\pos(540,1400)}finding {\c&H0060ECCD}lost{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.60,0:00:20.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}jewelry{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:20.88,0:00:21.10,Cap,,0,0,0,,{\pos(540,1400)}jewelry {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.10,0:00:21.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.62,0:00:22.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}AI{\c&H00FFFFFF&} is fast
+Dialogue: 1,0:00:22.14,0:00:22.56,Cap,,0,0,0,,{\pos(540,1400)}AI {\c&H0060ECCD}is{\c&H00FFFFFF&} fast
+Dialogue: 1,0:00:22.56,0:00:23.02,Cap,,0,0,0,,{\pos(540,1400)}AI is {\c&H0060ECCD}fast{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.02,0:00:23.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} it doesn't
+Dialogue: 1,0:00:23.08,0:00:23.20,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}it{\c&H00FFFFFF&} doesn't
+Dialogue: 1,0:00:23.20,0:00:23.52,Cap,,0,0,0,,{\pos(540,1400)}but it {\c&H0060ECCD}doesn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.52,0:00:23.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} your trade
+Dialogue: 1,0:00:23.68,0:00:23.88,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}your{\c&H00FFFFFF&} trade
+Dialogue: 1,0:00:23.88,0:00:24.22,Cap,,0,0,0,,{\pos(540,1400)}know your {\c&H0060ECCD}trade{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.22,0:00:24.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} why every
+Dialogue: 1,0:00:24.82,0:00:24.98,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}why{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:24.98,0:00:25.46,Cap,,0,0,0,,{\pos(540,1400)}That's why {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.46,0:00:25.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}page{\c&H00FFFFFF&} goes to the
+Dialogue: 1,0:00:25.84,0:00:26.32,Cap,,0,0,0,,{\pos(540,1400)}page {\c&H0060ECCD}goes{\c&H00FFFFFF&} to the
+Dialogue: 1,0:00:26.32,0:00:26.50,Cap,,0,0,0,,{\pos(540,1400)}page goes {\c&H0060ECCD}to{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:26.50,0:00:26.64,Cap,,0,0,0,,{\pos(540,1400)}page goes to {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.64,0:00:26.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}owner{\c&H00FFFFFF&} before it
+Dialogue: 1,0:00:26.88,0:00:27.26,Cap,,0,0,0,,{\pos(540,1400)}owner {\c&H0060ECCD}before{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:27.26,0:00:27.50,Cap,,0,0,0,,{\pos(540,1400)}owner before {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.50,0:00:27.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}goes{\c&H00FFFFFF&} live
+Dialogue: 1,0:00:27.66,0:00:28.10,Cap,,0,0,0,,{\pos(540,1400)}goes {\c&H0060ECCD}live{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.26,0:00:28.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Your{\c&H00FFFFFF&} know-how is
+Dialogue: 1,0:00:28.76,0:00:29.42,Cap,,0,0,0,,{\pos(540,1400)}Your {\c&H0060ECCD}know-how{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:29.42,0:00:29.74,Cap,,0,0,0,,{\pos(540,1400)}Your know-how {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.74,0:00:29.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} part AI can't
+Dialogue: 1,0:00:29.88,0:00:30.20,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}part{\c&H00FFFFFF&} AI can't
+Dialogue: 1,0:00:30.20,0:00:30.54,Cap,,0,0,0,,{\pos(540,1400)}the part {\c&H0060ECCD}AI{\c&H00FFFFFF&} can't
+Dialogue: 1,0:00:30.54,0:00:31.06,Cap,,0,0,0,,{\pos(540,1400)}the part AI {\c&H0060ECCD}can't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.06,0:00:31.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fake{\c&H00FFFFFF&}

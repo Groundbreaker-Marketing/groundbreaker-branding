@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:25.83,Title,,0,0,0,,{\pos(540,360)}Burned by an\Nagency before?
+Dialogue: 1,0:00:00.00,0:00:00.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I've{\c&H00FFFFFF&} been screwed
+Dialogue: 1,0:00:00.29,0:00:00.43,Cap,,0,0,0,,{\pos(540,1400)}I've {\c&H0060ECCD}been{\c&H00FFFFFF&} screwed
+Dialogue: 1,0:00:00.43,0:00:00.73,Cap,,0,0,0,,{\pos(540,1400)}I've been {\c&H0060ECCD}screwed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.73,0:00:01.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}too{\c&H00FFFFFF&} many times in
+Dialogue: 1,0:00:01.05,0:00:01.23,Cap,,0,0,0,,{\pos(540,1400)}too {\c&H0060ECCD}many{\c&H00FFFFFF&} times in
+Dialogue: 1,0:00:01.23,0:00:01.59,Cap,,0,0,0,,{\pos(540,1400)}too many {\c&H0060ECCD}times{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:01.59,0:00:01.77,Cap,,0,0,0,,{\pos(540,1400)}too many times {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.77,0:00:01.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} past
+Dialogue: 1,0:00:01.85,0:00:02.35,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}past{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.59,0:00:02.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}A{\c&H00FFFFFF&} An owner said
+Dialogue: 1,0:00:02.97,0:00:03.29,Cap,,0,0,0,,{\pos(540,1400)}A {\c&H0060ECCD}An{\c&H00FFFFFF&} owner said
+Dialogue: 1,0:00:03.29,0:00:03.51,Cap,,0,0,0,,{\pos(540,1400)}A An {\c&H0060ECCD}owner{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:03.51,0:00:03.75,Cap,,0,0,0,,{\pos(540,1400)}A An owner {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.75,0:00:03.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} to me before
+Dialogue: 1,0:00:03.89,0:00:04.03,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}to{\c&H00FFFFFF&} me before
+Dialogue: 1,0:00:04.03,0:00:04.17,Cap,,0,0,0,,{\pos(540,1400)}that to {\c&H0060ECCD}me{\c&H00FFFFFF&} before
+Dialogue: 1,0:00:04.17,0:00:04.45,Cap,,0,0,0,,{\pos(540,1400)}that to me {\c&H0060ECCD}before{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.45,0:00:04.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}signing{\c&H00FFFFFF&} anything
+Dialogue: 1,0:00:04.79,0:00:05.19,Cap,,0,0,0,,{\pos(540,1400)}signing {\c&H0060ECCD}anything{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.19,0:00:05.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} us
+Dialogue: 1,0:00:05.43,0:00:05.85,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}us{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.93,0:00:06.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} hear the some
+Dialogue: 1,0:00:06.43,0:00:06.71,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}hear{\c&H00FFFFFF&} the some
+Dialogue: 1,0:00:06.71,0:00:06.91,Cap,,0,0,0,,{\pos(540,1400)}I hear {\c&H0060ECCD}the{\c&H00FFFFFF&} some
+Dialogue: 1,0:00:06.91,0:00:07.13,Cap,,0,0,0,,{\pos(540,1400)}I hear the {\c&H0060ECCD}some{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.13,0:00:07.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}version{\c&H00FFFFFF&} of it
+Dialogue: 1,0:00:07.43,0:00:07.63,Cap,,0,0,0,,{\pos(540,1400)}version {\c&H0060ECCD}of{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:07.63,0:00:07.73,Cap,,0,0,0,,{\pos(540,1400)}version of {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.73,0:00:07.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}every{\c&H00FFFFFF&} week so
+Dialogue: 1,0:00:07.97,0:00:08.31,Cap,,0,0,0,,{\pos(540,1400)}every {\c&H0060ECCD}week{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:08.31,0:00:08.83,Cap,,0,0,0,,{\pos(540,1400)}every week {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.83,0:00:09.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}here's{\c&H00FFFFFF&} what I I'd
+Dialogue: 1,0:00:09.19,0:00:09.33,Cap,,0,0,0,,{\pos(540,1400)}here's {\c&H0060ECCD}what{\c&H00FFFFFF&} I I'd
+Dialogue: 1,0:00:09.33,0:00:09.45,Cap,,0,0,0,,{\pos(540,1400)}here's what {\c&H0060ECCD}I{\c&H00FFFFFF&} I'd
+Dialogue: 1,0:00:09.45,0:00:09.59,Cap,,0,0,0,,{\pos(540,1400)}here's what I {\c&H0060ECCD}I'd{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.59,0:00:09.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ask{\c&H00FFFFFF&} any marketing
+Dialogue: 1,0:00:09.97,0:00:10.31,Cap,,0,0,0,,{\pos(540,1400)}ask {\c&H0060ECCD}any{\c&H00FFFFFF&} marketing
+Dialogue: 1,0:00:10.31,0:00:10.71,Cap,,0,0,0,,{\pos(540,1400)}ask any {\c&H0060ECCD}marketing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.71,0:00:11.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company{\c&H00FFFFFF&} including
+Dialogue: 1,0:00:11.13,0:00:11.53,Cap,,0,0,0,,{\pos(540,1400)}company {\c&H0060ECCD}including{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.53,0:00:12.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mine{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.23,0:00:12.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Can{\c&H00FFFFFF&} I see every
+Dialogue: 1,0:00:12.79,0:00:12.95,Cap,,0,0,0,,{\pos(540,1400)}Can {\c&H0060ECCD}I{\c&H00FFFFFF&} see every
+Dialogue: 1,0:00:12.95,0:00:13.19,Cap,,0,0,0,,{\pos(540,1400)}Can I {\c&H0060ECCD}see{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:13.19,0:00:13.53,Cap,,0,0,0,,{\pos(540,1400)}Can I see {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.53,0:00:13.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}call{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:13.81,0:00:13.99,Cap,,0,0,0,,{\pos(540,1400)}call {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.99,0:00:14.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}counting?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.75,0:00:14.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} listen to it
+Dialogue: 1,0:00:14.83,0:00:15.09,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}listen{\c&H00FFFFFF&} to it
+Dialogue: 1,0:00:15.09,0:00:15.31,Cap,,0,0,0,,{\pos(540,1400)}And listen {\c&H0060ECCD}to{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:15.31,0:00:15.65,Cap,,0,0,0,,{\pos(540,1400)}And listen to {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.69,0:00:16.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Who's{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:16.07,0:00:16.53,Cap,,0,0,0,,{\pos(540,1400)}Who's {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.53,0:00:16.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doing{\c&H00FFFFFF&} the work on
+Dialogue: 1,0:00:16.81,0:00:16.97,Cap,,0,0,0,,{\pos(540,1400)}doing {\c&H0060ECCD}the{\c&H00FFFFFF&} work on
+Dialogue: 1,0:00:16.97,0:00:17.17,Cap,,0,0,0,,{\pos(540,1400)}doing the {\c&H0060ECCD}work{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:17.17,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}doing the work {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.31,0:00:17.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} account?
+Dialogue: 1,0:00:17.47,0:00:17.97,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}account?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.01,0:00:18.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} what happens
+Dialogue: 1,0:00:18.41,0:00:18.59,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}what{\c&H00FFFFFF&} happens
+Dialogue: 1,0:00:18.59,0:00:18.93,Cap,,0,0,0,,{\pos(540,1400)}And what {\c&H0060ECCD}happens{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.93,0:00:19.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} I want to
+Dialogue: 1,0:00:19.11,0:00:19.19,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}I{\c&H00FFFFFF&} want to
+Dialogue: 1,0:00:19.19,0:00:19.39,Cap,,0,0,0,,{\pos(540,1400)}if I {\c&H0060ECCD}want{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:19.39,0:00:19.53,Cap,,0,0,0,,{\pos(540,1400)}if I want {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.53,0:00:19.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leave?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.01,0:00:20.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}If{\c&H00FFFFFF&} they can't
+Dialogue: 1,0:00:20.27,0:00:20.41,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}they{\c&H00FFFFFF&} can't
+Dialogue: 1,0:00:20.41,0:00:20.73,Cap,,0,0,0,,{\pos(540,1400)}If they {\c&H0060ECCD}can't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.73,0:00:21.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}answer{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:21.07,0:00:21.37,Cap,,0,0,0,,{\pos(540,1400)}answer {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.37,0:00:21.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}three{\c&H00FFFFFF&} in plain
+Dialogue: 1,0:00:21.69,0:00:21.91,Cap,,0,0,0,,{\pos(540,1400)}three {\c&H0060ECCD}in{\c&H00FFFFFF&} plain
+Dialogue: 1,0:00:21.91,0:00:22.15,Cap,,0,0,0,,{\pos(540,1400)}three in {\c&H0060ECCD}plain{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.15,0:00:22.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}English{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.57,0:00:22.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}keep{\c&H00FFFFFF&} looking
+Dialogue: 1,0:00:22.99,0:00:23.55,Cap,,0,0,0,,{\pos(540,1400)}keep {\c&H0060ECCD}looking{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.83,0:00:24.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}You've{\c&H00FFFFFF&} earned a
+Dialogue: 1,0:00:24.39,0:00:24.75,Cap,,0,0,0,,{\pos(540,1400)}You've {\c&H0060ECCD}earned{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:24.75,0:00:24.99,Cap,,0,0,0,,{\pos(540,1400)}You've earned {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.99,0:00:25.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}straight{\c&H00FFFFFF&} answer
+Dialogue: 1,0:00:25.15,0:00:25.67,Cap,,0,0,0,,{\pos(540,1400)}straight {\c&H0060ECCD}answer{\c&H00FFFFFF&}

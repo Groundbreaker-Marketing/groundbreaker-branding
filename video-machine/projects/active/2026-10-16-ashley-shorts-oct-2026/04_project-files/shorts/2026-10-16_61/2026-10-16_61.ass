@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:26.40,Title,,0,0,0,,{\pos(540,360)}That old special?\NIt's in your ads.
+Dialogue: 1,0:00:00.00,0:00:00.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Got{\c&H00FFFFFF&} an old
+Dialogue: 1,0:00:00.15,0:00:00.37,Cap,,0,0,0,,{\pos(540,1400)}Got {\c&H0060ECCD}an{\c&H00FFFFFF&} old
+Dialogue: 1,0:00:00.37,0:00:00.53,Cap,,0,0,0,,{\pos(540,1400)}Got an {\c&H0060ECCD}old{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.53,0:00:00.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}special{\c&H00FFFFFF&} still
+Dialogue: 1,0:00:00.97,0:00:01.31,Cap,,0,0,0,,{\pos(540,1400)}special {\c&H0060ECCD}still{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.31,0:00:01.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sitting{\c&H00FFFFFF&} on your
+Dialogue: 1,0:00:01.59,0:00:01.75,Cap,,0,0,0,,{\pos(540,1400)}sitting {\c&H0060ECCD}on{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:01.75,0:00:01.87,Cap,,0,0,0,,{\pos(540,1400)}sitting on {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.87,0:00:02.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.61,0:00:03.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} might be
+Dialogue: 1,0:00:03.17,0:00:03.39,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}might{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:03.39,0:00:03.57,Cap,,0,0,0,,{\pos(540,1400)}Google might {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.57,0:00:03.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}putting{\c&H00FFFFFF&} it in
+Dialogue: 1,0:00:03.89,0:00:04.09,Cap,,0,0,0,,{\pos(540,1400)}putting {\c&H0060ECCD}it{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:04.09,0:00:04.25,Cap,,0,0,0,,{\pos(540,1400)}putting it {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.25,0:00:04.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} ads
+Dialogue: 1,0:00:04.39,0:00:04.91,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}ads{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.07,0:00:05.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Google{\c&H00FFFFFF&} Ads can
+Dialogue: 1,0:00:05.63,0:00:05.99,Cap,,0,0,0,,{\pos(540,1400)}Google {\c&H0060ECCD}Ads{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:05.99,0:00:06.25,Cap,,0,0,0,,{\pos(540,1400)}Google Ads {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.25,0:00:06.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}now{\c&H00FFFFFF&} find offers
+Dialogue: 1,0:00:06.49,0:00:06.83,Cap,,0,0,0,,{\pos(540,1400)}now {\c&H0060ECCD}find{\c&H00FFFFFF&} offers
+Dialogue: 1,0:00:06.83,0:00:07.37,Cap,,0,0,0,,{\pos(540,1400)}now find {\c&H0060ECCD}offers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.37,0:00:07.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} your website
+Dialogue: 1,0:00:07.55,0:00:07.67,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}your{\c&H00FFFFFF&} website
+Dialogue: 1,0:00:07.67,0:00:08.03,Cap,,0,0,0,,{\pos(540,1400)}on your {\c&H0060ECCD}website{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.03,0:00:08.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} turn them
+Dialogue: 1,0:00:08.31,0:00:08.51,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}turn{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:08.51,0:00:08.71,Cap,,0,0,0,,{\pos(540,1400)}and turn {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.71,0:00:08.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}into{\c&H00FFFFFF&} promotions
+Dialogue: 1,0:00:08.93,0:00:09.51,Cap,,0,0,0,,{\pos(540,1400)}into {\c&H0060ECCD}promotions{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.51,0:00:09.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} your ads
+Dialogue: 1,0:00:09.79,0:00:09.95,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}your{\c&H00FFFFFF&} ads
+Dialogue: 1,0:00:09.95,0:00:10.33,Cap,,0,0,0,,{\pos(540,1400)}on your {\c&H0060ECCD}ads{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.33,0:00:11.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}automatically{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:11.09,0:00:11.97,Cap,,0,0,0,,{\pos(540,1400)}automatically {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.97,0:00:12.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} lot of accounts
+Dialogue: 1,0:00:12.11,0:00:12.25,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of accounts
+Dialogue: 1,0:00:12.25,0:00:12.43,Cap,,0,0,0,,{\pos(540,1400)}a lot {\c&H0060ECCD}of{\c&H00FFFFFF&} accounts
+Dialogue: 1,0:00:12.43,0:00:12.85,Cap,,0,0,0,,{\pos(540,1400)}a lot of {\c&H0060ECCD}accounts{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.85,0:00:13.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} on by
+Dialogue: 1,0:00:13.35,0:00:13.51,Cap,,0,0,0,,{\pos(540,1400)}that's {\c&H0060ECCD}on{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:13.51,0:00:13.67,Cap,,0,0,0,,{\pos(540,1400)}that's on {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.67,0:00:14.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}default{\c&H00FFFFFF&} so that
+Dialogue: 1,0:00:14.11,0:00:14.79,Cap,,0,0,0,,{\pos(540,1400)}default {\c&H0060ECCD}so{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:14.79,0:00:15.17,Cap,,0,0,0,,{\pos(540,1400)}default so {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.17,0:00:15.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}expired{\c&H00FFFFFF&} spring
+Dialogue: 1,0:00:15.85,0:00:16.27,Cap,,0,0,0,,{\pos(540,1400)}expired {\c&H0060ECCD}spring{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.27,0:00:16.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}special{\c&H00FFFFFF&} could be
+Dialogue: 1,0:00:16.67,0:00:17.01,Cap,,0,0,0,,{\pos(540,1400)}special {\c&H0060ECCD}could{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:17.01,0:00:17.21,Cap,,0,0,0,,{\pos(540,1400)}special could {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.21,0:00:17.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} front of
+Dialogue: 1,0:00:17.37,0:00:17.55,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}front{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:17.55,0:00:17.71,Cap,,0,0,0,,{\pos(540,1400)}in front {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.71,0:00:18.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customers{\c&H00FFFFFF&} today
+Dialogue: 1,0:00:18.19,0:00:18.61,Cap,,0,0,0,,{\pos(540,1400)}customers {\c&H0060ECCD}today{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.61,0:00:19.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}go{\c&H00FFFFFF&} through your
+Dialogue: 1,0:00:19.41,0:00:19.65,Cap,,0,0,0,,{\pos(540,1400)}go {\c&H0060ECCD}through{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:19.65,0:00:19.89,Cap,,0,0,0,,{\pos(540,1400)}go through {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.89,0:00:20.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}website{\c&H00FFFFFF&} this week
+Dialogue: 1,0:00:20.27,0:00:20.57,Cap,,0,0,0,,{\pos(540,1400)}website {\c&H0060ECCD}this{\c&H00FFFFFF&} week
+Dialogue: 1,0:00:20.57,0:00:20.77,Cap,,0,0,0,,{\pos(540,1400)}website this {\c&H0060ECCD}week{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.77,0:00:21.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}delete{\c&H00FFFFFF&} any
+Dialogue: 1,0:00:21.19,0:00:21.61,Cap,,0,0,0,,{\pos(540,1400)}delete {\c&H0060ECCD}any{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.61,0:00:22.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}special{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:22.09,0:00:22.39,Cap,,0,0,0,,{\pos(540,1400)}special {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.39,0:00:22.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} honoring
+Dialogue: 1,0:00:22.63,0:00:23.05,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}honoring{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.05,0:00:23.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anymore{\c&H00FFFFFF&} if it's
+Dialogue: 1,0:00:23.47,0:00:23.83,Cap,,0,0,0,,{\pos(540,1400)}anymore {\c&H0060ECCD}if{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:23.83,0:00:24.01,Cap,,0,0,0,,{\pos(540,1400)}anymore if {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.01,0:00:24.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} your site
+Dialogue: 1,0:00:24.23,0:00:24.45,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}your{\c&H00FFFFFF&} site
+Dialogue: 1,0:00:24.45,0:00:24.81,Cap,,0,0,0,,{\pos(540,1400)}on your {\c&H0060ECCD}site{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.81,0:00:25.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}assume{\c&H00FFFFFF&} Google
+Dialogue: 1,0:00:25.47,0:00:25.79,Cap,,0,0,0,,{\pos(540,1400)}assume {\c&H0060ECCD}Google{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.79,0:00:25.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}will{\c&H00FFFFFF&} use it
+Dialogue: 1,0:00:25.99,0:00:26.21,Cap,,0,0,0,,{\pos(540,1400)}will {\c&H0060ECCD}use{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:26.21,0:00:26.53,Cap,,0,0,0,,{\pos(540,1400)}will use {\c&H0060ECCD}it{\c&H00FFFFFF&}
