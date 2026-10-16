@@ -23,6 +23,13 @@ lessons under "For the engine"; whoever maintains the engine ports them into the
   (id 34) with all 51 items. Idempotent, so re-running is safe; check `opsboard status` after.
 - For the engine: reels.build `wrap()` should not split a number from its word or "AM"/"PM" from the
   time; copy_rules should exempt a domain name from the brand-terms check.
+- Review round, same evening: Ashley found the opening of #73 caught the end of the previous script
+  ("hours"), then flagged #1 (a false-start "A" 8 s before the real take). A scan of all 51 found 10
+  with the same stranded first word (01, 03, 25, 34, 41, 42, 44, 62, 63, 73): whisper stamped it
+  right after the previous script's last word, seconds before it was spoken. Fixed by starting on
+  the second word with the pair in the caption, locked, re-rendered and re-pushed (v2). Engine fix:
+  video-machine #42 (`unstrand`; trim_start now re-renders). Same issue on Kim's birthing-gloves
+  (2026-10-14 project): trim_start 0.82.
 
 ### 2026-10-06 podcast-episode (first Zoom podcast episode + 15 Shorts)
 - Worked: podcast.zoom pull of a 30-minute personal-room recording (two parts); podcast.transcribe

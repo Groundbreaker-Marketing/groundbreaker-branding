@@ -7,9 +7,9 @@
   "post": 0.45
  },
  "loudness_in": {
-  "input_i": "-18.87",
-  "input_tp": "2.79",
-  "input_lra": "3.70"
+  "input_i": "-18.88",
+  "input_tp": "3.84",
+  "input_lra": "3.60"
  },
  "joins_not_in_silence": [
   {
