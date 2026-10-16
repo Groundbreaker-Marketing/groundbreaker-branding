@@ -14,6 +14,8 @@
       "gate": { "file": "ads-ops/call-tracking/social/wrangler.toml", "emails": "ALLOWED_EMAILS" } },
     { "id": "finance", "name": "Finance", "url": "https://finance.groundbreakermarketing.com/",
       "gate": { "file": "finance-jobs/dashboard/wrangler.toml", "emails": "ALLOWED_EMAILS" } },
+    { "id": "contracts", "name": "Contracts", "url": "https://contracts.groundbreakermarketing.com/",
+      "gate": { "file": "contracts/dashboard/wrangler.toml", "emails": "ALLOWED_EMAILS" } },
     { "id": "security", "name": "Security", "url": "https://security.groundbreakermarketing.com/",
       "gate": { "file": "automation-runner/security-dashboard/wrangler.toml", "emails": "ALLOWED_EMAILS" } }
   ]
