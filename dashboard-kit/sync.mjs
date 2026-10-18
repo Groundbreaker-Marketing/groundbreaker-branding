@@ -19,10 +19,9 @@ for (const c of kit.consumers) {
   const root = join(apps, c.repo);
   if (!existsSync(root)) { console.log(`skip ${c.repo}: not cloned here`); continue; }
   for (const [src, dest] of Object.entries(c.files)) {
-    const want = readFileSync(join(here, 'dist', src), 'utf8');
+    const want = readFileSync(join(here, 'dist', src)); // bytes: the favicon PNGs ship too
     const target = join(root, dest);
-    const have = existsSync(target) ? readFileSync(target, 'utf8') : null;
-    if (have === want) continue;
+    if (existsSync(target) && readFileSync(target).equals(want)) continue;
     behind++;
     console.log(`${check ? 'behind' : 'wrote '} ${c.repo}/${dest}`);
     if (!check) { mkdirSync(dirname(target), { recursive: true }); writeFileSync(target, want); }

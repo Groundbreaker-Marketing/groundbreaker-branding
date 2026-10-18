@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "updated": "2026-10-15",
+  "version": "1.2.0",
+  "updated": "2026-10-17",
   "_consumers": "Every dashboard that carries the kit, and where each dist file lands in it. Paths are relative to ~/apps. sync.mjs writes these; each repo then ships its own PR and deploy.",
   "consumers": [
     {
@@ -17,7 +17,10 @@
       "deploy": "GitHub Actions on merge",
       "files": {
         "gbm-dash.css": "site/gbm-dash.css",
-        "gbm-dash.js": "functions/_lib/gbm-dash.js"
+        "gbm-dash.js": "functions/_lib/gbm-dash.js",
+        "gbm-favicon.svg": "site/gbm-favicon.svg",
+        "gbm-favicon-32.png": "site/gbm-favicon-32.png",
+        "gbm-touch-icon.png": "site/gbm-touch-icon.png"
       }
     },
     {
@@ -66,7 +69,10 @@
       "deploy": "GitHub Actions on merge",
       "files": {
         "gbm-bar.css": "site/gbm-bar.css",
-        "gbm-dash.js": "functions/_lib/gbm-dash.js"
+        "gbm-dash.js": "functions/_lib/gbm-dash.js",
+        "gbm-favicon.svg": "site/gbm-favicon.svg",
+        "gbm-favicon-32.png": "site/gbm-favicon-32.png",
+        "gbm-touch-icon.png": "site/gbm-touch-icon.png"
       }
     },
     {
