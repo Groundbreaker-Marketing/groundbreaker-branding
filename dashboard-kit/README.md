@@ -8,7 +8,7 @@ rail from the "Suite Rail" idea on top of it (v1.1.0).
 
 | File (in `dist/`) | What it is | Who uses it |
 |---|---|---|
-| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, `FAVICON_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops, Finance, Leads, Website & SEO, Social & Video, Contracts, Security, Onboarding and Access functions |
+| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, `FAVICON_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops (which carries Website & SEO as a tab), Finance, Leads, Social & Video, Contracts, Security, Onboarding and Access functions |
 | `gbm-dash.css` | Page tokens (light and dark) plus the bar and tabs | Onboarding's static page |
 | `gbm-bar.css` | The bar and tabs alone, with namespaced `--gbm-*` tokens, for a page that keeps its own palette | Access (client-facing) |
 | `gbm-logo*.svg`, `gbm-mark*.svg` | Copies of `../logos` | Reviews |
