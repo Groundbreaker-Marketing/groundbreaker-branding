@@ -8,10 +8,11 @@ rail from the "Suite Rail" idea on top of it (v1.1.0).
 
 | File (in `dist/`) | What it is | Who uses it |
 |---|---|---|
-| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops, Finance, Leads, Website & SEO, Social & Video, Onboarding and Access functions |
+| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, `FAVICON_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops, Finance, Leads, Website & SEO, Social & Video, Contracts, Security, Onboarding and Access functions |
 | `gbm-dash.css` | Page tokens (light and dark) plus the bar and tabs | Onboarding's static page |
 | `gbm-bar.css` | The bar and tabs alone, with namespaced `--gbm-*` tokens, for a page that keeps its own palette | Access (client-facing) |
 | `gbm-logo*.svg`, `gbm-mark*.svg` | Copies of `../logos` | Reviews |
+| `gbm-favicon.svg`, `gbm-favicon-32.png`, `gbm-touch-icon.png` | The GM favicon as files, for static pages (`FAVICON_FILE_LINKS` links them) | Onboarding and Access static pages |
 
 Sources live in `src/` (`tokens.css`, `bar.css`, `chrome.css`) and `../logos/`. `dist/` is built,
 not committed (`sync.mjs` builds it first). Never edit a consumer's copy by hand.
@@ -19,16 +20,28 @@ not committed (`sync.mjs` builds it first). Never edit a consumer's copy by hand
 ## The header
 
 ```js
-import { DASH_CSS, FONT_LINKS, bar, tabs } from './gbm-dash.js';
+import { DASH_CSS, FONT_LINKS, FAVICON_LINKS, bar } from './gbm-dash.js';
 
-const html = `<!doctype html><html lang="en"><head>…${FONT_LINKS}<style>${DASH_CSS}${APP_CSS}</style></head><body>
-${bar({ app: 'Ops', user: user.name, signOut: '/cdn-cgi/access/logout' })}
-${tabs([{ href: '/', label: 'My work', on: true }, { href: '/triage', label: 'Triage', badge: 3 }])}
+const html = `<!doctype html><html lang="en"><head>…${FAVICON_LINKS}${FONT_LINKS}<style>${DASH_CSS}${APP_CSS}</style></head><body>
+${bar({ app: 'Ops', user: user.name, signOut: '/cdn-cgi/access/logout',
+        tabs: [{ href: '/', label: 'My work', on: true }, { href: '/triage', label: 'Triage', badge: 3 }] })}
 <main>…</main></body></html>`;
 ```
 
-- `bar({ app, home, user, signOut, signOutLabel, right, current, email })`. `right` is trusted
+- `bar({ app, home, user, signOut, signOutLabel, right, current, email, tabs })`. `right` is trusted
   HTML from the app (filters, a refresh button); everything else is escaped.
+- **The header is sticky** (v1.2.0, Josh 2026-10-17): the logo, the Apps menu and the section tabs
+  stay on screen while the page scrolls. Pass the tabs to `bar()` as `tabs` (the items `tabs()`
+  takes, or the HTML it returned when you need its second argument) rather than printing `tabs()`
+  after the bar: `bar()` wraps both in one `<div class="gbm-top">`, so they stick together whatever
+  height the bar wraps to. `--gbm-top-h` is about the header's height: the kit sets
+  `scroll-padding-top` from it so `#anchor` jumps land below the header, and a page's own sticky
+  element sits under it with `top: calc(var(--gbm-top-h) + 12px)`. Sticky needs the page itself to
+  scroll, so never set `overflow` on both `html` and `body`.
+- **Favicon**: `FAVICON_LINKS` goes in every page's `<head>`. It is the GM mark (the G turns white on
+  a dark browser theme) inline as `data:` URIs, so it needs no route and works under each
+  dashboard's CSP (each allows `img-src data:`). Static pages use `FAVICON_FILE_LINKS`, which links
+  the three files `sync.mjs` copies beside them.
 - The logo is inline SVG, so it works under a strict CSP (`img-src` does not need to allow
   anything). Below 560px wide the full logo swaps to the GM mark.
 - Fonts: DM Sans from Google Fonts, the same face as groundbreakermarketing.com. A page's CSP
@@ -53,7 +66,7 @@ every dashboard whose copy is now behind. Adding an app: an entry in `apps.json`
 then sync and ship every consumer so the new link shows up everywhere.
 
 Static page, same markup by hand: copy the `<header class="gbm-bar">…</header>` that `bar()`
-returns (run `node -e "import('./dist/gbm-dash.js').then(m=>console.log(m.bar({app:'Name'})))"`).
+returns (a bare bar is sticky too), plus `FAVICON_FILE_LINKS` in the `<head>` (run `node -e "import('./dist/gbm-dash.js').then(m=>console.log(m.bar({app:'Name'})))"`).
 
 ## Rules
 
