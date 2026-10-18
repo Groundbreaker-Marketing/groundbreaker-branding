@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "updated": "2026-10-17",
   "_consumers": "Every dashboard that carries the kit, and where each dist file lands in it. Paths are relative to ~/apps. sync.mjs writes these; each repo then ships its own PR and deploy.",
   "consumers": [
@@ -45,14 +45,6 @@
       "deploy": "cd call-tracking/master && npx wrangler deploy (by hand)",
       "files": {
         "gbm-dash.js": "call-tracking/master/src/gbm-dash.js"
-      }
-    },
-    {
-      "repo": "ads-ops",
-      "host": "miguel.groundbreakermarketing.com",
-      "deploy": "cd call-tracking/website && npx wrangler deploy (by hand)",
-      "files": {
-        "gbm-dash.js": "call-tracking/website/src/gbm-dash.js"
       }
     },
     {
