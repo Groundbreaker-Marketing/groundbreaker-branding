@@ -1,5 +1,61 @@
 {
+  "zero-experience": {
+    "fails": [],
+    "warns": []
+  },
+  "septic-whisperer": {
+    "fails": [],
+    "warns": []
+  },
+  "almost-400-reviews": {
+    "fails": [],
+    "warns": []
+  },
   "million-views": {
+    "fails": [],
+    "warns": []
+  },
+  "two-page-inspections": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "twenty-tripods": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "phd-in-poo": {
+    "fails": [],
+    "warns": []
+  },
+  "frozen-winter": {
+    "fails": [],
+    "warns": []
+  },
+  "birthing-gloves": {
+    "fails": [],
+    "warns": []
+  },
+  "business-is-lonely": {
+    "fails": [],
+    "warns": []
+  },
+  "brand-new-trucks": {
+    "fails": [],
+    "warns": []
+  },
+  "voice-to-report": {
+    "fails": [],
+    "warns": []
+  },
+  "im-the-bottleneck": {
+    "fails": [],
+    "warns": []
+  },
+  "cried-in-my-truck": {
     "fails": [],
     "warns": []
   }

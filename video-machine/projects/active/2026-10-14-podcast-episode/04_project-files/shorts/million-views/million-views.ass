@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:43.40,Title,,0,0,0,,{\pos(540,360)}The septic video\Nwith {\c&H0060ECCD}a million{\c&H00FFFFFF&} views
+Dialogue: 2,0:00:00.00,0:00:43.41,Title,,0,0,0,,{\pos(540,360)}The septic video\Nwith {\c&H0060ECCD}a million{\c&H00FFFFFF&} views
 Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}My{\c&H00FFFFFF&} first one that
 Dialogue: 1,0:00:00.19,0:00:00.59,Cap,,0,0,0,,{\pos(540,1400)}My {\c&H0060ECCD}first{\c&H00FFFFFF&} one that
 Dialogue: 1,0:00:00.59,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}My first {\c&H0060ECCD}one{\c&H00FFFFFF&} that

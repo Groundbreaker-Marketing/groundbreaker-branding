@@ -1,11 +1,11 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Turner's guest episode (take 202403, Zoom HD 1280x720, no upscale). keep = inclusive word-index ranges of 02_audio/words/202403.json in play order (splits drop Ashley's short interjections and false starts); fillers skip automatically; fixes = word index -> caption text (the episode's name fixes plus each clip's own). Posting plan: release week 2026-10-21..27, every clip to YouTube + TikTok at noon or 5 PM CT, the five best also to Instagram, Facebook and LinkedIn at noon on weekdays. approved = Ashley approved it in Ops.",
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Turner's guest episode (take 202403, Zoom HD 1280x720, no upscale). keep = inclusive word-index ranges of 02_audio/words/202403.json in play order (splits drop Ashley's short interjections and false starts); fillers skip automatically; fixes = word index -> caption text (the episode's name fixes plus each clip's own). Posting plan: release week 2026-10-21..27, every clip to YouTube + TikTok at noon or 5 PM CT, the five best also to Instagram, Facebook and LinkedIn at noon on weekdays. approved = Ashley approved it in Ops. Source is 01_footage/zoom-202403-synced.mov (2026-10-19): Ashley's and Kim's own Zoom tracks remixed with Kim 100 ms earlier, because Zoom recorded her voice ~100 ms behind her picture (lip-sync measured +99 ms on the original, +3 ms after); 02_audio/words/202403-synced.json has her words moved to match, same indexes.",
  "fillers": true,
  "clips": [
   {
    "id": "zero-experience",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      93,
@@ -45,8 +45,8 @@
   },
   {
    "id": "septic-whisperer",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      1209,
@@ -91,8 +91,8 @@
   },
   {
    "id": "almost-400-reviews",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      6173,
@@ -131,8 +131,8 @@
   },
   {
    "id": "million-views",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      1808,
@@ -195,8 +195,8 @@
   },
   {
    "id": "two-page-inspections",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      6643,
@@ -230,8 +230,8 @@
   },
   {
    "id": "twenty-tripods",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      1969,
@@ -280,8 +280,8 @@
   },
   {
    "id": "phd-in-poo",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      2239,
@@ -327,8 +327,8 @@
   },
   {
    "id": "frozen-winter",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      4951,
@@ -377,8 +377,8 @@
   },
   {
    "id": "birthing-gloves",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      5708,
@@ -420,8 +420,8 @@
   },
   {
    "id": "business-is-lonely",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      3202,
@@ -462,8 +462,8 @@
   },
   {
    "id": "brand-new-trucks",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      4571,
@@ -512,8 +512,8 @@
   },
   {
    "id": "voice-to-report",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      7103,
@@ -579,8 +579,8 @@
   },
   {
    "id": "im-the-bottleneck",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      8073,
@@ -626,8 +626,8 @@
   },
   {
    "id": "cried-in-my-truck",
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json",
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json",
    "keep": [
     [
      2546,

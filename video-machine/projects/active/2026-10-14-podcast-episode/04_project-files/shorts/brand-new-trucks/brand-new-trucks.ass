@@ -13,106 +13,106 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:35.64,Title,,0,0,0,,{\pos(540,360)}Why we drive\N{\c&H0060ECCD}brand new{\c&H00FFFFFF&} trucks
+Dialogue: 2,0:00:00.00,0:00:35.97,Title,,0,0,0,,{\pos(540,360)}Why we drive\N{\c&H0060ECCD}brand new{\c&H00FFFFFF&} trucks
 Dialogue: 1,0:00:00.00,0:00:00.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}These{\c&H00FFFFFF&} guys drive
 Dialogue: 1,0:00:00.21,0:00:00.41,Cap,,0,0,0,,{\pos(540,1400)}These {\c&H0060ECCD}guys{\c&H00FFFFFF&} drive
 Dialogue: 1,0:00:00.41,0:00:00.69,Cap,,0,0,0,,{\pos(540,1400)}These guys {\c&H0060ECCD}drive{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.69,0:00:00.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} brand new
 Dialogue: 1,0:00:00.91,0:00:01.11,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}brand{\c&H00FFFFFF&} new
 Dialogue: 1,0:00:01.11,0:00:01.23,Cap,,0,0,0,,{\pos(540,1400)}all brand {\c&H0060ECCD}new{\c&H00FFFFFF&}
-Dialogue: 1,0:00:01.23,0:00:01.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trucks{\c&H00FFFFFF&} When
-Dialogue: 1,0:00:01.50,0:00:01.74,Cap,,0,0,0,,{\pos(540,1400)}trucks {\c&H0060ECCD}When{\c&H00FFFFFF&}
-Dialogue: 1,0:00:01.74,0:00:02.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}someone{\c&H00FFFFFF&} says
-Dialogue: 1,0:00:02.00,0:00:02.24,Cap,,0,0,0,,{\pos(540,1400)}someone {\c&H0060ECCD}says{\c&H00FFFFFF&}
-Dialogue: 1,0:00:02.24,0:00:02.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} rolling in
-Dialogue: 1,0:00:02.44,0:00:02.74,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}rolling{\c&H00FFFFFF&} in
-Dialogue: 1,0:00:02.74,0:00:02.92,Cap,,0,0,0,,{\pos(540,1400)}you're rolling {\c&H0060ECCD}in{\c&H00FFFFFF&}
-Dialogue: 1,0:00:02.92,0:00:02.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} dough Kim
-Dialogue: 1,0:00:02.98,0:00:03.18,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}dough{\c&H00FFFFFF&} Kim
-Dialogue: 1,0:00:03.18,0:00:03.46,Cap,,0,0,0,,{\pos(540,1400)}the dough {\c&H0060ECCD}Kim{\c&H00FFFFFF&}
-Dialogue: 1,0:00:03.46,0:00:04.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} we do
-Dialogue: 1,0:00:04.85,0:00:05.07,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}we{\c&H00FFFFFF&} do
-Dialogue: 1,0:00:05.07,0:00:05.29,Cap,,0,0,0,,{\pos(540,1400)}because we {\c&H0060ECCD}do{\c&H00FFFFFF&}
-Dialogue: 1,0:00:05.29,0:00:05.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drive{\c&H00FFFFFF&} brand new
-Dialogue: 1,0:00:05.73,0:00:06.19,Cap,,0,0,0,,{\pos(540,1400)}drive {\c&H0060ECCD}brand{\c&H00FFFFFF&} new
-Dialogue: 1,0:00:06.19,0:00:06.45,Cap,,0,0,0,,{\pos(540,1400)}drive brand {\c&H0060ECCD}new{\c&H00FFFFFF&}
-Dialogue: 1,0:00:06.45,0:00:06.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} trucks I
-Dialogue: 1,0:00:06.83,0:00:07.17,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}trucks{\c&H00FFFFFF&} I
-Dialogue: 1,0:00:07.17,0:00:08.53,Cap,,0,0,0,,{\pos(540,1400)}septic trucks {\c&H0060ECCD}I{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.53,0:00:09.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}want{\c&H00FFFFFF&} a beautiful
-Dialogue: 1,0:00:09.33,0:00:09.59,Cap,,0,0,0,,{\pos(540,1400)}want {\c&H0060ECCD}a{\c&H00FFFFFF&} beautiful
-Dialogue: 1,0:00:09.59,0:00:09.93,Cap,,0,0,0,,{\pos(540,1400)}want a {\c&H0060ECCD}beautiful{\c&H00FFFFFF&}
-Dialogue: 1,0:00:09.93,0:00:10.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}truck{\c&H00FFFFFF&} showing up
-Dialogue: 1,0:00:10.21,0:00:10.49,Cap,,0,0,0,,{\pos(540,1400)}truck {\c&H0060ECCD}showing{\c&H00FFFFFF&} up
-Dialogue: 1,0:00:10.49,0:00:10.61,Cap,,0,0,0,,{\pos(540,1400)}truck showing {\c&H0060ECCD}up{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.61,0:00:10.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} your yard I
-Dialogue: 1,0:00:10.73,0:00:10.89,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}your{\c&H00FFFFFF&} yard I
-Dialogue: 1,0:00:10.89,0:00:11.17,Cap,,0,0,0,,{\pos(540,1400)}in your {\c&H0060ECCD}yard{\c&H00FFFFFF&} I
-Dialogue: 1,0:00:11.17,0:00:11.35,Cap,,0,0,0,,{\pos(540,1400)}in your yard {\c&H0060ECCD}I{\c&H00FFFFFF&}
-Dialogue: 1,0:00:11.35,0:00:11.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} want it
-Dialogue: 1,0:00:11.49,0:00:11.61,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}want{\c&H00FFFFFF&} it
-Dialogue: 1,0:00:11.61,0:00:11.73,Cap,,0,0,0,,{\pos(540,1400)}don't want {\c&H0060ECCD}it{\c&H00FFFFFF&}
-Dialogue: 1,0:00:11.73,0:00:11.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leaking{\c&H00FFFFFF&} oil I
-Dialogue: 1,0:00:11.95,0:00:12.27,Cap,,0,0,0,,{\pos(540,1400)}leaking {\c&H0060ECCD}oil{\c&H00FFFFFF&} I
-Dialogue: 1,0:00:12.27,0:00:12.87,Cap,,0,0,0,,{\pos(540,1400)}leaking oil {\c&H0060ECCD}I{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.87,0:00:13.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} want it
-Dialogue: 1,0:00:13.09,0:00:13.25,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}want{\c&H00FFFFFF&} it
-Dialogue: 1,0:00:13.25,0:00:13.59,Cap,,0,0,0,,{\pos(540,1400)}don't want {\c&H0060ECCD}it{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.66,0:00:14.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}breaking{\c&H00FFFFFF&} down I
-Dialogue: 1,0:00:14.72,0:00:15.39,Cap,,0,0,0,,{\pos(540,1400)}breaking {\c&H0060ECCD}down{\c&H00FFFFFF&} I
-Dialogue: 1,0:00:15.39,0:00:15.95,Cap,,0,0,0,,{\pos(540,1400)}breaking down {\c&H0060ECCD}I{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.95,0:00:16.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}want{\c&H00FFFFFF&} my guys when
-Dialogue: 1,0:00:16.15,0:00:16.33,Cap,,0,0,0,,{\pos(540,1400)}want {\c&H0060ECCD}my{\c&H00FFFFFF&} guys when
-Dialogue: 1,0:00:16.33,0:00:16.69,Cap,,0,0,0,,{\pos(540,1400)}want my {\c&H0060ECCD}guys{\c&H00FFFFFF&} when
-Dialogue: 1,0:00:16.69,0:00:16.87,Cap,,0,0,0,,{\pos(540,1400)}want my guys {\c&H0060ECCD}when{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.87,0:00:16.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} 100 degrees
-Dialogue: 1,0:00:16.99,0:00:17.17,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}100{\c&H00FFFFFF&} degrees
-Dialogue: 1,0:00:17.17,0:00:17.51,Cap,,0,0,0,,{\pos(540,1400)}it's 100 {\c&H0060ECCD}degrees{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.51,0:00:17.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} AC
-Dialogue: 1,0:00:17.73,0:00:18.03,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}AC{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.03,0:00:19.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} want them to
-Dialogue: 1,0:00:19.47,0:00:19.65,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}want{\c&H00FFFFFF&} them to
-Dialogue: 1,0:00:19.65,0:00:19.77,Cap,,0,0,0,,{\pos(540,1400)}I want {\c&H0060ECCD}them{\c&H00FFFFFF&} to
-Dialogue: 1,0:00:19.77,0:00:19.89,Cap,,0,0,0,,{\pos(540,1400)}I want them {\c&H0060ECCD}to{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.89,0:00:19.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} comfortable
-Dialogue: 1,0:00:19.99,0:00:21.21,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}comfortable{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.21,0:00:21.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} a rolling
-Dialogue: 1,0:00:21.51,0:00:21.69,Cap,,0,0,0,,{\pos(540,1400)}it's a {\c&H0060ECCD}rolling{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.69,0:00:22.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}billboard{\c&H00FFFFFF&} it's
-Dialogue: 1,0:00:22.39,0:00:23.27,Cap,,0,0,0,,{\pos(540,1400)}billboard {\c&H0060ECCD}it's{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.27,0:00:23.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}comfort{\c&H00FFFFFF&} for them
-Dialogue: 1,0:00:23.59,0:00:23.81,Cap,,0,0,0,,{\pos(540,1400)}comfort {\c&H0060ECCD}for{\c&H00FFFFFF&} them
-Dialogue: 1,0:00:23.81,0:00:24.07,Cap,,0,0,0,,{\pos(540,1400)}comfort for {\c&H0060ECCD}them{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.07,0:00:24.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} comfort in
-Dialogue: 1,0:00:24.51,0:00:24.83,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}comfort{\c&H00FFFFFF&} in
-Dialogue: 1,0:00:24.83,0:00:24.99,Cap,,0,0,0,,{\pos(540,1400)}it's comfort {\c&H0060ECCD}in{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.99,0:00:25.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} driveway we
-Dialogue: 1,0:00:25.11,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}driveway{\c&H00FFFFFF&} we
-Dialogue: 1,0:00:26.46,0:00:26.96,Cap,,0,0,0,,{\pos(540,1400)}your driveway {\c&H0060ECCD}we{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.96,0:00:27.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}went{\c&H00FFFFFF&} a step
-Dialogue: 1,0:00:27.20,0:00:27.34,Cap,,0,0,0,,{\pos(540,1400)}went {\c&H0060ECCD}a{\c&H00FFFFFF&} step
-Dialogue: 1,0:00:27.34,0:00:27.52,Cap,,0,0,0,,{\pos(540,1400)}went a {\c&H0060ECCD}step{\c&H00FFFFFF&}
-Dialogue: 1,0:00:27.52,0:00:27.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}further{\c&H00FFFFFF&} this year
-Dialogue: 1,0:00:27.76,0:00:27.98,Cap,,0,0,0,,{\pos(540,1400)}further {\c&H0060ECCD}this{\c&H00FFFFFF&} year
-Dialogue: 1,0:00:27.98,0:00:28.68,Cap,,0,0,0,,{\pos(540,1400)}further this {\c&H0060ECCD}year{\c&H00FFFFFF&}
-Dialogue: 1,0:00:28.68,0:00:29.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} our CSR and
-Dialogue: 1,0:00:29.10,0:00:29.22,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}our{\c&H00FFFFFF&} CSR and
-Dialogue: 1,0:00:29.22,0:00:29.72,Cap,,0,0,0,,{\pos(540,1400)}with our {\c&H0060ECCD}CSR{\c&H00FFFFFF&} and
-Dialogue: 1,0:00:29.72,0:00:30.12,Cap,,0,0,0,,{\pos(540,1400)}with our CSR {\c&H0060ECCD}and{\c&H00FFFFFF&}
-Dialogue: 1,0:00:30.12,0:00:30.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} don't have a
-Dialogue: 1,0:00:30.24,0:00:30.38,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}don't{\c&H00FFFFFF&} have a
-Dialogue: 1,0:00:30.38,0:00:30.44,Cap,,0,0,0,,{\pos(540,1400)}we don't {\c&H0060ECCD}have{\c&H00FFFFFF&} a
-Dialogue: 1,0:00:30.44,0:00:30.58,Cap,,0,0,0,,{\pos(540,1400)}we don't have {\c&H0060ECCD}a{\c&H00FFFFFF&}
-Dialogue: 1,0:00:30.58,0:00:30.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}great{\c&H00FFFFFF&} internet
-Dialogue: 1,0:00:30.88,0:00:31.26,Cap,,0,0,0,,{\pos(540,1400)}great {\c&H0060ECCD}internet{\c&H00FFFFFF&}
-Dialogue: 1,0:00:31.26,0:00:31.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}service{\c&H00FFFFFF&} up here
-Dialogue: 1,0:00:31.68,0:00:31.86,Cap,,0,0,0,,{\pos(540,1400)}service {\c&H0060ECCD}up{\c&H00FFFFFF&} here
-Dialogue: 1,0:00:31.86,0:00:32.02,Cap,,0,0,0,,{\pos(540,1400)}service up {\c&H0060ECCD}here{\c&H00FFFFFF&}
-Dialogue: 1,0:00:32.02,0:00:32.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} put Starlink
-Dialogue: 1,0:00:32.66,0:00:32.84,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}put{\c&H00FFFFFF&} Starlink
-Dialogue: 1,0:00:32.84,0:00:33.36,Cap,,0,0,0,,{\pos(540,1400)}we put {\c&H0060ECCD}Starlink{\c&H00FFFFFF&}
-Dialogue: 1,0:00:33.36,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}satellites{\c&H00FFFFFF&} on our
-Dialogue: 1,0:00:33.96,0:00:34.78,Cap,,0,0,0,,{\pos(540,1400)}satellites {\c&H0060ECCD}on{\c&H00FFFFFF&} our
-Dialogue: 1,0:00:34.78,0:00:34.94,Cap,,0,0,0,,{\pos(540,1400)}satellites on {\c&H0060ECCD}our{\c&H00FFFFFF&}
-Dialogue: 1,0:00:34.94,0:00:35.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} trucks
-Dialogue: 1,0:00:35.28,0:00:35.76,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}trucks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.23,0:00:01.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trucks{\c&H00FFFFFF&} When
+Dialogue: 1,0:00:01.49,0:00:01.73,Cap,,0,0,0,,{\pos(540,1400)}trucks {\c&H0060ECCD}When{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.73,0:00:01.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}someone{\c&H00FFFFFF&} says
+Dialogue: 1,0:00:01.99,0:00:02.23,Cap,,0,0,0,,{\pos(540,1400)}someone {\c&H0060ECCD}says{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.23,0:00:02.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} rolling in
+Dialogue: 1,0:00:02.43,0:00:02.73,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}rolling{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:02.73,0:00:02.91,Cap,,0,0,0,,{\pos(540,1400)}you're rolling {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.91,0:00:02.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} dough Kim
+Dialogue: 1,0:00:02.97,0:00:03.17,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}dough{\c&H00FFFFFF&} Kim
+Dialogue: 1,0:00:03.17,0:00:03.45,Cap,,0,0,0,,{\pos(540,1400)}the dough {\c&H0060ECCD}Kim{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.45,0:00:04.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} we do
+Dialogue: 1,0:00:04.84,0:00:05.06,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}we{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:05.06,0:00:05.28,Cap,,0,0,0,,{\pos(540,1400)}because we {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.28,0:00:05.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drive{\c&H00FFFFFF&} brand new
+Dialogue: 1,0:00:05.72,0:00:06.18,Cap,,0,0,0,,{\pos(540,1400)}drive {\c&H0060ECCD}brand{\c&H00FFFFFF&} new
+Dialogue: 1,0:00:06.18,0:00:06.44,Cap,,0,0,0,,{\pos(540,1400)}drive brand {\c&H0060ECCD}new{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.44,0:00:06.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} trucks I
+Dialogue: 1,0:00:06.82,0:00:07.26,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}trucks{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:07.26,0:00:08.52,Cap,,0,0,0,,{\pos(540,1400)}septic trucks {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.52,0:00:09.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}want{\c&H00FFFFFF&} a beautiful
+Dialogue: 1,0:00:09.32,0:00:09.58,Cap,,0,0,0,,{\pos(540,1400)}want {\c&H0060ECCD}a{\c&H00FFFFFF&} beautiful
+Dialogue: 1,0:00:09.58,0:00:09.92,Cap,,0,0,0,,{\pos(540,1400)}want a {\c&H0060ECCD}beautiful{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.92,0:00:10.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}truck{\c&H00FFFFFF&} showing up
+Dialogue: 1,0:00:10.20,0:00:10.48,Cap,,0,0,0,,{\pos(540,1400)}truck {\c&H0060ECCD}showing{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:10.48,0:00:10.60,Cap,,0,0,0,,{\pos(540,1400)}truck showing {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.60,0:00:10.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} your yard I
+Dialogue: 1,0:00:10.72,0:00:10.88,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}your{\c&H00FFFFFF&} yard I
+Dialogue: 1,0:00:10.88,0:00:11.22,Cap,,0,0,0,,{\pos(540,1400)}in your {\c&H0060ECCD}yard{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:11.22,0:00:11.40,Cap,,0,0,0,,{\pos(540,1400)}in your yard {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.40,0:00:11.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} want it
+Dialogue: 1,0:00:11.54,0:00:11.66,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}want{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:11.66,0:00:11.78,Cap,,0,0,0,,{\pos(540,1400)}don't want {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.78,0:00:12.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}leaking{\c&H00FFFFFF&} oil I
+Dialogue: 1,0:00:12.00,0:00:12.33,Cap,,0,0,0,,{\pos(540,1400)}leaking {\c&H0060ECCD}oil{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:12.33,0:00:12.93,Cap,,0,0,0,,{\pos(540,1400)}leaking oil {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.93,0:00:13.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} want it
+Dialogue: 1,0:00:13.15,0:00:13.31,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}want{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:13.31,0:00:13.65,Cap,,0,0,0,,{\pos(540,1400)}don't want {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.72,0:00:14.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}breaking{\c&H00FFFFFF&} down I
+Dialogue: 1,0:00:14.78,0:00:15.50,Cap,,0,0,0,,{\pos(540,1400)}breaking {\c&H0060ECCD}down{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:15.50,0:00:16.06,Cap,,0,0,0,,{\pos(540,1400)}breaking down {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.06,0:00:16.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}want{\c&H00FFFFFF&} my guys when
+Dialogue: 1,0:00:16.26,0:00:16.44,Cap,,0,0,0,,{\pos(540,1400)}want {\c&H0060ECCD}my{\c&H00FFFFFF&} guys when
+Dialogue: 1,0:00:16.44,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}want my {\c&H0060ECCD}guys{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:16.80,0:00:16.98,Cap,,0,0,0,,{\pos(540,1400)}want my guys {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.98,0:00:17.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} 100 degrees
+Dialogue: 1,0:00:17.10,0:00:17.28,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}100{\c&H00FFFFFF&} degrees
+Dialogue: 1,0:00:17.28,0:00:17.62,Cap,,0,0,0,,{\pos(540,1400)}it's 100 {\c&H0060ECCD}degrees{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.62,0:00:17.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} AC
+Dialogue: 1,0:00:17.84,0:00:18.14,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}AC{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.14,0:00:19.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} want them to
+Dialogue: 1,0:00:19.58,0:00:19.76,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}want{\c&H00FFFFFF&} them to
+Dialogue: 1,0:00:19.76,0:00:19.88,Cap,,0,0,0,,{\pos(540,1400)}I want {\c&H0060ECCD}them{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:19.88,0:00:20.00,Cap,,0,0,0,,{\pos(540,1400)}I want them {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.00,0:00:20.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} comfortable
+Dialogue: 1,0:00:20.10,0:00:21.32,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}comfortable{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.32,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} a rolling
+Dialogue: 1,0:00:21.62,0:00:21.80,Cap,,0,0,0,,{\pos(540,1400)}it's a {\c&H0060ECCD}rolling{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.80,0:00:22.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}billboard{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:22.50,0:00:23.38,Cap,,0,0,0,,{\pos(540,1400)}billboard {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.38,0:00:23.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}comfort{\c&H00FFFFFF&} for them
+Dialogue: 1,0:00:23.70,0:00:23.92,Cap,,0,0,0,,{\pos(540,1400)}comfort {\c&H0060ECCD}for{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:23.92,0:00:24.18,Cap,,0,0,0,,{\pos(540,1400)}comfort for {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.18,0:00:24.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} comfort in
+Dialogue: 1,0:00:24.62,0:00:24.94,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}comfort{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:24.94,0:00:25.10,Cap,,0,0,0,,{\pos(540,1400)}it's comfort {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.10,0:00:25.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} driveway we
+Dialogue: 1,0:00:25.22,0:00:26.57,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}driveway{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:26.57,0:00:27.07,Cap,,0,0,0,,{\pos(540,1400)}your driveway {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.07,0:00:27.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}went{\c&H00FFFFFF&} a step
+Dialogue: 1,0:00:27.31,0:00:27.45,Cap,,0,0,0,,{\pos(540,1400)}went {\c&H0060ECCD}a{\c&H00FFFFFF&} step
+Dialogue: 1,0:00:27.45,0:00:27.63,Cap,,0,0,0,,{\pos(540,1400)}went a {\c&H0060ECCD}step{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.63,0:00:27.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}further{\c&H00FFFFFF&} this year
+Dialogue: 1,0:00:27.87,0:00:28.09,Cap,,0,0,0,,{\pos(540,1400)}further {\c&H0060ECCD}this{\c&H00FFFFFF&} year
+Dialogue: 1,0:00:28.09,0:00:28.79,Cap,,0,0,0,,{\pos(540,1400)}further this {\c&H0060ECCD}year{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.79,0:00:29.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} our CSR and
+Dialogue: 1,0:00:29.21,0:00:29.33,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}our{\c&H00FFFFFF&} CSR and
+Dialogue: 1,0:00:29.33,0:00:29.83,Cap,,0,0,0,,{\pos(540,1400)}with our {\c&H0060ECCD}CSR{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:29.83,0:00:30.23,Cap,,0,0,0,,{\pos(540,1400)}with our CSR {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.23,0:00:30.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} don't have a
+Dialogue: 1,0:00:30.35,0:00:30.49,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}don't{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:30.49,0:00:30.55,Cap,,0,0,0,,{\pos(540,1400)}we don't {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:30.55,0:00:30.69,Cap,,0,0,0,,{\pos(540,1400)}we don't have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.69,0:00:30.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}great{\c&H00FFFFFF&} internet
+Dialogue: 1,0:00:30.99,0:00:31.37,Cap,,0,0,0,,{\pos(540,1400)}great {\c&H0060ECCD}internet{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.37,0:00:31.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}service{\c&H00FFFFFF&} up here
+Dialogue: 1,0:00:31.79,0:00:31.97,Cap,,0,0,0,,{\pos(540,1400)}service {\c&H0060ECCD}up{\c&H00FFFFFF&} here
+Dialogue: 1,0:00:31.97,0:00:32.13,Cap,,0,0,0,,{\pos(540,1400)}service up {\c&H0060ECCD}here{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.13,0:00:32.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} put Starlink
+Dialogue: 1,0:00:32.77,0:00:32.95,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}put{\c&H00FFFFFF&} Starlink
+Dialogue: 1,0:00:32.95,0:00:33.47,Cap,,0,0,0,,{\pos(540,1400)}we put {\c&H0060ECCD}Starlink{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.47,0:00:34.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}satellites{\c&H00FFFFFF&} on our
+Dialogue: 1,0:00:34.07,0:00:34.89,Cap,,0,0,0,,{\pos(540,1400)}satellites {\c&H0060ECCD}on{\c&H00FFFFFF&} our
+Dialogue: 1,0:00:34.89,0:00:35.05,Cap,,0,0,0,,{\pos(540,1400)}satellites on {\c&H0060ECCD}our{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.05,0:00:35.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} trucks
+Dialogue: 1,0:00:35.39,0:00:35.87,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}trucks{\c&H00FFFFFF&}
