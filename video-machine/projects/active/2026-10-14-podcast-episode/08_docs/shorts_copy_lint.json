@@ -1,15 +1,5 @@
 {
-  "twenty-tripods": {
-    "fails": [],
-    "warns": [
-      "on-screen title line over 24 chars; it may wrap"
-    ]
-  },
-  "voice-to-report": {
-    "fails": [],
-    "warns": []
-  },
-  "cried-in-my-truck": {
+  "million-views": {
     "fails": [],
     "warns": []
   }

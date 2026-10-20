@@ -171,7 +171,27 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-22T17:00:00"
+   "publish_at": "2026-10-22T17:00:00",
+   "broll": [
+    {
+     "clip": "kim-tiktok-7331828278770011434.mp4",
+     "at": "i took her video",
+     "dur": 3.5,
+     "ss": 4.5
+    },
+    {
+     "clip": "kim-tiktok-7331828278770011434.mp4",
+     "at": "long nails",
+     "dur": 2.5,
+     "ss": 37.0
+    },
+    {
+     "clip": "kim-tiktok-7665766899061427487-zoom.mp4",
+     "at": "came around the corner",
+     "dur": 4.5,
+     "ss": 1.0
+    }
+   ]
   },
   {
    "id": "two-page-inspections",
