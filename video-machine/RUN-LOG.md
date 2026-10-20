@@ -30,6 +30,12 @@ lessons under "For the engine"; whoever maintains the engine ports them into the
   the second word with the pair in the caption, locked, re-rendered and re-pushed (v2). Engine fix:
   video-machine #42 (`unstrand`; trim_start now re-renders). Same issue on Kim's birthing-gloves
   (2026-10-14 project): trim_start 0.82.
+- 2026-10-19, million-views (Kim's episode): Ashley asked for clips of Kim's viral reels in it. Found on Kim's own
+  TikTok @turnerseptic (linked from turnersepticservices.com): 7331828278770011434 "Septiiiic Truck" (2024-02-04,
+  242.6K views, the "Mercedes" trend) and 7665766899061427487 water-facility POV (2026-07-23, 1.0M views).
+  yt-dlp into 03_selects/broll/ (git-ignored); three `broll` cutaways (Kim's own shots only, never the original
+  trend creator's); the water-facility clip zoomed 1.55x so its burned-in text clears our captions. Ask Kim
+  before it posts: it is her content.
 
 ### 2026-10-06 podcast-episode (first Zoom podcast episode + 15 Shorts)
 - Worked: podcast.zoom pull of a 30-minute personal-room recording (two parts); podcast.transcribe
