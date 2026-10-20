@@ -472,7 +472,7 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail-cutout-black.jpg"
  },
  "thumbnail": {
   "at": 780.0,
@@ -654,6 +654,7 @@
      "at": 806.26
     }
    }
-  }
+  },
+  "_picked": "Ashley picked variants.cutout-black on 2026-10-20 (publish.thumbnail); rebuild it with: podcast.thumbnail build <project> --variant cutout-black"
  }
 }
