@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:38.40,Title,,0,0,0,,{\pos(540,360)}Most inspections: 2 pages.\NHers: {\c&H0060ECCD}20{\c&H00FFFFFF&}.
+Dialogue: 2,0:00:00.00,0:00:38.40,Title,,0,0,0,,{\pos(540,360)}Most septic inspections:\N2 pages. Hers: {\c&H0060ECCD}20{\c&H00FFFFFF&}.
 Dialogue: 1,0:00:00.30,0:00:00.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} saw a lot
 Dialogue: 1,0:00:00.66,0:00:00.96,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}saw{\c&H00FFFFFF&} a lot
 Dialogue: 1,0:00:00.96,0:00:01.16,Cap,,0,0,0,,{\pos(540,1400)}I saw {\c&H0060ECCD}a{\c&H00FFFFFF&} lot

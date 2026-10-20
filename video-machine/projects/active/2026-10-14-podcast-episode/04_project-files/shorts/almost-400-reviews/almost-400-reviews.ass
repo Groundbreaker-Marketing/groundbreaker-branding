@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:32.98,Title,,0,0,0,,{\pos(540,360)}How we got almost\N{\c&H0060ECCD}400{\c&H00FFFFFF&} reviews
+Dialogue: 2,0:00:00.00,0:00:32.98,Title,,0,0,0,,{\pos(540,360)}How we got almost\N{\c&H0060ECCD}400{\c&H00FFFFFF&} septic reviews
 Dialogue: 1,0:00:00.00,0:00:00.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We're{\c&H00FFFFFF&} almost at
 Dialogue: 1,0:00:00.16,0:00:00.38,Cap,,0,0,0,,{\pos(540,1400)}We're {\c&H0060ECCD}almost{\c&H00FFFFFF&} at
 Dialogue: 1,0:00:00.38,0:00:00.56,Cap,,0,0,0,,{\pos(540,1400)}We're almost {\c&H0060ECCD}at{\c&H00FFFFFF&}

@@ -69,7 +69,7 @@
      1416
     ]
    ],
-   "title": "He wouldn't teach me.\nHe *watched*.",
+   "title": "The Septic\n*Whisperer*",
    "youtube": {
     "title": "The septic whisperer who wouldn't teach her",
     "description": "Kim Turner's mentor Walter refused to teach her. He watched her figure it out instead, and after seeing her upside down in a five-foot tank, he said she'd be fine.\n\n#septic #septicpumping #mentorship #trades"
@@ -107,7 +107,7 @@
      6264
     ]
    ],
-   "title": "How we got almost\n*400* reviews",
+   "title": "How we got almost\n*400* septic reviews",
    "youtube": {
     "title": "How a septic company gets almost 400 reviews",
     "description": "Turner Septic doesn't just drop a hose and hand over a bill. Every invoice explains scum, sludge and baffles, and every call gets returned. That's how you get close to 400 reviews.\n\n#septic #googlereviews #customerservice #septicbusiness"
@@ -207,7 +207,7 @@
      6771
     ]
    ],
-   "title": "Most inspections: 2 pages.\nHers: *20*.",
+   "title": "Most septic inspections:\n2 pages. Hers: *20*.",
    "youtube": {
     "title": "Why her septic inspection reports run 20 pages",
     "description": "Kim Turner kept seeing two-page septic inspections that couldn't say whether a system worked. Hers run 15 to 20 pages and cover everything from the clean-out to the end of the leach field.\n\n#septicinspection #septic #homeinspection #realestate"
@@ -486,7 +486,7 @@
      4696
     ]
    ],
-   "title": "Why we drive\n*brand new* trucks",
+   "title": "Why we drive\n*brand-new* septic trucks",
    "youtube": {
     "title": "Why this septic company runs brand new trucks",
     "description": "People tell Kim she must be rolling in the dough. The truth: a new truck doesn't leak oil in your yard, keeps her crew cool on hot days, and works as a rolling billboard. She even put Starlink on her trucks.\n\n#septic #pumptruck #septictruck #crew"
@@ -517,42 +517,6 @@
    "keep": [
     [
      7103,
-     7108
-    ],
-    [
-     7110,
-     7133
-    ],
-    [
-     7135,
-     7154
-    ],
-    [
-     7159,
-     7172
-    ],
-    [
-     7174,
-     7187
-    ],
-    [
-     7189,
-     7207
-    ],
-    [
-     7209,
-     7226
-    ],
-    [
-     7228,
-     7235
-    ],
-    [
-     7238,
-     7245
-    ],
-    [
-     7247,
      7249
     ]
    ],
@@ -564,10 +528,16 @@
    "approved": false,
    "fixes": {
     "7103": "You",
+    "7109": "",
     "7123": "Wispr",
     "7124": "Flow",
     "7133": "Plaud",
-    "7209": "There"
+    "7134": "",
+    "7158": "Kim",
+    "7173": "",
+    "7208": "",
+    "7209": "There",
+    "7237": ""
    },
    "layout": "crop",
    "crop_x": 0.5,
@@ -575,7 +545,10 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-26T17:00:00"
+   "publish_at": "2026-10-26T17:00:00",
+   "fillers": false,
+   "max_gap": 1.0,
+   "end_pad": 0.3
   },
   {
    "id": "im-the-bottleneck",
