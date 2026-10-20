@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:30.70,Title,,0,0,0,,{\pos(540,360)}He wouldn't teach me.\NHe {\c&H0060ECCD}watched{\c&H00FFFFFF&}.
+Dialogue: 2,0:00:00.00,0:00:30.70,Title,,0,0,0,,{\pos(540,360)}The Septic\N{\c&H0060ECCD}Whisperer{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}There's{\c&H00FFFFFF&} a
 Dialogue: 1,0:00:00.39,0:00:00.55,Cap,,0,0,0,,{\pos(540,1400)}There's {\c&H0060ECCD}a{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.55,0:00:00.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gentleman{\c&H00FFFFFF&}
