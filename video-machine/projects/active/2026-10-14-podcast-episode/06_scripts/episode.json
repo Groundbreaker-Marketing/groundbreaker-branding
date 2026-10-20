@@ -572,6 +572,34 @@
       "small"
      ]
     ]
+   },
+   "faces": {
+    "layout": "faces",
+    "box": "lime",
+    "lines": [
+     [
+      "I'm the",
+      "big"
+     ],
+     [
+      "bottleneck",
+      "box"
+     ]
+    ]
+   },
+   "faces-dark": {
+    "layout": "faces",
+    "box": "dark",
+    "lines": [
+     [
+      "I'm the",
+      "big"
+     ],
+     [
+      "bottleneck",
+      "box"
+     ]
+    ]
    }
   }
  }
