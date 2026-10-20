@@ -509,6 +509,70 @@
     1260,
     1080
    ]
+  },
+  "variants": {
+   "center": {
+    "layout": "center",
+    "photo_crop": [
+     707,
+     0,
+     1307,
+     1080
+    ],
+    "guest": {
+     "photo_crop": [
+      572,
+      0,
+      1172,
+      1080
+     ]
+    },
+    "lines": [
+     [
+      "I'M THE",
+      "big"
+     ],
+     [
+      "BOTTLENECK",
+      "box"
+     ]
+    ]
+   },
+   "center-full": {
+    "layout": "center",
+    "photo_crop": [
+     707,
+     0,
+     1307,
+     1080
+    ],
+    "guest": {
+     "photo_crop": [
+      572,
+      0,
+      1172,
+      1080
+     ]
+    },
+    "lines": [
+     [
+      "I'M THE",
+      "big"
+     ],
+     [
+      "BOTTLENECK",
+      "box"
+     ],
+     [
+      "KIM TURNER ON GROWING",
+      "small"
+     ],
+     [
+      "A SEPTIC BUSINESS",
+      "small"
+     ]
+    ]
+   }
   }
  }
 }
