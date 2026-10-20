@@ -600,6 +600,59 @@
       "box"
      ]
     ]
+   },
+   "cutout": {
+    "layout": "cutout",
+    "bg": "green",
+    "lines": [
+     [
+      "I'm the",
+      "big"
+     ],
+     [
+      "bottleneck",
+      "box"
+     ]
+    ],
+    "at": 780.14,
+    "guest": {
+     "at": 806.26
+    }
+   },
+   "cutout-black": {
+    "layout": "cutout",
+    "bg": "black",
+    "lines": [
+     [
+      "I'm the",
+      "big"
+     ],
+     [
+      "bottleneck",
+      "box"
+     ]
+    ],
+    "at": 780.14,
+    "guest": {
+     "at": 806.26
+    }
+   },
+   "split": {
+    "layout": "split",
+    "lines": [
+     [
+      "I'm the",
+      "big"
+     ],
+     [
+      "bottleneck",
+      "box"
+     ]
+    ],
+    "at": 780.14,
+    "guest": {
+     "at": 806.26
+    }
    }
   }
  }
