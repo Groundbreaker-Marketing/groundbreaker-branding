@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for podcast.episode (video-machine). Guest episode, Kim Turner of Turner Septic Services, recorded on Zoom 2026-10-14 (one part, 202403, 1280x720 HD; no AI upscale: a test frame was not clearly sharper and 47 min at 720p would take 6 to 10 hours). keep = inclusive word-index ranges of 02_audio/words/202403.json; drop = stammered repeats, false starts, 'like figure shit out?' (the feed is marked clean) and Ashley's aside about Kim's customers (2160-2238, a client's customers on a public episode; cut from 'some fun.' to Kim's next line, the nearest real pauses); fillers drop automatically; fixes = word index -> caption text (names Whisper lowercased, generated). lower_third.people: the name follows Zoom's active-speaker camera.",
+ "_how": "Recipe for podcast.episode (video-machine). Guest episode, Kim Turner of Turner Septic Services, recorded on Zoom 2026-10-14 (one part, 202403, 1280x720 HD; no AI upscale: a test frame was not clearly sharper and 47 min at 720p would take 6 to 10 hours). keep = inclusive word-index ranges of 02_audio/words/202403.json; drop = stammered repeats, false starts, 'like figure shit out?' (the feed is marked clean) and Ashley's aside about Kim's customers (2160-2238, a client's customers on a public episode; cut from 'some fun.' to Kim's next line, the nearest real pauses); fillers drop automatically; fixes = word index -> caption text (names Whisper lowercased, generated). lower_third.people: the name follows Zoom's active-speaker camera. Source is 01_footage/zoom-202403-synced.mov (2026-10-19): Ashley's and Kim's own Zoom tracks remixed with Kim 100 ms earlier, because Zoom recorded her voice ~100 ms behind her picture (lip-sync measured +99 ms on the original, +3 ms after); 02_audio/words/202403-synced.json has her words moved to match, same indexes.",
  "slug": "septic-from-scratch",
  "title": "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
  "title_options": [
@@ -11,8 +11,8 @@
  ],
  "takes": {
   "202403": {
-   "source": "01_footage/zoom-202403.mp4",
-   "words": "02_audio/words/202403.json"
+   "source": "01_footage/zoom-202403-synced.mov",
+   "words": "02_audio/words/202403-synced.json"
   }
  },
  "keep": [

@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:26.79,Title,,0,0,0,,{\pos(540,360)}The bottleneck\Nis {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:27.20,Title,,0,0,0,,{\pos(540,360)}The bottleneck\Nis {\c&H0060ECCD}me{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}If{\c&H00FFFFFF&} you could go
 Dialogue: 1,0:00:00.19,0:00:00.27,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}you{\c&H00FFFFFF&} could go
 Dialogue: 1,0:00:00.27,0:00:00.41,Cap,,0,0,0,,{\pos(540,1400)}If you {\c&H0060ECCD}could{\c&H00FFFFFF&} go
@@ -34,58 +34,58 @@ Dialogue: 1,0:00:04.62,0:00:04.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}woul
 Dialogue: 1,0:00:04.84,0:00:04.94,Cap,,0,0,0,,{\pos(540,1400)}would {\c&H0060ECCD}it{\c&H00FFFFFF&} be Take
 Dialogue: 1,0:00:04.94,0:00:05.16,Cap,,0,0,0,,{\pos(540,1400)}would it {\c&H0060ECCD}be{\c&H00FFFFFF&} Take
 Dialogue: 1,0:00:05.16,0:00:06.26,Cap,,0,0,0,,{\pos(540,1400)}would it be {\c&H0060ECCD}Take{\c&H00FFFFFF&}
-Dialogue: 1,0:00:06.36,0:00:06.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}care{\c&H00FFFFFF&} of yourself
-Dialogue: 1,0:00:06.56,0:00:06.66,Cap,,0,0,0,,{\pos(540,1400)}care {\c&H0060ECCD}of{\c&H00FFFFFF&} yourself
-Dialogue: 1,0:00:06.66,0:00:07.08,Cap,,0,0,0,,{\pos(540,1400)}care of {\c&H0060ECCD}yourself{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.08,0:00:07.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yep{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.84,0:00:08.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}take{\c&H00FFFFFF&} care of
-Dialogue: 1,0:00:08.32,0:00:08.48,Cap,,0,0,0,,{\pos(540,1400)}take {\c&H0060ECCD}care{\c&H00FFFFFF&} of
-Dialogue: 1,0:00:08.48,0:00:08.56,Cap,,0,0,0,,{\pos(540,1400)}take care {\c&H0060ECCD}of{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.56,0:00:08.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yourself{\c&H00FFFFFF&} because
-Dialogue: 1,0:00:08.78,0:00:09.32,Cap,,0,0,0,,{\pos(540,1400)}yourself {\c&H0060ECCD}because{\c&H00FFFFFF&}
-Dialogue: 1,0:00:09.32,0:00:09.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} will swallow
-Dialogue: 1,0:00:09.54,0:00:09.72,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}will{\c&H00FFFFFF&} swallow
-Dialogue: 1,0:00:09.72,0:00:10.06,Cap,,0,0,0,,{\pos(540,1400)}it will {\c&H0060ECCD}swallow{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.06,0:00:10.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} whole you
-Dialogue: 1,0:00:10.26,0:00:11.82,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}whole{\c&H00FFFFFF&} you
-Dialogue: 1,0:00:11.82,0:00:12.30,Cap,,0,0,0,,{\pos(540,1400)}you whole {\c&H0060ECCD}you{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.30,0:00:12.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} I just
-Dialogue: 1,0:00:12.38,0:00:12.56,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}I{\c&H00FFFFFF&} just
-Dialogue: 1,0:00:12.56,0:00:12.74,Cap,,0,0,0,,{\pos(540,1400)}know I {\c&H0060ECCD}just{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.74,0:00:12.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}learned{\c&H00FFFFFF&} recently
-Dialogue: 1,0:00:12.90,0:00:13.26,Cap,,0,0,0,,{\pos(540,1400)}learned {\c&H0060ECCD}recently{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.26,0:00:13.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} someone
-Dialogue: 1,0:00:13.50,0:00:14.78,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}someone{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.78,0:00:15.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}asked{\c&H00FFFFFF&} me what my
-Dialogue: 1,0:00:15.00,0:00:15.12,Cap,,0,0,0,,{\pos(540,1400)}asked {\c&H0060ECCD}me{\c&H00FFFFFF&} what my
-Dialogue: 1,0:00:15.12,0:00:15.30,Cap,,0,0,0,,{\pos(540,1400)}asked me {\c&H0060ECCD}what{\c&H00FFFFFF&} my
-Dialogue: 1,0:00:15.30,0:00:15.52,Cap,,0,0,0,,{\pos(540,1400)}asked me what {\c&H0060ECCD}my{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.52,0:00:16.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bottleneck{\c&H00FFFFFF&} is
-Dialogue: 1,0:00:16.04,0:00:16.20,Cap,,0,0,0,,{\pos(540,1400)}bottleneck {\c&H0060ECCD}is{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.20,0:00:16.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} Turner
-Dialogue: 1,0:00:16.30,0:00:16.58,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}Turner{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.58,0:00:16.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Septic{\c&H00FFFFFF&} right now
-Dialogue: 1,0:00:16.86,0:00:17.00,Cap,,0,0,0,,{\pos(540,1400)}Septic {\c&H0060ECCD}right{\c&H00FFFFFF&} now
-Dialogue: 1,0:00:17.00,0:00:17.18,Cap,,0,0,0,,{\pos(540,1400)}Septic right {\c&H0060ECCD}now{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.18,0:00:18.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} business
-Dialogue: 1,0:00:18.87,0:00:19.25,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}business{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.25,0:00:19.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} have a
-Dialogue: 1,0:00:19.53,0:00:19.61,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}have{\c&H00FFFFFF&} a
-Dialogue: 1,0:00:19.61,0:00:19.69,Cap,,0,0,0,,{\pos(540,1400)}doesn't have {\c&H0060ECCD}a{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.69,0:00:20.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bottleneck{\c&H00FFFFFF&} I'm
-Dialogue: 1,0:00:20.33,0:00:21.37,Cap,,0,0,0,,{\pos(540,1400)}bottleneck {\c&H0060ECCD}I'm{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.37,0:00:21.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} bottleneck
-Dialogue: 1,0:00:21.47,0:00:21.96,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}bottleneck{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.96,0:00:22.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm{\c&H00FFFFFF&} the one
-Dialogue: 1,0:00:22.80,0:00:22.90,Cap,,0,0,0,,{\pos(540,1400)}I'm {\c&H0060ECCD}the{\c&H00FFFFFF&} one
-Dialogue: 1,0:00:22.90,0:00:23.04,Cap,,0,0,0,,{\pos(540,1400)}I'm the {\c&H0060ECCD}one{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.04,0:00:23.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}slowing{\c&H00FFFFFF&} it down
-Dialogue: 1,0:00:23.32,0:00:23.44,Cap,,0,0,0,,{\pos(540,1400)}slowing {\c&H0060ECCD}it{\c&H00FFFFFF&} down
-Dialogue: 1,0:00:23.44,0:00:23.64,Cap,,0,0,0,,{\pos(540,1400)}slowing it {\c&H0060ECCD}down{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.64,0:00:24.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} I'm
-Dialogue: 1,0:00:24.42,0:00:24.54,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}I'm{\c&H00FFFFFF&}
-Dialogue: 1,0:00:24.54,0:00:24.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}scared{\c&H00FFFFFF&} take care
-Dialogue: 1,0:00:24.84,0:00:26.32,Cap,,0,0,0,,{\pos(540,1400)}scared {\c&H0060ECCD}take{\c&H00FFFFFF&} care
-Dialogue: 1,0:00:26.32,0:00:26.52,Cap,,0,0,0,,{\pos(540,1400)}scared take {\c&H0060ECCD}care{\c&H00FFFFFF&}
-Dialogue: 1,0:00:26.52,0:00:26.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} you
-Dialogue: 1,0:00:26.64,0:00:26.90,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.39,0:00:06.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}care{\c&H00FFFFFF&} of yourself
+Dialogue: 1,0:00:06.59,0:00:06.69,Cap,,0,0,0,,{\pos(540,1400)}care {\c&H0060ECCD}of{\c&H00FFFFFF&} yourself
+Dialogue: 1,0:00:06.69,0:00:07.14,Cap,,0,0,0,,{\pos(540,1400)}care of {\c&H0060ECCD}yourself{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.14,0:00:07.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yep{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.90,0:00:08.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}take{\c&H00FFFFFF&} care of
+Dialogue: 1,0:00:08.38,0:00:08.54,Cap,,0,0,0,,{\pos(540,1400)}take {\c&H0060ECCD}care{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:08.54,0:00:08.62,Cap,,0,0,0,,{\pos(540,1400)}take care {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.62,0:00:08.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yourself{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:08.84,0:00:09.38,Cap,,0,0,0,,{\pos(540,1400)}yourself {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.38,0:00:09.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} will swallow
+Dialogue: 1,0:00:09.60,0:00:09.78,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}will{\c&H00FFFFFF&} swallow
+Dialogue: 1,0:00:09.78,0:00:10.12,Cap,,0,0,0,,{\pos(540,1400)}it will {\c&H0060ECCD}swallow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.12,0:00:10.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} whole you
+Dialogue: 1,0:00:10.32,0:00:11.88,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}whole{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:11.88,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}you whole {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.36,0:00:12.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} I just
+Dialogue: 1,0:00:12.44,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}I{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:12.62,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}know I {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.80,0:00:12.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}learned{\c&H00FFFFFF&} recently
+Dialogue: 1,0:00:12.96,0:00:13.32,Cap,,0,0,0,,{\pos(540,1400)}learned {\c&H0060ECCD}recently{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.32,0:00:13.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} someone
+Dialogue: 1,0:00:13.56,0:00:14.84,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}someone{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.84,0:00:15.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}asked{\c&H00FFFFFF&} me what my
+Dialogue: 1,0:00:15.06,0:00:15.18,Cap,,0,0,0,,{\pos(540,1400)}asked {\c&H0060ECCD}me{\c&H00FFFFFF&} what my
+Dialogue: 1,0:00:15.18,0:00:15.36,Cap,,0,0,0,,{\pos(540,1400)}asked me {\c&H0060ECCD}what{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:15.36,0:00:15.58,Cap,,0,0,0,,{\pos(540,1400)}asked me what {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.58,0:00:16.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bottleneck{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:16.10,0:00:16.26,Cap,,0,0,0,,{\pos(540,1400)}bottleneck {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.26,0:00:16.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} Turner
+Dialogue: 1,0:00:16.36,0:00:16.64,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}Turner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.64,0:00:16.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Septic{\c&H00FFFFFF&} right now
+Dialogue: 1,0:00:16.92,0:00:17.06,Cap,,0,0,0,,{\pos(540,1400)}Septic {\c&H0060ECCD}right{\c&H00FFFFFF&} now
+Dialogue: 1,0:00:17.06,0:00:17.24,Cap,,0,0,0,,{\pos(540,1400)}Septic right {\c&H0060ECCD}now{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.24,0:00:19.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} business
+Dialogue: 1,0:00:19.02,0:00:19.40,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}business{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.40,0:00:19.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:19.68,0:00:19.76,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:19.76,0:00:19.84,Cap,,0,0,0,,{\pos(540,1400)}doesn't have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.84,0:00:20.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bottleneck{\c&H00FFFFFF&} I'm
+Dialogue: 1,0:00:20.48,0:00:21.52,Cap,,0,0,0,,{\pos(540,1400)}bottleneck {\c&H0060ECCD}I'm{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.52,0:00:21.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} bottleneck
+Dialogue: 1,0:00:21.62,0:00:22.18,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}bottleneck{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.18,0:00:23.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm{\c&H00FFFFFF&} the one
+Dialogue: 1,0:00:23.02,0:00:23.12,Cap,,0,0,0,,{\pos(540,1400)}I'm {\c&H0060ECCD}the{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:23.12,0:00:23.26,Cap,,0,0,0,,{\pos(540,1400)}I'm the {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.26,0:00:23.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}slowing{\c&H00FFFFFF&} it down
+Dialogue: 1,0:00:23.54,0:00:23.66,Cap,,0,0,0,,{\pos(540,1400)}slowing {\c&H0060ECCD}it{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:23.66,0:00:23.86,Cap,,0,0,0,,{\pos(540,1400)}slowing it {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.86,0:00:24.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} I'm
+Dialogue: 1,0:00:24.64,0:00:24.76,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}I'm{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.76,0:00:25.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}scared{\c&H00FFFFFF&} take care
+Dialogue: 1,0:00:25.06,0:00:26.48,Cap,,0,0,0,,{\pos(540,1400)}scared {\c&H0060ECCD}take{\c&H00FFFFFF&} care
+Dialogue: 1,0:00:26.48,0:00:26.68,Cap,,0,0,0,,{\pos(540,1400)}scared take {\c&H0060ECCD}care{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.68,0:00:26.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:26.80,0:00:27.06,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}you{\c&H00FFFFFF&}
