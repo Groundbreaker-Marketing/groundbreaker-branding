@@ -47,7 +47,8 @@
    },
    "coverage": 0.882,
    "read_at": 85.45,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_02",
@@ -72,7 +73,8 @@
     "n": 2
    },
    "coverage": 0.989,
-   "read_at": 149.48
+   "read_at": 149.48,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_03",
@@ -104,7 +106,8 @@
    },
    "coverage": 1.0,
    "read_at": 290.7,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_04",
@@ -136,7 +139,8 @@
    },
    "coverage": 0.933,
    "read_at": 380.31,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_05",
@@ -169,7 +173,8 @@
     "n": 5
    },
    "coverage": 0.962,
-   "read_at": 415.69
+   "read_at": 415.69,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_06",
@@ -198,7 +203,8 @@
     "n": 6
    },
    "coverage": 0.979,
-   "read_at": 457.61
+   "read_at": 457.61,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_08",
@@ -225,7 +231,8 @@
     "n": 8
    },
    "coverage": 0.989,
-   "read_at": 528.48
+   "read_at": 528.48,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_09",
@@ -257,7 +264,8 @@
     "n": 9
    },
    "coverage": 1.0,
-   "read_at": 566.12
+   "read_at": 566.12,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_10",
@@ -288,7 +296,8 @@
     "n": 10
    },
    "coverage": 0.945,
-   "read_at": 601.71
+   "read_at": 601.71,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_12",
@@ -315,7 +324,8 @@
     "n": 12
    },
    "coverage": 0.989,
-   "read_at": 658.98
+   "read_at": 658.98,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_13",
@@ -346,7 +356,8 @@
     "n": 13
    },
    "coverage": 0.989,
-   "read_at": 718.52
+   "read_at": 718.52,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_15",
@@ -373,7 +384,8 @@
     "n": 15
    },
    "coverage": 0.978,
-   "read_at": 790.34
+   "read_at": 790.34,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_16",
@@ -402,7 +414,8 @@
     "n": 16
    },
    "coverage": 0.99,
-   "read_at": 990.29
+   "read_at": 990.29,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_17",
@@ -427,7 +440,8 @@
     "n": 17
    },
    "coverage": 1.0,
-   "read_at": 1029.04
+   "read_at": 1029.04,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_18",
@@ -457,7 +471,8 @@
    },
    "coverage": 0.966,
    "read_at": 1062.55,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_19",
@@ -486,7 +501,8 @@
     "n": 19
    },
    "coverage": 0.969,
-   "read_at": 1147.11
+   "read_at": 1147.11,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_21",
@@ -518,7 +534,8 @@
     "n": 21
    },
    "coverage": 0.945,
-   "read_at": 1241.6
+   "read_at": 1241.6,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_22",
@@ -547,7 +564,8 @@
     "n": 22
    },
    "coverage": 0.963,
-   "read_at": 1285.39
+   "read_at": 1285.39,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_25",
@@ -584,7 +602,8 @@
    },
    "coverage": 0.904,
    "read_at": 1333.69,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_26",
@@ -612,7 +631,8 @@
     "n": 26
    },
    "coverage": 0.987,
-   "read_at": 1384.52
+   "read_at": 1384.52,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_27",
@@ -646,7 +666,8 @@
     "n": 27
    },
    "coverage": 0.96,
-   "read_at": 1423.45
+   "read_at": 1423.45,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_28",
@@ -674,7 +695,8 @@
     "n": 28
    },
    "coverage": 0.987,
-   "read_at": 1464.48
+   "read_at": 1464.48,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_29",
@@ -699,7 +721,8 @@
     "n": 29
    },
    "coverage": 1.0,
-   "read_at": 1495.94
+   "read_at": 1495.94,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_30",
@@ -733,7 +756,8 @@
    },
    "coverage": 0.907,
    "read_at": 1574.61,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_31",
@@ -764,7 +788,8 @@
    },
    "coverage": 0.938,
    "read_at": 1669.33,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_32",
@@ -801,7 +826,8 @@
     "n": 32
    },
    "coverage": 0.909,
-   "read_at": 1750.48
+   "read_at": 1750.48,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_33",
@@ -832,7 +858,8 @@
     "n": 33
    },
    "coverage": 0.988,
-   "read_at": 1840.66
+   "read_at": 1840.66,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_34",
@@ -863,7 +890,8 @@
    },
    "coverage": 0.951,
    "read_at": 1870.72,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_35",
@@ -897,7 +925,8 @@
     "n": 35
    },
    "coverage": 0.758,
-   "read_at": 1931.89
+   "read_at": 1931.89,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_37",
@@ -959,7 +988,8 @@
     "n": 38
    },
    "coverage": 0.963,
-   "read_at": 2038.94
+   "read_at": 2038.94,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_39",
@@ -987,7 +1017,8 @@
     "n": 39
    },
    "coverage": 0.945,
-   "read_at": 2068.16
+   "read_at": 2068.16,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_40",
@@ -1051,7 +1082,8 @@
    },
    "coverage": 0.952,
    "read_at": 2188.13,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_42",
@@ -1084,7 +1116,8 @@
    },
    "coverage": 0.947,
    "read_at": 2249.84,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_43",
@@ -1117,7 +1150,8 @@
     "n": 43
    },
    "coverage": 0.967,
-   "read_at": 2287.58
+   "read_at": 2287.58,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_44",
@@ -1146,7 +1180,8 @@
    },
    "coverage": 0.988,
    "read_at": 2346.59,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_45",
@@ -1177,7 +1212,8 @@
     "n": 45
    },
    "coverage": 0.939,
-   "read_at": 2394.67
+   "read_at": 2394.67,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_49",
@@ -1202,7 +1238,8 @@
     "n": 49
    },
    "coverage": 0.99,
-   "read_at": 2498.02
+   "read_at": 2498.02,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_50",
@@ -1240,7 +1277,8 @@
     "n": 50
    },
    "coverage": 0.956,
-   "read_at": 2532.09
+   "read_at": 2532.09,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_51",
@@ -1307,7 +1345,8 @@
     "n": 55
    },
    "coverage": 0.975,
-   "read_at": 2665.2
+   "read_at": 2665.2,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_56",
@@ -1366,7 +1405,8 @@
     "n": 57
    },
    "coverage": 1.0,
-   "read_at": 2802.32
+   "read_at": 2802.32,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_58",
@@ -1393,7 +1433,8 @@
     "n": 58
    },
    "coverage": 0.988,
-   "read_at": 2832.69
+   "read_at": 2832.69,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_59",
@@ -1420,7 +1461,8 @@
     "n": 59
    },
    "coverage": 0.989,
-   "read_at": 2867.67
+   "read_at": 2867.67,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_60",
@@ -1450,7 +1492,8 @@
     "n": 60
    },
    "coverage": 0.977,
-   "read_at": 2904.14
+   "read_at": 2904.14,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_61",
@@ -1475,7 +1518,8 @@
     "n": 61
    },
    "coverage": 1.0,
-   "read_at": 3019.66
+   "read_at": 3019.66,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_62",
@@ -1503,7 +1547,8 @@
    },
    "coverage": 1.0,
    "read_at": 3067.96,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_63",
@@ -1532,7 +1577,8 @@
    },
    "coverage": 0.976,
    "read_at": 3103.3,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_64",
@@ -1557,7 +1603,8 @@
     "n": 64
    },
    "coverage": 0.963,
-   "read_at": 3140.7
+   "read_at": 3140.7,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_66",
@@ -1594,7 +1641,8 @@
    },
    "coverage": 0.921,
    "read_at": 3231.89,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_68",
@@ -1623,7 +1671,8 @@
     "n": 68
    },
    "coverage": 0.946,
-   "read_at": 3280.96
+   "read_at": 3280.96,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_70",
@@ -1711,7 +1760,8 @@
     "n": 72
    },
    "coverage": 0.903,
-   "read_at": 3399.57
+   "read_at": 3399.57,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   },
   {
    "id": "2026-10-16_73",
@@ -1741,7 +1791,8 @@
    },
    "coverage": 0.977,
    "read_at": 3427.51,
-   "locked": true
+   "locked": true,
+   "dropped": "2026-10-20: Ashley doesn't like any of the teleprompter videos; cleared from Ops review"
   }
  ]
 }
