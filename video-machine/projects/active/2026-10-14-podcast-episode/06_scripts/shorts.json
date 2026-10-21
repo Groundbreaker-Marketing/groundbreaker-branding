@@ -41,7 +41,28 @@
     "instagram",
     "facebook"
    ],
-   "publish_at": "2026-10-21T12:00:00"
+   "publish_at": "2026-10-21T12:00:00",
+   "metricool": {
+    "post_id": 401620625,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "instagram",
+       "facebook"
+      ],
+      "post_id": 401620625
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620632
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/46be0790500241d1.mp4",
+    "scheduled": "2026-10-21T12:00:00"
+   }
   },
   {
    "id": "septic-whisperer",
@@ -87,7 +108,26 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-21T17:00:00"
+   "publish_at": "2026-10-21T17:00:00",
+   "metricool": {
+    "post_id": 401620648,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620648
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620656
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/97af8b40cd7941a1.mp4",
+    "scheduled": "2026-10-21T17:00:00"
+   }
   },
   {
    "id": "almost-400-reviews",
@@ -127,7 +167,28 @@
     "instagram",
     "facebook"
    ],
-   "publish_at": "2026-10-22T12:00:00"
+   "publish_at": "2026-10-22T12:00:00",
+   "metricool": {
+    "post_id": 401620662,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "instagram",
+       "facebook"
+      ],
+      "post_id": 401620662
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620669
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/c1933bc504974e37.mp4",
+    "scheduled": "2026-10-22T12:00:00"
+   }
   },
   {
    "id": "million-views",
@@ -171,7 +232,6 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-22T17:00:00",
    "broll": [
     {
      "clip": "kim-tiktok-7331828278770011434.mp4",
@@ -191,7 +251,9 @@
      "dur": 4.5,
      "ss": 1.0
     }
-   ]
+   ],
+   "publish_at": "2026-10-22T17:00:00",
+   "hold_note": "Not scheduled 2026-10-20: uses Kim's own TikToks; waiting on Ashley to confirm Kim is OK with it. Then: social.shorts <project> --episode septic-from-scratch --apply"
   },
   {
    "id": "two-page-inspections",
@@ -226,7 +288,28 @@
     "instagram",
     "facebook"
    ],
-   "publish_at": "2026-10-23T12:00:00"
+   "publish_at": "2026-10-23T12:00:00",
+   "metricool": {
+    "post_id": 401620672,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "instagram",
+       "facebook"
+      ],
+      "post_id": 401620672
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620677
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/b09a73e35cd64a88.mp4",
+    "scheduled": "2026-10-23T12:00:00"
+   }
   },
   {
    "id": "twenty-tripods",
@@ -276,7 +359,26 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-23T17:00:00"
+   "publish_at": "2026-10-23T17:00:00",
+   "metricool": {
+    "post_id": 401620685,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620685
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620689
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/88a5324e7adb4f49.mp4",
+    "scheduled": "2026-10-23T17:00:00"
+   }
   },
   {
    "id": "phd-in-poo",
@@ -323,7 +425,26 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-24T12:00:00"
+   "publish_at": "2026-10-24T12:00:00",
+   "metricool": {
+    "post_id": 401620697,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620697
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620705
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/36b45dcd372a448b.mp4",
+    "scheduled": "2026-10-24T12:00:00"
+   }
   },
   {
    "id": "frozen-winter",
@@ -373,7 +494,26 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-24T17:00:00"
+   "publish_at": "2026-10-24T17:00:00",
+   "metricool": {
+    "post_id": 401620713,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620713
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620720
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/e24a96a74af14b8f.mp4",
+    "scheduled": "2026-10-24T17:00:00"
+   }
   },
   {
    "id": "birthing-gloves",
@@ -416,7 +556,26 @@
     "tiktok"
    ],
    "publish_at": "2026-10-25T12:00:00",
-   "trim_start": 0.82
+   "trim_start": 0.82,
+   "metricool": {
+    "post_id": 401620728,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620728
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620738
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/0331dd9895a14591.mp4",
+    "scheduled": "2026-10-25T12:00:00"
+   }
   },
   {
    "id": "business-is-lonely",
@@ -458,7 +617,26 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-25T17:00:00"
+   "publish_at": "2026-10-25T17:00:00",
+   "metricool": {
+    "post_id": 401620745,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620745
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620752
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/0551baf55d394661.mp4",
+    "scheduled": "2026-10-25T17:00:00"
+   }
   },
   {
    "id": "brand-new-trucks",
@@ -508,7 +686,28 @@
     "instagram",
     "facebook"
    ],
-   "publish_at": "2026-10-26T12:00:00"
+   "publish_at": "2026-10-26T12:00:00",
+   "metricool": {
+    "post_id": 401620761,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "instagram",
+       "facebook"
+      ],
+      "post_id": 401620761
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620769
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/fa1ee28b3c794218.mp4",
+    "scheduled": "2026-10-26T12:00:00"
+   }
   },
   {
    "id": "voice-to-report",
@@ -548,7 +747,26 @@
    "publish_at": "2026-10-26T17:00:00",
    "fillers": false,
    "max_gap": 1.0,
-   "end_pad": 0.3
+   "end_pad": 0.3,
+   "metricool": {
+    "post_id": 401620777,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620777
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620792
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/9c3c60e9f13c4d96.mp4",
+    "scheduled": "2026-10-26T17:00:00"
+   }
   },
   {
    "id": "im-the-bottleneck",
@@ -595,7 +813,28 @@
     "instagram",
     "facebook"
    ],
-   "publish_at": "2026-10-27T12:00:00"
+   "publish_at": "2026-10-27T12:00:00",
+   "metricool": {
+    "post_id": 401620797,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "instagram",
+       "facebook"
+      ],
+      "post_id": 401620797
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620802
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/5c9072b7fd084069.mp4",
+    "scheduled": "2026-10-27T12:00:00"
+   }
   },
   {
    "id": "cried-in-my-truck",
@@ -637,7 +876,26 @@
     "youtube",
     "tiktok"
    ],
-   "publish_at": "2026-10-27T17:00:00"
+   "publish_at": "2026-10-27T17:00:00",
+   "metricool": {
+    "post_id": 401620970,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401620970
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401620976
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/b0fe347b185a4fbf.mp4",
+    "scheduled": "2026-10-27T17:00:00"
+   }
   }
  ]
 }
