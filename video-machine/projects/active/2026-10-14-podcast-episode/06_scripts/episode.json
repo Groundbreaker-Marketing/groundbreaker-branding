@@ -455,7 +455,7 @@
   ]
  ],
  "publish": {
-  "approved": false,
+  "approved": true,
   "youtube": {
    "title": "\"I'm the Bottleneck\": Kim Turner on Growing a Septic Business",
    "description": "My friend Kim Turner of Turner Septic Services joins me this week. Five years ago she had never pumped a septic tank. Her now-husband said they should start a septic company (\"and by us, I mean you\"), so she got her CDL and her New Hampshire septic inspector's license and started with one used truck, in an area where four family-owned haulers had been working for 30 years. Today her company has nearly 400 reviews and is growing fast.\n\nKim is honest about what this business really takes: the nights she cried in her truck, why she calls herself the bottleneck, and how education and humor built both her following and her reputation.\n\nWhat we cover:\n- Learning the trade from a mentor who would watch but not teach\n- Turning septic education into funny TikToks (about 42,000 followers)\n- The lonely side of owning a business, and why you have to ask for help\n- Hiring friends and family, brand-new trucks and Starlink on every truck\n- Pumping through a winter with frost 4 to 5 feet deep\n- Why her inspection reports run 15 to 20 pages\n- Using Claude to turn her inspection report into a checklist for her operations manager\n\nFind Kim at turnersepticservices.com, and as Turner Septic on TikTok, Instagram, Facebook and YouTube.",
@@ -472,7 +472,14 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail-cutout-black.jpg"
+  "thumbnail": "07_notes/episode/thumbnail-cutout-black.jpg",
+  "publish_at": "2026-10-21T08:00:00",
+  "metricool": {
+   "post_id": 401631454,
+   "media": "https://static.metricool.com/video/4530374/202610/f47c59f79e544842.mp4",
+   "thumbnail": "https://static.metricool.com/video/4530374/202610/c92c71aa665547b1.jpg",
+   "scheduled": "2026-10-21T08:00:00"
+  }
  },
  "thumbnail": {
   "at": 780.0,
