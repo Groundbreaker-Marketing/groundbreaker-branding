@@ -253,7 +253,25 @@
     }
    ],
    "publish_at": "2026-10-22T17:00:00",
-   "hold_note": "Not scheduled 2026-10-20: uses Kim's own TikToks; waiting on Ashley to confirm Kim is OK with it. Then: social.shorts <project> --episode septic-from-scratch --apply"
+   "metricool": {
+    "post_id": 401634935,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 401634935
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 401634944
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/6a0bc2a3f31e42b4.mp4",
+    "scheduled": "2026-10-22T17:00:00"
+   }
   },
   {
    "id": "two-page-inspections",
