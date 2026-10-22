@@ -1,0 +1,16 @@
+{
+  "booth-playbook-offer-full": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  }
+}

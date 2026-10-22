@@ -82,6 +82,22 @@ lessons under "For the engine"; whoever maintains the engine ports them into the
   client is OK with the clip.
 - For the engine: whisper starts the first word early; build now trims to the first sustained voice.
 
+### 2026-10-22 nowra-booth-ad (Meta ad, geofenced at NOWRA)
+Ashley's iPhone take (IMG_0293.MOV, 74.6 s) inviting NOWRA attendees to booth 304 for the free
+playbook or a personalized audit. Her ask: trim the start and end only, one smooth take, captions,
+preview, then a geofenced ad in GBM's own account set up the way VibraWaste's NOWRA run was.
+- Worked: one piece with explicit in/out (1.38 to 73.35 s) so nothing in the middle is cut; 72.0 s
+  master, captions from a large-v3-turbo transcript of the cut, every kit audit and the Meta gate
+  PASS on 9:16, 4:5 and 1:1, -14 LUFS. Upload dry run clean (410K to 483K people in the 5 miles);
+  blocked only on copy approval.
+- Broke: iPhone HDR footage (spatial audio track, HLG, Apple side data); fixed with an SDR working
+  copy, IMG_0293-sdr.mp4. Recipe in video-machine's SOP (PR #51).
+- Agent misunderstood: nothing yet ("Don Dominoes" = Jon Jouvenaux, VibraWaste).
+- Done by hand: the SDR working copy; brand.json got GBM's ad account, Page and Instagram IDs
+  plus "Groundbreaker" and "QR" caption terms.
+- Open: Ashley's review of the video, copy and Messenger greeting (copy.json approved false), then
+  upload PAUSED and publish. Start time is Mon 10-26 7:00 MDT; Meta refuses a past start.
+
 ### YYYY-MM-DD <project>
 - Worked:
 - Broke:

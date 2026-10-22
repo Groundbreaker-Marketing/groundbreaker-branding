@@ -1,0 +1,88 @@
+{
+  "clip": "booth-playbook-offer-full-9x16.mp4",
+  "duration_s": 72.0,
+  "speech_level_db": -20.6,
+  "verdict": "PASS",
+  "checks": {
+    "word_clipping": {
+      "pass": true,
+      "issues": [],
+      "head_edge_db_below_speech": 48.6,
+      "tail_edge_db_below_speech": 43.1,
+      "total_words": 0,
+      "note": "no transcription available \u2014 edge measurements only"
+    },
+    "pops_clicks": {
+      "pass": true,
+      "issues": []
+    },
+    "clipping_distortion": {
+      "pass": true,
+      "railed_fraction_pct": 0.0,
+      "railed_samples_total": 592,
+      "peak_abs": 1.176,
+      "issues": []
+    },
+    "level_consistency": {
+      "pass": true,
+      "avg_voice_db": -22.5,
+      "range_db": 5.5,
+      "issues": [
+        {
+          "time_s": 70.0,
+          "delta_db": 3.5,
+          "severity": "warn"
+        }
+      ]
+    },
+    "buzz_hum": {
+      "pass": true,
+      "music_declared": false,
+      "top_candidates": [
+        {
+          "freq_hz": 202.1,
+          "grid_hz": 200,
+          "off_grid": true,
+          "prominence_db": 5.4
+        },
+        {
+          "freq_hz": 251.2,
+          "grid_hz": 250,
+          "off_grid": true,
+          "prominence_db": 5.2
+        },
+        {
+          "freq_hz": 352.3,
+          "grid_hz": 350,
+          "off_grid": true,
+          "prominence_db": 3.7
+        }
+      ],
+      "issues": []
+    },
+    "clean_open_close": {
+      "pass": true,
+      "open_onset_ms": 50,
+      "close_tail_ms": 595,
+      "issues": [
+        {
+          "location": "close",
+          "tail_ms": 595,
+          "severity": "warn",
+          "problem": "595ms trailing after last voice"
+        }
+      ]
+    },
+    "music_balance": {
+      "pass": true,
+      "issues": [],
+      "note": "no music bed declared"
+    }
+  },
+  "metadata": {
+    "music_declared": false,
+    "segments": 0,
+    "resolved_from": "none"
+  },
+  "summary": "All audio checks passed"
+}

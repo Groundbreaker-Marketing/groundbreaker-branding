@@ -1,0 +1,24 @@
+[
+  {
+    "id": "booth-playbook-offer-full",
+    "angle": "booth-playbook",
+    "role": "offer",
+    "belief": "want: the exact playbook a septic and excavation agency runs for its clients, free, from the people at booth 304",
+    "landing_url": "https://workshop.groundbreakermarketing.com/guide/",
+    "pieces": {
+      "hook": "full",
+      "body": null,
+      "cta": null
+    },
+    "script": "We are the only septic and excavation marketing company that gives away our entire playbook for free It's everything that we do for our clients from setting up their ad accounts the settings the keywords how we build the websites What pages on the websites we know based on our data that bring them the most customers How often we post on the Google business profile for them? Everything we do for our clients. It's hundreds of thousands of data points we have Condensed into a guide of exactly what you need to do to market your business and you can get it for free Come visit our booth and you can scan the QR code and you can just download it for free It's that simple or if you would like a personalized audit where we'll go through your entire marketing and Audit it so you can see where you stack up to the ground breaker standards versus what you have going on with a Customized checklist of everything you need to do to get your marketing up to speed So come visit us at the booth. We'd love to see you and meet you We may be running around the conference all week doing a lot of live podcasting So feel free to grab us in the hallway if you find us or come see us at the booth and get your free marketing playbook",
+    "segments": [
+      {
+        "in": 1.38,
+        "out": 73.35,
+        "text": "We are the only septic and excavation marketing company that gives away our entire playbook for free It's everything that we do for our clients from setting up their ad accounts the settings the keywords how we build the websites What pages on the websites we know based on our data that bring them the most customers How often we post on the Google business profile for them? Everything we do for our clients. It's hundreds of thousands of data points we have Condensed into a guide of exactly what you need to do to market your business and you can get it for free Come visit our booth and you can scan the QR code and you can just download it for free It's that simple or if you would like a personalized audit where we'll go through your entire marketing and Audit it so you can see where you stack up to the ground breaker standards versus what you have going on with a Customized checklist of everything you need to do to get your marketing up to speed So come visit us at the booth. We'd love to see you and meet you We may be running around the conference all week doing a lot of live podcasting So feel free to grab us in the hallway if you find us or come see us at the booth and get your free marketing playbook"
+      }
+    ],
+    "est_seconds": 72.0,
+    "render_dir": "03_selects/booth-playbook-offer-full"
+  }
+]

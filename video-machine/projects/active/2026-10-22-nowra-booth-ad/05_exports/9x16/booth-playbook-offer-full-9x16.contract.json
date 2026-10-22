@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-22T17:21:47+00:00",
+  "source": {
+    "pipeline": "single",
+    "project_dir": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-22-nowra-booth-ad/03_selects/booth-playbook-offer-full",
+    "manifest": "manifest.json"
+  },
+  "declared": {
+    "title": "booth-playbook-offer-full",
+    "output_name": "booth-playbook-offer-full-9x16.mp4",
+    "reframe_preset": "talking-head",
+    "reframe_zoom": 1.0,
+    "reframe_res": "1080",
+    "captions": {
+      "style": "spice",
+      "ass": null,
+      "context": {},
+      "n_events": null,
+      "color_map": {
+        "speaker": "white"
+      }
+    },
+    "music": {
+      "path": "",
+      "name": null,
+      "voice_lufs": -14,
+      "music_lufs": -30
+    },
+    "cut": {
+      "n_segments": 1,
+      "first_segment_label": null,
+      "last_segment_label": null,
+      "hard_end": true
+    },
+    "speakers": 1
+  },
+  "observed": {
+    "delivered_path": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-22-nowra-booth-ad/05_exports/9x16/booth-playbook-offer-full-9x16.mp4",
+    "size_bytes": 113444426,
+    "duration_seconds": 72.0,
+    "width": 1080,
+    "height": 1920,
+    "vcodec": "h264",
+    "acodec": "aac",
+    "fps": 30.0,
+    "aspect": "1080:1920"
+  },
+  "audit_hints": {
+    "expected_aspect_wh": [
+      1080,
+      1920
+    ],
+    "max_duration_seconds": 90,
+    "min_duration_seconds": 8,
+    "expected_caption_style": "spice",
+    "no_fade_out": true,
+    "delivery_target": "SPEAKER_FRAME"
+  }
+}
