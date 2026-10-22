@@ -110,6 +110,14 @@
       "Local Services Ads": [
         "local services ads",
         "local service ads"
+      ],
+      "Groundbreaker": [
+        "ground breaker",
+        "groundbreaker",
+        "Ground Breaker"
+      ],
+      "QR": [
+        "qr"
       ]
     },
     "_brand_terms_how": "Exact spelling -> the ways a transcriber or writer gets it wrong. Captions are corrected and kept in this casing; copy lint fails any other spelling. Include on-camera people's names."
@@ -122,9 +130,9 @@
     "voice_notes": "Exact customer phrases to lean on; words the client never uses"
   },
   "meta": {
-    "ad_account_id": "act_",
-    "page_id": "",
-    "instagram_user_id": "",
+    "ad_account_id": "act_500271296306142",
+    "page_id": "384067104798011",
+    "instagram_user_id": "17841477725597534",
     "pixel_id": "",
     "custom_event_type": "LEAD",
     "objective": "OUTCOME_LEADS",
@@ -144,7 +152,8 @@
         "advantage_audience": 1
       }
     },
-    "url_tags": "utm_source=facebook&utm_medium=paid&utm_campaign={{campaign.name}}&utm_content={{ad.name}}"
+    "url_tags": "utm_source=facebook&utm_medium=paid&utm_campaign={{campaign.name}}&utm_content={{ad.name}}",
+    "_how": "Groundbreaker's own ad account (business 1579197336275999, USD, America/Chicago) and Page, both readable by the Reporting system user (checked 2026-10-22). instagram_user_id is the identity every past GBM creative used. Pixel 1233993797733750 is shared with the main website, so a website-destination project needs a custom conversion, not the raw Lead event. Per-run settings (Messenger, geofence, dates) live in each project's project.json meta."
   },
   "history_themes": {
     "_how": "theme -> regexes matched against campaign/ad set/ad names, for `sources history`",

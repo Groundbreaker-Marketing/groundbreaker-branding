@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-22-nowra-booth-ad/05_exports/9x16/booth-playbook-offer-full-9x16.mp4",
+    "format": "9x16",
+    "duration": 72.03,
+    "status": "WARN",
+    "fails": [],
+    "warns": [
+      "duration 72.0s outside the 10 to 60s sweet spot"
+    ]
+  },
+  {
+    "file": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-22-nowra-booth-ad/05_exports/4x5/booth-playbook-offer-full-4x5.mp4",
+    "format": "4x5",
+    "duration": 72.03,
+    "status": "WARN",
+    "fails": [],
+    "warns": [
+      "duration 72.0s outside the 10 to 60s sweet spot"
+    ]
+  },
+  {
+    "file": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-22-nowra-booth-ad/05_exports/1x1/booth-playbook-offer-full-1x1.mp4",
+    "format": "1x1",
+    "duration": 72.03,
+    "status": "WARN",
+    "fails": [],
+    "warns": [
+      "duration 72.0s outside the 10 to 60s sweet spot"
+    ]
+  }
+]

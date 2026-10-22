@@ -1,0 +1,21 @@
+{
+  "_how": "Ashley 2026-10-22: one smooth take, trim only the start (reaching for the phone, 0 to 1.4 s) and the end (reaching to stop it, from 73.6 s); nothing cut in between. Explicit in/out: voice starts at 1.43 s (silencedetect); out 73.35 s holds her closing smile, and the cut stage's silence snap can move it at most 0.2 s later, still before her hand enters at 73.6 s.",
+  "source": "01_footage/IMG_0293-sdr.mp4",
+  "transcript": "02_audio/words.json",
+  "angles": {
+    "booth-playbook": {
+      "belief": "want: the exact playbook a septic and excavation agency runs for its clients, free, from the people at booth 304",
+      "landing_url": "https://workshop.groundbreakermarketing.com/guide/",
+      "role": "offer",
+      "hooks": [
+        {
+          "id": "full",
+          "in": 1.38,
+          "out": 73.35,
+          "text": "We are the only septic and excavation marketing company that gives away our entire playbook for free It's everything that we do for our clients from setting up their ad accounts the settings the keywords how we build the websites What pages on the websites we know based on our data that bring them the most customers How often we post on the Google business profile for them? Everything we do for our clients. It's hundreds of thousands of data points we have Condensed into a guide of exactly what you need to do to market your business and you can get it for free Come visit our booth and you can scan the QR code and you can just download it for free It's that simple or if you would like a personalized audit where we'll go through your entire marketing and Audit it so you can see where you stack up to the ground breaker standards versus what you have going on with a Customized checklist of everything you need to do to get your marketing up to speed So come visit us at the booth. We'd love to see you and meet you We may be running around the conference all week doing a lot of live podcasting So feel free to grab us in the hallway if you find us or come see us at the booth and get your free marketing playbook"
+        }
+      ]
+    }
+  },
+  "_source_how": "IMG_0293.MOV is iPhone HDR (HLG/Dolby Vision 10-bit) with a second apple_apac spatial-audio track the kit cut cannot decode (it maps every audio stream). IMG_0293-sdr.mp4 is the working copy: Apple's own HDR-to-SDR tone mapping (avconvert Preset1920x1080, which fails on the full 74.6 s file, so two pieces, 0-40 and 40-73.9, joined at the frame with the duplicate first frame of piece 2 dropped, SSIM-checked), 30 fps, libx264 crf 14, and the original stereo AAC track copied untouched. Same timeline as words.json."
+}

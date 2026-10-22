@@ -1,0 +1,59 @@
+{
+  "client": "groundbreaker-branding",
+  "name": "nowra-booth-ad",
+  "created": "2026-10-22",
+  "footage": [
+    "IMG_0293.MOV",
+    "IMG_0293-sdr.mp4"
+  ],
+  "offer": "Free marketing playbook (download at booth 304 by QR code) or a personalized marketing audit",
+  "avatar": "Septic, pumping and excavation company owners at the NOWRA Mega-Conference",
+  "angles": [
+    "booth-playbook"
+  ],
+  "status": "intake",
+  "sources": {
+    "IMG_0293.MOV": "Ashley's iPhone recording, 2026-10-22 (AirDropped to Downloads), 2160x3840 HEVC 60 fps, 74.6 s, one take to camera",
+    "IMG_0293-sdr.mp4": "SDR 1080x1920 30 fps working copy of IMG_0293.MOV (see selects.json _source_how)"
+  },
+  "meta": {
+    "_how": "NOWRA Mega-Conference run, set up the same way as VibraWaste's (Ashley, 2026-10-22: 'the same way we did' Jon Jouvenaux's): Messenger ads geofenced 5 miles around the Westin Westminster from the expo opening Monday to its close Tuesday (Mon Oct 26 7:00 am to Tue Oct 27 1:30 pm MDT, UTC-6, per the NOWRA 2026 Expo Prospectus), $10/day, uploaded PAUSED. Same pin as sales/proposals/vibrawaste/projects/active/2026-10-14-muckraker-ads/project.json.",
+    "run_name": "NOWRA 2026",
+    "destination": "MESSENGER",
+    "objective": "OUTCOME_ENGAGEMENT",
+    "optimization_goal": "CONVERSATIONS",
+    "cta_type": "MESSAGE_PAGE",
+    "one_adset": true,
+    "daily_budget_cents": 1000,
+    "start_time": "2026-10-26T07:00:00-06:00",
+    "end_time": "2026-10-27T13:30:00-06:00",
+    "targeting": {
+      "geo_locations": {
+        "custom_locations": [
+          {
+            "latitude": 39.8905932,
+            "longitude": -105.0655094,
+            "radius": 5,
+            "distance_unit": "mile",
+            "name": "The Westin Westminster (NOWRA Mega-Conference)"
+          }
+        ]
+      },
+      "age_min": 18,
+      "publisher_platforms": [
+        "facebook",
+        "instagram",
+        "messenger"
+      ]
+    },
+    "message_template": {
+      "_how": "DRAFT greeting and suggested questions, not yet approved by Ashley. Nobody auto-answers them; whoever works the booth replies from the Groundbreaker Page inbox.",
+      "greeting": "Hi! Thanks for reaching out to Groundbreaker Marketing.\nWant our free marketing playbook, or a personalized audit of your marketing? Tell us your company name and we'll get you set up. You can also find us at booth 304 at NOWRA.",
+      "ice_breakers": [
+        "Send me the free playbook",
+        "I'd like a personalized audit",
+        "Where is your booth?"
+      ]
+    }
+  }
+}

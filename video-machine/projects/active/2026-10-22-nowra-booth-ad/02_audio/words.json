@@ -1,0 +1,1432 @@
+{
+  "source": "/Users/ashley_1/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-22-nowra-booth-ad/01_footage/IMG_0293.MOV",
+  "start": 0.0,
+  "end": 74.601,
+  "duration": 74.601,
+  "language": "en",
+  "text": "We are the only septic and excavation marketing company that gives away our entire playbook for free It's everything that we do for our clients from setting up their ad accounts the settings the keywords how we build the websites What pages on the websites we know based on our data that bring them the most customers How often we post on the Google business profile for them? Everything we do for our clients. It's hundreds of thousands of data points we have Condensed into a guide of exactly what you need to do to market your business and you can get it for free Come visit our booth and you can scan the QR code and you can just download it for free It's that simple or if you would like a personalized audit where we'll go through your entire marketing and Audit it so you can see where you stack up to the ground breaker standards versus what you have going on with a Customized checklist of everything you need to do to get your marketing up to speed So come visit us at the booth. We'd love to see you and meet you We may be running around the conference all week doing a lot of live podcasting So feel free to grab us in the hallway if you find us or come see us at the booth and get your free marketing playbook",
+  "words": [
+    {
+      "word": "We",
+      "start": 1.04,
+      "end": 1.62,
+      "prob": 0.894
+    },
+    {
+      "word": "are",
+      "start": 1.62,
+      "end": 1.86,
+      "prob": 0.995
+    },
+    {
+      "word": "the",
+      "start": 1.86,
+      "end": 2.04,
+      "prob": 0.999
+    },
+    {
+      "word": "only",
+      "start": 2.04,
+      "end": 2.36,
+      "prob": 1.0
+    },
+    {
+      "word": "septic",
+      "start": 2.36,
+      "end": 2.94,
+      "prob": 0.942
+    },
+    {
+      "word": "and",
+      "start": 2.94,
+      "end": 3.1,
+      "prob": 0.923
+    },
+    {
+      "word": "excavation",
+      "start": 3.1,
+      "end": 3.72,
+      "prob": 0.993
+    },
+    {
+      "word": "marketing",
+      "start": 3.72,
+      "end": 4.14,
+      "prob": 0.971
+    },
+    {
+      "word": "company",
+      "start": 4.14,
+      "end": 4.52,
+      "prob": 0.998
+    },
+    {
+      "word": "that",
+      "start": 4.52,
+      "end": 4.78,
+      "prob": 0.992
+    },
+    {
+      "word": "gives",
+      "start": 4.78,
+      "end": 5.04,
+      "prob": 0.996
+    },
+    {
+      "word": "away",
+      "start": 5.04,
+      "end": 5.34,
+      "prob": 0.999
+    },
+    {
+      "word": "our",
+      "start": 5.34,
+      "end": 5.64,
+      "prob": 0.998
+    },
+    {
+      "word": "entire",
+      "start": 5.64,
+      "end": 6.18,
+      "prob": 0.999
+    },
+    {
+      "word": "playbook",
+      "start": 6.18,
+      "end": 6.72,
+      "prob": 0.9
+    },
+    {
+      "word": "for",
+      "start": 6.72,
+      "end": 7.22,
+      "prob": 0.972
+    },
+    {
+      "word": "free",
+      "start": 7.22,
+      "end": 7.6,
+      "prob": 0.991
+    },
+    {
+      "word": "It's",
+      "start": 7.6,
+      "end": 8.3,
+      "prob": 0.821
+    },
+    {
+      "word": "everything",
+      "start": 8.3,
+      "end": 8.76,
+      "prob": 0.99
+    },
+    {
+      "word": "that",
+      "start": 8.76,
+      "end": 9.04,
+      "prob": 1.0
+    },
+    {
+      "word": "we",
+      "start": 9.04,
+      "end": 9.16,
+      "prob": 1.0
+    },
+    {
+      "word": "do",
+      "start": 9.16,
+      "end": 9.32,
+      "prob": 1.0
+    },
+    {
+      "word": "for",
+      "start": 9.32,
+      "end": 9.5,
+      "prob": 0.999
+    },
+    {
+      "word": "our",
+      "start": 9.5,
+      "end": 9.64,
+      "prob": 0.999
+    },
+    {
+      "word": "clients",
+      "start": 9.64,
+      "end": 10.0,
+      "prob": 0.999
+    },
+    {
+      "word": "from",
+      "start": 10.0,
+      "end": 10.26,
+      "prob": 0.994
+    },
+    {
+      "word": "setting",
+      "start": 10.26,
+      "end": 10.58,
+      "prob": 0.998
+    },
+    {
+      "word": "up",
+      "start": 10.58,
+      "end": 10.78,
+      "prob": 1.0
+    },
+    {
+      "word": "their",
+      "start": 10.78,
+      "end": 10.96,
+      "prob": 0.965
+    },
+    {
+      "word": "ad",
+      "start": 10.96,
+      "end": 11.3,
+      "prob": 0.963
+    },
+    {
+      "word": "accounts",
+      "start": 11.3,
+      "end": 11.7,
+      "prob": 0.978
+    },
+    {
+      "word": "the",
+      "start": 11.7,
+      "end": 12.24,
+      "prob": 0.758
+    },
+    {
+      "word": "settings",
+      "start": 12.24,
+      "end": 12.64,
+      "prob": 0.977
+    },
+    {
+      "word": "the",
+      "start": 12.64,
+      "end": 13.02,
+      "prob": 0.946
+    },
+    {
+      "word": "keywords",
+      "start": 13.02,
+      "end": 13.46,
+      "prob": 0.957
+    },
+    {
+      "word": "how",
+      "start": 13.46,
+      "end": 13.9,
+      "prob": 0.949
+    },
+    {
+      "word": "we",
+      "start": 13.9,
+      "end": 14.06,
+      "prob": 0.991
+    },
+    {
+      "word": "build",
+      "start": 14.06,
+      "end": 14.24,
+      "prob": 0.973
+    },
+    {
+      "word": "the",
+      "start": 14.24,
+      "end": 14.34,
+      "prob": 0.997
+    },
+    {
+      "word": "websites",
+      "start": 14.34,
+      "end": 14.72,
+      "prob": 0.948
+    },
+    {
+      "word": "What",
+      "start": 14.72,
+      "end": 15.46,
+      "prob": 0.664
+    },
+    {
+      "word": "pages",
+      "start": 15.46,
+      "end": 15.98,
+      "prob": 0.991
+    },
+    {
+      "word": "on",
+      "start": 15.98,
+      "end": 16.36,
+      "prob": 0.998
+    },
+    {
+      "word": "the",
+      "start": 16.36,
+      "end": 16.46,
+      "prob": 0.999
+    },
+    {
+      "word": "websites",
+      "start": 16.46,
+      "end": 16.82,
+      "prob": 0.961
+    },
+    {
+      "word": "we",
+      "start": 16.82,
+      "end": 17.34,
+      "prob": 0.502
+    },
+    {
+      "word": "know",
+      "start": 17.34,
+      "end": 17.68,
+      "prob": 0.998
+    },
+    {
+      "word": "based",
+      "start": 17.68,
+      "end": 17.92,
+      "prob": 0.995
+    },
+    {
+      "word": "on",
+      "start": 17.92,
+      "end": 18.16,
+      "prob": 1.0
+    },
+    {
+      "word": "our",
+      "start": 18.16,
+      "end": 18.3,
+      "prob": 1.0
+    },
+    {
+      "word": "data",
+      "start": 18.3,
+      "end": 18.64,
+      "prob": 0.999
+    },
+    {
+      "word": "that",
+      "start": 18.64,
+      "end": 19.3,
+      "prob": 0.9
+    },
+    {
+      "word": "bring",
+      "start": 19.3,
+      "end": 19.56,
+      "prob": 0.98
+    },
+    {
+      "word": "them",
+      "start": 19.56,
+      "end": 19.9,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 19.9,
+      "end": 20.18,
+      "prob": 0.983
+    },
+    {
+      "word": "most",
+      "start": 20.18,
+      "end": 20.5,
+      "prob": 1.0
+    },
+    {
+      "word": "customers",
+      "start": 20.5,
+      "end": 21.04,
+      "prob": 0.965
+    },
+    {
+      "word": "How",
+      "start": 21.04,
+      "end": 21.8,
+      "prob": 0.148
+    },
+    {
+      "word": "often",
+      "start": 21.8,
+      "end": 22.3,
+      "prob": 0.998
+    },
+    {
+      "word": "we",
+      "start": 22.3,
+      "end": 22.68,
+      "prob": 0.994
+    },
+    {
+      "word": "post",
+      "start": 22.68,
+      "end": 23.4,
+      "prob": 0.96
+    },
+    {
+      "word": "on",
+      "start": 23.4,
+      "end": 23.64,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 23.64,
+      "end": 23.74,
+      "prob": 0.999
+    },
+    {
+      "word": "Google",
+      "start": 23.74,
+      "end": 23.88,
+      "prob": 0.854
+    },
+    {
+      "word": "business",
+      "start": 23.88,
+      "end": 24.2,
+      "prob": 0.816
+    },
+    {
+      "word": "profile",
+      "start": 24.2,
+      "end": 24.68,
+      "prob": 0.996
+    },
+    {
+      "word": "for",
+      "start": 24.68,
+      "end": 24.94,
+      "prob": 0.998
+    },
+    {
+      "word": "them?",
+      "start": 24.94,
+      "end": 25.12,
+      "prob": 0.999
+    },
+    {
+      "word": "Everything",
+      "start": 25.72,
+      "end": 26.1,
+      "prob": 0.876
+    },
+    {
+      "word": "we",
+      "start": 26.1,
+      "end": 26.34,
+      "prob": 0.975
+    },
+    {
+      "word": "do",
+      "start": 26.34,
+      "end": 26.48,
+      "prob": 1.0
+    },
+    {
+      "word": "for",
+      "start": 26.48,
+      "end": 26.66,
+      "prob": 0.999
+    },
+    {
+      "word": "our",
+      "start": 26.66,
+      "end": 26.82,
+      "prob": 0.998
+    },
+    {
+      "word": "clients.",
+      "start": 26.82,
+      "end": 27.2,
+      "prob": 0.991
+    },
+    {
+      "word": "It's",
+      "start": 27.24,
+      "end": 27.68,
+      "prob": 0.999
+    },
+    {
+      "word": "hundreds",
+      "start": 27.68,
+      "end": 28.08,
+      "prob": 0.996
+    },
+    {
+      "word": "of",
+      "start": 28.08,
+      "end": 28.42,
+      "prob": 1.0
+    },
+    {
+      "word": "thousands",
+      "start": 28.42,
+      "end": 28.94,
+      "prob": 0.996
+    },
+    {
+      "word": "of",
+      "start": 28.94,
+      "end": 29.2,
+      "prob": 1.0
+    },
+    {
+      "word": "data",
+      "start": 29.2,
+      "end": 29.44,
+      "prob": 0.994
+    },
+    {
+      "word": "points",
+      "start": 29.44,
+      "end": 29.82,
+      "prob": 0.996
+    },
+    {
+      "word": "we",
+      "start": 29.82,
+      "end": 30.46,
+      "prob": 0.054
+    },
+    {
+      "word": "have",
+      "start": 30.46,
+      "end": 30.78,
+      "prob": 0.943
+    },
+    {
+      "word": "Condensed",
+      "start": 31.3,
+      "end": 31.74,
+      "prob": 0.505
+    },
+    {
+      "word": "into",
+      "start": 31.74,
+      "end": 31.96,
+      "prob": 0.921
+    },
+    {
+      "word": "a",
+      "start": 31.96,
+      "end": 32.14,
+      "prob": 0.995
+    },
+    {
+      "word": "guide",
+      "start": 32.14,
+      "end": 32.5,
+      "prob": 0.956
+    },
+    {
+      "word": "of",
+      "start": 32.5,
+      "end": 32.84,
+      "prob": 0.991
+    },
+    {
+      "word": "exactly",
+      "start": 32.84,
+      "end": 33.24,
+      "prob": 0.982
+    },
+    {
+      "word": "what",
+      "start": 33.24,
+      "end": 33.42,
+      "prob": 0.994
+    },
+    {
+      "word": "you",
+      "start": 33.42,
+      "end": 33.56,
+      "prob": 0.999
+    },
+    {
+      "word": "need",
+      "start": 33.56,
+      "end": 33.68,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 33.68,
+      "end": 33.8,
+      "prob": 0.999
+    },
+    {
+      "word": "do",
+      "start": 33.8,
+      "end": 33.9,
+      "prob": 0.997
+    },
+    {
+      "word": "to",
+      "start": 33.9,
+      "end": 34.08,
+      "prob": 0.996
+    },
+    {
+      "word": "market",
+      "start": 34.08,
+      "end": 34.32,
+      "prob": 0.934
+    },
+    {
+      "word": "your",
+      "start": 34.32,
+      "end": 34.5,
+      "prob": 0.995
+    },
+    {
+      "word": "business",
+      "start": 34.5,
+      "end": 34.82,
+      "prob": 0.997
+    },
+    {
+      "word": "and",
+      "start": 34.82,
+      "end": 35.46,
+      "prob": 0.857
+    },
+    {
+      "word": "you",
+      "start": 35.46,
+      "end": 35.58,
+      "prob": 0.959
+    },
+    {
+      "word": "can",
+      "start": 35.58,
+      "end": 35.72,
+      "prob": 0.992
+    },
+    {
+      "word": "get",
+      "start": 35.72,
+      "end": 35.86,
+      "prob": 0.994
+    },
+    {
+      "word": "it",
+      "start": 35.86,
+      "end": 35.96,
+      "prob": 0.996
+    },
+    {
+      "word": "for",
+      "start": 35.96,
+      "end": 36.12,
+      "prob": 0.994
+    },
+    {
+      "word": "free",
+      "start": 36.12,
+      "end": 36.4,
+      "prob": 0.997
+    },
+    {
+      "word": "Come",
+      "start": 36.4,
+      "end": 36.98,
+      "prob": 0.527
+    },
+    {
+      "word": "visit",
+      "start": 36.98,
+      "end": 37.24,
+      "prob": 0.997
+    },
+    {
+      "word": "our",
+      "start": 37.24,
+      "end": 37.44,
+      "prob": 0.991
+    },
+    {
+      "word": "booth",
+      "start": 37.44,
+      "end": 37.68,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 37.68,
+      "end": 37.98,
+      "prob": 0.82
+    },
+    {
+      "word": "you",
+      "start": 37.98,
+      "end": 38.1,
+      "prob": 0.999
+    },
+    {
+      "word": "can",
+      "start": 38.1,
+      "end": 38.22,
+      "prob": 0.997
+    },
+    {
+      "word": "scan",
+      "start": 38.22,
+      "end": 38.52,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 38.52,
+      "end": 38.7,
+      "prob": 0.997
+    },
+    {
+      "word": "QR",
+      "start": 38.7,
+      "end": 38.92,
+      "prob": 0.959
+    },
+    {
+      "word": "code",
+      "start": 38.92,
+      "end": 39.24,
+      "prob": 0.966
+    },
+    {
+      "word": "and",
+      "start": 39.24,
+      "end": 39.46,
+      "prob": 0.896
+    },
+    {
+      "word": "you",
+      "start": 39.46,
+      "end": 39.56,
+      "prob": 0.999
+    },
+    {
+      "word": "can",
+      "start": 39.56,
+      "end": 39.7,
+      "prob": 0.999
+    },
+    {
+      "word": "just",
+      "start": 39.7,
+      "end": 39.86,
+      "prob": 0.997
+    },
+    {
+      "word": "download",
+      "start": 39.86,
+      "end": 40.28,
+      "prob": 0.997
+    },
+    {
+      "word": "it",
+      "start": 40.28,
+      "end": 40.46,
+      "prob": 0.996
+    },
+    {
+      "word": "for",
+      "start": 40.46,
+      "end": 40.6,
+      "prob": 0.997
+    },
+    {
+      "word": "free",
+      "start": 40.6,
+      "end": 40.88,
+      "prob": 0.998
+    },
+    {
+      "word": "It's",
+      "start": 40.88,
+      "end": 41.16,
+      "prob": 0.863
+    },
+    {
+      "word": "that",
+      "start": 41.16,
+      "end": 41.3,
+      "prob": 0.977
+    },
+    {
+      "word": "simple",
+      "start": 41.3,
+      "end": 41.62,
+      "prob": 0.998
+    },
+    {
+      "word": "or",
+      "start": 41.62,
+      "end": 42.3,
+      "prob": 0.781
+    },
+    {
+      "word": "if",
+      "start": 42.3,
+      "end": 42.48,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 42.48,
+      "end": 42.62,
+      "prob": 1.0
+    },
+    {
+      "word": "would",
+      "start": 42.62,
+      "end": 42.72,
+      "prob": 0.992
+    },
+    {
+      "word": "like",
+      "start": 42.72,
+      "end": 42.92,
+      "prob": 0.999
+    },
+    {
+      "word": "a",
+      "start": 42.92,
+      "end": 43.06,
+      "prob": 0.999
+    },
+    {
+      "word": "personalized",
+      "start": 43.06,
+      "end": 43.56,
+      "prob": 0.986
+    },
+    {
+      "word": "audit",
+      "start": 43.56,
+      "end": 44.12,
+      "prob": 0.994
+    },
+    {
+      "word": "where",
+      "start": 44.12,
+      "end": 44.34,
+      "prob": 0.882
+    },
+    {
+      "word": "we'll",
+      "start": 44.34,
+      "end": 44.54,
+      "prob": 0.972
+    },
+    {
+      "word": "go",
+      "start": 44.54,
+      "end": 44.72,
+      "prob": 0.999
+    },
+    {
+      "word": "through",
+      "start": 44.72,
+      "end": 44.98,
+      "prob": 0.998
+    },
+    {
+      "word": "your",
+      "start": 44.98,
+      "end": 45.28,
+      "prob": 0.992
+    },
+    {
+      "word": "entire",
+      "start": 45.28,
+      "end": 45.62,
+      "prob": 0.998
+    },
+    {
+      "word": "marketing",
+      "start": 45.62,
+      "end": 46.08,
+      "prob": 0.914
+    },
+    {
+      "word": "and",
+      "start": 46.08,
+      "end": 46.8,
+      "prob": 0.966
+    },
+    {
+      "word": "Audit",
+      "start": 46.8,
+      "end": 47.2,
+      "prob": 0.649
+    },
+    {
+      "word": "it",
+      "start": 47.2,
+      "end": 47.38,
+      "prob": 0.928
+    },
+    {
+      "word": "so",
+      "start": 47.38,
+      "end": 47.54,
+      "prob": 0.958
+    },
+    {
+      "word": "you",
+      "start": 47.54,
+      "end": 47.72,
+      "prob": 0.999
+    },
+    {
+      "word": "can",
+      "start": 47.72,
+      "end": 47.9,
+      "prob": 0.998
+    },
+    {
+      "word": "see",
+      "start": 47.9,
+      "end": 48.22,
+      "prob": 0.997
+    },
+    {
+      "word": "where",
+      "start": 48.22,
+      "end": 48.82,
+      "prob": 0.796
+    },
+    {
+      "word": "you",
+      "start": 48.82,
+      "end": 49.0,
+      "prob": 0.99
+    },
+    {
+      "word": "stack",
+      "start": 49.0,
+      "end": 49.24,
+      "prob": 0.924
+    },
+    {
+      "word": "up",
+      "start": 49.24,
+      "end": 49.54,
+      "prob": 0.996
+    },
+    {
+      "word": "to",
+      "start": 49.54,
+      "end": 49.82,
+      "prob": 0.982
+    },
+    {
+      "word": "the",
+      "start": 49.82,
+      "end": 50.02,
+      "prob": 0.992
+    },
+    {
+      "word": "ground",
+      "start": 50.02,
+      "end": 50.24,
+      "prob": 0.662
+    },
+    {
+      "word": "breaker",
+      "start": 50.24,
+      "end": 50.44,
+      "prob": 0.543
+    },
+    {
+      "word": "standards",
+      "start": 50.44,
+      "end": 50.94,
+      "prob": 0.867
+    },
+    {
+      "word": "versus",
+      "start": 50.94,
+      "end": 51.34,
+      "prob": 0.932
+    },
+    {
+      "word": "what",
+      "start": 51.34,
+      "end": 51.6,
+      "prob": 0.949
+    },
+    {
+      "word": "you",
+      "start": 51.6,
+      "end": 51.76,
+      "prob": 0.998
+    },
+    {
+      "word": "have",
+      "start": 51.76,
+      "end": 52.08,
+      "prob": 0.998
+    },
+    {
+      "word": "going",
+      "start": 52.08,
+      "end": 52.66,
+      "prob": 0.605
+    },
+    {
+      "word": "on",
+      "start": 52.66,
+      "end": 52.94,
+      "prob": 0.998
+    },
+    {
+      "word": "with",
+      "start": 52.94,
+      "end": 53.22,
+      "prob": 0.976
+    },
+    {
+      "word": "a",
+      "start": 53.22,
+      "end": 53.5,
+      "prob": 0.99
+    },
+    {
+      "word": "Customized",
+      "start": 53.5,
+      "end": 54.2,
+      "prob": 0.606
+    },
+    {
+      "word": "checklist",
+      "start": 54.2,
+      "end": 54.56,
+      "prob": 0.989
+    },
+    {
+      "word": "of",
+      "start": 54.56,
+      "end": 55.0,
+      "prob": 0.999
+    },
+    {
+      "word": "everything",
+      "start": 55.0,
+      "end": 55.4,
+      "prob": 0.998
+    },
+    {
+      "word": "you",
+      "start": 55.4,
+      "end": 55.62,
+      "prob": 0.979
+    },
+    {
+      "word": "need",
+      "start": 55.62,
+      "end": 55.76,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 55.76,
+      "end": 55.9,
+      "prob": 1.0
+    },
+    {
+      "word": "do",
+      "start": 55.9,
+      "end": 56.04,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 56.04,
+      "end": 56.22,
+      "prob": 0.998
+    },
+    {
+      "word": "get",
+      "start": 56.22,
+      "end": 56.38,
+      "prob": 1.0
+    },
+    {
+      "word": "your",
+      "start": 56.38,
+      "end": 56.54,
+      "prob": 0.998
+    },
+    {
+      "word": "marketing",
+      "start": 56.54,
+      "end": 56.94,
+      "prob": 0.996
+    },
+    {
+      "word": "up",
+      "start": 56.94,
+      "end": 57.7,
+      "prob": 0.94
+    },
+    {
+      "word": "to",
+      "start": 57.7,
+      "end": 57.84,
+      "prob": 0.97
+    },
+    {
+      "word": "speed",
+      "start": 57.84,
+      "end": 58.08,
+      "prob": 0.988
+    },
+    {
+      "word": "So",
+      "start": 58.08,
+      "end": 58.6,
+      "prob": 0.779
+    },
+    {
+      "word": "come",
+      "start": 58.6,
+      "end": 58.94,
+      "prob": 0.888
+    },
+    {
+      "word": "visit",
+      "start": 58.94,
+      "end": 59.14,
+      "prob": 0.391
+    },
+    {
+      "word": "us",
+      "start": 59.14,
+      "end": 59.38,
+      "prob": 0.993
+    },
+    {
+      "word": "at",
+      "start": 59.38,
+      "end": 59.6,
+      "prob": 0.982
+    },
+    {
+      "word": "the",
+      "start": 59.6,
+      "end": 59.74,
+      "prob": 0.928
+    },
+    {
+      "word": "booth.",
+      "start": 59.74,
+      "end": 59.98,
+      "prob": 0.991
+    },
+    {
+      "word": "We'd",
+      "start": 60.12,
+      "end": 60.34,
+      "prob": 0.994
+    },
+    {
+      "word": "love",
+      "start": 60.34,
+      "end": 60.44,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 60.44,
+      "end": 60.62,
+      "prob": 1.0
+    },
+    {
+      "word": "see",
+      "start": 60.62,
+      "end": 60.82,
+      "prob": 0.999
+    },
+    {
+      "word": "you",
+      "start": 60.82,
+      "end": 61.02,
+      "prob": 0.997
+    },
+    {
+      "word": "and",
+      "start": 61.02,
+      "end": 61.2,
+      "prob": 0.985
+    },
+    {
+      "word": "meet",
+      "start": 61.2,
+      "end": 61.44,
+      "prob": 0.992
+    },
+    {
+      "word": "you",
+      "start": 61.44,
+      "end": 61.62,
+      "prob": 0.997
+    },
+    {
+      "word": "We",
+      "start": 61.62,
+      "end": 62.12,
+      "prob": 0.463
+    },
+    {
+      "word": "may",
+      "start": 62.12,
+      "end": 62.36,
+      "prob": 0.995
+    },
+    {
+      "word": "be",
+      "start": 62.36,
+      "end": 62.54,
+      "prob": 1.0
+    },
+    {
+      "word": "running",
+      "start": 62.54,
+      "end": 62.86,
+      "prob": 0.999
+    },
+    {
+      "word": "around",
+      "start": 62.86,
+      "end": 63.32,
+      "prob": 0.999
+    },
+    {
+      "word": "the",
+      "start": 63.32,
+      "end": 63.78,
+      "prob": 0.996
+    },
+    {
+      "word": "conference",
+      "start": 63.78,
+      "end": 64.16,
+      "prob": 0.996
+    },
+    {
+      "word": "all",
+      "start": 64.16,
+      "end": 64.58,
+      "prob": 0.984
+    },
+    {
+      "word": "week",
+      "start": 64.58,
+      "end": 64.74,
+      "prob": 0.993
+    },
+    {
+      "word": "doing",
+      "start": 64.74,
+      "end": 64.94,
+      "prob": 0.967
+    },
+    {
+      "word": "a",
+      "start": 64.94,
+      "end": 65.06,
+      "prob": 0.999
+    },
+    {
+      "word": "lot",
+      "start": 65.06,
+      "end": 65.34,
+      "prob": 0.999
+    },
+    {
+      "word": "of",
+      "start": 65.34,
+      "end": 65.46,
+      "prob": 1.0
+    },
+    {
+      "word": "live",
+      "start": 65.46,
+      "end": 65.7,
+      "prob": 0.998
+    },
+    {
+      "word": "podcasting",
+      "start": 65.7,
+      "end": 66.54,
+      "prob": 0.969
+    },
+    {
+      "word": "So",
+      "start": 66.54,
+      "end": 67.08,
+      "prob": 0.751
+    },
+    {
+      "word": "feel",
+      "start": 67.08,
+      "end": 67.42,
+      "prob": 0.996
+    },
+    {
+      "word": "free",
+      "start": 67.42,
+      "end": 67.6,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 67.6,
+      "end": 67.74,
+      "prob": 1.0
+    },
+    {
+      "word": "grab",
+      "start": 67.74,
+      "end": 67.96,
+      "prob": 0.999
+    },
+    {
+      "word": "us",
+      "start": 67.96,
+      "end": 68.14,
+      "prob": 0.988
+    },
+    {
+      "word": "in",
+      "start": 68.14,
+      "end": 68.26,
+      "prob": 0.998
+    },
+    {
+      "word": "the",
+      "start": 68.26,
+      "end": 68.34,
+      "prob": 1.0
+    },
+    {
+      "word": "hallway",
+      "start": 68.34,
+      "end": 68.58,
+      "prob": 0.998
+    },
+    {
+      "word": "if",
+      "start": 68.58,
+      "end": 68.86,
+      "prob": 0.821
+    },
+    {
+      "word": "you",
+      "start": 68.86,
+      "end": 68.96,
+      "prob": 1.0
+    },
+    {
+      "word": "find",
+      "start": 68.96,
+      "end": 69.2,
+      "prob": 0.999
+    },
+    {
+      "word": "us",
+      "start": 69.2,
+      "end": 69.38,
+      "prob": 0.98
+    },
+    {
+      "word": "or",
+      "start": 69.38,
+      "end": 69.52,
+      "prob": 0.959
+    },
+    {
+      "word": "come",
+      "start": 69.52,
+      "end": 69.74,
+      "prob": 0.992
+    },
+    {
+      "word": "see",
+      "start": 69.74,
+      "end": 69.94,
+      "prob": 0.989
+    },
+    {
+      "word": "us",
+      "start": 69.94,
+      "end": 70.08,
+      "prob": 0.994
+    },
+    {
+      "word": "at",
+      "start": 70.08,
+      "end": 70.24,
+      "prob": 0.967
+    },
+    {
+      "word": "the",
+      "start": 70.24,
+      "end": 70.34,
+      "prob": 0.997
+    },
+    {
+      "word": "booth",
+      "start": 70.34,
+      "end": 70.54,
+      "prob": 0.995
+    },
+    {
+      "word": "and",
+      "start": 70.54,
+      "end": 71.16,
+      "prob": 0.981
+    },
+    {
+      "word": "get",
+      "start": 71.16,
+      "end": 71.34,
+      "prob": 0.991
+    },
+    {
+      "word": "your",
+      "start": 71.34,
+      "end": 71.5,
+      "prob": 0.998
+    },
+    {
+      "word": "free",
+      "start": 71.5,
+      "end": 71.86,
+      "prob": 0.997
+    },
+    {
+      "word": "marketing",
+      "start": 71.86,
+      "end": 72.38,
+      "prob": 0.961
+    },
+    {
+      "word": "playbook",
+      "start": 72.38,
+      "end": 72.82,
+      "prob": 0.989
+    }
+  ]
+}
