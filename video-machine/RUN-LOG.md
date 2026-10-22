@@ -95,8 +95,16 @@ preview, then a geofenced ad in GBM's own account set up the way VibraWaste's NO
 - Agent misunderstood: nothing yet ("Don Dominoes" = Jon Jouvenaux, VibraWaste).
 - Done by hand: the SDR working copy; brand.json got GBM's ad account, Page and Instagram IDs
   plus "Groundbreaker" and "QR" caption terms.
-- Open: Ashley's review of the video, copy and Messenger greeting (copy.json approved false), then
-  upload PAUSED and publish. Start time is Mon 10-26 7:00 MDT; Meta refuses a past start.
+- Ashley approved the video, copy and greeting as is ("it's perfect") and changed one thing: run
+  Sunday through Wednesday, the whole conference, not expo hours only (Jon's too). Window now Sun
+  10-25 12:00 am to Wed 10-28 11:59 pm MDT, $10/day.
+- PUBLISHED 2026-10-22 at her ask, after reading every object back and 8 placement previews:
+  campaign 120252401477540374, ad set 120252401584380374, ad 120252401938450374 (creative
+  2116946749182205, multi-advertiser OPT_OUT, greeting intact). Ad was IN_PROCESS (Meta review) at
+  publish; the ad set's start time holds delivery until Sunday.
+- Broke: the 113 MB master got HTTP 413 from graph.facebook.com; uploading to
+  graph-video.facebook.com worked (fixed in video-machine #53). A video still processing does not
+  show in act/advideos, so a re-run right after a manual upload doesn't find it yet.
 
 ### YYYY-MM-DD <project>
 - Worked:
