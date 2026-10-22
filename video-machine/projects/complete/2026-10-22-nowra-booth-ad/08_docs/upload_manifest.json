@@ -1,0 +1,19 @@
+{
+  "account": "act_500271296306142",
+  "format": "9x16",
+  "created": "2026-10-22",
+  "campaign_id": "120252401477540374",
+  "adsets": {
+    "NOWRA 2026 | all angles": "120252401584380374"
+  },
+  "ads": {
+    "booth-playbook-offer-full": {
+      "ad_id": "120252401938450374",
+      "creative_id": "2116946749182205",
+      "video_id": "1651323243040600",
+      "adset_id": "120252401584380374",
+      "name": "booth-playbook-offer-full-9x16",
+      "landing_url": "MESSENGER"
+    }
+  }
+}
