@@ -1,0 +1,154 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:41.46,Title,,0,0,0,,{\pos(540,360)}A tractor on top of\Nthe {\c&H0060ECCD}drain field{\c&H00FFFFFF&}?
+Dialogue: 1,0:00:00.00,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}There's{\c&H00FFFFFF&} ways to
+Dialogue: 1,0:00:00.28,0:00:00.46,Cap,,0,0,0,,{\pos(540,1400)}There's {\c&H0060ECCD}ways{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:00.46,0:00:00.64,Cap,,0,0,0,,{\pos(540,1400)}There's ways {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.64,0:00:00.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}work{\c&H00FFFFFF&} around
+Dialogue: 1,0:00:00.86,0:00:01.10,Cap,,0,0,0,,{\pos(540,1400)}work {\c&H0060ECCD}around{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.10,0:00:01.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}things{\c&H00FFFFFF&} so we had
+Dialogue: 1,0:00:01.32,0:00:01.86,Cap,,0,0,0,,{\pos(540,1400)}things {\c&H0060ECCD}so{\c&H00FFFFFF&} we had
+Dialogue: 1,0:00:01.86,0:00:02.02,Cap,,0,0,0,,{\pos(540,1400)}things so {\c&H0060ECCD}we{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:02.02,0:00:02.14,Cap,,0,0,0,,{\pos(540,1400)}things so we {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.14,0:00:02.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} farmer in Iowa
+Dialogue: 1,0:00:02.24,0:00:02.60,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}farmer{\c&H00FFFFFF&} in Iowa
+Dialogue: 1,0:00:02.60,0:00:03.73,Cap,,0,0,0,,{\pos(540,1400)}a farmer {\c&H0060ECCD}in{\c&H00FFFFFF&} Iowa
+Dialogue: 1,0:00:03.73,0:00:05.01,Cap,,0,0,0,,{\pos(540,1400)}a farmer in {\c&H0060ECCD}Iowa{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.01,0:00:05.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} his hay barn
+Dialogue: 1,0:00:05.97,0:00:06.55,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}his{\c&H00FFFFFF&} hay barn
+Dialogue: 1,0:00:06.55,0:00:07.14,Cap,,0,0,0,,{\pos(540,1400)}that his {\c&H0060ECCD}hay{\c&H00FFFFFF&} barn
+Dialogue: 1,0:00:07.14,0:00:07.47,Cap,,0,0,0,,{\pos(540,1400)}that his hay {\c&H0060ECCD}barn{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.47,0:00:08.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}he{\c&H00FFFFFF&} has to drive
+Dialogue: 1,0:00:08.47,0:00:08.71,Cap,,0,0,0,,{\pos(540,1400)}he {\c&H0060ECCD}has{\c&H00FFFFFF&} to drive
+Dialogue: 1,0:00:08.71,0:00:08.85,Cap,,0,0,0,,{\pos(540,1400)}he has {\c&H0060ECCD}to{\c&H00FFFFFF&} drive
+Dialogue: 1,0:00:08.85,0:00:09.14,Cap,,0,0,0,,{\pos(540,1400)}he has to {\c&H0060ECCD}drive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.14,0:00:09.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}over{\c&H00FFFFFF&} his field
+Dialogue: 1,0:00:09.53,0:00:09.95,Cap,,0,0,0,,{\pos(540,1400)}over {\c&H0060ECCD}his{\c&H00FFFFFF&} field
+Dialogue: 1,0:00:09.95,0:00:10.31,Cap,,0,0,0,,{\pos(540,1400)}over his {\c&H0060ECCD}field{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.31,0:00:10.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} so we talked
+Dialogue: 1,0:00:10.55,0:00:10.81,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}so{\c&H00FFFFFF&} we talked
+Dialogue: 1,0:00:10.81,0:00:11.14,Cap,,0,0,0,,{\pos(540,1400)}and so {\c&H0060ECCD}we{\c&H00FFFFFF&} talked
+Dialogue: 1,0:00:11.14,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}and so we {\c&H0060ECCD}talked{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.83,0:00:11.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} him about his
+Dialogue: 1,0:00:11.97,0:00:12.03,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}him{\c&H00FFFFFF&} about his
+Dialogue: 1,0:00:12.03,0:00:12.14,Cap,,0,0,0,,{\pos(540,1400)}to him {\c&H0060ECCD}about{\c&H00FFFFFF&} his
+Dialogue: 1,0:00:12.14,0:00:12.29,Cap,,0,0,0,,{\pos(540,1400)}to him about {\c&H0060ECCD}his{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.29,0:00:12.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tractor{\c&H00FFFFFF&} how much
+Dialogue: 1,0:00:12.61,0:00:12.87,Cap,,0,0,0,,{\pos(540,1400)}tractor {\c&H0060ECCD}how{\c&H00FFFFFF&} much
+Dialogue: 1,0:00:12.87,0:00:13.09,Cap,,0,0,0,,{\pos(540,1400)}tractor how {\c&H0060ECCD}much{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.09,0:00:13.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}weight{\c&H00FFFFFF&} it is and
+Dialogue: 1,0:00:13.40,0:00:13.75,Cap,,0,0,0,,{\pos(540,1400)}weight {\c&H0060ECCD}it{\c&H00FFFFFF&} is and
+Dialogue: 1,0:00:13.75,0:00:14.14,Cap,,0,0,0,,{\pos(540,1400)}weight it {\c&H0060ECCD}is{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:14.14,0:00:14.35,Cap,,0,0,0,,{\pos(540,1400)}weight it is {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.35,0:00:14.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} that and came
+Dialogue: 1,0:00:14.53,0:00:14.79,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}that{\c&H00FFFFFF&} and came
+Dialogue: 1,0:00:14.79,0:00:15.01,Cap,,0,0,0,,{\pos(540,1400)}all that {\c&H0060ECCD}and{\c&H00FFFFFF&} came
+Dialogue: 1,0:00:15.01,0:00:15.66,Cap,,0,0,0,,{\pos(540,1400)}all that and {\c&H0060ECCD}came{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.66,0:00:15.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}up{\c&H00FFFFFF&} with a
+Dialogue: 1,0:00:15.83,0:00:15.97,Cap,,0,0,0,,{\pos(540,1400)}up {\c&H0060ECCD}with{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:15.97,0:00:16.09,Cap,,0,0,0,,{\pos(540,1400)}up with {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.09,0:00:16.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}solution{\c&H00FFFFFF&} that he
+Dialogue: 1,0:00:16.47,0:00:16.64,Cap,,0,0,0,,{\pos(540,1400)}solution {\c&H0060ECCD}that{\c&H00FFFFFF&} he
+Dialogue: 1,0:00:16.64,0:00:16.77,Cap,,0,0,0,,{\pos(540,1400)}solution that {\c&H0060ECCD}he{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.77,0:00:16.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} puts down
+Dialogue: 1,0:00:16.95,0:00:17.19,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}puts{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:17.19,0:00:17.38,Cap,,0,0,0,,{\pos(540,1400)}just puts {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.38,0:00:17.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}some{\c&H00FFFFFF&} plywood to
+Dialogue: 1,0:00:17.61,0:00:17.95,Cap,,0,0,0,,{\pos(540,1400)}some {\c&H0060ECCD}plywood{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:17.95,0:00:18.21,Cap,,0,0,0,,{\pos(540,1400)}some plywood {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.21,0:00:18.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} able to drive
+Dialogue: 1,0:00:18.31,0:00:18.40,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}able{\c&H00FFFFFF&} to drive
+Dialogue: 1,0:00:18.40,0:00:18.51,Cap,,0,0,0,,{\pos(540,1400)}be able {\c&H0060ECCD}to{\c&H00FFFFFF&} drive
+Dialogue: 1,0:00:18.51,0:00:18.73,Cap,,0,0,0,,{\pos(540,1400)}be able to {\c&H0060ECCD}drive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.73,0:00:18.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}over{\c&H00FFFFFF&} because it's
+Dialogue: 1,0:00:18.93,0:00:19.09,Cap,,0,0,0,,{\pos(540,1400)}over {\c&H0060ECCD}because{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:19.09,0:00:19.49,Cap,,0,0,0,,{\pos(540,1400)}over because {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.49,0:00:19.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}only{\c&H00FFFFFF&} once a year
+Dialogue: 1,0:00:19.62,0:00:19.85,Cap,,0,0,0,,{\pos(540,1400)}only {\c&H0060ECCD}once{\c&H00FFFFFF&} a year
+Dialogue: 1,0:00:19.85,0:00:19.95,Cap,,0,0,0,,{\pos(540,1400)}only once {\c&H0060ECCD}a{\c&H00FFFFFF&} year
+Dialogue: 1,0:00:19.95,0:00:20.25,Cap,,0,0,0,,{\pos(540,1400)}only once a {\c&H0060ECCD}year{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.25,0:00:20.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} he loads up
+Dialogue: 1,0:00:20.77,0:00:20.87,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}he{\c&H00FFFFFF&} loads up
+Dialogue: 1,0:00:20.87,0:00:21.16,Cap,,0,0,0,,{\pos(540,1400)}when he {\c&H0060ECCD}loads{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:21.16,0:00:21.37,Cap,,0,0,0,,{\pos(540,1400)}when he loads {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.37,0:00:21.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}his{\c&H00FFFFFF&} his hay you
+Dialogue: 1,0:00:21.83,0:00:22.97,Cap,,0,0,0,,{\pos(540,1400)}his {\c&H0060ECCD}his{\c&H00FFFFFF&} hay you
+Dialogue: 1,0:00:22.97,0:00:23.27,Cap,,0,0,0,,{\pos(540,1400)}his his {\c&H0060ECCD}hay{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:23.27,0:00:23.49,Cap,,0,0,0,,{\pos(540,1400)}his his hay {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.49,0:00:23.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} during that
+Dialogue: 1,0:00:23.57,0:00:23.75,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}during{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:23.75,0:00:23.93,Cap,,0,0,0,,{\pos(540,1400)}know during {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.93,0:00:24.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}season{\c&H00FFFFFF&} and then
+Dialogue: 1,0:00:24.23,0:00:24.90,Cap,,0,0,0,,{\pos(540,1400)}season {\c&H0060ECCD}and{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:24.90,0:00:25.03,Cap,,0,0,0,,{\pos(540,1400)}season and {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.03,0:00:25.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} do it
+Dialogue: 1,0:00:25.33,0:00:25.47,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}do{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:25.47,0:00:25.57,Cap,,0,0,0,,{\pos(540,1400)}doesn't do {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.57,0:00:25.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anymore{\c&H00FFFFFF&} and so
+Dialogue: 1,0:00:25.87,0:00:26.03,Cap,,0,0,0,,{\pos(540,1400)}anymore {\c&H0060ECCD}and{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:26.03,0:00:26.11,Cap,,0,0,0,,{\pos(540,1400)}anymore and {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.11,0:00:26.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} worked out
+Dialogue: 1,0:00:26.38,0:00:26.85,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}worked{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:26.85,0:00:27.01,Cap,,0,0,0,,{\pos(540,1400)}that worked {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.01,0:00:27.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} him you know
+Dialogue: 1,0:00:27.19,0:00:27.45,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}him{\c&H00FFFFFF&} you know
+Dialogue: 1,0:00:27.45,0:00:27.69,Cap,,0,0,0,,{\pos(540,1400)}for him {\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:27.69,0:00:27.77,Cap,,0,0,0,,{\pos(540,1400)}for him you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.77,0:00:27.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} we we tried
+Dialogue: 1,0:00:27.99,0:00:28.61,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}we{\c&H00FFFFFF&} we tried
+Dialogue: 1,0:00:28.61,0:00:28.81,Cap,,0,0,0,,{\pos(540,1400)}so we {\c&H0060ECCD}we{\c&H00FFFFFF&} tried
+Dialogue: 1,0:00:28.81,0:00:29.07,Cap,,0,0,0,,{\pos(540,1400)}so we we {\c&H0060ECCD}tried{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.07,0:00:29.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} not just say
+Dialogue: 1,0:00:29.40,0:00:29.66,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}not{\c&H00FFFFFF&} just say
+Dialogue: 1,0:00:29.66,0:00:29.95,Cap,,0,0,0,,{\pos(540,1400)}to not {\c&H0060ECCD}just{\c&H00FFFFFF&} say
+Dialogue: 1,0:00:29.95,0:00:30.14,Cap,,0,0,0,,{\pos(540,1400)}to not just {\c&H0060ECCD}say{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.14,0:00:30.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}no{\c&H00FFFFFF&} don't do that
+Dialogue: 1,0:00:30.38,0:00:30.64,Cap,,0,0,0,,{\pos(540,1400)}no {\c&H0060ECCD}don't{\c&H00FFFFFF&} do that
+Dialogue: 1,0:00:30.64,0:00:30.75,Cap,,0,0,0,,{\pos(540,1400)}no don't {\c&H0060ECCD}do{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:30.75,0:00:31.01,Cap,,0,0,0,,{\pos(540,1400)}no don't do {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.01,0:00:31.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yeah{\c&H00FFFFFF&} as best as
+Dialogue: 1,0:00:31.51,0:00:33.25,Cap,,0,0,0,,{\pos(540,1400)}yeah {\c&H0060ECCD}as{\c&H00FFFFFF&} best as
+Dialogue: 1,0:00:33.25,0:00:33.45,Cap,,0,0,0,,{\pos(540,1400)}yeah as {\c&H0060ECCD}best{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:33.45,0:00:33.62,Cap,,0,0,0,,{\pos(540,1400)}yeah as best {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.62,0:00:33.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}possible{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:33.99,0:00:34.29,Cap,,0,0,0,,{\pos(540,1400)}possible {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.29,0:00:34.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} we do want
+Dialogue: 1,0:00:34.53,0:00:34.83,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}we{\c&H00FFFFFF&} do want
+Dialogue: 1,0:00:34.83,0:00:35.09,Cap,,0,0,0,,{\pos(540,1400)}we we {\c&H0060ECCD}do{\c&H00FFFFFF&} want
+Dialogue: 1,0:00:35.09,0:00:35.38,Cap,,0,0,0,,{\pos(540,1400)}we we do {\c&H0060ECCD}want{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.38,0:00:35.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&} to contact
+Dialogue: 1,0:00:35.57,0:00:35.75,Cap,,0,0,0,,{\pos(540,1400)}them {\c&H0060ECCD}to{\c&H00FFFFFF&} contact
+Dialogue: 1,0:00:35.75,0:00:36.12,Cap,,0,0,0,,{\pos(540,1400)}them to {\c&H0060ECCD}contact{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.12,0:00:36.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}us{\c&H00FFFFFF&} it's a hard
+Dialogue: 1,0:00:36.40,0:00:36.59,Cap,,0,0,0,,{\pos(540,1400)}us {\c&H0060ECCD}it's{\c&H00FFFFFF&} a hard
+Dialogue: 1,0:00:36.62,0:00:36.81,Cap,,0,0,0,,{\pos(540,1400)}us it's a {\c&H0060ECCD}hard{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.81,0:00:37.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}no{\c&H00FFFFFF&} though we're
+Dialogue: 1,0:00:37.03,0:00:37.23,Cap,,0,0,0,,{\pos(540,1400)}no {\c&H0060ECCD}though{\c&H00FFFFFF&} we're
+Dialogue: 1,0:00:37.23,0:00:37.45,Cap,,0,0,0,,{\pos(540,1400)}no though {\c&H0060ECCD}we're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.45,0:00:37.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} going to
+Dialogue: 1,0:00:37.57,0:00:37.81,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}going{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:37.81,0:00:38.01,Cap,,0,0,0,,{\pos(540,1400)}not going {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.01,0:00:38.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}recommend{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.47,0:00:38.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}something{\c&H00FFFFFF&} that's
+Dialogue: 1,0:00:38.77,0:00:39.11,Cap,,0,0,0,,{\pos(540,1400)}something {\c&H0060ECCD}that's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.66,0:00:40.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gonna{\c&H00FFFFFF&} gonna hurt
+Dialogue: 1,0:00:40.06,0:00:40.28,Cap,,0,0,0,,{\pos(540,1400)}gonna {\c&H0060ECCD}gonna{\c&H00FFFFFF&} hurt
+Dialogue: 1,0:00:40.28,0:00:40.58,Cap,,0,0,0,,{\pos(540,1400)}gonna gonna {\c&H0060ECCD}hurt{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.58,0:00:40.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ourselves{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:40.98,0:00:41.16,Cap,,0,0,0,,{\pos(540,1400)}ourselves {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:41.16,0:00:41.22,Cap,,0,0,0,,{\pos(540,1400)}ourselves in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.22,0:00:41.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}long{\c&H00FFFFFF&} run
+Dialogue: 1,0:00:41.40,0:00:41.60,Cap,,0,0,0,,{\pos(540,1400)}long {\c&H0060ECCD}run{\c&H00FFFFFF&}

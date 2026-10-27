@@ -1,0 +1,3167 @@
+1
+00:00:00,000 --> 00:00:00,530
+Hey everyone
+
+2
+00:00:00,560 --> 00:00:02,600
+Welcome back to The #2 Septic Podcast
+
+3
+00:00:02,600 --> 00:00:04,460
+Today I have Zach Gardner and Jimmy
+
+4
+00:00:04,460 --> 00:00:05,890
+Bell here from Eljen
+
+5
+00:00:05,980 --> 00:00:07,600
+So welcome to the podcast
+
+6
+00:00:07,600 --> 00:00:08,090
+guys
+
+7
+00:00:08,140 --> 00:00:08,940
+Thank you
+
+8
+00:00:08,940 --> 00:00:09,890
+Thank you for having us
+
+9
+00:00:10,060 --> 00:00:10,370
+Yeah
+
+10
+00:00:10,720 --> 00:00:12,280
+So why don't you just start out
+
+11
+00:00:12,280 --> 00:00:14,060
+by telling us a little bit about
+
+12
+00:00:14,060 --> 00:00:15,580
+Eljen's main product
+
+13
+00:00:15,580 --> 00:00:16,730
+kind of what you do
+
+14
+00:00:16,780 --> 00:00:18,060
+what services it
+
+15
+00:00:18,060 --> 00:00:18,640
+and then we'll just
+
+16
+00:00:18,640 --> 00:00:20,140
+we'll do a little deep dive after
+
+17
+00:00:20,140 --> 00:00:20,470
+that
+
+18
+00:00:20,575 --> 00:00:23,485
+Yeah so Eljen was started in 1970
+
+19
+00:00:23,935 --> 00:00:27,065
+Initially we started with the PDS
+
+20
+00:00:27,095 --> 00:00:28,835
+which is a prefabricated drain systems
+
+21
+00:00:28,835 --> 00:00:30,335
+I think like a French drain but
+
+22
+00:00:30,335 --> 00:00:33,875
+without all the aggregate and Joe
+
+23
+00:00:33,875 --> 00:00:37,215
+Glasser because he was an adjunct
+
+24
+00:00:37,215 --> 00:00:40,195
+professor at UConn started really
+
+25
+00:00:40,195 --> 00:00:42,655
+rubbing shoulders with some of the
+
+26
+00:00:42,655 --> 00:00:44,875
+wastewater guys that were in
+
+27
+00:00:44,875 --> 00:00:48,135
+development of new products including
+
+28
+00:00:48,135 --> 00:00:50,335
+like Rein Laak and some others and
+
+29
+00:00:50,335 --> 00:00:53,915
+got into that got into wastewater so
+
+30
+00:00:53,915 --> 00:00:56,555
+our main product because the GSF the
+
+31
+00:00:56,555 --> 00:00:58,275
+geotextile sand filter that's what we
+
+32
+00:00:58,275 --> 00:01:00,155
+sell the most of you know we
+
+33
+00:01:00,155 --> 00:01:02,235
+obviously manufacture other things
+
+34
+00:01:02,235 --> 00:01:04,355
+yeah but that's probably the biggest
+
+35
+00:01:04,355 --> 00:01:07,375
+product yeah and do you sell that
+
+36
+00:01:07,375 --> 00:01:09,935
+to all of North America or do
+
+37
+00:01:09,935 --> 00:01:11,695
+you have certain kind of geographical
+
+38
+00:01:11,695 --> 00:01:13,975
+hotspots that you sell a bunch in
+
+39
+00:01:13,975 --> 00:01:16,675
+due to the soil conditions not
+
+40
+00:01:16,675 --> 00:01:18,775
+necessarily soil conditions I think
+
+41
+00:01:18,775 --> 00:01:21,415
+it's more along the lines of how
+
+42
+00:01:21,415 --> 00:01:24,695
+that code works okay and if it's
+
+43
+00:01:24,695 --> 00:01:28,235
+friendly to treatment and dispersal so
+
+44
+00:01:28,235 --> 00:01:30,815
+not everywhere use the same but we
+
+45
+00:01:30,815 --> 00:01:33,215
+sell all in all of North America
+
+46
+00:01:33,215 --> 00:01:44,155
+and Australia Sweden okay and what's
+
+47
+00:01:44,155 --> 00:01:46,095
+the benefit of that product versus
+
+48
+00:01:46,095 --> 00:01:49,835
+just a normal drain field sure benefit
+
+49
+00:01:49,835 --> 00:01:51,455
+of this product over a normal drain
+
+50
+00:01:51,455 --> 00:01:55,750
+field it's a smaller footprint and
+
+51
+00:01:55,750 --> 00:01:57,170
+you're doing treatment so you're
+
+52
+00:01:57,170 --> 00:01:58,910
+getting clean water back into the
+
+53
+00:01:58,910 --> 00:02:00,470
+earth so and you can do that
+
+54
+00:02:00,470 --> 00:02:02,590
+on a smaller footprint in potentially
+
+55
+00:02:02,590 --> 00:02:04,610
+a passive manner typically is how we
+
+56
+00:02:04,610 --> 00:02:06,430
+like to be installed passive okay but
+
+57
+00:02:06,430 --> 00:02:08,250
+we do have multiple options there so
+
+58
+00:02:08,250 --> 00:02:10,250
+it could be passive pump to gravity
+
+59
+00:02:10,250 --> 00:02:12,030
+or pressurized depending on your slope
+
+60
+00:02:12,030 --> 00:02:13,170
+if you don't have a level site
+
+61
+00:02:13,170 --> 00:02:15,310
+or I've seen some crazy ones where
+
+62
+00:02:15,310 --> 00:02:17,030
+the field's half a mile away from
+
+63
+00:02:17,030 --> 00:02:17,970
+the home You got to get it
+
+64
+00:02:17,970 --> 00:02:20,590
+from the septic tank all the way
+
+65
+00:02:20,590 --> 00:02:21,400
+out to the field
+
+66
+00:02:22,050 --> 00:02:23,560
+So tight lots
+
+67
+00:02:23,730 --> 00:02:24,740
+high water table
+
+68
+00:02:24,790 --> 00:02:26,000
+so those limiting layers
+
+69
+00:02:26,610 --> 00:02:29,770
+I think what really sets our product
+
+70
+00:02:29,770 --> 00:02:32,790
+apart from others is that it treats
+
+71
+00:02:32,790 --> 00:02:33,930
+to such a high level
+
+72
+00:02:33,930 --> 00:02:35,910
+but without any electricity
+
+73
+00:02:35,910 --> 00:02:37,930
+That's the passive part that Jimmy was
+
+74
+00:02:37,930 --> 00:02:38,820
+referring to
+
+75
+00:02:38,970 --> 00:02:41,500
+So that also
+
+76
+00:02:41,630 --> 00:02:43,760
+there's way less maintenance
+
+77
+00:02:43,970 --> 00:02:44,170
+Yeah
+
+78
+00:02:44,170 --> 00:02:44,740
+Yeah
+
+79
+00:02:45,310 --> 00:02:47,350
+So that's obviously a higher cost to
+
+80
+00:02:47,350 --> 00:02:48,100
+the homeowner
+
+81
+00:02:48,350 --> 00:02:51,230
+And is that how an installer would
+
+82
+00:02:51,230 --> 00:02:53,530
+usually kind of sell it or pitch
+
+83
+00:02:53,530 --> 00:02:54,430
+it to the homeowner?
+
+84
+00:02:54,430 --> 00:02:56,390
+Is that it's going to treat it
+
+85
+00:02:56,390 --> 00:02:57,670
+you're going to have less issues
+
+86
+00:02:57,670 --> 00:02:59,090
+and there's no electricity?
+
+87
+00:02:59,090 --> 00:03:00,810
+I wouldn't necessarily say it is a
+
+88
+00:03:00,810 --> 00:03:01,690
+higher cost
+
+89
+00:03:01,690 --> 00:03:03,250
+So you are paying for a treatment
+
+90
+00:03:03,250 --> 00:03:03,860
+product
+
+91
+00:03:03,890 --> 00:03:05,670
+But depending on the code and how
+
+92
+00:03:05,670 --> 00:03:06,690
+they value treatment
+
+93
+00:03:06,690 --> 00:03:08,610
+you get a reduction in field size
+
+94
+00:03:08,610 --> 00:03:10,330
+So if you need to have 1,200
+
+95
+00:03:10,330 --> 00:03:12,830
+square feet of rock and pipe and
+
+96
+00:03:12,830 --> 00:03:13,830
+I can get that down to 600
+
+97
+00:03:13,830 --> 00:03:15,310
+square feet you might be paying a
+
+98
+00:03:15,310 --> 00:03:16,370
+little bit more for a treatment
+
+99
+00:03:16,370 --> 00:03:18,470
+product but you're doing half of a
+
+100
+00:03:18,470 --> 00:03:19,440
+field at this point
+
+101
+00:03:20,570 --> 00:03:21,650
+And like you said
+
+102
+00:03:21,650 --> 00:03:23,570
+the codes some codes are forcing that
+
+103
+00:03:23,570 --> 00:03:24,680
+treatment you know
+
+104
+00:03:24,730 --> 00:03:26,310
+So that's one of the options you
+
+105
+00:03:26,310 --> 00:03:27,120
+have to go to
+
+106
+00:03:27,150 --> 00:03:28,580
+lake lots and things of that nature
+
+107
+00:03:29,870 --> 00:03:31,800
+Yeah more sensitive areas
+
+108
+00:03:31,830 --> 00:03:33,710
+But because it's providing such a high
+
+109
+00:03:33,710 --> 00:03:34,530
+level of treatment
+
+110
+00:03:34,530 --> 00:03:35,910
+we can often get closer to
+
+111
+00:03:35,910 --> 00:03:36,310
+groundwater
+
+112
+00:03:36,310 --> 00:03:40,050
+so where a you know a homeowner
+
+113
+00:03:40,050 --> 00:03:41,590
+with a stone and pipe would have
+
+114
+00:03:41,590 --> 00:03:42,850
+to have like a huge mound in
+
+115
+00:03:42,850 --> 00:03:45,370
+their yard you know often they don't
+
+116
+00:03:45,370 --> 00:03:46,950
+and that ends up being a huge
+
+117
+00:03:46,950 --> 00:03:50,800
+cost savings as well most homeowners
+
+118
+00:03:51,150 --> 00:03:54,010
+look at that initial bill oh gosh
+
+119
+00:03:54,010 --> 00:03:56,410
+you know because they have to come
+
+120
+00:03:56,410 --> 00:03:57,550
+up with that money right now they
+
+121
+00:03:57,550 --> 00:03:58,990
+don't often think about the
+
+122
+00:03:58,990 --> 00:04:03,650
+reoccurring cost of the O&M that other
+
+123
+00:04:03,650 --> 00:04:05,730
+systems would have to be you know
+
+124
+00:04:05,730 --> 00:04:08,210
+are required yeah but yeah there it
+
+125
+00:04:08,210 --> 00:04:11,030
+is a big difference there you know
+
+126
+00:04:11,030 --> 00:04:12,410
+no maintenance or very little
+
+127
+00:04:12,410 --> 00:04:13,470
+maintenance you still have to pump the
+
+128
+00:04:13,470 --> 00:04:14,990
+septic tank clean the effluent filter
+
+129
+00:04:14,990 --> 00:04:16,870
+but very little maintenance
+
+130
+00:04:16,870 --> 00:04:19,930
+comparatively do you guys work
+
+131
+00:04:19,930 --> 00:04:22,570
+directly with installers or mainly
+
+132
+00:04:22,570 --> 00:04:24,690
+with designers kind of where do you
+
+133
+00:04:24,690 --> 00:04:26,930
+work with people it's an interesting
+
+134
+00:04:26,930 --> 00:04:30,310
+question yeah it's really hard you go
+
+135
+00:04:30,310 --> 00:04:32,430
+back to code in your area your
+
+136
+00:04:32,430 --> 00:04:34,750
+region your states yeah certain states
+
+137
+00:04:34,750 --> 00:04:37,430
+are engineered only yeah so it's an
+
+138
+00:04:37,430 --> 00:04:38,930
+engineered only I do want to focus
+
+139
+00:04:38,930 --> 00:04:40,590
+primarily in that state with working
+
+140
+00:04:40,590 --> 00:04:43,010
+with my engineers you know stay on
+
+141
+00:04:43,010 --> 00:04:44,030
+their good side make sure we're
+
+142
+00:04:44,030 --> 00:04:47,230
+getting proper designs right but you
+
+143
+00:04:47,230 --> 00:04:48,710
+also you have to make sure you're
+
+144
+00:04:48,710 --> 00:04:49,690
+maintaining contact with the
+
+145
+00:04:49,690 --> 00:04:51,070
+installers the boots on the ground
+
+146
+00:04:51,070 --> 00:04:52,970
+right we want to take quality installs
+
+147
+00:04:52,970 --> 00:04:54,290
+you know I want them to be
+
+148
+00:04:54,290 --> 00:04:55,890
+knowledgeable so yeah there's
+
+149
+00:04:55,890 --> 00:04:57,130
+something off on a design that I
+
+150
+00:04:57,130 --> 00:04:59,070
+haven't looked at or they're on site
+
+151
+00:04:59,070 --> 00:05:00,385
+and it doesn't make sense to what's
+
+152
+00:05:00,385 --> 00:05:03,845
+out there because they know so it's
+
+153
+00:05:03,845 --> 00:05:05,285
+a tough market to work in and
+
+154
+00:05:05,285 --> 00:05:07,325
+I can't just pick one specific one
+
+155
+00:05:07,325 --> 00:05:10,465
+it varies yeah we do provide support
+
+156
+00:05:10,465 --> 00:05:12,785
+to homeowners to installers to the
+
+157
+00:05:12,785 --> 00:05:14,945
+designers to the health departments so
+
+158
+00:05:14,945 --> 00:05:17,825
+it really depends on the code some
+
+159
+00:05:17,825 --> 00:05:21,385
+will be heavily involved with the you
+
+160
+00:05:21,385 --> 00:05:23,585
+know the local regulators of hey what
+
+161
+00:05:23,585 --> 00:05:25,205
+about this what's going on here they
+
+162
+00:05:25,205 --> 00:05:26,865
+want to know from the manufacturer
+
+163
+00:05:26,865 --> 00:05:29,145
+whereas other areas we only get calls
+
+164
+00:05:29,145 --> 00:05:32,505
+from the designers yeah so it's very
+
+165
+00:05:32,505 --> 00:05:36,845
+code specific yeah and many states or
+
+166
+00:05:36,845 --> 00:05:39,825
+areas really focus on that education
+
+167
+00:05:39,825 --> 00:05:41,965
+piece and so when we're going out
+
+168
+00:05:41,965 --> 00:05:43,545
+and doing that training so they can
+
+169
+00:05:43,545 --> 00:05:46,565
+get continuing education that does put
+
+170
+00:05:46,565 --> 00:05:49,105
+us more in touch with those installers
+
+171
+00:05:49,105 --> 00:05:51,025
+and designers as well so yeah it's
+
+172
+00:05:51,025 --> 00:05:51,745
+kind of a mixed bag
+
+173
+00:05:51,745 --> 00:05:53,365
+yeah it's a little bit of the
+
+174
+00:05:53,365 --> 00:05:55,145
+Wild West still in the on-site
+
+175
+00:05:55,145 --> 00:05:57,285
+industry in the United States it's
+
+176
+00:05:57,285 --> 00:05:59,385
+just kind of any county's game
+
+177
+00:05:59,385 --> 00:06:01,125
+basically right you get to certain
+
+178
+00:06:01,125 --> 00:06:02,745
+states and it's all county-based
+
+179
+00:06:02,745 --> 00:06:05,025
+approvals as well so you know yeah
+
+180
+00:06:05,025 --> 00:06:06,505
+it can be the Wild West up
+
+181
+00:06:06,505 --> 00:06:09,065
+there for sure so what is the
+
+182
+00:06:09,065 --> 00:06:12,005
+most difficult or odd system you've
+
+183
+00:06:12,005 --> 00:06:13,505
+ever worked on before that you had
+
+184
+00:06:13,505 --> 00:06:15,685
+to really dig deep to engineer it
+
+185
+00:06:15,685 --> 00:06:18,005
+I would say all of Georgia yeah
+
+186
+00:06:18,005 --> 00:06:19,405
+I was gonna say there's a lot
+
+187
+00:06:19,405 --> 00:06:20,625
+of a lot of difficult things that
+
+188
+00:06:20,625 --> 00:06:22,585
+go on in Georgia but the soils
+
+189
+00:06:22,585 --> 00:06:24,805
+are can be so bad yeah they
+
+190
+00:06:24,805 --> 00:06:27,685
+go you know 120 minutes per inch
+
+191
+00:06:27,685 --> 00:06:29,365
+so it's a really slow group four
+
+192
+00:06:29,365 --> 00:06:31,585
+class four soil that they have and
+
+193
+00:06:31,585 --> 00:06:33,045
+then they've got a ridiculous slope on
+
+194
+00:06:33,045 --> 00:06:34,925
+site as well and then they have
+
+195
+00:06:34,925 --> 00:06:36,365
+a high water table as well so
+
+196
+00:06:36,365 --> 00:06:38,325
+you get just like every factor against
+
+197
+00:06:38,325 --> 00:06:40,505
+you know yeah everything I preach I
+
+198
+00:06:40,505 --> 00:06:41,625
+can get closer I can do these
+
+199
+00:06:41,625 --> 00:06:42,805
+sites so then I really have to
+
+200
+00:06:42,805 --> 00:06:44,485
+work my magic so we'll work with
+
+201
+00:06:44,485 --> 00:06:45,585
+the health departments and the local
+
+202
+00:06:45,585 --> 00:06:47,145
+designers on what is the best case
+
+203
+00:06:47,145 --> 00:06:49,625
+scenario to make that site work yeah
+
+204
+00:06:49,625 --> 00:06:51,685
+we've learned a lot from Georgia just
+
+205
+00:06:51,685 --> 00:06:53,205
+because it is so challenging yeah
+
+206
+00:06:53,205 --> 00:06:55,125
+we've been so successful there and so
+
+207
+00:06:55,125 --> 00:06:57,185
+it's that's great it's a great market
+
+208
+00:06:57,185 --> 00:06:59,585
+for us but it's also really helped
+
+209
+00:06:59,585 --> 00:07:02,765
+us with other difficult sites what
+
+210
+00:07:02,765 --> 00:07:04,405
+kind of law is a GSF made
+
+211
+00:07:04,405 --> 00:07:06,245
+for like what's kind of your ideal
+
+212
+00:07:06,245 --> 00:07:08,225
+scenario where like you look at that
+
+213
+00:07:08,225 --> 00:07:09,705
+lot and you said it definitely should
+
+214
+00:07:09,705 --> 00:07:11,695
+have a GSF in it I would
+
+215
+00:07:11,695 --> 00:07:14,475
+say sensitive areas like near lakes
+
+216
+00:07:14,475 --> 00:07:19,075
+water streams coastal areas also those
+
+217
+00:07:19,075 --> 00:07:22,435
+really tight lots yeah where nothing
+
+218
+00:07:22,435 --> 00:07:24,835
+else is really going to fit and
+
+219
+00:07:24,835 --> 00:07:26,335
+because they're modular I mean we can
+
+220
+00:07:26,335 --> 00:07:29,695
+do trenches that go around borders or
+
+221
+00:07:29,695 --> 00:07:31,875
+kind of stay away from you know
+
+222
+00:07:31,875 --> 00:07:33,655
+the whatever the offset is so it's
+
+223
+00:07:33,655 --> 00:07:36,615
+like a boundary like a property line
+
+224
+00:07:36,615 --> 00:07:39,115
+or staying away from the house or
+
+225
+00:07:39,115 --> 00:07:41,175
+a well yeah it can really be
+
+226
+00:07:41,175 --> 00:07:43,705
+modular and then also that flexibility
+
+227
+00:07:44,055 --> 00:07:46,275
+helps us with whatever the terrain is
+
+228
+00:07:46,275 --> 00:07:49,275
+yeah that is nice yeah because you
+
+229
+00:07:49,275 --> 00:07:50,705
+don't often get a choice
+
+230
+00:07:51,200 --> 00:07:53,140
+as yeah as that homeowner you only
+
+231
+00:07:53,140 --> 00:07:54,900
+have so much property so I think
+
+232
+00:07:54,900 --> 00:07:57,920
+that's our main bread and butter is
+
+233
+00:07:57,920 --> 00:07:59,960
+the difficult ones the ones that
+
+234
+00:07:59,960 --> 00:08:02,380
+nothing else would fit yeah it does
+
+235
+00:08:02,380 --> 00:08:05,800
+stuff for us yeah yeah that's why
+
+236
+00:08:05,800 --> 00:08:07,080
+we're well educated so we know what
+
+237
+00:08:07,080 --> 00:08:09,260
+we're going getting into yeah I think
+
+238
+00:08:09,260 --> 00:08:11,460
+that also lends because we get the
+
+239
+00:08:11,460 --> 00:08:14,320
+tough ones we've yeah it's kind of
+
+240
+00:08:14,320 --> 00:08:16,460
+a forged by fire right right it's
+
+241
+00:08:16,460 --> 00:08:17,680
+either works or it doesn't y 'all
+
+242
+00:08:17,680 --> 00:08:19,540
+are the problem solvers it helps us
+
+243
+00:08:19,540 --> 00:08:22,200
+refine you know our design criteria
+
+244
+00:08:22,200 --> 00:08:24,620
+and what our system can and can't
+
+245
+00:08:24,620 --> 00:08:27,400
+do yeah so it's I was gonna
+
+246
+00:08:27,400 --> 00:08:29,200
+say I'd love a site 10 minutes
+
+247
+00:08:29,200 --> 00:08:31,580
+per inch five feet to water but
+
+248
+00:08:31,580 --> 00:08:34,460
+it's never ideal you know zero slope
+
+249
+00:08:34,460 --> 00:08:37,240
+yeah so When you see these systems
+
+250
+00:08:37,240 --> 00:08:39,780
+installed what is the most common
+
+251
+00:08:39,780 --> 00:08:42,060
+mistake you see happening when it's
+
+252
+00:08:42,060 --> 00:08:43,960
+being installed that's going to make
+
+253
+00:08:43,960 --> 00:08:46,120
+it not work or make the life
+
+254
+00:08:46,120 --> 00:08:47,620
+span not last as long?
+
+255
+00:08:47,620 --> 00:08:48,580
+What can people do
+
+256
+00:08:48,580 --> 00:08:49,720
+what can the installers do to make
+
+257
+00:08:49,720 --> 00:08:50,950
+sure that it's installed correctly?
+
+258
+00:08:51,730 --> 00:08:54,080
+So we have training on our website
+
+259
+00:08:54,130 --> 00:08:55,010
+it's free you know
+
+260
+00:08:55,010 --> 00:08:56,890
+we've got a refresher course for
+
+261
+00:08:56,890 --> 00:08:57,640
+installers
+
+262
+00:08:58,030 --> 00:09:00,130
+I'd say probably one of the common
+
+263
+00:09:00,130 --> 00:09:02,250
+things that I may see on site
+
+264
+00:09:02,250 --> 00:09:03,150
+is just the fabric
+
+265
+00:09:03,150 --> 00:09:05,430
+making sure that it's placed
+
+266
+00:09:05,430 --> 00:09:07,070
+appropriately right we don't want any
+
+267
+00:09:07,070 --> 00:09:09,170
+tenting above the unit so placing the
+
+268
+00:09:09,170 --> 00:09:11,650
+fabric the right way it's probably the
+
+269
+00:09:11,650 --> 00:09:13,570
+one common thing that they may miss
+
+270
+00:09:13,570 --> 00:09:14,640
+but everything else pretty
+
+271
+00:09:15,210 --> 00:09:16,970
+we're flipping the units upside down
+
+272
+00:09:16,970 --> 00:09:19,750
+you'll see that every now we try
+
+273
+00:09:19,750 --> 00:09:21,490
+to hammer it into like okay this
+
+274
+00:09:21,490 --> 00:09:23,150
+is the way up this way up
+
+275
+00:09:23,150 --> 00:09:25,290
+there's a spray painting line and
+
+276
+00:09:25,290 --> 00:09:27,430
+we've also put new marketing logos on
+
+277
+00:09:27,430 --> 00:09:29,010
+there to show that this is the
+
+278
+00:09:29,010 --> 00:09:29,750
+right side of it
+
+279
+00:09:29,750 --> 00:09:31,470
+Yeah but it will work either way
+
+280
+00:09:31,470 --> 00:09:33,010
+but it obviously works better when
+
+281
+00:09:33,010 --> 00:09:33,840
+it's right side of it
+
+282
+00:09:33,970 --> 00:09:36,450
+And I think the other things that
+
+283
+00:09:36,450 --> 00:09:38,040
+we see like common mistakes
+
+284
+00:09:38,190 --> 00:09:40,730
+really aren't specific to the GSF
+
+285
+00:09:40,730 --> 00:09:41,790
+It's more of
+
+286
+00:09:41,790 --> 00:09:43,180
+you know
+
+287
+00:09:43,630 --> 00:09:45,920
+proper venting not so much cover
+
+288
+00:09:47,490 --> 00:09:49,010
+using the right materials
+
+289
+00:09:49,010 --> 00:09:50,570
+You know like there's different
+
+290
+00:09:50,570 --> 00:09:52,500
+gradations of sand and
+
+291
+00:09:52,590 --> 00:09:53,910
+you know there is specific sand that
+
+292
+00:09:53,910 --> 00:09:55,120
+you have to use for our stuff
+
+293
+00:09:55,170 --> 00:09:55,640
+So
+
+294
+00:09:56,110 --> 00:09:57,430
+you know not smearing
+
+295
+00:09:57,430 --> 00:10:00,910
+making sure the soil isn't super damp
+
+296
+00:10:00,910 --> 00:10:03,130
+so you get you know those types
+
+297
+00:10:03,130 --> 00:10:06,030
+of issues so it's mainly just common
+
+298
+00:10:06,030 --> 00:10:08,630
+things that would work in any system
+
+299
+00:10:08,630 --> 00:10:10,070
+that you really want to focus on
+
+300
+00:10:10,070 --> 00:10:12,450
+but some states are much better than
+
+301
+00:10:12,450 --> 00:10:15,250
+others like some really focus on that
+
+302
+00:10:15,250 --> 00:10:17,190
+education and so they're you know
+
+303
+00:10:17,190 --> 00:10:19,110
+their installers is top notch they
+
+304
+00:10:19,110 --> 00:10:21,410
+know their business and others it's
+
+305
+00:10:21,410 --> 00:10:23,190
+they got certified 50 years ago and
+
+306
+00:10:23,190 --> 00:10:24,570
+nobody ever talked to him again you
+
+307
+00:10:24,570 --> 00:10:27,550
+know it's yeah so we definitely see
+
+308
+00:10:27,550 --> 00:10:29,810
+regions of those mistakes and then
+
+309
+00:10:29,810 --> 00:10:32,350
+others where and these guys are
+
+310
+00:10:32,350 --> 00:10:35,130
+fantastic yeah that's great what sort
+
+311
+00:10:35,130 --> 00:10:37,710
+of maintenance does the GSF need over
+
+312
+00:10:37,710 --> 00:10:40,230
+its lifetime so that's a it's a
+
+313
+00:10:40,230 --> 00:10:43,250
+great question typically we're no low
+
+314
+00:10:43,250 --> 00:10:44,770
+to no maintenance on the gravity
+
+315
+00:10:44,770 --> 00:10:46,510
+filter system so it would be the
+
+316
+00:10:46,510 --> 00:10:47,630
+same exact thing you're doing on a
+
+317
+00:10:47,630 --> 00:10:49,410
+conventional system routine pumping of
+
+318
+00:10:49,410 --> 00:10:51,010
+that septic tank and cleaning that
+
+319
+00:10:51,010 --> 00:10:54,190
+effluent filter on the site just like
+
+320
+00:10:54,190 --> 00:10:55,530
+any other system if you get into
+
+321
+00:10:55,530 --> 00:10:57,510
+pumps or a pressurized system there is
+
+322
+00:10:57,510 --> 00:10:59,250
+going to be that annual maintenance on
+
+323
+00:10:59,250 --> 00:11:00,530
+the pump you want to make sure
+
+324
+00:11:00,530 --> 00:11:01,970
+that that's all good to go on
+
+325
+00:11:01,970 --> 00:11:03,550
+the pressurized lines those want to be
+
+326
+00:11:03,550 --> 00:11:05,690
+those need to be jetted annually where
+
+327
+00:11:05,690 --> 00:11:06,790
+there's no sludge or anything that's
+
+328
+00:11:06,790 --> 00:11:07,770
+going to build up inside of those
+
+329
+00:11:07,770 --> 00:11:09,910
+lines so if we if we're gravity
+
+330
+00:11:09,910 --> 00:11:12,350
+fed slow to no maintenance just
+
+331
+00:11:12,350 --> 00:11:13,670
+pumping to that septic tank and the
+
+332
+00:11:13,670 --> 00:11:15,770
+effluent filter okay yeah that's good
+
+333
+00:11:15,770 --> 00:11:19,210
+so kind of the northeastern part of
+
+334
+00:11:19,210 --> 00:11:21,210
+our country really slows down when it
+
+335
+00:11:21,210 --> 00:11:23,110
+gets cold you know everything freezes
+
+336
+00:11:23,110 --> 00:11:25,570
+and you know they have guys sort
+
+337
+00:11:25,570 --> 00:11:26,950
+of twiddling their thumbs and it's
+
+338
+00:11:26,950 --> 00:11:29,390
+hard to get business to you know
+
+339
+00:11:29,390 --> 00:11:31,130
+basically not bleed out during those
+
+340
+00:11:31,130 --> 00:11:33,130
+months so can the system be installed
+
+341
+00:11:33,130 --> 00:11:34,470
+in the winter and is there anything
+
+342
+00:11:34,470 --> 00:11:35,770
+that they need to do differently when
+
+343
+00:11:35,770 --> 00:11:36,910
+the ground is frozen I'm gonna say
+
+344
+00:11:36,910 --> 00:11:40,090
+this word again some codes okay some
+
+345
+00:11:40,090 --> 00:11:42,090
+codes will allow winter installs as
+
+346
+00:11:42,090 --> 00:11:43,910
+long as the frost line isn't too
+
+347
+00:11:43,910 --> 00:11:45,730
+deep or if there's no snow on
+
+348
+00:11:45,730 --> 00:11:48,370
+the ground okay we do not want
+
+349
+00:11:48,370 --> 00:11:49,530
+to install typically in a wet
+
+350
+00:11:49,530 --> 00:11:51,530
+environment we don't want smearing and
+
+351
+00:11:51,530 --> 00:11:53,610
+compacting of those soils so the
+
+352
+00:11:53,610 --> 00:11:55,450
+conditions do have to be just right
+
+353
+00:11:55,450 --> 00:11:56,630
+if it's gonna be a wintertime
+
+354
+00:11:56,630 --> 00:11:58,190
+installation yeah but we're pretty
+
+355
+00:11:58,190 --> 00:11:59,950
+popular in Wisconsin and I mean it
+
+356
+00:11:59,950 --> 00:12:01,370
+snows eight months out of the year
+
+357
+00:12:01,370 --> 00:12:06,420
+there yeah and Canada so those
+
+358
+00:12:06,750 --> 00:12:08,390
+conditions is weather conditions
+
+359
+00:12:08,390 --> 00:12:11,070
+really just about the soils how moist
+
+360
+00:12:11,070 --> 00:12:14,420
+they are they frozen you know so
+
+361
+00:12:14,420 --> 00:12:16,260
+yeah it really is dependent on the
+
+362
+00:12:16,260 --> 00:12:18,400
+zone the weather what's going on there
+
+363
+00:12:18,400 --> 00:12:19,700
+yeah and it really doesn't have
+
+364
+00:12:19,700 --> 00:12:21,000
+anything to do with the GSF it's
+
+365
+00:12:21,000 --> 00:12:22,840
+just any type of system okay yeah
+
+366
+00:12:22,840 --> 00:12:24,940
+and then the regulations that's
+
+367
+00:12:24,940 --> 00:12:25,250
+correct
+
+368
+00:12:26,140 --> 00:12:28,960
+I'm catching on yeah yeah that's
+
+369
+00:12:28,960 --> 00:12:31,280
+really good what changes in regulation
+
+370
+00:12:31,280 --> 00:12:33,210
+would you guys like to see
+
+371
+00:12:36,400 --> 00:12:37,870
+Yeah this one's interesting
+
+372
+00:12:37,960 --> 00:12:41,300
+So much of the regulation from state
+
+373
+00:12:41,300 --> 00:12:43,360
+to state when you talk about
+
+374
+00:12:43,360 --> 00:12:46,850
+treatment is focused on ATUs
+
+375
+00:12:47,040 --> 00:12:48,580
+aerobic treatment units or advanced
+
+376
+00:12:48,580 --> 00:12:49,410
+treatment units
+
+377
+00:12:50,720 --> 00:12:52,450
+And that code
+
+378
+00:12:52,500 --> 00:12:54,250
+because it's written for that
+
+379
+00:12:54,580 --> 00:12:58,200
+trying to get our technology into that
+
+380
+00:12:58,200 --> 00:13:00,780
+code is extremely difficult because
+
+381
+00:13:00,780 --> 00:13:02,060
+they're talking about treatment levels
+
+382
+00:13:02,060 --> 00:13:02,520
+and stuff
+
+383
+00:13:02,520 --> 00:13:03,420
+Yeah we reach that
+
+384
+00:13:03,420 --> 00:13:06,440
+but at the bottom of the system
+
+385
+00:13:06,440 --> 00:13:08,810
+when it's reaching the soils
+
+386
+00:13:09,080 --> 00:13:10,960
+And so many states are like
+
+387
+00:13:10,960 --> 00:13:12,530
+oh yeah we need this tested
+
+388
+00:13:12,680 --> 00:13:15,620
+We want to confirm your treatment
+
+389
+00:13:15,620 --> 00:13:16,130
+values
+
+390
+00:13:16,880 --> 00:13:19,440
+That's easy to do when it's an
+
+391
+00:13:19,440 --> 00:13:21,700
+enclosed environment like an ATU
+
+392
+00:13:21,700 --> 00:13:22,600
+You just scoop some out
+
+393
+00:13:22,600 --> 00:13:23,450
+All right you're good to go
+
+394
+00:13:23,960 --> 00:13:25,700
+It's a little more finicky when it's
+
+395
+00:13:25,700 --> 00:13:27,170
+in the soil itself
+
+396
+00:13:27,280 --> 00:13:29,420
+And so we find it very difficult
+
+397
+00:13:29,420 --> 00:13:32,220
+for the regulators and the approving
+
+398
+00:13:32,220 --> 00:13:34,260
+officials to kind of navigate their
+
+399
+00:13:34,260 --> 00:13:38,880
+code for this unique technology to
+
+400
+00:13:38,880 --> 00:13:40,110
+kind of fit into it
+
+401
+00:13:40,180 --> 00:13:43,000
+So I think that's probably the biggest
+
+402
+00:13:43,000 --> 00:13:44,490
+struggle that we have
+
+403
+00:13:45,120 --> 00:13:47,810
+That and states have been burned
+
+404
+00:13:47,940 --> 00:13:48,260
+right?
+
+405
+00:13:48,260 --> 00:13:50,500
+They've had somebody come in to sell
+
+406
+00:13:50,500 --> 00:13:51,450
+some snake oil
+
+407
+00:13:51,580 --> 00:13:54,510
+And they've had terrible experiences
+
+408
+00:13:54,510 --> 00:13:57,180
+which created a whole mess for them
+
+409
+00:13:57,230 --> 00:13:58,470
+So they're very
+
+410
+00:13:58,470 --> 00:14:00,230
+very cautious when it comes to new
+
+411
+00:14:00,230 --> 00:14:01,550
+or different technology
+
+412
+00:14:01,550 --> 00:14:04,050
+and you know for a good reason
+
+413
+00:14:04,050 --> 00:14:07,250
+right so that's also a difficult part
+
+414
+00:14:07,250 --> 00:14:09,770
+of it and when they try to
+
+415
+00:14:09,770 --> 00:14:11,110
+update their code to prevent those
+
+416
+00:14:11,110 --> 00:14:13,110
+type of things from happening it just
+
+417
+00:14:13,110 --> 00:14:15,290
+makes it really really difficult for
+
+418
+00:14:15,290 --> 00:14:19,030
+them to you know extend right you
+
+419
+00:14:19,030 --> 00:14:21,410
+know that grace to allow a new
+
+420
+00:14:21,410 --> 00:14:23,610
+company or a new treatment or
+
+421
+00:14:23,610 --> 00:14:25,970
+especially when it's a unique you know
+
+422
+00:14:25,970 --> 00:14:27,230
+it doesn't fit in the box to
+
+423
+00:14:27,230 --> 00:14:29,680
+what other treatment systems are
+
+424
+00:14:29,870 --> 00:14:32,390
+Yeah that innovative technology is
+
+425
+00:14:32,390 --> 00:14:35,060
+it's needed in the industry
+
+426
+00:14:35,170 --> 00:14:37,850
+but getting everyone on board is a
+
+427
+00:14:37,850 --> 00:14:38,330
+challenge
+
+428
+00:14:38,330 --> 00:14:40,430
+Right yeah it really is
+
+429
+00:14:40,430 --> 00:14:41,650
+Yeah so hopefully it's a good
+
+430
+00:14:41,650 --> 00:14:42,830
+conversation you know
+
+431
+00:14:42,830 --> 00:14:43,940
+for people who listen
+
+432
+00:14:43,990 --> 00:14:46,210
+more can understand kind of the
+
+433
+00:14:46,210 --> 00:14:48,280
+benefits of it and what we're facing
+
+434
+00:14:48,370 --> 00:14:50,550
+and I think the more that demand
+
+435
+00:14:50,550 --> 00:14:52,820
+increases for this kind of thing
+
+436
+00:14:52,890 --> 00:14:55,380
+hopefully the regulations will follow
+
+437
+00:14:55,990 --> 00:14:58,090
+that would be great yeah and you
+
+438
+00:14:58,090 --> 00:15:00,570
+know it's not like the GSF is
+
+439
+00:15:00,570 --> 00:15:02,270
+a you know spring chicken like it's
+
+440
+00:15:02,270 --> 00:15:04,910
+been around since the the late 80s
+
+441
+00:15:04,910 --> 00:15:07,550
+and so I think this year we're
+
+442
+00:15:07,550 --> 00:15:10,910
+gonna pass five million units that
+
+443
+00:15:10,910 --> 00:15:13,910
+have been sold and so we have
+
+444
+00:15:13,910 --> 00:15:16,190
+an incredibly good track record this
+
+445
+00:15:16,190 --> 00:15:18,210
+thing has been doing really well and
+
+446
+00:15:18,210 --> 00:15:20,550
+so just because it's unique and
+
+447
+00:15:20,550 --> 00:15:22,190
+different doesn't mean We don't have
+
+448
+00:15:22,190 --> 00:15:23,580
+the history the testing
+
+449
+00:15:23,730 --> 00:15:28,970
+and regulatory precedent that other
+
+450
+00:15:28,970 --> 00:15:30,610
+places have used it for a long
+
+451
+00:15:30,610 --> 00:15:32,500
+time like 30-plus years
+
+452
+00:15:32,610 --> 00:15:34,590
+Yeah that's a very long time
+
+453
+00:15:34,590 --> 00:15:35,990
+So do you guys have
+
+454
+00:15:35,990 --> 00:15:37,870
+obviously your own testing data
+
+455
+00:15:37,870 --> 00:15:38,670
+behind it?
+
+456
+00:15:38,670 --> 00:15:40,130
+Do you have any third-party testing
+
+457
+00:15:40,130 --> 00:15:41,750
+data or anything that you've done with
+
+458
+00:15:41,750 --> 00:15:44,010
+maybe universities or anything like
+
+459
+00:15:44,010 --> 00:15:45,180
+that kind of stuff?
+
+460
+00:15:45,270 --> 00:15:46,270
+Yeah matter of fact
+
+461
+00:15:46,270 --> 00:15:47,420
+we're the testing guys
+
+462
+00:15:47,430 --> 00:15:48,710
+Okay perfect
+
+463
+00:15:48,710 --> 00:15:50,750
+We use a couple places throughout
+
+464
+00:15:50,750 --> 00:15:52,100
+America where we install
+
+465
+00:15:52,250 --> 00:15:53,710
+test our system in different
+
+466
+00:15:53,710 --> 00:15:54,420
+scenarios
+
+467
+00:15:54,650 --> 00:15:55,930
+I'm not going to get involved in
+
+468
+00:15:55,930 --> 00:15:56,710
+the secrets out there
+
+469
+00:15:56,710 --> 00:15:59,110
+but we do use the licensed third-party
+
+470
+00:15:59,110 --> 00:16:00,270
+testing to make sure everything's
+
+471
+00:16:00,270 --> 00:16:02,010
+accurate and all the numbers are
+
+472
+00:16:02,010 --> 00:16:02,500
+accurate
+
+473
+00:16:02,770 --> 00:16:05,590
+We've been tested third-party in
+
+474
+00:16:05,590 --> 00:16:07,480
+Canada Australia
+
+475
+00:16:08,010 --> 00:16:11,590
+Sweden and in quite a few locations
+
+476
+00:16:11,590 --> 00:16:12,920
+here in the United States
+
+477
+00:16:13,030 --> 00:16:13,280
+Yeah
+
+478
+00:16:13,950 --> 00:16:14,750
+that's really cool
+
+479
+00:16:14,750 --> 00:16:16,390
+climates as well so you've got some
+
+480
+00:16:16,390 --> 00:16:18,610
+in you know the northern freezing
+
+481
+00:16:18,610 --> 00:16:19,950
+climates Zone 7
+
+482
+00:16:19,950 --> 00:16:22,110
+yeah baby and you got some in
+
+483
+00:16:22,110 --> 00:16:23,850
+the Gulf down there so you've got
+
+484
+00:16:23,850 --> 00:16:25,430
+a nice warm climate to see how
+
+485
+00:16:25,430 --> 00:16:27,990
+they act so yeah what's your biggest
+
+486
+00:16:27,990 --> 00:16:30,250
+non-north American market do you or do
+
+487
+00:16:30,250 --> 00:16:32,150
+you actively sell to like Australia
+
+488
+00:16:32,150 --> 00:16:34,030
+yeah probably Australia I think
+
+489
+00:16:34,030 --> 00:16:36,070
+Australia yeah their code is very
+
+490
+00:16:36,070 --> 00:16:38,210
+unique and so are their soils but
+
+491
+00:16:38,210 --> 00:16:42,350
+it is a different world there because
+
+492
+00:16:42,350 --> 00:16:44,170
+the majority of Australia is that
+
+493
+00:16:44,170 --> 00:16:47,330
+gigantic desert they have a lot of
+
+494
+00:16:47,330 --> 00:16:51,490
+water conservation and so the waste
+
+495
+00:16:51,490 --> 00:16:55,710
+strength is through the roof but we've
+
+496
+00:16:55,710 --> 00:16:58,270
+seen some really impressive numbers
+
+497
+00:16:58,270 --> 00:17:00,210
+coming out of there but just like
+
+498
+00:17:00,210 --> 00:17:02,270
+anywhere else you know that they want
+
+499
+00:17:02,270 --> 00:17:03,850
+to make sure that it works and
+
+500
+00:17:03,850 --> 00:17:06,790
+works well yeah and so yeah there's
+
+501
+00:17:06,790 --> 00:17:08,850
+a lot of development that's going on
+
+502
+00:17:08,850 --> 00:17:10,450
+there but that's probably our biggest
+
+503
+00:17:10,450 --> 00:17:13,790
+market outside okay y'all ever get to
+
+504
+00:17:13,790 --> 00:17:15,530
+go on a trip to Australia with
+
+505
+00:17:15,530 --> 00:17:16,280
+your testing
+
+506
+00:17:17,610 --> 00:17:19,110
+like he was saying it is it
+
+507
+00:17:19,110 --> 00:17:20,590
+is a lot going on there to
+
+508
+00:17:20,590 --> 00:17:22,350
+try and get the regulatory aspect and
+
+509
+00:17:22,350 --> 00:17:25,510
+everything worked out so typically
+
+510
+00:17:25,510 --> 00:17:27,170
+when the boss will make the trip
+
+511
+00:17:27,170 --> 00:17:28,550
+out it's usually like two weeks that
+
+512
+00:17:28,550 --> 00:17:30,070
+way you have enough time to try
+
+513
+00:17:30,070 --> 00:17:33,570
+and get everything done so he's been
+
+514
+00:17:33,570 --> 00:17:34,990
+keeping a pulse on that for the
+
+515
+00:17:34,990 --> 00:17:36,270
+last few years while getting it going
+
+516
+00:17:36,270 --> 00:17:38,870
+what does support look like for the
+
+517
+00:17:38,870 --> 00:17:41,450
+designer for the installer that needs
+
+518
+00:17:41,450 --> 00:17:44,010
+help troubleshooting I know you said
+
+519
+00:17:44,010 --> 00:17:45,930
+they have free videos on your website
+
+520
+00:17:45,930 --> 00:17:47,210
+what else can they do to get
+
+521
+00:17:47,210 --> 00:17:49,460
+support from you guys all of our
+
+522
+00:17:49,460 --> 00:17:50,980
+information is posted up there so if
+
+523
+00:17:50,980 --> 00:17:53,040
+they click on the website go to
+
+524
+00:17:53,040 --> 00:17:54,420
+industry professionals that doesn't
+
+525
+00:17:54,420 --> 00:17:56,340
+homeowner can do it install our
+
+526
+00:17:56,340 --> 00:17:58,040
+designer and click their state it's
+
+527
+00:17:58,040 --> 00:17:59,300
+going to give you my contact if
+
+528
+00:17:59,300 --> 00:18:01,160
+I'm your rep okay give you anybody
+
+529
+00:18:01,160 --> 00:18:03,500
+from our company's contact information
+
+530
+00:18:03,500 --> 00:18:04,560
+so you have a direct link to
+
+531
+00:18:04,560 --> 00:18:07,360
+our cell phone my email and we're
+
+532
+00:18:07,360 --> 00:18:09,160
+pretty good with you know a 24-hour
+
+533
+00:18:09,160 --> 00:18:10,880
+return policy on an email unless for
+
+534
+00:18:10,880 --> 00:18:12,500
+some reason we're out we're on
+
+535
+00:18:12,500 --> 00:18:14,260
+vacation yeah but we also share the
+
+536
+00:18:14,260 --> 00:18:17,020
+workload and Teams so you know if
+
+537
+00:18:17,020 --> 00:18:18,540
+he's out for a week I'll take
+
+538
+00:18:18,540 --> 00:18:21,520
+his calls yeah vice versa so and
+
+539
+00:18:21,520 --> 00:18:23,100
+they can reach out with anything they
+
+540
+00:18:23,100 --> 00:18:24,560
+got if it's an install question how
+
+541
+00:18:24,560 --> 00:18:26,740
+to get training when is the next
+
+542
+00:18:26,740 --> 00:18:29,570
+training we're gonna host design
+
+543
+00:18:29,570 --> 00:18:31,490
+review design reviews another big one
+
+544
+00:18:31,490 --> 00:18:33,650
+so everybody that everybody that
+
+545
+00:18:33,650 --> 00:18:35,630
+installs has to be certified with us
+
+546
+00:18:35,630 --> 00:18:36,720
+to install the product
+
+547
+00:18:37,530 --> 00:18:39,930
+And when they certify it through our
+
+548
+00:18:39,930 --> 00:18:41,760
+website it'll let the tech rep know
+
+549
+00:18:41,990 --> 00:18:44,830
+hey John certified today in your
+
+550
+00:18:44,830 --> 00:18:45,320
+state
+
+551
+00:18:45,350 --> 00:18:46,650
+So then I can call John and
+
+552
+00:18:46,650 --> 00:18:47,090
+say hey man
+
+553
+00:18:47,090 --> 00:18:48,190
+I'm so glad you got the training
+
+554
+00:18:48,190 --> 00:18:48,790
+done today
+
+555
+00:18:48,790 --> 00:18:50,110
+Do you have a design that was
+
+556
+00:18:50,110 --> 00:18:51,140
+already given to you?
+
+557
+00:18:51,190 --> 00:18:52,060
+Who'd it come from?
+
+558
+00:18:52,330 --> 00:18:53,190
+Can I see it?
+
+559
+00:18:53,190 --> 00:18:54,090
+And then we can go over that
+
+560
+00:18:54,090 --> 00:18:54,850
+the way he's already
+
+561
+00:18:54,850 --> 00:18:56,530
+you know ready to go as soon
+
+562
+00:18:56,530 --> 00:18:57,500
+as he gets to the site
+
+563
+00:18:57,610 --> 00:18:58,300
+That's great
+
+564
+00:18:58,690 --> 00:19:00,250
+What's probably the most common
+
+565
+00:19:00,250 --> 00:19:02,230
+question you field with this these
+
+566
+00:19:02,230 --> 00:19:03,990
+emails and phone calls that you're
+
+567
+00:19:03,990 --> 00:19:05,730
+getting what can I plant on top
+
+568
+00:19:05,730 --> 00:19:09,070
+of this thing yeah yeah you know
+
+569
+00:19:09,070 --> 00:19:10,650
+it's a it's a it's a drain
+
+570
+00:19:10,650 --> 00:19:12,290
+field so I'm not gonna be putting
+
+571
+00:19:12,290 --> 00:19:14,430
+carrots or something out there but you
+
+572
+00:19:14,430 --> 00:19:16,430
+know it's shallow root vegetables or
+
+573
+00:19:16,430 --> 00:19:18,830
+wildflowers they want to plant on top
+
+574
+00:19:18,830 --> 00:19:19,670
+of it if they want to plant
+
+575
+00:19:19,670 --> 00:19:21,430
+on top of it we got a
+
+576
+00:19:21,430 --> 00:19:22,970
+lot of questions about can I drive
+
+577
+00:19:22,970 --> 00:19:26,830
+over it yeah other questions and the
+
+578
+00:19:26,830 --> 00:19:28,950
+answer is no correct well it can
+
+579
+00:19:28,950 --> 00:19:31,390
+be designed like that but if it's
+
+580
+00:19:31,390 --> 00:19:34,030
+not you normally our manuals just talk
+
+581
+00:19:34,030 --> 00:19:36,590
+about a normal design where you're not
+
+582
+00:19:36,590 --> 00:19:38,330
+going to drive over but it can
+
+583
+00:19:38,330 --> 00:19:40,710
+be engineered to withstand those loads
+
+584
+00:19:40,710 --> 00:19:43,230
+it just has to be engineered right
+
+585
+00:19:43,230 --> 00:19:44,870
+you know but there's there's ways to
+
+586
+00:19:44,870 --> 00:19:46,090
+work around things so we had a
+
+587
+00:19:46,090 --> 00:19:50,310
+we had a farmer in Iowa that
+
+588
+00:19:50,310 --> 00:19:53,490
+his hay barn he has to drive
+
+589
+00:19:53,490 --> 00:19:56,170
+over his field and so we talked
+
+590
+00:19:56,170 --> 00:19:57,430
+to him about his tractor how much
+
+591
+00:19:57,430 --> 00:19:59,350
+weight it is and all that and
+
+592
+00:19:59,350 --> 00:20:01,110
+came up with a solution that he
+
+593
+00:20:01,110 --> 00:20:02,650
+just puts down some plywood to be
+
+594
+00:20:02,650 --> 00:20:03,970
+able to drive over because it's only
+
+595
+00:20:03,970 --> 00:20:05,710
+once a year when he loads up
+
+596
+00:20:05,710 --> 00:20:08,270
+his his hay you know during that
+
+597
+00:20:08,270 --> 00:20:10,210
+season and then doesn't do it anymore
+
+598
+00:20:10,210 --> 00:20:11,790
+and so that worked out for him
+
+599
+00:20:11,790 --> 00:20:14,010
+you know so we tried to not
+
+600
+00:20:14,010 --> 00:20:15,850
+just say no don't do that yeah
+
+601
+00:20:15,850 --> 00:20:19,430
+as best as possible because we do
+
+602
+00:20:19,430 --> 00:20:20,970
+want them to contact us it's a
+
+603
+00:20:20,970 --> 00:20:22,350
+hard no though we're not going to
+
+604
+00:20:22,350 --> 00:20:24,415
+recommend something that's gonna hurt
+
+605
+00:20:24,415 --> 00:20:25,795
+ourselves in the long run right that's
+
+606
+00:20:25,795 --> 00:20:27,715
+correct yeah we talk about it all
+
+607
+00:20:27,715 --> 00:20:31,515
+the time we do like inspections or
+
+608
+00:20:31,515 --> 00:20:32,895
+troubleshooting systems and one of the
+
+609
+00:20:32,895 --> 00:20:33,775
+one of the big things on there
+
+610
+00:20:33,775 --> 00:20:35,775
+is bending to a homeowner's will like
+
+611
+00:20:35,775 --> 00:20:36,575
+I really want to try and make
+
+612
+00:20:36,575 --> 00:20:39,015
+this work right yeah and something
+
+613
+00:20:39,015 --> 00:20:41,075
+some certain scenarios that will not
+
+614
+00:20:41,075 --> 00:20:42,755
+work at all for our system yeah
+
+615
+00:20:42,755 --> 00:20:46,395
+just got to make sure you're so
+
+616
+00:20:46,395 --> 00:20:48,415
+if someone wants to get started and
+
+617
+00:20:48,415 --> 00:20:50,455
+wants to get certified how long does
+
+618
+00:20:50,455 --> 00:20:53,235
+that process take about three days no
+
+619
+00:20:53,235 --> 00:20:55,115
+go to Eljen.com
+
+620
+00:20:55,115 --> 00:20:56,355
+and we've updated our website there's
+
+621
+00:20:56,355 --> 00:20:57,455
+a big blue button that says get
+
+622
+00:20:57,455 --> 00:20:59,535
+trained you put your information phone
+
+623
+00:20:59,535 --> 00:21:02,095
+number email make a username on there
+
+624
+00:21:02,095 --> 00:21:03,775
+and it'll send the rep to that
+
+625
+00:21:03,775 --> 00:21:06,395
+state your information and right now I
+
+626
+00:21:06,395 --> 00:21:07,735
+have it on hand I can give
+
+627
+00:21:07,735 --> 00:21:09,535
+you access to take the training and
+
+628
+00:21:09,535 --> 00:21:12,205
+we've got about a 20 minute training
+
+629
+00:21:12,635 --> 00:21:16,175
+video 40 slideshow training video that
+
+630
+00:21:16,175 --> 00:21:17,815
+we posted on our website we also
+
+631
+00:21:17,815 --> 00:21:19,415
+get the design manual You get all
+
+632
+00:21:19,415 --> 00:21:20,915
+the information for that state that
+
+633
+00:21:20,915 --> 00:21:21,835
+you're working out of
+
+634
+00:21:21,835 --> 00:21:23,555
+some case study stories
+
+635
+00:21:23,555 --> 00:21:24,555
+That way you can see some of
+
+636
+00:21:24,555 --> 00:21:27,285
+the difficult sites that we've worked
+
+637
+00:21:27,285 --> 00:21:27,715
+on
+
+638
+00:21:27,865 --> 00:21:28,465
+So I mean
+
+639
+00:21:28,465 --> 00:21:29,745
+you can get it done within a
+
+640
+00:21:29,745 --> 00:21:30,705
+half hour you know
+
+641
+00:21:30,705 --> 00:21:31,255
+the training
+
+642
+00:21:31,445 --> 00:21:33,255
+There's a test
+
+643
+00:21:33,605 --> 00:21:35,115
+There's a questionnaire afterwards
+
+644
+00:21:35,265 --> 00:21:36,385
+So we used to do this personally
+
+645
+00:21:36,385 --> 00:21:37,935
+with everybody on Microsoft Teams
+
+646
+00:21:37,985 --> 00:21:38,675
+Oh wow
+
+647
+00:21:38,705 --> 00:21:40,565
+And the training online takes about an
+
+648
+00:21:40,565 --> 00:21:41,145
+hour and a half
+
+649
+00:21:41,145 --> 00:21:42,325
+and I have 200 slides that I
+
+650
+00:21:42,325 --> 00:21:42,895
+go through
+
+651
+00:21:43,785 --> 00:21:44,585
+And you know
+
+652
+00:21:44,585 --> 00:21:46,805
+I'll still do it if somebody wants
+
+653
+00:21:46,805 --> 00:21:47,355
+to do that
+
+654
+00:21:47,385 --> 00:21:47,925
+The deep dive
+
+655
+00:21:47,925 --> 00:21:49,345
+I'm not going to talk about anybody's
+
+656
+00:21:49,345 --> 00:21:51,345
+age but there are some installers out
+
+657
+00:21:51,345 --> 00:21:53,455
+there that are ready to start
+
+658
+00:21:53,455 --> 00:21:55,955
+something new and they're not so tech
+
+659
+00:21:55,955 --> 00:21:57,045
+savvy on that side
+
+660
+00:21:57,395 --> 00:21:59,365
+so the option is still there
+
+661
+00:21:59,815 --> 00:22:00,415
+Yeah that's great
+
+662
+00:22:00,415 --> 00:22:01,955
+I've met quite a few that they
+
+663
+00:22:01,955 --> 00:22:03,145
+don't even have an email
+
+664
+00:22:03,195 --> 00:22:04,215
+they don't even have a cell phone
+
+665
+00:22:04,215 --> 00:22:06,565
+They're calling from their wives
+
+666
+00:22:06,695 --> 00:22:07,445
+Oh I know
+
+667
+00:22:08,075 --> 00:22:09,445
+I've met them before
+
+668
+00:22:09,595 --> 00:22:11,595
+Yeah I was in Texas
+
+669
+00:22:11,595 --> 00:22:13,075
+and I was talking to a lady
+
+670
+00:22:13,075 --> 00:22:13,875
+and she's I think
+
+671
+00:22:13,875 --> 00:22:16,995
+84 and she's doing it herself
+
+672
+00:22:16,995 --> 00:22:18,385
+She is the operator
+
+673
+00:22:18,535 --> 00:22:19,575
+Her name is Alligator Annie
+
+674
+00:22:19,575 --> 00:22:19,975
+And I was like
+
+675
+00:22:19,975 --> 00:22:21,235
+I got to connect with you
+
+676
+00:22:21,235 --> 00:22:22,745
+She's like I don't have a phone
+
+677
+00:22:23,035 --> 00:22:23,885
+you know?
+
+678
+00:22:24,635 --> 00:22:26,695
+So yeah that's definitely a real
+
+679
+00:22:26,695 --> 00:22:28,225
+thing for sure
+
+680
+00:22:28,315 --> 00:22:29,195
+But you know
+
+681
+00:22:29,195 --> 00:22:31,255
+they do good work and good on
+
+682
+00:22:31,255 --> 00:22:33,975
+them when they contact us because they
+
+683
+00:22:33,975 --> 00:22:34,815
+want that training
+
+684
+00:22:34,815 --> 00:22:35,925
+They've never seen it before
+
+685
+00:22:35,975 --> 00:22:36,285
+It's great
+
+686
+00:22:36,455 --> 00:22:37,735
+They're doing something new
+
+687
+00:22:37,735 --> 00:22:38,445
+That's fantastic
+
+688
+00:22:38,815 --> 00:22:39,405
+Yeah
+
+689
+00:22:39,735 --> 00:22:41,375
+So I like to ask everyone at
+
+690
+00:22:41,375 --> 00:22:43,535
+the end of every episode to give
+
+691
+00:22:43,535 --> 00:22:44,475
+a piece of advice
+
+692
+00:22:44,475 --> 00:22:46,655
+a piece of million dollar advice so
+
+693
+00:22:46,655 --> 00:22:48,455
+if you were to have a group
+
+694
+00:22:48,455 --> 00:22:51,065
+of installers or maybe designers
+
+695
+00:22:51,735 --> 00:22:53,175
+because that's really the main
+
+696
+00:22:53,175 --> 00:22:55,095
+audience here and you would give them
+
+697
+00:22:55,095 --> 00:22:56,635
+one piece of advice what would you
+
+698
+00:22:56,635 --> 00:22:58,395
+tell them that would really help them
+
+699
+00:22:58,395 --> 00:22:59,905
+in the process with their business
+
+700
+00:23:00,505 --> 00:23:02,285
+for me I'd say it's communication
+
+701
+00:23:02,285 --> 00:23:04,965
+that's the key to everything so be
+
+702
+00:23:04,965 --> 00:23:07,785
+open and honest yeah quick responses
+
+703
+00:23:07,785 --> 00:23:11,145
+and know your audience so I respond
+
+704
+00:23:11,145 --> 00:23:12,785
+everybody quickly and I think it helps
+
+705
+00:23:12,785 --> 00:23:14,485
+most of the time it's just a
+
+706
+00:23:14,485 --> 00:23:16,405
+conversation yeah keeping the
+
+707
+00:23:16,405 --> 00:23:17,725
+conversation going where's that
+
+708
+00:23:17,725 --> 00:23:19,625
+follow-up just to make sure you're
+
+709
+00:23:19,625 --> 00:23:20,885
+either getting the jobs or why didn't
+
+710
+00:23:20,885 --> 00:23:22,765
+we could get the job absolutely and
+
+711
+00:23:22,765 --> 00:23:24,005
+how do I fix that for the
+
+712
+00:23:24,005 --> 00:23:25,045
+next time I go to do that
+
+713
+00:23:25,045 --> 00:23:26,425
+job or bid that job so we
+
+714
+00:23:26,425 --> 00:23:27,425
+can make sure we get it next
+
+715
+00:23:27,425 --> 00:23:29,185
+time that's really good because I
+
+716
+00:23:29,185 --> 00:23:31,405
+think most people don't follow up so
+
+717
+00:23:31,405 --> 00:23:33,265
+yeah there's a lot of money left
+
+718
+00:23:33,265 --> 00:23:34,785
+on the table and learning like you
+
+719
+00:23:34,785 --> 00:23:36,285
+said left on the table by not
+
+720
+00:23:36,285 --> 00:23:37,685
+asking those questions and following
+
+721
+00:23:37,685 --> 00:23:40,405
+up that's great yeah mine is similar
+
+722
+00:23:40,405 --> 00:23:41,765
+to what Jimmy just said is that
+
+723
+00:23:41,765 --> 00:23:45,245
+you know the manufacturers know and
+
+724
+00:23:45,245 --> 00:23:47,705
+want the system to work well and
+
+725
+00:23:47,705 --> 00:23:49,985
+so if you view us as part
+
+726
+00:23:49,985 --> 00:23:53,205
+of your team you can get a
+
+727
+00:23:53,205 --> 00:23:54,565
+lot of you know we don't charge
+
+728
+00:23:54,565 --> 00:23:56,705
+for our design reviews or our training
+
+729
+00:23:56,705 --> 00:23:59,425
+or you ask us whatever questions we
+
+730
+00:23:59,425 --> 00:24:01,165
+want that system to work just as
+
+731
+00:24:01,165 --> 00:24:02,385
+much as you do because you don't
+
+732
+00:24:02,385 --> 00:24:04,085
+want to go back and so view
+
+733
+00:24:04,085 --> 00:24:07,165
+us as part of that team to
+
+734
+00:24:07,165 --> 00:24:09,165
+you know to be the most successful
+
+735
+00:24:09,165 --> 00:24:12,145
+yeah resources are out there yeah just
+
+736
+00:24:12,145 --> 00:24:13,745
+got to have that conversation to find
+
+737
+00:24:13,745 --> 00:24:15,805
+what's available to you I FaceTime
+
+738
+00:24:15,805 --> 00:24:17,165
+with installers that I can't be on
+
+739
+00:24:17,165 --> 00:24:19,145
+site they're like hey is this correct
+
+740
+00:24:19,145 --> 00:24:20,685
+you know especially new people or send
+
+741
+00:24:20,685 --> 00:24:21,745
+me some photos of what they have
+
+742
+00:24:21,745 --> 00:24:23,645
+going on site just to make sure
+
+743
+00:24:23,645 --> 00:24:25,405
+that they're feeling comfortable as
+
+744
+00:24:25,405 --> 00:24:26,505
+they progress into putting more of
+
+745
+00:24:26,505 --> 00:24:28,085
+these in that's right that's great
+
+746
+00:24:28,085 --> 00:24:29,445
+yeah don't be afraid to ask for
+
+747
+00:24:29,445 --> 00:24:30,595
+help right yeah
+
+748
+00:24:31,505 --> 00:24:32,785
+that's good stuff well Zach
+
+749
+00:24:32,785 --> 00:24:34,105
+Jimmy thank you for being on the
+
+750
+00:24:34,105 --> 00:24:36,005
+podcast and tell everyone again where
+
+751
+00:24:36,005 --> 00:24:37,705
+they can find Eljen if they want
+
+752
+00:24:37,705 --> 00:24:40,765
+more information Eljen.com
+
+753
+00:24:40,765 --> 00:24:43,765
+it's E-L-J-E-N.com
+
+754
+00:24:43,765 --> 00:24:46,285
+pretty easy yeah awesome yeah and
+
+755
+00:24:46,285 --> 00:24:47,305
+you'll be able to find all of
+
+756
+00:24:47,305 --> 00:24:49,445
+our contact information our team and
+
+757
+00:24:49,445 --> 00:24:52,045
+we all we all of our tech
+
+758
+00:24:52,045 --> 00:24:55,345
+team is our veterans yes so we've
+
+759
+00:24:55,345 --> 00:24:56,705
+been around the block we're not we're
+
+760
+00:24:56,705 --> 00:24:58,665
+not not young guys that don't know
+
+761
+00:24:58,665 --> 00:25:01,345
+anything but if I could add one
+
+762
+00:25:01,345 --> 00:25:02,765
+thing though yeah I know we missed
+
+763
+00:25:02,765 --> 00:25:04,525
+this earlier we are looking to help
+
+764
+00:25:04,525 --> 00:25:06,265
+out veterans in this community so if
+
+765
+00:25:06,265 --> 00:25:09,785
+there's somebody that you know or in
+
+766
+00:25:09,785 --> 00:25:10,705
+your line of work that may be
+
+767
+00:25:10,705 --> 00:25:11,965
+a veteran in need of a system
+
+768
+00:25:11,965 --> 00:25:15,565
+or repair contact us let us know
+
+769
+00:25:15,565 --> 00:25:17,405
+and we'll try and get with the
+
+770
+00:25:17,405 --> 00:25:19,545
+try and get with the state the
+
+771
+00:25:19,545 --> 00:25:21,105
+installers and the the local
+
+772
+00:25:21,105 --> 00:25:22,345
+distributor try and see if we can
+
+773
+00:25:22,345 --> 00:25:23,805
+ease the cost and burden of that
+
+774
+00:25:23,805 --> 00:25:25,205
+replacement system for that veteran
+
+775
+00:25:25,205 --> 00:25:27,485
+yeah that's awesome so you guys are
+
+776
+00:25:27,485 --> 00:25:29,065
+both veterans which branch is the
+
+777
+00:25:29,065 --> 00:25:34,145
+military I was in the Army and
+
+778
+00:25:34,145 --> 00:25:35,705
+National Guard for 10 years I was
+
+779
+00:25:35,705 --> 00:25:38,125
+a horizontal construction engineer for
+
+780
+00:25:38,125 --> 00:25:39,725
+six and then a carpentry and masonry
+
+781
+00:25:39,725 --> 00:25:42,785
+specialist for another four I was a
+
+782
+00:25:42,785 --> 00:25:44,765
+SERE specialist I taught at the
+
+783
+00:25:44,765 --> 00:25:46,925
+survival school okay and worked with
+
+784
+00:25:46,925 --> 00:25:50,545
+search and rescue okay yeah so if
+
+785
+00:25:50,545 --> 00:25:51,845
+everything goes wrong you're the guy
+
+786
+00:25:51,845 --> 00:25:54,245
+that we yeah to keep us if
+
+787
+00:25:54,245 --> 00:25:56,775
+it's like apocalypse yeah Camper
+
+788
+00:25:56,825 --> 00:26:01,175
+professional campers that's awesome
+
+789
+00:26:01,325 --> 00:26:02,545
+Well thanks guys for being on the
+
+790
+00:26:02,545 --> 00:26:03,015
+podcast
+
+791
+00:26:03,085 --> 00:26:03,755
+Thank you so much
+
+792
+00:26:03,825 --> 00:26:04,235
+This is great
