@@ -465,23 +465,28 @@
    ]
   },
   {
-   "id": "alligator-annie",
+   "id": "not-tech-savvy",
    "source": "01_footage/c0032.mp4",
    "words": "02_audio/words/c0032.json",
    "keep": [
     [
-     3973,
-     4102
+     3923,
+     4036
+    ],
+    [
+     4103,
+     4133
     ]
    ],
-   "title": "*84* and still\nthe operator",
+   "title": "Not tech savvy?\nStill get *certified*",
    "youtube": {
-    "title": "The 84-year-old septic operator with no cell phone",
-    "description": "Some installers don't have an email or even a cell phone, and that's fine. I told Zach and Jimmy about Alligator Annie, an 84-year-old operator I met in Texas.\n\nMore from Eljen: https://www.eljen.com\n\n#septic #septicbusiness #womeninbusiness #texas"
+    "title": "Not tech savvy? Septic installers can still get certified on the Eljen GSF",
+    "description": "Eljen's online GSF training takes about half an hour, but Jimmy Bell still walks installers through it live on Microsoft Teams. Zach Gardner has met plenty of installers with no email or cell phone, and they do good work.\n\nMore from Eljen: https://www.eljen.com\n\n#septic #septicinstaller #training #onsitewastewater"
    },
    "approved": false,
    "fixes": {
-    "3973": "I'm"
+    "3923": "So",
+    "3934": "Teams."
    },
    "layout": "crop",
    "crop_x": 0.82,
@@ -489,11 +494,16 @@
     [
      4013,
      0.6
-    ],
-    [
-     4037,
-     0.19
     ]
+   ],
+   "broll": [
+    {
+     "clip": "c0034.mp4",
+     "i": 4032,
+     "dur": 3.5,
+     "ss": 0.5,
+     "crop_x": 0.47
+    }
    ],
    "publish_at": "2026-11-02T12:00:00",
    "networks": [

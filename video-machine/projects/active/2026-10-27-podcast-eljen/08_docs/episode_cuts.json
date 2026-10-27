@@ -1,6 +1,6 @@
 {
- "output_seconds": 1564.3,
- "segments": 11,
+ "output_seconds": 1542.77,
+ "segments": 12,
  "pause": {
   "name": "Zach Gardner",
   "org": "Eljen Corporation",
@@ -29,9 +29,9 @@
   ]
  },
  "loudness_in": {
-  "input_i": "-31.38",
+  "input_i": "-31.49",
   "input_tp": "-4.03",
-  "input_lra": "10.20"
+  "input_lra": "9.70"
  },
  "joins_not_in_silence": [
   {
@@ -77,7 +77,14 @@
    "before": "gonna hurt ourselves"
   },
   {
-   "at": 1463.84,
+   "at": 1326.68,
+   "out_db": -31.0,
+   "in_db": -35.6,
+   "after": "from their wives.",
+   "before": "But you know,"
+  },
+  {
+   "at": 1442.31,
    "out_db": -33.0,
    "in_db": -25.0,
    "after": "make sure that",
@@ -479,6 +486,468 @@
   },
   {
    "take": "c0032",
+   "i": 4037,
+   "word": "Oh,",
+   "at": 1340.42,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4038,
+   "word": "I",
+   "at": 1340.68,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4039,
+   "word": "know.",
+   "at": 1340.82,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4040,
+   "word": "I've",
+   "at": 1341.8,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4041,
+   "word": "met",
+   "at": 1342.2,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4042,
+   "word": "them",
+   "at": 1342.42,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4043,
+   "word": "before.",
+   "at": 1342.62,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4044,
+   "word": "Yeah,",
+   "at": 1343.32,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4045,
+   "word": "I",
+   "at": 1344.32,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4046,
+   "word": "was",
+   "at": 1344.62,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4047,
+   "word": "in",
+   "at": 1344.82,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4048,
+   "word": "Texas,",
+   "at": 1344.96,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4049,
+   "word": "and",
+   "at": 1345.32,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4050,
+   "word": "I",
+   "at": 1345.56,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4051,
+   "word": "was",
+   "at": 1345.66,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4052,
+   "word": "talking",
+   "at": 1345.82,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4053,
+   "word": "to",
+   "at": 1346.02,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4054,
+   "word": "a",
+   "at": 1346.24,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4055,
+   "word": "lady,",
+   "at": 1346.4,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4056,
+   "word": "and",
+   "at": 1346.8,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4057,
+   "word": "she's,",
+   "at": 1346.86,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4058,
+   "word": "I",
+   "at": 1347.16,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4059,
+   "word": "think,",
+   "at": 1347.32,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4060,
+   "word": "84,",
+   "at": 1347.6,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4061,
+   "word": "and",
+   "at": 1348.36,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4062,
+   "word": "she's",
+   "at": 1348.96,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4063,
+   "word": "doing",
+   "at": 1349.54,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4064,
+   "word": "it",
+   "at": 1350.28,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4065,
+   "word": "herself.",
+   "at": 1350.46,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4066,
+   "word": "She",
+   "at": 1350.72,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4067,
+   "word": "is",
+   "at": 1351.02,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4068,
+   "word": "the",
+   "at": 1351.32,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4069,
+   "word": "operator.",
+   "at": 1351.46,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4070,
+   "word": "Her",
+   "at": 1352.26,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4071,
+   "word": "name",
+   "at": 1352.26,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4072,
+   "word": "is",
+   "at": 1352.26,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4073,
+   "word": "Alligator",
+   "at": 1352.38,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4074,
+   "word": "Annie.",
+   "at": 1352.82,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4075,
+   "word": "And",
+   "at": 1353.3,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4076,
+   "word": "I",
+   "at": 1353.36,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4077,
+   "word": "was",
+   "at": 1353.42,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4078,
+   "word": "like,",
+   "at": 1353.52,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4079,
+   "word": "I",
+   "at": 1353.7,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4080,
+   "word": "got",
+   "at": 1353.86,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4081,
+   "word": "to",
+   "at": 1354.0,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4082,
+   "word": "connect",
+   "at": 1354.12,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4083,
+   "word": "with",
+   "at": 1354.52,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4084,
+   "word": "you.",
+   "at": 1354.76,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4085,
+   "word": "She's",
+   "at": 1354.96,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4086,
+   "word": "like,",
+   "at": 1355.4,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4087,
+   "word": "I",
+   "at": 1355.54,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4088,
+   "word": "don't",
+   "at": 1355.66,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4089,
+   "word": "have",
+   "at": 1355.8,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4090,
+   "word": "a",
+   "at": 1355.96,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4091,
+   "word": "phone,",
+   "at": 1356.04,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4092,
+   "word": "you",
+   "at": 1356.76,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4093,
+   "word": "know?",
+   "at": 1357.28,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4094,
+   "word": "So",
+   "at": 1358.36,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4095,
+   "word": "yeah,",
+   "at": 1358.8,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4096,
+   "word": "that's",
+   "at": 1359.38,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4097,
+   "word": "definitely",
+   "at": 1359.66,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4098,
+   "word": "a",
+   "at": 1359.96,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4099,
+   "word": "real",
+   "at": 1360.2,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4100,
+   "word": "thing",
+   "at": 1360.42,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4101,
+   "word": "for",
+   "at": 1360.72,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
+   "i": 4102,
+   "word": "sure.",
+   "at": 1361.48,
+   "why": "drop"
+  },
+  {
+   "take": "c0032",
    "i": 4225,
    "word": "and",
    "at": 1400.91,
@@ -641,7 +1110,14 @@
    "before": "gonna hurt ourselves"
   },
   {
-   "at": 1463.84,
+   "at": 1326.68,
+   "out_db": -31.0,
+   "in_db": -35.6,
+   "after": "from their wives.",
+   "before": "But you know,"
+  },
+  {
+   "at": 1442.31,
    "out_db": -33.0,
    "in_db": -25.0,
    "after": "make sure that",
