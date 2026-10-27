@@ -442,7 +442,7 @@
   ]
  ],
  "publish": {
-  "approved": false,
+  "approved": true,
   "youtube": {
    "title": "Tight Lot, High Water Table? Eljen's Answer for Tough Septic Sites",
    "description": "I recorded this one live at our booth at the NOWRA Mega-Conference with Zach Gardner and Jimmy Bell, technical specialists at Eljen Corporation. Eljen started in 1970, and its GSF (geotextile sand filter) treats wastewater with no electricity on some of the hardest sites out there: tight lots, high water tables and slow soils.\n\nZach and Jimmy explain how, depending on your state's code, a GSF can cut the size of a drain field in half, why installers still flip the modules upside down, and why new treatment technology has such a hard time fitting into codes written for ATUs. Both of them are veterans, and they close with an offer to help veterans who need a new system or a repair.\n\nWhat we cover:\n- How Eljen went from drainage products in 1970 to the GSF\n- Why a GSF can mean half the drain field and no mound in the yard\n- Georgia soils at 120 minutes per inch, and the tight lots a GSF is built for\n- The install mistakes they see most, from fabric placement to upside-down modules\n- Maintenance, and when you can install in winter\n- Why codes written for ATUs make new treatment technology hard to approve\n- How to get certified, plus free design reviews and training\n- Million dollar advice: follow up on every bid\n\nFind Zach, Jimmy and your state's Eljen rep at https://www.eljen.com/industry-professionals/ and start your certification at https://www.eljen.com/eljen-training-portal-registration/\n\nEljen: https://www.eljen.com",
@@ -461,7 +461,8 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "publish_at": "2026-10-28T08:00:00"
  },
  "thumbnail": {
   "layout": "trio",
