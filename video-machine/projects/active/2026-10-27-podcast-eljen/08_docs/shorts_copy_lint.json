@@ -1,57 +1,5 @@
 {
-  "half-the-drain-field": {
-    "fails": [],
-    "warns": []
-  },
-  "no-electricity": {
-    "fails": [],
-    "warns": []
-  },
-  "upside-down": {
-    "fails": [],
-    "warns": []
-  },
-  "georgia-soils": {
-    "fails": [],
-    "warns": []
-  },
-  "plant-on-a-drain-field": {
-    "fails": [],
-    "warns": []
-  },
-  "winter-installs": {
-    "fails": [],
-    "warns": []
-  },
-  "five-million-units": {
-    "fails": [],
-    "warns": []
-  },
-  "tractor-over-drain-field": {
-    "fails": [],
-    "warns": []
-  },
-  "states-got-burned": {
-    "fails": [],
-    "warns": []
-  },
-  "follow-up": {
-    "fails": [],
-    "warns": []
-  },
-  "alligator-annie": {
-    "fails": [],
-    "warns": []
-  },
-  "get-certified": {
-    "fails": [],
-    "warns": []
-  },
-  "helping-veterans": {
-    "fails": [],
-    "warns": []
-  },
-  "part-of-your-team": {
+  "not-tech-savvy": {
     "fails": [],
     "warns": []
   }
