@@ -1,0 +1,118 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:44.03,Title,,0,0,0,,{\pos(540,360)}Why states don't trust\N{\c&H0060ECCD}new{\c&H00FFFFFF&} septic tech
+Dialogue: 1,0:00:00.00,0:00:00.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} changes in
+Dialogue: 1,0:00:00.12,0:00:00.48,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}changes{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:00.48,0:00:00.76,Cap,,0,0,0,,{\pos(540,1400)}What changes {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.76,0:00:01.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}regulation{\c&H00FFFFFF&} would
+Dialogue: 1,0:00:01.28,0:00:01.74,Cap,,0,0,0,,{\pos(540,1400)}regulation {\c&H0060ECCD}would{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.74,0:00:01.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} guys like to
+Dialogue: 1,0:00:01.96,0:00:02.20,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}guys{\c&H00FFFFFF&} like to
+Dialogue: 1,0:00:02.20,0:00:02.52,Cap,,0,0,0,,{\pos(540,1400)}you guys {\c&H0060ECCD}like{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:02.52,0:00:02.70,Cap,,0,0,0,,{\pos(540,1400)}you guys like {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.70,0:00:03.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}see{\c&H00FFFFFF&} So much of
+Dialogue: 1,0:00:03.52,0:00:03.64,Cap,,0,0,0,,{\pos(540,1400)}see {\c&H0060ECCD}So{\c&H00FFFFFF&} much of
+Dialogue: 1,0:00:03.64,0:00:05.02,Cap,,0,0,0,,{\pos(540,1400)}see So {\c&H0060ECCD}much{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:05.02,0:00:05.72,Cap,,0,0,0,,{\pos(540,1400)}see So much {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.72,0:00:05.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} regulation
+Dialogue: 1,0:00:05.84,0:00:06.30,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}regulation{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.30,0:00:06.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} state to
+Dialogue: 1,0:00:06.58,0:00:06.86,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}state{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:06.86,0:00:07.02,Cap,,0,0,0,,{\pos(540,1400)}from state {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.02,0:00:07.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}state{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.52,0:00:08.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} you talk
+Dialogue: 1,0:00:08.30,0:00:08.40,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}you{\c&H00FFFFFF&} talk
+Dialogue: 1,0:00:08.40,0:00:08.68,Cap,,0,0,0,,{\pos(540,1400)}when you {\c&H0060ECCD}talk{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.68,0:00:08.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} treatment
+Dialogue: 1,0:00:08.92,0:00:09.46,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}treatment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.60,0:00:09.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} focused on
+Dialogue: 1,0:00:09.98,0:00:10.38,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}focused{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:10.38,0:00:10.92,Cap,,0,0,0,,{\pos(540,1400)}is focused {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.92,0:00:12.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ATUs{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.60,0:00:13.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}aerobic{\c&H00FFFFFF&} treatment
+Dialogue: 1,0:00:13.02,0:00:13.28,Cap,,0,0,0,,{\pos(540,1400)}aerobic {\c&H0060ECCD}treatment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.28,0:00:13.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}units{\c&H00FFFFFF&} or advanced
+Dialogue: 1,0:00:13.74,0:00:13.88,Cap,,0,0,0,,{\pos(540,1400)}units {\c&H0060ECCD}or{\c&H00FFFFFF&} advanced
+Dialogue: 1,0:00:13.88,0:00:14.14,Cap,,0,0,0,,{\pos(540,1400)}units or {\c&H0060ECCD}advanced{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.14,0:00:14.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}treatment{\c&H00FFFFFF&} units
+Dialogue: 1,0:00:14.40,0:00:14.94,Cap,,0,0,0,,{\pos(540,1400)}treatment {\c&H0060ECCD}units{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.28,0:00:16.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} that code
+Dialogue: 1,0:00:16.84,0:00:17.40,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}that{\c&H00FFFFFF&} code
+Dialogue: 1,0:00:17.40,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}And that {\c&H0060ECCD}code{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.06,0:00:18.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:18.40,0:00:18.68,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.68,0:00:18.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}written{\c&H00FFFFFF&} for that
+Dialogue: 1,0:00:18.94,0:00:19.32,Cap,,0,0,0,,{\pos(540,1400)}written {\c&H0060ECCD}for{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:19.32,0:00:19.78,Cap,,0,0,0,,{\pos(540,1400)}written for {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.14,0:00:20.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trying{\c&H00FFFFFF&} to get our
+Dialogue: 1,0:00:20.78,0:00:21.18,Cap,,0,0,0,,{\pos(540,1400)}trying {\c&H0060ECCD}to{\c&H00FFFFFF&} get our
+Dialogue: 1,0:00:21.18,0:00:21.76,Cap,,0,0,0,,{\pos(540,1400)}trying to {\c&H0060ECCD}get{\c&H00FFFFFF&} our
+Dialogue: 1,0:00:21.76,0:00:22.08,Cap,,0,0,0,,{\pos(540,1400)}trying to get {\c&H0060ECCD}our{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.08,0:00:22.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}technology{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:22.72,0:00:23.48,Cap,,0,0,0,,{\pos(540,1400)}technology {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.48,0:00:23.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} code is
+Dialogue: 1,0:00:23.76,0:00:24.18,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}code{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:24.18,0:00:24.70,Cap,,0,0,0,,{\pos(540,1400)}that code {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.70,0:00:25.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}extremely{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.08,0:00:25.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}difficult{\c&H00FFFFFF&} States
+Dialogue: 1,0:00:25.61,0:00:26.53,Cap,,0,0,0,,{\pos(540,1400)}difficult {\c&H0060ECCD}States{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.53,0:00:26.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} been burned
+Dialogue: 1,0:00:26.75,0:00:26.89,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}been{\c&H00FFFFFF&} burned
+Dialogue: 1,0:00:26.89,0:00:27.35,Cap,,0,0,0,,{\pos(540,1400)}have been {\c&H0060ECCD}burned{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.51,0:00:27.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.83,0:00:28.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}They've{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:28.39,0:00:28.57,Cap,,0,0,0,,{\pos(540,1400)}They've {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.57,0:00:28.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}somebody{\c&H00FFFFFF&} come in
+Dialogue: 1,0:00:28.93,0:00:29.17,Cap,,0,0,0,,{\pos(540,1400)}somebody {\c&H0060ECCD}come{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:29.17,0:00:29.35,Cap,,0,0,0,,{\pos(540,1400)}somebody come {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.35,0:00:29.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} sell some
+Dialogue: 1,0:00:29.55,0:00:30.07,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}sell{\c&H00FFFFFF&} some
+Dialogue: 1,0:00:30.07,0:00:30.27,Cap,,0,0,0,,{\pos(540,1400)}to sell {\c&H0060ECCD}some{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.27,0:00:30.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}snake{\c&H00FFFFFF&} oil
+Dialogue: 1,0:00:30.55,0:00:30.99,Cap,,0,0,0,,{\pos(540,1400)}snake {\c&H0060ECCD}oil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.15,0:00:31.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} they've had
+Dialogue: 1,0:00:31.65,0:00:32.07,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}they've{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:32.07,0:00:32.36,Cap,,0,0,0,,{\pos(540,1400)}And they've {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.36,0:00:33.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}terrible{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.46,0:00:34.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}experiences{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.08,0:00:34.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} created a
+Dialogue: 1,0:00:34.50,0:00:35.14,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}created{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:35.14,0:00:35.32,Cap,,0,0,0,,{\pos(540,1400)}which created {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.32,0:00:35.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whole{\c&H00FFFFFF&} mess for
+Dialogue: 1,0:00:35.56,0:00:36.06,Cap,,0,0,0,,{\pos(540,1400)}whole {\c&H0060ECCD}mess{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:36.06,0:00:36.28,Cap,,0,0,0,,{\pos(540,1400)}whole mess {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.28,0:00:36.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.80,0:00:37.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} they're very
+Dialogue: 1,0:00:37.36,0:00:37.56,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}they're{\c&H00FFFFFF&} very
+Dialogue: 1,0:00:37.56,0:00:38.04,Cap,,0,0,0,,{\pos(540,1400)}So they're {\c&H0060ECCD}very{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.04,0:00:38.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}very{\c&H00FFFFFF&} cautious
+Dialogue: 1,0:00:38.20,0:00:38.56,Cap,,0,0,0,,{\pos(540,1400)}very {\c&H0060ECCD}cautious{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.56,0:00:38.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} it comes to
+Dialogue: 1,0:00:38.82,0:00:38.94,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}it{\c&H00FFFFFF&} comes to
+Dialogue: 1,0:00:38.94,0:00:39.18,Cap,,0,0,0,,{\pos(540,1400)}when it {\c&H0060ECCD}comes{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:39.18,0:00:39.48,Cap,,0,0,0,,{\pos(540,1400)}when it comes {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.48,0:00:39.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}new{\c&H00FFFFFF&} or different
+Dialogue: 1,0:00:39.80,0:00:40.04,Cap,,0,0,0,,{\pos(540,1400)}new {\c&H0060ECCD}or{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:40.04,0:00:40.46,Cap,,0,0,0,,{\pos(540,1400)}new or {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.46,0:00:41.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}technology{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.12,0:00:42.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} you know for
+Dialogue: 1,0:00:42.30,0:00:42.76,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}you{\c&H00FFFFFF&} know for
+Dialogue: 1,0:00:42.76,0:00:42.80,Cap,,0,0,0,,{\pos(540,1400)}and you {\c&H0060ECCD}know{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:42.80,0:00:42.98,Cap,,0,0,0,,{\pos(540,1400)}and you know {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.98,0:00:43.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} good reason
+Dialogue: 1,0:00:43.10,0:00:43.20,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}good{\c&H00FFFFFF&} reason
+Dialogue: 1,0:00:43.20,0:00:43.62,Cap,,0,0,0,,{\pos(540,1400)}a good {\c&H0060ECCD}reason{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.62,0:00:44.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&}

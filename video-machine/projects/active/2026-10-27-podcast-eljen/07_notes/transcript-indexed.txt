@@ -1,0 +1,415 @@
+== take c0032 4814 words (labels: louder wireless mic per word)
+
+ASHLEY: [0@4] Hey, everyone. Welcome back to The(?) Number 2 Septic Podcast. [10@7] Today I(?) have Zach Gardner and Jimmy Bell here from [20@10] Eljen. So, welcome to the podcast, guys.
+
+JIMMY: [27@12] Thank you.
+
+ASHLEY: [29@13] Thank [30@13] you
+
+ZACH: [31@14] for having
+
+ASHLEY: [33@14] us. Yeah. So, why don't you just [40@16] start out by telling us a little bit about Eljen's [50@19] main product, kind of what you do, what services it, [60@22] and then we'll just,(?) we'll do a little deep dive [70@24] after that.
+
+ZACH: [72@25] Sure. I'll let you go in on this [80@26] one. All right. There you go. Yeah, so Eljen was [90@29] started in 1970. Initially, we started with the PDF. which [100@34] is a prefabricated drain systems(?) I think like a French [110@37] drain but without all the aggregate and Joe Glasser because [120@43] he was an adjunct professor at UConn started really rubbing [130@47] shoulders with some of the wastewater guys that were in [140@52] development of new products including like rain lack and some [150@57] others and got into that got into wastewater so our [160@61] main product because the GSF the geotextile sand filter that's [170@65] what we sell the most
+
+ASHLEY: [175@66] of you(?)
+
+ZACH: [177@67] know we obviously [180@67] manufacture other things
+
+ASHLEY: [183@69] yeah but
+
+ZACH: [185@70] that's probably the biggest product
+
+ASHLEY: [190@72] yeah and do you sell that to all of North [200@76] America or do you have certain kind of geographical hotspots [210@79] that you sell a bunch in due to the soil [220@82] conditions
+
+ZACH: [221@82] not necessarily soil conditions I think it's more along [230@87] the lines of how that code works okay(?) and if [240@91] it's friendly to treatment and dispersal so not not everywhere [250@96] use the same but we we sell all in all [260@99] of North America and Australia Sweden okay(?) and
+
+ASHLEY: [268@111] what's the [270@111] benefit of that product versus just a normal drain field
+
+JIMMY: [280@115] sure benefit of this product over a normal drain field [290@120 gap1.2] excuse(?) me it's a smaller footprint and you're doing treatment [300@124] so you're getting clean water back into the earth so [310@127] and you can do that on a smaller footprint in [320@129] potentially a passive manner typically is how we like to [330@132] be installed passive okay(?) but we do have multiple options [340@135] there so it could be passive pump to gravity or [350@138] pressurized depending on your slope if you don't have a [360@140] level site or I've seen some crazy ones where the [370@142] field's half a mile away from the home you(?) You [380@144] got to get it from the septic tank all the [390@147] way out to the field. [395@149 gap0.8] So tight lots, high water [400@151] table, so those limiting layers. [405@154 gap0.8] I think what really sets [410@156] our product apart from others is that it treats to [420@160] such a high level, but without any electricity. That's the [430@163] passive part that Jimmy was referring
+
+ASHLEY: [436@165] to.
+
+ZACH: [437@166] So that also, [440@169] there's way less maintenance.
+
+ASHLEY: [444@171] Yeah. Yeah.(?) [446@172 gap0.7] So that's obviously a [450@173] higher cost to the homeowner. And is that how an [460@177] installer would usually kind of sell it or pitch it [470@181] to the homeowner?
+
+JIMMY: [473@181] Is that
+
+ASHLEY: [475@182] it's going to treat it, [480@183] you're going to have less issues, and there's no electricity?
+
+JIMMY: [490@186] I wouldn't necessarily say it is a higher cost. So [500@189] you
+
+ASHLEY: [501@189] are paying
+
+JIMMY: [503@190] for a treatment product. But depending on [510@192] the code and how they value treatment, you get a [520@194] reduction in field size. So if you need to have [530@197] 1(?) ,200 square feet of rock and pipe and(?)
+
+ASHLEY: [539@200] I
+
+JIMMY: [540@200] can get that down to 600 square feet, you might [550@202] be paying a little bit more for a treatment product, [560@204] but you're doing half of a field at this point. [570@208 gap1.3] And(?) like you said, the codes, some codes are forcing [580@210] that treatment,
+
+ASHLEY: [582@211] you know. So
+
+ZACH: [585@212] that's one of the options [590@213] you have to go to, lake lots and things of [600@215] that nature. [602@217 gap1.4] Yeah, more sensitive areas. But because it's providing [610@220] such a high level of treatment, we can often get [620@222] closer to groundwater. so(?) where a you know a homeowner [630@227] with a stone and pipe would have to have like [640@229] a huge mound in their yard you know often they [650@232] don't and that that ends up being a huge cost [660@234] savings as well most homeowners look at that initial bill [670@240] oh gosh you know because they have to come up [680@244] with that money right now they don't often think about [690@246] the reoccurring cost of the O &M that that other [700@251] systems would have to be you(?) know are required yeah [710@254] but yeah there it is a big difference there you [720@258] know no maintenance or very little maintenance you still have [730@260] to pump the subject tank clean the effluent filter but [740@262] very little maintenance comparatively
+
+ASHLEY: [744@265] do you guys work directly with [750@268] installers or mainly with designers kind of where do you [760@272] work with people it's
+
+JIMMY: [764@274] an interesting question yeah it's really [770@276] hard uh you go back to code in your area [780@279] your region your states yeah(?) certain states are engineered only [790@283] yeah
+
+ASHLEY: [791@283] so
+
+JIMMY: [792@284] it's an engineered only I do want to [800@286] focus primarily in that state with working with my engineers [810@289] you know stay on their good side make sure we're [820@291] getting proper designs right but you also you have to [830@295] make sure you're maintaining contact with the installers the boots [840@298] on the ground right we want to take quality installs [850@300] you know I want them to be knowledgeable so
+
+ASHLEY: [859@302] yeah [860@303] there's
+
+JIMMY: [861@303] something off on a design that I haven't looked [870@304] at or they're on site and it doesn't doesn't make [880@307] sense to what's out there because they know so(?) it's [890@310] it's it's a tough market to work in and I [900@313] can't just pick one specific one
+
+ASHLEY: [906@315] it(?) varies yeah we
+
+ZACH: [910@317] do provide support to homeowners to installers to the designers [920@321] to the health departments so it really depends on the [930@324] code some will be heavily involved with the you know [940@329] the local regulators of hey what about this what's going [950@332] on here they want to know from the manufacturer whereas(?) [960@335] other areas we only get calls from the designers yeah(?) [970@339] so it's it's very code specific yeah and many states [980@343] or areas really focus on that education piece and so [990@348] when we're going out and doing that training so they [1000@351] can get continuing education that does put us more in [1010@355] touch with those installers
+
+ASHLEY: [1014@356] and designers as
+
+ZACH: [1017@357] well so yeah [1020@358] it's kind of a mixed back
+
+ASHLEY: [1026@359] yeah it's a little [1030@360] bit of the wild west still in the on -site [1040@362] industry in the united states it's just kind of any [1050@366] county's game basically right(?)
+
+ZACH: [1054@368] you get to certain states and [1060@369] uh it's all county -based approvals as well so you [1070@371] know
+
+ASHLEY: [1071@372] yeah it
+
+ZACH: [1073@373] can be the wild west up there
+
+ASHLEY: [1080@374] for sure so what is the most difficult or odd [1090@378] system you've ever worked on before that you had to [1100@381] really dig deep to engineer it
+
+ZACH: [1106@383] i would say all [1110@384] of georgia yeah i was gonna say there's a lot [1120@387] of a lot of difficult things that go on in [1130@388] georgia but the soils are can be so bad
+
+ASHLEY: [1139@391] yeah [1140@392] they
+
+JIMMY: [1141@392] go you know 120 minutes per inch so it's [1150@395] a really slow group four class four soil that they [1160@398] have and then they've got a ridiculous slope on site [1170@401] as well and then they have a high water table [1180@403] as well so you get
+
+ASHLEY: [1185@404] just like every factor against [1190@406] you
+
+JIMMY: [1191@406] know yeah(?) everything i preach i can get closer [1200@408] i can do these sites so then i really have [1210@410] to work my magic so we'll work with the health [1220@412] departments and the local designers on what is the best [1230@414] case scenario to make that site work yeah(?) we've we've [1240@417] learned a lot from georgia just because it is so [1250@420] challenging
+
+ASHLEY: [1251@420] yeah we've
+
+ZACH: [1253@421] been so successful there and so it's [1260@423] uh(?)
+
+ASHLEY: [1261@423] that's great it's
+
+ZACH: [1264@424] a great market for us but [1270@425] it's also really helped us with other difficult
+
+ASHLEY: [1278@428] sites what [1280@430] kind of law is a gsf made for like what's [1290@433] kind of your ideal scenario where like you look at [1300@435] that lot and you said it definitely should have a [1310@437] gsf in it
+
+ZACH: [1313@438] i would say uh sensitive areas like [1320@441] near lakes water streams coastal(?) areas also those really tight [1330@447] lots
+
+ASHLEY: [1331@447] yeah where
+
+ZACH: [1333@449] nothing else is really going to fit [1340@451] and because they're modular i(?) mean we can do trenches [1350@455] that go around borders or kind(?) of stay away from [1360@458] you know the whatever the offset is so it's like [1370@461] a boundary like a property line or staying away from [1380@466] the house or a well yeah it can really be [1390@468] modular and then also that flexibility helps us with whatever [1400@473] the terrain is
+
+ASHLEY: [1403@474] yeah(?) that is nice yeah because(?)
+
+ZACH: [1409@476] you [1410@477] don't often get a choice [1415@479 gap1.0] as yeah(?) as that homeowner [1420@481] you only have so much
+
+ASHLEY: [1425@481] property so
+
+ZACH: [1427@482] i(?) think that's [1430@483] our main bread and butter is the the difficult ones [1440@487] the ones that nothing else would fit yeah it does [1450@490] stuff(?) for us yeah
+
+ASHLEY: [1454@491] yeah
+
+ZACH: [1455@491] that's why we're well educated [1460@494] so we know what we're going getting into
+
+ASHLEY: [1468@496] yeah i
+
+ZACH: [1470@497] think that also lends because we get the tough ones [1480@500] we've yeah it's kind of a forged by fire right
+
+ASHLEY: [1490@503] right(?) it's
+
+ZACH: [1492@504] either works or it doesn't
+
+ASHLEY: [1497@505] y(?) 'all are [1500@505] the problem solvers
+
+ZACH: [1503@506] it helps us refine you know our(?) [1510@509] design criteria and what our system can and can't do
+
+ASHLEY: [1520@512] yeah so it's
+
+ZACH: [1523@514] i was gonna say i'd love a [1530@516] site 10 minutes per inch five feet to water but
+
+ASHLEY: [1540@519] it's never ideal you
+
+ZACH: [1544@520] know zero
+
+ASHLEY: [1546@522] slope(?) yeah(?) so when [1550@524] When you see these systems installed, what is the most [1560@527] common mistake you see happening when it's being installed that's [1570@531] going to make it not work or make the life(?) [1580@534] span not last as long? What can people do, what [1590@536] can the installers do to make sure that it's installed [1600@538] correctly?
+
+JIMMY: [1601@539] So we have training on our website, it's free, [1610@542] you know, we've got a refresher course for installers. I'd [1620@546] say probably one of the common things that I may [1630@549] see on site is just the fabric, making sure that [1640@552] it's placed appropriately right(?) we don't want any tinting above [1650@555] the unit so placing the fabric the right way it's [1660@559] probably the one common thing that they may miss but [1670@561] everything else pretty(?)
+
+ZACH: [1673@564] we're flipping the units upside down you'll [1680@566] see that every now we(?) try to hammer it into [1690@569] like okay this is the way up
+
+ASHLEY: [1697@571] this way up [1700@572] there's
+
+JIMMY: [1701@573] a spray painting line and we've also put new [1710@575] marketing logos on there
+
+ASHLEY: [1714@576] to show
+
+ZACH: [1716@577] that this is the [1720@578] right side of(?) it. Yeah,(?) but it will work either [1730@580] way, but it obviously works better when it's right side [1740@582] of it. And I think the other things that we [1750@586] see, like common mistakes, really aren't specific to the GSF. [1760@590] It's more of, you know, proper venting, not so much [1770@594] cover, [1771@596 gap1.7] using the right materials.
+
+ASHLEY: [1775@598] You know,
+
+ZACH: [1777@598] like there's different [1780@599] gradations of sand and,(?) you know, there is specific sand [1790@603] that you have to use for our stuff. So, you [1800@605] know, not smearing, making sure the soil isn't super damp [1810@610] so you get you(?) know those types of issues so [1820@613] it's mainly just common things that would work in any [1830@617] system that you really want to focus on but some [1840@620] states are much better than others like some really focus [1850@624] on that education and so they're you know their installers [1860@627] is top notch they know their business and others it's [1870@630] uh(?) they got certified 50 years ago and nobody ever [1880@633] talked to him again you(?) know it's uh(?) yeah so [1890@635] we definitely see regions of those mistakes
+
+ASHLEY: [1897@638] and then
+
+ZACH: [1899@639] others [1900@639] where and these guys are fantastic
+
+ASHLEY: [1906@642] yeah that's great what [1910@644] sort of maintenance does the gsf need over its lifetime [1920@647] uh
+
+JIMMY: [1921@649] so that's a it's a great question typically we're [1930@652] we're no low to no maintenance
+
+ASHLEY: [1936@655] on the
+
+JIMMY: [1938@655] gravity filter [1940@655] system so it would be the same exact thing you're [1950@658] doing on a conventional system routine pumping of that septic [1960@660] tank and cleaning that effluent filter on the site just(?) [1970@664] like any other system if you get into pumps or [1980@667] a pressurized system there is going to be that annual [1990@669] maintenance on the pump you want to make sure that [2000@671] that's all good to go on the pressurized lines those [2010@674] want to be those need to be jetted annually where [2020@676] there's no sludge or anything that's going to build up [2030@678] inside of those lines so if we if we're gravity [2040@680] fed slow to no maintenance just pumping to that septic [2050@684] tank in(?) the effluent filter vehicle(?)
+
+ASHLEY: [2056@685] okay yeah that's good [2060@686] so(?) kind of the northeastern part of our country really [2070@691] slows down when it gets cold you know everything freezes [2080@694] and you know they they have guys sort of twiddling [2090@696] their thumbs and it's hard to get business to you [2100@700] know basically not bleed out during those months so can [2110@703] the system be installed in the winter and is there [2120@705] anything that they need to do differently when the ground [2130@706] is frozen
+
+JIMMY: [2132@707] say(?) this word again some codes
+
+ASHLEY: [2138@709] okay some
+
+JIMMY: [2140@711] codes will allow winter installs
+
+ASHLEY: [2145@712] as long as
+
+JIMMY: [2148@713] the frost [2150@714] line isn't too deep or if there's no snow on [2160@716] the ground okay(?) we do not want to install typically [2170@720] in a wet environment we(?) don't want smearing and(?) compacting [2180@722] of those soils so the conditions do have to be [2190@725] just right if it's gonna be a wintertime installation
+
+ASHLEY: [2199@728] yeah [2200@728] but
+
+ZACH: [2201@728] we're pretty popular in Wisconsin and I mean it [2210@730] snows eight months out of the year there yeah and [2220@734] Canada so those conditions is weather conditions really just about [2230@740] the soils how(?) moist they are are they frozen you [2240@744] know so yeah it really is dependent on the zone [2250@747] the weather what's going on there
+
+ASHLEY: [2256@749] yeah and
+
+ZACH: [2258@750] it really [2260@750] doesn't have anything to do with the gsf it's just [2270@752] any type of system
+
+ASHLEY: [2274@753] okay yeah and then the regulations
+
+ZACH: [2280@755] that's correct [2282@757 gap1.0] i'm
+
+ASHLEY: [2283@757] catching on [2285@760 gap2.1] yeah yeah that's really good [2290@762] uh what changes in regulation would you guys like to [2300@765] see
+
+ZACH: [2301@770] Yeah, this one's interesting. So much of the regulation [2310@774] from state to state, when you talk about treatment, is [2320@778] focused on ATUs, aerobic treatment units or advanced treatment units. [2330@784 gap1.5] And that code, because it's written for that, trying to [2340@789] get our technology into that code is extremely difficult because [2350@794] they're talking about treatment levels and stuff. Yeah, we reach [2360@796] that. but at the bottom of the system when it's [2370@801] reaching the soils. And so many states are like, oh, [2380@804] yeah, we need this tested. We want to confirm your [2390@808] treatment values. [2392@810 gap0.9] That's easy to do when it's an enclosed [2400@813] environment like an ATU. You just scoop some out. All [2410@816] right, you're good to go. It's a little more finicky [2420@818] when it's in the soil itself. And so we find [2430@822] it very difficult for the regulators and the approving officials [2440@826] to kind of navigate their code for this unique technology [2450@832] to
+
+ASHLEY: [2451@832] kind of
+
+ZACH: [2453@832] fit into it. So I think that's [2460@835] probably the biggest struggle that we have. [2467@838 gap0.8] That and states [2470@840] have been burned, right? They've had somebody come in to [2480@843] sell some snake oil. And they've had terrible experiences, which [2490@848] created a whole mess for them. So they're very, very [2500@852] cautious when it comes to new or different technology. and(?) [2510@856] uh(?) you know for a good reason right so that's [2520@859] also a difficult part of it uh and when they [2530@863] try to update their code to prevent those type of [2540@865] things from happening it just makes it really really difficult [2550@868] for them to you know extend right you know that [2560@872] that grace to allow a new company or a new [2570@876] treatment or especially when it's a unique you know it [2580@879] doesn't fit in the box to(?) what other treatment systems
+
+ASHLEY: [2590@882] are. Yeah,(?) that innovative technology is, it's needed in the [2600@888] industry, but getting everyone on board is a challenge. Right,
+
+ZACH: [2610@892] yeah, it really is.
+
+ASHLEY: [2614@894] Yeah, so hopefully it's a good [2620@895] conversation, you know, for people who listen, more can understand [2630@898] kind of the benefits of it and what we're facing, [2640@901] and I think the more that demand increases for this [2650@905] kind of thing, hopefully the regulations will follow. [2658@909 gap0.8] that(?) would [2660@910] be great
+
+ZACH: [2662@910] yeah and you know it's not like the [2670@913] gsf is a you know spring chicken like it's been [2680@916] around since the uh the late 80s and so i [2690@920] think this year we're gonna pass five million units
+
+ASHLEY: [2699@924] that [2700@924] have
+
+ZACH: [2701@924] been sold and so um we have an incredibly [2710@928] good track record this thing has been doing really well [2720@931] and so just because it's unique and different doesn't mean [2730@935] We don't have the history, the testing, and regulatory precedent [2740@942] that other places have used it for a long time, [2750@944] like 30 -plus years.
+
+ASHLEY: [2754@946] Yeah, that's a very long time. [2760@948] So do you guys have, obviously, your own testing data [2770@951] behind it? Do you have any third -party testing data [2780@954] or anything that you've done with maybe universities or anything [2790@956] like that, that kind of stuff?
+
+ZACH: [2796@958] Yeah, matter of fact, [2800@959] we're the testing guys.
+
+ASHLEY: [2804@961] Okay, perfect. We
+
+JIMMY: [2807@963] use a couple [2810@963] places throughout America where we install, test our system in [2820@967] different scenarios. I'm not going to get involved in the [2830@969] secrets out there,
+
+ASHLEY: [2833@970] but we
+
+ZACH: [2835@971] do use the licensed third [2840@972] -party testing to make sure everything's accurate and all the [2850@975] numbers are accurate. We've been tested third -party in Canada, [2860@980] Australia, Sweden, and in quite a few locations here in [2870@985] the United States.
+
+ASHLEY: [2873@986] Yeah, [2874@987 gap0.8] that's really
+
+JIMMY: [2876@988] cool. climates as well [2880@989] so you've got some in you(?) know the northern freezing [2890@992] climates zone(?) seven yeah baby and you got some in [2900@995] the gulf down there so
+
+ASHLEY: [2905@997] you've got a
+
+JIMMY: [2908@997] nice warm [2910@998] climate to see how they they act so
+
+ASHLEY: [2918@999] yeah what's [2920@1001] your biggest non -north american market do you or do [2930@1003] you actively sell to like australia yeah
+
+ZACH: [2937@1006] probably australia i [2940@1007] think australia yeah their coat is very unique and so [2950@1010] are their soils but it is a different world there [2960@1014] um because the majority of(?) Australia is that gigantic desert [2970@1018] they(?) have a lot of water conservation and so the [2980@1024] waste strength is through the roof but we've seen some [2990@1029] really impressive numbers coming out of there but just like [3000@1033] anywhere else you know that they want to make sure [3010@1036] that it works and works well
+
+ASHLEY: [3016@1038] yeah and
+
+ZACH: [3018@1039] so yeah [3020@1040] there's a lot of development that's going on there but [3030@1042] that's probably our biggest market outside(?)
+
+ASHLEY: [3036@1044] okay(?) y 'all ever [3040@1046] get to go on a trip to australia with your [3050@1049] testing
+
+JIMMY: [3051@1051] like he(?) was saying it is it is a [3060@1052] lot going on there to try and get the regulatory [3070@1055] aspect and everything worked out so um typically when the [3080@1059] boss will make the trip out it's usually like two [3090@1061] weeks that way you have enough time to try and [3100@1063] get everything done um so he's been keeping a pulse [3110@1068] on that for the last few years
+
+ASHLEY: [3117@1069] while(?) getting
+
+ZACH: [3119@1069] it [3120@1069] going
+
+ASHLEY: [3121@1069] what does support look like for the designer for(?) [3130@1073] the installer that needs help troubleshooting I know you said [3140@1077] they have free videos on your website what else can [3150@1080] they do to get support from you guys
+
+JIMMY: [3158@1081] all of [3160@1082] our information is posted up there so if they click [3170@1085] on the website go to industry professionals that doesn't homeowner [3180@1088] can do it install our designer and click their state [3190@1091] it's going to give you my contact if I'm your [3200@1093] rep
+
+ASHLEY: [3201@1093] okay give(?)
+
+JIMMY: [3203@1094] you anybody from our company's contact information [3210@1097] so you have a direct link to our cell phone [3220@1098] my email and we're pretty good with you know a [3230@1102] 24 -hour return policy on an email unless for some [3240@1104] reason we're out we're on vacation
+
+ASHLEY: [3246@1106] yeah but
+
+JIMMY: [3248@1107] we also [3250@1107] share the workload and teams so you know if he's [3260@1110] out for a week I'll take his calls
+
+ASHLEY: [3268@1112] yeah vice
+
+JIMMY: [3270@1113] versa so and they can reach out with anything anything [3280@1116] they got if it's an install question how to get [3290@1118] training when is the next training we're gonna host design [3300@1123] review design reviews another big one so everybody that everybody [3310@1126] that installs has to be certified with us to install [3320@1129] the product. [3322@1131 gap1.0] And when they certify it through our website, [3330@1134] it'll let the tech rep know, hey, John certified today [3340@1137] in your state. So then I can call John and [3350@1140] say, hey, man, I'm so glad you got the training [3360@1141] done today. Do you have a design that was already [3370@1143] given to you? Who'd it come from? Can I see [3380@1146] it? And then we can go over that the way [3390@1147] he's already, you know, ready to go as soon as [3400@1150] he
+
+ASHLEY: [3401@1150] gets to
+
+ZACH: [3403@1150] the site.
+
+ASHLEY: [3405@1151] That's great. What's probably the [3410@1153] most common question you field with this(?) these emails and [3420@1156] phone calls that you're getting
+
+ZACH: [3425@1157] what can I plant on [3430@1159] top of this thing yeah yeah you know it's
+
+ASHLEY: [3439@1163] a [3440@1163] it's
+
+JIMMY: [3441@1163] a it's a drain field so I'm not gonna [3450@1165] be putting carrots or something out
+
+ASHLEY: [3456@1167] there but you
+
+ZACH: [3459@1168] know [3460@1168] it's shallow root vegetables or wildflowers they(?) want
+
+ASHLEY: [3468@1171] to plant [3470@1172] on top of it if
+
+ZACH: [3475@1172] they want to plant
+
+ASHLEY: [3479@1173] on [3480@1173] top of
+
+ZACH: [3482@1173] it we got(?) a lot of questions about [3490@1175] can I drive over it yeah other questions
+
+ASHLEY: [3498@1179] and the [3500@1180] answer is no correct
+
+ZACH: [3504@1181] well it can be designed like [3510@1184] that but if it's not you normally our manuals just [3520@1187] talk about a normal design where you're not going to [3530@1190] drive
+
+ASHLEY: [3531@1190] over but
+
+ZACH: [3533@1191] it can be engineered to withstand those [3540@1193] loads it just has to be engineered
+
+ASHLEY: [3547@1196] right you
+
+ZACH: [3549@1197] know [3550@1197] but there's uh there's ways to work around things so [3560@1199] we had a we had a farmer in Iowa(?) that [3570@1203] his hay barn he has to drive over his field [3580@1208] and so we talked to him about his tractor how [3590@1210] much weight it is and all that and came up [3600@1213] with a solution that he just puts down some plywood [3610@1215] to be able to drive over because it's only once [3620@1217] a year when he loads up his uh his hay [3630@1221] you know during that season and then doesn't do it [3640@1223] anymore and so that worked out for him
+
+ASHLEY: [3648@1225] you know [3650@1225] so
+
+ZACH: [3651@1225] we we tried to not just say no don't [3660@1228] do that yeah(?) as best as possible because we we [3670@1232] do want them to contact us it's a hard no [3680@1234] though we're not going to recommend something that's [3688@1237 gap0.8] gonna(?) gonna(?) [3690@1238] hurt ourselves in the long
+
+ASHLEY: [3695@1239] run right(?)
+
+ZACH: [3697@1239] that's correct
+
+ASHLEY: [3699@1240] yeah [3700@1240] we
+
+JIMMY: [3701@1241] talk about it all the time we do like [3710@1243] inspections or troubleshooting systems and one of the one of [3720@1247] the big things on there is bending to a homeowner's [3730@1249] will like I really want to try and make this [3740@1250] work
+
+ASHLEY: [3741@1251] right yeah and
+
+JIMMY: [3744@1252] something some certain scenarios that will [3750@1255] not work at all for our system yeah just(?) got [3760@1258] to make sure you're
+
+ASHLEY: [3764@1258] so(?) if someone wants to get [3770@1262] started and wants to get certified how long(?) does that [3780@1264] process take
+
+JIMMY: [3782@1265] about(?) three days no go to elgin .com [3790@1269] and we've updated our website there's a big blue button [3800@1271] that says get trained you(?) put your information phone number [3810@1274] email make a username on there and it'll send the [3820@1277] rep to that state your information and right now i [3830@1280] have it on hand i can give you access to [3840@1282] take the training and we've got about a 20 minute [3850@1285] training video 40 slideshow training video that we posted on [3860@1290] our website we also get the design manual you You [3870@1293] get all the information for that state that you're working [3880@1295] out of, some case study stories. That way you can [3890@1298] see some of the difficult sites that we've worked on. [3900@1302] So,(?) I mean, you can get it done within a [3910@1303] half hour, you know, the training. There's a test. There's [3920@1308] a questionnaire afterwards. So we used to do this personally [3930@1310] with everybody on Microsoft Teams.
+
+ASHLEY: [3935@1312] Oh, wow. And
+
+JIMMY: [3938@1313] the training [3940@1314] online takes about an hour and a half, and I [3950@1315] have 200 slides that I go through. [3957@1318 gap1.0] And, you know, [3960@1318] I'll still do it if somebody wants to do that.
+
+ASHLEY: [3970@1321] The(?) deep dive.
+
+JIMMY: [3973@1322] I'm not going to talk about anybody's [3980@1323] age, but there are some installers out there that are [3990@1326] ready to start something new, and they're not so tech [4000@1330] savvy on that
+
+ASHLEY: [4003@1330] side, so the
+
+ZACH: [4006@1332] option is still there.
+
+ASHLEY: [4010@1334] Yeah, that's great.
+
+ZACH: [4013@1334] I've met quite a few that they [4020@1336] don't even have an email, they don't even have a [4030@1338] cell phone. They're calling from their wives.
+
+ASHLEY: [4037@1340] Oh, I know. [4040@1342 gap0.8] I've met them before. Yeah, I was in Texas, and [4050@1346] I was talking to a lady, and she's, I think, [4060@1348] 84, and she's doing it herself. She is the operator. [4070@1352] Her name is Alligator Annie. And I was like, I [4080@1354] got to connect with
+
+ZACH: [4084@1355] you.
+
+ASHLEY: [4085@1355] She's like, I don't have [4090@1356] a phone, you know? [4094@1358 gap0.9] So yeah, that's definitely a real [4100@1360] thing for sure.
+
+ZACH: [4103@1362] But you know, they do good work [4110@1364] and good on them when they contact us because they [4120@1368] want that training. They've
+
+ASHLEY: [4124@1369] never seen
+
+ZACH: [4126@1369] it before. It's great. [4130@1370] They're doing something new. That's
+
+ASHLEY: [4135@1372] fantastic. Yeah. So I like [4140@1374] to ask everyone at the end of every episode to [4150@1377] give a piece of advice, a piece of million dollar [4160@1379] advice so(?) if you were to have a group of [4170@1383] installers or maybe designers [4174@1385 gap0.8] because that's really the main audience [4180@1387] here and you would give them one piece of advice [4190@1390] what would you tell them that would really help them [4200@1392] in the process with their business
+
+JIMMY: [4206@1394] for me i'd say [4210@1395] it's communication that's the key to everything so be open [4220@1399] and honest yeah quick responses and and know your audience [4230@1403] so i i respond everybody quickly and
+
+ASHLEY: [4237@1406] i think it
+
+JIMMY: [4240@1406] helps(?) most of the time it's just a conversation yeah(?) [4250@1409] keeping the conversation going where's that follow -up just to [4260@1413] make sure you're either getting the jobs or why didn't [4270@1415] we could get the job
+
+ASHLEY: [4275@1416] absolutely and
+
+JIMMY: [4277@1416] how do I [4280@1417] fix that for the next time I go to do [4290@1419] that job or bid that job so we can make [4300@1420] sure we get it next time
+
+ASHLEY: [4306@1421] that's really good because [4310@1423] I think most people don't follow up so yeah there's [4320@1426] there's a lot of money left on the table and [4330@1428] learning like you said left on the table by not [4340@1430] asking those questions and following up that's great
+
+ZACH: [4348@1432] yeah mine [4350@1433] is similar to what jimmy just said is that you [4360@1436] know the manufacturers know and want the system to work
+
+ASHLEY: [4370@1441] well and
+
+ZACH: [4372@1441] so if you view us as part of [4380@1444] your team uh you can get a lot of you [4390@1448] know we don't charge for our design reviews or our [4400@1450] training or you ask us whatever questions we want that [4410@1454] system to work just as much as you do because [4420@1456] you don't want to go back and so view us [4430@1458] as part of that team uh to you know to [4440@1462] be the most successful yeah(?) resources are out there yeah [4450@1465] just got(?) to have that conversation to find what's available [4460@1468] to you i facetime with installers that i can't be [4470@1471] on
+
+ASHLEY: [4471@1471] site they're
+
+JIMMY: [4473@1471] like hey is this correct you know [4480@1473] especially new people or send me some photos of what [4490@1475] they have going on on site just to make sure [4500@1477] that they're they're feeling comfortable as they progress into putting [4510@1480] more of these in that's right
+
+ASHLEY: [4516@1481] that's great yeah don't [4520@1483] be afraid to ask for help right yeah [4528@1485 gap1.1] that's good [4530@1486] stuff well zach jimmy thank you for being on the [4540@1488] podcast and tell everyone again where they can find elgin [4550@1491] if they want more information
+
+ZACH: [4555@1492] uh elgin .com um it's [4560@1495] e(?) -l -j -e -n
+
+ASHLEY: [4565@1497] .com pretty easy yeah
+
+ZACH: [4569@1499] awesome [4570@1500] yeah and you'll be able to find all of our [4580@1501] contact information our team and uh we all we uh [4590@1505] all of our tech team is our veterans
+
+ASHLEY: [4598@1507] yes so
+
+ZACH: [4600@1508] um we've been around the block we're not we're not [4610@1511] uh not young guys that don't know anything but if [4620@1515] i could add one thing though
+
+ASHLEY: [4626@1516] yeah i know
+
+JIMMY: [4629@1516] we [4630@1517] missed this earlier we(?) are looking to help out veterans [4640@1519] in this community
+
+ASHLEY: [4643@1520] so if
+
+JIMMY: [4645@1520] there's somebody that you know [4650@1522] or in your line of work that may be a [4660@1525] veteran in need of a system or repair contact us [4670@1529] let us know and we'll try and get with the [4680@1531] try and get with the state the installers and the [4690@1535] uh(?) the local distributor try and see if we can [4700@1536] ease the cost and burden of that replacement system for [4710@1539] that veteran(?)
+
+ASHLEY: [4712@1539] yeah that's awesome so you guys are both [4720@1542] veterans which branch is the military
+
+JIMMY: [4726@1543] I was in the [4730@1545] army(?) and national guard for 10 years I(?) was a [4740@1550] horizontal construction engineer for six and then a carpentry and [4750@1553] masonry specialist for another four I was a seer specialist [4760@1558] I taught at the survival school
+
+ASHLEY: [4766@1559] okay and
+
+ZACH: [4768@1561] worked with [4770@1561] search and rescue
+
+ASHLEY: [4773@1562] okay yeah so if everything goes wrong [4780@1565] you're the guy that we
+
+ZACH: [4785@1566] yeah(?) to
+
+ASHLEY: [4787@1568] keep us if [4790@1568] it's like apocalypse yeah Camper,
+
+JIMMY: [4795@1571] professional campers,(?)
+
+ASHLEY: [4797@1573] that's awesome. Well, [4800@1576] thanks guys for being on the(?) podcast.
+
+ZACH: [4807@1577] Thank you so [4810@1577] much. This is great.

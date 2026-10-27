@@ -1,0 +1,10 @@
+{
+  "plant-on-a-drain-field": {
+    "fails": [],
+    "warns": []
+  },
+  "tractor-over-drain-field": {
+    "fails": [],
+    "warns": []
+  }
+}

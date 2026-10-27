@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.64,Title,,0,0,0,,{\pos(540,360)}Can you install\Nin the {\c&H0060ECCD}winter{\c&H00FFFFFF&}?
+Dialogue: 1,0:00:00.00,0:00:00.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Can{\c&H00FFFFFF&} the system be
+Dialogue: 1,0:00:00.13,0:00:00.27,Cap,,0,0,0,,{\pos(540,1400)}Can {\c&H0060ECCD}the{\c&H00FFFFFF&} system be
+Dialogue: 1,0:00:00.27,0:00:00.51,Cap,,0,0,0,,{\pos(540,1400)}Can the {\c&H0060ECCD}system{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:00.51,0:00:00.71,Cap,,0,0,0,,{\pos(540,1400)}Can the system {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.71,0:00:01.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installed{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:01.09,0:00:01.31,Cap,,0,0,0,,{\pos(540,1400)}installed {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:01.31,0:00:01.39,Cap,,0,0,0,,{\pos(540,1400)}installed in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.39,0:00:01.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}winter{\c&H00FFFFFF&} and is
+Dialogue: 1,0:00:01.59,0:00:01.93,Cap,,0,0,0,,{\pos(540,1400)}winter {\c&H0060ECCD}and{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:01.93,0:00:02.09,Cap,,0,0,0,,{\pos(540,1400)}winter and {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.09,0:00:02.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&} anything
+Dialogue: 1,0:00:02.17,0:00:02.43,Cap,,0,0,0,,{\pos(540,1400)}there {\c&H0060ECCD}anything{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.43,0:00:02.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} they need to
+Dialogue: 1,0:00:02.67,0:00:02.77,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}they{\c&H00FFFFFF&} need to
+Dialogue: 1,0:00:02.77,0:00:02.91,Cap,,0,0,0,,{\pos(540,1400)}that they {\c&H0060ECCD}need{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:02.91,0:00:03.01,Cap,,0,0,0,,{\pos(540,1400)}that they need {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.01,0:00:03.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} differently
+Dialogue: 1,0:00:03.13,0:00:03.51,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}differently{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.51,0:00:03.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} the ground
+Dialogue: 1,0:00:03.73,0:00:03.81,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}the{\c&H00FFFFFF&} ground
+Dialogue: 1,0:00:03.81,0:00:03.99,Cap,,0,0,0,,{\pos(540,1400)}when the {\c&H0060ECCD}ground{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.99,0:00:04.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} frozen
+Dialogue: 1,0:00:04.17,0:00:04.43,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}frozen{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.43,0:00:04.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'm gonna say{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.87,0:00:05.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} word again
+Dialogue: 1,0:00:05.09,0:00:05.27,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}word{\c&H00FFFFFF&} again
+Dialogue: 1,0:00:05.27,0:00:05.51,Cap,,0,0,0,,{\pos(540,1400)}this word {\c&H0060ECCD}again{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.51,0:00:06.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}some{\c&H00FFFFFF&} codes okay
+Dialogue: 1,0:00:06.07,0:00:06.71,Cap,,0,0,0,,{\pos(540,1400)}some {\c&H0060ECCD}codes{\c&H00FFFFFF&} okay
+Dialogue: 1,0:00:06.71,0:00:07.47,Cap,,0,0,0,,{\pos(540,1400)}some codes {\c&H0060ECCD}okay{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.47,0:00:08.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}some{\c&H00FFFFFF&} codes will
+Dialogue: 1,0:00:08.05,0:00:08.45,Cap,,0,0,0,,{\pos(540,1400)}some {\c&H0060ECCD}codes{\c&H00FFFFFF&} will
+Dialogue: 1,0:00:08.45,0:00:08.65,Cap,,0,0,0,,{\pos(540,1400)}some codes {\c&H0060ECCD}will{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.65,0:00:08.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}allow{\c&H00FFFFFF&} winter
+Dialogue: 1,0:00:08.97,0:00:09.33,Cap,,0,0,0,,{\pos(540,1400)}allow {\c&H0060ECCD}winter{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.33,0:00:09.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installs{\c&H00FFFFFF&} as long
+Dialogue: 1,0:00:09.89,0:00:10.05,Cap,,0,0,0,,{\pos(540,1400)}installs {\c&H0060ECCD}as{\c&H00FFFFFF&} long
+Dialogue: 1,0:00:10.05,0:00:10.19,Cap,,0,0,0,,{\pos(540,1400)}installs as {\c&H0060ECCD}long{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.19,0:00:10.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} the frost line
+Dialogue: 1,0:00:10.39,0:00:10.73,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}the{\c&H00FFFFFF&} frost line
+Dialogue: 1,0:00:10.73,0:00:11.25,Cap,,0,0,0,,{\pos(540,1400)}as the {\c&H0060ECCD}frost{\c&H00FFFFFF&} line
+Dialogue: 1,0:00:11.25,0:00:11.47,Cap,,0,0,0,,{\pos(540,1400)}as the frost {\c&H0060ECCD}line{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.47,0:00:11.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}isn't{\c&H00FFFFFF&} too deep or
+Dialogue: 1,0:00:11.69,0:00:11.87,Cap,,0,0,0,,{\pos(540,1400)}isn't {\c&H0060ECCD}too{\c&H00FFFFFF&} deep or
+Dialogue: 1,0:00:11.87,0:00:12.13,Cap,,0,0,0,,{\pos(540,1400)}isn't too {\c&H0060ECCD}deep{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:12.13,0:00:12.75,Cap,,0,0,0,,{\pos(540,1400)}isn't too deep {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.75,0:00:12.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} there's no
+Dialogue: 1,0:00:12.89,0:00:13.05,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}there's{\c&H00FFFFFF&} no
+Dialogue: 1,0:00:13.05,0:00:13.19,Cap,,0,0,0,,{\pos(540,1400)}if there's {\c&H0060ECCD}no{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.19,0:00:13.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}snow{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:13.43,0:00:13.69,Cap,,0,0,0,,{\pos(540,1400)}snow {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:13.69,0:00:13.79,Cap,,0,0,0,,{\pos(540,1400)}snow on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.79,0:00:14.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ground{\c&H00FFFFFF&} okay we do
+Dialogue: 1,0:00:14.11,0:00:14.65,Cap,,0,0,0,,{\pos(540,1400)}ground {\c&H0060ECCD}okay{\c&H00FFFFFF&} we do
+Dialogue: 1,0:00:14.65,0:00:15.93,Cap,,0,0,0,,{\pos(540,1400)}ground okay {\c&H0060ECCD}we{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:15.93,0:00:16.05,Cap,,0,0,0,,{\pos(540,1400)}ground okay we {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.05,0:00:16.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} want to
+Dialogue: 1,0:00:16.19,0:00:16.33,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}want{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:16.33,0:00:16.41,Cap,,0,0,0,,{\pos(540,1400)}not want {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.41,0:00:16.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}install{\c&H00FFFFFF&} typically
+Dialogue: 1,0:00:16.71,0:00:17.03,Cap,,0,0,0,,{\pos(540,1400)}install {\c&H0060ECCD}typically{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.03,0:00:17.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} a wet
+Dialogue: 1,0:00:17.23,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}a{\c&H00FFFFFF&} wet
+Dialogue: 1,0:00:17.31,0:00:17.49,Cap,,0,0,0,,{\pos(540,1400)}in a {\c&H0060ECCD}wet{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.49,0:00:17.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environment{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:17.93,0:00:18.19,Cap,,0,0,0,,{\pos(540,1400)}environment {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.19,0:00:18.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} want
+Dialogue: 1,0:00:18.35,0:00:18.47,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}want{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.47,0:00:18.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}smearing{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:18.99,0:00:19.49,Cap,,0,0,0,,{\pos(540,1400)}smearing {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.49,0:00:19.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}compacting{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:19.99,0:00:20.13,Cap,,0,0,0,,{\pos(540,1400)}compacting {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.13,0:00:20.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}those{\c&H00FFFFFF&} soils so
+Dialogue: 1,0:00:20.25,0:00:20.61,Cap,,0,0,0,,{\pos(540,1400)}those {\c&H0060ECCD}soils{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:20.61,0:00:21.25,Cap,,0,0,0,,{\pos(540,1400)}those soils {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.25,0:00:21.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} conditions do
+Dialogue: 1,0:00:21.57,0:00:21.93,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}conditions{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:21.93,0:00:22.13,Cap,,0,0,0,,{\pos(540,1400)}the conditions {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.13,0:00:22.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} to be just
+Dialogue: 1,0:00:22.33,0:00:22.49,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}to{\c&H00FFFFFF&} be just
+Dialogue: 1,0:00:22.49,0:00:22.93,Cap,,0,0,0,,{\pos(540,1400)}have to {\c&H0060ECCD}be{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:22.93,0:00:23.17,Cap,,0,0,0,,{\pos(540,1400)}have to be {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.17,0:00:23.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} if it's
+Dialogue: 1,0:00:23.41,0:00:23.57,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}if{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:23.57,0:00:23.73,Cap,,0,0,0,,{\pos(540,1400)}right if {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.73,0:00:23.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gonna{\c&H00FFFFFF&} be a
+Dialogue: 1,0:00:23.81,0:00:23.93,Cap,,0,0,0,,{\pos(540,1400)}gonna {\c&H0060ECCD}be{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:23.93,0:00:24.03,Cap,,0,0,0,,{\pos(540,1400)}gonna be {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.03,0:00:24.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wintertime{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.59,0:00:25.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installation{\c&H00FFFFFF&} yeah
+Dialogue: 1,0:00:25.13,0:00:25.59,Cap,,0,0,0,,{\pos(540,1400)}installation {\c&H0060ECCD}yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.59,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} we're pretty
+Dialogue: 1,0:00:25.83,0:00:25.99,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}we're{\c&H00FFFFFF&} pretty
+Dialogue: 1,0:00:25.99,0:00:26.15,Cap,,0,0,0,,{\pos(540,1400)}but we're {\c&H0060ECCD}pretty{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.15,0:00:26.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}popular{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:26.53,0:00:26.73,Cap,,0,0,0,,{\pos(540,1400)}popular {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.73,0:00:27.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Wisconsin{\c&H00FFFFFF&} and I
+Dialogue: 1,0:00:27.21,0:00:27.47,Cap,,0,0,0,,{\pos(540,1400)}Wisconsin {\c&H0060ECCD}and{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:27.47,0:00:27.55,Cap,,0,0,0,,{\pos(540,1400)}Wisconsin and {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.55,0:00:27.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mean{\c&H00FFFFFF&} it snows
+Dialogue: 1,0:00:27.71,0:00:27.91,Cap,,0,0,0,,{\pos(540,1400)}mean {\c&H0060ECCD}it{\c&H00FFFFFF&} snows
+Dialogue: 1,0:00:27.91,0:00:28.41,Cap,,0,0,0,,{\pos(540,1400)}mean it {\c&H0060ECCD}snows{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.41,0:00:28.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}eight{\c&H00FFFFFF&} months out
+Dialogue: 1,0:00:28.61,0:00:28.85,Cap,,0,0,0,,{\pos(540,1400)}eight {\c&H0060ECCD}months{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:28.85,0:00:29.01,Cap,,0,0,0,,{\pos(540,1400)}eight months {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.01,0:00:29.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} the year there
+Dialogue: 1,0:00:29.07,0:00:29.17,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}the{\c&H00FFFFFF&} year there
+Dialogue: 1,0:00:29.17,0:00:29.33,Cap,,0,0,0,,{\pos(540,1400)}of the {\c&H0060ECCD}year{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:29.33,0:00:29.53,Cap,,0,0,0,,{\pos(540,1400)}of the year {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.53,0:00:30.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yeah{\c&H00FFFFFF&} and Canada
+Dialogue: 1,0:00:30.67,0:00:31.23,Cap,,0,0,0,,{\pos(540,1400)}yeah {\c&H0060ECCD}and{\c&H00FFFFFF&} Canada
+Dialogue: 1,0:00:31.23,0:00:31.77,Cap,,0,0,0,,{\pos(540,1400)}yeah and {\c&H0060ECCD}Canada{\c&H00FFFFFF&}

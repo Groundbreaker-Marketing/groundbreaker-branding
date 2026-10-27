@@ -1,0 +1,146 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:39.99,Title,,0,0,0,,{\pos(540,360)}Don't install it\N{\c&H0060ECCD}upside{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:00.36,0:00:00.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} is the most
+Dialogue: 1,0:00:00.48,0:00:00.72,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}is{\c&H00FFFFFF&} the most
+Dialogue: 1,0:00:00.72,0:00:01.06,Cap,,0,0,0,,{\pos(540,1400)}What is {\c&H0060ECCD}the{\c&H00FFFFFF&} most
+Dialogue: 1,0:00:01.06,0:00:01.50,Cap,,0,0,0,,{\pos(540,1400)}What is the {\c&H0060ECCD}most{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.50,0:00:01.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}common{\c&H00FFFFFF&} mistake
+Dialogue: 1,0:00:01.96,0:00:02.44,Cap,,0,0,0,,{\pos(540,1400)}common {\c&H0060ECCD}mistake{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.44,0:00:02.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} see happening
+Dialogue: 1,0:00:02.76,0:00:03.04,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}see{\c&H00FFFFFF&} happening
+Dialogue: 1,0:00:03.04,0:00:03.78,Cap,,0,0,0,,{\pos(540,1400)}you see {\c&H0060ECCD}happening{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.78,0:00:04.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} it's being
+Dialogue: 1,0:00:04.04,0:00:04.24,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}it's{\c&H00FFFFFF&} being
+Dialogue: 1,0:00:04.24,0:00:04.52,Cap,,0,0,0,,{\pos(540,1400)}when it's {\c&H0060ECCD}being{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.52,0:00:05.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installed{\c&H00FFFFFF&} I'd say
+Dialogue: 1,0:00:05.35,0:00:05.79,Cap,,0,0,0,,{\pos(540,1400)}installed {\c&H0060ECCD}I'd{\c&H00FFFFFF&} say
+Dialogue: 1,0:00:05.79,0:00:05.89,Cap,,0,0,0,,{\pos(540,1400)}installed I'd {\c&H0060ECCD}say{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.89,0:00:06.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}probably{\c&H00FFFFFF&} one of
+Dialogue: 1,0:00:06.15,0:00:06.31,Cap,,0,0,0,,{\pos(540,1400)}probably {\c&H0060ECCD}one{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:06.31,0:00:06.39,Cap,,0,0,0,,{\pos(540,1400)}probably one {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.39,0:00:06.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} common things
+Dialogue: 1,0:00:06.55,0:00:07.45,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}common{\c&H00FFFFFF&} things
+Dialogue: 1,0:00:07.45,0:00:08.29,Cap,,0,0,0,,{\pos(540,1400)}the common {\c&H0060ECCD}things{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.29,0:00:08.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} I may see
+Dialogue: 1,0:00:08.45,0:00:08.57,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}I{\c&H00FFFFFF&} may see
+Dialogue: 1,0:00:08.57,0:00:08.83,Cap,,0,0,0,,{\pos(540,1400)}that I {\c&H0060ECCD}may{\c&H00FFFFFF&} see
+Dialogue: 1,0:00:08.83,0:00:09.11,Cap,,0,0,0,,{\pos(540,1400)}that I may {\c&H0060ECCD}see{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.11,0:00:09.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} site is just
+Dialogue: 1,0:00:09.33,0:00:09.57,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}site{\c&H00FFFFFF&} is just
+Dialogue: 1,0:00:09.57,0:00:09.75,Cap,,0,0,0,,{\pos(540,1400)}on site {\c&H0060ECCD}is{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:09.75,0:00:09.89,Cap,,0,0,0,,{\pos(540,1400)}on site is {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.89,0:00:10.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} fabric
+Dialogue: 1,0:00:10.05,0:00:10.47,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}fabric{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.47,0:00:11.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}making{\c&H00FFFFFF&} sure that
+Dialogue: 1,0:00:11.35,0:00:11.55,Cap,,0,0,0,,{\pos(540,1400)}making {\c&H0060ECCD}sure{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:11.55,0:00:11.69,Cap,,0,0,0,,{\pos(540,1400)}making sure {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.69,0:00:12.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} placed
+Dialogue: 1,0:00:12.31,0:00:12.75,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}placed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.75,0:00:13.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}appropriately{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.35,0:00:13.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} we don't
+Dialogue: 1,0:00:13.81,0:00:13.99,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}we{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:13.99,0:00:14.13,Cap,,0,0,0,,{\pos(540,1400)}right we {\c&H0060ECCD}don't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.13,0:00:14.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}want{\c&H00FFFFFF&} any tenting
+Dialogue: 1,0:00:14.23,0:00:14.39,Cap,,0,0,0,,{\pos(540,1400)}want {\c&H0060ECCD}any{\c&H00FFFFFF&} tenting
+Dialogue: 1,0:00:14.39,0:00:14.79,Cap,,0,0,0,,{\pos(540,1400)}want any {\c&H0060ECCD}tenting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.79,0:00:15.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}above{\c&H00FFFFFF&} the unit so
+Dialogue: 1,0:00:15.03,0:00:15.23,Cap,,0,0,0,,{\pos(540,1400)}above {\c&H0060ECCD}the{\c&H00FFFFFF&} unit so
+Dialogue: 1,0:00:15.23,0:00:15.49,Cap,,0,0,0,,{\pos(540,1400)}above the {\c&H0060ECCD}unit{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:15.49,0:00:16.01,Cap,,0,0,0,,{\pos(540,1400)}above the unit {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.01,0:00:16.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}placing{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:16.31,0:00:16.49,Cap,,0,0,0,,{\pos(540,1400)}placing {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.49,0:00:16.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fabric{\c&H00FFFFFF&} the right
+Dialogue: 1,0:00:16.85,0:00:17.03,Cap,,0,0,0,,{\pos(540,1400)}fabric {\c&H0060ECCD}the{\c&H00FFFFFF&} right
+Dialogue: 1,0:00:17.03,0:00:17.21,Cap,,0,0,0,,{\pos(540,1400)}fabric the {\c&H0060ECCD}right{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.21,0:00:17.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}way{\c&H00FFFFFF&} it's probably
+Dialogue: 1,0:00:17.51,0:00:18.39,Cap,,0,0,0,,{\pos(540,1400)}way {\c&H0060ECCD}it's{\c&H00FFFFFF&} probably
+Dialogue: 1,0:00:18.39,0:00:18.71,Cap,,0,0,0,,{\pos(540,1400)}way it's {\c&H0060ECCD}probably{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.71,0:00:18.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} one common
+Dialogue: 1,0:00:18.97,0:00:19.53,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}one{\c&H00FFFFFF&} common
+Dialogue: 1,0:00:19.53,0:00:19.99,Cap,,0,0,0,,{\pos(540,1400)}the one {\c&H0060ECCD}common{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.99,0:00:20.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thing{\c&H00FFFFFF&} that they
+Dialogue: 1,0:00:20.19,0:00:20.37,Cap,,0,0,0,,{\pos(540,1400)}thing {\c&H0060ECCD}that{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:20.37,0:00:20.47,Cap,,0,0,0,,{\pos(540,1400)}thing that {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.47,0:00:20.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}may{\c&H00FFFFFF&} miss we're
+Dialogue: 1,0:00:20.63,0:00:21.28,Cap,,0,0,0,,{\pos(540,1400)}may {\c&H0060ECCD}miss{\c&H00FFFFFF&} we're
+Dialogue: 1,0:00:21.28,0:00:21.74,Cap,,0,0,0,,{\pos(540,1400)}may miss {\c&H0060ECCD}we're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.74,0:00:22.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}flipping{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:22.02,0:00:22.18,Cap,,0,0,0,,{\pos(540,1400)}flipping {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.18,0:00:22.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}units{\c&H00FFFFFF&} upside down
+Dialogue: 1,0:00:22.44,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}units {\c&H0060ECCD}upside{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:22.76,0:00:23.04,Cap,,0,0,0,,{\pos(540,1400)}units upside {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.04,0:00:23.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you'll{\c&H00FFFFFF&} see that
+Dialogue: 1,0:00:23.24,0:00:23.38,Cap,,0,0,0,,{\pos(540,1400)}you'll {\c&H0060ECCD}see{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:23.38,0:00:23.52,Cap,,0,0,0,,{\pos(540,1400)}you'll see {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.52,0:00:23.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}every{\c&H00FFFFFF&} now we try
+Dialogue: 1,0:00:23.68,0:00:23.88,Cap,,0,0,0,,{\pos(540,1400)}every {\c&H0060ECCD}now{\c&H00FFFFFF&} we try
+Dialogue: 1,0:00:23.88,0:00:25.60,Cap,,0,0,0,,{\pos(540,1400)}every now {\c&H0060ECCD}we{\c&H00FFFFFF&} try
+Dialogue: 1,0:00:25.60,0:00:25.82,Cap,,0,0,0,,{\pos(540,1400)}every now we {\c&H0060ECCD}try{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.82,0:00:25.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} hammer it into
+Dialogue: 1,0:00:25.94,0:00:26.18,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}hammer{\c&H00FFFFFF&} it into
+Dialogue: 1,0:00:26.18,0:00:26.36,Cap,,0,0,0,,{\pos(540,1400)}to hammer {\c&H0060ECCD}it{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:26.36,0:00:26.58,Cap,,0,0,0,,{\pos(540,1400)}to hammer it {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.58,0:00:26.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} okay this is
+Dialogue: 1,0:00:26.92,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}okay{\c&H00FFFFFF&} this is
+Dialogue: 1,0:00:27.28,0:00:27.56,Cap,,0,0,0,,{\pos(540,1400)}like okay {\c&H0060ECCD}this{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:27.56,0:00:27.70,Cap,,0,0,0,,{\pos(540,1400)}like okay this {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.70,0:00:27.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} way up this
+Dialogue: 1,0:00:27.82,0:00:28.02,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}way{\c&H00FFFFFF&} up this
+Dialogue: 1,0:00:28.02,0:00:28.30,Cap,,0,0,0,,{\pos(540,1400)}the way {\c&H0060ECCD}up{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:28.30,0:00:28.80,Cap,,0,0,0,,{\pos(540,1400)}the way up {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.80,0:00:28.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}way{\c&H00FFFFFF&} up there's a
+Dialogue: 1,0:00:28.98,0:00:29.22,Cap,,0,0,0,,{\pos(540,1400)}way {\c&H0060ECCD}up{\c&H00FFFFFF&} there's a
+Dialogue: 1,0:00:29.22,0:00:30.36,Cap,,0,0,0,,{\pos(540,1400)}way up {\c&H0060ECCD}there's{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:30.36,0:00:30.48,Cap,,0,0,0,,{\pos(540,1400)}way up there's {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.48,0:00:30.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spray{\c&H00FFFFFF&} painting
+Dialogue: 1,0:00:30.74,0:00:31.02,Cap,,0,0,0,,{\pos(540,1400)}spray {\c&H0060ECCD}painting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.02,0:00:31.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}line{\c&H00FFFFFF&} and we've
+Dialogue: 1,0:00:31.22,0:00:31.36,Cap,,0,0,0,,{\pos(540,1400)}line {\c&H0060ECCD}and{\c&H00FFFFFF&} we've
+Dialogue: 1,0:00:31.36,0:00:31.50,Cap,,0,0,0,,{\pos(540,1400)}line and {\c&H0060ECCD}we've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.50,0:00:31.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}also{\c&H00FFFFFF&} put new
+Dialogue: 1,0:00:31.68,0:00:31.96,Cap,,0,0,0,,{\pos(540,1400)}also {\c&H0060ECCD}put{\c&H00FFFFFF&} new
+Dialogue: 1,0:00:31.96,0:00:32.18,Cap,,0,0,0,,{\pos(540,1400)}also put {\c&H0060ECCD}new{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.18,0:00:32.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}marketing{\c&H00FFFFFF&} logos
+Dialogue: 1,0:00:32.80,0:00:33.28,Cap,,0,0,0,,{\pos(540,1400)}marketing {\c&H0060ECCD}logos{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.28,0:00:33.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} there to show
+Dialogue: 1,0:00:33.50,0:00:33.66,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}there{\c&H00FFFFFF&} to show
+Dialogue: 1,0:00:33.66,0:00:33.94,Cap,,0,0,0,,{\pos(540,1400)}on there {\c&H0060ECCD}to{\c&H00FFFFFF&} show
+Dialogue: 1,0:00:33.94,0:00:34.36,Cap,,0,0,0,,{\pos(540,1400)}on there to {\c&H0060ECCD}show{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.36,0:00:34.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} this is the
+Dialogue: 1,0:00:34.58,0:00:34.78,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}this{\c&H00FFFFFF&} is the
+Dialogue: 1,0:00:34.78,0:00:34.96,Cap,,0,0,0,,{\pos(540,1400)}that this {\c&H0060ECCD}is{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:34.96,0:00:35.08,Cap,,0,0,0,,{\pos(540,1400)}that this is {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.08,0:00:35.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} side up
+Dialogue: 1,0:00:35.26,0:00:35.46,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}side{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:35.46,0:00:35.82,Cap,,0,0,0,,{\pos(540,1400)}right side {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.82,0:00:35.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.94,0:00:36.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} it will work
+Dialogue: 1,0:00:36.00,0:00:36.38,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}it{\c&H00FFFFFF&} will work
+Dialogue: 1,0:00:36.38,0:00:36.58,Cap,,0,0,0,,{\pos(540,1400)}but it {\c&H0060ECCD}will{\c&H00FFFFFF&} work
+Dialogue: 1,0:00:36.58,0:00:36.88,Cap,,0,0,0,,{\pos(540,1400)}but it will {\c&H0060ECCD}work{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.88,0:00:37.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}either{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:37.08,0:00:37.52,Cap,,0,0,0,,{\pos(540,1400)}either {\c&H0060ECCD}way{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.54,0:00:37.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} it obviously
+Dialogue: 1,0:00:37.62,0:00:37.80,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}it{\c&H00FFFFFF&} obviously
+Dialogue: 1,0:00:37.80,0:00:38.30,Cap,,0,0,0,,{\pos(540,1400)}but it {\c&H0060ECCD}obviously{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.30,0:00:38.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}works{\c&H00FFFFFF&} better when
+Dialogue: 1,0:00:38.60,0:00:38.88,Cap,,0,0,0,,{\pos(540,1400)}works {\c&H0060ECCD}better{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:38.88,0:00:39.08,Cap,,0,0,0,,{\pos(540,1400)}works better {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.08,0:00:39.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} right side
+Dialogue: 1,0:00:39.24,0:00:39.34,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}right{\c&H00FFFFFF&} side
+Dialogue: 1,0:00:39.34,0:00:39.56,Cap,,0,0,0,,{\pos(540,1400)}it's right {\c&H0060ECCD}side{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.56,0:00:39.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}up{\c&H00FFFFFF&}
