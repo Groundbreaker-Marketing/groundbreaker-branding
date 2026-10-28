@@ -1,9 +1,23 @@
 {
+  "upside-down": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "georgia-soils": {
+    "fails": [],
+    "warns": []
+  },
   "winter-installs": {
     "fails": [],
     "warns": []
   },
-  "tractor-over-drain-field": {
+  "not-tech-savvy": {
+    "fails": [],
+    "warns": []
+  },
+  "get-certified": {
     "fails": [],
     "warns": []
   }
