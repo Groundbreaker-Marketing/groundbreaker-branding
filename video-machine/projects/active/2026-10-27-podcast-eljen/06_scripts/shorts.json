@@ -209,6 +209,7 @@
     "facebook"
    ],
    "max_gap": 1.0,
+   "trim_start": 0.26,
    "cover": "https://static.metricool.com/video/4530374/202610/1bac973f3fc44d3f.jpg",
    "captions": {
     "tiktok": "Yes, installers still put these in upside down. Jimmy Bell and Zach Gardner of {eljen} say it'll work either way, but it works better right side up, so the units now have a spray-painted line and logos showing which side is up. The other miss they see on site is fabric that isn't placed right and ends up tenting over the unit.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #drainfield",
@@ -413,7 +414,7 @@
     "tiktok"
    ],
    "end_pad": 0.3,
-   "end_mute": 0.32,
+   "end_mute": 0.28,
    "captions": {
     "tiktok": "Installing a drain field in the winter? Some codes let you, as long as the frost line isn't too deep or there's no snow on the ground. Just stay out of wet soil, because it smears and compacts. Jimmy Bell and Zach Gardner of {eljen} know cold weather: their systems are popular in Wisconsin, where it snows eight months a year, and in Canada.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #winter #drainfield"
    }
