@@ -464,9 +464,9 @@
   "thumbnail": "07_notes/episode/thumbnail.jpg",
   "publish_at": "2026-10-28T08:00:00",
   "metricool": {
-   "post_id": 408534057,
+   "post_id": 408536466,
    "media": "https://static.metricool.com/video/4530374/202610/0d5eea82136741ad.mp4",
-   "thumbnail": "https://static.metricool.com/video/4530374/202610/b8d1a8962b7b417a.jpg",
+   "thumbnail": "https://static.metricool.com/video/4530374/202610/0ac4f081788146e5.jpg",
    "scheduled": "2026-10-28T08:00:00"
   }
  },
@@ -578,6 +578,10 @@
    [
     "High water table?",
     "box"
+   ],
+   [
+    "Eljen's answer for tough septic sites",
+    "small"
    ]
   ],
   "bg": "black",
