@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:44.03,Title,,0,0,0,,{\pos(540,360)}Why states don't trust\N{\c&H0060ECCD}new{\c&H00FFFFFF&} septic tech
+Dialogue: 2,0:00:00.00,0:00:44.03,Title,,0,0,0,,{\pos(540,480)}Why states don't trust\N{\c&H0060ECCD}new{\c&H00FFFFFF&} septic tech
 Dialogue: 1,0:00:00.00,0:00:00.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} changes in
 Dialogue: 1,0:00:00.12,0:00:00.48,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}changes{\c&H00FFFFFF&} in
 Dialogue: 1,0:00:00.48,0:00:00.76,Cap,,0,0,0,,{\pos(540,1400)}What changes {\c&H0060ECCD}in{\c&H00FFFFFF&}

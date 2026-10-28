@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:37.28,Title,,0,0,0,,{\pos(540,360)}Why didn't we\Nget the {\c&H0060ECCD}job{\c&H00FFFFFF&}?
+Dialogue: 2,0:00:00.00,0:00:37.28,Title,,0,0,0,,{\pos(540,480)}Why didn't we\Nget the {\c&H0060ECCD}job{\c&H00FFFFFF&}?
 Dialogue: 1,0:00:00.00,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}For{\c&H00FFFFFF&} me I'd say
 Dialogue: 1,0:00:00.26,0:00:00.42,Cap,,0,0,0,,{\pos(540,1400)}For {\c&H0060ECCD}me{\c&H00FFFFFF&} I'd say
 Dialogue: 1,0:00:00.42,0:00:00.62,Cap,,0,0,0,,{\pos(540,1400)}For me {\c&H0060ECCD}I'd{\c&H00FFFFFF&} say

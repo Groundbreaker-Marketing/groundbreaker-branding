@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:34.41,Title,,0,0,0,,{\pos(540,360)}{\c&H0060ECCD}5 million{\c&H00FFFFFF&} units\Nand counting
+Dialogue: 2,0:00:00.00,0:00:34.41,Title,,0,0,0,,{\pos(540,480)}{\c&H0060ECCD}5 million{\c&H00FFFFFF&} units\Nand counting
 Dialogue: 1,0:00:00.00,0:00:00.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}It's{\c&H00FFFFFF&} not like the
 Dialogue: 1,0:00:00.22,0:00:00.44,Cap,,0,0,0,,{\pos(540,1400)}It's {\c&H0060ECCD}not{\c&H00FFFFFF&} like the
 Dialogue: 1,0:00:00.44,0:00:00.84,Cap,,0,0,0,,{\pos(540,1400)}It's not {\c&H0060ECCD}like{\c&H00FFFFFF&} the
