@@ -462,7 +462,13 @@
    ]
   },
   "thumbnail": "07_notes/episode/thumbnail.jpg",
-  "publish_at": "2026-10-28T08:00:00"
+  "publish_at": "2026-10-28T08:00:00",
+  "metricool": {
+   "post_id": 408532011,
+   "media": "https://static.metricool.com/video/4530374/202610/0d5eea82136741ad.mp4",
+   "thumbnail": "https://static.metricool.com/video/4530374/202610/710d79c5949c4146.jpg",
+   "scheduled": "2026-10-28T08:00:00"
+  }
  },
  "thumbnail": {
   "layout": "trio",
