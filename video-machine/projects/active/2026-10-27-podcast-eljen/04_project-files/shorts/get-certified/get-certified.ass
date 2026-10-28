@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:44.14,Title,,0,0,0,,{\pos(540,480)}Get certified\Nin {\c&H0060ECCD}half an hour{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:44.14,Title,,0,0,0,,{\pos(540,480)}Get septic certified\Nin {\c&H0060ECCD}half an hour{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.53,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}if{\c&H00FFFFFF&} someone
 Dialogue: 1,0:00:00.53,0:00:00.77,Cap,,0,0,0,,{\pos(540,1400)}So if {\c&H0060ECCD}someone{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.77,0:00:01.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wants{\c&H00FFFFFF&} to get

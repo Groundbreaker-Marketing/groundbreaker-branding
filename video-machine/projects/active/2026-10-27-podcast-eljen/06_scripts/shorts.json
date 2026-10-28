@@ -44,14 +44,41 @@
      0.6
     ]
    ],
-   "publish_at": "2026-10-28T12:00:00",
+   "publish_at": "2026-10-28T19:00:00",
    "networks": [
     "youtube",
     "tiktok",
     "instagram",
     "facebook"
    ],
-   "cover": "https://static.metricool.com/video/4530374/202610/e2e9c5eacb404a7c.jpg"
+   "cover": "https://static.metricool.com/video/4530374/202610/e2e9c5eacb404a7c.jpg",
+   "metricool": {
+    "post_id": 409367374,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "facebook"
+      ],
+      "post_id": 409367374
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367390
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 409367415
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/14a8552e44804717.mp4",
+    "scheduled": "2026-10-28T19:00:00",
+    "cover": "https://static.metricool.com/video/4530374/202610/e2e9c5eacb404a7c.jpg"
+   }
   },
   {
    "id": "no-electricity",
@@ -98,7 +125,26 @@
     "youtube",
     "tiktok"
    ],
-   "end_pad": 0.15
+   "end_pad": 0.15,
+   "metricool": {
+    "post_id": 409367453,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409367453
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367466
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/1c829ad0823447b7.mp4",
+    "scheduled": "2026-10-28T17:00:00"
+   }
   },
   {
    "id": "upside-down",
@@ -280,7 +326,34 @@
     "instagram",
     "facebook"
    ],
-   "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg"
+   "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg",
+   "metricool": {
+    "post_id": 409367497,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "facebook"
+      ],
+      "post_id": 409367497
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367522
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 409367539
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/3bd982e2d6e24fb8.mp4",
+    "scheduled": "2026-10-30T12:00:00",
+    "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg"
+   }
   },
   {
    "id": "winter-installs",
@@ -355,7 +428,26 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "metricool": {
+    "post_id": 409367552,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409367552
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367567
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/a5193eb59bc64bca.mp4",
+    "scheduled": "2026-10-31T12:00:00"
+   }
   },
   {
    "id": "tractor-over-drain-field",
@@ -388,7 +480,26 @@
     "tiktok"
    ],
    "end_pad": 0.3,
-   "end_mute": 0.27
+   "end_mute": 0.27,
+   "metricool": {
+    "post_id": 409367587,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409367587
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367599
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/db0d82b9a1b54f38.mp4",
+    "scheduled": "2026-10-31T17:00:00"
+   }
   },
   {
    "id": "states-got-burned",
@@ -431,7 +542,26 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "metricool": {
+    "post_id": 409367616,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409367616
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367631
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/49170d65e8dd469a.mp4",
+    "scheduled": "2026-11-01T12:00:00"
+   }
   },
   {
    "id": "follow-up",
@@ -467,7 +597,26 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "metricool": {
+    "post_id": 409367645,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409367645
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367663
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/83f7a10e169946bd.mp4",
+    "scheduled": "2026-11-01T17:00:00"
+   }
   },
   {
    "id": "not-tech-savvy",
@@ -611,7 +760,34 @@
     "facebook"
    ],
    "trim_start": 0.68,
-   "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg"
+   "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg",
+   "metricool": {
+    "post_id": 409367690,
+    "posts": [
+     {
+      "networks": [
+       "youtube",
+       "facebook"
+      ],
+      "post_id": 409367690
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367704
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 409367722
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/4f1a15447d0748be.mp4",
+    "scheduled": "2026-11-03T12:00:00",
+    "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg"
+   }
   },
   {
    "id": "part-of-your-team",
@@ -639,7 +815,26 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "metricool": {
+    "post_id": 409367749,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409367749
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409367766
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/023dfddb506d438c.mp4",
+    "scheduled": "2026-11-03T17:00:00"
+   }
   }
  ]
 }
