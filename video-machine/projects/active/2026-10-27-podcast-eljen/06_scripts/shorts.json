@@ -96,7 +96,8 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "end_pad": 0.15
   },
   {
    "id": "upside-down",
@@ -143,10 +144,6 @@
      0.6
     ],
     [
-     1697,
-     0.19
-    ],
-    [
      1702,
      0.82
     ],
@@ -161,7 +158,8 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "max_gap": 1.0
   },
   {
    "id": "georgia-soils",
@@ -321,7 +319,8 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "end_pad": 0.35
   },
   {
    "id": "five-million-units",
@@ -383,7 +382,8 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "end_pad": 0.25
   },
   {
    "id": "states-got-burned",
@@ -494,16 +494,15 @@
     [
      4013,
      0.6
+    ],
+    [
+     4103,
+     0.19
+    ],
+    [
+     4110,
+     0.6
     ]
-   ],
-   "broll": [
-    {
-     "clip": "c0034.mp4",
-     "i": 4032,
-     "dur": 3.5,
-     "ss": 0.5,
-     "crop_x": 0.47
-    }
    ],
    "publish_at": "2026-11-02T12:00:00",
    "networks": [
@@ -511,7 +510,8 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "trim_start": 0.45
   },
   {
    "id": "get-certified",
@@ -550,7 +550,8 @@
    "networks": [
     "youtube",
     "tiktok"
-   ]
+   ],
+   "trim_start": 1.52
   },
   {
    "id": "helping-veterans",
@@ -566,7 +567,7 @@
      4772
     ]
    ],
-   "title": "Helping *veterans*\nget a new system",
+   "title": "Veterans helping *veterans*\nget a new septic system",
    "youtube": {
     "title": "Eljen wants to help veterans who need a new septic system",
     "description": "If you know a veteran who needs a septic system or a repair, Eljen wants to hear about it. Jimmy Bell and Zach Gardner, both veterans themselves, on how they'll work with the state, installers and distributors to ease the cost.\n\nMore from Eljen: https://www.eljen.com\n\n#septic #veterans #septicsystem #onsitewastewater"
@@ -602,7 +603,8 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "trim_start": 0.68
   },
   {
    "id": "part-of-your-team",
