@@ -50,7 +50,8 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "cover": "https://static.metricool.com/video/4530374/202610/e2e9c5eacb404a7c.jpg"
   },
   {
    "id": "no-electricity",
@@ -159,7 +160,8 @@
     "instagram",
     "facebook"
    ],
-   "max_gap": 1.0
+   "max_gap": 1.0,
+   "cover": "https://static.metricool.com/video/4530374/202610/1bac973f3fc44d3f.jpg"
   },
   {
    "id": "georgia-soils",
@@ -277,7 +279,8 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg"
   },
   {
    "id": "winter-installs",
@@ -513,7 +516,8 @@
     "instagram",
     "facebook"
    ],
-   "trim_start": 0.45
+   "trim_start": 0.45,
+   "cover": "https://static.metricool.com/video/4530374/202610/306c3768a19e466e.jpg"
   },
   {
    "id": "get-certified",
@@ -606,7 +610,8 @@
     "instagram",
     "facebook"
    ],
-   "trim_start": 0.68
+   "trim_start": 0.68,
+   "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg"
   },
   {
    "id": "part-of-your-team",
