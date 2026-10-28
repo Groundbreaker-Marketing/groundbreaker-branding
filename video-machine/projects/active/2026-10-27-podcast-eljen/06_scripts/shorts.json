@@ -320,7 +320,8 @@
     "youtube",
     "tiktok"
    ],
-   "end_pad": 0.35
+   "end_pad": 0.3,
+   "end_mute": 0.32
   },
   {
    "id": "five-million-units",
@@ -383,7 +384,8 @@
     "youtube",
     "tiktok"
    ],
-   "end_pad": 0.25
+   "end_pad": 0.3,
+   "end_mute": 0.27
   },
   {
    "id": "states-got-burned",

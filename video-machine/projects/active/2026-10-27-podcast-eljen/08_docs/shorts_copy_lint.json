@@ -1,5 +1,9 @@
 {
-  "not-tech-savvy": {
+  "winter-installs": {
+    "fails": [],
+    "warns": []
+  },
+  "tractor-over-drain-field": {
     "fails": [],
     "warns": []
   }

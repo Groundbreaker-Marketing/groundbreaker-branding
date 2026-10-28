@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:32.14,Title,,0,0,0,,{\pos(540,360)}Make the manufacturer\Npart of your {\c&H0060ECCD}team{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:32.14,Title,,0,0,0,,{\pos(540,480)}Make the manufacturer\Npart of your {\c&H0060ECCD}team{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} manufacturers
 Dialogue: 1,0:00:00.07,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}manufacturers{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.83,0:00:02.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} and want the

@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:39.68,Title,,0,0,0,,{\pos(540,360)}Cut the drain field\Nin {\c&H0060ECCD}half{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:39.68,Title,,0,0,0,,{\pos(540,480)}Cut the drain field\Nin {\c&H0060ECCD}half{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} that's
 Dialogue: 1,0:00:00.06,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}that's{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.26,0:00:00.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}obviously{\c&H00FFFFFF&} a
