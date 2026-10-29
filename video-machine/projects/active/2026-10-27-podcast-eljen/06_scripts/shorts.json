@@ -303,7 +303,8 @@
    ],
    "captions": {
     "tiktok": "Every factor against you on one lot. That's Georgia, according to Zach Gardner and Jimmy Bell of {eljen}: soil as slow as 120 minutes per inch, a ridiculous slope and a high water table. They work with the health department and local designers to find what makes a site like that work, and they've learned a lot from it.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #septicinstaller #soil"
-   }
+   },
+   "end_pad": 0.21
   },
   {
    "id": "plant-on-a-drain-field",
@@ -403,7 +404,9 @@
     "tiktok": "What can you plant on a drain field? Not carrots. The team at {eljen} says shallow-root vegetables or wildflowers are fine. The next question is always whether you can drive over it, and the answer is no, unless it was engineered to take the weight.\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #septictank #homeowner",
     "instagram": "Thinking about carrots on the drain field? Skip them.\n\nThe question {eljen} hears most is what you can plant on top of the system. Shallow-root vegetables and wildflowers are fine. Right after that, people ask about driving over it, and the answer is no, unless it was engineered to take that load.\n\nFull episode on YouTube: {episode}\n\n#septic #drainfield #septictank #homeowner #gardening",
     "facebook": "If you've ever wondered what you can plant over a drain field, you're not alone. It's the question the team at {eljen} gets most, by phone and by email. Shallow-root vegetables and wildflowers are fine. Carrots aren't. The next thing people ask is whether they can drive over it, and the answer is no, unless the system was engineered to handle that weight.\n\n#septic"
-   }
+   },
+   "end_pad": 0.3,
+   "end_mute": 0.06
   },
   {
    "id": "winter-installs",
@@ -446,11 +449,12 @@
     "youtube",
     "tiktok"
    ],
-   "end_pad": 0.3,
-   "end_mute": 0.28,
+   "end_pad": 0.32,
+   "end_mute": 0.14,
    "captions": {
     "tiktok": "Installing a drain field in the winter? Some codes let you, as long as the frost line isn't too deep or there's no snow on the ground. Just stay out of wet soil, because it smears and compacts. Jimmy Bell and Zach Gardner of {eljen} know cold weather: their systems are popular in Wisconsin, where it snows eight months a year, and in Canada.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #winter #drainfield"
-   }
+   },
+   "end_channel": "left"
   },
   {
    "id": "five-million-units",
@@ -537,7 +541,7 @@
     "tiktok"
    ],
    "end_pad": 0.3,
-   "end_mute": 0.27,
+   "end_mute": 0.23,
    "metricool": {
     "post_id": 409367587,
     "posts": [
@@ -560,7 +564,8 @@
    },
    "captions": {
     "tiktok": "A farmer in Iowa has to cross his drain field once a year to get to his hay barn. Instead of just telling him no, the team at {eljen} asked how much his tractor weighs and came up with plywood he lays down for that one trip. Zach Gardner says that's why they want you to call them first.\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #farmlife #septicinstaller"
-   }
+   },
+   "end_channel": "left"
   },
   {
    "id": "states-got-burned",
@@ -626,7 +631,10 @@
    },
    "captions": {
     "tiktok": "Why are states so slow to approve new septic technology? Zach Gardner of {eljen} says most treatment codes were written for ATUs, so anything different is hard to fit in. States have also been burned by people selling snake oil, so they're cautious, and he says it's for good reason.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicregulations #wastewater #onsitewastewater"
-   }
+   },
+   "end_channel": "right",
+   "end_pad": 0.3,
+   "end_mute": 0.15
   },
   {
    "id": "follow-up",
@@ -923,7 +931,8 @@
     "tiktok": "If you know a veteran who needs a new septic system or a repair, tell {eljen}. Jimmy Bell and Zach Gardner are both veterans: one served 10 years in the Army and National Guard, and the other taught at the survival school as a SERE specialist. They'll try to work with the state, the installer and the local distributor to ease the cost.\n\nFull episode on our YouTube: {episode}\n\n#veterans #septic #septicsystem",
     "instagram": "Veterans helping veterans.\n\nJimmy Bell and Zach Gardner of {eljen} both served. Now they want to hear about any veteran who needs a new septic system or a repair, so they can try to work with the state, the installer and the local distributor to ease the cost. Tag someone who should see this.\n\nFull episode on YouTube: {episode}\n\n#veterans #septic #septicsystem #veteransupport",
     "facebook": "If you know a veteran who needs a new septic system or a repair, please pass this along. Jimmy Bell and Zach Gardner of {eljen} are both veterans. One served 10 years in the Army and National Guard, and the other taught at the survival school as a SERE specialist. They want to hear about veterans in need, and they'll try to work with the state, the installer and the local distributor to ease the cost.\n\n#veterans #septic"
-   }
+   },
+   "end_pad": 0.22
   },
   {
    "id": "part-of-your-team",
