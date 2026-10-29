@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:41.76,Title,,0,0,0,,{\pos(540,480)}A tractor on top of\Nthe {\c&H0060ECCD}drain field{\c&H00FFFFFF&}?
+Dialogue: 2,0:00:00.00,0:00:41.84,Title,,0,0,0,,{\pos(540,480)}A tractor on top of\Nthe {\c&H0060ECCD}drain field{\c&H00FFFFFF&}?
 Dialogue: 1,0:00:00.00,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}There's{\c&H00FFFFFF&} ways to
 Dialogue: 1,0:00:00.28,0:00:00.46,Cap,,0,0,0,,{\pos(540,1400)}There's {\c&H0060ECCD}ways{\c&H00FFFFFF&} to
 Dialogue: 1,0:00:00.46,0:00:00.64,Cap,,0,0,0,,{\pos(540,1400)}There's ways {\c&H0060ECCD}to{\c&H00FFFFFF&}
