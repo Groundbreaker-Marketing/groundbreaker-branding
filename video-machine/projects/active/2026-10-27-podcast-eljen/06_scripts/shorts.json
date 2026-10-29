@@ -591,24 +591,25 @@
    "end_pad": 0.38,
    "end_mute": 0.1,
    "metricool": {
-    "post_id": 409367587,
+    "post_id": 409618377,
     "posts": [
      {
       "networks": [
        "youtube"
       ],
-      "post_id": 409367587
+      "post_id": 409618377
      },
      {
       "networks": [
        "tiktok"
       ],
-      "post_id": 409367599
+      "post_id": 409618384
      }
     ],
-    "media": "https://static.metricool.com/video/4530374/202610/db0d82b9a1b54f38.mp4",
+    "media": "https://static.metricool.com/video/4530374/202610/5374f8372fdb43e6.mp4",
     "scheduled": "2026-10-31T17:00:00",
-    "caption_sha": "b346b4d113911c1a"
+    "caption_sha": "97c98ea136b65c20",
+    "render_sha": "6693db9a6864c38c"
    },
    "captions": {
     "tiktok": "A farmer in Iowa has to cross his drain field once a year to get to his hay barn. Instead of just telling him no, the team at {eljen} asked how much his tractor weighs and came up with plywood he lays down for that one trip. Zach Gardner says that's why they want you to call them first.\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #farmlife #septicinstaller"
