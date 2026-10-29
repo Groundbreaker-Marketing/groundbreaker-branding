@@ -304,7 +304,28 @@
    "captions": {
     "tiktok": "Every factor against you on one lot. That's Georgia, according to Zach Gardner and Jimmy Bell of {eljen}: soil as slow as 120 minutes per inch, a ridiculous slope and a high water table. They work with the health department and local designers to find what makes a site like that work, and they've learned a lot from it.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #septicinstaller #soil"
    },
-   "end_pad": 0.21
+   "end_pad": 0.21,
+   "metricool": {
+    "post_id": 409611135,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409611135
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409611144
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/776c1e680ee24db9.mp4",
+    "scheduled": "2026-10-29T17:00:00",
+    "caption_sha": "239efaf9c4bed7e7",
+    "render_sha": "7b6d2006a3e94e53"
+   }
   },
   {
    "id": "plant-on-a-drain-field",
@@ -373,32 +394,38 @@
    ],
    "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg",
    "metricool": {
-    "post_id": 409367497,
+    "post_id": 409611151,
     "posts": [
      {
       "networks": [
-       "youtube",
+       "youtube"
+      ],
+      "post_id": 409611151
+     },
+     {
+      "networks": [
        "facebook"
       ],
-      "post_id": 409367497
+      "post_id": 409611157
      },
      {
       "networks": [
        "tiktok"
       ],
-      "post_id": 409367522
+      "post_id": 409611161
      },
      {
       "networks": [
        "instagram"
       ],
-      "post_id": 409367539
+      "post_id": 409611169
      }
     ],
-    "media": "https://static.metricool.com/video/4530374/202610/3bd982e2d6e24fb8.mp4",
+    "media": "https://static.metricool.com/video/4530374/202610/99b7e5cf398b4da9.mp4",
     "scheduled": "2026-10-30T12:00:00",
-    "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg",
-    "caption_sha": "2dacc1747f276059"
+    "caption_sha": "3e2142f2961b0606",
+    "render_sha": "5d3dc8427c4adce8",
+    "cover": "https://static.metricool.com/video/4530374/202610/7e5b7fe52e954a21.jpg"
    },
    "captions": {
     "tiktok": "What can you plant on a drain field? Not carrots. The team at {eljen} says shallow-root vegetables or wildflowers are fine. The next question is always whether you can drive over it, and the answer is no, unless it was engineered to take the weight.\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #septictank #homeowner",
@@ -454,7 +481,28 @@
    "captions": {
     "tiktok": "Installing a drain field in the winter? Some codes let you, as long as the frost line isn't too deep or there's no snow on the ground. Just stay out of wet soil, because it smears and compacts. Jimmy Bell and Zach Gardner of {eljen} know cold weather: their systems are popular in Wisconsin, where it snows eight months a year, and in Canada.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #winter #drainfield"
    },
-   "end_channel": "left"
+   "end_channel": "left",
+   "metricool": {
+    "post_id": 409611187,
+    "posts": [
+     {
+      "networks": [
+       "youtube"
+      ],
+      "post_id": 409611187
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 409611198
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202610/dc06c9ad943347f2.mp4",
+    "scheduled": "2026-10-30T17:00:00",
+    "caption_sha": "2f757570f9d91087",
+    "render_sha": "fb066a8e3b92ddf4"
+   }
   },
   {
    "id": "five-million-units",
@@ -610,24 +658,25 @@
     "tiktok"
    ],
    "metricool": {
-    "post_id": 409367616,
+    "post_id": 409611212,
     "posts": [
      {
       "networks": [
        "youtube"
       ],
-      "post_id": 409367616
+      "post_id": 409611212
      },
      {
       "networks": [
        "tiktok"
       ],
-      "post_id": 409367631
+      "post_id": 409611221
      }
     ],
-    "media": "https://static.metricool.com/video/4530374/202610/49170d65e8dd469a.mp4",
+    "media": "https://static.metricool.com/video/4530374/202610/a381c11729684ef5.mp4",
     "scheduled": "2026-11-01T12:00:00",
-    "caption_sha": "4f2b872859216dec"
+    "caption_sha": "14f30d5d3c3921e0",
+    "render_sha": "dcc5c5e11ef42dc0"
    },
    "captions": {
     "tiktok": "Why are states so slow to approve new septic technology? Zach Gardner of {eljen} says most treatment codes were written for ATUs, so anything different is hard to fit in. States have also been burned by people selling snake oil, so they're cautious, and he says it's for good reason.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicregulations #wastewater #onsitewastewater"
@@ -900,32 +949,38 @@
    "trim_start": 0.68,
    "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg",
    "metricool": {
-    "post_id": 409367690,
+    "post_id": 409611251,
     "posts": [
      {
       "networks": [
-       "youtube",
+       "youtube"
+      ],
+      "post_id": 409611251
+     },
+     {
+      "networks": [
        "facebook"
       ],
-      "post_id": 409367690
+      "post_id": 409611266
      },
      {
       "networks": [
        "tiktok"
       ],
-      "post_id": 409367704
+      "post_id": 409611273
      },
      {
       "networks": [
        "instagram"
       ],
-      "post_id": 409367722
+      "post_id": 409611282
      }
     ],
-    "media": "https://static.metricool.com/video/4530374/202610/4f1a15447d0748be.mp4",
+    "media": "https://static.metricool.com/video/4530374/202610/ba487876d597478c.mp4",
     "scheduled": "2026-11-03T12:00:00",
-    "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg",
-    "caption_sha": "20dfc93c0bef9b39"
+    "caption_sha": "2d934e7e9ce29f7e",
+    "render_sha": "4cb76796d61118d7",
+    "cover": "https://static.metricool.com/video/4530374/202610/abbbd3dcf2054501.jpg"
    },
    "captions": {
     "tiktok": "If you know a veteran who needs a new septic system or a repair, tell {eljen}. Jimmy Bell and Zach Gardner are both veterans: one served 10 years in the Army and National Guard, and the other taught at the survival school as a SERE specialist. They'll try to work with the state, the installer and the local distributor to ease the cost.\n\nFull episode on our YouTube: {episode}\n\n#veterans #septic #septicsystem",
