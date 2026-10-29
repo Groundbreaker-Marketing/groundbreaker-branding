@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:42.54,Title,,0,0,0,,{\pos(540,480)}Veterans helping {\c&H0060ECCD}veterans{\c&H00FFFFFF&}\Nget a new septic system
+Dialogue: 2,0:00:00.00,0:00:42.76,Title,,0,0,0,,{\pos(540,480)}Veterans helping {\c&H0060ECCD}veterans{\c&H00FFFFFF&}\Nget a new septic system
 Dialogue: 1,0:00:00.00,0:00:00.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} are looking to
 Dialogue: 1,0:00:00.16,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}are{\c&H00FFFFFF&} looking to
 Dialogue: 1,0:00:00.28,0:00:00.46,Cap,,0,0,0,,{\pos(540,1400)}We are {\c&H0060ECCD}looking{\c&H00FFFFFF&} to

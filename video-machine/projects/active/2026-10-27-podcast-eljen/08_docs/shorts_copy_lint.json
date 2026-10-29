@@ -20,5 +20,9 @@
   "get-certified": {
     "fails": [],
     "warns": []
+  },
+  "plant-on-a-drain-field": {
+    "fails": [],
+    "warns": []
   }
 }
