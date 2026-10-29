@@ -588,8 +588,8 @@
     "youtube",
     "tiktok"
    ],
-   "end_pad": 0.3,
-   "end_mute": 0.23,
+   "end_pad": 0.38,
+   "end_mute": 0.1,
    "metricool": {
     "post_id": 409367587,
     "posts": [
