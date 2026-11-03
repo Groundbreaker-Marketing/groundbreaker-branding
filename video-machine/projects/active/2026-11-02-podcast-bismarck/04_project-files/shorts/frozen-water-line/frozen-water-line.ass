@@ -1,0 +1,85 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:27.73,Title,,0,0,0,,{\pos(540,480)}Digging through\N{\c&H0060ECCD}3 feet of frost{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.01,0:00:00.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Other{\c&H00FFFFFF&} than snow
+Dialogue: 1,0:00:00.21,0:00:00.45,Cap,,0,0,0,,{\pos(540,1400)}Other {\c&H0060ECCD}than{\c&H00FFFFFF&} snow
+Dialogue: 1,0:00:00.45,0:00:00.69,Cap,,0,0,0,,{\pos(540,1400)}Other than {\c&H0060ECCD}snow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.69,0:00:01.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}removal{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.33,0:00:01.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:01.41,0:00:01.71,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.07,0:00:03.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.13,0:00:03.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}emergency{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.53,0:00:04.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumpings{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.53,0:00:04.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} freeze-ups
+Dialogue: 1,0:00:04.65,0:00:06.15,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}freeze-ups{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.15,0:00:06.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}broken{\c&H00FFFFFF&} water
+Dialogue: 1,0:00:06.67,0:00:06.97,Cap,,0,0,0,,{\pos(540,1400)}broken {\c&H0060ECCD}water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.97,0:00:07.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lines{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.63,0:00:07.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}stuff{\c&H00FFFFFF&} like that
+Dialogue: 1,0:00:07.81,0:00:08.01,Cap,,0,0,0,,{\pos(540,1400)}stuff {\c&H0060ECCD}like{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:08.01,0:00:08.43,Cap,,0,0,0,,{\pos(540,1400)}stuff like {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.58,0:00:08.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} tried not to
+Dialogue: 1,0:00:08.82,0:00:09.04,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}tried{\c&H00FFFFFF&} not to
+Dialogue: 1,0:00:09.04,0:00:09.32,Cap,,0,0,0,,{\pos(540,1400)}I tried {\c&H0060ECCD}not{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:09.32,0:00:09.86,Cap,,0,0,0,,{\pos(540,1400)}I tried not {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.86,0:00:10.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}excavate{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:10.42,0:00:10.54,Cap,,0,0,0,,{\pos(540,1400)}excavate {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:10.58,0:00:10.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}winter{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.92,0:00:11.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} sometimes
+Dialogue: 1,0:00:11.24,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}sometimes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.86,0:00:12.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.27,0:00:14.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:14.07,0:00:14.31,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.39,0:00:15.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} guy with 300
+Dialogue: 1,0:00:15.13,0:00:15.31,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}guy{\c&H00FFFFFF&} with 300
+Dialogue: 1,0:00:15.31,0:00:15.53,Cap,,0,0,0,,{\pos(540,1400)}a guy {\c&H0060ECCD}with{\c&H00FFFFFF&} 300
+Dialogue: 1,0:00:15.53,0:00:15.83,Cap,,0,0,0,,{\pos(540,1400)}a guy with {\c&H0060ECCD}300{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.83,0:00:16.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}head{\c&H00FFFFFF&} of cows that
+Dialogue: 1,0:00:16.11,0:00:16.25,Cap,,0,0,0,,{\pos(540,1400)}head {\c&H0060ECCD}of{\c&H00FFFFFF&} cows that
+Dialogue: 1,0:00:16.25,0:00:16.55,Cap,,0,0,0,,{\pos(540,1400)}head of {\c&H0060ECCD}cows{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:16.55,0:00:16.81,Cap,,0,0,0,,{\pos(540,1400)}head of cows {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.81,0:00:17.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}broken{\c&H00FFFFFF&} water
+Dialogue: 1,0:00:17.37,0:00:17.69,Cap,,0,0,0,,{\pos(540,1400)}broken {\c&H0060ECCD}water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.69,0:00:18.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}line{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.21,0:00:18.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:18.53,0:00:19.67,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.73,0:00:20.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}go{\c&H00FFFFFF&} help that guy
+Dialogue: 1,0:00:20.23,0:00:20.49,Cap,,0,0,0,,{\pos(540,1400)}go {\c&H0060ECCD}help{\c&H00FFFFFF&} that guy
+Dialogue: 1,0:00:20.49,0:00:20.69,Cap,,0,0,0,,{\pos(540,1400)}go help {\c&H0060ECCD}that{\c&H00FFFFFF&} guy
+Dialogue: 1,0:00:20.69,0:00:20.87,Cap,,0,0,0,,{\pos(540,1400)}go help that {\c&H0060ECCD}guy{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.87,0:00:21.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&} and dig
+Dialogue: 1,0:00:21.11,0:00:21.23,Cap,,0,0,0,,{\pos(540,1400)}out {\c&H0060ECCD}and{\c&H00FFFFFF&} dig
+Dialogue: 1,0:00:21.23,0:00:21.37,Cap,,0,0,0,,{\pos(540,1400)}out and {\c&H0060ECCD}dig{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.37,0:00:21.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}through{\c&H00FFFFFF&} three
+Dialogue: 1,0:00:21.55,0:00:21.77,Cap,,0,0,0,,{\pos(540,1400)}through {\c&H0060ECCD}three{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.77,0:00:22.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}feet{\c&H00FFFFFF&} of frost to
+Dialogue: 1,0:00:22.03,0:00:22.13,Cap,,0,0,0,,{\pos(540,1400)}feet {\c&H0060ECCD}of{\c&H00FFFFFF&} frost to
+Dialogue: 1,0:00:22.13,0:00:22.45,Cap,,0,0,0,,{\pos(540,1400)}feet of {\c&H0060ECCD}frost{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:22.45,0:00:22.69,Cap,,0,0,0,,{\pos(540,1400)}feet of frost {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.69,0:00:23.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fix{\c&H00FFFFFF&} a water line
+Dialogue: 1,0:00:23.27,0:00:23.39,Cap,,0,0,0,,{\pos(540,1400)}fix {\c&H0060ECCD}a{\c&H00FFFFFF&} water line
+Dialogue: 1,0:00:23.39,0:00:23.65,Cap,,0,0,0,,{\pos(540,1400)}fix a {\c&H0060ECCD}water{\c&H00FFFFFF&} line
+Dialogue: 1,0:00:23.65,0:00:23.97,Cap,,0,0,0,,{\pos(540,1400)}fix a water {\c&H0060ECCD}line{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.03,0:00:24.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know?
+Dialogue: 1,0:00:24.19,0:00:24.33,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.33,0:00:24.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yeah{\c&H00FFFFFF&} and it's
+Dialogue: 1,0:00:24.63,0:00:25.81,Cap,,0,0,0,,{\pos(540,1400)}yeah {\c&H0060ECCD}and{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:25.81,0:00:25.99,Cap,,0,0,0,,{\pos(540,1400)}yeah and {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.99,0:00:26.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}always{\c&H00FFFFFF&} in January
+Dialogue: 1,0:00:26.17,0:00:26.31,Cap,,0,0,0,,{\pos(540,1400)}always {\c&H0060ECCD}in{\c&H00FFFFFF&} January
+Dialogue: 1,0:00:26.31,0:00:26.77,Cap,,0,0,0,,{\pos(540,1400)}always in {\c&H0060ECCD}January{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.77,0:00:27.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} February
+Dialogue: 1,0:00:27.01,0:00:27.71,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}February{\c&H00FFFFFF&}

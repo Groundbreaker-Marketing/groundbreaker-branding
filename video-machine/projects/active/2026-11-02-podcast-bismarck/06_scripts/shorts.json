@@ -1,0 +1,556 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 12 clips from Brandon Enervold's (Bismarck-Septic-Excavating) guest episode, take 150507 (Zoom HD 1280x720, speaker view, no upscale). Source is the lip-synced file (zoom-150507-synced.mov, Brandon 43 ms earlier) with its words file; keep = inclusive word-index ranges in play order (splits drop Ashley's questions or a talking-through-it phrase); fillers skip automatically; stammers stay in the audio and are hidden from the captions with \"\" fixes rather than cut, and max_gap 1.0, so the clips stay smooth (Ashley's Oct 2026 notes). layout crop at 0.5 (Ashley sits at about 0.45 of the frame, Brandon 0.57). Posting plan: release week 2026-11-04..11-10, every clip to YouTube + TikTok at noon or 5 PM CT; the five strongest also to Instagram and Facebook at noon on weekdays. Captions: one per network; {bse} tags Bismarck-Septic-Excavating (its site links only a Facebook page, id 61568685107784; no Instagram, TikTok or YouTube found), the full episode linked ({episode}) everywhere but Facebook. approved = Ashley approved it in Ops. Clip edges were measured on each person's own Zoom track (Whisper ran words together across real pauses, so the build's cut landed inside a word): trim_start below 0 moves a start earlier to keep a first syllable the cut clipped, above 0 skips the tail of the word before; end_pad lets the last word finish. ten-feet-deep, freeze-ups and tank-collapsed play straight through (stammers hidden from the captions) instead of cutting mid-word, and market-sooner keeps Ashley's 'That's great advice' because Brandon's closing line starts 0.5 s after Whisper's time.",
+ "fillers": true,
+ "max_gap": 1.0,
+ "guests": {
+  "bse": {
+   "name": "Bismarck-Septic-Excavating",
+   "facebook": {
+    "id": "61568685107784",
+    "name": "Bismarck-Septic-Excavating"
+   }
+  }
+ },
+ "clips": [
+  {
+   "id": "tank-collapsed",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     632,
+     736
+    ]
+   ],
+   "title": "Two weeks later, the\nseptic tank *collapsed*",
+   "youtube": {
+    "title": "Two weeks after a septic baffle repair, the tank collapsed",
+    "description": "Brandon Enervold of {bse} on why putting a new baffle in an old septic tank 8 feet down can backfire.\n\nFull episode: {episode}\n\n#septic #septictank #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "The tank looked fine. They put a baffle in it, and two weeks later it collapsed and pushed water to the ceiling in the house. Brandon Enervold of {bse} says most homes around Bismarck were built in the '90s, and once H2S has been rotting out a tank 8 feet down, digging it up for a repair is sometimes not the best idea.\n\nFull episode on our YouTube: {episode}\n\n#septic #septictank #septicinstaller #septiclife",
+    "instagram": "The tank looked fine, so they put a baffle in. Two weeks later it collapsed. Brandon Enervold of {bse} watched the pressure push water to the ceiling of the house. When a tank sits 8 feet down and H2S has been rotting it out, he lays out every option with the pros and cons, including the ones that are a gamble.\n\n#septic #septictank #septicinstaller #septicrepair #northdakota",
+    "facebook": "Here's a call no septic installer wants. Brandon Enervold of {bse} dug up a septic tank that looked fine, put a new baffle in it, and two weeks later the tank collapsed. The pressure pushed water all the way to the ceiling in the house. Most homes around Bismarck were built in the '90s, and he says once H2S has been rotting out a tank that sits 8 feet in the ground, digging it up for a repair is sometimes not the best idea. That's why he gives every homeowner all the options, with the pros and cons, before they decide.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "632": "When",
+    "653": "H2S",
+    "656": "rotting",
+    "674": "",
+    "675": "",
+    "676": "You",
+    "677": "know,",
+    "678": "",
+    "679": "we've",
+    "703": "collapsed.",
+    "722": "",
+    "732": "a guy",
+    "736": "know."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-04T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "trim_start": -0.2,
+   "end_pad": 0.05
+  },
+  {
+   "id": "terralift",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     829,
+     947
+    ]
+   ],
+   "title": "Fracking a failing\n*drain field*",
+   "youtube": {
+    "title": "Fracking a failing septic drain field with a TerraLift",
+    "description": "Brandon Enervold of {bse} runs a TerraLift built in the '90s: 300 psi plus beads into the ground to open the soil back up and break down biomat. Whether it works depends on the soil and what's been going down the drain.\n\nFull episode: {episode}\n\n#septic #drainfield #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "There's a machine that fracks a failing drain field. Brandon Enervold of {bse} runs a TerraLift built in the '90s that puts 300 psi plus beads into the ground to open the soil back up and break down biomat. Can the system be saved? He says it depends on how it was installed and what's been going down the drain, flushable wipes included.\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #septicinstaller #septiclife"
+   },
+   "approved": false,
+   "fixes": {
+    "829": "There's",
+    "834": "TerraLift.",
+    "835": "",
+    "840": "I",
+    "846": "'90s.",
+    "857": "",
+    "883": "",
+    "884": "So",
+    "910": "What",
+    "911": "have",
+    "912": "they",
+    "923": "RID-X?"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-04T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "trim_start": -0.2
+  },
+  {
+   "id": "big-cushion",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     2145,
+     2277
+    ]
+   ],
+   "title": "Don't *bleed out*\nthis winter",
+   "youtube": {
+    "title": "How to keep your septic business from bleeding out in winter",
+    "description": "Brandon Enervold of {bse} has never had a winter where his income didn't drop. His answer: go into winter with a big cushion and know where your numbers are.\n\nFull episode: {episode}\n\n#septic #septicbusiness #smallbusiness"
+   },
+   "captions": {
+    "tiktok": "\"I don't think I've ever had a winter where I wasn't lower on income than going into it.\" That's Brandon Enervold of {bse} in Bismarck, North Dakota. His advice for the slow season: go into winter with a big cushion and keep your finances under control. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septicbusiness #septic #smallbusiness #businessowner",
+    "instagram": "Every winter, his income drops. Brandon Enervold of {bse} says he's never had one where it didn't. So he plans for it. He goes into the cold months with a big cushion saved from the summer and keeps his finances under control. In his words, knowing where you are is the only way he's been able to make it. Agree?\n\n#septicbusiness #septic #smallbusiness #businessowner #northdakota",
+    "facebook": "I asked a North Dakota septic installer how he gets through winter, and his answer was honest. Brandon Enervold of {bse} has never had a winter where he wasn't lower on income than going into it. Earlier that week, another owner told me their plan was to just try not to bleed out. Brandon's take: go in with a big cushion and keep your finances under control. Knowing where you are, he said, is the only way he's been able to make it.\n\n#septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "2187": "Just",
+    "2199": "",
+    "2200": "",
+    "2212": "",
+    "2213": "",
+    "2214": "I",
+    "2217": "I've",
+    "2224": "I",
+    "2244": "don't",
+    "2245": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-05T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "ten-feet-deep",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     1039,
+     1181
+    ]
+   ],
+   "title": "Why our septic tanks\nsit *10 feet* down",
+   "youtube": {
+    "title": "Why some North Dakota septic tanks sit 10 feet underground",
+    "description": "Brandon Enervold of {bse} on why older tanks in his area sit below the basement footer, and why it's still cheaper to set a new tank that deep than to replumb the house.\n\nFull episode: {episode}\n\n#septic #septictank #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "Brandon Enervold of {bse} finds a lot of septic tanks that are 10 feet down to the top of the tank. Older tanks around Bismarck were set below the basement footer, and he says it's still cheaper to put a new tank in that deep than to redo all the plumbing in the house. How deep are the tanks where you work?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictank #septicinstaller #northdakota"
+   },
+   "approved": false,
+   "fixes": {
+    "1039": "You",
+    "1043": "8",
+    "1046": "",
+    "1047": "",
+    "1048": "Are",
+    "1056": "North",
+    "1057": "Dakota",
+    "1060": "like",
+    "1061": "",
+    "1062": "",
+    "1063": "",
+    "1069": "soil?",
+    "1070": "So",
+    "1071": "most",
+    "1116": "So",
+    "1150": "",
+    "1176": "",
+    "1177": "",
+    "1178": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-05T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "trim_start": 0.1,
+   "end_pad": 0.06
+  },
+  {
+   "id": "forty-below",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     3813,
+     3842
+    ],
+    [
+     3881,
+     4008
+    ]
+   ],
+   "title": "Septic work at\n*40 below*",
+   "youtube": {
+    "title": "What septic work looks like at 40 below in North Dakota",
+    "description": "Brandon Enervold of {bse} on North Dakota winters: 40 below before the wind, snow that still has to be moved, and frozen septic lines he steams out from his pickup.\n\nFull episode: {episode}\n\n#septic #septiclife #northdakota"
+   },
+   "captions": {
+    "tiktok": "40 below, and that's before the wind. Brandon Enervold of {bse} says nobody likes working in it, but the snow still has to be moved and the cattle waters still freeze. When a customer's septic line freezes, he sets up his steamer, sits in the pickup and waits for it to warm up.\n\nFull episode on our YouTube: {episode}\n\n#septic #septiclife #northdakota #winter",
+    "instagram": "How cold does it get? 40 below, before the wind. Brandon Enervold of {bse} doesn't like it any more than you would. But when a customer's pipe to the septic tank freezes, he gets the steamer set up, sits in the pickup and waits for it to warm up. Nobody wants to be out in it, he says, but when you have to be out in it, you have to.\n\n#septic #septiclife #northdakota #winter #septicinstaller",
+    "facebook": "I asked Brandon Enervold how cold it gets in Bismarck, North Dakota. His answer: 40 below, and then they add wind on that. You'd think the work would just stop, but it doesn't. The snow still has to be moved, and the cattle waters freeze. When somebody's septic pipe freezes on the way to the tank, Brandon gets his steamer set up, sits in his pickup and waits for it to warm up. Nobody wants to be out in it, he said, but when you have to be out in it, you have to.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "3813": "How",
+    "3817": "",
+    "3826": "winter?",
+    "3828": "below.",
+    "3835": "wind",
+    "3881": "I",
+    "3889": "",
+    "3937": "I",
+    "3954": "",
+    "3955": "",
+    "3956": "I'll",
+    "4004": "it.",
+    "4005": "Yeah,",
+    "4006": "you",
+    "4008": "to."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-06T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "trim_start": -0.32,
+   "end_pad": -0.14
+  },
+  {
+   "id": "paid-by-the-inch",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     1584,
+     1648
+    ],
+    [
+     1677,
+     1737
+    ]
+   ],
+   "title": "Snow removal paid\n*by the inch*",
+   "youtube": {
+    "title": "A septic installer's winter income: snow removal by the inch",
+    "description": "Brandon Enervold of {bse} plows snow in the winter, and his accounts pay by the inch. After three or four dry winters in a row, no snow means no pay.\n\nFull episode: {episode}\n\n#septic #snowremoval #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "\"I get paid if it snows, and I don't get paid if it doesn't snow.\" That's how Brandon Enervold of {bse} sets up his snow removal accounts: by the inch, not a set amount every month. Bismarck has had three or four dry winters in a row, which is why he saves up during the summer.\n\nFull episode on our YouTube: {episode}\n\n#snowremoval #septicbusiness #septic #northdakota"
+   },
+   "approved": false,
+   "fixes": {
+    "1584": "I",
+    "1610": "That's",
+    "1611": "smart.",
+    "1612": "Because",
+    "1613": "we",
+    "1643": "we",
+    "1644": "",
+    "1645": "haven't",
+    "1646": "had",
+    "1677": "And",
+    "1678": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-06T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "trim_start": -0.31
+  },
+  {
+   "id": "forty-five-systems",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     3582,
+     3706
+    ]
+   ],
+   "title": "45 septic systems\nin *8 months*",
+   "youtube": {
+    "title": "Up to 45 septic installs in 8 months: a North Dakota season",
+    "description": "Brandon Enervold of {bse} installs 35 to 45 septic systems in about eight months, a tank at least every three days, because up north you only have so much time to make your money.\n\nFull episode: {episode}\n\n#septic #septicinstaller #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "35 to 45 septic systems in eight months. That's a tank at least every three days for Brandon Enervold of {bse}. Up north, he says it's go, go, go all summer because you only have so much time to make your money, while owners down south can relax a little more. How many do you install in a season?\n\nFull episode on our YouTube: {episode}\n\n#septicinstaller #septic #septicbusiness #northdakota"
+   },
+   "approved": false,
+   "fixes": {
+    "3582": "We",
+    "3640": "",
+    "3641": "",
+    "3644": "",
+    "3645": "",
+    "3646": "I",
+    "3675": "",
+    "3676": "",
+    "3678": "",
+    "3679": "we're",
+    "3680": "",
+    "3684": "",
+    "3685": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-07T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "trim_start": -0.1,
+   "end_pad": 0.25,
+   "end_mute": 0.15
+  },
+  {
+   "id": "frozen-water-line",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     1742,
+     1761
+    ],
+    [
+     1766,
+     1819
+    ]
+   ],
+   "title": "Digging through\n*3 feet of frost*",
+   "youtube": {
+    "title": "Septic and excavation in winter: digging through 3 feet of frost",
+    "description": "Brandon Enervold of {bse} tries not to excavate in the winter. But when a guy with 300 head of cows has a broken water line, he digs through three feet of frost to fix it.\n\nFull episode: {episode}\n\n#septic #excavation #northdakota"
+   },
+   "captions": {
+    "tiktok": "Three feet of frost, and a guy with 300 head of cows needs his water line fixed. Brandon Enervold of {bse} tries not to excavate in the winter, but some calls can't wait for spring. Emergency pumpings, freeze-ups and broken water lines: he says they always come in January and February.\n\nFull episode on our YouTube: {episode}\n\n#excavation #septic #northdakota #winter"
+   },
+   "approved": false,
+   "fixes": {
+    "1742": "Other",
+    "1753": "freeze-ups,",
+    "1754": "",
+    "1766": "I",
+    "1792": "",
+    "1817": "January",
+    "1819": "February."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-07T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ]
+  },
+  {
+   "id": "six-months",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     2913,
+     3021
+    ]
+   ],
+   "title": "Have *6 months*\nset aside for winter",
+   "youtube": {
+    "title": "How much should a septic business save for winter? 6 months",
+    "description": "Brandon Enervold of {bse} keeps at least six months of living expenses, equipment costs and insurance set aside, so he can spend his winters working on the business.\n\nFull episode: {episode}\n\n#septicbusiness #smallbusiness #septic"
+   },
+   "captions": {
+    "tiktok": "Six months of living expenses, equipment costs and insurance, set aside no matter what happens. That's the rule Brandon Enervold of {bse} learned from his self-employed parents. With that cushion, he spends his winters on things like his website and Google reviews instead of looking for a second job. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septicbusiness #smallbusiness #septic #businessowner"
+   },
+   "approved": false,
+   "fixes": {
+    "2913": "A",
+    "2943": "",
+    "2972": "I",
+    "2987": "I",
+    "3000": "that.",
+    "3001": "",
+    "3002": "Doing",
+    "3017": "Google"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-08T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "trim_start": -0.24,
+   "end_pad": 0.22,
+   "end_mute": 0.1
+  },
+  {
+   "id": "freeze-ups",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     4011,
+     4135
+    ]
+   ],
+   "title": "Keep your septic\nfrom *freezing*",
+   "youtube": {
+    "title": "How to keep a septic system from freezing in winter",
+    "description": "Brandon Enervold of {bse} on cutting winter freeze-ups: fix leaking toilets, and pump the tank in the spring, not right before winter.\n\nFull episode: {episode}\n\n#septic #septictank #winter"
+   },
+   "captions": {
+    "tiktok": "Don't pump your septic tank right before winter. Brandon Enervold of {bse} tells homeowners in North Dakota to pump in the spring so the bacteria builds back up before the cold. He also wants leaking toilets fixed, because that trickle of water is never good. His crew insulates every tank and line they put in.\n\nFull episode on our YouTube: {episode}\n\n#septic #septictank #winter #homeowner"
+   },
+   "approved": false,
+   "fixes": {
+    "4011": "What",
+    "4036": "system?",
+    "4037": "Making",
+    "4051": "Like",
+    "4052": "I",
+    "4053": "said,",
+    "4080": "",
+    "4081": "as",
+    "4084": "I",
+    "4092": "",
+    "4093": "we",
+    "4105": "",
+    "4106": "24-inch",
+    "4107": ""
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-08T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "trim_start": -0.28,
+   "end_pad": 0.12
+  },
+  {
+   "id": "skid-steer",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     184,
+     296
+    ]
+   ],
+   "title": "I started with my\ndad's *skid steer*",
+   "youtube": {
+    "title": "How a septic installer got started with his dad's skid steer",
+    "description": "Brandon Enervold of {bse} got into septic in 2009, when a friend's new pumping company kept finding tanks with missing baffles and slow drain fields.\n\nFull episode: {episode}\n\n#septic #septicinstaller #excavation"
+   },
+   "captions": {
+    "tiktok": "It started with a hole-digging attachment for his dad's skid steer. In 2009, a friend of Brandon Enervold's started a pumping company in Bismarck and kept finding tanks with missing baffles and slow drain fields. He asked Brandon to tackle the repairs, and before he knew it, Brandon had a backhoe. Today he runs {bse}.\n\nFull episode on our YouTube: {episode}\n\n#septicinstaller #septic #excavation #smallbusiness",
+    "instagram": "A hole-digging attachment on his dad's skid steer. That's how Brandon Enervold got into septic in 2009. A friend's new pumping company in Bismarck kept finding tanks with missing baffles and slow drain fields, so he asked Brandon if he wanted to tackle the repairs. Before he knew it, he had a backhoe. Today he runs {bse}.\n\n#septicinstaller #septic #excavation #smallbusiness #northdakota",
+    "facebook": "Every septic company has a start story, and I love this one. In 2009, a friend of Brandon Enervold's started a pumping company in Bismarck, North Dakota. He kept finding tanks with missing baffles and slow drain fields, so he called Brandon and asked if he wanted to tackle any of it. All Brandon had was a skid steer attachment for his dad's skid steer to dig holes. They got after it, and before he knew it, he had a backhoe. Today that's {bse}.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "184": "We",
+    "211": "Geez,",
+    "229": "",
+    "241": "",
+    "292": "I",
+    "295": "I"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-09T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "end_pad": 0.1
+  },
+  {
+   "id": "market-sooner",
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json",
+   "keep": [
+    [
+     4542,
+     4589
+    ],
+    [
+     4608,
+     4692
+    ]
+   ],
+   "title": "If I started my septic\nbusiness *again*",
+   "youtube": {
+    "title": "What a septic installer would do differently if he started over",
+    "description": "If Brandon Enervold of {bse} could go back to 2009, he would get the marketing going faster: advertising and reviews before the work.\n\nFull episode: {episode}\n\n#septicbusiness #septicmarketing #smallbusiness"
+   },
+   "captions": {
+    "tiktok": "\"If I was to do it again, I would get more marketing going faster.\" That's what Brandon Enervold of {bse} would tell himself back in 2009. He's worked hard on reviews the last few years, and if he were starting today, advertising and reviews would come before the work. Your friends already know about you. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septicbusiness #septicmarketing #smallbusiness #septic",
+    "instagram": "\"Your friends already know about you. You got to get the rest of the world to find you.\" Brandon Enervold of {bse} started in 2009, and if he could do it again, he'd get the marketing going faster. Starting a business today, advertising and reviews would be the first thing he went after, ahead of the work itself. Agree?\n\n#septicbusiness #septicmarketing #smallbusiness #septic #googlereviews",
+    "facebook": "I asked Brandon Enervold what he'd tell himself if he could go back to 2009, when he first got into septic. His answer: get more marketing going faster. He thinks it would have helped him scale a lot sooner, and he still doesn't think he's doing enough. He's worked hard on his reviews the last few years, but if he were starting a business today, advertising and reviews would be the number one thing he'd go after, more than the work. His reason stuck with me: your friends already know about you. You have to get the rest of the world to find you. Thank you, {bse}.\n\n#septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "4542": "If",
+    "4608": "And",
+    "4639": "I",
+    "4663": "so",
+    "4668": "Yeah.",
+    "4669": "",
+    "4670": "That's",
+    "4672": "advice.",
+    "4673": "That's",
+    "4674": "awesome.",
+    "4675": "Your"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-11-10T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ]
+  }
+ ]
+}

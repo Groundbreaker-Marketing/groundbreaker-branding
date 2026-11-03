@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:46.94,Title,,0,0,0,,{\pos(540,480)}Fracking a failing\N{\c&H0060ECCD}drain field{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.18,0:00:01.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}There's{\c&H00FFFFFF&} a machine
+Dialogue: 1,0:00:01.08,0:00:01.20,Cap,,0,0,0,,{\pos(540,1400)}There's {\c&H0060ECCD}a{\c&H00FFFFFF&} machine
+Dialogue: 1,0:00:01.20,0:00:01.54,Cap,,0,0,0,,{\pos(540,1400)}There's a {\c&H0060ECCD}machine{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.54,0:00:01.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}called{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:01.88,0:00:02.02,Cap,,0,0,0,,{\pos(540,1400)}called {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.02,0:00:02.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}TerraLift{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.87,0:00:03.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} machine that
+Dialogue: 1,0:00:03.21,0:00:03.53,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}machine{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:03.53,0:00:03.71,Cap,,0,0,0,,{\pos(540,1400)}this machine {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.71,0:00:03.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} have was built
+Dialogue: 1,0:00:03.85,0:00:04.09,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}have{\c&H00FFFFFF&} was built
+Dialogue: 1,0:00:04.09,0:00:04.27,Cap,,0,0,0,,{\pos(540,1400)}I have {\c&H0060ECCD}was{\c&H00FFFFFF&} built
+Dialogue: 1,0:00:04.27,0:00:04.53,Cap,,0,0,0,,{\pos(540,1400)}I have was {\c&H0060ECCD}built{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.53,0:00:04.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the '90s
+Dialogue: 1,0:00:04.73,0:00:04.81,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&} '90s
+Dialogue: 1,0:00:04.81,0:00:06.15,Cap,,0,0,0,,{\pos(540,1400)}in the {\c&H0060ECCD}'90s{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.15,0:00:06.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} still make
+Dialogue: 1,0:00:06.31,0:00:06.51,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}still{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:06.51,0:00:06.73,Cap,,0,0,0,,{\pos(540,1400)}they still {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.73,0:00:06.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&} today but
+Dialogue: 1,0:00:06.83,0:00:07.07,Cap,,0,0,0,,{\pos(540,1400)}them {\c&H0060ECCD}today{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:07.07,0:00:07.29,Cap,,0,0,0,,{\pos(540,1400)}them today {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.29,0:00:07.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} subsoil
+Dialogue: 1,0:00:07.47,0:00:08.05,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}subsoil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.05,0:00:09.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fracking{\c&H00FFFFFF&} so it
+Dialogue: 1,0:00:09.53,0:00:09.99,Cap,,0,0,0,,{\pos(540,1400)}fracking {\c&H0060ECCD}so{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:09.99,0:00:10.61,Cap,,0,0,0,,{\pos(540,1400)}fracking so {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.61,0:00:11.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}induces{\c&H00FFFFFF&} 300 psi
+Dialogue: 1,0:00:11.07,0:00:11.55,Cap,,0,0,0,,{\pos(540,1400)}induces {\c&H0060ECCD}300{\c&H00FFFFFF&} psi
+Dialogue: 1,0:00:11.55,0:00:12.05,Cap,,0,0,0,,{\pos(540,1400)}induces 300 {\c&H0060ECCD}psi{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.05,0:00:12.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plus{\c&H00FFFFFF&} beads into
+Dialogue: 1,0:00:12.61,0:00:13.61,Cap,,0,0,0,,{\pos(540,1400)}plus {\c&H0060ECCD}beads{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:13.61,0:00:14.19,Cap,,0,0,0,,{\pos(540,1400)}plus beads {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.19,0:00:14.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} ground to
+Dialogue: 1,0:00:14.35,0:00:15.29,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}ground{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:15.29,0:00:15.59,Cap,,0,0,0,,{\pos(540,1400)}the ground {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.59,0:00:15.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}frack{\c&H00FFFFFF&} the ground
+Dialogue: 1,0:00:15.87,0:00:15.99,Cap,,0,0,0,,{\pos(540,1400)}frack {\c&H0060ECCD}the{\c&H00FFFFFF&} ground
+Dialogue: 1,0:00:15.99,0:00:16.23,Cap,,0,0,0,,{\pos(540,1400)}frack the {\c&H0060ECCD}ground{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.23,0:00:16.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}back{\c&H00FFFFFF&} open
+Dialogue: 1,0:00:16.51,0:00:16.87,Cap,,0,0,0,,{\pos(540,1400)}back {\c&H0060ECCD}open{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.87,0:00:17.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}introduces{\c&H00FFFFFF&} air
+Dialogue: 1,0:00:17.33,0:00:17.69,Cap,,0,0,0,,{\pos(540,1400)}introduces {\c&H0060ECCD}air{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.69,0:00:17.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}breaks{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:17.99,0:00:18.19,Cap,,0,0,0,,{\pos(540,1400)}breaks {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.19,0:00:19.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}biomat{\c&H00FFFFFF&} helps soil
+Dialogue: 1,0:00:19.81,0:00:20.33,Cap,,0,0,0,,{\pos(540,1400)}biomat {\c&H0060ECCD}helps{\c&H00FFFFFF&} soil
+Dialogue: 1,0:00:20.33,0:00:20.63,Cap,,0,0,0,,{\pos(540,1400)}biomat helps {\c&H0060ECCD}soil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.63,0:00:22.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}compaction{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.33,0:00:22.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} we can do
+Dialogue: 1,0:00:22.49,0:00:23.63,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}we{\c&H00FFFFFF&} can do
+Dialogue: 1,0:00:23.63,0:00:23.85,Cap,,0,0,0,,{\pos(540,1400)}So we {\c&H0060ECCD}can{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:23.85,0:00:24.03,Cap,,0,0,0,,{\pos(540,1400)}So we can {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.03,0:00:24.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} as well
+Dialogue: 1,0:00:24.31,0:00:24.53,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}as{\c&H00FFFFFF&} well
+Dialogue: 1,0:00:24.53,0:00:25.02,Cap,,0,0,0,,{\pos(540,1400)}that as {\c&H0060ECCD}well{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.02,0:00:25.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Depends{\c&H00FFFFFF&} on how it
+Dialogue: 1,0:00:25.54,0:00:26.00,Cap,,0,0,0,,{\pos(540,1400)}Depends {\c&H0060ECCD}on{\c&H00FFFFFF&} how it
+Dialogue: 1,0:00:26.00,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}Depends on {\c&H0060ECCD}how{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:26.46,0:00:26.68,Cap,,0,0,0,,{\pos(540,1400)}Depends on how {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.68,0:00:26.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} installed in
+Dialogue: 1,0:00:26.86,0:00:27.46,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}installed{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:27.46,0:00:27.76,Cap,,0,0,0,,{\pos(540,1400)}was installed {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.76,0:00:27.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} ground and
+Dialogue: 1,0:00:27.90,0:00:28.34,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}ground{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:28.34,0:00:28.56,Cap,,0,0,0,,{\pos(540,1400)}the ground {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.56,0:00:28.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} clays
+Dialogue: 1,0:00:28.70,0:00:29.46,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}clays{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.68,0:00:30.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Will{\c&H00FFFFFF&} it work?
+Dialogue: 1,0:00:30.20,0:00:30.32,Cap,,0,0,0,,{\pos(540,1400)}Will {\c&H0060ECCD}it{\c&H00FFFFFF&} work?
+Dialogue: 1,0:00:30.32,0:00:30.88,Cap,,0,0,0,,{\pos(540,1400)}Will it {\c&H0060ECCD}work?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.92,0:00:31.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Will{\c&H00FFFFFF&} it not work?
+Dialogue: 1,0:00:31.06,0:00:31.20,Cap,,0,0,0,,{\pos(540,1400)}Will {\c&H0060ECCD}it{\c&H00FFFFFF&} not work?
+Dialogue: 1,0:00:31.20,0:00:31.40,Cap,,0,0,0,,{\pos(540,1400)}Will it {\c&H0060ECCD}not{\c&H00FFFFFF&} work?
+Dialogue: 1,0:00:31.40,0:00:31.92,Cap,,0,0,0,,{\pos(540,1400)}Will it not {\c&H0060ECCD}work?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.06,0:00:32.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} have they
+Dialogue: 1,0:00:32.28,0:00:32.48,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}have{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:32.48,0:00:32.62,Cap,,0,0,0,,{\pos(540,1400)}What have {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.62,0:00:32.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}been{\c&H00FFFFFF&} dumping down
+Dialogue: 1,0:00:32.72,0:00:33.00,Cap,,0,0,0,,{\pos(540,1400)}been {\c&H0060ECCD}dumping{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:33.00,0:00:33.26,Cap,,0,0,0,,{\pos(540,1400)}been dumping {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.26,0:00:33.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} septics?
+Dialogue: 1,0:00:33.48,0:00:34.32,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}septics?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.42,0:00:34.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}You{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:34.62,0:00:34.92,Cap,,0,0,0,,{\pos(540,1400)}You {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.36,0:00:35.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} they use
+Dialogue: 1,0:00:35.54,0:00:35.66,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}they{\c&H00FFFFFF&} use
+Dialogue: 1,0:00:35.66,0:00:35.90,Cap,,0,0,0,,{\pos(540,1400)}do they {\c&H0060ECCD}use{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.90,0:00:36.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}RID-X?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.40,0:00:38.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.30,0:00:38.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.26,0:00:39.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Those{\c&H00FFFFFF&} flushable
+Dialogue: 1,0:00:39.60,0:00:40.08,Cap,,0,0,0,,{\pos(540,1400)}Those {\c&H0060ECCD}flushable{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.08,0:00:40.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wipes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.88,0:00:41.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Wipes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.64,0:00:41.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yep{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.02,0:00:42.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.74,0:00:42.88,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}mean{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.88,0:00:43.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there's{\c&H00FFFFFF&} a lot
+Dialogue: 1,0:00:43.10,0:00:43.18,Cap,,0,0,0,,{\pos(540,1400)}there's {\c&H0060ECCD}a{\c&H00FFFFFF&} lot
+Dialogue: 1,0:00:43.18,0:00:43.46,Cap,,0,0,0,,{\pos(540,1400)}there's a {\c&H0060ECCD}lot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.46,0:00:43.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} goes into
+Dialogue: 1,0:00:43.62,0:00:43.92,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}goes{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:43.92,0:00:44.32,Cap,,0,0,0,,{\pos(540,1400)}that goes {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.32,0:00:44.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}can{\c&H00FFFFFF&} it be saved
+Dialogue: 1,0:00:44.94,0:00:45.08,Cap,,0,0,0,,{\pos(540,1400)}can {\c&H0060ECCD}it{\c&H00FFFFFF&} be saved
+Dialogue: 1,0:00:45.08,0:00:45.24,Cap,,0,0,0,,{\pos(540,1400)}can it {\c&H0060ECCD}be{\c&H00FFFFFF&} saved
+Dialogue: 1,0:00:45.24,0:00:45.66,Cap,,0,0,0,,{\pos(540,1400)}can it be {\c&H0060ECCD}saved{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.66,0:00:45.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}should{\c&H00FFFFFF&} we save it
+Dialogue: 1,0:00:45.98,0:00:46.24,Cap,,0,0,0,,{\pos(540,1400)}should {\c&H0060ECCD}we{\c&H00FFFFFF&} save it
+Dialogue: 1,0:00:46.24,0:00:46.68,Cap,,0,0,0,,{\pos(540,1400)}should we {\c&H0060ECCD}save{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:46.68,0:00:47.10,Cap,,0,0,0,,{\pos(540,1400)}should we save {\c&H0060ECCD}it{\c&H00FFFFFF&}

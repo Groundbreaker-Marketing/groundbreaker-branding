@@ -1,0 +1,123 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:37.34,Title,,0,0,0,,{\pos(540,480)}I started with my\Ndad's {\c&H0060ECCD}skid steer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.07,0:00:00.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} started in
+Dialogue: 1,0:00:00.17,0:00:00.43,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}started{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:00.43,0:00:01.11,Cap,,0,0,0,,{\pos(540,1400)}We started {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.11,0:00:01.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}2009{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.61,0:00:01.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} had a friend
+Dialogue: 1,0:00:01.69,0:00:02.17,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}had{\c&H00FFFFFF&} a friend
+Dialogue: 1,0:00:02.17,0:00:02.51,Cap,,0,0,0,,{\pos(540,1400)}I had {\c&H0060ECCD}a{\c&H00FFFFFF&} friend
+Dialogue: 1,0:00:02.51,0:00:03.05,Cap,,0,0,0,,{\pos(540,1400)}I had a {\c&H0060ECCD}friend{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.05,0:00:03.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} mine start a
+Dialogue: 1,0:00:03.95,0:00:04.27,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}mine{\c&H00FFFFFF&} start a
+Dialogue: 1,0:00:04.27,0:00:04.55,Cap,,0,0,0,,{\pos(540,1400)}of mine {\c&H0060ECCD}start{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:04.55,0:00:04.70,Cap,,0,0,0,,{\pos(540,1400)}of mine start {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.70,0:00:05.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumping{\c&H00FFFFFF&} company
+Dialogue: 1,0:00:05.03,0:00:05.51,Cap,,0,0,0,,{\pos(540,1400)}pumping {\c&H0060ECCD}company{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.51,0:00:05.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}here{\c&H00FFFFFF&} in Bismarck
+Dialogue: 1,0:00:05.95,0:00:06.31,Cap,,0,0,0,,{\pos(540,1400)}here {\c&H0060ECCD}in{\c&H00FFFFFF&} Bismarck
+Dialogue: 1,0:00:06.31,0:00:07.13,Cap,,0,0,0,,{\pos(540,1400)}here in {\c&H0060ECCD}Bismarck{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.70,0:00:08.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} he called me
+Dialogue: 1,0:00:08.51,0:00:08.69,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}he{\c&H00FFFFFF&} called me
+Dialogue: 1,0:00:08.69,0:00:08.95,Cap,,0,0,0,,{\pos(540,1400)}and he {\c&H0060ECCD}called{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:08.95,0:00:09.11,Cap,,0,0,0,,{\pos(540,1400)}and he called {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.11,0:00:09.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} day and he's
+Dialogue: 1,0:00:09.33,0:00:09.53,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}day{\c&H00FFFFFF&} and he's
+Dialogue: 1,0:00:09.53,0:00:09.70,Cap,,0,0,0,,{\pos(540,1400)}one day {\c&H0060ECCD}and{\c&H00FFFFFF&} he's
+Dialogue: 1,0:00:09.70,0:00:09.77,Cap,,0,0,0,,{\pos(540,1400)}one day and {\c&H0060ECCD}he's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.77,0:00:09.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} Geez
+Dialogue: 1,0:00:09.89,0:00:10.12,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}Geez{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.12,0:00:10.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know we're
+Dialogue: 1,0:00:10.33,0:00:10.41,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} we're
+Dialogue: 1,0:00:10.41,0:00:10.61,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}we're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.61,0:00:10.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}finding{\c&H00FFFFFF&} a lot of
+Dialogue: 1,0:00:10.89,0:00:11.15,Cap,,0,0,0,,{\pos(540,1400)}finding {\c&H0060ECCD}a{\c&H00FFFFFF&} lot of
+Dialogue: 1,0:00:11.15,0:00:11.31,Cap,,0,0,0,,{\pos(540,1400)}finding a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:11.31,0:00:11.45,Cap,,0,0,0,,{\pos(540,1400)}finding a lot {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.45,0:00:11.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&} that have a
+Dialogue: 1,0:00:11.78,0:00:11.98,Cap,,0,0,0,,{\pos(540,1400)}tanks {\c&H0060ECCD}that{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:11.98,0:00:12.17,Cap,,0,0,0,,{\pos(540,1400)}tanks that {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:12.17,0:00:12.28,Cap,,0,0,0,,{\pos(540,1400)}tanks that have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.28,0:00:12.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lot{\c&H00FFFFFF&} of problems
+Dialogue: 1,0:00:12.39,0:00:12.51,Cap,,0,0,0,,{\pos(540,1400)}lot {\c&H0060ECCD}of{\c&H00FFFFFF&} problems
+Dialogue: 1,0:00:12.51,0:00:13.03,Cap,,0,0,0,,{\pos(540,1400)}lot of {\c&H0060ECCD}problems{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.03,0:00:13.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they're{\c&H00FFFFFF&} missing
+Dialogue: 1,0:00:13.92,0:00:14.23,Cap,,0,0,0,,{\pos(540,1400)}they're {\c&H0060ECCD}missing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.23,0:00:15.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}baffles{\c&H00FFFFFF&} and slow
+Dialogue: 1,0:00:15.41,0:00:16.06,Cap,,0,0,0,,{\pos(540,1400)}baffles {\c&H0060ECCD}and{\c&H00FFFFFF&} slow
+Dialogue: 1,0:00:16.06,0:00:16.53,Cap,,0,0,0,,{\pos(540,1400)}baffles and {\c&H0060ECCD}slow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.53,0:00:16.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drain{\c&H00FFFFFF&} fields and
+Dialogue: 1,0:00:16.81,0:00:17.12,Cap,,0,0,0,,{\pos(540,1400)}drain {\c&H0060ECCD}fields{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:17.12,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}drain fields {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.31,0:00:17.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}stuff{\c&H00FFFFFF&} like that
+Dialogue: 1,0:00:17.51,0:00:17.69,Cap,,0,0,0,,{\pos(540,1400)}stuff {\c&H0060ECCD}like{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:17.69,0:00:17.97,Cap,,0,0,0,,{\pos(540,1400)}stuff like {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.97,0:00:19.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} he had asked
+Dialogue: 1,0:00:19.23,0:00:19.53,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}he{\c&H00FFFFFF&} had asked
+Dialogue: 1,0:00:19.53,0:00:19.67,Cap,,0,0,0,,{\pos(540,1400)}and he {\c&H0060ECCD}had{\c&H00FFFFFF&} asked
+Dialogue: 1,0:00:19.67,0:00:19.91,Cap,,0,0,0,,{\pos(540,1400)}and he had {\c&H0060ECCD}asked{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.91,0:00:20.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}me{\c&H00FFFFFF&} if I wanted
+Dialogue: 1,0:00:20.05,0:00:20.23,Cap,,0,0,0,,{\pos(540,1400)}me {\c&H0060ECCD}if{\c&H00FFFFFF&} I wanted
+Dialogue: 1,0:00:20.23,0:00:20.31,Cap,,0,0,0,,{\pos(540,1400)}me if {\c&H0060ECCD}I{\c&H00FFFFFF&} wanted
+Dialogue: 1,0:00:20.31,0:00:20.59,Cap,,0,0,0,,{\pos(540,1400)}me if I {\c&H0060ECCD}wanted{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.59,0:00:20.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} tackle any of
+Dialogue: 1,0:00:20.81,0:00:21.17,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}tackle{\c&H00FFFFFF&} any of
+Dialogue: 1,0:00:21.17,0:00:21.43,Cap,,0,0,0,,{\pos(540,1400)}to tackle {\c&H0060ECCD}any{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:21.43,0:00:21.59,Cap,,0,0,0,,{\pos(540,1400)}to tackle any {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.59,0:00:21.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} and I had
+Dialogue: 1,0:00:21.89,0:00:22.97,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}and{\c&H00FFFFFF&} I had
+Dialogue: 1,0:00:22.97,0:00:23.89,Cap,,0,0,0,,{\pos(540,1400)}that and {\c&H0060ECCD}I{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:23.89,0:00:24.23,Cap,,0,0,0,,{\pos(540,1400)}that and I {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.23,0:00:24.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} skid steer
+Dialogue: 1,0:00:24.55,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}skid{\c&H00FFFFFF&} steer
+Dialogue: 1,0:00:25.83,0:00:26.03,Cap,,0,0,0,,{\pos(540,1400)}a skid {\c&H0060ECCD}steer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.03,0:00:26.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}attachment{\c&H00FFFFFF&} for my
+Dialogue: 1,0:00:26.43,0:00:26.89,Cap,,0,0,0,,{\pos(540,1400)}attachment {\c&H0060ECCD}for{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:26.89,0:00:27.41,Cap,,0,0,0,,{\pos(540,1400)}attachment for {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.41,0:00:27.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}dad's{\c&H00FFFFFF&} skid steer
+Dialogue: 1,0:00:27.89,0:00:28.07,Cap,,0,0,0,,{\pos(540,1400)}dad's {\c&H0060ECCD}skid{\c&H00FFFFFF&} steer
+Dialogue: 1,0:00:28.07,0:00:28.47,Cap,,0,0,0,,{\pos(540,1400)}dad's skid {\c&H0060ECCD}steer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.47,0:00:29.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} dig holes and
+Dialogue: 1,0:00:29.05,0:00:29.21,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}dig{\c&H00FFFFFF&} holes and
+Dialogue: 1,0:00:29.21,0:00:29.59,Cap,,0,0,0,,{\pos(540,1400)}to dig {\c&H0060ECCD}holes{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:29.59,0:00:29.85,Cap,,0,0,0,,{\pos(540,1400)}to dig holes {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.85,0:00:29.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} got after it
+Dialogue: 1,0:00:29.99,0:00:30.23,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}got{\c&H00FFFFFF&} after it
+Dialogue: 1,0:00:30.23,0:00:30.59,Cap,,0,0,0,,{\pos(540,1400)}we got {\c&H0060ECCD}after{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:30.59,0:00:30.83,Cap,,0,0,0,,{\pos(540,1400)}we got after {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.83,0:00:31.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} I guess
+Dialogue: 1,0:00:31.05,0:00:32.15,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}I{\c&H00FFFFFF&} guess
+Dialogue: 1,0:00:32.15,0:00:32.37,Cap,,0,0,0,,{\pos(540,1400)}and I {\c&H0060ECCD}guess{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.37,0:00:32.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}before{\c&H00FFFFFF&} I knew it
+Dialogue: 1,0:00:32.73,0:00:32.89,Cap,,0,0,0,,{\pos(540,1400)}before {\c&H0060ECCD}I{\c&H00FFFFFF&} knew it
+Dialogue: 1,0:00:32.89,0:00:33.03,Cap,,0,0,0,,{\pos(540,1400)}before I {\c&H0060ECCD}knew{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:33.03,0:00:33.17,Cap,,0,0,0,,{\pos(540,1400)}before I knew {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.17,0:00:33.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} had a backhoe
+Dialogue: 1,0:00:33.27,0:00:33.45,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}had{\c&H00FFFFFF&} a backhoe
+Dialogue: 1,0:00:33.45,0:00:33.57,Cap,,0,0,0,,{\pos(540,1400)}I had {\c&H0060ECCD}a{\c&H00FFFFFF&} backhoe
+Dialogue: 1,0:00:33.57,0:00:34.09,Cap,,0,0,0,,{\pos(540,1400)}I had a {\c&H0060ECCD}backhoe{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.09,0:00:34.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:34.41,0:00:34.67,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.67,0:00:35.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}progressed{\c&H00FFFFFF&} up to
+Dialogue: 1,0:00:35.49,0:00:35.75,Cap,,0,0,0,,{\pos(540,1400)}progressed {\c&H0060ECCD}up{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:35.75,0:00:35.93,Cap,,0,0,0,,{\pos(540,1400)}progressed up {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.93,0:00:36.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}where{\c&H00FFFFFF&} I am today
+Dialogue: 1,0:00:36.15,0:00:36.25,Cap,,0,0,0,,{\pos(540,1400)}where {\c&H0060ECCD}I{\c&H00FFFFFF&} am today
+Dialogue: 1,0:00:36.25,0:00:36.43,Cap,,0,0,0,,{\pos(540,1400)}where I {\c&H0060ECCD}am{\c&H00FFFFFF&} today
+Dialogue: 1,0:00:36.43,0:00:36.67,Cap,,0,0,0,,{\pos(540,1400)}where I am {\c&H0060ECCD}today{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.67,0:00:36.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} guess
+Dialogue: 1,0:00:36.87,0:00:37.37,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}guess{\c&H00FFFFFF&}
