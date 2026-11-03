@@ -1,0 +1,557 @@
+{
+ "_how": "Recipe for podcast.episode (video-machine). Guest episode, Brandon Enervold of Bismarck-Septic-Excavating (his spelling, no '&'), recorded on Zoom 2026-11-02 (meeting 6620561605, one part, 150507, 1280x720 HD at 25 fps; no AI upscale: at 720p it would take 5 to 6 hours and Kim Turner's 720p test was only a little smoother). keep = inclusive word-index ranges of 02_audio/words/150507-synced.json; drop = stammered repeats, false starts and crosstalk backchannels ('how how cold is cold, what's that' 3800-3808 where both talked at once); fillers drop automatically; fixes = word index -> caption text (casing Whisper lost, split hyphenated words joined, Zoeller, TerraLift, RID-X, 'wind', 'rotting'). lower_third.people: the name follows Zoom's active-speaker camera; no Zoom name label in this recording, so the box sits at y 970. Source is 01_footage/zoom-150507-synced.mov: Brandon's voice measured 43 ms behind his lips, so his Zoom track is remixed 43 ms earlier (podcast.avsync apply). Six phrase drops that landed on speech (joins at -3 to -22 dB: 1061-1063, 1571-1573, 1739-1741, 2851-2853, 3644-3645, 3800-3808) stay in the audio and are hidden from the captions with \"\" fixes.",
+ "slug": "north-dakota-winter",
+ "title": "How a North Dakota Septic Company Survives a 40-Below Winter",
+ "title_options": [
+  "How a North Dakota Septic Company Survives a 40-Below Winter",
+  "Don't Bleed Out This Winter: A North Dakota Septic Installer's Advice",
+  "45 Septic Installs in 8 Months, Then Winter: How Brandon Gets Through",
+  "Save 6 Months of Expenses Before Winter Hits Your Septic Business",
+  "The Septic Tank Collapsed 2 Weeks Later: Repair vs. Replace"
+ ],
+ "takes": {
+  "150507": {
+   "source": "01_footage/zoom-150507-synced.mov",
+   "words": "02_audio/words/150507-synced.json"
+  }
+ },
+ "keep": [
+  [
+   0,
+   4716,
+   "150507"
+  ]
+ ],
+ "drop": {
+  "150507": [
+   [
+    229,
+    229
+   ],
+   [
+    241,
+    241
+   ],
+   [
+    350,
+    353
+   ],
+   [
+    358,
+    359
+   ],
+   [
+    374,
+    374
+   ],
+   [
+    380,
+    380
+   ],
+   [
+    428,
+    428
+   ],
+   [
+    674,
+    675
+   ],
+   [
+    678,
+    678
+   ],
+   [
+    722,
+    722
+   ],
+   [
+    951,
+    951
+   ],
+   [
+    1037,
+    1038
+   ],
+   [
+    1512,
+    1512
+   ],
+   [
+    1674,
+    1675
+   ],
+   [
+    1678,
+    1678
+   ],
+   [
+    1764,
+    1765
+   ],
+   [
+    1792,
+    1792
+   ],
+   [
+    1857,
+    1857
+   ],
+   [
+    1894,
+    1894
+   ],
+   [
+    1926,
+    1926
+   ],
+   [
+    1997,
+    1997
+   ],
+   [
+    2053,
+    2054
+   ],
+   [
+    2199,
+    2199
+   ],
+   [
+    2212,
+    2213
+   ],
+   [
+    2244,
+    2244
+   ],
+   [
+    2305,
+    2305
+   ],
+   [
+    2341,
+    2341
+   ],
+   [
+    2411,
+    2411
+   ],
+   [
+    2433,
+    2433
+   ],
+   [
+    2539,
+    2540
+   ],
+   [
+    2709,
+    2710
+   ],
+   [
+    2742,
+    2743
+   ],
+   [
+    2907,
+    2907
+   ],
+   [
+    3080,
+    3081
+   ],
+   [
+    3258,
+    3258
+   ],
+   [
+    3314,
+    3314
+   ],
+   [
+    3328,
+    3328
+   ],
+   [
+    3400,
+    3400
+   ],
+   [
+    3403,
+    3404
+   ],
+   [
+    3417,
+    3418
+   ],
+   [
+    3501,
+    3502
+   ],
+   [
+    3640,
+    3640
+   ],
+   [
+    3675,
+    3675
+   ],
+   [
+    3678,
+    3679
+   ],
+   [
+    3684,
+    3685
+   ],
+   [
+    3756,
+    3757
+   ],
+   [
+    3795,
+    3795
+   ],
+   [
+    3817,
+    3817
+   ],
+   [
+    3844,
+    3844
+   ],
+   [
+    3889,
+    3889
+   ],
+   [
+    4010,
+    4010
+   ],
+   [
+    4092,
+    4092
+   ],
+   [
+    4105,
+    4105
+   ],
+   [
+    4158,
+    4159
+   ],
+   [
+    4221,
+    4221
+   ],
+   [
+    4276,
+    4276
+   ],
+   [
+    4367,
+    4367
+   ],
+   [
+    4409,
+    4409
+   ],
+   [
+    4505,
+    4506
+   ],
+   [
+    4668,
+    4668
+   ]
+  ]
+ },
+ "fixes": {
+  "150507": {
+   "6": "The",
+   "7": "#2",
+   "8": "",
+   "9": "Septic",
+   "10": "Podcast.",
+   "22": "North",
+   "23": "Dakota",
+   "51": "North",
+   "52": "Dakota,",
+   "112": "North",
+   "113": "Dakota.",
+   "292": "I",
+   "295": "I",
+   "308": "y'all",
+   "309": "",
+   "333": "I",
+   "358": "full-time,",
+   "359": "",
+   "360": "full-time",
+   "361": "",
+   "537": "band-aid",
+   "538": "",
+   "539": "I",
+   "545": "I",
+   "547": "I",
+   "564": "I",
+   "586": "Bismarck",
+   "605": "I",
+   "653": "H2S",
+   "656": "rotting",
+   "703": "collapsed,",
+   "754": "band-aid",
+   "755": "",
+   "769": "I",
+   "775": "I",
+   "809": "TerraLifting.",
+   "810": "",
+   "811": "I",
+   "834": "TerraLift.",
+   "835": "",
+   "840": "I",
+   "923": "RID-X?",
+   "984": "I",
+   "996": "in,",
+   "1056": "North",
+   "1057": "Dakota",
+   "1061": "",
+   "1062": "",
+   "1063": "",
+   "1207": "North",
+   "1208": "Dakota",
+   "1242": "three-bedroom",
+   "1243": "",
+   "1282": "year-round",
+   "1283": "",
+   "1324": "Christmas",
+   "1336": "I",
+   "1354": "North",
+   "1355": "Dakota",
+   "1369": "I",
+   "1374": "Brandon",
+   "1383": "I",
+   "1412": "Canada",
+   "1426": "United",
+   "1427": "States",
+   "1457": "full-time",
+   "1458": "",
+   "1466": "winter.",
+   "1484": "I",
+   "1489": "I",
+   "1496": "I",
+   "1499": "Arizona",
+   "1500": "I",
+   "1503": "Arizona",
+   "1519": "I",
+   "1525": "I",
+   "1531": "I",
+   "1536": "I",
+   "1571": "",
+   "1572": "",
+   "1573": "",
+   "1739": "",
+   "1740": "",
+   "1741": "",
+   "1817": "January",
+   "1819": "February",
+   "1829": "Christmas",
+   "1839": "Christmas",
+   "1882": "I",
+   "1895": "leach",
+   "2100": "North",
+   "2101": "Dakota,",
+   "2212": "I",
+   "2214": "I",
+   "2217": "I've",
+   "2224": "I",
+   "2337": "I've",
+   "2344": "I",
+   "2367": "I",
+   "2382": "I",
+   "2539": "I'm",
+   "2541": "I'm",
+   "2565": "I",
+   "2573": "I",
+   "2625": "I",
+   "2690": "freeze-ups",
+   "2691": "",
+   "2827": "self-employed",
+   "2828": "",
+   "2851": "",
+   "2852": "",
+   "2853": "",
+   "2972": "I",
+   "2987": "I",
+   "3017": "Google",
+   "3036": "do.",
+   "3037": "Our",
+   "3038": "state's.",
+   "3051": "DEQ's",
+   "3087": "I",
+   "3089": "I",
+   "3154": "I",
+   "3268": "I",
+   "3294": "I",
+   "3392": "100,000",
+   "3393": "",
+   "3407": "North",
+   "3408": "Dakota",
+   "3494": "I",
+   "3501": "I",
+   "3503": "I",
+   "3514": "I",
+   "3522": "I",
+   "3536": "I",
+   "3553": "self-employed",
+   "3554": "",
+   "3644": "",
+   "3645": "",
+   "3646": "I",
+   "3730": "I",
+   "3750": "January",
+   "3751": "February",
+   "3772": "I",
+   "3800": "",
+   "3801": "",
+   "3802": "",
+   "3803": "",
+   "3804": "",
+   "3805": "",
+   "3806": "",
+   "3807": "",
+   "3808": "",
+   "3835": "wind",
+   "3881": "I",
+   "3937": "I",
+   "3954": "I'll",
+   "3956": "I'll",
+   "4052": "I",
+   "4080": "I",
+   "4084": "I",
+   "4138": "I",
+   "4169": "I",
+   "4328": "I",
+   "4339": "I",
+   "4356": "I",
+   "4360": "Zoeller",
+   "4363": "Zoeller's",
+   "4367": "I",
+   "4368": "I",
+   "4372": "I",
+   "4409": "I've",
+   "4410": "I've",
+   "4425": "I",
+   "4508": "septic",
+   "4639": "I"
+  }
+ },
+ "fillers": true,
+ "lower_third": {
+  "y": 970,
+  "people": [
+   {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "at": 12.0
+   },
+   {
+    "name": "Brandon Enervold",
+    "org": "Bismarck-Septic-Excavating",
+    "at": 45.0
+   }
+  ]
+ },
+ "chapters": [
+  [
+   0,
+   "150507",
+   "How a skid steer attachment became a septic company"
+  ],
+  [
+   490,
+   "150507",
+   "Repair or replace: the tank that collapsed two weeks later"
+  ],
+  [
+   806,
+   "150507",
+   "Fracking a failing drain field with a TerraLift"
+  ],
+  [
+   1039,
+   "150507",
+   "Why North Dakota septic tanks sit 8 to 10 feet deep"
+  ],
+  [
+   1273,
+   "150507",
+   "Winter emergencies and snow removal paid by the inch"
+  ],
+  [
+   2120,
+   "150507",
+   "Building a cushion so winter doesn't bleed you out"
+  ],
+  [
+   2741,
+   "150507",
+   "Six months of expenses and working on the business"
+  ],
+  [
+   3205,
+   "150507",
+   "100 miles out and 45 installs in eight months"
+  ],
+  [
+   3809,
+   "150507",
+   "Septic work at 40 below and keeping systems from freezing"
+  ],
+  [
+   4391,
+   "150507",
+   "What he'd tell his 2009 self: market sooner"
+  ]
+ ],
+ "publish": {
+  "approved": false,
+  "youtube": {
+   "title": "How a North Dakota Septic Company Survives a 40-Below Winter",
+   "description": "Brandon Enervold of Bismarck-Septic-Excavating joins me from Bismarck, North Dakota. He got into septic in 2009, when a friend with a new pumping company kept finding tanks with missing baffles and slow drain fields, and Brandon had a hole-digging attachment for his dad's skid steer. Today his crew installs 35 to 45 septic systems in about eight months, mostly within 100 miles of Bismarck.\n\nThen the ground freezes, drain field work stops, and the lows hit 40 below. We talk about how he gets his business through winter: a big cushion saved up in the summer, knowing his numbers, and not bleeding out when the work slows down.\n\nWhat we cover:\n- Repair or replace: why a new baffle in a 1990s tank can be money wasted\n- Subsoil fracking a drain field with a TerraLift\n- Why tanks in North Dakota sit 8 to 10 feet deep\n- Snow removal paid by the inch, and what a dry winter does to it\n- Paying an employee through the slow months\n- Setting aside six months of living expenses, equipment costs and insurance\n- Fewer freeze-ups: spring pumping, insulation and leaky toilets\n- What he'd tell himself in 2009: get the marketing going faster\n\nFind Brandon at bismarcksepticexcavating.com.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic installer",
+    "septic winter",
+    "North Dakota",
+    "snow removal",
+    "septic tank replacement",
+    "Bismarck-Septic-Excavating",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "thumbnail": "07_notes/episode/thumbnail.jpg"
+ },
+ "thumbnail": {
+  "layout": "cutout",
+  "bg": "black",
+  "at": 743.0,
+  "source": "01_footage/zoom-150507.mp4",
+  "lines": [
+   [
+    "Surviving",
+    "big"
+   ],
+   [
+    "40 below",
+    "box"
+   ]
+  ],
+  "guest": {
+   "at": 1628.6
+  },
+  "out": "07_notes/episode/thumbnail.jpg"
+ }
+}

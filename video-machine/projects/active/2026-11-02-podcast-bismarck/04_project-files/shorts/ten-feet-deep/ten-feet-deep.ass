@@ -1,0 +1,148 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:46.37,Title,,0,0,0,,{\pos(540,480)}Why our septic tanks\Nsit {\c&H0060ECCD}10 feet{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:00.00,0:00:00.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}You{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:00.14,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}You {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.28,0:00:00.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}something{\c&H00FFFFFF&} about 8
+Dialogue: 1,0:00:00.50,0:00:00.68,Cap,,0,0,0,,{\pos(540,1400)}something {\c&H0060ECCD}about{\c&H00FFFFFF&} 8
+Dialogue: 1,0:00:00.68,0:00:00.92,Cap,,0,0,0,,{\pos(540,1400)}something about {\c&H0060ECCD}8{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.92,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}feet{\c&H00FFFFFF&} down Are you
+Dialogue: 1,0:00:01.12,0:00:01.92,Cap,,0,0,0,,{\pos(540,1400)}feet {\c&H0060ECCD}down{\c&H00FFFFFF&} Are you
+Dialogue: 1,0:00:01.92,0:00:02.36,Cap,,0,0,0,,{\pos(540,1400)}feet down {\c&H0060ECCD}Are{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:02.36,0:00:02.66,Cap,,0,0,0,,{\pos(540,1400)}feet down Are {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.66,0:00:03.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}burying{\c&H00FFFFFF&} the tanks
+Dialogue: 1,0:00:03.26,0:00:03.48,Cap,,0,0,0,,{\pos(540,1400)}burying {\c&H0060ECCD}the{\c&H00FFFFFF&} tanks
+Dialogue: 1,0:00:03.48,0:00:03.88,Cap,,0,0,0,,{\pos(540,1400)}burying the {\c&H0060ECCD}tanks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.88,0:00:05.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}deeper{\c&H00FFFFFF&} in North
+Dialogue: 1,0:00:05.12,0:00:05.66,Cap,,0,0,0,,{\pos(540,1400)}deeper {\c&H0060ECCD}in{\c&H00FFFFFF&} North
+Dialogue: 1,0:00:05.66,0:00:05.88,Cap,,0,0,0,,{\pos(540,1400)}deeper in {\c&H0060ECCD}North{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.88,0:00:06.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Dakota{\c&H00FFFFFF&} due to
+Dialogue: 1,0:00:06.30,0:00:06.64,Cap,,0,0,0,,{\pos(540,1400)}Dakota {\c&H0060ECCD}due{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:06.64,0:00:06.80,Cap,,0,0,0,,{\pos(540,1400)}Dakota due {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.80,0:00:07.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} the freeze
+Dialogue: 1,0:00:07.92,0:00:08.40,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}the{\c&H00FFFFFF&} freeze
+Dialogue: 1,0:00:08.40,0:00:08.68,Cap,,0,0,0,,{\pos(540,1400)}like the {\c&H0060ECCD}freeze{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.68,0:00:09.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}level{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:09.10,0:00:09.58,Cap,,0,0,0,,{\pos(540,1400)}level {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:09.58,0:00:09.72,Cap,,0,0,0,,{\pos(540,1400)}level in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.72,0:00:09.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}soil?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.98,0:00:11.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} most of the
+Dialogue: 1,0:00:11.24,0:00:12.02,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}most{\c&H00FFFFFF&} of the
+Dialogue: 1,0:00:12.02,0:00:12.64,Cap,,0,0,0,,{\pos(540,1400)}So most {\c&H0060ECCD}of{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:12.64,0:00:12.84,Cap,,0,0,0,,{\pos(540,1400)}So most of {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.84,0:00:13.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&} that were
+Dialogue: 1,0:00:13.28,0:00:13.76,Cap,,0,0,0,,{\pos(540,1400)}tanks {\c&H0060ECCD}that{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:13.76,0:00:13.90,Cap,,0,0,0,,{\pos(540,1400)}tanks that {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.90,0:00:14.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}put{\c&H00FFFFFF&} in back then
+Dialogue: 1,0:00:14.10,0:00:14.28,Cap,,0,0,0,,{\pos(540,1400)}put {\c&H0060ECCD}in{\c&H00FFFFFF&} back then
+Dialogue: 1,0:00:14.28,0:00:14.52,Cap,,0,0,0,,{\pos(540,1400)}put in {\c&H0060ECCD}back{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:14.52,0:00:14.74,Cap,,0,0,0,,{\pos(540,1400)}put in back {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.74,0:00:14.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}were{\c&H00FFFFFF&} all below
+Dialogue: 1,0:00:14.94,0:00:15.16,Cap,,0,0,0,,{\pos(540,1400)}were {\c&H0060ECCD}all{\c&H00FFFFFF&} below
+Dialogue: 1,0:00:15.16,0:00:15.52,Cap,,0,0,0,,{\pos(540,1400)}were all {\c&H0060ECCD}below{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.52,0:00:15.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} footer on
+Dialogue: 1,0:00:15.78,0:00:16.18,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}footer{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:16.18,0:00:16.88,Cap,,0,0,0,,{\pos(540,1400)}the footer {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.88,0:00:17.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}basements{\c&H00FFFFFF&} most of
+Dialogue: 1,0:00:17.34,0:00:17.86,Cap,,0,0,0,,{\pos(540,1400)}basements {\c&H0060ECCD}most{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:17.86,0:00:18.02,Cap,,0,0,0,,{\pos(540,1400)}basements most {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.02,0:00:18.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} it's changed
+Dialogue: 1,0:00:18.52,0:00:20.06,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}it's{\c&H00FFFFFF&} changed
+Dialogue: 1,0:00:20.06,0:00:20.52,Cap,,0,0,0,,{\pos(540,1400)}all it's {\c&H0060ECCD}changed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.52,0:00:20.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the last 15
+Dialogue: 1,0:00:20.72,0:00:20.84,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&} last 15
+Dialogue: 1,0:00:20.84,0:00:21.08,Cap,,0,0,0,,{\pos(540,1400)}in the {\c&H0060ECCD}last{\c&H00FFFFFF&} 15
+Dialogue: 1,0:00:21.08,0:00:21.44,Cap,,0,0,0,,{\pos(540,1400)}in the last {\c&H0060ECCD}15{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.44,0:00:21.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}years{\c&H00FFFFFF&} around here
+Dialogue: 1,0:00:21.74,0:00:22.02,Cap,,0,0,0,,{\pos(540,1400)}years {\c&H0060ECCD}around{\c&H00FFFFFF&} here
+Dialogue: 1,0:00:22.02,0:00:22.22,Cap,,0,0,0,,{\pos(540,1400)}years around {\c&H0060ECCD}here{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.22,0:00:22.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} lot of people
+Dialogue: 1,0:00:22.36,0:00:22.44,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of people
+Dialogue: 1,0:00:22.44,0:00:22.52,Cap,,0,0,0,,{\pos(540,1400)}a lot {\c&H0060ECCD}of{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:22.52,0:00:22.72,Cap,,0,0,0,,{\pos(540,1400)}a lot of {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.72,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doing{\c&H00FFFFFF&} grinder
+Dialogue: 1,0:00:22.94,0:00:23.30,Cap,,0,0,0,,{\pos(540,1400)}doing {\c&H0060ECCD}grinder{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.30,0:00:23.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumps{\c&H00FFFFFF&} and gravity
+Dialogue: 1,0:00:23.68,0:00:24.00,Cap,,0,0,0,,{\pos(540,1400)}pumps {\c&H0060ECCD}and{\c&H00FFFFFF&} gravity
+Dialogue: 1,0:00:24.00,0:00:24.40,Cap,,0,0,0,,{\pos(540,1400)}pumps and {\c&H0060ECCD}gravity{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.40,0:00:24.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}feeding{\c&H00FFFFFF&} outside
+Dialogue: 1,0:00:24.70,0:00:25.18,Cap,,0,0,0,,{\pos(540,1400)}feeding {\c&H0060ECCD}outside{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.18,0:00:25.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} kind of
+Dialogue: 1,0:00:25.84,0:00:26.02,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}kind{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:26.02,0:00:26.14,Cap,,0,0,0,,{\pos(540,1400)}that kind {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.14,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}stuff{\c&H00FFFFFF&} So as far
+Dialogue: 1,0:00:26.46,0:00:27.54,Cap,,0,0,0,,{\pos(540,1400)}stuff {\c&H0060ECCD}So{\c&H00FFFFFF&} as far
+Dialogue: 1,0:00:27.54,0:00:28.24,Cap,,0,0,0,,{\pos(540,1400)}stuff So {\c&H0060ECCD}as{\c&H00FFFFFF&} far
+Dialogue: 1,0:00:28.24,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}stuff So as {\c&H0060ECCD}far{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.46,0:00:28.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} putting those
+Dialogue: 1,0:00:28.72,0:00:28.98,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}putting{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:28.98,0:00:29.20,Cap,,0,0,0,,{\pos(540,1400)}as putting {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.20,0:00:29.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tanks{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:29.44,0:00:29.62,Cap,,0,0,0,,{\pos(540,1400)}tanks {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:29.62,0:00:29.70,Cap,,0,0,0,,{\pos(540,1400)}tanks in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.70,0:00:29.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ground{\c&H00FFFFFF&} that deep
+Dialogue: 1,0:00:29.90,0:00:30.16,Cap,,0,0,0,,{\pos(540,1400)}ground {\c&H0060ECCD}that{\c&H00FFFFFF&} deep
+Dialogue: 1,0:00:30.16,0:00:30.38,Cap,,0,0,0,,{\pos(540,1400)}ground that {\c&H0060ECCD}deep{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.38,0:00:30.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}again{\c&H00FFFFFF&} it's still
+Dialogue: 1,0:00:30.68,0:00:30.92,Cap,,0,0,0,,{\pos(540,1400)}again {\c&H0060ECCD}it's{\c&H00FFFFFF&} still
+Dialogue: 1,0:00:30.92,0:00:31.08,Cap,,0,0,0,,{\pos(540,1400)}again it's {\c&H0060ECCD}still{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.08,0:00:31.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}cheaper{\c&H00FFFFFF&} to put in
+Dialogue: 1,0:00:31.42,0:00:31.60,Cap,,0,0,0,,{\pos(540,1400)}cheaper {\c&H0060ECCD}to{\c&H00FFFFFF&} put in
+Dialogue: 1,0:00:31.60,0:00:31.74,Cap,,0,0,0,,{\pos(540,1400)}cheaper to {\c&H0060ECCD}put{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:31.74,0:00:31.90,Cap,,0,0,0,,{\pos(540,1400)}cheaper to put {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.90,0:00:32.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} tank that deep
+Dialogue: 1,0:00:32.04,0:00:32.32,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}tank{\c&H00FFFFFF&} that deep
+Dialogue: 1,0:00:32.32,0:00:32.62,Cap,,0,0,0,,{\pos(540,1400)}a tank {\c&H0060ECCD}that{\c&H00FFFFFF&} deep
+Dialogue: 1,0:00:32.62,0:00:32.90,Cap,,0,0,0,,{\pos(540,1400)}a tank that {\c&H0060ECCD}deep{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.90,0:00:33.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}than{\c&H00FFFFFF&} it is to
+Dialogue: 1,0:00:33.10,0:00:33.22,Cap,,0,0,0,,{\pos(540,1400)}than {\c&H0060ECCD}it{\c&H00FFFFFF&} is to
+Dialogue: 1,0:00:33.22,0:00:33.40,Cap,,0,0,0,,{\pos(540,1400)}than it {\c&H0060ECCD}is{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:33.40,0:00:33.54,Cap,,0,0,0,,{\pos(540,1400)}than it is {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.54,0:00:34.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}redo{\c&H00FFFFFF&} all the
+Dialogue: 1,0:00:34.02,0:00:34.28,Cap,,0,0,0,,{\pos(540,1400)}redo {\c&H0060ECCD}all{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:34.28,0:00:34.40,Cap,,0,0,0,,{\pos(540,1400)}redo all {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.40,0:00:34.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plumbing{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:34.66,0:00:34.82,Cap,,0,0,0,,{\pos(540,1400)}plumbing {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:34.82,0:00:34.88,Cap,,0,0,0,,{\pos(540,1400)}plumbing in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.88,0:00:36.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}house{\c&H00FFFFFF&} so that's
+Dialogue: 1,0:00:36.30,0:00:37.22,Cap,,0,0,0,,{\pos(540,1400)}house {\c&H0060ECCD}so{\c&H00FFFFFF&} that's
+Dialogue: 1,0:00:37.22,0:00:38.26,Cap,,0,0,0,,{\pos(540,1400)}house so {\c&H0060ECCD}that's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.26,0:00:38.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}kind{\c&H00FFFFFF&} of what
+Dialogue: 1,0:00:38.56,0:00:38.66,Cap,,0,0,0,,{\pos(540,1400)}kind {\c&H0060ECCD}of{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:38.66,0:00:38.80,Cap,,0,0,0,,{\pos(540,1400)}kind of {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.80,0:00:39.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we've{\c&H00FFFFFF&} been doing
+Dialogue: 1,0:00:39.00,0:00:39.16,Cap,,0,0,0,,{\pos(540,1400)}we've {\c&H0060ECCD}been{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:39.16,0:00:39.40,Cap,,0,0,0,,{\pos(540,1400)}we've been {\c&H0060ECCD}doing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.40,0:00:40.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}depends{\c&H00FFFFFF&} on you
+Dialogue: 1,0:00:40.08,0:00:40.54,Cap,,0,0,0,,{\pos(540,1400)}depends {\c&H0060ECCD}on{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:40.54,0:00:41.18,Cap,,0,0,0,,{\pos(540,1400)}depends on {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.18,0:00:41.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} we find a
+Dialogue: 1,0:00:41.26,0:00:41.44,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}we{\c&H00FFFFFF&} find a
+Dialogue: 1,0:00:41.44,0:00:41.70,Cap,,0,0,0,,{\pos(540,1400)}know we {\c&H0060ECCD}find{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:41.70,0:00:41.84,Cap,,0,0,0,,{\pos(540,1400)}know we find {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.84,0:00:41.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lot{\c&H00FFFFFF&} of tanks that
+Dialogue: 1,0:00:41.96,0:00:42.10,Cap,,0,0,0,,{\pos(540,1400)}lot {\c&H0060ECCD}of{\c&H00FFFFFF&} tanks that
+Dialogue: 1,0:00:42.10,0:00:42.42,Cap,,0,0,0,,{\pos(540,1400)}lot of {\c&H0060ECCD}tanks{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:42.42,0:00:43.32,Cap,,0,0,0,,{\pos(540,1400)}lot of tanks {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.32,0:00:43.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} 10 feet to
+Dialogue: 1,0:00:43.44,0:00:43.68,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}10{\c&H00FFFFFF&} feet to
+Dialogue: 1,0:00:43.68,0:00:44.02,Cap,,0,0,0,,{\pos(540,1400)}are 10 {\c&H0060ECCD}feet{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:44.02,0:00:44.52,Cap,,0,0,0,,{\pos(540,1400)}are 10 feet {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.52,0:00:44.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} top of the
+Dialogue: 1,0:00:44.62,0:00:45.72,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}top{\c&H00FFFFFF&} of the
+Dialogue: 1,0:00:45.72,0:00:45.86,Cap,,0,0,0,,{\pos(540,1400)}the top {\c&H0060ECCD}of{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:45.86,0:00:45.96,Cap,,0,0,0,,{\pos(540,1400)}the top of {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.96,0:00:46.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tank{\c&H00FFFFFF&}

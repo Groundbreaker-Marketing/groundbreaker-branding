@@ -1,0 +1,132 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:44.78,Title,,0,0,0,,{\pos(540,480)}Keep your septic\Nfrom {\c&H0060ECCD}freezing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.26,0:00:00.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}What{\c&H00FFFFFF&} do you
+Dialogue: 1,0:00:00.72,0:00:00.82,Cap,,0,0,0,,{\pos(540,1400)}What {\c&H0060ECCD}do{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:00.82,0:00:00.94,Cap,,0,0,0,,{\pos(540,1400)}What do {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.94,0:00:01.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}recommend{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:01.36,0:00:01.74,Cap,,0,0,0,,{\pos(540,1400)}recommend {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.74,0:00:02.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowners{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:02.12,0:00:02.44,Cap,,0,0,0,,{\pos(540,1400)}homeowners {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.44,0:00:02.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} area do when
+Dialogue: 1,0:00:02.56,0:00:02.82,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}area{\c&H00FFFFFF&} do when
+Dialogue: 1,0:00:02.82,0:00:03.10,Cap,,0,0,0,,{\pos(540,1400)}your area {\c&H0060ECCD}do{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:03.10,0:00:03.54,Cap,,0,0,0,,{\pos(540,1400)}your area do {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.54,0:00:03.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} winter comes
+Dialogue: 1,0:00:03.72,0:00:03.92,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}winter{\c&H00FFFFFF&} comes
+Dialogue: 1,0:00:03.92,0:00:04.22,Cap,,0,0,0,,{\pos(540,1400)}the winter {\c&H0060ECCD}comes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.22,0:00:04.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}around{\c&H00FFFFFF&} to prevent
+Dialogue: 1,0:00:04.52,0:00:04.88,Cap,,0,0,0,,{\pos(540,1400)}around {\c&H0060ECCD}to{\c&H00FFFFFF&} prevent
+Dialogue: 1,0:00:04.88,0:00:05.48,Cap,,0,0,0,,{\pos(540,1400)}around to {\c&H0060ECCD}prevent{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.48,0:00:06.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}freezing{\c&H00FFFFFF&} in their
+Dialogue: 1,0:00:06.20,0:00:06.80,Cap,,0,0,0,,{\pos(540,1400)}freezing {\c&H0060ECCD}in{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:06.80,0:00:06.96,Cap,,0,0,0,,{\pos(540,1400)}freezing in {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.96,0:00:07.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pipes{\c&H00FFFFFF&} freezing to
+Dialogue: 1,0:00:07.40,0:00:07.94,Cap,,0,0,0,,{\pos(540,1400)}pipes {\c&H0060ECCD}freezing{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:07.94,0:00:08.30,Cap,,0,0,0,,{\pos(540,1400)}pipes freezing {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.30,0:00:08.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:08.44,0:00:08.78,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.78,0:00:09.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.69,0:00:10.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Making{\c&H00FFFFFF&} sure that
+Dialogue: 1,0:00:10.91,0:00:11.33,Cap,,0,0,0,,{\pos(540,1400)}Making {\c&H0060ECCD}sure{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:11.33,0:00:11.65,Cap,,0,0,0,,{\pos(540,1400)}Making sure {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.65,0:00:11.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} toilets
+Dialogue: 1,0:00:11.81,0:00:12.21,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}toilets{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.21,0:00:12.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}aren't{\c&H00FFFFFF&} leaking
+Dialogue: 1,0:00:12.49,0:00:12.83,Cap,,0,0,0,,{\pos(540,1400)}aren't {\c&H0060ECCD}leaking{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.83,0:00:13.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} trickle
+Dialogue: 1,0:00:13.07,0:00:13.47,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}trickle{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.47,0:00:13.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} is never
+Dialogue: 1,0:00:13.85,0:00:14.09,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}is{\c&H00FFFFFF&} never
+Dialogue: 1,0:00:14.09,0:00:14.33,Cap,,0,0,0,,{\pos(540,1400)}water is {\c&H0060ECCD}never{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.33,0:00:15.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}good{\c&H00FFFFFF&} Like I said
+Dialogue: 1,0:00:15.53,0:00:16.75,Cap,,0,0,0,,{\pos(540,1400)}good {\c&H0060ECCD}Like{\c&H00FFFFFF&} I said
+Dialogue: 1,0:00:16.75,0:00:16.83,Cap,,0,0,0,,{\pos(540,1400)}good Like {\c&H0060ECCD}I{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:16.83,0:00:17.09,Cap,,0,0,0,,{\pos(540,1400)}good Like I {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.09,0:00:17.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}making{\c&H00FFFFFF&} sure that
+Dialogue: 1,0:00:17.37,0:00:17.65,Cap,,0,0,0,,{\pos(540,1400)}making {\c&H0060ECCD}sure{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:17.65,0:00:17.83,Cap,,0,0,0,,{\pos(540,1400)}making sure {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.83,0:00:17.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} have plenty
+Dialogue: 1,0:00:17.93,0:00:18.05,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}have{\c&H00FFFFFF&} plenty
+Dialogue: 1,0:00:18.05,0:00:18.27,Cap,,0,0,0,,{\pos(540,1400)}you have {\c&H0060ECCD}plenty{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.27,0:00:18.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} bacteria in
+Dialogue: 1,0:00:18.41,0:00:18.81,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}bacteria{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:18.81,0:00:19.05,Cap,,0,0,0,,{\pos(540,1400)}of bacteria {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.05,0:00:19.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} tank don't
+Dialogue: 1,0:00:19.15,0:00:19.49,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}tank{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:19.49,0:00:19.93,Cap,,0,0,0,,{\pos(540,1400)}your tank {\c&H0060ECCD}don't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.93,0:00:20.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} pumping your
+Dialogue: 1,0:00:20.05,0:00:20.31,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}pumping{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:20.31,0:00:20.49,Cap,,0,0,0,,{\pos(540,1400)}be pumping {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.49,0:00:20.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tank{\c&H00FFFFFF&} out before
+Dialogue: 1,0:00:20.73,0:00:21.05,Cap,,0,0,0,,{\pos(540,1400)}tank {\c&H0060ECCD}out{\c&H00FFFFFF&} before
+Dialogue: 1,0:00:21.05,0:00:21.61,Cap,,0,0,0,,{\pos(540,1400)}tank out {\c&H0060ECCD}before{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.61,0:00:22.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}winter{\c&H00FFFFFF&} pump it
+Dialogue: 1,0:00:22.03,0:00:23.17,Cap,,0,0,0,,{\pos(540,1400)}winter {\c&H0060ECCD}pump{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:23.17,0:00:23.29,Cap,,0,0,0,,{\pos(540,1400)}winter pump {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.29,0:00:23.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&} in the spring
+Dialogue: 1,0:00:23.45,0:00:23.59,Cap,,0,0,0,,{\pos(540,1400)}out {\c&H0060ECCD}in{\c&H00FFFFFF&} the spring
+Dialogue: 1,0:00:23.59,0:00:23.69,Cap,,0,0,0,,{\pos(540,1400)}out in {\c&H0060ECCD}the{\c&H00FFFFFF&} spring
+Dialogue: 1,0:00:23.69,0:00:26.17,Cap,,0,0,0,,{\pos(540,1400)}out in the {\c&H0060ECCD}spring{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.32,0:00:27.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} far as I
+Dialogue: 1,0:00:27.57,0:00:27.79,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}far{\c&H00FFFFFF&} as I
+Dialogue: 1,0:00:27.79,0:00:28.09,Cap,,0,0,0,,{\pos(540,1400)}as far {\c&H0060ECCD}as{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:28.09,0:00:28.35,Cap,,0,0,0,,{\pos(540,1400)}as far as {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.35,0:00:28.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} know what
+Dialogue: 1,0:00:28.55,0:00:28.79,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}know{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:28.79,0:00:29.13,Cap,,0,0,0,,{\pos(540,1400)}don't know {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.13,0:00:29.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}other{\c&H00FFFFFF&} people do
+Dialogue: 1,0:00:29.43,0:00:29.73,Cap,,0,0,0,,{\pos(540,1400)}other {\c&H0060ECCD}people{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:29.73,0:00:29.97,Cap,,0,0,0,,{\pos(540,1400)}other people {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.97,0:00:30.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} we insulate
+Dialogue: 1,0:00:30.53,0:00:31.23,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}we{\c&H00FFFFFF&} insulate
+Dialogue: 1,0:00:31.23,0:00:31.95,Cap,,0,0,0,,{\pos(540,1400)}but we {\c&H0060ECCD}insulate{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.95,0:00:32.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} our tanks all
+Dialogue: 1,0:00:32.21,0:00:32.37,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}our{\c&H00FFFFFF&} tanks all
+Dialogue: 1,0:00:32.37,0:00:32.73,Cap,,0,0,0,,{\pos(540,1400)}all our {\c&H0060ECCD}tanks{\c&H00FFFFFF&} all
+Dialogue: 1,0:00:32.73,0:00:32.99,Cap,,0,0,0,,{\pos(540,1400)}all our tanks {\c&H0060ECCD}all{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.99,0:00:33.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}our{\c&H00FFFFFF&} lines we use
+Dialogue: 1,0:00:33.13,0:00:34.29,Cap,,0,0,0,,{\pos(540,1400)}our {\c&H0060ECCD}lines{\c&H00FFFFFF&} we use
+Dialogue: 1,0:00:34.29,0:00:34.97,Cap,,0,0,0,,{\pos(540,1400)}our lines {\c&H0060ECCD}we{\c&H00FFFFFF&} use
+Dialogue: 1,0:00:34.97,0:00:35.41,Cap,,0,0,0,,{\pos(540,1400)}our lines we {\c&H0060ECCD}use{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.41,0:00:36.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} 24-inch foam
+Dialogue: 1,0:00:36.09,0:00:37.53,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}24-inch{\c&H00FFFFFF&} foam
+Dialogue: 1,0:00:37.53,0:00:37.93,Cap,,0,0,0,,{\pos(540,1400)}the 24-inch {\c&H0060ECCD}foam{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.93,0:00:38.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pads{\c&H00FFFFFF&} to put in
+Dialogue: 1,0:00:38.35,0:00:38.53,Cap,,0,0,0,,{\pos(540,1400)}pads {\c&H0060ECCD}to{\c&H00FFFFFF&} put in
+Dialogue: 1,0:00:38.53,0:00:38.67,Cap,,0,0,0,,{\pos(540,1400)}pads to {\c&H0060ECCD}put{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:38.67,0:00:38.79,Cap,,0,0,0,,{\pos(540,1400)}pads to put {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.79,0:00:38.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} risers so the
+Dialogue: 1,0:00:38.89,0:00:39.33,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}risers{\c&H00FFFFFF&} so the
+Dialogue: 1,0:00:39.33,0:00:39.55,Cap,,0,0,0,,{\pos(540,1400)}the risers {\c&H0060ECCD}so{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:39.55,0:00:39.69,Cap,,0,0,0,,{\pos(540,1400)}the risers so {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.69,0:00:39.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}air{\c&H00FFFFFF&} won't blow
+Dialogue: 1,0:00:39.89,0:00:40.15,Cap,,0,0,0,,{\pos(540,1400)}air {\c&H0060ECCD}won't{\c&H00FFFFFF&} blow
+Dialogue: 1,0:00:40.15,0:00:40.35,Cap,,0,0,0,,{\pos(540,1400)}air won't {\c&H0060ECCD}blow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.35,0:00:40.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}down{\c&H00FFFFFF&} in there
+Dialogue: 1,0:00:40.59,0:00:40.73,Cap,,0,0,0,,{\pos(540,1400)}down {\c&H0060ECCD}in{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:40.73,0:00:40.89,Cap,,0,0,0,,{\pos(540,1400)}down in {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.89,0:00:41.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everything{\c&H00FFFFFF&} we do
+Dialogue: 1,0:00:41.51,0:00:41.85,Cap,,0,0,0,,{\pos(540,1400)}everything {\c&H0060ECCD}we{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:41.85,0:00:42.09,Cap,,0,0,0,,{\pos(540,1400)}everything we {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.09,0:00:42.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} try to prevent
+Dialogue: 1,0:00:42.39,0:00:42.55,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}try{\c&H00FFFFFF&} to prevent
+Dialogue: 1,0:00:42.55,0:00:42.67,Cap,,0,0,0,,{\pos(540,1400)}is try {\c&H0060ECCD}to{\c&H00FFFFFF&} prevent
+Dialogue: 1,0:00:42.67,0:00:43.05,Cap,,0,0,0,,{\pos(540,1400)}is try to {\c&H0060ECCD}prevent{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.05,0:00:43.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}having{\c&H00FFFFFF&} issues in
+Dialogue: 1,0:00:43.77,0:00:44.19,Cap,,0,0,0,,{\pos(540,1400)}having {\c&H0060ECCD}issues{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:44.19,0:00:44.41,Cap,,0,0,0,,{\pos(540,1400)}having issues {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.43,0:00:44.73,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}winter{\c&H00FFFFFF&}
