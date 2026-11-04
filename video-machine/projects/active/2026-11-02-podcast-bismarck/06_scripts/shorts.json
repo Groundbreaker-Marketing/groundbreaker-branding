@@ -147,7 +147,8 @@
     "facebook"
    ],
    "cover": "07_notes/shorts/covers/big-cushion.jpg",
-   "cover_at": 737.4
+   "cover_at": 737.4,
+   "trim_start": 0.52
   },
   {
    "id": "ten-feet-deep",
@@ -251,7 +252,7 @@
     "facebook"
    ],
    "trim_start": -0.32,
-   "end_pad": -0.14,
+   "end_pad": 0.17,
    "cover": "07_notes/shorts/covers/forty-below.jpg",
    "cover_at": 1364.6
   },
