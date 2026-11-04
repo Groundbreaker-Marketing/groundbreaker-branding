@@ -1,0 +1,386 @@
+[
+ {
+  "t": 52.6,
+  "dur": 2.6,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 62.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 103.2,
+  "dur": 3.2,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 139.8,
+  "dur": 2.8,
+  "ashley_talk": 0.6,
+  "brandon_talk": 1.0
+ },
+ {
+  "t": 155.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.0
+ },
+ {
+  "t": 174.8,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 214.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 235.2,
+  "dur": 3.0,
+  "ashley_talk": 0.4,
+  "brandon_talk": 0.6
+ },
+ {
+  "t": 253.8,
+  "dur": 2.6,
+  "ashley_talk": 0.8,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 267.2,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 296.8,
+  "dur": 2.6,
+  "ashley_talk": 1.0,
+  "brandon_talk": 1.2
+ },
+ {
+  "t": 309.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 322.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 1.6
+ },
+ {
+  "t": 337.0,
+  "dur": 4.0,
+  "ashley_talk": 1.4,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 345.2,
+  "dur": 2.8,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.8
+ },
+ {
+  "t": 365.8,
+  "dur": 2.8,
+  "ashley_talk": 0.0,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 409.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 430.2,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 485.2,
+  "dur": 2.8,
+  "ashley_talk": 0.8,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 531.4,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 538.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 548.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 572.0,
+  "dur": 2.8,
+  "ashley_talk": 0.6,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 627.2,
+  "dur": 2.8,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 638.4,
+  "dur": 3.0,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.6
+ },
+ {
+  "t": 644.0,
+  "dur": 2.8,
+  "ashley_talk": 0.6,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 702.6,
+  "dur": 2.6,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 784.0,
+  "dur": 2.8,
+  "ashley_talk": 0.6,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 793.8,
+  "dur": 4.0,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 823.8,
+  "dur": 2.6,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 830.8,
+  "dur": 2.8,
+  "ashley_talk": 0.6,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 843.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 853.0,
+  "dur": 3.0,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 860.0,
+  "dur": 2.8,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.8
+ },
+ {
+  "t": 877.0,
+  "dur": 2.8,
+  "ashley_talk": 0.8,
+  "brandon_talk": 1.6
+ },
+ {
+  "t": 885.4,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 914.8,
+  "dur": 2.6,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.2
+ },
+ {
+  "t": 921.0,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 931.6,
+  "dur": 2.6,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 937.6,
+  "dur": 2.6,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 978.2,
+  "dur": 3.2,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 997.8,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 1004.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 1023.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 1034.8,
+  "dur": 2.8,
+  "ashley_talk": 1.0,
+  "brandon_talk": 1.6
+ },
+ {
+  "t": 1093.0,
+  "dur": 2.8,
+  "ashley_talk": 0.4,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 1121.0,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 1128.0,
+  "dur": 2.8,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.6
+ },
+ {
+  "t": 1138.0,
+  "dur": 2.8,
+  "ashley_talk": 0.8,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 1168.8,
+  "dur": 2.6,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.6
+ },
+ {
+  "t": 1221.4,
+  "dur": 3.4,
+  "ashley_talk": 1.2,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 1240.0,
+  "dur": 2.8,
+  "ashley_talk": 0.6,
+  "brandon_talk": 1.6
+ },
+ {
+  "t": 1275.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 1297.6,
+  "dur": 2.6,
+  "ashley_talk": 0.2,
+  "brandon_talk": 1.6
+ },
+ {
+  "t": 1323.8,
+  "dur": 3.0,
+  "ashley_talk": 0.4,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 1348.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 1354.8,
+  "dur": 2.6,
+  "ashley_talk": 0.0,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 1375.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 1.6
+ },
+ {
+  "t": 1440.2,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.0
+ },
+ {
+  "t": 1452.0,
+  "dur": 2.8,
+  "ashley_talk": 0.8,
+  "brandon_talk": 1.8
+ },
+ {
+  "t": 1468.0,
+  "dur": 2.8,
+  "ashley_talk": 0.0,
+  "brandon_talk": 2.2
+ },
+ {
+  "t": 1490.8,
+  "dur": 2.8,
+  "ashley_talk": 0.2,
+  "brandon_talk": 2.4
+ },
+ {
+  "t": 1572.8,
+  "dur": 2.6,
+  "ashley_talk": 0.6,
+  "brandon_talk": 1.4
+ },
+ {
+  "t": 1630.4,
+  "dur": 3.2,
+  "ashley_talk": 0.6,
+  "brandon_talk": 1.6
+ }
+]

@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 12 clips from Brandon Enervold's (Bismarck-Septic-Excavating) guest episode, take 150507 (Zoom HD 1280x720, speaker view, no upscale). Source is the lip-synced file (zoom-150507-synced.mov, Brandon 43 ms earlier) with its words file; keep = inclusive word-index ranges in play order (splits drop Ashley's questions or a talking-through-it phrase); fillers skip automatically; stammers stay in the audio and are hidden from the captions with \"\" fixes rather than cut, and max_gap 1.0, so the clips stay smooth (Ashley's Oct 2026 notes). layout crop at 0.5 (Ashley sits at about 0.45 of the frame, Brandon 0.57). Posting plan: release week 2026-11-04..11-10, every clip to YouTube + TikTok at noon or 5 PM CT; the five strongest also to Instagram and Facebook at noon on weekdays. Captions: one per network; {bse} tags Bismarck-Septic-Excavating (its site links only a Facebook page, id 61568685107784; no Instagram, TikTok or YouTube found), the full episode linked ({episode}) everywhere but Facebook. approved = Ashley approved it in Ops. Clip edges were measured on each person's own Zoom track (Whisper ran words together across real pauses, so the build's cut landed inside a word): trim_start below 0 moves a start earlier to keep a first syllable the cut clipped, above 0 skips the tail of the word before; end_pad lets the last word finish. ten-feet-deep, freeze-ups and tank-collapsed play straight through (stammers hidden from the captions) instead of cutting mid-word, and market-sooner keeps Ashley's 'That's great advice' because Brandon's closing line starts 0.5 s after Whisper's time.",
+ "_how": "Recipe for shorts.build (video-machine). 12 clips from Brandon Enervold's (Bismarck-Septic-Excavating) guest episode, take 150507 (Zoom HD 1280x720, speaker view, no upscale). Source is the lip-synced file (zoom-150507-synced.mov, Brandon 43 ms earlier) with its words file; keep = inclusive word-index ranges in play order (splits drop Ashley's questions or a talking-through-it phrase); fillers skip automatically; stammers stay in the audio and are hidden from the captions with \"\" fixes rather than cut, and max_gap 1.0, so the clips stay smooth (Ashley's Oct 2026 notes). layout crop at 0.5 (Ashley sits at about 0.45 of the frame, Brandon 0.57). Posting plan: release week 2026-11-04..11-10, every clip to YouTube + TikTok at noon or 5 PM CT; the five strongest also to Instagram and Facebook at noon on weekdays. Captions: one per network; {bse} tags Bismarck-Septic-Excavating (its site links only a Facebook page, id 61568685107784; no Instagram, TikTok or YouTube found), the full episode linked ({episode}) everywhere but Facebook. approved = Ashley approved it in Ops. Clip edges were measured on each person's own Zoom track (Whisper ran words together across real pauses, so the build's cut landed inside a word): trim_start below 0 moves a start earlier to keep a first syllable the cut clipped, above 0 skips the tail of the word before; end_pad lets the last word finish. ten-feet-deep, freeze-ups and tank-collapsed play straight through (stammers hidden from the captions) instead of cutting mid-word, and market-sooner keeps Ashley's 'That's great advice' because Brandon's closing line starts 0.5 s after Whisper's time. Instagram Reel covers (Ashley's style A, 2026-10-28): 07_notes/shorts/covers/<id>.jpg, built by video-machine shorts.covers from the frames in shorts.json cover_at.",
  "fillers": true,
  "max_gap": 1.0,
  "guests": {
@@ -58,7 +58,9 @@
     "facebook"
    ],
    "trim_start": -0.2,
-   "end_pad": 0.05
+   "end_pad": 0.05,
+   "cover": "07_notes/shorts/covers/tank-collapsed.jpg",
+   "cover_at": 262.4
   },
   {
    "id": "terralift",
@@ -143,7 +145,9 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "cover": "07_notes/shorts/covers/big-cushion.jpg",
+   "cover_at": 737.4
   },
   {
    "id": "ten-feet-deep",
@@ -247,7 +251,9 @@
     "facebook"
    ],
    "trim_start": -0.32,
-   "end_pad": -0.14
+   "end_pad": -0.14,
+   "cover": "07_notes/shorts/covers/forty-below.jpg",
+   "cover_at": 1364.6
   },
   {
    "id": "paid-by-the-inch",
@@ -502,7 +508,9 @@
     "instagram",
     "facebook"
    ],
-   "end_pad": 0.1
+   "end_pad": 0.1,
+   "cover": "07_notes/shorts/covers/skid-steer.jpg",
+   "cover_at": 1008.0
   },
   {
    "id": "market-sooner",
@@ -550,7 +558,10 @@
     "tiktok",
     "instagram",
     "facebook"
-   ]
+   ],
+   "cover": "07_notes/shorts/covers/market-sooner.jpg",
+   "cover_at": 1628.6
   }
- ]
+ ],
+ "cover_with": "with Brandon Enervold of Bismarck-Septic-Excavating"
 }
