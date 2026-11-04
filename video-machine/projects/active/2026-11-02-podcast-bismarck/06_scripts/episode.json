@@ -534,9 +534,17 @@
   },
   "thumbnail": "07_notes/episode/thumbnail.jpg",
   "publish_at": "2026-11-04T08:00:00",
+  "youtube_replaced": [
+   {
+    "video_id": "hDVHOFNTwM8",
+    "url": "https://youtu.be/hDVHOFNTwM8",
+    "scheduled": "2026-11-04T08:00:00",
+    "why": "2026-11-04: re-uploaded in 4K, YouTube's encode of the 1080p upload looked worse than the file"
+   }
+  ],
   "youtube_upload": {
-   "video_id": "hDVHOFNTwM8",
-   "url": "https://youtu.be/hDVHOFNTwM8",
+   "video_id": "u5LSN3yvHfY",
+   "url": "https://youtu.be/u5LSN3yvHfY",
    "scheduled": "2026-11-04T08:00:00"
   }
  },
