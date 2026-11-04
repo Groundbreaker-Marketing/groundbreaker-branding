@@ -514,7 +514,7 @@
   ]
  ],
  "publish": {
-  "approved": false,
+  "approved": true,
   "youtube": {
    "title": "How a North Dakota Septic Company Survives a 40-Below Winter",
    "description": "Brandon Enervold of Bismarck-Septic-Excavating joins me from Bismarck, North Dakota. He got into septic in 2009, when a friend with a new pumping company kept finding tanks with missing baffles and slow drain fields, and Brandon had a hole-digging attachment for his dad's skid steer. Today his crew installs 35 to 45 septic systems in about eight months, mostly within 100 miles of Bismarck.\n\nThen the ground freezes, drain field work stops, and the lows hit 40 below. We talk about how he gets his business through winter: a big cushion saved up in the summer, knowing his numbers, and not bleeding out when the work slows down.\n\nWhat we cover:\n- Repair or replace: why a new baffle in a 1990s tank can be money wasted\n- Subsoil fracking a drain field with a TerraLift\n- Why tanks in North Dakota sit 8 to 10 feet deep\n- Snow removal paid by the inch, and what a dry winter does to it\n- Paying an employee through the slow months\n- Setting aside six months of living expenses, equipment costs and insurance\n- Fewer freeze-ups: spring pumping, insulation and leaky toilets\n- What he'd tell himself in 2009: get the marketing going faster\n\nFind Brandon at bismarcksepticexcavating.com.",
@@ -532,7 +532,13 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "publish_at": "2026-11-04T08:00:00",
+  "youtube_upload": {
+   "video_id": "hDVHOFNTwM8",
+   "url": "https://youtu.be/hDVHOFNTwM8",
+   "scheduled": "2026-11-04T08:00:00"
+  }
  },
  "thumbnail": {
   "layout": "cutout",
