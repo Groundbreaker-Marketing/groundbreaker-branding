@@ -1,0 +1,22 @@
+import os, subprocess, sys
+from PIL import Image, ImageDraw
+# python 07_notes/sheet.py <out.jpg> <seconds> ...   a contact sheet of full frames, labeled by time
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))   # run.sh cds into video-machine
+src = '01_footage/c0031.mp4'
+out = sys.argv[1]
+times = [float(t) for t in sys.argv[2:]]
+os.makedirs('07_notes/frames', exist_ok=True)
+tiles = []
+for t in times:
+    p = '07_notes/frames/s_%s.jpg' % t
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', str(t), '-i', src, '-frames:v', '1', '-vf', 'scale=640:-1', p], check=True)
+    im = Image.open(p)
+    ImageDraw.Draw(im).text((8, 8), '%.1f' % t, fill=(255, 255, 0))
+    tiles.append(im)
+cols = 3
+rows = (len(tiles) + cols - 1) // cols
+w, h = tiles[0].size
+sheet = Image.new('RGB', (cols * w, rows * h))
+for k, im in enumerate(tiles):
+    sheet.paste(im, ((k % cols) * w, (k // cols) * h))
+sheet.save(out, quality=88)

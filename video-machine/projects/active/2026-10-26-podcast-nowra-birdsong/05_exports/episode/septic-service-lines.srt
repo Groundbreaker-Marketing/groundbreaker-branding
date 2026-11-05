@@ -7,4565 +7,4569 @@ Hey everyone
 Welcome to the #2 Septic Podcast
 
 3
-00:00:02,790 --> 00:00:04,515
+00:00:02,790 --> 00:00:04,520
 Today I'm here with Jason Birdsong
 
 4
-00:00:04,515 --> 00:00:06,215
-we're really excited to have him here
+00:00:04,550 --> 00:00:06,520
+He is the president of NAWT
 
 5
-00:00:06,215 --> 00:00:07,445
-actually for two sessions
+00:00:06,550 --> 00:00:08,770
+and we're really excited to have him
 
 6
-00:00:07,955 --> 00:00:10,035
-So Jason is just a wealth of
+00:00:08,770 --> 00:00:10,140
+here actually for two sessions
 
 7
-00:00:10,035 --> 00:00:10,525
-knowledge
+00:00:10,650 --> 00:00:12,730
+So Jason is just a wealth of
 
 8
-00:00:10,535 --> 00:00:12,235
-I've been able to break bread with
+00:00:12,730 --> 00:00:13,220
+knowledge
 
 9
-00:00:12,235 --> 00:00:13,315
-him a couple of times and have
+00:00:13,230 --> 00:00:14,930
+I've been able to break bread with
 
 10
-00:00:13,315 --> 00:00:14,335
-some great conversations
+00:00:14,930 --> 00:00:16,010
+him a couple of times and have
 
 11
-00:00:14,335 --> 00:00:15,295
-And I just said
+00:00:16,010 --> 00:00:17,030
+some great conversations
 
 12
-00:00:15,295 --> 00:00:16,655
-Jason you need to share this stuff
+00:00:17,030 --> 00:00:17,990
+And I just said
 
 13
-00:00:16,655 --> 00:00:17,235
-with people
+00:00:17,990 --> 00:00:19,350
+Jason you need to share this stuff
 
 14
-00:00:17,235 --> 00:00:19,665
-So really excited to bring his wisdom
+00:00:19,350 --> 00:00:19,930
+with people
 
 15
-00:00:20,015 --> 00:00:22,775
-some of the hard-won lessons that he's
+00:00:19,930 --> 00:00:22,360
+So really excited to bring his wisdom
 
 16
-00:00:22,775 --> 00:00:23,455
-worked through
+00:00:22,710 --> 00:00:25,470
+some of the hard-won lessons that he's
 
 17
-00:00:23,455 --> 00:00:24,355
-He's going to share with you all
+00:00:25,470 --> 00:00:26,150
+worked through
 
 18
-00:00:24,355 --> 00:00:24,735
-today
+00:00:26,150 --> 00:00:27,050
+He's going to share with you all
 
 19
-00:00:24,735 --> 00:00:26,010
-So Jason welcome to the podcast
+00:00:27,050 --> 00:00:27,430
+today
 
 20
-00:00:26,010 --> 00:00:27,890
-well thank you for having me can
+00:00:27,430 --> 00:00:28,705
+So Jason welcome to the podcast
 
 21
-00:00:27,890 --> 00:00:29,370
-you start by telling us just a
+00:00:28,705 --> 00:00:30,585
+well thank you for having me can
 
 22
-00:00:29,370 --> 00:00:30,510
-little bit about your background kind
+00:00:30,585 --> 00:00:32,065
+you start by telling us just a
 
 23
-00:00:30,510 --> 00:00:31,470
-of how you got started in the
+00:00:32,065 --> 00:00:33,205
+little bit about your background kind
 
 24
-00:00:31,470 --> 00:00:32,810
-business how long you've been in the
+00:00:33,205 --> 00:00:34,165
+of how you got started in the
 
 25
-00:00:32,810 --> 00:00:35,090
-business you know what services you
+00:00:34,165 --> 00:00:35,505
+business how long you've been in the
 
 26
-00:00:35,090 --> 00:00:36,770
-offer that kind of thing yeah so
+00:00:35,505 --> 00:00:37,785
+business you know what services you
 
 27
-00:00:36,770 --> 00:00:39,270
-I think we're going on our probably
+00:00:37,785 --> 00:00:39,465
+offer that kind of thing yeah so
 
 28
-00:00:39,270 --> 00:00:42,750
-18th or 19th year believe it or
+00:00:39,465 --> 00:00:41,965
+I think we're going on our probably
 
 29
-00:00:42,750 --> 00:00:43,990
-not a lot of people know this
+00:00:41,965 --> 00:00:45,445
+18th or 19th year believe it or
 
 30
-00:00:43,990 --> 00:00:45,410
-but I was actually a repo man
+00:00:45,445 --> 00:00:46,685
+not a lot of people know this
 
 31
-00:00:45,410 --> 00:00:48,250
-before this and so I legally stole
+00:00:46,685 --> 00:00:48,105
+but I was actually a repo man
 
 32
-00:00:48,250 --> 00:00:51,070
-cars for a living had it had
+00:00:48,105 --> 00:00:50,945
+before this and so I legally stole
 
 33
-00:00:51,070 --> 00:00:53,670
-a little girl my daughter DJ and
+00:00:50,945 --> 00:00:53,765
+cars for a living had it had
 
 34
-00:00:53,670 --> 00:00:56,010
-you know coming out of the 2008
+00:00:53,765 --> 00:00:56,365
+a little girl my daughter DJ and
 
 35
-00:00:56,010 --> 00:00:58,370
-recession was tough in the repo
+00:00:56,365 --> 00:00:58,705
+you know coming out of the 2008
 
 36
-00:00:58,370 --> 00:01:00,930
-industry great for the repo man but
+00:00:58,705 --> 00:01:01,065
+recession was tough in the repo
 
 37
-00:01:00,930 --> 00:01:02,830
-you know people were losing everything
+00:01:01,065 --> 00:01:03,625
+industry great for the repo man but
 
 38
-00:01:02,830 --> 00:01:04,730
-they lose their houses they lose their
+00:01:03,625 --> 00:01:05,525
+you know people were losing everything
 
 39
-00:01:04,730 --> 00:01:06,530
-car they lose their job not
+00:01:05,525 --> 00:01:07,425
+they lose their houses they lose their
 
 40
-00:01:06,530 --> 00:01:08,370
-necessarily in that order and so it
+00:01:07,425 --> 00:01:09,225
+car they lose their job not
 
 41
-00:01:08,370 --> 00:01:10,370
-became very dangerous and I knew that
+00:01:09,225 --> 00:01:11,065
+necessarily in that order and so it
 
 42
-00:01:10,370 --> 00:01:13,110
-something had to change so I could
+00:01:11,065 --> 00:01:13,065
+became very dangerous and I knew that
 
 43
-00:01:13,110 --> 00:01:15,890
-always come home to my family so
+00:01:13,065 --> 00:01:15,805
+something had to change so I could
 
 44
-00:01:15,890 --> 00:01:18,710
-I grew up on a farm and
+00:01:15,805 --> 00:01:18,585
+always come home to my family so
 
 45
-00:01:18,710 --> 00:01:19,280
-a ranch
+00:01:18,585 --> 00:01:21,405
+I grew up on a farm and
 
 46
-00:01:19,310 --> 00:01:20,470
-I knew a little bit about machinery
+00:01:21,405 --> 00:01:21,975
+a ranch
 
 47
-00:01:20,470 --> 00:01:24,780
-and I started JT Services
+00:01:22,005 --> 00:01:23,165
+I knew a little bit about machinery
 
 48
-00:01:24,910 --> 00:01:26,730
-Well it started as J&T Service
+00:01:23,165 --> 00:01:27,475
+and I started JT Services
 
 49
-00:01:26,730 --> 00:01:28,830
-Company and over the years
+00:01:27,605 --> 00:01:29,425
+Well it started as J&T Service
 
 50
-00:01:28,830 --> 00:01:31,470
-it's evolved into JT Septic
+00:01:29,425 --> 00:01:31,525
+Company and over the years
 
 51
-00:01:31,470 --> 00:01:32,870
-and then when we decided to bring
+00:01:31,525 --> 00:01:34,165
+it's evolved into JT Septic
 
 52
-00:01:32,870 --> 00:01:34,010
-on other trade lines
+00:01:34,165 --> 00:01:35,565
+and then when we decided to bring
 
 53
-00:01:34,010 --> 00:01:35,880
-we went back to JT Services
+00:01:35,565 --> 00:01:36,705
+on other trade lines
 
 54
-00:01:36,170 --> 00:01:39,140
-and just kind of full circle
+00:01:36,705 --> 00:01:38,575
+we went back to JT Services
 
 55
-00:01:39,270 --> 00:01:40,680
-Yeah that's great
+00:01:38,865 --> 00:01:41,835
+and just kind of full circle
 
 56
-00:01:40,710 --> 00:01:43,410
-Yeah so we're currently on track to
+00:01:41,965 --> 00:01:43,375
+Yeah that's great
 
 57
-00:01:43,410 --> 00:01:44,970
-do a little over six million this
+00:01:43,405 --> 00:01:46,105
+Yeah so we're currently on track to
 
 58
-00:01:44,970 --> 00:01:45,400
-year
+00:01:46,105 --> 00:01:47,665
+do a little over six million this
 
 59
-00:01:45,730 --> 00:01:49,510
-We do complete home full service from
+00:01:47,665 --> 00:01:48,095
+year
 
 60
-00:01:49,510 --> 00:01:52,790
-septic to heating and cooling plumbing
+00:01:48,425 --> 00:01:52,205
+We do complete home full service from
 
 61
-00:01:52,790 --> 00:01:56,850
-electrical now so we've added a lot
+00:01:52,205 --> 00:01:55,485
+septic to heating and cooling plumbing
 
 62
-00:01:56,850 --> 00:01:59,310
-of trades and with that came a
+00:01:55,485 --> 00:01:59,545
+electrical now so we've added a lot
 
 63
-00:01:59,310 --> 00:02:02,070
-lot of hard lessons yeah yep so
+00:01:59,545 --> 00:02:02,005
+of trades and with that came a
 
 64
-00:02:02,070 --> 00:02:03,890
-let's talk about those hard lessons so
+00:02:02,005 --> 00:02:04,765
+lot of hard lessons yeah yep so
 
 65
-00:02:03,890 --> 00:02:05,730
-we're this segment we're going to talk
+00:02:04,765 --> 00:02:06,585
+let's talk about those hard lessons so
 
 66
-00:02:05,730 --> 00:02:07,410
-about adding service lines to your
+00:02:06,585 --> 00:02:08,425
+we're this segment we're going to talk
 
 67
-00:02:07,410 --> 00:02:08,970
-business so a lot of our listeners
+00:02:08,425 --> 00:02:10,105
+about adding service lines to your
 
 68
-00:02:08,970 --> 00:02:12,790
-do septic and then excavation some of
+00:02:10,105 --> 00:02:11,665
+business so a lot of our listeners
 
 69
-00:02:12,790 --> 00:02:15,530
-them do site prep some of them
+00:02:11,665 --> 00:02:15,485
+do septic and then excavation some of
 
 70
-00:02:15,530 --> 00:02:18,270
-do plumbing and so expanding your
+00:02:15,485 --> 00:02:18,225
+them do site prep some of them
 
 71
-00:02:18,270 --> 00:02:19,910
-service line is a thing that probably
+00:02:18,225 --> 00:02:20,965
+do plumbing and so expanding your
 
 72
-00:02:19,910 --> 00:02:22,390
-the majority don't have quite as many
+00:02:20,965 --> 00:02:22,605
+service line is a thing that probably
 
 73
-00:02:22,390 --> 00:02:24,550
-as you do and so talk to
+00:02:22,605 --> 00:02:25,085
+the majority don't have quite as many
 
 74
-00:02:24,550 --> 00:02:26,610
-us through maybe the first one that
+00:02:25,085 --> 00:02:27,245
+as you do and so talk to
 
 75
-00:02:26,610 --> 00:02:28,870
-you added what was that like so
+00:02:27,245 --> 00:02:29,305
+us through maybe the first one that
 
 76
-00:02:28,870 --> 00:02:31,910
-the first one was actually plumbing
+00:02:29,305 --> 00:02:31,565
+you added what was that like so
 
 77
-00:02:31,910 --> 00:02:33,790
-and it really it was a really
+00:02:31,565 --> 00:02:34,605
+the first one was actually plumbing
 
 78
-00:02:33,790 --> 00:02:35,870
-challenge and it's kind of different
+00:02:34,605 --> 00:02:36,485
+and it really it was a really
 
 79
-00:02:35,870 --> 00:02:37,470
-in every state but for Oklahoma and
+00:02:36,485 --> 00:02:38,565
+challenge and it's kind of different
 
 80
-00:02:37,470 --> 00:02:38,510
-I think a lot of states the
+00:02:38,565 --> 00:02:40,165
+in every state but for Oklahoma and
 
 81
-00:02:38,510 --> 00:02:41,510
-regulations for those different trades
+00:02:40,165 --> 00:02:41,205
+I think a lot of states the
 
 82
-00:02:41,510 --> 00:02:43,110
-are different than the septic
+00:02:41,205 --> 00:02:44,205
+regulations for those different trades
 
 83
-00:02:43,110 --> 00:02:45,430
-regulations and the licensing bureaus
+00:02:44,205 --> 00:02:45,805
+are different than the septic
 
 84
-00:02:45,430 --> 00:02:47,490
-so in a for Oklahoma we have
+00:02:45,805 --> 00:02:48,125
+regulations and the licensing bureaus
 
 85
-00:02:47,490 --> 00:02:49,290
-the construction industries board who
+00:02:48,125 --> 00:02:50,185
+so in a for Oklahoma we have
 
 86
-00:02:49,290 --> 00:02:50,850
-licenses the trades for plumbing
+00:02:50,185 --> 00:02:51,985
+the construction industries board who
 
 87
-00:02:50,850 --> 00:02:52,930
-heating cooling electrical and then
+00:02:51,985 --> 00:02:53,545
+licenses the trades for plumbing
 
 88
-00:02:52,930 --> 00:02:53,890
-the Department of Environmental
+00:02:53,545 --> 00:02:55,625
+heating cooling electrical and then
 
 89
-00:02:53,890 --> 00:02:56,170
-Quality they issue the septic license
+00:02:55,625 --> 00:02:56,585
+the Department of Environmental
 
 90
-00:02:56,170 --> 00:02:58,190
-okay so I always held my septic
+00:02:56,585 --> 00:02:58,865
+Quality they issue the septic license
 
 91
-00:02:58,190 --> 00:03:01,230
-installer septic pumpers license and
+00:02:58,865 --> 00:03:00,885
+okay so I always held my septic
 
 92
-00:03:01,230 --> 00:03:03,130
-the rules said that I had to
+00:03:00,885 --> 00:03:03,925
+installer septic pumpers license and
 
 93
-00:03:03,130 --> 00:03:04,950
-basically go work for a plumber for
+00:03:03,925 --> 00:03:05,825
+the rules said that I had to
 
 94
-00:03:04,950 --> 00:03:06,090
-four years before I could get a
+00:03:05,825 --> 00:03:07,645
+basically go work for a plumber for
 
 95
-00:03:06,090 --> 00:03:09,690
-plumbing license yep and those that
+00:03:07,645 --> 00:03:08,785
+four years before I could get a
 
 96
-00:03:09,690 --> 00:03:12,410
-know my story it took really investing
+00:03:08,785 --> 00:03:12,385
+plumbing license yep and those that
 
 97
-00:03:12,410 --> 00:03:14,650
-in myself to have a lot of
+00:03:12,385 --> 00:03:15,105
+know my story it took really investing
 
 98
-00:03:14,650 --> 00:03:16,730
-mindset change and so when I started
+00:03:15,105 --> 00:03:17,345
+in myself to have a lot of
 
 99
-00:03:16,730 --> 00:03:18,550
-investing in myself and surrounding
+00:03:17,345 --> 00:03:19,425
+mindset change and so when I started
 
 100
-00:03:18,550 --> 00:03:21,110
-people that were a little bit more
+00:03:19,425 --> 00:03:21,245
+investing in myself and surrounding
 
 101
-00:03:21,110 --> 00:03:24,590
-elevated than me the path had already
+00:03:21,245 --> 00:03:23,805
+people that were a little bit more
 
 102
-00:03:24,590 --> 00:03:27,490
-been paved I just didn't know it
+00:03:23,805 --> 00:03:27,285
+elevated than me the path had already
 
 103
-00:03:27,490 --> 00:03:30,250
-and so instead of me having to
+00:03:27,285 --> 00:03:30,185
+been paved I just didn't know it
 
 104
-00:03:30,250 --> 00:03:32,390
-close my business down and go work
+00:03:30,185 --> 00:03:32,945
+and so instead of me having to
 
 105
-00:03:32,390 --> 00:03:33,990
-for a plumber for four years I
+00:03:32,945 --> 00:03:35,085
+close my business down and go work
 
 106
-00:03:33,990 --> 00:03:37,810
-was able to basically ascertain the
+00:03:35,085 --> 00:03:36,685
+for a plumber for four years I
 
 107
-00:03:37,810 --> 00:03:40,450
-license through hiring somebody and
+00:03:36,685 --> 00:03:40,505
+was able to basically ascertain the
 
 108
-00:03:40,450 --> 00:03:42,000
-having them come on to the business
+00:03:40,505 --> 00:03:43,145
+license through hiring somebody and
 
 109
-00:03:42,150 --> 00:03:46,730
-And that really expanded our reach on
+00:03:43,145 --> 00:03:44,695
+having them come on to the business
 
 110
-00:03:46,730 --> 00:03:47,800
-different trades
+00:03:44,845 --> 00:03:49,425
+And that really expanded our reach on
 
 111
-00:03:47,970 --> 00:03:48,440
-Yeah
+00:03:49,425 --> 00:03:50,495
+different trades
 
 112
-00:03:48,510 --> 00:03:51,890
-So it starts with investing in
+00:03:50,665 --> 00:03:51,135
+Yeah
 
 113
-00:03:51,890 --> 00:03:54,310
-yourself surrounding yourself with
+00:03:51,205 --> 00:03:54,585
+So it starts with investing in
 
 114
-00:03:54,310 --> 00:03:56,750
-people that know a little bit more
+00:03:54,585 --> 00:03:57,005
+yourself surrounding yourself with
 
 115
-00:03:56,750 --> 00:03:57,800
-than you may know
+00:03:57,005 --> 00:03:59,445
+people that know a little bit more
 
 116
-00:03:57,890 --> 00:04:00,590
-Because I spent 14 years trying to
+00:03:59,445 --> 00:04:00,495
+than you may know
 
 117
-00:04:00,590 --> 00:04:02,030
-reinvent the wheel that had already
+00:04:00,585 --> 00:04:03,285
+Because I spent 14 years trying to
 
 118
-00:04:02,030 --> 00:04:02,380
-been
+00:04:03,285 --> 00:04:04,725
+reinvent the wheel that had already
 
 119
-00:04:02,890 --> 00:04:03,820
-it's already there
+00:04:04,725 --> 00:04:05,075
+been
 
 120
-00:04:03,830 --> 00:04:04,420
-it's spinning
+00:04:05,585 --> 00:04:06,515
+it's already there
 
 121
-00:04:04,530 --> 00:04:05,930
-And I just had to have somebody
+00:04:06,525 --> 00:04:07,115
+it's spinning
 
 122
-00:04:05,930 --> 00:04:06,650
-show it to me
+00:04:07,225 --> 00:04:08,625
+And I just had to have somebody
 
 123
-00:04:06,650 --> 00:04:07,080
-Yeah
+00:04:08,625 --> 00:04:09,345
+show it to me
 
 124
-00:04:07,250 --> 00:04:08,390
-So you can learn the hard way
+00:04:09,345 --> 00:04:09,775
+Yeah
 
 125
-00:04:08,390 --> 00:04:10,770
-or you can learn the easier way
+00:04:09,945 --> 00:04:11,085
+So you can learn the hard way
 
 126
-00:04:10,770 --> 00:04:11,590
-not the easy way
+00:04:11,085 --> 00:04:13,465
+or you can learn the easier way
 
 127
-00:04:11,590 --> 00:04:13,210
-but the easier way from people who've
+00:04:13,465 --> 00:04:14,285
+not the easy way
 
 128
-00:04:13,210 --> 00:04:14,050
-done it before you
+00:04:14,285 --> 00:04:15,905
+but the easier way from people who've
 
 129
-00:04:14,050 --> 00:04:14,620
-Yeah
+00:04:15,905 --> 00:04:16,745
+done it before you
 
 130
-00:04:14,850 --> 00:04:16,390
-So in one of my talks that
+00:04:16,745 --> 00:04:17,315
+Yeah
 
 131
-00:04:16,390 --> 00:04:18,070
-I'm going to do here at the
+00:04:17,545 --> 00:04:19,085
+So in one of my talks that
 
 132
-00:04:18,070 --> 00:04:21,230
-mega conference it's about business
+00:04:19,085 --> 00:04:20,765
+I'm going to do here at the
 
 133
-00:04:21,230 --> 00:04:22,140
-and numbers
+00:04:20,765 --> 00:04:23,925
+mega conference it's about business
 
 134
-00:04:22,150 --> 00:04:22,460
-Right
+00:04:23,925 --> 00:04:24,835
+and numbers
 
 135
-00:04:22,590 --> 00:04:24,310
-And I'm going to lead into it
-
-136
-00:04:24,310 --> 00:04:28,750
-with so many people go into business
-
-137
-00:04:28,750 --> 00:04:31,020
-for the theory of freedom
-
-138
-00:04:31,250 --> 00:04:33,300
-whether it's financial freedom
-
-139
-00:04:33,890 --> 00:04:36,810
-time freedom and they quickly don't
-
-140
-00:04:36,810 --> 00:04:38,590
-realize that they're building a prison
-
-141
-00:04:38,590 --> 00:04:39,490
-with their name on it
-
-142
-00:04:39,490 --> 00:04:43,190
-Yeah and you know instead of instead
-
-143
-00:04:43,190 --> 00:04:46,240
-of owning a business and running a
-
-144
-00:04:46,240 --> 00:04:47,800
-business the business owns and runs
-
-145
-00:04:47,800 --> 00:04:50,320
-you yep and that that's one of
-
-146
-00:04:50,320 --> 00:04:51,640
-the hardest lessons that business
-
-147
-00:04:51,640 --> 00:04:53,860
-owners because they don't have the
-
-148
-00:04:53,860 --> 00:04:56,780
-skill set within themselves and that's
-
-149
-00:04:56,780 --> 00:04:58,840
-not that's not a bad problem they
-
-150
-00:04:58,840 --> 00:05:00,260
-just don't know what they don't know
-
-151
-00:05:00,260 --> 00:05:02,740
-and they don't have the skill set
-
-152
-00:05:02,740 --> 00:05:06,080
-to go from the doer the guy
-
-153
-00:05:06,080 --> 00:05:09,400
-in the trench to a CEO mindset
-
-154
-00:05:09,400 --> 00:05:12,020
-yeah and that's where the investing in
-
-155
-00:05:12,020 --> 00:05:13,780
-yourself comes in yeah and you would
-
-156
-00:05:13,780 --> 00:05:16,540
-have never made that jump to hiring
-
-157
-00:05:16,540 --> 00:05:19,140
-on a plumber and expanding things if
-
-158
-00:05:19,140 --> 00:05:21,840
-you were just stuck in that employee
-
-159
-00:05:21,840 --> 00:05:24,100
-mindset where you've just made
-
-160
-00:05:24,100 --> 00:05:26,840
-yourself a really stressful job
-
-161
-00:05:26,840 --> 00:05:29,060
-basically you know you're trying to be
-
-162
-00:05:29,060 --> 00:05:31,000
-an entrepreneur but you just you're a
-
-163
-00:05:31,000 --> 00:05:32,670
-slave to your job that is correct
-
-164
-00:05:32,860 --> 00:05:35,680
-So I spent 14 years trying to
-
-165
-00:05:35,680 --> 00:05:36,500
-figure that out
-
-166
-00:05:36,500 --> 00:05:38,840
-And there was a time that I
-
-167
-00:05:38,840 --> 00:05:40,170
-was just done
-
-168
-00:05:40,360 --> 00:05:41,510
-Like I was tired
-
-169
-00:05:41,560 --> 00:05:42,420
-My wife and I
-
-170
-00:05:42,420 --> 00:05:45,140
-you know fought a lot because of
-
-171
-00:05:45,140 --> 00:05:49,060
-the stress that the business gives you
-
-172
-00:05:49,060 --> 00:05:50,460
-know trying to figure out where
-
-173
-00:05:50,460 --> 00:05:51,930
-payroll is going to come from
-
-174
-00:05:51,940 --> 00:05:53,030
-the endless nights
-
-175
-00:05:53,080 --> 00:05:54,040
-the you know
-
-176
-00:05:54,040 --> 00:05:55,310
-my wife used to say
-
-177
-00:05:55,340 --> 00:05:56,630
-get off your phone
-
-178
-00:05:56,640 --> 00:05:57,880
-pay attention to your family
-
-179
-00:05:57,880 --> 00:05:59,040
-Now she's like you need to get
-
-180
-00:05:59,040 --> 00:06:00,140
-on your phone and make some more
-
-181
-00:06:00,140 --> 00:06:02,520
-money like it's a it's a shift
-
-182
-00:06:02,520 --> 00:06:05,460
-in the mindset right and that phone
-
-183
-00:06:05,460 --> 00:06:06,740
-that I used to be on that
-
-184
-00:06:06,740 --> 00:06:08,180
-she thought was taking away from the
-
-185
-00:06:08,180 --> 00:06:11,120
-family is what is making a better
-
-186
-00:06:11,120 --> 00:06:14,020
-life for ourselves and when you have
-
-187
-00:06:14,020 --> 00:06:17,620
-that breakthrough moment of what we
-
-188
-00:06:17,620 --> 00:06:19,740
-what I call change the channel and
-
-189
-00:06:19,740 --> 00:06:21,920
-changing the channel from being the
-
-190
-00:06:21,920 --> 00:06:24,260
-guy in the field the guy in
-
-191
-00:06:24,260 --> 00:06:26,160
-the trenches the boots on the ground
-
-192
-00:06:26,160 --> 00:06:28,880
-to a CEO instead of the doer
-
-193
-00:06:28,880 --> 00:06:31,980
-then you can start to grow and
-
-194
-00:06:31,980 --> 00:06:34,360
-scale yeah so you have to change
-
-195
-00:06:34,360 --> 00:06:36,880
-your mindset to do that so any
-
-196
-00:06:36,880 --> 00:06:39,680
-tips on how to practically work on
-
-197
-00:06:39,680 --> 00:06:41,500
-changing your mindset because you're
-
-198
-00:06:41,500 --> 00:06:43,200
-never going to add more service lines
-
-199
-00:06:43,200 --> 00:06:44,860
-if you're just stuck in the day
-
-200
-00:06:44,860 --> 00:06:46,700
--to -day yeah for me it was
-
-201
-00:06:46,700 --> 00:06:49,220
-business coaching yeah you know there
-
-202
-00:06:49,220 --> 00:06:51,120
-are so many people out there that
-
-203
-00:06:51,120 --> 00:06:53,240
-and it's the right business coaching
-
-204
-00:06:53,240 --> 00:06:55,300
-because there's you know there is
-
-205
-00:06:55,300 --> 00:06:57,300
-right time order for everything and so
-
-206
-00:06:57,300 --> 00:06:59,500
-many people I see give that are
-
-207
-00:06:59,500 --> 00:07:00,800
-business coaching that are given the
-
-208
-00:07:00,800 --> 00:07:02,800
-wrong thing at the right wrong time
-
-209
-00:07:02,800 --> 00:07:05,360
-and it's just not going to work
-
-210
-00:07:05,360 --> 00:07:07,280
-it may have worked for them but
-
-211
-00:07:07,280 --> 00:07:08,880
-you know they may be a 10
-
-212
-00:07:08,880 --> 00:07:12,000
-15 20 million dollar CEO and they're
-
-213
-00:07:12,000 --> 00:07:14,000
-trying to tell a million dollar person
-
-214
-00:07:14,000 --> 00:07:15,720
-what works in that 10 million dollar
-
-215
-00:07:15,720 --> 00:07:16,840
-company is not going to work in
-
-216
-00:07:16,840 --> 00:07:19,240
-million -dollar company and so it's
-
-217
-00:07:19,240 --> 00:07:21,780
-really the right business coaching for
-
-218
-00:07:21,780 --> 00:07:23,820
-where you're at today but you also
-
-219
-00:07:23,820 --> 00:07:26,000
-got to know you know it's the
-
-220
-00:07:26,000 --> 00:07:28,020
-gap analysis where do you want to
-
-221
-00:07:28,020 --> 00:07:29,760
-go what are all the things that
-
-222
-00:07:29,760 --> 00:07:30,960
-you have to do to get there
-
-223
-00:07:30,960 --> 00:07:33,640
-and then the thing that most everybody
-
-224
-00:07:33,640 --> 00:07:35,200
-doesn't talk about is the line
-
-225
-00:07:35,200 --> 00:07:37,320
-underneath that gap analysis which is
-
-226
-00:07:37,320 --> 00:07:40,540
-the resistance line and you know one
-
-227
-00:07:40,540 --> 00:07:42,100
-of the one of the deep questions
-
-228
-00:07:42,100 --> 00:07:44,440
-that I asked my business coach when
-
-229
-00:07:44,440 --> 00:07:46,340
-I signed up with him and he
-
-230
-00:07:46,340 --> 00:07:47,300
-told me it was a three -year
-
-231
-00:07:47,300 --> 00:07:49,070
-commitment that
-
-232
-00:07:49,810 --> 00:07:52,370
-scared me right yeah but he said
-
-233
-00:07:52,370 --> 00:07:54,330
-Jason I can take your company and
-
-234
-00:07:54,330 --> 00:07:55,510
-I can grow it to a 10
-
-235
-00:07:55,510 --> 00:07:56,970
-million dollar company by the end of
-
-236
-00:07:56,970 --> 00:07:59,710
-the year but you don't have the
-
-237
-00:07:59,710 --> 00:08:01,170
-skill set to run a 10 million
-
-238
-00:08:01,170 --> 00:08:03,190
-dollar company and it's going to take
-
-239
-00:08:03,190 --> 00:08:05,270
-three years for me to take everything
-
-240
-00:08:05,270 --> 00:08:08,090
-that society people have instilled in
-
-241
-00:08:08,090 --> 00:08:10,870
-you take it out and reprogram it
-
-242
-00:08:10,870 --> 00:08:12,590
-to where you're a 10 million dollar
-
-243
-00:08:12,590 --> 00:08:14,470
-CEO where you can handle a 10
-
-244
-00:08:14,470 --> 00:08:15,980
-million dollar company Yeah
-
-245
-00:08:16,270 --> 00:08:17,110
-And so for me
-
-246
-00:08:17,110 --> 00:08:17,920
-that was huge
-
-247
-00:08:17,950 --> 00:08:19,150
-having that breakthrough of
-
-248
-00:08:19,150 --> 00:08:20,080
-right time order
-
-249
-00:08:20,250 --> 00:08:20,560
-Yep
-
-250
-00:08:20,610 --> 00:08:23,010
-And doing things the right time the
-
-251
-00:08:23,010 --> 00:08:24,910
-right way will get me to the
-
-252
-00:08:24,910 --> 00:08:25,540
-next level
-
-253
-00:08:25,790 --> 00:08:27,610
-You talked about it as in change
-
-254
-00:08:27,610 --> 00:08:29,260
-the channel which I love that
-
-255
-00:08:29,290 --> 00:08:30,470
-I like to think of it as
-
-256
-00:08:30,470 --> 00:08:31,010
-a thermostat
-
-257
-00:08:31,010 --> 00:08:32,370
-I think that we all have a
-
-258
-00:08:32,370 --> 00:08:33,710
-thermostat set point where we're
-
-259
-00:08:33,710 --> 00:08:34,540
-really comfortable
-
-260
-00:08:34,590 --> 00:08:36,520
-And it's the idea of homeostasis
-
-261
-00:08:36,810 --> 00:08:38,850
-And that if we start to grow
-
-262
-00:08:38,850 --> 00:08:40,270
-past it all of a sudden we'll
-
-263
-00:08:40,270 --> 00:08:42,370
-self -sabotage without even realizing
-
-264
-00:08:42,370 --> 00:08:42,690
-it
-
-265
-00:08:42,690 --> 00:08:43,890
-And so like you said
-
-266
-00:08:43,890 --> 00:08:45,030
-I think it's really important to get
-
-267
-00:08:45,030 --> 00:08:46,430
-around people who can help you with
-
-268
-00:08:46,430 --> 00:08:47,630
-that a business coach
-
-269
-00:08:47,630 --> 00:08:49,350
-or even just people that are further
-
-270
-00:08:49,350 --> 00:08:51,170
-along than you are
-
-271
-00:08:51,170 --> 00:08:52,530
-because it's going to change the way
-
-272
-00:08:52,530 --> 00:08:54,170
-you think about things when you hear
-
-273
-00:08:54,170 --> 00:08:55,670
-them talk about business in a
-
-274
-00:08:55,670 --> 00:08:56,360
-different way
-
-275
-00:08:56,370 --> 00:08:56,880
-Absolutely
-
-276
-00:08:56,970 --> 00:08:58,590
-I mean I started with a friend
-
-277
-00:08:58,590 --> 00:09:01,250
-of mine who has a bigger company
-
-278
-00:09:01,250 --> 00:09:02,450
-when I was ready to hang it
-
-279
-00:09:02,450 --> 00:09:02,650
-up
-
-280
-00:09:02,650 --> 00:09:03,830
-Like I was just tired of the
-
-281
-00:09:03,830 --> 00:09:05,490
-stress tired of the sleepless nights
-
-282
-00:09:05,490 --> 00:09:07,960
-and you know
-
-283
-00:09:07,970 --> 00:09:09,490
-he at the time was doing about
-
-284
-00:09:09,490 --> 00:09:12,310
-$16 million and I'm like
-
-285
-00:09:12,310 --> 00:09:14,190
-where did it click and change for
-
-286
-00:09:14,190 --> 00:09:14,630
-you?
-
-287
-00:09:14,630 --> 00:09:17,900
-And he asked me probably the deepest
-
-288
-00:09:18,230 --> 00:09:20,520
-easiest questions now looking back
-
-289
-00:09:20,530 --> 00:09:21,970
-but it was the deepest question I've
-
-290
-00:09:21,970 --> 00:09:22,830
-ever been asked
-
-291
-00:09:22,830 --> 00:09:24,250
-and that is
-
-292
-00:09:24,250 --> 00:09:25,080
-what is your why?
-
-293
-00:09:25,695 --> 00:09:27,575
-And you know my wife and I
-
-294
-00:09:27,575 --> 00:09:28,855
-were sitting across the dinner table
-
-295
-00:09:28,855 --> 00:09:30,075
-from him we both thought we had
-
-296
-00:09:30,075 --> 00:09:32,295
-really good answers you know my wife's
-
-297
-00:09:32,295 --> 00:09:33,835
-like I want to help people by
-
-298
-00:09:33,835 --> 00:09:36,775
-giving them a job and mine was
-
-299
-00:09:36,775 --> 00:09:38,535
-like I want to help people you
-
-300
-00:09:38,535 --> 00:09:40,935
-know my customers yeah and he just
-
-301
-00:09:40,935 --> 00:09:42,195
-kind of laughed and I never will
-
-302
-00:09:42,195 --> 00:09:44,915
-forget that forget the face he made
-
-303
-00:09:44,915 --> 00:09:48,075
-like I felt so small like almost
-
-304
-00:09:48,075 --> 00:09:50,275
-dumb like my answer wasn't good enough
-
-305
-00:09:50,275 --> 00:09:54,515
-for him and he's he said that's
-
-306
-00:09:54,515 --> 00:09:57,155
-not enough that's not enough to take
-
-307
-00:09:57,155 --> 00:10:00,275
-the risk that you take and it's
-
-308
-00:10:00,275 --> 00:10:02,235
-never good you're never going to get
-
-309
-00:10:02,235 --> 00:10:04,635
-to where you want to go with
-
-310
-00:10:04,635 --> 00:10:07,255
-without having a why that he could
-
-311
-00:10:07,255 --> 00:10:09,875
-get behind and that my unconscious
-
-312
-00:10:09,875 --> 00:10:11,835
-what you know I told somebody
-
-313
-00:10:11,835 --> 00:10:13,795
-yesterday and I was visiting with I
-
-314
-00:10:13,795 --> 00:10:16,525
-said when you go look in the
-
-315
-00:10:16,525 --> 00:10:18,625
-mirror we so often we look in
-
-316
-00:10:18,625 --> 00:10:19,805
-the mirror we're brushing our teeth
-
-317
-00:10:19,805 --> 00:10:21,725
-we're brushing our hair but we truly
-
-318
-00:10:21,725 --> 00:10:23,745
-don't see ourselves we see the
-
-319
-00:10:23,745 --> 00:10:25,585
-reflection of ourselves but we don't
-
-320
-00:10:25,585 --> 00:10:27,785
-see ourselves and I said I want
-
-321
-00:10:27,785 --> 00:10:29,305
-you to go say your why to
-
-322
-00:10:29,305 --> 00:10:31,905
-yourself and if you don't get that
-
-323
-00:10:31,905 --> 00:10:35,285
-feeling like ooh like yeah you know
-
-324
-00:10:35,285 --> 00:10:37,325
-it's a feeling of certainty you need
-
-325
-00:10:37,325 --> 00:10:39,205
-to find your why because everything
-
-326
-00:10:39,205 --> 00:10:40,985
-that you put on the line as
-
-327
-00:10:40,985 --> 00:10:43,625
-a business owner the risk you know
-
-328
-00:10:43,625 --> 00:10:44,985
-the people that are going to depend
-
-329
-00:10:44,985 --> 00:10:46,525
-on you the families that are going
-
-330
-00:10:46,525 --> 00:10:47,435
-to depend on you
-
-331
-00:10:47,805 --> 00:10:49,745
-You got to have a why that
-
-332
-00:10:49,745 --> 00:10:53,475
-is so certain that you're
-
-333
-00:10:53,475 --> 00:10:55,895
-I call it both your minds want
-
-334
-00:10:55,895 --> 00:10:57,295
-it your conscious and your
-
-335
-00:10:57,295 --> 00:10:57,925
-unconscious
-
-336
-00:10:58,195 --> 00:11:00,285
-And when you have that certainty
-
-337
-00:11:00,455 --> 00:11:03,135
-then it's easy to get past that
-
-338
-00:11:03,135 --> 00:11:04,745
-line of resistance
-
-339
-00:11:05,315 --> 00:11:06,685
-That's really really good
-
-340
-00:11:06,735 --> 00:11:07,085
-Yeah
-
-341
-00:11:07,175 --> 00:11:08,115
-Tapping into that why
-
-342
-00:11:08,115 --> 00:11:09,875
-because there's that resistance you
-
-343
-00:11:09,875 --> 00:11:11,105
-talked about it's pain
-
-344
-00:11:11,135 --> 00:11:13,435
-It's painful to grow and to do
-
-345
-00:11:13,435 --> 00:11:15,515
-things a different way and to admit
-
-346
-00:11:15,515 --> 00:11:17,455
-where you lack skill and you need
-
-347
-00:11:17,455 --> 00:11:18,445
-to grow in that
-
-348
-00:11:18,495 --> 00:11:21,055
-And that why has to be stronger
-
-349
-00:11:21,055 --> 00:11:22,995
-than the pain of going through
-
-350
-00:11:22,995 --> 00:11:23,505
-business
-
-351
-00:11:23,575 --> 00:11:24,835
-So a funny
-
-352
-00:11:24,835 --> 00:11:25,525
-quick story
-
-353
-00:11:25,910 --> 00:11:27,220
-My business coach
-
-354
-00:11:27,230 --> 00:11:28,270
-which I hope is going to be
-
-355
-00:11:28,270 --> 00:11:29,700
-on your podcast as well
-
-356
-00:11:30,300 --> 00:11:32,640
-You know he often asked me to
-
-357
-00:11:32,640 --> 00:11:33,900
-tell people in his world that are
-
-358
-00:11:33,900 --> 00:11:35,580
-new like how long have I known
-
-359
-00:11:35,580 --> 00:11:39,340
-him and I actually met him about
-
-360
-00:11:39,340 --> 00:11:41,300
-well now it's probably been about 16
-
-361
-00:11:41,300 --> 00:11:42,860
-years ago but when I when I
-
-362
-00:11:42,860 --> 00:11:44,480
-went into his world it was you
-
-363
-00:11:44,480 --> 00:11:48,750
-know 12 13 years and
-
-364
-00:11:49,210 --> 00:11:51,650
-I when I came into his world
-
-365
-00:11:51,650 --> 00:11:54,470
-I kept saying that I wasted so
-
-366
-00:11:54,470 --> 00:11:56,730
-much time because I met him at
-
-367
-00:11:56,730 --> 00:11:59,190
-the WWETT show 14 years ago had
-
-368
-00:11:59,190 --> 00:12:00,830
-an opportunity to get on a phone
-
-369
-00:12:00,830 --> 00:12:02,710
-call with him and I went to
-
-370
-00:12:02,710 --> 00:12:04,590
-my wife and I said man this
-
-371
-00:12:04,590 --> 00:12:05,890
-guy I want to go I want
-
-372
-00:12:05,890 --> 00:12:07,310
-to go have you know pay him
-
-373
-00:12:07,310 --> 00:12:09,150
-to help us and she's like you're
-
-374
-00:12:09,150 --> 00:12:11,230
-crazy we don't have that kind of
-
-375
-00:12:11,230 --> 00:12:12,670
-money you know we're small business
-
-376
-00:12:12,670 --> 00:12:16,300
-like and he told me to stop
-
-377
-00:12:16,300 --> 00:12:19,620
-saying that because if I had gone
-
-378
-00:12:19,620 --> 00:12:22,680
-with him 14 years ago I wasn't
-
-379
-00:12:22,680 --> 00:12:25,880
-done suffering yet which means I had
-
-380
-00:12:25,880 --> 00:12:27,740
-I hadn't got to the point where
-
-381
-00:12:27,740 --> 00:12:30,280
-I was ready for the help yeah
-
-382
-00:12:30,280 --> 00:12:33,520
-because when people start coaching
-
-383
-00:12:33,520 --> 00:12:35,800
-people and they're not they haven't
-
-384
-00:12:35,800 --> 00:12:37,100
-suffered they haven't gone through the
-
-385
-00:12:37,100 --> 00:12:40,180
-pain points then it typically becomes
-
-386
-00:12:40,180 --> 00:12:41,880
-the wrong time order instead of the
-
-387
-00:12:41,880 --> 00:12:44,400
-right time order and he's like you
-
-388
-00:12:44,400 --> 00:12:46,980
-may look at it now as you
-
-389
-00:12:46,980 --> 00:12:50,030
-wasted 14 years of your life but
-
-390
-00:12:50,030 --> 00:12:52,310
-you probably wouldn't even have grown
-
-391
-00:12:52,310 --> 00:12:54,110
-to what you are today had you
-
-392
-00:12:54,110 --> 00:12:56,270
-gone with me back then because you
-
-393
-00:12:56,270 --> 00:12:58,650
-weren't done suffering yet and that
-
-394
-00:12:58,650 --> 00:13:00,070
-was huge for me to have that
-
-395
-00:13:00,070 --> 00:13:03,130
-breakthrough to understand that right
-
-396
-00:13:03,130 --> 00:13:05,570
-time order yeah and I think we
-
-397
-00:13:05,570 --> 00:13:07,990
-can all look back to circumstances
-
-398
-00:13:07,990 --> 00:13:09,430
-that we've been through pain that
-
-399
-00:13:09,430 --> 00:13:12,650
-we've been through and you know it
-
-400
-00:13:12,650 --> 00:13:14,330
-would be great to just erase all
-
-401
-00:13:14,330 --> 00:13:16,070
-those things and have a life free
-
-402
-00:13:16,070 --> 00:13:17,790
-of problems but that's not anybody's
-
-403
-00:13:17,790 --> 00:13:19,090
-life and I think every single one
-
-404
-00:13:19,090 --> 00:13:21,030
-of us would look at those painful
-
-405
-00:13:21,030 --> 00:13:23,210
-times and say I would not be
-
-406
-00:13:23,210 --> 00:13:24,550
-the person I am today if I
-
-407
-00:13:24,550 --> 00:13:26,510
-had not gone through that yeah you
-
-408
-00:13:26,510 --> 00:13:27,650
-know I mean I just kind of
-
-409
-00:13:27,650 --> 00:13:29,510
-let statistics speak for themselves
-
-410
-00:13:29,510 --> 00:13:34,510
-that it 90 % of small businesses
-
-411
-00:13:34,510 --> 00:13:36,110
-never make it past the three million
-
-412
-00:13:36,110 --> 00:13:40,510
-mark five percent is all that grows
-
-413
-00:13:40,510 --> 00:13:43,000
-past five million and small business
-
-414
-00:13:43,000 --> 00:13:46,080
-industry and it's like do you when
-
-415
-00:13:46,080 --> 00:13:47,720
-you really think about it do you
-
-416
-00:13:47,720 --> 00:13:49,960
-think that five percent of people of
-
-417
-00:13:49,960 --> 00:13:51,740
-the small business owners that breach
-
-418
-00:13:51,740 --> 00:13:53,380
-that five million do you think it
-
-419
-00:13:53,380 --> 00:13:57,400
-was luck no right it was the
-
-420
-00:13:57,400 --> 00:14:00,160
-pain and suffering the leveling up you
-
-421
-00:14:00,160 --> 00:14:02,860
-know to get to that point and
-
-422
-00:14:02,860 --> 00:14:05,460
-so you know there's so many times
-
-423
-00:14:05,460 --> 00:14:06,720
-people say like I want to be
-
-424
-00:14:06,720 --> 00:14:08,820
-that guy and it's like you don't
-
-425
-00:14:08,820 --> 00:14:10,340
-know what that guy went through to
-
-426
-00:14:10,340 --> 00:14:12,180
-get to where he's at are you
-
-427
-00:14:12,180 --> 00:14:15,700
-willing to do that right and until
-
-428
-00:14:15,700 --> 00:14:17,140
-people sit there and really evaluate
-
-429
-00:14:17,140 --> 00:14:19,820
-that the heart that take a hard
-
-430
-00:14:19,820 --> 00:14:22,580
-look at that you know the grit
-
-431
-00:14:22,580 --> 00:14:24,100
-that it's going to take to get
-
-432
-00:14:24,100 --> 00:14:26,080
-to the next level because it's not
-
-433
-00:14:26,080 --> 00:14:27,300
-easy and it's not luck
-
-434
-00:14:27,300 --> 00:14:28,250
-I promise you
-
-435
-00:14:28,380 --> 00:14:28,690
-Yeah
-
-436
-00:14:28,960 --> 00:14:30,420
-And I also think you can choose
-
-437
-00:14:30,420 --> 00:14:30,990
-your heart
-
-438
-00:14:31,600 --> 00:14:33,720
-It's really hard to be a business
-
-439
-00:14:33,720 --> 00:14:35,580
-owner that maybe you've got a couple
-
-440
-00:14:35,580 --> 00:14:37,140
-guys you've got maybe an office
-
-441
-00:14:37,140 --> 00:14:38,880
-person and you're just running around
-
-442
-00:14:38,880 --> 00:14:40,020
-like a chicken with your head caught
-
-443
-00:14:40,020 --> 00:14:41,370
-off like permanently
-
-444
-00:14:41,620 --> 00:14:43,600
-Your nervous system is in fight
-
-445
-00:14:43,600 --> 00:14:45,710
-flight or freeze mode all the time
-
-446
-00:14:45,940 --> 00:14:46,860
-That's hard
-
-447
-00:14:46,860 --> 00:14:48,120
-That's a hard place to be in
-
-448
-00:14:48,120 --> 00:14:50,020
-where you just feel like everything's
-
-449
-00:14:50,020 --> 00:14:51,240
-in chaos and you're not sure if
-
-450
-00:14:51,240 --> 00:14:52,780
-it's all going to fall apart next
-
-451
-00:14:52,780 --> 00:14:53,750
-week you know
-
-452
-00:14:53,780 --> 00:14:55,180
-or in the winter when things slow
-
-453
-00:14:55,180 --> 00:14:55,690
-down
-
-454
-00:14:55,820 --> 00:14:56,830
-So that's hard
-
-455
-00:14:56,840 --> 00:14:58,540
-It is also hard to grow business
-
-456
-00:14:58,540 --> 00:14:59,880
-to grow yourself
-
-457
-00:14:59,880 --> 00:15:01,120
-to change your mindset
-
-458
-00:15:01,120 --> 00:15:03,620
-to invest in yourself and invest in
-
-459
-00:15:03,620 --> 00:15:06,260
-coaching and to have to be responsible
-
-460
-00:15:06,260 --> 00:15:08,290
-for a bigger payroll
-
-461
-00:15:08,340 --> 00:15:09,520
-Like that's those are all hard
-
-462
-00:15:09,520 --> 00:15:10,050
-things
-
-463
-00:15:10,340 --> 00:15:11,420
-Everything's hard but I just feel
-
-464
-00:15:11,420 --> 00:15:12,630
-like you get to choose your hard
-
-465
-00:15:12,880 --> 00:15:13,610
-You do
-
-466
-00:15:13,740 --> 00:15:14,260
-And you know
-
-467
-00:15:14,260 --> 00:15:15,720
-I you brought up payroll
-
-468
-00:15:15,720 --> 00:15:18,080
-That's a that's somebody might say
-
-469
-00:15:18,080 --> 00:15:19,520
-that's a trigger for me but 40
-
-470
-00:15:19,520 --> 00:15:22,420
-000 a week in payroll that's a
-
-471
-00:15:22,420 --> 00:15:24,540
-lot of sleepless nights right that's a
-
-472
-00:15:24,540 --> 00:15:26,040
-lot of revenue you got to generate
-
-473
-00:15:26,040 --> 00:15:28,420
-to cover that and you know and
-
-474
-00:15:28,420 --> 00:15:29,920
-that's that was one of the points
-
-475
-00:15:29,920 --> 00:15:31,480
-I wanted to make when adding trade
-
-476
-00:15:31,480 --> 00:15:33,660
-lines is you have to have a
-
-477
-00:15:33,660 --> 00:15:36,540
-plan and I see a lot of
-
-478
-00:15:36,540 --> 00:15:38,580
-people where they go into one trade
-
-479
-00:15:38,580 --> 00:15:40,440
-and then they quickly go into a
-
-480
-00:15:40,440 --> 00:15:42,580
-second trade you need to master the
-
-481
-00:15:42,580 --> 00:15:44,160
-first one because if you don't have
-
-482
-00:15:44,160 --> 00:15:47,280
-the processes for the first one you're
-
-483
-00:15:47,280 --> 00:15:49,500
-doing just a little percentage on both
-
-484
-00:15:49,500 --> 00:15:50,920
-of them and neither one of them
-
-485
-00:15:50,920 --> 00:15:53,180
-are gonna survive that's good so you
-
-486
-00:15:53,180 --> 00:15:54,320
-got to the place where you had
-
-487
-00:15:54,320 --> 00:15:56,540
-mastered the process the back -end
-
-488
-00:15:56,540 --> 00:15:58,040
-process behind how you run the
-
-489
-00:15:58,040 --> 00:15:59,900
-operations of your business with
-
-490
-00:15:59,900 --> 00:16:01,900
-septic before you added the plumbing
-
-491
-00:16:01,900 --> 00:16:05,040
-on yeah and we mastered plumbing and
-
-492
-00:16:05,040 --> 00:16:06,320
-we did plumbing for a little over
-
-493
-00:16:06,320 --> 00:16:08,000
-a year before we even started another
-
-494
-00:16:08,000 --> 00:16:09,990
-trade you know
-
-495
-00:16:10,180 --> 00:16:15,300
-and mastery is something that I say
-
-496
-00:16:15,300 --> 00:16:16,350
-it's hard to reach
-
-497
-00:16:16,580 --> 00:16:18,760
-So my rule of thumb is get
-
-498
-00:16:18,760 --> 00:16:19,940
-an 80%
-
-499
-00:16:19,940 --> 00:16:20,410
-Yeah
-
-500
-00:16:20,560 --> 00:16:22,200
-Because if you're just 30 or 50%
-
-501
-00:16:22,200 --> 00:16:24,420
-then you're going back to that luck
-
-502
-00:16:24,420 --> 00:16:24,830
-deal
-
-503
-00:16:24,880 --> 00:16:25,970
-I hope it works
-
-504
-00:16:26,020 --> 00:16:26,280
+00:04:24,845 --> 00:04:25,155
 Right
 
+136
+00:04:25,285 --> 00:04:27,005
+And I'm going to lead into it
+
+137
+00:04:27,005 --> 00:04:31,445
+with so many people go into business
+
+138
+00:04:31,445 --> 00:04:33,715
+for the theory of freedom
+
+139
+00:04:33,945 --> 00:04:35,995
+whether it's financial freedom
+
+140
+00:04:36,585 --> 00:04:39,505
+time freedom and they quickly don't
+
+141
+00:04:39,505 --> 00:04:41,285
+realize that they're building a prison
+
+142
+00:04:41,285 --> 00:04:42,185
+with their name on it
+
+143
+00:04:42,185 --> 00:04:45,885
+Yeah and you know instead of instead
+
+144
+00:04:45,885 --> 00:04:48,935
+of owning a business and running a
+
+145
+00:04:48,935 --> 00:04:50,495
+business the business owns and runs
+
+146
+00:04:50,495 --> 00:04:53,015
+you yep and that that's one of
+
+147
+00:04:53,015 --> 00:04:54,335
+the hardest lessons that business
+
+148
+00:04:54,335 --> 00:04:56,555
+owners because they don't have the
+
+149
+00:04:56,555 --> 00:04:59,475
+skill set within themselves and that's
+
+150
+00:04:59,475 --> 00:05:01,535
+not that's not a bad problem they
+
+151
+00:05:01,535 --> 00:05:02,955
+just don't know what they don't know
+
+152
+00:05:02,955 --> 00:05:05,435
+and they don't have the skill set
+
+153
+00:05:05,435 --> 00:05:08,775
+to go from the doer the guy
+
+154
+00:05:08,775 --> 00:05:12,095
+in the trench to a CEO mindset
+
+155
+00:05:12,095 --> 00:05:14,715
+yeah and that's where the investing in
+
+156
+00:05:14,715 --> 00:05:16,475
+yourself comes in yeah and you would
+
+157
+00:05:16,475 --> 00:05:19,235
+have never made that jump to hiring
+
+158
+00:05:19,235 --> 00:05:21,835
+on a plumber and expanding things if
+
+159
+00:05:21,835 --> 00:05:24,535
+you were just stuck in that employee
+
+160
+00:05:24,535 --> 00:05:26,795
+mindset where you've just made
+
+161
+00:05:26,795 --> 00:05:29,535
+yourself a really stressful job
+
+162
+00:05:29,535 --> 00:05:31,755
+basically you know you're trying to be
+
+163
+00:05:31,755 --> 00:05:33,695
+an entrepreneur but you just you're a
+
+164
+00:05:33,695 --> 00:05:35,365
+slave to your job that is correct
+
+165
+00:05:35,555 --> 00:05:38,375
+So I spent 14 years trying to
+
+166
+00:05:38,375 --> 00:05:39,195
+figure that out
+
+167
+00:05:39,195 --> 00:05:41,535
+And there was a time that I
+
+168
+00:05:41,535 --> 00:05:42,865
+was just done
+
+169
+00:05:43,055 --> 00:05:44,205
+Like I was tired
+
+170
+00:05:44,255 --> 00:05:45,115
+My wife and I
+
+171
+00:05:45,115 --> 00:05:47,835
+you know fought a lot because of
+
+172
+00:05:47,835 --> 00:05:51,755
+the stress that the business gives you
+
+173
+00:05:51,755 --> 00:05:53,155
+know trying to figure out where
+
+174
+00:05:53,155 --> 00:05:54,625
+payroll is going to come from
+
+175
+00:05:54,635 --> 00:05:55,725
+the endless nights
+
+176
+00:05:55,775 --> 00:05:56,735
+the you know
+
+177
+00:05:56,735 --> 00:05:58,005
+my wife used to say
+
+178
+00:05:58,035 --> 00:05:59,325
+get off your phone
+
+179
+00:05:59,335 --> 00:06:00,575
+pay attention to your family
+
+180
+00:06:00,575 --> 00:06:01,735
+Now she's like you need to get
+
+181
+00:06:01,735 --> 00:06:02,835
+on your phone and make some more
+
+182
+00:06:02,835 --> 00:06:05,215
+money like it's a it's a shift
+
+183
+00:06:05,215 --> 00:06:08,155
+in the mindset right and that phone
+
+184
+00:06:08,155 --> 00:06:09,435
+that I used to be on that
+
+185
+00:06:09,435 --> 00:06:10,875
+she thought was taking away from the
+
+186
+00:06:10,875 --> 00:06:13,815
+family is what is making a better
+
+187
+00:06:13,815 --> 00:06:16,715
+life for ourselves and when you have
+
+188
+00:06:16,715 --> 00:06:20,315
+that breakthrough moment of what we
+
+189
+00:06:20,315 --> 00:06:22,435
+what I call change the channel and
+
+190
+00:06:22,435 --> 00:06:24,615
+changing the channel from being the
+
+191
+00:06:24,615 --> 00:06:26,955
+guy in the field the guy in
+
+192
+00:06:26,955 --> 00:06:28,855
+the trenches the boots on the ground
+
+193
+00:06:28,855 --> 00:06:31,575
+to a CEO instead of the doer
+
+194
+00:06:31,575 --> 00:06:34,675
+then you can start to grow and
+
+195
+00:06:34,675 --> 00:06:37,055
+scale yeah so you have to change
+
+196
+00:06:37,055 --> 00:06:39,575
+your mindset to do that so any
+
+197
+00:06:39,575 --> 00:06:42,375
+tips on how to practically work on
+
+198
+00:06:42,375 --> 00:06:44,195
+changing your mindset because you're
+
+199
+00:06:44,195 --> 00:06:45,895
+never going to add more service lines
+
+200
+00:06:45,895 --> 00:06:47,555
+if you're just stuck in the day
+
+201
+00:06:47,555 --> 00:06:49,395
+-to -day yeah for me it was
+
+202
+00:06:49,395 --> 00:06:51,915
+business coaching yeah you know there
+
+203
+00:06:51,915 --> 00:06:53,815
+are so many people out there that
+
+204
+00:06:53,815 --> 00:06:55,935
+and it's the right business coaching
+
+205
+00:06:55,935 --> 00:06:57,995
+because there's you know there is
+
+206
+00:06:57,995 --> 00:06:59,995
+right time order for everything and so
+
+207
+00:06:59,995 --> 00:07:02,195
+many people I see give that are
+
+208
+00:07:02,195 --> 00:07:03,495
+business coaching that are given the
+
+209
+00:07:03,495 --> 00:07:05,495
+wrong thing at the right wrong time
+
+210
+00:07:05,495 --> 00:07:08,055
+and it's just not going to work
+
+211
+00:07:08,055 --> 00:07:09,975
+it may have worked for them but
+
+212
+00:07:09,975 --> 00:07:11,575
+you know they may be a 10
+
+213
+00:07:11,575 --> 00:07:14,695
+15 20 million dollar CEO and they're
+
+214
+00:07:14,695 --> 00:07:16,695
+trying to tell a million dollar person
+
+215
+00:07:16,695 --> 00:07:18,415
+what works in that 10 million dollar
+
+216
+00:07:18,415 --> 00:07:19,535
+company is not going to work in
+
+217
+00:07:19,535 --> 00:07:21,935
+million -dollar company and so it's
+
+218
+00:07:21,935 --> 00:07:24,475
+really the right business coaching for
+
+219
+00:07:24,475 --> 00:07:26,515
+where you're at today but you also
+
+220
+00:07:26,515 --> 00:07:28,695
+got to know you know it's the
+
+221
+00:07:28,695 --> 00:07:30,715
+gap analysis where do you want to
+
+222
+00:07:30,715 --> 00:07:32,455
+go what are all the things that
+
+223
+00:07:32,455 --> 00:07:33,655
+you have to do to get there
+
+224
+00:07:33,655 --> 00:07:36,335
+and then the thing that most everybody
+
+225
+00:07:36,335 --> 00:07:37,895
+doesn't talk about is the line
+
+226
+00:07:37,895 --> 00:07:40,015
+underneath that gap analysis which is
+
+227
+00:07:40,015 --> 00:07:43,235
+the resistance line and you know one
+
+228
+00:07:43,235 --> 00:07:44,795
+of the one of the deep questions
+
+229
+00:07:44,795 --> 00:07:47,135
+that I asked my business coach when
+
+230
+00:07:47,135 --> 00:07:49,035
+I signed up with him and he
+
+231
+00:07:49,035 --> 00:07:49,995
+told me it was a three -year
+
+232
+00:07:49,995 --> 00:07:51,765
+commitment that
+
+233
+00:07:52,505 --> 00:07:55,065
+scared me right yeah but he said
+
+234
+00:07:55,065 --> 00:07:57,025
+Jason I can take your company and
+
+235
+00:07:57,025 --> 00:07:58,205
+I can grow it to a 10
+
+236
+00:07:58,205 --> 00:07:59,665
+million dollar company by the end of
+
+237
+00:07:59,665 --> 00:08:02,405
+the year but you don't have the
+
+238
+00:08:02,405 --> 00:08:03,865
+skill set to run a 10 million
+
+239
+00:08:03,865 --> 00:08:05,885
+dollar company and it's going to take
+
+240
+00:08:05,885 --> 00:08:07,965
+three years for me to take everything
+
+241
+00:08:07,965 --> 00:08:10,785
+that society people have instilled in
+
+242
+00:08:10,785 --> 00:08:13,565
+you take it out and reprogram it
+
+243
+00:08:13,565 --> 00:08:15,285
+to where you're a 10 million dollar
+
+244
+00:08:15,285 --> 00:08:17,165
+CEO where you can handle a 10
+
+245
+00:08:17,165 --> 00:08:18,675
+million dollar company Yeah
+
+246
+00:08:18,965 --> 00:08:19,805
+And so for me
+
+247
+00:08:19,805 --> 00:08:20,615
+that was huge
+
+248
+00:08:20,645 --> 00:08:21,845
+having that breakthrough of
+
+249
+00:08:21,845 --> 00:08:22,775
+right time order
+
+250
+00:08:22,945 --> 00:08:23,255
+Yep
+
+251
+00:08:23,305 --> 00:08:25,705
+And doing things the right time the
+
+252
+00:08:25,705 --> 00:08:27,605
+right way will get me to the
+
+253
+00:08:27,605 --> 00:08:28,235
+next level
+
+254
+00:08:28,485 --> 00:08:30,305
+You talked about it as in change
+
+255
+00:08:30,305 --> 00:08:31,955
+the channel which I love that
+
+256
+00:08:31,985 --> 00:08:33,165
+I like to think of it as
+
+257
+00:08:33,165 --> 00:08:33,705
+a thermostat
+
+258
+00:08:33,705 --> 00:08:35,065
+I think that we all have a
+
+259
+00:08:35,065 --> 00:08:36,405
+thermostat set point where we're
+
+260
+00:08:36,405 --> 00:08:37,235
+really comfortable
+
+261
+00:08:37,285 --> 00:08:39,215
+And it's the idea of homeostasis
+
+262
+00:08:39,505 --> 00:08:41,545
+And that if we start to grow
+
+263
+00:08:41,545 --> 00:08:42,965
+past it all of a sudden we'll
+
+264
+00:08:42,965 --> 00:08:45,065
+self -sabotage without even realizing
+
+265
+00:08:45,065 --> 00:08:45,385
+it
+
+266
+00:08:45,385 --> 00:08:46,585
+And so like you said
+
+267
+00:08:46,585 --> 00:08:47,725
+I think it's really important to get
+
+268
+00:08:47,725 --> 00:08:49,125
+around people who can help you with
+
+269
+00:08:49,125 --> 00:08:50,325
+that a business coach
+
+270
+00:08:50,325 --> 00:08:52,045
+or even just people that are further
+
+271
+00:08:52,045 --> 00:08:53,865
+along than you are
+
+272
+00:08:53,865 --> 00:08:55,225
+because it's going to change the way
+
+273
+00:08:55,225 --> 00:08:56,865
+you think about things when you hear
+
+274
+00:08:56,865 --> 00:08:58,365
+them talk about business in a
+
+275
+00:08:58,365 --> 00:08:59,055
+different way
+
+276
+00:08:59,065 --> 00:08:59,575
+Absolutely
+
+277
+00:08:59,665 --> 00:09:01,285
+I mean I started with a friend
+
+278
+00:09:01,285 --> 00:09:03,945
+of mine who has a bigger company
+
+279
+00:09:03,945 --> 00:09:05,145
+when I was ready to hang it
+
+280
+00:09:05,145 --> 00:09:05,345
+up
+
+281
+00:09:05,345 --> 00:09:06,525
+Like I was just tired of the
+
+282
+00:09:06,525 --> 00:09:08,185
+stress tired of the sleepless nights
+
+283
+00:09:08,185 --> 00:09:10,655
+and you know
+
+284
+00:09:10,665 --> 00:09:12,185
+he at the time was doing about
+
+285
+00:09:12,185 --> 00:09:15,005
+$16 million and I'm like
+
+286
+00:09:15,005 --> 00:09:16,885
+where did it click and change for
+
+287
+00:09:16,885 --> 00:09:17,325
+you?
+
+288
+00:09:17,325 --> 00:09:20,595
+And he asked me probably the deepest
+
+289
+00:09:20,925 --> 00:09:23,215
+easiest questions now looking back
+
+290
+00:09:23,225 --> 00:09:24,665
+but it was the deepest question I've
+
+291
+00:09:24,665 --> 00:09:25,525
+ever been asked
+
+292
+00:09:25,525 --> 00:09:26,945
+and that is
+
+293
+00:09:26,945 --> 00:09:27,775
+what is your why?
+
+294
+00:09:28,390 --> 00:09:30,270
+And you know my wife and I
+
+295
+00:09:30,270 --> 00:09:31,550
+were sitting across the dinner table
+
+296
+00:09:31,550 --> 00:09:32,770
+from him we both thought we had
+
+297
+00:09:32,770 --> 00:09:34,990
+really good answers you know my wife's
+
+298
+00:09:34,990 --> 00:09:36,530
+like I want to help people by
+
+299
+00:09:36,530 --> 00:09:39,470
+giving them a job and mine was
+
+300
+00:09:39,470 --> 00:09:41,230
+like I want to help people you
+
+301
+00:09:41,230 --> 00:09:43,630
+know my customers yeah and he just
+
+302
+00:09:43,630 --> 00:09:44,890
+kind of laughed and I never will
+
+303
+00:09:44,890 --> 00:09:47,610
+forget that forget the face he made
+
+304
+00:09:47,610 --> 00:09:50,770
+like I felt so small like almost
+
+305
+00:09:50,770 --> 00:09:52,970
+dumb like my answer wasn't good enough
+
+306
+00:09:52,970 --> 00:09:57,210
+for him and he's he said that's
+
+307
+00:09:57,210 --> 00:09:59,850
+not enough that's not enough to take
+
+308
+00:09:59,850 --> 00:10:02,970
+the risk that you take and it's
+
+309
+00:10:02,970 --> 00:10:04,930
+never good you're never going to get
+
+310
+00:10:04,930 --> 00:10:07,330
+to where you want to go with
+
+311
+00:10:07,330 --> 00:10:09,950
+without having a why that he could
+
+312
+00:10:09,950 --> 00:10:12,570
+get behind and that my unconscious
+
+313
+00:10:12,570 --> 00:10:14,530
+what you know I told somebody
+
+314
+00:10:14,530 --> 00:10:16,490
+yesterday and I was visiting with I
+
+315
+00:10:16,490 --> 00:10:19,220
+said when you go look in the
+
+316
+00:10:19,220 --> 00:10:21,320
+mirror we so often we look in
+
+317
+00:10:21,320 --> 00:10:22,500
+the mirror we're brushing our teeth
+
+318
+00:10:22,500 --> 00:10:24,420
+we're brushing our hair but we truly
+
+319
+00:10:24,420 --> 00:10:26,440
+don't see ourselves we see the
+
+320
+00:10:26,440 --> 00:10:28,280
+reflection of ourselves but we don't
+
+321
+00:10:28,280 --> 00:10:30,480
+see ourselves and I said I want
+
+322
+00:10:30,480 --> 00:10:32,000
+you to go say your why to
+
+323
+00:10:32,000 --> 00:10:34,600
+yourself and if you don't get that
+
+324
+00:10:34,600 --> 00:10:37,980
+feeling like ooh like yeah you know
+
+325
+00:10:37,980 --> 00:10:40,020
+it's a feeling of certainty you need
+
+326
+00:10:40,020 --> 00:10:41,900
+to find your why because everything
+
+327
+00:10:41,900 --> 00:10:43,680
+that you put on the line as
+
+328
+00:10:43,680 --> 00:10:46,320
+a business owner the risk you know
+
+329
+00:10:46,320 --> 00:10:47,680
+the people that are going to depend
+
+330
+00:10:47,680 --> 00:10:49,220
+on you the families that are going
+
+331
+00:10:49,220 --> 00:10:50,130
+to depend on you
+
+332
+00:10:50,500 --> 00:10:52,440
+You got to have a why that
+
+333
+00:10:52,440 --> 00:10:56,170
+is so certain that you're
+
+334
+00:10:56,170 --> 00:10:58,590
+I call it both your minds want
+
+335
+00:10:58,590 --> 00:10:59,990
+it your conscious and your
+
+336
+00:10:59,990 --> 00:11:00,620
+unconscious
+
+337
+00:11:00,890 --> 00:11:02,980
+And when you have that certainty
+
+338
+00:11:03,150 --> 00:11:05,830
+then it's easy to get past that
+
+339
+00:11:05,830 --> 00:11:07,440
+line of resistance
+
+340
+00:11:08,010 --> 00:11:09,380
+That's really really good
+
+341
+00:11:09,430 --> 00:11:09,780
+Yeah
+
+342
+00:11:09,870 --> 00:11:10,810
+Tapping into that why
+
+343
+00:11:10,810 --> 00:11:12,570
+because there's that resistance you
+
+344
+00:11:12,570 --> 00:11:13,800
+talked about it's pain
+
+345
+00:11:13,830 --> 00:11:16,130
+It's painful to grow and to do
+
+346
+00:11:16,130 --> 00:11:18,210
+things a different way and to admit
+
+347
+00:11:18,210 --> 00:11:20,150
+where you lack skill and you need
+
+348
+00:11:20,150 --> 00:11:21,140
+to grow in that
+
+349
+00:11:21,190 --> 00:11:23,750
+And that why has to be stronger
+
+350
+00:11:23,750 --> 00:11:25,690
+than the pain of going through
+
+351
+00:11:25,690 --> 00:11:26,200
+business
+
+352
+00:11:26,270 --> 00:11:27,530
+So a funny
+
+353
+00:11:27,530 --> 00:11:28,220
+quick story
+
+354
+00:11:28,605 --> 00:11:29,915
+My business coach
+
+355
+00:11:29,925 --> 00:11:30,965
+which I hope is going to be
+
+356
+00:11:30,965 --> 00:11:32,395
+on your podcast as well
+
+357
+00:11:32,995 --> 00:11:35,335
+You know he often asked me to
+
+358
+00:11:35,335 --> 00:11:36,595
+tell people in his world that are
+
+359
+00:11:36,595 --> 00:11:38,275
+new like how long have I known
+
+360
+00:11:38,275 --> 00:11:42,035
+him and I actually met him about
+
+361
+00:11:42,035 --> 00:11:43,995
+well now it's probably been about 16
+
+362
+00:11:43,995 --> 00:11:45,555
+years ago but when I when I
+
+363
+00:11:45,555 --> 00:11:47,175
+went into his world it was you
+
+364
+00:11:47,175 --> 00:11:51,445
+know 12 13 years and
+
+365
+00:11:51,905 --> 00:11:54,345
+I when I came into his world
+
+366
+00:11:54,345 --> 00:11:57,165
+I kept saying that I wasted so
+
+367
+00:11:57,165 --> 00:11:59,425
+much time because I met him at
+
+368
+00:11:59,425 --> 00:12:01,885
+the WWETT show 14 years ago had
+
+369
+00:12:01,885 --> 00:12:03,525
+an opportunity to get on a phone
+
+370
+00:12:03,525 --> 00:12:05,405
+call with him and I went to
+
+371
+00:12:05,405 --> 00:12:07,285
+my wife and I said man this
+
+372
+00:12:07,285 --> 00:12:08,585
+guy I want to go I want
+
+373
+00:12:08,585 --> 00:12:10,005
+to go have you know pay him
+
+374
+00:12:10,005 --> 00:12:11,845
+to help us and she's like you're
+
+375
+00:12:11,845 --> 00:12:13,925
+crazy we don't have that kind of
+
+376
+00:12:13,925 --> 00:12:15,365
+money you know we're small business
+
+377
+00:12:15,365 --> 00:12:18,995
+like and he told me to stop
+
+378
+00:12:18,995 --> 00:12:22,315
+saying that because if I had gone
+
+379
+00:12:22,315 --> 00:12:25,375
+with him 14 years ago I wasn't
+
+380
+00:12:25,375 --> 00:12:28,575
+done suffering yet which means I had
+
+381
+00:12:28,575 --> 00:12:30,435
+I hadn't got to the point where
+
+382
+00:12:30,435 --> 00:12:32,975
+I was ready for the help yeah
+
+383
+00:12:32,975 --> 00:12:36,215
+because when people start coaching
+
+384
+00:12:36,215 --> 00:12:38,495
+people and they're not they haven't
+
+385
+00:12:38,495 --> 00:12:39,795
+suffered they haven't gone through the
+
+386
+00:12:39,795 --> 00:12:42,875
+pain points then it typically becomes
+
+387
+00:12:42,875 --> 00:12:44,575
+the wrong time order instead of the
+
+388
+00:12:44,575 --> 00:12:47,095
+right time order and he's like you
+
+389
+00:12:47,095 --> 00:12:49,675
+may look at it now as you
+
+390
+00:12:49,675 --> 00:12:52,725
+wasted 14 years of your life but
+
+391
+00:12:52,725 --> 00:12:55,005
+you probably wouldn't even have grown
+
+392
+00:12:55,005 --> 00:12:56,805
+to what you are today had you
+
+393
+00:12:56,805 --> 00:12:58,965
+gone with me back then because you
+
+394
+00:12:58,965 --> 00:13:01,345
+weren't done suffering yet and that
+
+395
+00:13:01,345 --> 00:13:02,765
+was huge for me to have that
+
+396
+00:13:02,765 --> 00:13:05,825
+breakthrough to understand that right
+
+397
+00:13:05,825 --> 00:13:08,265
+time order yeah and I think we
+
+398
+00:13:08,265 --> 00:13:10,685
+can all look back to circumstances
+
+399
+00:13:10,685 --> 00:13:12,125
+that we've been through pain that
+
+400
+00:13:12,125 --> 00:13:15,345
+we've been through and you know it
+
+401
+00:13:15,345 --> 00:13:17,025
+would be great to just erase all
+
+402
+00:13:17,025 --> 00:13:18,765
+those things and have a life free
+
+403
+00:13:18,765 --> 00:13:20,485
+of problems but that's not anybody's
+
+404
+00:13:20,485 --> 00:13:21,785
+life and I think every single one
+
+405
+00:13:21,785 --> 00:13:23,725
+of us would look at those painful
+
+406
+00:13:23,725 --> 00:13:25,905
+times and say I would not be
+
+407
+00:13:25,905 --> 00:13:27,245
+the person I am today if I
+
+408
+00:13:27,245 --> 00:13:29,205
+had not gone through that yeah you
+
+409
+00:13:29,205 --> 00:13:30,345
+know I mean I just kind of
+
+410
+00:13:30,345 --> 00:13:32,205
+let statistics speak for themselves
+
+411
+00:13:32,205 --> 00:13:37,205
+that it 90 % of small businesses
+
+412
+00:13:37,205 --> 00:13:38,805
+never make it past the three million
+
+413
+00:13:38,805 --> 00:13:43,205
+mark five percent is all that grows
+
+414
+00:13:43,205 --> 00:13:45,695
+past five million and small business
+
+415
+00:13:45,695 --> 00:13:48,775
+industry and it's like do you when
+
+416
+00:13:48,775 --> 00:13:50,415
+you really think about it do you
+
+417
+00:13:50,415 --> 00:13:52,655
+think that five percent of people of
+
+418
+00:13:52,655 --> 00:13:54,435
+the small business owners that breach
+
+419
+00:13:54,435 --> 00:13:56,075
+that five million do you think it
+
+420
+00:13:56,075 --> 00:14:00,095
+was luck no right it was the
+
+421
+00:14:00,095 --> 00:14:02,855
+pain and suffering the leveling up you
+
+422
+00:14:02,855 --> 00:14:05,555
+know to get to that point and
+
+423
+00:14:05,555 --> 00:14:08,155
+so you know there's so many times
+
+424
+00:14:08,155 --> 00:14:09,415
+people say like I want to be
+
+425
+00:14:09,415 --> 00:14:11,515
+that guy and it's like you don't
+
+426
+00:14:11,515 --> 00:14:13,035
+know what that guy went through to
+
+427
+00:14:13,035 --> 00:14:14,875
+get to where he's at are you
+
+428
+00:14:14,875 --> 00:14:18,395
+willing to do that right and until
+
+429
+00:14:18,395 --> 00:14:19,835
+people sit there and really evaluate
+
+430
+00:14:19,835 --> 00:14:22,515
+that the heart that take a hard
+
+431
+00:14:22,515 --> 00:14:25,275
+look at that you know the grit
+
+432
+00:14:25,275 --> 00:14:26,795
+that it's going to take to get
+
+433
+00:14:26,795 --> 00:14:28,775
+to the next level because it's not
+
+434
+00:14:28,775 --> 00:14:29,995
+easy and it's not luck
+
+435
+00:14:29,995 --> 00:14:30,945
+I promise you
+
+436
+00:14:31,075 --> 00:14:31,385
+Yeah
+
+437
+00:14:31,655 --> 00:14:33,115
+And I also think you can choose
+
+438
+00:14:33,115 --> 00:14:33,685
+your heart
+
+439
+00:14:34,295 --> 00:14:36,415
+It's really hard to be a business
+
+440
+00:14:36,415 --> 00:14:38,275
+owner that maybe you've got a couple
+
+441
+00:14:38,275 --> 00:14:39,835
+guys you've got maybe an office
+
+442
+00:14:39,835 --> 00:14:41,575
+person and you're just running around
+
+443
+00:14:41,575 --> 00:14:42,715
+like a chicken with your head caught
+
+444
+00:14:42,715 --> 00:14:44,065
+off like permanently
+
+445
+00:14:44,315 --> 00:14:46,295
+Your nervous system is in fight
+
+446
+00:14:46,295 --> 00:14:48,405
+flight or freeze mode all the time
+
+447
+00:14:48,635 --> 00:14:49,555
+That's hard
+
+448
+00:14:49,555 --> 00:14:50,815
+That's a hard place to be in
+
+449
+00:14:50,815 --> 00:14:52,715
+where you just feel like everything's
+
+450
+00:14:52,715 --> 00:14:53,935
+in chaos and you're not sure if
+
+451
+00:14:53,935 --> 00:14:55,475
+it's all going to fall apart next
+
+452
+00:14:55,475 --> 00:14:56,445
+week you know
+
+453
+00:14:56,475 --> 00:14:57,875
+or in the winter when things slow
+
+454
+00:14:57,875 --> 00:14:58,385
+down
+
+455
+00:14:58,515 --> 00:14:59,525
+So that's hard
+
+456
+00:14:59,535 --> 00:15:01,235
+It is also hard to grow business
+
+457
+00:15:01,235 --> 00:15:02,575
+to grow yourself
+
+458
+00:15:02,575 --> 00:15:03,815
+to change your mindset
+
+459
+00:15:03,815 --> 00:15:06,315
+to invest in yourself and invest in
+
+460
+00:15:06,315 --> 00:15:08,955
+coaching and to have to be responsible
+
+461
+00:15:08,955 --> 00:15:10,985
+for a bigger payroll
+
+462
+00:15:11,035 --> 00:15:12,215
+Like that's those are all hard
+
+463
+00:15:12,215 --> 00:15:12,745
+things
+
+464
+00:15:13,035 --> 00:15:14,115
+Everything's hard but I just feel
+
+465
+00:15:14,115 --> 00:15:15,325
+like you get to choose your hard
+
+466
+00:15:15,575 --> 00:15:16,305
+You do
+
+467
+00:15:16,435 --> 00:15:16,955
+And you know
+
+468
+00:15:16,955 --> 00:15:18,415
+I you brought up payroll
+
+469
+00:15:18,415 --> 00:15:20,775
+That's a that's somebody might say
+
+470
+00:15:20,775 --> 00:15:22,215
+that's a trigger for me but 40
+
+471
+00:15:22,215 --> 00:15:25,115
+000 a week in payroll that's a
+
+472
+00:15:25,115 --> 00:15:27,235
+lot of sleepless nights right that's a
+
+473
+00:15:27,235 --> 00:15:28,735
+lot of revenue you got to generate
+
+474
+00:15:28,735 --> 00:15:31,115
+to cover that and you know and
+
+475
+00:15:31,115 --> 00:15:32,615
+that's that was one of the points
+
+476
+00:15:32,615 --> 00:15:34,175
+I wanted to make when adding trade
+
+477
+00:15:34,175 --> 00:15:36,355
+lines is you have to have a
+
+478
+00:15:36,355 --> 00:15:39,235
+plan and I see a lot of
+
+479
+00:15:39,235 --> 00:15:41,275
+people where they go into one trade
+
+480
+00:15:41,275 --> 00:15:43,135
+and then they quickly go into a
+
+481
+00:15:43,135 --> 00:15:45,275
+second trade you need to master the
+
+482
+00:15:45,275 --> 00:15:46,855
+first one because if you don't have
+
+483
+00:15:46,855 --> 00:15:49,975
+the processes for the first one you're
+
+484
+00:15:49,975 --> 00:15:52,195
+doing just a little percentage on both
+
+485
+00:15:52,195 --> 00:15:53,615
+of them and neither one of them
+
+486
+00:15:53,615 --> 00:15:55,875
+are gonna survive that's good so you
+
+487
+00:15:55,875 --> 00:15:57,015
+got to the place where you had
+
+488
+00:15:57,015 --> 00:15:59,235
+mastered the process the back -end
+
+489
+00:15:59,235 --> 00:16:00,735
+process behind how you run the
+
+490
+00:16:00,735 --> 00:16:02,595
+operations of your business with
+
+491
+00:16:02,595 --> 00:16:04,595
+septic before you added the plumbing
+
+492
+00:16:04,595 --> 00:16:07,735
+on yeah and we mastered plumbing and
+
+493
+00:16:07,735 --> 00:16:09,015
+we did plumbing for a little over
+
+494
+00:16:09,015 --> 00:16:10,695
+a year before we even started another
+
+495
+00:16:10,695 --> 00:16:12,685
+trade you know
+
+496
+00:16:12,875 --> 00:16:17,995
+and mastery is something that I say
+
+497
+00:16:17,995 --> 00:16:19,045
+it's hard to reach
+
+498
+00:16:19,275 --> 00:16:21,455
+So my rule of thumb is get
+
+499
+00:16:21,455 --> 00:16:22,635
+an 80%
+
+500
+00:16:22,635 --> 00:16:23,105
+Yeah
+
+501
+00:16:23,255 --> 00:16:24,895
+Because if you're just 30 or 50%
+
+502
+00:16:24,895 --> 00:16:27,115
+then you're going back to that luck
+
+503
+00:16:27,115 --> 00:16:27,525
+deal
+
+504
+00:16:27,575 --> 00:16:28,665
+I hope it works
+
 505
-00:16:26,280 --> 00:16:26,570
+00:16:28,715 --> 00:16:28,975
 Right
 
 506
-00:16:26,640 --> 00:16:28,320
-But if you can get things 80%
+00:16:28,975 --> 00:16:29,265
+Right
 
 507
-00:16:28,320 --> 00:16:30,680
-because so many people focus and they
+00:16:29,335 --> 00:16:31,015
+But if you can get things 80%
 
 508
-00:16:30,680 --> 00:16:31,660
-want it 100%
+00:16:31,015 --> 00:16:33,375
+because so many people focus and they
 
 509
-00:16:31,660 --> 00:16:33,910
-well then there's actually time lost
+00:16:33,375 --> 00:16:34,355
+want it 100%
 
 510
-00:16:34,040 --> 00:16:36,160
-And so you want that you want
+00:16:34,355 --> 00:16:36,605
+well then there's actually time lost
 
 511
-00:16:36,160 --> 00:16:38,720
-that 80 percent mark get it close
+00:16:36,735 --> 00:16:38,855
+And so you want that you want
 
 512
-00:16:38,720 --> 00:16:43,000
-implement build and as you're scaling
+00:16:38,855 --> 00:16:41,415
+that 80 percent mark get it close
 
 513
-00:16:43,000 --> 00:16:45,280
-it figure out the other 20 percent
+00:16:41,415 --> 00:16:45,695
+implement build and as you're scaling
 
 514
-00:16:45,280 --> 00:16:48,020
-so before you added the third service
+00:16:45,695 --> 00:16:47,975
+it figure out the other 20 percent
 
 515
-00:16:48,020 --> 00:16:49,800
-line did you build up plumbing did
+00:16:47,975 --> 00:16:50,715
+so before you added the third service
 
 516
-00:16:49,800 --> 00:16:51,900
-you hire more plumbers how did that
+00:16:50,715 --> 00:16:52,495
+line did you build up plumbing did
 
 517
-00:16:51,900 --> 00:16:54,600
-process look like practically so one
+00:16:52,495 --> 00:16:54,595
+you hire more plumbers how did that
 
 518
-00:16:54,600 --> 00:16:56,160
-of the hard lessons I've learned in
+00:16:54,595 --> 00:16:57,295
+process look like practically so one
 
 519
-00:16:56,160 --> 00:16:58,500
-business is one is none two is
+00:16:57,295 --> 00:16:58,855
+of the hard lessons I've learned in
 
 520
-00:16:58,500 --> 00:17:00,480
-some so I had to make sure
+00:16:58,855 --> 00:17:01,195
+business is one is none two is
 
 521
-00:17:00,480 --> 00:17:02,580
-that I had two plumbers and kept
+00:17:01,195 --> 00:17:03,175
+some so I had to make sure
 
 522
-00:17:02,580 --> 00:17:04,280
-them busy before I would even
+00:17:03,175 --> 00:17:05,275
+that I had two plumbers and kept
 
 523
-00:17:04,280 --> 00:17:06,800
-entertain something else okay you know
+00:17:05,275 --> 00:17:06,975
+them busy before I would even
 
 524
-00:17:06,800 --> 00:17:08,600
-so you know we have in the
+00:17:06,975 --> 00:17:09,495
+entertain something else okay you know
 
 525
-00:17:08,600 --> 00:17:11,300
-septic business we have three full
+00:17:09,495 --> 00:17:11,295
+so you know we have in the
 
 526
-00:17:11,300 --> 00:17:13,700
--time service experts and so we kind
+00:17:11,295 --> 00:17:13,995
+septic business we have three full
 
 527
-00:17:13,700 --> 00:17:15,580
-of mastered that trying to keep you
+00:17:13,995 --> 00:17:16,395
+-time service experts and so we kind
 
 528
-00:17:15,580 --> 00:17:17,440
-know being able to keep them busy
+00:17:16,395 --> 00:17:18,275
+of mastered that trying to keep you
 
 529
-00:17:17,440 --> 00:17:20,680
-and serving our customers and then we
+00:17:18,275 --> 00:17:20,135
+know being able to keep them busy
 
 530
-00:17:20,680 --> 00:17:23,060
-bring on plumbing and it's always hard
+00:17:20,135 --> 00:17:23,375
+and serving our customers and then we
 
 531
-00:17:23,060 --> 00:17:25,340
-like bring on one because you don't
+00:17:23,375 --> 00:17:25,755
+bring on plumbing and it's always hard
 
 532
-00:17:25,340 --> 00:17:27,720
-have work for one because you're
+00:17:25,755 --> 00:17:28,035
+like bring on one because you don't
 
 533
-00:17:27,720 --> 00:17:30,480
-starting you know brand new and but
+00:17:28,035 --> 00:17:30,415
+have work for one because you're
 
 534
-00:17:30,480 --> 00:17:33,040
-then sometimes that one don't always
+00:17:30,415 --> 00:17:33,175
+starting you know brand new and but
 
 535
-00:17:33,040 --> 00:17:34,920
-work out right and so now you're
+00:17:33,175 --> 00:17:35,735
+then sometimes that one don't always
 
 536
-00:17:34,920 --> 00:17:36,600
-back to none and that's why I
+00:17:35,735 --> 00:17:37,615
+work out right and so now you're
 
 537
-00:17:36,600 --> 00:17:38,500
-believe in that saying and one is
+00:17:37,615 --> 00:17:39,295
+back to none and that's why I
 
 538
-00:17:38,500 --> 00:17:40,920
-none two is some and so I
+00:17:39,295 --> 00:17:41,195
+believe in that saying and one is
 
 539
-00:17:40,920 --> 00:17:42,920
-quickly learned like okay we're gonna
+00:17:41,195 --> 00:17:43,615
+none two is some and so I
 
 540
-00:17:42,920 --> 00:17:43,820
-have to do this a little bit
+00:17:43,615 --> 00:17:45,615
+quickly learned like okay we're gonna
 
 541
-00:17:43,820 --> 00:17:46,380
-faster and a little bit better because
+00:17:45,615 --> 00:17:46,515
+have to do this a little bit
 
 542
-00:17:46,380 --> 00:17:48,500
-I need two that way if one
+00:17:46,515 --> 00:17:49,075
+faster and a little bit better because
 
 543
-00:17:48,500 --> 00:17:50,960
-doesn't make the cut I've got a
+00:17:49,075 --> 00:17:51,195
+I need two that way if one
 
 544
-00:17:50,960 --> 00:17:53,020
-backup because you're working really
+00:17:51,195 --> 00:17:53,655
+doesn't make the cut I've got a
 
 545
-00:17:53,020 --> 00:17:55,100
-hard to book those calls and all
+00:17:53,655 --> 00:17:55,715
+backup because you're working really
 
 546
-00:17:55,100 --> 00:17:56,020
-of a sudden you don't have a
+00:17:55,715 --> 00:17:57,795
+hard to book those calls and all
 
 547
-00:17:56,020 --> 00:17:56,690
-plumber now
+00:17:57,795 --> 00:17:58,715
+of a sudden you don't have a
 
 548
-00:17:56,900 --> 00:17:57,130
-Right
+00:17:58,715 --> 00:17:59,385
+plumber now
 
 549
-00:17:57,260 --> 00:17:57,840
-And it's like
+00:17:59,595 --> 00:17:59,825
+Right
 
 550
-00:17:57,840 --> 00:17:58,850
-what do I do?
-
-551
-00:17:58,860 --> 00:17:59,260
-Right
-
-552
-00:17:59,260 --> 00:18:00,420
-So now I got to spend however
-
-553
-00:18:00,420 --> 00:18:02,360
-long looking for the second plumber
-
-554
-00:18:02,360 --> 00:18:04,130
-And that's another big hard lesson
-
-555
-00:18:04,600 --> 00:18:07,280
-People always wait till they need
-
-556
-00:18:07,280 --> 00:18:08,550
-somebody to start looking
-
-557
-00:18:09,040 --> 00:18:11,200
-I'm recruiting now for anybody I'm
-
-558
-00:18:11,200 --> 00:18:12,220
-going to need next year
-
-559
-00:18:12,220 --> 00:18:12,550
-Yeah
-
-560
-00:18:12,560 --> 00:18:14,320
-I want a database of a thousand
-
-561
-00:18:14,320 --> 00:18:15,700
-people that I
-
-562
-00:18:15,700 --> 00:18:16,520
-when I need somebody
-
-563
-00:18:16,520 --> 00:18:18,800
-I've already got that database because
-
-564
-00:18:18,800 --> 00:18:20,940
-now if you wait till it's too
-
-565
-00:18:20,940 --> 00:18:22,940
-late you're reactive versus
-
-566
-00:18:22,940 --> 00:18:23,550
-proactive
-
-567
-00:18:23,640 --> 00:18:23,910
-That's true
-
-568
-00:18:24,280 --> 00:18:24,530
-Yeah
-
-569
-00:18:24,880 --> 00:18:26,720
-Did you create a kind of system
-
-570
-00:18:26,720 --> 00:18:28,160
-for them when they came into the
-
-571
-00:18:28,160 --> 00:18:30,820
-business so that you knew how to
-
-572
-00:18:30,820 --> 00:18:32,270
-launch them?
-
-573
-00:18:32,660 --> 00:18:36,340
-I agree because we actually just
-
-574
-00:18:36,340 --> 00:18:38,170
-launched what we call total immersion
-
-575
-00:18:38,500 --> 00:18:40,450
-which is day one for an employee
-
-576
-00:18:40,740 --> 00:18:43,660
-I started really evaluating and it
-
-577
-00:18:43,660 --> 00:18:45,860
-was it was a wake up call
-
-578
-00:18:45,860 --> 00:18:49,020
-when my wife calls me and says
-
-579
-00:18:49,020 --> 00:18:52,220
-hey did you forget about the new
-
-580
-00:18:52,220 --> 00:18:54,180
-HVAC guy I'm like what do you
-
-581
-00:18:54,180 --> 00:18:56,820
-mean and she's like well you've left
-
-582
-00:18:56,820 --> 00:18:59,240
-your general managers left the service
-
-583
-00:18:59,240 --> 00:19:01,940
-managers left and your new HVAC guy
-
-584
-00:19:01,940 --> 00:19:03,320
-on day one walks in and goes
-
-585
-00:19:03,320 --> 00:19:06,400
-when can I go home and I
-
-586
-00:19:06,400 --> 00:19:08,340
-had to self -reflect like that's not
-
-587
-00:19:08,340 --> 00:19:10,200
-what I would want to experience as
-
-588
-00:19:10,200 --> 00:19:12,740
-day one yeah and so we step
-
-589
-00:19:12,740 --> 00:19:14,940
-back reached out to the business coach
-
-590
-00:19:14,940 --> 00:19:16,130
-what does this look like
-
-591
-00:19:16,640 --> 00:19:19,130
-and it developed into total immersion
-
-592
-00:19:19,300 --> 00:19:20,670
-And so now
-
-593
-00:19:20,800 --> 00:19:23,440
-day one we have our biggest
-
-594
-00:19:23,440 --> 00:19:25,170
-cheerleader with them the whole time
-
-595
-00:19:25,360 --> 00:19:27,260
-They get to watch videos of the
-
-596
-00:19:27,260 --> 00:19:29,960
-story of how we have evolved over
-
-597
-00:19:29,960 --> 00:19:31,270
-the last 18 years
-
-598
-00:19:31,520 --> 00:19:33,620
-They get to see our processes
-
-599
-00:19:33,620 --> 00:19:35,080
-They get to meet all the key
-
-600
-00:19:35,080 --> 00:19:36,100
-people that they need
-
-601
-00:19:36,100 --> 00:19:37,430
-the human resources
-
-602
-00:19:37,480 --> 00:19:38,090
-payroll
-
-603
-00:19:38,560 --> 00:19:40,760
-managers call center managers
-
-604
-00:19:40,760 --> 00:19:42,380
-and they get to meet all these
-
-605
-00:19:42,380 --> 00:19:42,890
-people
-
-606
-00:19:43,000 --> 00:19:43,680
-And so at the end of the
-
-607
-00:19:43,680 --> 00:19:46,040
-day one they're feeling proud and
-
-608
-00:19:46,040 --> 00:19:46,900
-excited
-
-609
-00:19:46,900 --> 00:19:47,860
-I can't wait to get into the
-
-610
-00:19:47,860 --> 00:19:49,980
-mix of things versus when can I
-
-611
-00:19:49,980 --> 00:19:50,730
-go home?
-
-612
-00:19:51,220 --> 00:19:52,450
-It's a big difference
-
-613
-00:19:52,600 --> 00:19:52,800
-Yeah
-
-614
-00:19:52,860 --> 00:19:56,040
-And so that noticing when things need
-
-615
-00:19:56,040 --> 00:19:58,320
-to change is a big part of
-
-616
-00:19:58,320 --> 00:19:59,700
-a CEO's job
-
-617
-00:19:59,700 --> 00:20:02,680
-like evaluating like what decisions
-
-618
-00:20:02,680 --> 00:20:05,080
-do I need to make today that
-
-619
-00:20:05,080 --> 00:20:06,860
-will affect the future growth of our
-
-620
-00:20:06,860 --> 00:20:07,350
-company?
-
-621
-00:20:07,760 --> 00:20:10,320
-Do you think that an owner operator
-
-622
-00:20:10,320 --> 00:20:11,620
-needs to be in the place where
-
-623
-00:20:11,620 --> 00:20:14,220
-they've mastered septic to the point
-
-624
-00:20:14,220 --> 00:20:15,940
-where they're not in the field and
-
-625
-00:20:15,940 --> 00:20:17,720
-they've just got workers that are
-
-626
-00:20:17,720 --> 00:20:20,020
-doing everything before they add
-
-627
-00:20:20,020 --> 00:20:23,540
-another service line not necessarily I
-
-628
-00:20:23,540 --> 00:20:25,020
-think a lot of business owners that
-
-629
-00:20:25,020 --> 00:20:27,500
-are in the field struggle with the
-
-630
-00:20:27,500 --> 00:20:29,860
-transition and I think that they could
-
-631
-00:20:29,860 --> 00:20:32,140
-do it sooner than they imagine but
-
-632
-00:20:32,140 --> 00:20:34,000
-it was a challenge for me because
-
-633
-00:20:34,000 --> 00:20:35,780
-I started my business I was the
-
-634
-00:20:35,780 --> 00:20:38,060
-guy in the backhoe in the ditch
-
-635
-00:20:38,060 --> 00:20:40,160
-and I never will forget the
-
-636
-00:20:40,160 --> 00:20:42,770
-conversation going this guy's not
-
-637
-00:20:42,770 --> 00:20:44,280
-going to do it my way
-
-638
-00:20:44,310 --> 00:20:45,650
-He's not going to care as much
-
-639
-00:20:45,650 --> 00:20:46,500
-as me
-
-640
-00:20:46,610 --> 00:20:48,320
-Well that was my small mindset
-
-641
-00:20:49,110 --> 00:20:51,160
-People want to do well
-
-642
-00:20:51,170 --> 00:20:53,080
-People want to serve customers
-
-643
-00:20:53,550 --> 00:20:55,040
-And it was
-
-644
-00:20:55,210 --> 00:20:56,740
-it was you know
-
-645
-00:20:56,770 --> 00:20:58,250
-I had a goal to be out
-
-646
-00:20:58,250 --> 00:20:59,490
-of the machine in three years and
-
-647
-00:20:59,490 --> 00:21:00,400
-I did it in one
-
-648
-00:21:00,890 --> 00:21:02,565
-But I had to change the channel
-
-649
-00:21:02,615 --> 00:21:03,865
-I had to change my mindset
-
-650
-00:21:04,735 --> 00:21:07,295
-And So you know
-
-651
-00:21:07,295 --> 00:21:08,775
-we can talk lessons all day long
-
-652
-00:21:08,775 --> 00:21:10,795
-but the lessons that I took from
-
-653
-00:21:10,795 --> 00:21:13,045
-hiring people is
-
-654
-00:21:13,085 --> 00:21:14,485
-at the time
-
-655
-00:21:14,485 --> 00:21:16,765
-I didn't have a skill set to
-
-656
-00:21:16,765 --> 00:21:18,095
-make a bunch of me's
-
-657
-00:21:18,585 --> 00:21:20,425
-And that's where people really make
-
-658
-00:21:20,425 --> 00:21:22,085
-mistakes is they have a really good
-
-659
-00:21:22,085 --> 00:21:24,785
-person and they may be a top
-
-660
-00:21:24,785 --> 00:21:25,755
-revenue producer
-
-661
-00:21:26,005 --> 00:21:27,685
-And I've made several of these
-
-662
-00:21:27,685 --> 00:21:28,275
-mistakes
-
-663
-00:21:28,345 --> 00:21:29,945
-And later on in life
-
-664
-00:21:29,945 --> 00:21:31,305
-I called these people and said
-
-665
-00:21:31,305 --> 00:21:32,745
-man I need to apologize to you
-
-666
-00:21:32,745 --> 00:21:33,995
-I failed you
-
-667
-00:21:34,485 --> 00:21:36,365
-Just because you're really good at
-
-668
-00:21:36,365 --> 00:21:38,465
-what you do doesn't mean that you
-
-669
-00:21:38,465 --> 00:21:41,245
-have the skill set and knowledge to
-
-670
-00:21:41,245 --> 00:21:42,845
-create a bunch more of you but
-
-671
-00:21:42,845 --> 00:21:44,645
-as a business owner I want a
-
-672
-00:21:44,645 --> 00:21:46,665
-bunch more of you right and so
-
-673
-00:21:46,665 --> 00:21:49,665
-I failed those people by promoting
-
-674
-00:21:49,665 --> 00:21:51,085
-them because they're really good at
-
-675
-00:21:51,085 --> 00:21:52,845
-what they do and I didn't provide
-
-676
-00:21:52,845 --> 00:21:55,185
-them the skill set to be able
-
-677
-00:21:55,185 --> 00:21:58,625
-to lead people right and so you
-
-678
-00:21:58,625 --> 00:22:00,415
-know going back to
-
-679
-00:22:01,515 --> 00:22:02,835
-transitioning you've got to develop
-
-680
-00:22:02,835 --> 00:22:03,905
-the skill set too
-
-681
-00:22:04,235 --> 00:22:06,135
-And one of the other things that
-
-682
-00:22:06,135 --> 00:22:07,035
-I learned was
-
-683
-00:22:07,035 --> 00:22:09,055
-is I don't want a whole bunch
-
-684
-00:22:09,055 --> 00:22:09,905
-more Jasons
-
-685
-00:22:10,275 --> 00:22:10,865
-Right
-
-686
-00:22:10,915 --> 00:22:13,595
-I want to take somebody and figure
-
-687
-00:22:13,595 --> 00:22:15,815
-out what their strengths are and just
-
-688
-00:22:15,815 --> 00:22:16,785
-exploit that
-
-689
-00:22:16,975 --> 00:22:19,585
-Typically if you exploit that
-
-690
-00:22:19,655 --> 00:22:20,955
-they'll do it better than you
-
-691
-00:22:20,955 --> 00:22:21,245
-Yeah
-
-692
-00:22:21,335 --> 00:22:21,615
-Right
-
-693
-00:22:21,615 --> 00:22:22,565
-And that's what I want
-
-694
-00:22:22,775 --> 00:22:24,215
-I had somebody ask me yesterday
-
-695
-00:22:24,215 --> 00:22:26,335
-day do you ever worry about hiring
-
-696
-00:22:26,335 --> 00:22:28,935
-somebody that's more experienced or
-
-697
-00:22:28,935 --> 00:22:30,415
-better than you and I'm like no
-
-698
-00:22:30,415 --> 00:22:33,515
-I want that yeah because they may
-
-699
-00:22:33,515 --> 00:22:34,955
-be able to do it way faster
-
-700
-00:22:34,955 --> 00:22:36,375
-than me just because I can do
-
-701
-00:22:36,375 --> 00:22:37,555
-it doesn't mean I'm doing it well
-
-702
-00:22:37,555 --> 00:22:39,495
-or doing it so much better than
-
-703
-00:22:39,495 --> 00:22:42,785
-anybody else but everybody just wants
-
-704
-00:22:42,785 --> 00:22:45,305
-to repeat what's good right and it
-
-705
-00:22:45,305 --> 00:22:46,765
-doesn't really work that way when you
-
-706
-00:22:46,765 --> 00:22:48,845
-can take a human and exploit their
-
-707
-00:22:48,845 --> 00:22:51,745
-strengths and then coach on the
-
-708
-00:22:51,745 --> 00:22:54,045
-weaknesses you can get to the point
-
-709
-00:22:54,045 --> 00:22:55,645
-eight from eight to be a whole
-
-710
-00:22:55,645 --> 00:22:57,645
-lot faster what does your process look
-
-711
-00:22:57,645 --> 00:22:59,205
-like for doing that for coaching
-
-712
-00:22:59,205 --> 00:23:01,525
-somebody up and helping exploit their
-
-713
-00:23:01,525 --> 00:23:04,245
-strengths and or teaching someone to
-
-714
-00:23:04,245 --> 00:23:06,565
-manage people how do you teach those
-
-715
-00:23:06,565 --> 00:23:09,785
-skills so we don't manage people okay
-
-716
-00:23:09,785 --> 00:23:12,285
-I don't like people to say like
-
-717
-00:23:12,285 --> 00:23:14,485
-refer to me as the boss dogs
-
-718
-00:23:14,485 --> 00:23:17,125
-have bosses like you have a leader
-
-719
-00:23:17,125 --> 00:23:19,765
-or you don't and so we start
-
-720
-00:23:19,765 --> 00:23:22,125
-early with you know we have a
-
-721
-00:23:22,125 --> 00:23:25,305
-process in place that when we're
-
-722
-00:23:25,305 --> 00:23:27,325
-looking at people and they have
-
-723
-00:23:27,325 --> 00:23:29,785
-potential they have the want to that's
-
-724
-00:23:29,785 --> 00:23:31,165
-a big key do they have the
-
-725
-00:23:31,165 --> 00:23:32,605
-want to they may be happy where
-
-726
-00:23:32,605 --> 00:23:33,725
-they are they don't want to go
-
-727
-00:23:33,725 --> 00:23:35,805
-anywhere but you have to be willing
-
-728
-00:23:35,805 --> 00:23:37,145
-to have those conversations people
-
-729
-00:23:37,145 --> 00:23:40,435
-what so many people don't know their
-
-730
-00:23:40,435 --> 00:23:42,855
-employees why just like the business
-
-731
-00:23:42,855 --> 00:23:44,115
-owner you got to have a wife
-
-732
-00:23:44,115 --> 00:23:45,615
-they got to have a why yeah
-
-733
-00:23:45,615 --> 00:23:48,735
-and when you know their why then
-
-734
-00:23:48,735 --> 00:23:51,155
-the game changes because now I want
-
-735
-00:23:51,155 --> 00:23:52,395
-to make sure that you get to
-
-736
-00:23:52,395 --> 00:23:54,965
-your why and when you're helping
-
-737
-00:23:54,965 --> 00:23:57,085
-people get to their why then you
-
-738
-00:23:57,085 --> 00:23:58,825
-can almost create an ownership culture
-
-739
-00:23:58,825 --> 00:24:02,085
-it's powerful yeah and so it's once
-
-740
-00:24:02,085 --> 00:24:03,665
-you know that then we start the
-
-741
-00:24:03,665 --> 00:24:05,585
-conversations of what it looks like
-
-742
-00:24:05,585 --> 00:24:06,625
-for you to start leadership
-
-743
-00:24:06,625 --> 00:24:09,185
-development and so we start with time
-
-744
-00:24:09,185 --> 00:24:10,865
-management we you know we have this
-
-745
-00:24:10,865 --> 00:24:12,945
-process we will figure out a plan
-
-746
-00:24:12,945 --> 00:24:17,075
-what works for them again we do
-
-747
-00:24:17,075 --> 00:24:19,495
-we do self SWOTs have you ever
-
-748
-00:24:19,495 --> 00:24:22,335
-heard of the SWOT method so SWOTing
-
-749
-00:24:22,335 --> 00:24:24,135
-is basically figuring out your
-
-750
-00:24:24,135 --> 00:24:26,615
-strengths your weaknesses your
-
-751
-00:24:26,615 --> 00:24:29,555
-opportunities and when we have them
-
-752
-00:24:29,555 --> 00:24:32,785
-SWOT their selves and then you can
-
-753
-00:24:32,785 --> 00:24:34,305
-really figure out what a person's
-
-754
-00:24:34,305 --> 00:24:35,825
-strengths is because if they believe
-
-755
-00:24:35,825 --> 00:24:37,085
-their strength is this
-
-756
-00:24:37,085 --> 00:24:38,375
-then it's probably that
-
-757
-00:24:38,465 --> 00:24:40,645
-And then we can go in and
-
-758
-00:24:40,645 --> 00:24:42,215
-start coaching them
-
-759
-00:24:42,265 --> 00:24:43,575
-Yeah that's really great
-
-760
-00:24:43,905 --> 00:24:46,375
-So when you got the first plumber
-
-761
-00:24:46,425 --> 00:24:47,465
-it sounds like you got a second
-
-762
-00:24:47,465 --> 00:24:48,635
-plumber pretty quickly
-
-763
-00:24:48,905 --> 00:24:51,015
-When you start that new service line
-
-764
-00:24:51,045 --> 00:24:52,285
-how do you make sure that the
-
-765
-00:24:52,285 --> 00:24:53,775
-demand is there for that?
-
-766
-00:24:54,260 --> 00:24:54,870
-Marketing
-
-767
-00:24:55,090 --> 00:24:56,720
-You walked right into that one
-
-768
-00:24:57,550 --> 00:24:59,280
-I mean you know
-
-769
-00:24:59,750 --> 00:25:00,870
-just because that's what you do
-
-770
-00:25:00,870 --> 00:25:03,250
-doesn't mean our saying isn't true
-
-771
-00:25:03,250 --> 00:25:03,720
-Yeah
-
-772
-00:25:04,130 --> 00:25:05,120
-Marketing is everything
-
-773
-00:25:05,510 --> 00:25:06,380
-Everything is marketing
-
-774
-00:25:06,750 --> 00:25:08,610
-And you said something earlier and I
-
-775
-00:25:08,610 --> 00:25:09,480
-kind of bit my tongue
-
-776
-00:25:09,590 --> 00:25:10,700
-but shoulder season
-
-777
-00:25:11,465 --> 00:25:13,065
-I don't believe in shoulder season
-
-778
-00:25:13,065 --> 00:25:15,545
-because if you start marketing soon
-
-779
-00:25:15,545 --> 00:25:19,095
-enough for the shoulder season
-
-780
-00:25:19,095 --> 00:25:21,025
-then there's no lull
-
-781
-00:25:21,075 --> 00:25:21,385
-Right
-
-782
-00:25:21,455 --> 00:25:21,765
-Yeah
-
-783
-00:25:21,875 --> 00:25:23,375
-And so but so many people do
-
-784
-00:25:23,375 --> 00:25:24,465
-reactive marketing
-
-785
-00:25:24,735 --> 00:25:26,415
-They wait till the phone's not ringing
-
-786
-00:25:26,415 --> 00:25:27,545
-to go right
-
-787
-00:25:27,555 --> 00:25:28,515
-Hey we need to do something
-
-788
-00:25:28,515 --> 00:25:29,645
-I'll throw this ad out there
-
-789
-00:25:29,755 --> 00:25:31,535
-Well if you start the messaging
-
-790
-00:25:31,535 --> 00:25:33,875
-you know we start releasing
-
-791
-00:25:33,875 --> 00:25:36,245
-you know fall stuff in like July
-
-792
-00:25:36,555 --> 00:25:39,715
-you know start triggering the people
-
-793
-00:25:39,715 --> 00:25:42,555
-to think about at some point you're
-
-794
-00:25:42,555 --> 00:25:43,975
-going to have to switch from heating
-
-795
-00:25:43,975 --> 00:25:45,775
-or cooling to heating
-
-796
-00:25:45,775 --> 00:25:48,425
-you know and so you start
-
-797
-00:25:48,755 --> 00:25:52,445
-you know it's human behavior
-
-798
-00:25:52,715 --> 00:25:56,055
-And when you start focusing on the
-
-799
-00:25:56,055 --> 00:25:57,385
-human behavior I mean
-
-800
-00:25:57,395 --> 00:25:58,085
-think about it
-
-801
-00:25:58,255 --> 00:25:59,775
-When does Walmart put out Christmas
-
-802
-00:25:59,775 --> 00:26:00,115
-stuff?
-
-803
-00:26:00,115 --> 00:26:01,095
-That's what I was just thinking about
-
-804
-00:26:01,095 --> 00:26:01,775
-the same thing
-
-805
-00:26:01,775 --> 00:26:03,735
-I mean and it keeps getting sooner
-
-806
-00:26:03,735 --> 00:26:05,325
-and sooner every year
-
-807
-00:26:05,355 --> 00:26:05,835
+00:17:59,955 --> 00:18:00,535
 And it's like
 
-808
-00:26:05,835 --> 00:26:07,215
-we'll be going from Valentine's day to
+551
+00:18:00,535 --> 00:18:01,545
+what do I do?
 
-809
-00:26:07,215 --> 00:26:08,195
-Christmas at some point
-
-810
-00:26:08,195 --> 00:26:08,425
+552
+00:18:01,555 --> 00:18:01,955
 Right
 
+553
+00:18:01,955 --> 00:18:03,115
+So now I got to spend however
+
+554
+00:18:03,115 --> 00:18:05,055
+long looking for the second plumber
+
+555
+00:18:05,055 --> 00:18:06,825
+And that's another big hard lesson
+
+556
+00:18:07,295 --> 00:18:09,975
+People always wait till they need
+
+557
+00:18:09,975 --> 00:18:11,245
+somebody to start looking
+
+558
+00:18:11,735 --> 00:18:13,895
+I'm recruiting now for anybody I'm
+
+559
+00:18:13,895 --> 00:18:14,915
+going to need next year
+
+560
+00:18:14,915 --> 00:18:15,245
+Yeah
+
+561
+00:18:15,255 --> 00:18:17,015
+I want a database of a thousand
+
+562
+00:18:17,015 --> 00:18:18,395
+people that I
+
+563
+00:18:18,395 --> 00:18:19,215
+when I need somebody
+
+564
+00:18:19,215 --> 00:18:21,495
+I've already got that database because
+
+565
+00:18:21,495 --> 00:18:23,635
+now if you wait till it's too
+
+566
+00:18:23,635 --> 00:18:25,635
+late you're reactive versus
+
+567
+00:18:25,635 --> 00:18:26,245
+proactive
+
+568
+00:18:26,335 --> 00:18:26,605
+That's true
+
+569
+00:18:26,975 --> 00:18:27,225
+Yeah
+
+570
+00:18:27,575 --> 00:18:29,415
+Did you create a kind of system
+
+571
+00:18:29,415 --> 00:18:30,855
+for them when they came into the
+
+572
+00:18:30,855 --> 00:18:33,515
+business so that you knew how to
+
+573
+00:18:33,515 --> 00:18:34,965
+launch them?
+
+574
+00:18:35,355 --> 00:18:39,035
+I agree because we actually just
+
+575
+00:18:39,035 --> 00:18:40,865
+launched what we call total immersion
+
+576
+00:18:41,195 --> 00:18:43,145
+which is day one for an employee
+
+577
+00:18:43,435 --> 00:18:46,355
+I started really evaluating and it
+
+578
+00:18:46,355 --> 00:18:48,555
+was it was a wake up call
+
+579
+00:18:48,555 --> 00:18:51,715
+when my wife calls me and says
+
+580
+00:18:51,715 --> 00:18:54,915
+hey did you forget about the new
+
+581
+00:18:54,915 --> 00:18:56,875
+HVAC guy I'm like what do you
+
+582
+00:18:56,875 --> 00:18:59,515
+mean and she's like well you've left
+
+583
+00:18:59,515 --> 00:19:01,935
+your general managers left the service
+
+584
+00:19:01,935 --> 00:19:04,635
+managers left and your new HVAC guy
+
+585
+00:19:04,635 --> 00:19:06,015
+on day one walks in and goes
+
+586
+00:19:06,015 --> 00:19:09,095
+when can I go home and I
+
+587
+00:19:09,095 --> 00:19:11,035
+had to self -reflect like that's not
+
+588
+00:19:11,035 --> 00:19:12,895
+what I would want to experience as
+
+589
+00:19:12,895 --> 00:19:15,435
+day one yeah and so we step
+
+590
+00:19:15,435 --> 00:19:17,635
+back reached out to the business coach
+
+591
+00:19:17,635 --> 00:19:18,825
+what does this look like
+
+592
+00:19:19,335 --> 00:19:21,825
+and it developed into total immersion
+
+593
+00:19:21,995 --> 00:19:23,365
+And so now
+
+594
+00:19:23,495 --> 00:19:26,135
+day one we have our biggest
+
+595
+00:19:26,135 --> 00:19:27,865
+cheerleader with them the whole time
+
+596
+00:19:28,055 --> 00:19:29,955
+They get to watch videos of the
+
+597
+00:19:29,955 --> 00:19:32,655
+story of how we have evolved over
+
+598
+00:19:32,655 --> 00:19:33,965
+the last 18 years
+
+599
+00:19:34,215 --> 00:19:36,315
+They get to see our processes
+
+600
+00:19:36,315 --> 00:19:37,775
+They get to meet all the key
+
+601
+00:19:37,775 --> 00:19:38,795
+people that they need
+
+602
+00:19:38,795 --> 00:19:40,125
+the human resources
+
+603
+00:19:40,175 --> 00:19:40,785
+payroll
+
+604
+00:19:41,255 --> 00:19:43,455
+managers call center managers
+
+605
+00:19:43,455 --> 00:19:45,075
+and they get to meet all these
+
+606
+00:19:45,075 --> 00:19:45,585
+people
+
+607
+00:19:45,695 --> 00:19:46,375
+And so at the end of the
+
+608
+00:19:46,375 --> 00:19:48,735
+day one they're feeling proud and
+
+609
+00:19:48,735 --> 00:19:49,595
+excited
+
+610
+00:19:49,595 --> 00:19:50,555
+I can't wait to get into the
+
+611
+00:19:50,555 --> 00:19:52,675
+mix of things versus when can I
+
+612
+00:19:52,675 --> 00:19:53,425
+go home?
+
+613
+00:19:53,915 --> 00:19:55,145
+It's a big difference
+
+614
+00:19:55,295 --> 00:19:55,495
+Yeah
+
+615
+00:19:55,555 --> 00:19:58,735
+And so that noticing when things need
+
+616
+00:19:58,735 --> 00:20:01,015
+to change is a big part of
+
+617
+00:20:01,015 --> 00:20:02,395
+a CEO's job
+
+618
+00:20:02,395 --> 00:20:05,375
+like evaluating like what decisions
+
+619
+00:20:05,375 --> 00:20:07,775
+do I need to make today that
+
+620
+00:20:07,775 --> 00:20:09,555
+will affect the future growth of our
+
+621
+00:20:09,555 --> 00:20:10,045
+company?
+
+622
+00:20:10,455 --> 00:20:13,015
+Do you think that an owner operator
+
+623
+00:20:13,015 --> 00:20:14,315
+needs to be in the place where
+
+624
+00:20:14,315 --> 00:20:16,915
+they've mastered septic to the point
+
+625
+00:20:16,915 --> 00:20:18,635
+where they're not in the field and
+
+626
+00:20:18,635 --> 00:20:20,415
+they've just got workers that are
+
+627
+00:20:20,415 --> 00:20:22,715
+doing everything before they add
+
+628
+00:20:22,715 --> 00:20:26,235
+another service line not necessarily I
+
+629
+00:20:26,235 --> 00:20:27,715
+think a lot of business owners that
+
+630
+00:20:27,715 --> 00:20:30,195
+are in the field struggle with the
+
+631
+00:20:30,195 --> 00:20:32,555
+transition and I think that they could
+
+632
+00:20:32,555 --> 00:20:34,835
+do it sooner than they imagine but
+
+633
+00:20:34,835 --> 00:20:36,695
+it was a challenge for me because
+
+634
+00:20:36,695 --> 00:20:38,475
+I started my business I was the
+
+635
+00:20:38,475 --> 00:20:40,755
+guy in the backhoe in the ditch
+
+636
+00:20:40,755 --> 00:20:42,855
+and I never will forget the
+
+637
+00:20:42,855 --> 00:20:45,465
+conversation going this guy's not
+
+638
+00:20:45,465 --> 00:20:46,975
+going to do it my way
+
+639
+00:20:47,005 --> 00:20:48,345
+He's not going to care as much
+
+640
+00:20:48,345 --> 00:20:49,195
+as me
+
+641
+00:20:49,305 --> 00:20:51,015
+Well that was my small mindset
+
+642
+00:20:51,805 --> 00:20:53,855
+People want to do well
+
+643
+00:20:53,865 --> 00:20:55,775
+People want to serve customers
+
+644
+00:20:56,245 --> 00:20:57,735
+And it was
+
+645
+00:20:57,905 --> 00:20:59,435
+it was you know
+
+646
+00:20:59,465 --> 00:21:00,945
+I had a goal to be out
+
+647
+00:21:00,945 --> 00:21:02,185
+of the machine in three years and
+
+648
+00:21:02,185 --> 00:21:03,095
+I did it in one
+
+649
+00:21:03,585 --> 00:21:05,260
+But I had to change the channel
+
+650
+00:21:05,310 --> 00:21:06,560
+I had to change my mindset
+
+651
+00:21:07,430 --> 00:21:09,990
+And So you know
+
+652
+00:21:09,990 --> 00:21:11,470
+we can talk lessons all day long
+
+653
+00:21:11,470 --> 00:21:13,490
+but the lessons that I took from
+
+654
+00:21:13,490 --> 00:21:15,740
+hiring people is
+
+655
+00:21:15,780 --> 00:21:17,180
+at the time
+
+656
+00:21:17,180 --> 00:21:19,460
+I didn't have a skill set to
+
+657
+00:21:19,460 --> 00:21:20,790
+make a bunch of me's
+
+658
+00:21:21,280 --> 00:21:23,120
+And that's where people really make
+
+659
+00:21:23,120 --> 00:21:24,780
+mistakes is they have a really good
+
+660
+00:21:24,780 --> 00:21:27,480
+person and they may be a top
+
+661
+00:21:27,480 --> 00:21:28,450
+revenue producer
+
+662
+00:21:28,700 --> 00:21:30,380
+And I've made several of these
+
+663
+00:21:30,380 --> 00:21:30,970
+mistakes
+
+664
+00:21:31,040 --> 00:21:32,640
+And later on in life
+
+665
+00:21:32,640 --> 00:21:34,000
+I called these people and said
+
+666
+00:21:34,000 --> 00:21:35,440
+man I need to apologize to you
+
+667
+00:21:35,440 --> 00:21:36,690
+I failed you
+
+668
+00:21:37,180 --> 00:21:39,060
+Just because you're really good at
+
+669
+00:21:39,060 --> 00:21:41,160
+what you do doesn't mean that you
+
+670
+00:21:41,160 --> 00:21:43,940
+have the skill set and knowledge to
+
+671
+00:21:43,940 --> 00:21:45,540
+create a bunch more of you but
+
+672
+00:21:45,540 --> 00:21:47,340
+as a business owner I want a
+
+673
+00:21:47,340 --> 00:21:49,360
+bunch more of you right and so
+
+674
+00:21:49,360 --> 00:21:52,360
+I failed those people by promoting
+
+675
+00:21:52,360 --> 00:21:53,780
+them because they're really good at
+
+676
+00:21:53,780 --> 00:21:55,540
+what they do and I didn't provide
+
+677
+00:21:55,540 --> 00:21:57,880
+them the skill set to be able
+
+678
+00:21:57,880 --> 00:22:01,320
+to lead people right and so you
+
+679
+00:22:01,320 --> 00:22:03,110
+know going back to
+
+680
+00:22:04,210 --> 00:22:05,530
+transitioning you've got to develop
+
+681
+00:22:05,530 --> 00:22:06,600
+the skill set too
+
+682
+00:22:06,930 --> 00:22:08,830
+And one of the other things that
+
+683
+00:22:08,830 --> 00:22:09,730
+I learned was
+
+684
+00:22:09,730 --> 00:22:11,750
+is I don't want a whole bunch
+
+685
+00:22:11,750 --> 00:22:12,600
+more Jasons
+
+686
+00:22:12,970 --> 00:22:13,560
+Right
+
+687
+00:22:13,610 --> 00:22:16,290
+I want to take somebody and figure
+
+688
+00:22:16,290 --> 00:22:18,510
+out what their strengths are and just
+
+689
+00:22:18,510 --> 00:22:19,480
+exploit that
+
+690
+00:22:19,670 --> 00:22:22,280
+Typically if you exploit that
+
+691
+00:22:22,350 --> 00:22:23,650
+they'll do it better than you
+
+692
+00:22:23,650 --> 00:22:23,940
+Yeah
+
+693
+00:22:24,030 --> 00:22:24,310
+Right
+
+694
+00:22:24,310 --> 00:22:25,260
+And that's what I want
+
+695
+00:22:25,470 --> 00:22:26,910
+I had somebody ask me yesterday
+
+696
+00:22:26,910 --> 00:22:29,030
+day do you ever worry about hiring
+
+697
+00:22:29,030 --> 00:22:31,630
+somebody that's more experienced or
+
+698
+00:22:31,630 --> 00:22:33,110
+better than you and I'm like no
+
+699
+00:22:33,110 --> 00:22:36,210
+I want that yeah because they may
+
+700
+00:22:36,210 --> 00:22:37,650
+be able to do it way faster
+
+701
+00:22:37,650 --> 00:22:39,070
+than me just because I can do
+
+702
+00:22:39,070 --> 00:22:40,250
+it doesn't mean I'm doing it well
+
+703
+00:22:40,250 --> 00:22:42,190
+or doing it so much better than
+
+704
+00:22:42,190 --> 00:22:45,480
+anybody else but everybody just wants
+
+705
+00:22:45,480 --> 00:22:48,000
+to repeat what's good right and it
+
+706
+00:22:48,000 --> 00:22:49,460
+doesn't really work that way when you
+
+707
+00:22:49,460 --> 00:22:51,540
+can take a human and exploit their
+
+708
+00:22:51,540 --> 00:22:54,440
+strengths and then coach on the
+
+709
+00:22:54,440 --> 00:22:56,740
+weaknesses you can get to the point
+
+710
+00:22:56,740 --> 00:22:58,340
+eight from eight to be a whole
+
+711
+00:22:58,340 --> 00:23:00,340
+lot faster what does your process look
+
+712
+00:23:00,340 --> 00:23:01,900
+like for doing that for coaching
+
+713
+00:23:01,900 --> 00:23:04,220
+somebody up and helping exploit their
+
+714
+00:23:04,220 --> 00:23:06,940
+strengths and or teaching someone to
+
+715
+00:23:06,940 --> 00:23:09,260
+manage people how do you teach those
+
+716
+00:23:09,260 --> 00:23:12,480
+skills so we don't manage people okay
+
+717
+00:23:12,480 --> 00:23:14,980
+I don't like people to say like
+
+718
+00:23:14,980 --> 00:23:17,180
+refer to me as the boss dogs
+
+719
+00:23:17,180 --> 00:23:19,820
+have bosses like you have a leader
+
+720
+00:23:19,820 --> 00:23:22,460
+or you don't and so we start
+
+721
+00:23:22,460 --> 00:23:24,820
+early with you know we have a
+
+722
+00:23:24,820 --> 00:23:28,000
+process in place that when we're
+
+723
+00:23:28,000 --> 00:23:30,020
+looking at people and they have
+
+724
+00:23:30,020 --> 00:23:32,480
+potential they have the want to that's
+
+725
+00:23:32,480 --> 00:23:33,860
+a big key do they have the
+
+726
+00:23:33,860 --> 00:23:35,300
+want to they may be happy where
+
+727
+00:23:35,300 --> 00:23:36,420
+they are they don't want to go
+
+728
+00:23:36,420 --> 00:23:38,500
+anywhere but you have to be willing
+
+729
+00:23:38,500 --> 00:23:39,840
+to have those conversations people
+
+730
+00:23:39,840 --> 00:23:43,130
+what so many people don't know their
+
+731
+00:23:43,130 --> 00:23:45,550
+employees why just like the business
+
+732
+00:23:45,550 --> 00:23:46,810
+owner you got to have a wife
+
+733
+00:23:46,810 --> 00:23:48,310
+they got to have a why yeah
+
+734
+00:23:48,310 --> 00:23:51,430
+and when you know their why then
+
+735
+00:23:51,430 --> 00:23:53,850
+the game changes because now I want
+
+736
+00:23:53,850 --> 00:23:55,090
+to make sure that you get to
+
+737
+00:23:55,090 --> 00:23:57,660
+your why and when you're helping
+
+738
+00:23:57,660 --> 00:23:59,780
+people get to their why then you
+
+739
+00:23:59,780 --> 00:24:01,520
+can almost create an ownership culture
+
+740
+00:24:01,520 --> 00:24:04,780
+it's powerful yeah and so it's once
+
+741
+00:24:04,780 --> 00:24:06,360
+you know that then we start the
+
+742
+00:24:06,360 --> 00:24:08,280
+conversations of what it looks like
+
+743
+00:24:08,280 --> 00:24:09,320
+for you to start leadership
+
+744
+00:24:09,320 --> 00:24:11,880
+development and so we start with time
+
+745
+00:24:11,880 --> 00:24:13,560
+management we you know we have this
+
+746
+00:24:13,560 --> 00:24:15,640
+process we will figure out a plan
+
+747
+00:24:15,640 --> 00:24:19,770
+what works for them again we do
+
+748
+00:24:19,770 --> 00:24:22,190
+we do self SWOTs have you ever
+
+749
+00:24:22,190 --> 00:24:25,030
+heard of the SWOT method so SWOTing
+
+750
+00:24:25,030 --> 00:24:26,830
+is basically figuring out your
+
+751
+00:24:26,830 --> 00:24:29,310
+strengths your weaknesses your
+
+752
+00:24:29,310 --> 00:24:32,250
+opportunities and when we have them
+
+753
+00:24:32,250 --> 00:24:35,480
+SWOT their selves and then you can
+
+754
+00:24:35,480 --> 00:24:37,000
+really figure out what a person's
+
+755
+00:24:37,000 --> 00:24:38,520
+strengths is because if they believe
+
+756
+00:24:38,520 --> 00:24:39,780
+their strength is this
+
+757
+00:24:39,780 --> 00:24:41,070
+then it's probably that
+
+758
+00:24:41,160 --> 00:24:43,340
+And then we can go in and
+
+759
+00:24:43,340 --> 00:24:44,910
+start coaching them
+
+760
+00:24:44,960 --> 00:24:46,270
+Yeah that's really great
+
+761
+00:24:46,600 --> 00:24:49,070
+So when you got the first plumber
+
+762
+00:24:49,120 --> 00:24:50,160
+it sounds like you got a second
+
+763
+00:24:50,160 --> 00:24:51,330
+plumber pretty quickly
+
+764
+00:24:51,600 --> 00:24:53,710
+When you start that new service line
+
+765
+00:24:53,740 --> 00:24:54,980
+how do you make sure that the
+
+766
+00:24:54,980 --> 00:24:56,470
+demand is there for that?
+
+767
+00:24:56,955 --> 00:24:57,565
+Marketing
+
+768
+00:24:57,785 --> 00:24:59,415
+You walked right into that one
+
+769
+00:25:00,245 --> 00:25:01,975
+I mean you know
+
+770
+00:25:02,445 --> 00:25:03,565
+just because that's what you do
+
+771
+00:25:03,565 --> 00:25:05,945
+doesn't mean our saying isn't true
+
+772
+00:25:05,945 --> 00:25:06,415
+Yeah
+
+773
+00:25:06,825 --> 00:25:07,815
+Marketing is everything
+
+774
+00:25:08,205 --> 00:25:09,075
+Everything is marketing
+
+775
+00:25:09,445 --> 00:25:11,305
+And you said something earlier and I
+
+776
+00:25:11,305 --> 00:25:12,175
+kind of bit my tongue
+
+777
+00:25:12,285 --> 00:25:13,395
+but shoulder season
+
+778
+00:25:14,160 --> 00:25:15,760
+I don't believe in shoulder season
+
+779
+00:25:15,760 --> 00:25:18,240
+because if you start marketing soon
+
+780
+00:25:18,240 --> 00:25:21,790
+enough for the shoulder season
+
+781
+00:25:21,790 --> 00:25:23,720
+then there's no lull
+
+782
+00:25:23,770 --> 00:25:24,080
+Right
+
+783
+00:25:24,150 --> 00:25:24,460
+Yeah
+
+784
+00:25:24,570 --> 00:25:26,070
+And so but so many people do
+
+785
+00:25:26,070 --> 00:25:27,160
+reactive marketing
+
+786
+00:25:27,430 --> 00:25:29,110
+They wait till the phone's not ringing
+
+787
+00:25:29,110 --> 00:25:30,240
+to go right
+
+788
+00:25:30,250 --> 00:25:31,210
+Hey we need to do something
+
+789
+00:25:31,210 --> 00:25:32,340
+I'll throw this ad out there
+
+790
+00:25:32,450 --> 00:25:34,230
+Well if you start the messaging
+
+791
+00:25:34,230 --> 00:25:36,570
+you know we start releasing
+
+792
+00:25:36,570 --> 00:25:38,940
+you know fall stuff in like July
+
+793
+00:25:39,250 --> 00:25:42,410
+you know start triggering the people
+
+794
+00:25:42,410 --> 00:25:45,250
+to think about at some point you're
+
+795
+00:25:45,250 --> 00:25:46,670
+going to have to switch from heating
+
+796
+00:25:46,670 --> 00:25:48,470
+or cooling to heating
+
+797
+00:25:48,470 --> 00:25:51,120
+you know and so you start
+
+798
+00:25:51,450 --> 00:25:55,140
+you know it's human behavior
+
+799
+00:25:55,410 --> 00:25:58,750
+And when you start focusing on the
+
+800
+00:25:58,750 --> 00:26:00,080
+human behavior I mean
+
+801
+00:26:00,090 --> 00:26:00,780
+think about it
+
+802
+00:26:00,950 --> 00:26:02,470
+When does Walmart put out Christmas
+
+803
+00:26:02,470 --> 00:26:02,810
+stuff?
+
+804
+00:26:02,810 --> 00:26:03,790
+That's what I was just thinking about
+
+805
+00:26:03,790 --> 00:26:04,470
+the same thing
+
+806
+00:26:04,470 --> 00:26:06,430
+I mean and it keeps getting sooner
+
+807
+00:26:06,430 --> 00:26:08,020
+and sooner every year
+
+808
+00:26:08,050 --> 00:26:08,530
+And it's like
+
+809
+00:26:08,530 --> 00:26:09,910
+we'll be going from Valentine's day to
+
+810
+00:26:09,910 --> 00:26:10,890
+Christmas at some point
+
 811
-00:26:08,475 --> 00:26:08,885
+00:26:10,890 --> 00:26:11,120
 Right
 
 812
-00:26:09,115 --> 00:26:10,715
-But there's a strategy
-
-813
-00:26:10,715 --> 00:26:12,065
-but why they're doing that
-
-814
-00:26:12,375 --> 00:26:13,955
-And so when you can pick up
-
-815
-00:26:13,955 --> 00:26:15,105
-on the strategies
-
-816
-00:26:15,775 --> 00:26:18,975
-you know and then my business coach
-
-817
-00:26:18,975 --> 00:26:19,695
-says it all the time
-
-818
-00:26:19,695 --> 00:26:20,805
-I'll give them credit for it
-
-819
-00:26:21,260 --> 00:26:22,890
-Facebook the media
-
-820
-00:26:23,160 --> 00:26:24,730
-they're doing the marketing for you
-
-821
-00:26:25,040 --> 00:26:26,800
-I mean everywhere they're talking
-
-822
-00:26:26,800 --> 00:26:27,990
-about the El Nino
-
-823
-00:26:28,040 --> 00:26:28,350
-right?
-
-824
-00:26:28,535 --> 00:26:30,415
-That is that is
-
-825
-00:26:30,415 --> 00:26:32,025
-they're fueling your marketing
-
-826
-00:26:32,175 --> 00:26:34,275
-You need to be talking about going
-
-827
-00:26:34,275 --> 00:26:35,945
-to be the coldest winter ever
-
-828
-00:26:35,975 --> 00:26:37,495
-Your pipes are going to freeze
-
-829
-00:26:37,495 --> 00:26:38,965
-Your heater's not going to keep up
-
-830
-00:26:39,135 --> 00:26:40,555
-Well they started talking about that
-
-831
-00:26:40,555 --> 00:26:42,525
-months ago you know
-
-832
-00:26:42,890 --> 00:26:44,530
-air quality water quality
-
-833
-00:26:44,530 --> 00:26:46,220
-It's always in the media
-
-834
-00:26:46,310 --> 00:26:46,840
-Yeah
-
-835
-00:26:46,930 --> 00:26:49,440
-And why aren't you latching onto that?
-
-836
-00:26:49,530 --> 00:26:49,920
-That's great
-
-837
-00:26:49,950 --> 00:26:50,260
+00:26:11,170 --> 00:26:11,580
 Right
 
+813
+00:26:11,810 --> 00:26:13,410
+But there's a strategy
+
+814
+00:26:13,410 --> 00:26:14,760
+but why they're doing that
+
+815
+00:26:15,070 --> 00:26:16,650
+And so when you can pick up
+
+816
+00:26:16,650 --> 00:26:17,800
+on the strategies
+
+817
+00:26:18,470 --> 00:26:21,670
+you know and then my business coach
+
+818
+00:26:21,670 --> 00:26:22,390
+says it all the time
+
+819
+00:26:22,390 --> 00:26:23,500
+I'll give them credit for it
+
+820
+00:26:23,955 --> 00:26:25,585
+Facebook the media
+
+821
+00:26:25,855 --> 00:26:27,425
+they're doing the marketing for you
+
+822
+00:26:27,735 --> 00:26:29,495
+I mean everywhere they're talking
+
+823
+00:26:29,495 --> 00:26:30,685
+about the El Nino
+
+824
+00:26:30,735 --> 00:26:31,045
+right?
+
+825
+00:26:31,230 --> 00:26:33,110
+That is that is
+
+826
+00:26:33,110 --> 00:26:34,720
+they're fueling your marketing
+
+827
+00:26:34,870 --> 00:26:36,970
+You need to be talking about going
+
+828
+00:26:36,970 --> 00:26:38,640
+to be the coldest winter ever
+
+829
+00:26:38,670 --> 00:26:40,190
+Your pipes are going to freeze
+
+830
+00:26:40,190 --> 00:26:41,660
+Your heater's not going to keep up
+
+831
+00:26:41,830 --> 00:26:43,250
+Well they started talking about that
+
+832
+00:26:43,250 --> 00:26:45,220
+months ago you know
+
+833
+00:26:45,585 --> 00:26:47,225
+air quality water quality
+
+834
+00:26:47,225 --> 00:26:48,915
+It's always in the media
+
+835
+00:26:49,005 --> 00:26:49,535
+Yeah
+
+836
+00:26:49,625 --> 00:26:52,135
+And why aren't you latching onto that?
+
+837
+00:26:52,225 --> 00:26:52,615
+That's great
+
 838
-00:26:50,290 --> 00:26:52,210
-And so marketing is everything
+00:26:52,645 --> 00:26:52,955
+Right
 
 839
-00:26:52,210 --> 00:26:53,010
-Everything is marketing
+00:26:52,985 --> 00:26:54,905
+And so marketing is everything
 
 840
-00:26:53,010 --> 00:26:53,300
-Yeah
+00:26:54,905 --> 00:26:55,705
+Everything is marketing
 
 841
-00:26:53,330 --> 00:26:55,430
-That's really good
+00:26:55,705 --> 00:26:55,995
+Yeah
 
 842
-00:26:55,430 --> 00:26:56,950
-So you got the plumbing up and
+00:26:56,025 --> 00:26:58,125
+That's really good
 
 843
-00:26:56,950 --> 00:26:58,450
-running about a year
+00:26:58,125 --> 00:26:59,645
+So you got the plumbing up and
 
 844
-00:26:58,450 --> 00:27:01,340
-and then you added HVAC after that
+00:26:59,645 --> 00:27:01,145
+running about a year
 
 845
-00:27:01,390 --> 00:27:02,000
-So tell us
+00:27:01,145 --> 00:27:04,035
+and then you added HVAC after that
 
 846
-00:27:02,110 --> 00:27:03,010
-was the process
+00:27:04,085 --> 00:27:04,695
+So tell us
 
 847
-00:27:03,010 --> 00:27:04,500
-once you had added one
+00:27:04,805 --> 00:27:05,705
+was the process
 
 848
-00:27:04,630 --> 00:27:05,680
-were you kind of like
+00:27:05,705 --> 00:27:07,195
+once you had added one
 
 849
-00:27:05,690 --> 00:27:08,030
-okay I got this process down a
+00:27:07,325 --> 00:27:08,375
+were you kind of like
 
 850
-00:27:08,030 --> 00:27:08,490
-little bit?
+00:27:08,385 --> 00:27:10,725
+okay I got this process down a
 
 851
-00:27:08,490 --> 00:27:11,170
-Was it easier to add HVAC because
+00:27:10,725 --> 00:27:11,185
+little bit?
 
 852
-00:27:11,170 --> 00:27:12,390
-you had already added plumbing?
+00:27:11,185 --> 00:27:13,865
+Was it easier to add HVAC because
 
 853
-00:27:12,390 --> 00:27:13,140
-One would think
+00:27:13,865 --> 00:27:15,085
+you had already added plumbing?
 
 854
-00:27:13,405 --> 00:27:15,415
-HVAC is its own breed
+00:27:15,085 --> 00:27:15,835
+One would think
 
 855
-00:27:15,445 --> 00:27:19,165
-I mean I thought that
+00:27:16,100 --> 00:27:18,110
+HVAC is its own breed
 
 856
-00:27:19,165 --> 00:27:19,445
-right?
+00:27:18,140 --> 00:27:21,860
+I mean I thought that
 
 857
-00:27:19,445 --> 00:27:19,755
-Yeah
-
-858
-00:27:19,925 --> 00:27:22,765
-But HVAC is truly its own breed
-
-859
-00:27:22,765 --> 00:27:24,175
-of thought process
-
-860
-00:27:24,345 --> 00:27:25,995
-And so it just
-
-861
-00:27:26,605 --> 00:27:29,725
-knowing I don't come from the HVAC
-
-862
-00:27:29,725 --> 00:27:30,195
-world
-
-863
-00:27:30,445 --> 00:27:32,565
-Luckily I hired into it
-
-864
-00:27:32,565 --> 00:27:35,065
-Like I hired somebody that knew one
-
-865
-00:27:35,065 --> 00:27:37,125
-of my managers come from the HVAC
-
-866
-00:27:37,125 --> 00:27:37,385
-world
-
-867
-00:27:37,385 --> 00:27:38,625
-So we had a little bit of
-
-868
-00:27:38,625 --> 00:27:39,395
-a jump start
-
-869
-00:27:40,125 --> 00:27:41,255
-But you know
-
-870
-00:27:41,645 --> 00:27:43,485
-typically a plumbing call turns into a
-
-871
-00:27:43,485 --> 00:27:43,955
-repair
-
-872
-00:27:44,105 --> 00:27:46,725
-Well a lot of times an HVAC
-
-873
-00:27:46,725 --> 00:27:48,975
-call turns into a replacement
-
-874
-00:27:49,125 --> 00:27:49,325
-Yeah
-
-875
-00:27:49,265 --> 00:27:51,065
-And so it was like a whole
-
-876
-00:27:51,065 --> 00:27:53,625
-different things of price book stuff
-
-877
-00:27:53,625 --> 00:27:54,705
-that we got to build out you
-
-878
-00:27:54,705 --> 00:27:55,745
-got to have your service you got
-
-879
-00:27:55,745 --> 00:27:58,045
-to have your replacements you know
-
-880
-00:27:58,045 --> 00:28:00,165
-warranties are a lot different on HVAC
-
-881
-00:28:00,165 --> 00:28:02,885
-systems versus so you know to do
-
-882
-00:28:02,885 --> 00:28:04,725
-a hot water tank you know you're
-
-883
-00:28:04,725 --> 00:28:06,965
-kind of in the hot water area
-
-884
-00:28:06,965 --> 00:28:08,765
-but to do an HVAC system like
-
-885
-00:28:08,765 --> 00:28:11,075
-you know it almost looks like a
-
-886
-00:28:11,075 --> 00:28:12,895
-murder scene right because you got all
-
-887
-00:28:12,895 --> 00:28:15,735
-these plastic things hanging keeping
-
-888
-00:28:15,735 --> 00:28:18,095
-the dust control and everything so
-
-889
-00:28:18,095 --> 00:28:20,735
-it's just again something you got to
-
-890
-00:28:20,735 --> 00:28:24,395
-learn and so I would wish I
-
-891
-00:28:24,395 --> 00:28:25,755
-had done a little bit more homework
-
-892
-00:28:25,755 --> 00:28:27,575
-than thinking that oh I did plumbing
-
-893
-00:28:27,575 --> 00:28:28,595
-so now I can just throw it
-
-894
-00:28:28,595 --> 00:28:31,095
-in an x -pack right and so
-
-895
-00:28:31,095 --> 00:28:33,515
-then it then it electrical is kind
-
-896
-00:28:33,515 --> 00:28:33,825
-of
-
-897
-00:28:34,290 --> 00:28:38,210
-more you know adaptive to plumbing and
-
-898
-00:28:38,210 --> 00:28:40,570
-I actually wanted to start with
-
-899
-00:28:40,570 --> 00:28:44,770
-electrical not plumbing okay but I did
-
-900
-00:28:44,770 --> 00:28:46,770
-some research had some conversations
-
-901
-00:28:46,770 --> 00:28:50,010
-and there's a lot of companies that
-
-902
-00:28:50,010 --> 00:28:52,660
-are just electrical companies but when
-
-903
-00:28:53,000 --> 00:28:55,130
-you look at whole home service
-
-904
-00:28:55,130 --> 00:28:58,550
-typically the margins are the lowest
-
-905
-00:28:58,550 --> 00:29:00,890
-in electrical interesting and the
-
-906
-00:29:00,890 --> 00:29:02,610
-repeat business I mean think about it
-
-907
-00:29:02,610 --> 00:29:03,870
-when was the last time you had
-
-908
-00:29:03,870 --> 00:29:05,730
-a receptacle or light switch replaced
-
-909
-00:29:05,730 --> 00:29:07,310
-by an electrician in your home right
-
-910
-00:29:07,310 --> 00:29:10,540
-very uncommon right and So
-
-911
-00:29:10,630 --> 00:29:14,470
-I had to learn more and then
-
-912
-00:29:14,470 --> 00:29:16,190
-realize electrical probably needs to
-
-913
-00:29:16,190 --> 00:29:16,900
-come last
-
-914
-00:29:17,070 --> 00:29:19,370
-I mean it's something that we need
-
-915
-00:29:19,370 --> 00:29:21,030
-to have because at some point when
-
-916
-00:29:21,030 --> 00:29:23,730
-you're doing generators and new HVAC
-
-917
-00:29:23,730 --> 00:29:25,530
-systems you got to have an
-
-918
-00:29:25,530 --> 00:29:26,440
-electrician
-
-919
-00:29:26,550 --> 00:29:29,920
-And so but it just kind of
-
-920
-00:29:30,090 --> 00:29:32,380
-made the circle complete
-
-921
-00:29:32,390 --> 00:29:32,670
-Yeah
-
-922
-00:29:32,670 --> 00:29:34,070
-Whereas if I had started with there
-
-923
-00:29:34,070 --> 00:29:34,870
-I don't know that I could have
-
-924
-00:29:34,870 --> 00:29:36,490
-got the circle as fast as I
-
-925
-00:29:36,490 --> 00:29:36,860
-did
-
-926
-00:29:37,010 --> 00:29:39,020
-That's a really good lesson
-
-927
-00:29:39,090 --> 00:29:39,290
-Yeah
-
-928
-00:29:39,210 --> 00:29:40,390
-I mean that's like a
-
-929
-00:29:40,390 --> 00:29:43,510
-that's a multi -million dollar piece
-
-930
-00:29:43,510 --> 00:29:45,480
-of advice for anyone listening
-
-931
-00:29:45,730 --> 00:29:46,980
-you know that one little nugget
-
-932
-00:29:47,170 --> 00:29:49,490
-So I was able to come visit
-
-933
-00:29:49,490 --> 00:29:51,370
-your facilities and in your call
-
-934
-00:29:51,370 --> 00:29:53,130
-center you have this board up
-
-935
-00:29:53,130 --> 00:29:55,850
-and it's every time somebody asks for
-
-936
-00:29:55,850 --> 00:29:57,400
-a service that you don't offer
-
-937
-00:29:57,450 --> 00:29:58,780
-you put a checkmark it
-
-938
-00:29:58,850 --> 00:30:00,590
-Your call center puts a checkmark next
-
-939
-00:30:00,590 --> 00:30:00,850
-to it
-
-940
-00:30:00,850 --> 00:30:03,510
-So you're watching constantly what's
-
-941
-00:30:03,510 --> 00:30:05,590
-happening in home services in your
-
-942
-00:30:05,590 --> 00:30:05,910
-area
-
-943
-00:30:05,910 --> 00:30:09,270
-So is there is there something next
-
-944
-00:30:09,270 --> 00:30:12,030
-for JT services do you feel like
-
-945
-00:30:12,030 --> 00:30:14,570
-kind of going off of what people
-
-946
-00:30:14,570 --> 00:30:17,050
-asked you was the right strategy there
-
-947
-00:30:17,050 --> 00:30:18,970
-let me tell you the why behind
-
-948
-00:30:18,970 --> 00:30:20,330
-that board and then it made me
-
-949
-00:30:20,330 --> 00:30:22,310
-make sense again school of hard knocks
-
-950
-00:30:22,310 --> 00:30:23,750
-right you got to learn you don't
-
-951
-00:30:23,750 --> 00:30:24,630
-know what you don't know and you
-
-952
-00:30:24,630 --> 00:30:27,470
-got to learn lessons so my business
-
-953
-00:30:27,470 --> 00:30:30,390
-coach had a home service company and
-
-954
-00:30:30,390 --> 00:30:33,270
-he started this because he started
-
-955
-00:30:33,270 --> 00:30:34,710
-wondering when he heard people tell
-
-956
-00:30:34,710 --> 00:30:37,210
-him no tell their customers know what
-
-957
-00:30:37,210 --> 00:30:39,530
-all they were saying no to and
-
-958
-00:30:39,530 --> 00:30:41,530
-so the story is about oil heaters
-
-959
-00:30:41,530 --> 00:30:44,430
-in the northeast and so they didn't
-
-960
-00:30:44,430 --> 00:30:47,300
-do oil and all of a sudden
-
-961
-00:30:47,300 --> 00:30:49,440
-he's got all these check marks and
-
-962
-00:30:49,440 --> 00:30:52,760
-so he goes in and asks his
-
-963
-00:30:52,760 --> 00:30:54,200
-HVAC guys who knows how to do
-
-964
-00:30:54,200 --> 00:30:56,640
-oil and so like three people put
-
-965
-00:30:56,640 --> 00:30:59,360
-their hand up well then he's like
-
-966
-00:30:59,360 --> 00:31:01,500
-come talk to me okay out of
-
-967
-00:31:01,500 --> 00:31:02,940
-you three who love it well then
-
-968
-00:31:02,940 --> 00:31:04,460
-there was two you know he's like
-
-969
-00:31:04,460 --> 00:31:05,580
-what do we need to do oil
-
-970
-00:31:05,580 --> 00:31:08,180
-what what's the margins like how do
-
-971
-00:31:08,180 --> 00:31:10,320
-you price it like and these guys
-
-972
-00:31:10,320 --> 00:31:11,580
-don't worry about it we'll make we'll
-
-973
-00:31:11,580 --> 00:31:13,380
-make the money right and he did
-
-974
-00:31:13,380 --> 00:31:15,860
-like over two million dollars in oil
-
-975
-00:31:15,860 --> 00:31:17,660
-heating repair and replacements the
-
-976
-00:31:17,660 --> 00:31:20,800
-first year right so how much money
-
-977
-00:31:20,800 --> 00:31:22,720
-are you saying no to I tell
-
-978
-00:31:22,720 --> 00:31:24,140
-my office staff if we get enough
-
-979
-00:31:24,140 --> 00:31:25,860
-calls for teeth work I'm gonna hire
-
-980
-00:31:25,860 --> 00:31:26,690
-a dentist right?
-
-981
-00:31:27,070 --> 00:31:29,330
-So what are you saying no to
-
-982
-00:31:29,330 --> 00:31:32,270
-that you could either add on or
-
-983
-00:31:32,270 --> 00:31:33,160
-sub out?
-
-984
-00:31:33,570 --> 00:31:35,430
-I have a lot of partnerships where
-
-985
-00:31:35,430 --> 00:31:37,570
-we sell it and we take a
-
-986
-00:31:37,570 --> 00:31:38,920
-percentage right?
-
-987
-00:31:39,250 --> 00:31:41,100
-So bathroom solutions
-
-988
-00:31:41,190 --> 00:31:42,850
-like if somebody wants a bathroom
-
-989
-00:31:42,850 --> 00:31:44,180
-remodel right?
-
-990
-00:31:44,210 --> 00:31:45,410
-We'll do the plumbing part
-
-991
-00:31:45,410 --> 00:31:46,870
-I get a contractor to do the
-
-992
-00:31:46,870 --> 00:31:47,840
-contracting work
-
-993
-00:31:48,190 --> 00:31:50,250
-I just take 40 % off the
-
-994
-00:31:50,250 --> 00:31:50,680
-top
-
-995
-00:31:51,050 --> 00:31:52,490
-Why wouldn't he be good with that?
-
-996
-00:31:52,490 --> 00:31:54,800
-Cost of acquisitions for his customer
-
-997
-00:31:54,930 --> 00:31:57,100
-and I'm just filling his board
-
-998
-00:31:57,130 --> 00:31:59,350
-And so it's a win -win for
-
-999
-00:31:59,350 --> 00:31:59,920
-everybody
-
-1000
-00:31:59,930 --> 00:32:00,220
-Yeah
-
-1001
-00:32:00,770 --> 00:32:01,460
-that's great
-
-1002
-00:32:01,730 --> 00:32:05,110
-So what's next on the board for
-
-1003
-00:32:05,110 --> 00:32:06,000
-JT Services?
-
-1004
-00:32:06,845 --> 00:32:09,295
-I don't know the answer to that
-
-1005
-00:32:09,405 --> 00:32:11,465
-My office would like to see maybe
-
-1006
-00:32:11,465 --> 00:32:15,015
-garage door repairs or extermination
-
-1007
-00:32:15,285 --> 00:32:15,995
-Okay
-
-1008
-00:32:16,665 --> 00:32:19,465
-But we just really launched
-
-1009
-00:32:19,465 --> 00:32:21,385
-electrical so it's too soon to tell
-
-1010
-00:32:21,385 --> 00:32:23,745
-But I won't say no to a
-
-1011
-00:32:23,745 --> 00:32:24,885
-bunch of check marks if there's
-
-1012
-00:32:24,885 --> 00:32:25,695
-nothing to be made
-
-1013
-00:32:25,865 --> 00:32:26,195
-Yeah
-
-1014
-00:32:26,505 --> 00:32:28,375
-So how do you feel like
-
-1015
-00:32:28,665 --> 00:32:29,635
-numbers -wise
-
-1016
-00:32:30,125 --> 00:32:32,825
-not feel how has adding different
-
-1017
-00:32:32,825 --> 00:32:34,835
-service lines changed your business?
-
-1018
-00:32:34,845 --> 00:32:36,325
-Like where would your business be at
-
-1019
-00:32:36,325 --> 00:32:38,285
-today if you hadn't added those extra
-
-1020
-00:32:38,285 --> 00:32:39,015
-service lines?
-
-1021
-00:32:39,455 --> 00:32:42,515
-I wouldn't say that it would have
-
-1022
-00:32:42,515 --> 00:32:44,165
-capped out
-
-1023
-00:32:44,775 --> 00:32:46,495
-I think that's a mindset that you
-
-1024
-00:32:46,495 --> 00:32:47,365
-shouldn't have
-
-1025
-00:32:48,020 --> 00:32:48,610
-Because
-
-1026
-00:32:49,450 --> 00:32:51,750
-again go back to the statistics if
-
-1027
-00:32:51,750 --> 00:32:52,790
-you go to the people that you
-
-1028
-00:32:52,790 --> 00:32:54,430
-serve versus the people that you have
-
-1029
-00:32:54,430 --> 00:32:56,470
-in your community like with AI today
-
-1030
-00:32:56,470 --> 00:32:57,870
-you can figure this out really quickly
-
-1031
-00:32:57,870 --> 00:32:59,730
-like you can type in a county
-
-1032
-00:32:59,730 --> 00:33:02,470
-how many houses are residential non
-
-1033
-00:33:02,470 --> 00:33:04,270
--rentals that are on septic systems
-
-1034
-00:33:04,270 --> 00:33:05,870
-and then you go to your database
-
-1035
-00:33:05,870 --> 00:33:07,270
-and see how many are served and
-
-1036
-00:33:07,270 --> 00:33:09,450
-so you know if you have a
-
-1037
-00:33:09,450 --> 00:33:12,310
-15 or more market share you're doing
-
-1038
-00:33:12,310 --> 00:33:14,330
-pretty good yeah but that's still 15
-
-1039
-00:33:14,330 --> 00:33:16,250
-to 20 percent so there's 80 %
-
-1040
-00:33:16,250 --> 00:33:17,300
-that can still be gone
-
-1041
-00:33:17,370 --> 00:33:17,640
+00:27:21,860 --> 00:27:22,140
 right?
 
+858
+00:27:22,140 --> 00:27:22,450
+Yeah
+
+859
+00:27:22,620 --> 00:27:25,460
+But HVAC is truly its own breed
+
+860
+00:27:25,460 --> 00:27:26,870
+of thought process
+
+861
+00:27:27,040 --> 00:27:28,690
+And so it just
+
+862
+00:27:29,300 --> 00:27:32,420
+knowing I don't come from the HVAC
+
+863
+00:27:32,420 --> 00:27:32,890
+world
+
+864
+00:27:33,140 --> 00:27:35,260
+Luckily I hired into it
+
+865
+00:27:35,260 --> 00:27:37,760
+Like I hired somebody that knew one
+
+866
+00:27:37,760 --> 00:27:39,820
+of my managers come from the HVAC
+
+867
+00:27:39,820 --> 00:27:40,080
+world
+
+868
+00:27:40,080 --> 00:27:41,320
+So we had a little bit of
+
+869
+00:27:41,320 --> 00:27:42,090
+a jump start
+
+870
+00:27:42,820 --> 00:27:43,950
+But you know
+
+871
+00:27:44,340 --> 00:27:46,180
+typically a plumbing call turns into a
+
+872
+00:27:46,180 --> 00:27:46,650
+repair
+
+873
+00:27:46,800 --> 00:27:49,420
+Well a lot of times an HVAC
+
+874
+00:27:49,420 --> 00:27:51,670
+call turns into a replacement
+
+875
+00:27:51,820 --> 00:27:52,020
+Yeah
+
+876
+00:27:51,960 --> 00:27:53,760
+And so it was like a whole
+
+877
+00:27:53,760 --> 00:27:56,320
+different things of price book stuff
+
+878
+00:27:56,320 --> 00:27:57,400
+that we got to build out you
+
+879
+00:27:57,400 --> 00:27:58,440
+got to have your service you got
+
+880
+00:27:58,440 --> 00:28:00,740
+to have your replacements you know
+
+881
+00:28:00,740 --> 00:28:02,860
+warranties are a lot different on HVAC
+
+882
+00:28:02,860 --> 00:28:05,580
+systems versus so you know to do
+
+883
+00:28:05,580 --> 00:28:07,420
+a hot water tank you know you're
+
+884
+00:28:07,420 --> 00:28:09,660
+kind of in the hot water area
+
+885
+00:28:09,660 --> 00:28:11,460
+but to do an HVAC system like
+
+886
+00:28:11,460 --> 00:28:13,770
+you know it almost looks like a
+
+887
+00:28:13,770 --> 00:28:15,590
+murder scene right because you got all
+
+888
+00:28:15,590 --> 00:28:18,430
+these plastic things hanging keeping
+
+889
+00:28:18,430 --> 00:28:20,790
+the dust control and everything so
+
+890
+00:28:20,790 --> 00:28:23,430
+it's just again something you got to
+
+891
+00:28:23,430 --> 00:28:27,090
+learn and so I would wish I
+
+892
+00:28:27,090 --> 00:28:28,450
+had done a little bit more homework
+
+893
+00:28:28,450 --> 00:28:30,270
+than thinking that oh I did plumbing
+
+894
+00:28:30,270 --> 00:28:31,290
+so now I can just throw it
+
+895
+00:28:31,290 --> 00:28:33,790
+in an x -pack right and so
+
+896
+00:28:33,790 --> 00:28:36,210
+then it then it electrical is kind
+
+897
+00:28:36,210 --> 00:28:36,520
+of
+
+898
+00:28:36,985 --> 00:28:40,905
+more you know adaptive to plumbing and
+
+899
+00:28:40,905 --> 00:28:43,265
+I actually wanted to start with
+
+900
+00:28:43,265 --> 00:28:47,465
+electrical not plumbing okay but I did
+
+901
+00:28:47,465 --> 00:28:49,465
+some research had some conversations
+
+902
+00:28:49,465 --> 00:28:52,705
+and there's a lot of companies that
+
+903
+00:28:52,705 --> 00:28:55,355
+are just electrical companies but when
+
+904
+00:28:55,695 --> 00:28:57,825
+you look at whole home service
+
+905
+00:28:57,825 --> 00:29:01,245
+typically the margins are the lowest
+
+906
+00:29:01,245 --> 00:29:03,585
+in electrical interesting and the
+
+907
+00:29:03,585 --> 00:29:05,305
+repeat business I mean think about it
+
+908
+00:29:05,305 --> 00:29:06,565
+when was the last time you had
+
+909
+00:29:06,565 --> 00:29:08,425
+a receptacle or light switch replaced
+
+910
+00:29:08,425 --> 00:29:10,005
+by an electrician in your home right
+
+911
+00:29:10,005 --> 00:29:13,235
+very uncommon right and So
+
+912
+00:29:13,325 --> 00:29:17,165
+I had to learn more and then
+
+913
+00:29:17,165 --> 00:29:18,885
+realize electrical probably needs to
+
+914
+00:29:18,885 --> 00:29:19,595
+come last
+
+915
+00:29:19,765 --> 00:29:22,065
+I mean it's something that we need
+
+916
+00:29:22,065 --> 00:29:23,725
+to have because at some point when
+
+917
+00:29:23,725 --> 00:29:26,425
+you're doing generators and new HVAC
+
+918
+00:29:26,425 --> 00:29:28,225
+systems you got to have an
+
+919
+00:29:28,225 --> 00:29:29,135
+electrician
+
+920
+00:29:29,245 --> 00:29:32,615
+And so but it just kind of
+
+921
+00:29:32,785 --> 00:29:35,075
+made the circle complete
+
+922
+00:29:35,085 --> 00:29:35,365
+Yeah
+
+923
+00:29:35,365 --> 00:29:36,765
+Whereas if I had started with there
+
+924
+00:29:36,765 --> 00:29:37,565
+I don't know that I could have
+
+925
+00:29:37,565 --> 00:29:39,185
+got the circle as fast as I
+
+926
+00:29:39,185 --> 00:29:39,555
+did
+
+927
+00:29:39,705 --> 00:29:41,715
+That's a really good lesson
+
+928
+00:29:41,785 --> 00:29:41,985
+Yeah
+
+929
+00:29:41,905 --> 00:29:43,085
+I mean that's like a
+
+930
+00:29:43,085 --> 00:29:46,205
+that's a multi -million dollar piece
+
+931
+00:29:46,205 --> 00:29:48,175
+of advice for anyone listening
+
+932
+00:29:48,425 --> 00:29:49,675
+you know that one little nugget
+
+933
+00:29:49,865 --> 00:29:52,185
+So I was able to come visit
+
+934
+00:29:52,185 --> 00:29:54,065
+your facilities and in your call
+
+935
+00:29:54,065 --> 00:29:55,825
+center you have this board up
+
+936
+00:29:55,825 --> 00:29:58,545
+and it's every time somebody asks for
+
+937
+00:29:58,545 --> 00:30:00,095
+a service that you don't offer
+
+938
+00:30:00,145 --> 00:30:01,475
+you put a checkmark it
+
+939
+00:30:01,545 --> 00:30:03,285
+Your call center puts a checkmark next
+
+940
+00:30:03,285 --> 00:30:03,545
+to it
+
+941
+00:30:03,545 --> 00:30:06,205
+So you're watching constantly what's
+
+942
+00:30:06,205 --> 00:30:08,285
+happening in home services in your
+
+943
+00:30:08,285 --> 00:30:08,605
+area
+
+944
+00:30:08,605 --> 00:30:11,965
+So is there is there something next
+
+945
+00:30:11,965 --> 00:30:14,725
+for JT services do you feel like
+
+946
+00:30:14,725 --> 00:30:17,265
+kind of going off of what people
+
+947
+00:30:17,265 --> 00:30:19,745
+asked you was the right strategy there
+
+948
+00:30:19,745 --> 00:30:21,665
+let me tell you the why behind
+
+949
+00:30:21,665 --> 00:30:23,025
+that board and then it made me
+
+950
+00:30:23,025 --> 00:30:25,005
+make sense again school of hard knocks
+
+951
+00:30:25,005 --> 00:30:26,445
+right you got to learn you don't
+
+952
+00:30:26,445 --> 00:30:27,325
+know what you don't know and you
+
+953
+00:30:27,325 --> 00:30:30,165
+got to learn lessons so my business
+
+954
+00:30:30,165 --> 00:30:33,085
+coach had a home service company and
+
+955
+00:30:33,085 --> 00:30:35,965
+he started this because he started
+
+956
+00:30:35,965 --> 00:30:37,405
+wondering when he heard people tell
+
+957
+00:30:37,405 --> 00:30:39,905
+him no tell their customers know what
+
+958
+00:30:39,905 --> 00:30:42,225
+all they were saying no to and
+
+959
+00:30:42,225 --> 00:30:44,225
+so the story is about oil heaters
+
+960
+00:30:44,225 --> 00:30:47,125
+in the northeast and so they didn't
+
+961
+00:30:47,125 --> 00:30:49,995
+do oil and all of a sudden
+
+962
+00:30:49,995 --> 00:30:52,135
+he's got all these check marks and
+
+963
+00:30:52,135 --> 00:30:55,455
+so he goes in and asks his
+
+964
+00:30:55,455 --> 00:30:56,895
+HVAC guys who knows how to do
+
+965
+00:30:56,895 --> 00:30:59,335
+oil and so like three people put
+
+966
+00:30:59,335 --> 00:31:02,055
+their hand up well then he's like
+
+967
+00:31:02,055 --> 00:31:04,195
+come talk to me okay out of
+
+968
+00:31:04,195 --> 00:31:05,635
+you three who love it well then
+
+969
+00:31:05,635 --> 00:31:07,155
+there was two you know he's like
+
+970
+00:31:07,155 --> 00:31:08,275
+what do we need to do oil
+
+971
+00:31:08,275 --> 00:31:10,875
+what what's the margins like how do
+
+972
+00:31:10,875 --> 00:31:13,015
+you price it like and these guys
+
+973
+00:31:13,015 --> 00:31:14,275
+don't worry about it we'll make we'll
+
+974
+00:31:14,275 --> 00:31:16,075
+make the money right and he did
+
+975
+00:31:16,075 --> 00:31:18,555
+like over two million dollars in oil
+
+976
+00:31:18,555 --> 00:31:20,355
+heating repair and replacements the
+
+977
+00:31:20,355 --> 00:31:23,495
+first year right so how much money
+
+978
+00:31:23,495 --> 00:31:25,415
+are you saying no to I tell
+
+979
+00:31:25,415 --> 00:31:26,835
+my office staff if we get enough
+
+980
+00:31:26,835 --> 00:31:28,555
+calls for teeth work I'm gonna hire
+
+981
+00:31:28,555 --> 00:31:29,385
+a dentist right?
+
+982
+00:31:29,765 --> 00:31:32,025
+So what are you saying no to
+
+983
+00:31:32,025 --> 00:31:34,965
+that you could either add on or
+
+984
+00:31:34,965 --> 00:31:35,855
+sub out?
+
+985
+00:31:36,265 --> 00:31:38,125
+I have a lot of partnerships where
+
+986
+00:31:38,125 --> 00:31:40,265
+we sell it and we take a
+
+987
+00:31:40,265 --> 00:31:41,615
+percentage right?
+
+988
+00:31:41,945 --> 00:31:43,795
+So bathroom solutions
+
+989
+00:31:43,885 --> 00:31:45,545
+like if somebody wants a bathroom
+
+990
+00:31:45,545 --> 00:31:46,875
+remodel right?
+
+991
+00:31:46,905 --> 00:31:48,105
+We'll do the plumbing part
+
+992
+00:31:48,105 --> 00:31:49,565
+I get a contractor to do the
+
+993
+00:31:49,565 --> 00:31:50,535
+contracting work
+
+994
+00:31:50,885 --> 00:31:52,945
+I just take 40 % off the
+
+995
+00:31:52,945 --> 00:31:53,375
+top
+
+996
+00:31:53,745 --> 00:31:55,185
+Why wouldn't he be good with that?
+
+997
+00:31:55,185 --> 00:31:57,495
+Cost of acquisitions for his customer
+
+998
+00:31:57,625 --> 00:31:59,795
+and I'm just filling his board
+
+999
+00:31:59,825 --> 00:32:02,045
+And so it's a win -win for
+
+1000
+00:32:02,045 --> 00:32:02,615
+everybody
+
+1001
+00:32:02,625 --> 00:32:02,915
+Yeah
+
+1002
+00:32:03,465 --> 00:32:04,155
+that's great
+
+1003
+00:32:04,425 --> 00:32:07,805
+So what's next on the board for
+
+1004
+00:32:07,805 --> 00:32:08,695
+JT Services?
+
+1005
+00:32:09,540 --> 00:32:11,990
+I don't know the answer to that
+
+1006
+00:32:12,100 --> 00:32:14,160
+My office would like to see maybe
+
+1007
+00:32:14,160 --> 00:32:17,710
+garage door repairs or extermination
+
+1008
+00:32:17,980 --> 00:32:18,690
+Okay
+
+1009
+00:32:19,360 --> 00:32:22,160
+But we just really launched
+
+1010
+00:32:22,160 --> 00:32:24,080
+electrical so it's too soon to tell
+
+1011
+00:32:24,080 --> 00:32:26,440
+But I won't say no to a
+
+1012
+00:32:26,440 --> 00:32:27,580
+bunch of check marks if there's
+
+1013
+00:32:27,580 --> 00:32:28,390
+nothing to be made
+
+1014
+00:32:28,560 --> 00:32:28,890
+Yeah
+
+1015
+00:32:29,200 --> 00:32:31,070
+So how do you feel like
+
+1016
+00:32:31,360 --> 00:32:32,330
+numbers -wise
+
+1017
+00:32:32,820 --> 00:32:35,520
+not feel how has adding different
+
+1018
+00:32:35,520 --> 00:32:37,530
+service lines changed your business?
+
+1019
+00:32:37,540 --> 00:32:39,020
+Like where would your business be at
+
+1020
+00:32:39,020 --> 00:32:40,980
+today if you hadn't added those extra
+
+1021
+00:32:40,980 --> 00:32:41,710
+service lines?
+
+1022
+00:32:42,150 --> 00:32:45,210
+I wouldn't say that it would have
+
+1023
+00:32:45,210 --> 00:32:46,860
+capped out
+
+1024
+00:32:47,470 --> 00:32:49,190
+I think that's a mindset that you
+
+1025
+00:32:49,190 --> 00:32:50,060
+shouldn't have
+
+1026
+00:32:50,715 --> 00:32:51,305
+Because
+
+1027
+00:32:52,145 --> 00:32:54,445
+again go back to the statistics if
+
+1028
+00:32:54,445 --> 00:32:55,485
+you go to the people that you
+
+1029
+00:32:55,485 --> 00:32:57,125
+serve versus the people that you have
+
+1030
+00:32:57,125 --> 00:32:59,165
+in your community like with AI today
+
+1031
+00:32:59,165 --> 00:33:00,565
+you can figure this out really quickly
+
+1032
+00:33:00,565 --> 00:33:02,425
+like you can type in a county
+
+1033
+00:33:02,425 --> 00:33:05,165
+how many houses are residential non
+
+1034
+00:33:05,165 --> 00:33:06,965
+-rentals that are on septic systems
+
+1035
+00:33:06,965 --> 00:33:08,565
+and then you go to your database
+
+1036
+00:33:08,565 --> 00:33:09,965
+and see how many are served and
+
+1037
+00:33:09,965 --> 00:33:12,145
+so you know if you have a
+
+1038
+00:33:12,145 --> 00:33:15,005
+15 or more market share you're doing
+
+1039
+00:33:15,005 --> 00:33:17,025
+pretty good yeah but that's still 15
+
+1040
+00:33:17,025 --> 00:33:18,945
+to 20 percent so there's 80 %
+
+1041
+00:33:18,945 --> 00:33:19,995
+that can still be gone
+
 1042
-00:33:17,755 --> 00:33:21,055
-And so I think that adding lines
+00:33:20,065 --> 00:33:20,335
+right?
 
 1043
-00:33:21,055 --> 00:33:24,335
-gets you so our painted vision is
+00:33:20,450 --> 00:33:23,750
+And so I think that adding lines
 
 1044
-00:33:24,335 --> 00:33:28,075
-16 million or more by 2030 or
+00:33:23,750 --> 00:33:27,030
+gets you so our painted vision is
 
 1045
-00:33:28,075 --> 00:33:30,655
-sooner with a 20 % EBITDA
+00:33:27,030 --> 00:33:30,770
+16 million or more by 2030 or
 
 1046
-00:33:30,655 --> 00:33:32,755
-which is profit margin for the people
+00:33:30,770 --> 00:33:33,350
+sooner with a 20 % EBITDA
 
 1047
-00:33:32,755 --> 00:33:34,085
-that don't know what EBITDA is
+00:33:33,350 --> 00:33:35,450
+which is profit margin for the people
 
 1048
-00:33:34,280 --> 00:33:37,530
-And I think we will get there
+00:33:35,450 --> 00:33:36,780
+that don't know what EBITDA is
 
 1049
-00:33:37,530 --> 00:33:38,310
-a lot sooner
+00:33:36,975 --> 00:33:40,225
+And I think we will get there
 
 1050
-00:33:38,310 --> 00:33:40,210
-a lot faster with multi -trades than
+00:33:40,225 --> 00:33:41,005
+a lot sooner
 
 1051
-00:33:40,210 --> 00:33:42,050
-just doing it organically with septic
+00:33:41,005 --> 00:33:42,905
+a lot faster with multi -trades than
 
 1052
-00:33:42,050 --> 00:33:44,230
-only but you got you got to
+00:33:42,905 --> 00:33:44,745
+just doing it organically with septic
 
 1053
-00:33:44,230 --> 00:33:46,870
-be willing to do it right yeah
+00:33:44,745 --> 00:33:46,925
+only but you got you got to
 
 1054
-00:33:46,870 --> 00:33:50,470
-do you feel like adding service lines
+00:33:46,925 --> 00:33:49,565
+be willing to do it right yeah
 
 1055
-00:33:50,470 --> 00:33:52,950
-has taken away anything from the
+00:33:49,565 --> 00:33:53,165
+do you feel like adding service lines
 
 1056
-00:33:52,950 --> 00:33:54,370
-septic business or do you feel like
+00:33:53,165 --> 00:33:55,645
+has taken away anything from the
 
 1057
-00:33:54,370 --> 00:33:57,650
-they're feeding each other so we like
+00:33:55,645 --> 00:33:57,065
+septic business or do you feel like
 
 1058
-00:33:57,650 --> 00:33:59,170
-to try to create what we call
+00:33:57,065 --> 00:34:00,345
+they're feeding each other so we like
 
 1059
-00:33:59,170 --> 00:34:02,870
-master experts and so our septic guy
+00:34:00,345 --> 00:34:01,865
+to try to create what we call
 
 1060
-00:34:02,870 --> 00:34:04,690
-can do a plumbing inspection our
+00:34:01,865 --> 00:34:05,565
+master experts and so our septic guy
 
 1061
-00:34:04,690 --> 00:34:06,360
-plumbing guy our septic pumper
+00:34:05,565 --> 00:34:07,385
+can do a plumbing inspection our
 
 1062
-00:34:07,190 --> 00:34:09,590
-I don't hire people that can pump
+00:34:07,385 --> 00:34:09,055
+plumbing guy our septic pumper
 
 1063
-00:34:09,590 --> 00:34:10,460
-a septic tank
+00:34:09,885 --> 00:34:12,285
+I don't hire people that can pump
 
 1064
-00:34:10,990 --> 00:34:12,140
-With technology today
+00:34:12,285 --> 00:34:13,155
+a septic tank
 
 1065
-00:34:12,390 --> 00:34:15,450
-any CDL person can pump a septic
+00:34:13,685 --> 00:34:14,835
+With technology today
 
 1066
-00:34:15,450 --> 00:34:15,740
-tank
+00:34:15,085 --> 00:34:18,145
+any CDL person can pump a septic
 
 1067
-00:34:16,270 --> 00:34:19,710
-I'm hiring somebody that can go and
+00:34:18,145 --> 00:34:18,435
+tank
 
 1068
-00:34:19,710 --> 00:34:21,350
-do a heating and cooling checkup
+00:34:18,965 --> 00:34:22,405
+I'm hiring somebody that can go and
 
 1069
-00:34:21,350 --> 00:34:23,990
-a 21 -point plumbing inspection while
+00:34:22,405 --> 00:34:24,045
+do a heating and cooling checkup
 
 1070
-00:34:23,990 --> 00:34:25,290
-they're pumping the tank
+00:34:24,045 --> 00:34:26,685
+a 21 -point plumbing inspection while
 
 1071
-00:34:25,290 --> 00:34:25,640
-Wow
+00:34:26,685 --> 00:34:27,985
+they're pumping the tank
 
 1072
-00:34:25,810 --> 00:34:27,490
-And so when you have cross -divisional
+00:34:27,985 --> 00:34:28,335
+Wow
 
 1073
-00:34:27,490 --> 00:34:31,490
-leads and experts that can do and
+00:34:28,505 --> 00:34:30,185
+And so when you have cross -divisional
 
 1074
-00:34:31,490 --> 00:34:32,330
-look at all those things
+00:34:30,185 --> 00:34:34,185
+leads and experts that can do and
 
 1075
-00:34:32,330 --> 00:34:33,470
-they may not be the ones doing
+00:34:34,185 --> 00:34:35,025
+look at all those things
 
 1076
-00:34:33,470 --> 00:34:35,590
-the work but they have enough training
+00:34:35,025 --> 00:34:36,165
+they may not be the ones doing
 
 1077
-00:34:35,590 --> 00:34:37,910
-to know when something needs to be
+00:34:36,165 --> 00:34:38,285
+the work but they have enough training
 
 1078
-00:34:37,910 --> 00:34:39,710
-looked at by you know an expert
+00:34:38,285 --> 00:34:40,605
+to know when something needs to be
 
 1079
-00:34:39,710 --> 00:34:43,430
-right and so I think it's full
+00:34:40,605 --> 00:34:42,405
+looked at by you know an expert
 
 1080
-00:34:43,430 --> 00:34:46,690
-circle so you know if you're at
+00:34:42,405 --> 00:34:46,125
+right and so I think it's full
 
 1081
-00:34:46,690 --> 00:34:48,180
-somebody's house for a septic
+00:34:46,125 --> 00:34:49,385
+circle so you know if you're at
 
 1082
-00:34:48,870 --> 00:34:51,090
-they got a heating and cooling system
+00:34:49,385 --> 00:34:50,875
+somebody's house for a septic
 
 1083
-00:34:51,090 --> 00:34:53,030
-they got a plumbing system they got
+00:34:51,565 --> 00:34:53,785
+they got a heating and cooling system
 
 1084
-00:34:53,030 --> 00:34:55,510
-an electrical system yeah why are you
+00:34:53,785 --> 00:34:55,725
+they got a plumbing system they got
 
 1085
-00:34:55,510 --> 00:34:58,130
-not inspecting it yeah so it's kind
+00:34:55,725 --> 00:34:58,205
+an electrical system yeah why are you
 
 1086
-00:34:58,130 --> 00:35:00,620
-of full circle So the other side
+00:34:58,205 --> 00:35:00,825
+not inspecting it yeah so it's kind
 
 1087
-00:35:00,620 --> 00:35:02,540
-of that is sometimes you get so
+00:35:00,825 --> 00:35:03,315
+of full circle So the other side
 
 1088
-00:35:02,540 --> 00:35:04,280
-focused on trying to build these
+00:35:03,315 --> 00:35:05,235
+of that is sometimes you get so
 
 1089
-00:35:04,280 --> 00:35:04,890
-divisions
+00:35:05,235 --> 00:35:06,975
+focused on trying to build these
 
 1090
-00:35:05,500 --> 00:35:08,310
-My wife often says
+00:35:06,975 --> 00:35:07,585
+divisions
 
 1091
-00:35:08,360 --> 00:35:10,180
-don't forget our bread and butter is
+00:35:08,195 --> 00:35:11,005
+My wife often says
 
 1092
-00:35:10,180 --> 00:35:10,590
-septic
+00:35:11,055 --> 00:35:12,875
+don't forget our bread and butter is
 
 1093
-00:35:11,420 --> 00:35:14,200
-And so you can't take away the
+00:35:12,875 --> 00:35:13,285
+septic
 
 1094
-00:35:14,200 --> 00:35:16,380
-focus from what's – even if you've
+00:35:14,115 --> 00:35:16,895
+And so you can't take away the
 
 1095
-00:35:16,380 --> 00:35:17,960
-mastered it you've still got to pay
+00:35:16,895 --> 00:35:19,075
+focus from what's – even if you've
 
 1096
-00:35:17,960 --> 00:35:18,660
-attention to it
+00:35:19,075 --> 00:35:20,655
+mastered it you've still got to pay
 
 1097
-00:35:18,660 --> 00:35:20,920
-Yeah what's paying the bills is
+00:35:20,655 --> 00:35:21,355
+attention to it
 
 1098
-00:35:20,920 --> 00:35:21,730
-really important
+00:35:21,355 --> 00:35:23,615
+Yeah what's paying the bills is
 
 1099
-00:35:22,020 --> 00:35:24,180
-It all comes back to numbers
+00:35:23,615 --> 00:35:24,425
+really important
 
 1100
-00:35:24,180 --> 00:35:25,940
-So many people in business don't know
+00:35:24,715 --> 00:35:26,875
+It all comes back to numbers
 
 1101
-00:35:25,940 --> 00:35:26,420
-their numbers
+00:35:26,875 --> 00:35:28,635
+So many people in business don't know
 
 1102
-00:35:26,420 --> 00:35:28,540
-Yeah I mean somebody came to me
+00:35:28,635 --> 00:35:29,115
+their numbers
 
 1103
-00:35:28,540 --> 00:35:30,000
-yesterday and wanted to talk about
+00:35:29,115 --> 00:35:31,235
+Yeah I mean somebody came to me
 
 1104
-00:35:30,000 --> 00:35:32,100
-their business and their growth and I
+00:35:31,235 --> 00:35:32,695
+yesterday and wanted to talk about
 
 1105
-00:35:32,100 --> 00:35:34,340
-said what's your revenue this year and
+00:35:32,695 --> 00:35:34,795
+their business and their growth and I
 
 1106
-00:35:34,340 --> 00:35:36,270
-they're like what's
+00:35:34,795 --> 00:35:37,035
+said what's your revenue this year and
 
 1107
-00:35:36,820 --> 00:35:39,580
-your revenue last year yeah what's
+00:35:37,035 --> 00:35:38,965
+they're like what's
 
 1108
-00:35:39,580 --> 00:35:41,800
-your what's your even what's that like
+00:35:39,515 --> 00:35:42,275
+your revenue last year yeah what's
 
 1109
-00:35:41,800 --> 00:35:43,030
-if
+00:35:42,275 --> 00:35:44,495
+your what's your even what's that like
 
 1110
-00:35:43,780 --> 00:35:46,320
-you don't know your numbers every day
+00:35:44,495 --> 00:35:45,725
+if
 
 1111
-00:35:46,320 --> 00:35:48,620
-and we haven't mastered this but we
+00:35:46,475 --> 00:35:49,015
+you don't know your numbers every day
 
 1112
-00:35:48,620 --> 00:35:50,240
-were way better and more advanced than
+00:35:49,015 --> 00:35:51,315
+and we haven't mastered this but we
 
 1113
-00:35:50,240 --> 00:35:52,490
-what we were right you
+00:35:51,315 --> 00:35:52,935
+were way better and more advanced than
 
 1114
-00:35:53,330 --> 00:35:54,270
-got to know what your break -even
+00:35:52,935 --> 00:35:55,185
+what we were right you
 
 1115
-00:35:54,270 --> 00:35:55,830
-number is you have to know what
+00:35:56,025 --> 00:35:56,965
+got to know what your break -even
 
 1116
-00:35:55,830 --> 00:35:56,990
-you have to do every day to
+00:35:56,965 --> 00:35:58,525
+number is you have to know what
 
 1117
-00:35:56,990 --> 00:35:59,190
-break even yeah and when you know
+00:35:58,525 --> 00:35:59,685
+you have to do every day to
 
 1118
-00:35:59,190 --> 00:36:02,870
-that number it changes the game well
+00:35:59,685 --> 00:36:01,885
+break even yeah and when you know
 
 1119
-00:36:02,870 --> 00:36:04,230
-we'll do a deep dive on that
+00:36:01,885 --> 00:36:05,565
+that number it changes the game well
 
 1120
-00:36:04,230 --> 00:36:05,850
-for our second session because it
+00:36:05,565 --> 00:36:06,925
+we'll do a deep dive on that
 
 1121
-00:36:05,850 --> 00:36:07,850
-needs more than just a paragraph from
+00:36:06,925 --> 00:36:08,545
+for our second session because it
 
 1122
-00:36:07,850 --> 00:36:09,090
-you because it's such a big deal
+00:36:08,545 --> 00:36:10,545
+needs more than just a paragraph from
 
 1123
-00:36:09,090 --> 00:36:11,210
-to know your numbers so as we
+00:36:10,545 --> 00:36:11,785
+you because it's such a big deal
 
 1124
-00:36:11,210 --> 00:36:13,390
-close this up any parting words of
+00:36:11,785 --> 00:36:13,905
+to know your numbers so as we
 
 1125
-00:36:13,390 --> 00:36:14,810
-wisdom for anyone that's thinking
+00:36:13,905 --> 00:36:16,085
+close this up any parting words of
 
 1126
-00:36:14,810 --> 00:36:16,710
-about adding another service line like
+00:36:16,085 --> 00:36:17,505
+wisdom for anyone that's thinking
 
 1127
-00:36:16,710 --> 00:36:17,970
-if you could go back to Jason
+00:36:17,505 --> 00:36:19,405
+about adding another service line like
 
 1128
-00:36:17,970 --> 00:36:20,170
-I guess it would be is it
+00:36:19,405 --> 00:36:20,665
+if you could go back to Jason
 
 1129
-00:36:20,170 --> 00:36:22,510
-six years ago five years ago that
+00:36:20,665 --> 00:36:22,865
+I guess it would be is it
 
 1130
-00:36:22,510 --> 00:36:24,470
-you first added the plumbing what
+00:36:22,865 --> 00:36:25,205
+six years ago five years ago that
 
 1131
-00:36:24,470 --> 00:36:25,770
-would you go back and tell yourself
+00:36:25,205 --> 00:36:27,165
+you first added the plumbing what
 
 1132
-00:36:25,770 --> 00:36:27,010
-if you if you could just time
+00:36:27,165 --> 00:36:28,465
+would you go back and tell yourself
 
 1133
-00:36:27,010 --> 00:36:28,430
-travel and tell yourself something
+00:36:28,465 --> 00:36:29,705
+if you if you could just time
 
 1134
-00:36:28,430 --> 00:36:33,590
-invest in yourself sooner because the
+00:36:29,705 --> 00:36:31,125
+travel and tell yourself something
 
 1135
-00:36:33,590 --> 00:36:35,150
-wheels already been invented you don't
+00:36:31,125 --> 00:36:36,285
+invest in yourself sooner because the
 
 1136
-00:36:35,150 --> 00:36:36,350
-have to figure it out on your
+00:36:36,285 --> 00:36:37,845
+wheels already been invented you don't
 
 1137
-00:36:36,350 --> 00:36:38,670
-own that's great yeah invest in
+00:36:37,845 --> 00:36:39,045
+have to figure it out on your
 
 1138
-00:36:38,670 --> 00:36:40,855
-yourself that's my that's my platform
+00:36:39,045 --> 00:36:41,365
+own that's great yeah invest in
 
 1139
-00:36:40,855 --> 00:36:44,655
-because anybody that is willing to
+00:36:41,365 --> 00:36:43,550
+yourself that's my that's my platform
 
 1140
-00:36:44,655 --> 00:36:46,935
-level up willing to invest in
+00:36:43,550 --> 00:36:47,350
+because anybody that is willing to
 
 1141
-00:36:46,935 --> 00:36:49,505
-themselves first everything will
+00:36:47,350 --> 00:36:49,630
+level up willing to invest in
 
 1142
-00:36:49,505 --> 00:36:52,805
-follow behind it yeah absolutely well
+00:36:49,630 --> 00:36:52,200
+themselves first everything will
 
 1143
-00:36:52,805 --> 00:36:54,115
+00:36:52,200 --> 00:36:55,500
+follow behind it yeah absolutely well
+
+1144
+00:36:55,500 --> 00:36:56,810
 thank you Jason I appreciate it

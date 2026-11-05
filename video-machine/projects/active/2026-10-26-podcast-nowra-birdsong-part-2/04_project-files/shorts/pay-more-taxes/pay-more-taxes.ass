@@ -1,0 +1,112 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:32.03,Title,,0,0,0,,{\pos(540,480)}Why I want to pay\N{\c&H0060ECCD}more{\c&H00FFFFFF&} taxes
+Dialogue: 1,0:00:00.00,0:00:00.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} will tell you
+Dialogue: 1,0:00:00.13,0:00:00.31,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}will{\c&H00FFFFFF&} tell you
+Dialogue: 1,0:00:00.31,0:00:00.51,Cap,,0,0,0,,{\pos(540,1400)}I will {\c&H0060ECCD}tell{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:00.51,0:00:00.87,Cap,,0,0,0,,{\pos(540,1400)}I will tell {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.89,0:00:01.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} you scale and
+Dialogue: 1,0:00:01.05,0:00:01.21,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}you{\c&H00FFFFFF&} scale and
+Dialogue: 1,0:00:01.21,0:00:01.69,Cap,,0,0,0,,{\pos(540,1400)}as you {\c&H0060ECCD}scale{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:01.69,0:00:01.99,Cap,,0,0,0,,{\pos(540,1400)}as you scale {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.99,0:00:02.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} become a
+Dialogue: 1,0:00:02.11,0:00:02.41,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}become{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:02.41,0:00:02.59,Cap,,0,0,0,,{\pos(540,1400)}you become {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.59,0:00:02.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}three{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.01,0:00:03.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}five{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.39,0:00:03.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}$6{\c&H00FFFFFF&} million
+Dialogue: 1,0:00:03.53,0:00:03.79,Cap,,0,0,0,,{\pos(540,1400)}$6 {\c&H0060ECCD}million{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.79,0:00:04.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}company{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.65,0:00:05.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} is where a
+Dialogue: 1,0:00:05.05,0:00:05.17,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}is{\c&H00FFFFFF&} where a
+Dialogue: 1,0:00:05.17,0:00:05.31,Cap,,0,0,0,,{\pos(540,1400)}this is {\c&H0060ECCD}where{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:05.31,0:00:05.45,Cap,,0,0,0,,{\pos(540,1400)}this is where {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.45,0:00:05.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mind{\c&H00FFFFFF&} shift has to
+Dialogue: 1,0:00:05.61,0:00:05.91,Cap,,0,0,0,,{\pos(540,1400)}mind {\c&H0060ECCD}shift{\c&H00FFFFFF&} has to
+Dialogue: 1,0:00:05.91,0:00:06.21,Cap,,0,0,0,,{\pos(540,1400)}mind shift {\c&H0060ECCD}has{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:06.21,0:00:06.65,Cap,,0,0,0,,{\pos(540,1400)}mind shift has {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.65,0:00:07.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}happen{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.17,0:00:07.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} many people
+Dialogue: 1,0:00:07.59,0:00:07.85,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}many{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:07.85,0:00:08.33,Cap,,0,0,0,,{\pos(540,1400)}So many {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.33,0:00:10.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fight{\c&H00FFFFFF&} so hard not
+Dialogue: 1,0:00:10.13,0:00:10.35,Cap,,0,0,0,,{\pos(540,1400)}fight {\c&H0060ECCD}so{\c&H00FFFFFF&} hard not
+Dialogue: 1,0:00:10.35,0:00:10.65,Cap,,0,0,0,,{\pos(540,1400)}fight so {\c&H0060ECCD}hard{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:10.65,0:00:10.81,Cap,,0,0,0,,{\pos(540,1400)}fight so hard {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.81,0:00:10.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} pay taxes The
+Dialogue: 1,0:00:10.95,0:00:11.09,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}pay{\c&H00FFFFFF&} taxes The
+Dialogue: 1,0:00:11.09,0:00:11.50,Cap,,0,0,0,,{\pos(540,1400)}to pay {\c&H0060ECCD}taxes{\c&H00FFFFFF&} The
+Dialogue: 1,0:00:11.50,0:00:13.00,Cap,,0,0,0,,{\pos(540,1400)}to pay taxes {\c&H0060ECCD}The{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.00,0:00:13.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mindset{\c&H00FFFFFF&} shift is
+Dialogue: 1,0:00:13.36,0:00:13.76,Cap,,0,0,0,,{\pos(540,1400)}mindset {\c&H0060ECCD}shift{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:13.76,0:00:14.02,Cap,,0,0,0,,{\pos(540,1400)}mindset shift {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.02,0:00:14.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you're paying
+Dialogue: 1,0:00:14.22,0:00:14.36,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you're{\c&H00FFFFFF&} paying
+Dialogue: 1,0:00:14.36,0:00:14.58,Cap,,0,0,0,,{\pos(540,1400)}if you're {\c&H0060ECCD}paying{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.58,0:00:15.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}taxes{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:15.02,0:00:15.26,Cap,,0,0,0,,{\pos(540,1400)}taxes {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.26,0:00:15.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}profitable{\c&H00FFFFFF&} and so
+Dialogue: 1,0:00:15.70,0:00:16.24,Cap,,0,0,0,,{\pos(540,1400)}profitable {\c&H0060ECCD}and{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:16.24,0:00:16.68,Cap,,0,0,0,,{\pos(540,1400)}profitable and {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.68,0:00:17.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} want to pay
+Dialogue: 1,0:00:17.72,0:00:17.86,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}want{\c&H00FFFFFF&} to pay
+Dialogue: 1,0:00:17.86,0:00:17.94,Cap,,0,0,0,,{\pos(540,1400)}I want {\c&H0060ECCD}to{\c&H00FFFFFF&} pay
+Dialogue: 1,0:00:17.94,0:00:18.08,Cap,,0,0,0,,{\pos(540,1400)}I want to {\c&H0060ECCD}pay{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.08,0:00:18.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} taxes
+Dialogue: 1,0:00:18.30,0:00:18.72,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}taxes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.72,0:00:19.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:19.46,0:00:19.62,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.62,0:00:19.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}means{\c&H00FFFFFF&} I'm making
+Dialogue: 1,0:00:19.78,0:00:20.00,Cap,,0,0,0,,{\pos(540,1400)}means {\c&H0060ECCD}I'm{\c&H00FFFFFF&} making
+Dialogue: 1,0:00:20.00,0:00:20.22,Cap,,0,0,0,,{\pos(540,1400)}means I'm {\c&H0060ECCD}making{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.22,0:00:20.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} money right?
+Dialogue: 1,0:00:20.44,0:00:20.68,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}money{\c&H00FFFFFF&} right?
+Dialogue: 1,0:00:20.68,0:00:20.97,Cap,,0,0,0,,{\pos(540,1400)}more money {\c&H0060ECCD}right?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.97,0:00:21.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}As{\c&H00FFFFFF&} you scale
+Dialogue: 1,0:00:21.43,0:00:21.59,Cap,,0,0,0,,{\pos(540,1400)}As {\c&H0060ECCD}you{\c&H00FFFFFF&} scale
+Dialogue: 1,0:00:21.59,0:00:22.11,Cap,,0,0,0,,{\pos(540,1400)}As you {\c&H0060ECCD}scale{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.11,0:00:23.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} need money
+Dialogue: 1,0:00:23.03,0:00:23.37,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}need{\c&H00FFFFFF&} money
+Dialogue: 1,0:00:23.37,0:00:23.86,Cap,,0,0,0,,{\pos(540,1400)}you need {\c&H0060ECCD}money{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.86,0:00:24.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} if you're not
+Dialogue: 1,0:00:24.24,0:00:24.40,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}if{\c&H00FFFFFF&} you're not
+Dialogue: 1,0:00:24.40,0:00:24.98,Cap,,0,0,0,,{\pos(540,1400)}And if {\c&H0060ECCD}you're{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:24.98,0:00:25.12,Cap,,0,0,0,,{\pos(540,1400)}And if you're {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.12,0:00:25.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}paying{\c&H00FFFFFF&} taxes and
+Dialogue: 1,0:00:25.42,0:00:25.96,Cap,,0,0,0,,{\pos(540,1400)}paying {\c&H0060ECCD}taxes{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:25.96,0:00:26.56,Cap,,0,0,0,,{\pos(540,1400)}paying taxes {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.56,0:00:26.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} balance
+Dialogue: 1,0:00:26.70,0:00:27.04,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}balance{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.04,0:00:27.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sheet{\c&H00FFFFFF&} shows that
+Dialogue: 1,0:00:27.34,0:00:27.72,Cap,,0,0,0,,{\pos(540,1400)}sheet {\c&H0060ECCD}shows{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:27.72,0:00:27.94,Cap,,0,0,0,,{\pos(540,1400)}sheet shows {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.94,0:00:28.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} not making
+Dialogue: 1,0:00:28.06,0:00:28.20,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}not{\c&H00FFFFFF&} making
+Dialogue: 1,0:00:28.20,0:00:28.44,Cap,,0,0,0,,{\pos(540,1400)}you're not {\c&H0060ECCD}making{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.44,0:00:28.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}any{\c&H00FFFFFF&} money because
+Dialogue: 1,0:00:28.66,0:00:28.92,Cap,,0,0,0,,{\pos(540,1400)}any {\c&H0060ECCD}money{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:28.92,0:00:29.18,Cap,,0,0,0,,{\pos(540,1400)}any money {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.18,0:00:29.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} don't want to
+Dialogue: 1,0:00:29.36,0:00:29.50,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}don't{\c&H00FFFFFF&} want to
+Dialogue: 1,0:00:29.50,0:00:29.58,Cap,,0,0,0,,{\pos(540,1400)}you don't {\c&H0060ECCD}want{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:29.58,0:00:29.66,Cap,,0,0,0,,{\pos(540,1400)}you don't want {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.66,0:00:29.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pay{\c&H00FFFFFF&} taxes
+Dialogue: 1,0:00:29.78,0:00:30.22,Cap,,0,0,0,,{\pos(540,1400)}pay {\c&H0060ECCD}taxes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.22,0:00:30.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} hard to
+Dialogue: 1,0:00:30.86,0:00:31.02,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}hard{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:31.02,0:00:31.16,Cap,,0,0,0,,{\pos(540,1400)}it's hard {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.16,0:00:31.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}borrow{\c&H00FFFFFF&} money
+Dialogue: 1,0:00:31.40,0:00:31.86,Cap,,0,0,0,,{\pos(540,1400)}borrow {\c&H0060ECCD}money{\c&H00FFFFFF&}

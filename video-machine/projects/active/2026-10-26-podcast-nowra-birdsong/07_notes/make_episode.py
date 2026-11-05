@@ -6,8 +6,10 @@ single = [81, 104, 142, 167, 366, 477, 787, 808, 836, 859, 1023, 1083, 1114, 111
           2878, 2928, 3535, 3859, 3870, 4001, 4024, 4035, 4246, 4247, 4286, 4302, 4494, 4496, 4788,
           4848, 4922, 5249, 5306, 6503, 6616]
 drops = [[i, i] for i in single]
-drops += [[15, 21],        # "He is the president of NOT, and": the organization name came out garbled
-          [4482, 4493]]    # "with my blank on the T I'll come back to that but"
+drops += [[4482, 4493]]    # "with my blank on the T I'll come back to that but"
+# "He is the president of NOT, and" (words 15-21) stays since 2026-11-04: NOT is NAWT, the National
+# Association of Wastewater Technicians (nawt.org lists Jason Birdsong as president; Part 2's ending
+# is about NAWT). The first run cut the clause because the name was not confirmed.
 drops.sort()
 
 fixes = {}
@@ -25,6 +27,7 @@ fixes.update({
     "2709": "flight,",                          # "fight, fight or freeze"
     "4460": "SWOTs", "4467": "SWOT", "4470": "SWOTing", "4500": "SWOT",
     "6550": "Jason",
+    "20": "NAWT,",                              # heard as "NOT"
     "467": "", "468": "", "469": "",            # "so the the first the first one": played through, hidden from captions
     "2": "Welcome",
 })

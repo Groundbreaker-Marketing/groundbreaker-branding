@@ -1,0 +1,257 @@
+{
+ "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-10-26-podcast-nowra-birdsong-part-2/07_notes/jason-646.wav",
+ "start": 0.0,
+ "end": 14.0,
+ "duration": 14.0,
+ "language": "en",
+ "model": "large-v3-turbo",
+ "text": "And that's part of investing in yourself. So who invented, who figured it out? So we use a sold hour tool. And so it's pretty cut and dry. You just put in the parameters. Again, I have a really good CPA.",
+ "words": [
+  {
+   "word": "And",
+   "start": 0.0,
+   "end": 0.58,
+   "prob": 0.529
+  },
+  {
+   "word": "that's",
+   "start": 0.58,
+   "end": 0.8,
+   "prob": 0.991
+  },
+  {
+   "word": "part",
+   "start": 0.8,
+   "end": 0.98,
+   "prob": 0.996
+  },
+  {
+   "word": "of",
+   "start": 0.98,
+   "end": 1.1,
+   "prob": 0.999
+  },
+  {
+   "word": "investing",
+   "start": 1.1,
+   "end": 1.5,
+   "prob": 0.686
+  },
+  {
+   "word": "in",
+   "start": 1.5,
+   "end": 1.7,
+   "prob": 0.978
+  },
+  {
+   "word": "yourself.",
+   "start": 1.7,
+   "end": 2.04,
+   "prob": 0.995
+  },
+  {
+   "word": "So",
+   "start": 2.36,
+   "end": 2.46,
+   "prob": 0.903
+  },
+  {
+   "word": "who",
+   "start": 2.46,
+   "end": 3.06,
+   "prob": 0.808
+  },
+  {
+   "word": "invented,",
+   "start": 3.06,
+   "end": 3.32,
+   "prob": 0.697
+  },
+  {
+   "word": "who",
+   "start": 3.56,
+   "end": 3.88,
+   "prob": 0.989
+  },
+  {
+   "word": "figured",
+   "start": 3.88,
+   "end": 4.2,
+   "prob": 0.938
+  },
+  {
+   "word": "it",
+   "start": 4.2,
+   "end": 4.4,
+   "prob": 0.987
+  },
+  {
+   "word": "out?",
+   "start": 4.4,
+   "end": 4.54,
+   "prob": 0.999
+  },
+  {
+   "word": "So",
+   "start": 4.68,
+   "end": 4.76,
+   "prob": 0.968
+  },
+  {
+   "word": "we",
+   "start": 4.76,
+   "end": 4.94,
+   "prob": 0.967
+  },
+  {
+   "word": "use",
+   "start": 4.94,
+   "end": 5.18,
+   "prob": 0.945
+  },
+  {
+   "word": "a",
+   "start": 5.18,
+   "end": 5.28,
+   "prob": 0.919
+  },
+  {
+   "word": "sold",
+   "start": 5.28,
+   "end": 5.48,
+   "prob": 0.85
+  },
+  {
+   "word": "hour",
+   "start": 5.48,
+   "end": 5.7,
+   "prob": 0.527
+  },
+  {
+   "word": "tool.",
+   "start": 5.7,
+   "end": 5.98,
+   "prob": 0.997
+  },
+  {
+   "word": "And",
+   "start": 6.84,
+   "end": 7.28,
+   "prob": 0.883
+  },
+  {
+   "word": "so",
+   "start": 7.28,
+   "end": 7.5,
+   "prob": 0.996
+  },
+  {
+   "word": "it's",
+   "start": 7.5,
+   "end": 8.12,
+   "prob": 0.934
+  },
+  {
+   "word": "pretty",
+   "start": 8.12,
+   "end": 8.62,
+   "prob": 0.999
+  },
+  {
+   "word": "cut",
+   "start": 8.62,
+   "end": 8.88,
+   "prob": 0.978
+  },
+  {
+   "word": "and",
+   "start": 8.88,
+   "end": 8.96,
+   "prob": 0.986
+  },
+  {
+   "word": "dry.",
+   "start": 8.96,
+   "end": 9.12,
+   "prob": 0.991
+  },
+  {
+   "word": "You",
+   "start": 9.32,
+   "end": 9.32,
+   "prob": 0.952
+  },
+  {
+   "word": "just",
+   "start": 9.32,
+   "end": 9.4,
+   "prob": 0.965
+  },
+  {
+   "word": "put",
+   "start": 9.4,
+   "end": 9.52,
+   "prob": 1.0
+  },
+  {
+   "word": "in",
+   "start": 9.52,
+   "end": 9.64,
+   "prob": 0.985
+  },
+  {
+   "word": "the",
+   "start": 9.64,
+   "end": 9.72,
+   "prob": 1.0
+  },
+  {
+   "word": "parameters.",
+   "start": 9.72,
+   "end": 10.22,
+   "prob": 0.999
+  },
+  {
+   "word": "Again,",
+   "start": 11.28,
+   "end": 11.72,
+   "prob": 0.974
+  },
+  {
+   "word": "I",
+   "start": 11.72,
+   "end": 11.96,
+   "prob": 1.0
+  },
+  {
+   "word": "have",
+   "start": 11.96,
+   "end": 12.12,
+   "prob": 1.0
+  },
+  {
+   "word": "a",
+   "start": 12.12,
+   "end": 12.22,
+   "prob": 1.0
+  },
+  {
+   "word": "really",
+   "start": 12.22,
+   "end": 12.42,
+   "prob": 1.0
+  },
+  {
+   "word": "good",
+   "start": 12.42,
+   "end": 12.62,
+   "prob": 1.0
+  },
+  {
+   "word": "CPA.",
+   "start": 12.62,
+   "end": 13.16,
+   "prob": 0.998
+  }
+ ]
+}
