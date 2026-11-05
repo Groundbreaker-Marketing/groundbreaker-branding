@@ -82,7 +82,8 @@
    },
    "trim_start": -0.15,
    "end_pad": 0.15,
-   "cover_at": 510.1
+   "cover_at": 510.1,
+   "cover": "07_notes/shorts/covers/break-even-job.jpg"
   },
   {
    "id": "price-never-problem",
@@ -94,7 +95,7 @@
      2661
     ]
    ],
-   "title": "Price is never\nthe *problem*",
+   "title": "Septic prices are\nnever the *problem*",
    "youtube": {
     "title": "Price is never the problem for a septic company. Value is.",
     "description": "Jason Birdsong of {jt} on raising your septic prices: yes, go up, but if you can't back it with the value, you won't sell anything. And if you don't know your numbers, how do you sell the value?\n\nFull episode: {episode}\n\n#septic #septicbusiness #pricing"
@@ -128,7 +129,8 @@
     "facebook": "Everybody in this industry tells everybody to raise their prices. Jason Birdsong of JT Services agrees, but he wants to know why. Is it 10%? 5%? What's the strategy? His point is that if you can't back a price with the value, you're not going to sell anything. So many people have what he calls sales trauma: they can't sell it, so they decide the price is too high. He says price is never the problem. And if you don't know your own numbers, how do you sell the value? Have you raised your prices this year?\n\n#septic #smallbusiness"
    },
    "end_pad": 0.12,
-   "cover_at": 887.1
+   "cover_at": 887.1,
+   "cover": "07_notes/shorts/covers/price-never-problem.jpg"
   },
   {
    "id": "cover-payroll",
@@ -171,7 +173,8 @@
     "facebook": "Jason Birdsong of JT Services told me about a phone call from his wife. They had learned their numbers, hired some leadership, and stopped looking at those numbers every day. Then she called and said they were going to have to move some money around to cover payroll. He said he thought they were way past this. She said, we've been lazy. He called it his self-reflection moment, and they had to get right back into knowing their numbers and dig their way back out. Has that ever happened to you?\n\n#septic #smallbusiness"
    },
    "end_pad": 0.08,
-   "cover_at": 247.5
+   "cover_at": 247.5,
+   "cover": "07_notes/shorts/covers/cover-payroll.jpg"
   },
   {
    "id": "cpa-every-week",
@@ -213,7 +216,10 @@
    "captions": {
     "tiktok": "I meet with my CPA, tax guy and financial advisor once a week. Jason Birdsong of {jt} used to meet with his tax guy once a year, then quarterly, then monthly. At six million dollars, a lot of money moves through in a week. If you only meet once a month, how big can your leak be? How often do you meet with yours?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #knowyournumbers #cpa"
    },
-   "end_pad": 0.12
+   "end_pad": 0.12,
+   "cover_at": 376,
+   "trim_start": 0.04,
+   "cover": "07_notes/shorts/covers/cpa-every-week.jpg"
   },
   {
    "id": "cash-is-king",
@@ -252,7 +258,9 @@
    "captions": {
     "tiktok": "We paid cash for everything, and it caught up with us. Jason Birdsong of {jt} and his wife believed cash is king. They paid cash for a $150,000 building addition and all their equipment, then learned that was good debt they should have financed. All of a sudden: where's all the money? Do you pay cash for equipment?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #cashflow #smallbusiness"
    },
-   "end_pad": 0.12
+   "end_pad": 0.12,
+   "cover_at": 114,
+   "cover": "07_notes/shorts/covers/cash-is-king.jpg"
   },
   {
    "id": "pay-more-taxes",
@@ -280,7 +288,7 @@
      4858
     ]
    ],
-   "title": "Why I want to pay\n*more* taxes",
+   "title": "Why I want my septic\nbusiness to pay *more* taxes",
    "youtube": {
     "title": "Why this septic business owner wants to pay more taxes",
     "description": "Jason Birdsong of {jt} on the mindset shift that comes as you grow to a three, five or six million dollar company: if you're paying taxes, you're profitable. And a balance sheet that shows no money makes it hard to borrow.\n\nFull episode: {episode}\n\n#septic #septicbusiness #taxes"
@@ -307,7 +315,8 @@
     "facebook": "Most business owners I know work hard to pay as little in taxes as they can. Jason Birdsong of JT Services says that has to change as you grow into a three, five or six million dollar company. His mindset now is that if you're paying taxes, you're profitable, so he wants to pay more. Here's the part people miss: as you scale, you need money. If your balance sheet shows you're not making any because you didn't want to pay taxes, it's hard to borrow. Do you see it that way?\n\n#septic #smallbusiness"
    },
    "end_pad": 0.12,
-   "cover_at": 1541.0
+   "cover_at": 1541.0,
+   "cover": "07_notes/shorts/covers/pay-more-taxes.jpg"
   },
   {
    "id": "bonus-bob",
@@ -359,7 +368,9 @@
    "captions": {
     "tiktok": "Do you give Bob a bonus because you like him? What if you don't like him? Jason Birdsong of {jt} asks owners what the parameters are on their holiday bonuses, and most just look at him. His team has KPIs: a revenue target for the month and a labor rate of 20 percent or less. Then they get bonuses. What are your parameters?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #kpi #smallbusiness"
    },
-   "end_pad": 0.3
+   "end_pad": 0.3,
+   "cover_at": 1428,
+   "cover": "07_notes/shorts/covers/bonus-bob.jpg"
   },
   {
    "id": "disposal-crisis",
@@ -400,7 +411,8 @@
    },
    "trim_start": -0.15,
    "end_pad": 0.12,
-   "cover_at": 1964.7
+   "cover_at": 1964.7,
+   "cover": "07_notes/shorts/covers/disposal-crisis.jpg"
   },
   {
    "id": "hourly-rate",
@@ -435,7 +447,9 @@
     "tiktok": "Johnny's out there for an hour and you think you made good money. Jason Birdsong of {jt} says you probably didn't even break even. Nobody thinks about vacation time off, insurance, workers comp, or the set of tires you'll put on that van once a year. It all has to be built into your price. Do you build it in?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #pricing #smallbusiness"
    },
    "trim_start": -0.12,
-   "end_pad": 0.12
+   "end_pad": 0.12,
+   "cover_at": 860,
+   "cover": "07_notes/shorts/covers/hourly-rate.jpg"
   }
  ],
  "grade": true
