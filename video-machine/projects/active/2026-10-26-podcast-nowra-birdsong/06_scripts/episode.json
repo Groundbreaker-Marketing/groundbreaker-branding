@@ -465,7 +465,8 @@
   "fade_px": 100
  },
  "publish": {
-  "approved": false,
+  "approved": true,
+  "publish_at": "2026-11-09T08:00:00",
   "youtube": {
    "title": "Should You Add Plumbing or HVAC to Your Septic Business? (Part 1 of 2)",
    "description": "I recorded this one live at the NOWRA Mega-Conference with Jason Birdsong of JT Services in Claremore, Oklahoma. This is Part 1 of 2. Jason is the president of NAWT, the National Association of Wastewater Technicians. He started out as a repo man, then built what began as J&T Service Company into JT Services, a full home service company that is on track to do a little over six million dollars this year.\n\nIn this part, Jason walks through the hard lessons of adding plumbing, HVAC and electrical to a septic company: how he got a plumbing license without working for a plumber for four years, why you master one trade before you add the next, why one is none and two is some, and why he doesn't believe in shoulder season. Part 2 goes out Wednesday, November 11, and goes deeper on knowing your numbers.\n\nWhat we cover:\n- How a repo man started a septic company\n- Why plumbing came first and how Jason got the license\n- Why investing in yourself comes before growth\n- Finding the right business coach and a why strong enough to push through\n- Mastering one trade before you add the next\n- One is none, two is some: hiring and onboarding\n- Why promoting your best person can fail them\n- Marketing a new service line, and why there's no shoulder season\n- Why HVAC is its own breed and electrical comes last\n- The board that shows what you're saying no to\n\nFind JT Services at https://jtserviceco.com",
@@ -484,7 +485,12 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "youtube_upload": {
+   "video_id": "K_1UT795x0g",
+   "url": "https://youtu.be/K_1UT795x0g",
+   "scheduled": "2026-11-09T08:00:00"
+  }
  },
  "grade": true
 }
