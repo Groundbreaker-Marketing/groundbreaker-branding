@@ -107,7 +107,7 @@ rec = {
 old = {}
 if os.path.exists('06_scripts/episode.json'):
     old = json.load(open('06_scripts/episode.json'))
-for k in ("thumbnail", "publish"):          # keep blocks written after the first run
+for k in ("thumbnail", "publish", "grade"):   # keep blocks written after the first run
     if k in old:
         rec[k] = old[k]
 json.dump(rec, open('06_scripts/episode.json', 'w'), indent=1)
