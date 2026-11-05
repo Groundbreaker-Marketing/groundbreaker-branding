@@ -499,7 +499,7 @@
   "fade_px": 100
  },
  "publish": {
-  "approved": false,
+  "approved": true,
   "youtube": {
    "title": "Do You Know Your Septic Company's Break-Even Number? (Part 2 of 2)",
    "description": "I recorded this one live at the NOWRA Mega-Conference with Jason Birdsong of JT Services in Claremore, Oklahoma. This is Part 2 of 2. Jason is the president of NAWT, the National Association of Wastewater Technicians, and he runs a six million dollar home service company that started as a septic business.\n\nIn this part, we get into knowing your numbers. Jason shares the phone call from his wife about moving money around to cover payroll, why he now meets with his CPA every week, how to figure your break-even number for the month and for a single job, why price is never the problem, and why he wants to pay more taxes. If you missed Part 1, it's about adding plumbing, HVAC and electrical to a septic company.\n\nWhat we cover:\n- Why so many septic owners don't know their numbers\n- How paying cash for everything caught up with JT Services\n- Why Jason meets with his CPA, tax guy and financial advisor every week\n- Your break-even number, for the month and for every job\n- Cash flow, cash reserves and leverage\n- Setting your prices from your numbers, and why value sells the price\n- Sharing your numbers with your team and tying bonuses to KPIs\n- Where to start if you only know your bank balance\n- Why paying taxes means you're profitable\n- What NAWT does for the septic industry, including the septage disposal crisis\n\nFind JT Services at https://jtserviceco.com",
@@ -520,7 +520,13 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "publish_at": "2026-11-11T08:00:00",
+  "youtube_upload": {
+   "video_id": "7lgIjn9gqZU",
+   "url": "https://youtu.be/7lgIjn9gqZU",
+   "scheduled": "2026-11-11T08:00:00"
+  }
  },
  "grade": true
 }

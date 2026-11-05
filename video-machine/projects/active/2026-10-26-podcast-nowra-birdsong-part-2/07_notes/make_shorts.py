@@ -15,7 +15,7 @@ JASON_X, ASHLEY_X = 0.23, 0.74
 # closed after its last, except bonus-bob ("bonuses" heard as "bonus"). Openings with a pause before
 # them start a little earlier so the first syllable isn't clipped; the rest start right after the word
 # before. Every ending gets a short pad; bonus-bob enough to finish its last word.
-TS = {"break-even-job": -0.15, "disposal-crisis": -0.15, "hourly-rate": -0.12}
+TS = {"break-even-job": -0.15, "disposal-crisis": -0.15, "hourly-rate": -0.12, "cpa-every-week": 0.04}
 EPAD = {"break-even-job": 0.15, "price-never-problem": 0.12, "cover-payroll": 0.08, "cpa-every-week": 0.12,
         "cash-is-king": 0.12, "pay-more-taxes": 0.12, "bonus-bob": 0.3, "disposal-crisis": 0.12,
         "hourly-rate": 0.12}
@@ -35,7 +35,7 @@ clips = [
   fb="Here's a question Jason Birdsong of JT Services asked me: your break-even to change an air pump on an aerobic unit is $500. Are you winning or losing if you do the job for $500? I said losing. He said most people would. But if your tech drives out, burns the fuel and the time, the call center books it, and you leave with a $99 diagnostic, you lost. At $500 you still paid the bills and kept Johnny and his family fed. You don't want to do that every time, but it's not losing. Do you know your break-even on a job?\n\n#septic #smallbusiness",
   when="2026-11-11T12:00:00", nets=["youtube", "tiktok", "instagram", "facebook"], cover=10),
  dict(id="price-never-problem", keep=[(2554, 2661)],
-  title="Price is never\nthe *problem*",
+  title="Septic prices are\nnever the *problem*",
   yt="Price is never the problem for a septic company. Value is.",
   yd="Jason Birdsong of {jt} on raising your septic prices: yes, go up, but if you can't back it with the value, you won't sell anything. And if you don't know your numbers, how do you sell the value?\n\n" + F + "\n\n#septic #septicbusiness #pricing",
   tt="Price is never the problem. Everybody tells everybody to go up on prices, and Jason Birdsong of {jt} agrees you should. But why 10%? Why 5%? If you can't back it with the value, you won't sell anything. And if you don't know your numbers, how do you sell the value? Agree?\n\n" + FT + "\n\n#septic #septicbusiness #pricing #sales",
@@ -55,15 +55,15 @@ clips = [
   yt="Why a $6 million septic company meets with its CPA every week",
   yd="Jason Birdsong of {jt} meets with his CPA, tax guy and financial advisor once a week. At six million dollars a lot of money moves through in a week, and a leak is a lot harder to catch and fix when you meet once a month.\n\n" + F + "\n\n#septic #septicbusiness #knowyournumbers",
   tt="I meet with my CPA, tax guy and financial advisor once a week. Jason Birdsong of {jt} used to meet with his tax guy once a year, then quarterly, then monthly. At six million dollars, a lot of money moves through in a week. If you only meet once a month, how big can your leak be? How often do you meet with yours?\n\n" + FT + "\n\n#septic #septicbusiness #knowyournumbers #cpa",
-  when="2026-11-14T12:00:00", nets=["youtube", "tiktok"], cover=None),
+  when="2026-11-14T12:00:00", nets=["youtube", "tiktok"], cover=34.7),
  dict(id="cash-is-king", keep=[(265, 371)],
   title="Paying *cash* for everything\ncaught up with us",
   yt="Why paying cash for septic equipment caught up with us",
   yd="Jason Birdsong of {jt} and his wife believed cash is king. Over three or four years they paid cash for a building addition and equipment that should have been financed, and it caught up with them.\n\n" + F + "\n\n#septic #septicbusiness #cashflow",
   tt="We paid cash for everything, and it caught up with us. Jason Birdsong of {jt} and his wife believed cash is king. They paid cash for a $150,000 building addition and all their equipment, then learned that was good debt they should have financed. All of a sudden: where's all the money? Do you pay cash for equipment?\n\n" + FT + "\n\n#septic #septicbusiness #cashflow #smallbusiness",
-  when="2026-11-15T12:00:00", nets=["youtube", "tiktok"], cover=None),
+  when="2026-11-15T12:00:00", nets=["youtube", "tiktok"], cover=16.0),
  dict(id="pay-more-taxes", keep=[(4528, 4562), (4564, 4573), (4578, 4593), (4823, 4828), (4830, 4858)],
-  title="Why I want to pay\n*more* taxes",
+  title="Why I want my septic\nbusiness to pay *more* taxes",
   yt="Why this septic business owner wants to pay more taxes",
   yd="Jason Birdsong of {jt} on the mindset shift that comes as you grow to a three, five or six million dollar company: if you're paying taxes, you're profitable. And a balance sheet that shows no money makes it hard to borrow.\n\n" + F + "\n\n#septic #septicbusiness #taxes",
   tt="So many people fight so hard not to pay taxes. Jason Birdsong of {jt} says if you're paying taxes, you're profitable, and he wants to pay more. As you scale, you need money, and if your balance sheet shows you're not making any because you don't want to pay taxes, it's hard to borrow. Agree?\n\n" + FT + "\n\n#septic #septicbusiness #taxes #smallbusiness",
@@ -76,7 +76,7 @@ clips = [
   yt="How to set bonuses for your septic crew: KPIs, not favorites",
   yd="Jason Birdsong of {jt} asks owners what the parameters are on their holiday bonuses, and most just look at him. His team has KPIs: a revenue target for the month and a labor rate of 20 percent or less, then bonuses.\n\n" + F + "\n\n#septic #septicbusiness #kpi",
   tt="Do you give Bob a bonus because you like him? What if you don't like him? Jason Birdsong of {jt} asks owners what the parameters are on their holiday bonuses, and most just look at him. His team has KPIs: a revenue target for the month and a labor rate of 20 percent or less. Then they get bonuses. What are your parameters?\n\n" + FT + "\n\n#septic #septicbusiness #kpi #smallbusiness",
-  when="2026-11-16T17:00:00", nets=["youtube", "tiktok"], cover=None),
+  when="2026-11-16T17:00:00", nets=["youtube", "tiktok"], cover=17.3),
  dict(id="disposal-crisis", keep=[(5682, 5779)],
   title="Florida lost half its\n*septage* disposal sites",
   yt="The septage disposal crisis: Florida went from 42 sites to 24",
@@ -90,7 +90,7 @@ clips = [
   yt="What your septic tech really costs you per hour",
   yd="Jason Birdsong of {jt} on why the hourly rate isn't the cost: vacation time off, insurance, workers comp and a set of tires on the van once a year all have to be built in, or you probably didn't even break even.\n\n" + F + "\n\n#septic #septicbusiness #pricing",
   tt="Johnny's out there for an hour and you think you made good money. Jason Birdsong of {jt} says you probably didn't even break even. Nobody thinks about vacation time off, insurance, workers comp, or the set of tires you'll put on that van once a year. It all has to be built into your price. Do you build it in?\n\n" + FT + "\n\n#septic #septicbusiness #pricing #smallbusiness",
-  when="2026-11-17T17:00:00", nets=["youtube", "tiktok"], cover=None),
+  when="2026-11-17T17:00:00", nets=["youtube", "tiktok"], cover=50.7),
 ]
 EXTRA = {   # clip-only caption fixes
     "price-never-problem": {"2641": "they", "2642": "failed", "2643": "to", "2554": "Everybody"},

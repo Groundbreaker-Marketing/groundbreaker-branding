@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:35.83,Title,,0,0,0,,{\pos(540,480)}Price is never\Nthe {\c&H0060ECCD}problem{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:35.83,Title,,0,0,0,,{\pos(540,480)}Septic prices are\Nnever the {\c&H0060ECCD}problem{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Everybody{\c&H00FFFFFF&} tells
 Dialogue: 1,0:00:00.34,0:00:00.72,Cap,,0,0,0,,{\pos(540,1400)}Everybody {\c&H0060ECCD}tells{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.72,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everybody{\c&H00FFFFFF&} just to
