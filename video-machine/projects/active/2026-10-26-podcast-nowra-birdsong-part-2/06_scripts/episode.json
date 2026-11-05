@@ -449,7 +449,7 @@
   "at": 1126.0,
   "source": "01_footage/c0031.mp4",
   "photo_crop": [
-   1100,
+   800,
    0,
    1700,
    1080
@@ -459,7 +459,7 @@
    "photo_crop": [
     280,
     0,
-    880,
+    1180,
     1080
    ]
   },
@@ -491,9 +491,12 @@
   ],
   "out": "07_notes/episode/thumbnail.jpg",
   "swap": true,
-  "brighten": 2.3,
-  "cool": 0.2,
-  "headline_w": 600
+  "brighten": 1.7,
+  "cool": 0.1,
+  "headline_w": 500,
+  "gamma": 1.6,
+  "panel_w": 600,
+  "fade_px": 100
  },
  "publish": {
   "approved": false,
