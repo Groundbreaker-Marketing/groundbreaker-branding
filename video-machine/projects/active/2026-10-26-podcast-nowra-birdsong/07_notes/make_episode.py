@@ -1,4 +1,4 @@
-import json, re
+import json, os, re
 W = json.load(open('02_audio/words/c0030.json'))['words']
 
 single = [81, 104, 142, 167, 366, 477, 787, 808, 836, 859, 1023, 1083, 1114, 1115, 1157, 1318, 1338,
