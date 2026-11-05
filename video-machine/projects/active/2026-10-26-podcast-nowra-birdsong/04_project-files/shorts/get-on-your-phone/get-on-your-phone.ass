@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:38.32,Title,,0,0,0,,{\pos(540,480)}She said get off the phone.\NNow: {\c&H0060ECCD}get on it{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:38.32,Title,,0,0,0,,{\pos(540,480)}How to transition\Nfrom the guy in the\Npump truck to {\c&H0060ECCD}CEO{\c&H00FFFFFF&}\Nof your septic company
 Dialogue: 1,0:00:00.00,0:00:00.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}My{\c&H00FFFFFF&} wife used to
 Dialogue: 1,0:00:00.07,0:00:00.35,Cap,,0,0,0,,{\pos(540,1400)}My {\c&H0060ECCD}wife{\c&H00FFFFFF&} used to
 Dialogue: 1,0:00:00.35,0:00:00.53,Cap,,0,0,0,,{\pos(540,1400)}My wife {\c&H0060ECCD}used{\c&H00FFFFFF&} to
