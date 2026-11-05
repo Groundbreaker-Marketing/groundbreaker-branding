@@ -52,7 +52,8 @@
    },
    "trim_start": -0.25,
    "end_pad": 0.08,
-   "cover_at": 60.7
+   "cover_at": 60.7,
+   "cover": "07_notes/shorts/covers/repo-man.jpg"
   },
   {
    "id": "prison",
@@ -105,11 +106,13 @@
    },
    "trim_start": 0.12,
    "end_pad": 0.12,
-   "cover_at": 284.5
+   "cover_at": 284.5,
+   "cover": "07_notes/shorts/covers/prison.jpg"
   },
   {
    "id": "get-on-your-phone",
    "cover_at": 384.0,
+   "cover_raise": 350,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
@@ -143,7 +146,8 @@
    "captions": {
     "tiktok": "My wife used to say get off your phone and pay attention to your family. Now she says get on your phone and make more money. Jason Birdsong of {jt} says the phone didn't change. His mindset did. He calls it changing the channel, from the guy in the field to a CEO instead of the doer. That's when you can start to grow and scale.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #mindset #ceomindset"
    },
-   "end_pad": 0.1
+   "end_pad": 0.1,
+   "cover": "07_notes/shorts/covers/get-on-your-phone.jpg"
   },
   {
    "id": "one-is-none",
@@ -189,7 +193,8 @@
    },
    "trim_start": 0.15,
    "end_pad": 0.08,
-   "cover_at": 1038.2
+   "cover_at": 1038.2,
+   "cover": "07_notes/shorts/covers/one-is-none.jpg"
   },
   {
    "id": "promoted-best-tech",
@@ -229,7 +234,8 @@
    },
    "trim_start": 0.07,
    "end_pad": 0.08,
-   "cover_at": 1296.2
+   "cover_at": 1296.2,
+   "cover": "07_notes/shorts/covers/promoted-best-tech.jpg"
   },
   {
    "id": "master-experts",
@@ -273,11 +279,13 @@
     "facebook": "Jason Birdsong of JT Services says he doesn't hire people who just pump septic tanks, because with technology today, any CDL driver can do that. He's hiring for what he calls master experts. His septic tech can do a plumbing inspection, and his plumber can pump. While they're pumping the tank, they can do a heating and cooling checkup or a 21-point plumbing inspection. They may not be the ones doing the work, but they know when something needs an expert. Would you hire that way?\n\n#septic #smallbusiness"
    },
    "end_pad": 0.08,
-   "cover_at": 2078.9
+   "cover_at": 2078.9,
+   "cover": "07_notes/shorts/covers/master-experts.jpg"
   },
   {
    "id": "electrical-last",
    "cover_at": 1766.0,
+   "cover_raise": 250,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
@@ -326,7 +334,8 @@
     "tiktok": "I actually wanted to start with electrical, not plumbing. Jason Birdsong of {jt} did the research and found that in whole-home service, the margins are typically lowest in electrical. And when was the last time you had an electrician replace a light switch? So electrical came last. It still completed the circle once he was doing generators and new HVAC systems.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #homeservices #hvac"
    },
    "trim_start": -0.22,
-   "end_pad": 0.1
+   "end_pad": 0.1,
+   "cover": "07_notes/shorts/covers/electrical-last.jpg"
   },
   {
    "id": "no-shoulder-season",
@@ -365,11 +374,13 @@
     "tiktok": "Marketing is everything. Everything is marketing. Jason Birdsong of {jt} doesn't believe in shoulder season. If you start marketing early enough, there's no lull. Too many people do reactive marketing and wait until the phone's not ringing. His team starts fall messaging in July. When do you start yours?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicmarketing #septicbusiness #hvac"
    },
    "trim_start": -0.1,
-   "end_pad": 0.08
+   "end_pad": 0.08,
+   "cover": "07_notes/shorts/covers/no-shoulder-season.jpg"
   },
   {
    "id": "saying-no",
    "cover_at": 1918.0,
+   "cover_raise": 300,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
@@ -402,7 +413,8 @@
     "tiktok": "How much money are you saying no to? Jason Birdsong of {jt} tells his office staff that if they get enough calls for teeth work, he'll hire a dentist. What are you turning away that you could add on or sub out? He has partnerships where they sell it and take a percentage. On a bathroom remodel, they do the plumbing and a contractor does the rest. It's a win-win.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #homeservices #smallbusiness"
    },
    "trim_start": -0.2,
-   "end_pad": 0.04
+   "end_pad": 0.04,
+   "cover": "07_notes/shorts/covers/saying-no.jpg"
   }
  ],
  "grade": true
