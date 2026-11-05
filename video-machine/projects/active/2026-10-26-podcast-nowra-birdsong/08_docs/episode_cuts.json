@@ -1,6 +1,6 @@
 {
- "output_seconds": 2213.98,
- "segments": 27,
+ "output_seconds": 2216.65,
+ "segments": 26,
  "pause": {
   "name": "Ashley Christian",
   "org": "Groundbreaker Marketing",
@@ -19,41 +19,34 @@
   ]
  },
  "loudness_in": {
-  "input_i": "-31.53",
+  "input_i": "-31.52",
   "input_tp": "-6.61",
-  "input_lra": "9.30"
+  "input_lra": "9.10"
  },
  "joins_not_in_silence": [
   {
-   "at": 4.52,
-   "out_db": -24.0,
-   "in_db": -9.4,
-   "after": "with Jason Birdsong.",
-   "before": "we're really excited"
-  },
-  {
-   "at": 499.13,
+   "at": 501.83,
    "out_db": -43.8,
    "in_db": -31.5,
    "after": "that breakthrough of,",
    "before": "right time order."
   },
   {
-   "at": 1403.22,
+   "at": 1405.91,
    "out_db": -28.4,
    "in_db": -25.4,
    "after": "process in place",
    "before": "that when we're"
   },
   {
-   "at": 1468.48,
+   "at": 1471.17,
    "out_db": -27.7,
    "in_db": -19.9,
    "after": "your opportunities and",
    "before": "when we we"
   },
   {
-   "at": 2199.0,
+   "at": 2201.69,
    "out_db": -34.5,
    "in_db": -32.4,
    "after": "invest in yourself",
@@ -61,55 +54,6 @@
   }
  ],
  "cut_words": [
-  {
-   "take": "c0030",
-   "i": 15,
-   "word": "He",
-   "at": 11.4,
-   "why": "drop"
-  },
-  {
-   "take": "c0030",
-   "i": 16,
-   "word": "is",
-   "at": 11.48,
-   "why": "drop"
-  },
-  {
-   "take": "c0030",
-   "i": 17,
-   "word": "the",
-   "at": 11.82,
-   "why": "drop"
-  },
-  {
-   "take": "c0030",
-   "i": 18,
-   "word": "president",
-   "at": 12.06,
-   "why": "drop"
-  },
-  {
-   "take": "c0030",
-   "i": 19,
-   "word": "of",
-   "at": 12.48,
-   "why": "drop"
-  },
-  {
-   "take": "c0030",
-   "i": 20,
-   "word": "NOT,",
-   "at": 12.92,
-   "why": "drop"
-  },
-  {
-   "take": "c0030",
-   "i": 21,
-   "word": "and",
-   "at": 13.4,
-   "why": "drop"
-  },
   {
    "take": "c0030",
    "i": 34,
@@ -680,182 +624,175 @@
  ],
  "joins": [
   {
-   "at": 4.52,
-   "out_db": -24.0,
-   "in_db": -9.4,
-   "after": "with Jason Birdsong.",
-   "before": "we're really excited"
-  },
-  {
-   "at": 8.5,
+   "at": 11.2,
    "out_db": -35.9,
    "in_db": -38.0,
    "after": "two sessions. So,",
    "before": "Jason is just"
   },
   {
-   "at": 26.01,
+   "at": 28.71,
    "out_db": -37.4,
    "in_db": -42.0,
    "after": "to the podcast.",
    "before": "well thank you"
   },
   {
-   "at": 499.13,
+   "at": 501.83,
    "out_db": -43.8,
    "in_db": -31.5,
    "after": "that breakthrough of,",
    "before": "right time order."
   },
   {
-   "at": 565.5,
+   "at": 568.19,
    "out_db": -47.8,
    "in_db": -48.8,
    "after": "is your why?",
    "before": "and you know"
   },
   {
-   "at": 685.76,
+   "at": 688.46,
    "out_db": -48.7,
    "in_db": -43.1,
    "after": "funny, quick story.",
    "before": "My business coach,"
   },
   {
-   "at": 690.05,
+   "at": 692.74,
    "out_db": -49.8,
    "in_db": -48.9,
    "after": "podcast as well.",
    "before": "You know, he"
   },
   {
-   "at": 1261.64,
+   "at": 1264.33,
    "out_db": -40.2,
    "in_db": -40.0,
    "after": "I had to",
    "before": "change the channel."
   },
   {
-   "at": 1320.91,
+   "at": 1323.6,
    "out_db": -53.3,
    "in_db": -45.6,
    "after": "back to to",
    "before": "transitioning, you've got"
   },
   {
-   "at": 1403.22,
+   "at": 1405.91,
    "out_db": -28.4,
    "in_db": -25.4,
    "after": "process in place",
    "before": "that when we're"
   },
   {
-   "at": 1468.48,
+   "at": 1471.17,
    "out_db": -27.7,
    "in_db": -19.9,
    "after": "your opportunities and",
    "before": "when we we"
   },
   {
-   "at": 1494.02,
+   "at": 1496.71,
    "out_db": -52.0,
    "in_db": -50.3,
    "after": "there for that?",
    "before": "Marketing."
   },
   {
-   "at": 1494.92,
+   "at": 1497.62,
    "out_db": -38.5,
    "in_db": -44.7,
    "after": "Marketing.",
    "before": "You walked right"
   },
   {
-   "at": 1511.04,
+   "at": 1513.73,
    "out_db": -49.6,
    "in_db": -51.9,
    "after": "but shoulder season.",
    "before": "I don't believe"
   },
   {
-   "at": 1581.09,
+   "at": 1583.79,
    "out_db": -50.6,
    "in_db": -37.8,
    "after": "credit for it.",
    "before": "Facebook, the media,"
   },
   {
-   "at": 1588.38,
+   "at": 1591.08,
    "out_db": -41.4,
    "in_db": -52.5,
    "after": "El Nino, right?",
    "before": "That is, that"
   },
   {
-   "at": 1602.59,
+   "at": 1605.28,
    "out_db": -39.1,
    "in_db": -48.5,
    "after": "ago, you know,",
    "before": "air quality, water"
   },
   {
-   "at": 1632.98,
+   "at": 1635.68,
    "out_db": -43.8,
    "in_db": -45.4,
    "after": "One would think.",
    "before": "HVAC is its"
   },
   {
-   "at": 1714.09,
+   "at": 1716.79,
    "out_db": -46.8,
    "in_db": -50.2,
    "after": "is kind of",
    "before": "more you know"
   },
   {
-   "at": 1886.76,
+   "at": 1889.45,
    "out_db": -40.6,
    "in_db": -45.6,
    "after": "a dentist, right?",
    "before": "So what are"
   },
   {
-   "at": 1926.7,
+   "at": 1929.39,
    "out_db": -48.7,
    "in_db": -52.2,
    "after": "for JT Services?",
    "before": "I don't know"
   },
   {
-   "at": 1959.07,
+   "at": 1961.77,
    "out_db": -47.1,
    "in_db": -46.4,
    "after": "extra service lines?",
    "before": "I wouldn't say"
   },
   {
-   "at": 1967.87,
+   "at": 1970.57,
    "out_db": -51.5,
    "in_db": -47.2,
    "after": "you shouldn't have.",
    "before": "because again go"
   },
   {
-   "at": 1997.69,
+   "at": 2000.39,
    "out_db": -41.8,
    "in_db": -44.4,
    "after": "be gone, right?",
    "before": "And so I"
   },
   {
-   "at": 2014.37,
+   "at": 2017.06,
    "out_db": -48.3,
    "in_db": -49.2,
    "after": "what EBITDA is.",
    "before": "And I think"
   },
   {
-   "at": 2199.0,
+   "at": 2201.69,
    "out_db": -34.5,
    "in_db": -32.4,
    "after": "invest in yourself",

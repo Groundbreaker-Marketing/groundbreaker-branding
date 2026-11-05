@@ -1,0 +1,121 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.32,Title,,0,0,0,,{\pos(540,480)}Do you give Bob a bonus\Nbecause you {\c&H0060ECCD}like{\c&H00FFFFFF&} him?
+Dialogue: 1,0:00:00.00,0:00:00.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} ask business
+Dialogue: 1,0:00:00.23,0:00:00.49,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}ask{\c&H00FFFFFF&} business
+Dialogue: 1,0:00:00.49,0:00:00.73,Cap,,0,0,0,,{\pos(540,1400)}I ask {\c&H0060ECCD}business{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.73,0:00:00.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}owners{\c&H00FFFFFF&} all the
+Dialogue: 1,0:00:00.97,0:00:01.13,Cap,,0,0,0,,{\pos(540,1400)}owners {\c&H0060ECCD}all{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:01.13,0:00:01.25,Cap,,0,0,0,,{\pos(540,1400)}owners all {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.25,0:00:02.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}time{\c&H00FFFFFF&} do you do
+Dialogue: 1,0:00:02.11,0:00:02.27,Cap,,0,0,0,,{\pos(540,1400)}time {\c&H0060ECCD}do{\c&H00FFFFFF&} you do
+Dialogue: 1,0:00:02.27,0:00:02.37,Cap,,0,0,0,,{\pos(540,1400)}time do {\c&H0060ECCD}you{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:02.37,0:00:02.51,Cap,,0,0,0,,{\pos(540,1400)}time do you {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.51,0:00:02.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}holiday{\c&H00FFFFFF&} bonuses
+Dialogue: 1,0:00:02.89,0:00:03.35,Cap,,0,0,0,,{\pos(540,1400)}holiday {\c&H0060ECCD}bonuses{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.35,0:00:03.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} end of the
+Dialogue: 1,0:00:03.71,0:00:03.93,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}end{\c&H00FFFFFF&} of the
+Dialogue: 1,0:00:03.93,0:00:03.99,Cap,,0,0,0,,{\pos(540,1400)}or end {\c&H0060ECCD}of{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:03.99,0:00:04.07,Cap,,0,0,0,,{\pos(540,1400)}or end of {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.07,0:00:04.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}year{\c&H00FFFFFF&} bonuses what
+Dialogue: 1,0:00:04.19,0:00:04.63,Cap,,0,0,0,,{\pos(540,1400)}year {\c&H0060ECCD}bonuses{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:04.63,0:00:05.65,Cap,,0,0,0,,{\pos(540,1400)}year bonuses {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.65,0:00:05.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:05.73,0:00:05.85,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.85,0:00:06.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}parameters{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:06.31,0:00:06.63,Cap,,0,0,0,,{\pos(540,1400)}parameters {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.63,0:00:06.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} just kind of
+Dialogue: 1,0:00:06.71,0:00:06.83,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}just{\c&H00FFFFFF&} kind of
+Dialogue: 1,0:00:06.83,0:00:06.97,Cap,,0,0,0,,{\pos(540,1400)}then just {\c&H0060ECCD}kind{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:06.97,0:00:07.03,Cap,,0,0,0,,{\pos(540,1400)}then just kind {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.03,0:00:07.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}look{\c&H00FFFFFF&} at me
+Dialogue: 1,0:00:07.21,0:00:07.33,Cap,,0,0,0,,{\pos(540,1400)}look {\c&H0060ECCD}at{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:07.33,0:00:07.53,Cap,,0,0,0,,{\pos(540,1400)}look at {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.53,0:00:08.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everyone{\c&H00FFFFFF&} gets a
+Dialogue: 1,0:00:08.05,0:00:08.27,Cap,,0,0,0,,{\pos(540,1400)}everyone {\c&H0060ECCD}gets{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:08.27,0:00:08.37,Cap,,0,0,0,,{\pos(540,1400)}everyone gets {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.37,0:00:08.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trophy{\c&H00FFFFFF&} yeah like
+Dialogue: 1,0:00:08.69,0:00:09.11,Cap,,0,0,0,,{\pos(540,1400)}trophy {\c&H0060ECCD}yeah{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:09.11,0:00:09.49,Cap,,0,0,0,,{\pos(540,1400)}trophy yeah {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.49,0:00:10.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} you give Bob
+Dialogue: 1,0:00:10.49,0:00:10.61,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}you{\c&H00FFFFFF&} give Bob
+Dialogue: 1,0:00:10.61,0:00:10.83,Cap,,0,0,0,,{\pos(540,1400)}do you {\c&H0060ECCD}give{\c&H00FFFFFF&} Bob
+Dialogue: 1,0:00:10.83,0:00:11.15,Cap,,0,0,0,,{\pos(540,1400)}do you give {\c&H0060ECCD}Bob{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.15,0:00:11.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} bonus because
+Dialogue: 1,0:00:11.37,0:00:12.41,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}bonus{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:12.41,0:00:12.71,Cap,,0,0,0,,{\pos(540,1400)}a bonus {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.71,0:00:12.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} like him what
+Dialogue: 1,0:00:12.95,0:00:13.33,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}like{\c&H00FFFFFF&} him what
+Dialogue: 1,0:00:13.33,0:00:13.51,Cap,,0,0,0,,{\pos(540,1400)}you like {\c&H0060ECCD}him{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:13.51,0:00:13.95,Cap,,0,0,0,,{\pos(540,1400)}you like him {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.95,0:00:14.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you don't like
+Dialogue: 1,0:00:14.07,0:00:14.15,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} don't like
+Dialogue: 1,0:00:14.15,0:00:14.33,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}don't{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:14.33,0:00:14.59,Cap,,0,0,0,,{\pos(540,1400)}if you don't {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.59,0:00:14.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}him{\c&H00FFFFFF&} like so many
+Dialogue: 1,0:00:14.73,0:00:14.99,Cap,,0,0,0,,{\pos(540,1400)}him {\c&H0060ECCD}like{\c&H00FFFFFF&} so many
+Dialogue: 1,0:00:14.99,0:00:15.91,Cap,,0,0,0,,{\pos(540,1400)}him like {\c&H0060ECCD}so{\c&H00FFFFFF&} many
+Dialogue: 1,0:00:15.91,0:00:16.09,Cap,,0,0,0,,{\pos(540,1400)}him like so {\c&H0060ECCD}many{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.09,0:00:16.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} don't put
+Dialogue: 1,0:00:16.33,0:00:16.55,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}don't{\c&H00FFFFFF&} put
+Dialogue: 1,0:00:16.55,0:00:16.71,Cap,,0,0,0,,{\pos(540,1400)}people don't {\c&H0060ECCD}put{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.71,0:00:17.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}KPIs{\c&H00FFFFFF&} in the place
+Dialogue: 1,0:00:17.23,0:00:17.55,Cap,,0,0,0,,{\pos(540,1400)}KPIs {\c&H0060ECCD}in{\c&H00FFFFFF&} the place
+Dialogue: 1,0:00:17.55,0:00:17.85,Cap,,0,0,0,,{\pos(540,1400)}KPIs in {\c&H0060ECCD}the{\c&H00FFFFFF&} place
+Dialogue: 1,0:00:17.85,0:00:18.27,Cap,,0,0,0,,{\pos(540,1400)}KPIs in the {\c&H0060ECCD}place{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.95,0:00:19.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} so they
+Dialogue: 1,0:00:19.42,0:00:19.86,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}so{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:19.86,0:00:19.98,Cap,,0,0,0,,{\pos(540,1400)}like so {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.98,0:00:20.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} know if
+Dialogue: 1,0:00:20.16,0:00:20.28,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}know{\c&H00FFFFFF&} if
+Dialogue: 1,0:00:20.28,0:00:20.40,Cap,,0,0,0,,{\pos(540,1400)}don't know {\c&H0060ECCD}if{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.40,0:00:20.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they're{\c&H00FFFFFF&} winning
+Dialogue: 1,0:00:20.52,0:00:20.70,Cap,,0,0,0,,{\pos(540,1400)}they're {\c&H0060ECCD}winning{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.70,0:00:20.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} losing and so
+Dialogue: 1,0:00:20.84,0:00:21.18,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}losing{\c&H00FFFFFF&} and so
+Dialogue: 1,0:00:21.18,0:00:21.98,Cap,,0,0,0,,{\pos(540,1400)}or losing {\c&H0060ECCD}and{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:21.98,0:00:22.26,Cap,,0,0,0,,{\pos(540,1400)}or losing and {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.26,0:00:22.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} have KPIs this
+Dialogue: 1,0:00:22.56,0:00:22.70,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&} KPIs this
+Dialogue: 1,0:00:22.70,0:00:23.22,Cap,,0,0,0,,{\pos(540,1400)}we have {\c&H0060ECCD}KPIs{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:23.22,0:00:24.18,Cap,,0,0,0,,{\pos(540,1400)}we have KPIs {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.18,0:00:24.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} the revenue
+Dialogue: 1,0:00:24.32,0:00:24.46,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}the{\c&H00FFFFFF&} revenue
+Dialogue: 1,0:00:24.46,0:00:24.86,Cap,,0,0,0,,{\pos(540,1400)}is the {\c&H0060ECCD}revenue{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.86,0:00:25.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}target{\c&H00FFFFFF&} for the
+Dialogue: 1,0:00:25.46,0:00:25.64,Cap,,0,0,0,,{\pos(540,1400)}target {\c&H0060ECCD}for{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:25.64,0:00:25.74,Cap,,0,0,0,,{\pos(540,1400)}target for {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.74,0:00:25.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}month{\c&H00FFFFFF&} for you you
+Dialogue: 1,0:00:25.96,0:00:26.16,Cap,,0,0,0,,{\pos(540,1400)}month {\c&H0060ECCD}for{\c&H00FFFFFF&} you you
+Dialogue: 1,0:00:26.16,0:00:26.52,Cap,,0,0,0,,{\pos(540,1400)}month for {\c&H0060ECCD}you{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:26.52,0:00:27.60,Cap,,0,0,0,,{\pos(540,1400)}month for you {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.60,0:00:27.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} you got to
+Dialogue: 1,0:00:27.74,0:00:27.90,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}you{\c&H00FFFFFF&} got to
+Dialogue: 1,0:00:27.90,0:00:28.02,Cap,,0,0,0,,{\pos(540,1400)}know you {\c&H0060ECCD}got{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:28.02,0:00:28.12,Cap,,0,0,0,,{\pos(540,1400)}know you got {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.12,0:00:28.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} 20 percent or
+Dialogue: 1,0:00:28.22,0:00:28.48,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}20{\c&H00FFFFFF&} percent or
+Dialogue: 1,0:00:28.48,0:00:28.78,Cap,,0,0,0,,{\pos(540,1400)}be 20 {\c&H0060ECCD}percent{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:28.78,0:00:29.00,Cap,,0,0,0,,{\pos(540,1400)}be 20 percent {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.00,0:00:29.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}less{\c&H00FFFFFF&} on your
+Dialogue: 1,0:00:29.22,0:00:29.40,Cap,,0,0,0,,{\pos(540,1400)}less {\c&H0060ECCD}on{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:29.40,0:00:29.50,Cap,,0,0,0,,{\pos(540,1400)}less on {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.50,0:00:29.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}revenue{\c&H00FFFFFF&} and then
+Dialogue: 1,0:00:29.86,0:00:30.20,Cap,,0,0,0,,{\pos(540,1400)}revenue {\c&H0060ECCD}and{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:30.20,0:00:30.34,Cap,,0,0,0,,{\pos(540,1400)}revenue and {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.34,0:00:30.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} get bonuses
+Dialogue: 1,0:00:30.44,0:00:30.60,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}get{\c&H00FFFFFF&} bonuses
+Dialogue: 1,0:00:30.60,0:00:31.14,Cap,,0,0,0,,{\pos(540,1400)}you get {\c&H0060ECCD}bonuses{\c&H00FFFFFF&}

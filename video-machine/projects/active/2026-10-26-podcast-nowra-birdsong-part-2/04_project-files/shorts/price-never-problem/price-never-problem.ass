@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.83,Title,,0,0,0,,{\pos(540,480)}Price is never\Nthe {\c&H0060ECCD}problem{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Everybody{\c&H00FFFFFF&} tells
+Dialogue: 1,0:00:00.34,0:00:00.72,Cap,,0,0,0,,{\pos(540,1400)}Everybody {\c&H0060ECCD}tells{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.72,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everybody{\c&H00FFFFFF&} just to
+Dialogue: 1,0:00:01.12,0:00:01.40,Cap,,0,0,0,,{\pos(540,1400)}everybody {\c&H0060ECCD}just{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:01.40,0:00:01.50,Cap,,0,0,0,,{\pos(540,1400)}everybody just {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.50,0:00:01.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}go{\c&H00FFFFFF&} up on prices
+Dialogue: 1,0:00:01.64,0:00:01.78,Cap,,0,0,0,,{\pos(540,1400)}go {\c&H0060ECCD}up{\c&H00FFFFFF&} on prices
+Dialogue: 1,0:00:01.78,0:00:01.90,Cap,,0,0,0,,{\pos(540,1400)}go up {\c&H0060ECCD}on{\c&H00FFFFFF&} prices
+Dialogue: 1,0:00:01.90,0:00:02.34,Cap,,0,0,0,,{\pos(540,1400)}go up on {\c&H0060ECCD}prices{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.34,0:00:02.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} is there a
+Dialogue: 1,0:00:02.86,0:00:04.35,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}is{\c&H00FFFFFF&} there a
+Dialogue: 1,0:00:04.35,0:00:04.47,Cap,,0,0,0,,{\pos(540,1400)}right is {\c&H0060ECCD}there{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:04.47,0:00:04.81,Cap,,0,0,0,,{\pos(540,1400)}right is there {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.85,0:00:05.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}strategy{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:05.95,0:00:06.19,Cap,,0,0,0,,{\pos(540,1400)}strategy {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.19,0:00:06.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} 10% 5% why
+Dialogue: 1,0:00:06.77,0:00:07.93,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}10%{\c&H00FFFFFF&} 5% why
+Dialogue: 1,0:00:07.93,0:00:08.61,Cap,,0,0,0,,{\pos(540,1400)}like 10% {\c&H0060ECCD}5%{\c&H00FFFFFF&} why
+Dialogue: 1,0:00:08.61,0:00:08.87,Cap,,0,0,0,,{\pos(540,1400)}like 10% 5% {\c&H0060ECCD}why{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.87,0:00:08.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} you going up
+Dialogue: 1,0:00:09.01,0:00:09.23,Cap,,0,0,0,,{\pos(540,1400)}are you {\c&H0060ECCD}going{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:09.23,0:00:09.49,Cap,,0,0,0,,{\pos(540,1400)}are you going {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.49,0:00:09.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} yes I do
+Dialogue: 1,0:00:09.77,0:00:10.69,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}yes{\c&H00FFFFFF&} I do
+Dialogue: 1,0:00:10.69,0:00:11.23,Cap,,0,0,0,,{\pos(540,1400)}like yes {\c&H0060ECCD}I{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:11.23,0:00:11.39,Cap,,0,0,0,,{\pos(540,1400)}like yes I {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.39,0:00:11.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}believe{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:11.59,0:00:11.77,Cap,,0,0,0,,{\pos(540,1400)}believe {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.77,0:00:11.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}should{\c&H00FFFFFF&} go up on
+Dialogue: 1,0:00:11.91,0:00:12.05,Cap,,0,0,0,,{\pos(540,1400)}should {\c&H0060ECCD}go{\c&H00FFFFFF&} up on
+Dialogue: 1,0:00:12.05,0:00:12.19,Cap,,0,0,0,,{\pos(540,1400)}should go {\c&H0060ECCD}up{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:12.19,0:00:12.31,Cap,,0,0,0,,{\pos(540,1400)}should go up {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.31,0:00:12.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} prices but
+Dialogue: 1,0:00:12.43,0:00:12.87,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}prices{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:12.87,0:00:13.67,Cap,,0,0,0,,{\pos(540,1400)}your prices {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.67,0:00:13.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you can't back
+Dialogue: 1,0:00:13.83,0:00:13.99,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} can't back
+Dialogue: 1,0:00:13.99,0:00:14.29,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}can't{\c&H00FFFFFF&} back
+Dialogue: 1,0:00:14.29,0:00:14.47,Cap,,0,0,0,,{\pos(540,1400)}if you can't {\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.47,0:00:14.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} with the value
+Dialogue: 1,0:00:14.65,0:00:14.79,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}with{\c&H00FFFFFF&} the value
+Dialogue: 1,0:00:14.79,0:00:14.93,Cap,,0,0,0,,{\pos(540,1400)}it with {\c&H0060ECCD}the{\c&H00FFFFFF&} value
+Dialogue: 1,0:00:14.93,0:00:15.39,Cap,,0,0,0,,{\pos(540,1400)}it with the {\c&H0060ECCD}value{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.39,0:00:16.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} not going
+Dialogue: 1,0:00:16.41,0:00:16.53,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}not{\c&H00FFFFFF&} going
+Dialogue: 1,0:00:16.53,0:00:16.65,Cap,,0,0,0,,{\pos(540,1400)}you're not {\c&H0060ECCD}going{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.65,0:00:16.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} sell anything
+Dialogue: 1,0:00:16.71,0:00:16.91,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}sell{\c&H00FFFFFF&} anything
+Dialogue: 1,0:00:16.91,0:00:17.19,Cap,,0,0,0,,{\pos(540,1400)}to sell {\c&H0060ECCD}anything{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.19,0:00:17.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} and so many
+Dialogue: 1,0:00:17.49,0:00:18.53,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}and{\c&H00FFFFFF&} so many
+Dialogue: 1,0:00:18.53,0:00:20.10,Cap,,0,0,0,,{\pos(540,1400)}right and {\c&H0060ECCD}so{\c&H00FFFFFF&} many
+Dialogue: 1,0:00:20.10,0:00:20.24,Cap,,0,0,0,,{\pos(540,1400)}right and so {\c&H0060ECCD}many{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.24,0:00:21.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:21.22,0:00:21.54,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:21.54,0:00:21.68,Cap,,0,0,0,,{\pos(540,1400)}people have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.68,0:00:21.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sales{\c&H00FFFFFF&} trauma and
+Dialogue: 1,0:00:21.98,0:00:22.30,Cap,,0,0,0,,{\pos(540,1400)}sales {\c&H0060ECCD}trauma{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:22.30,0:00:23.22,Cap,,0,0,0,,{\pos(540,1400)}sales trauma {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.22,0:00:23.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} like I can't
+Dialogue: 1,0:00:23.44,0:00:23.60,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}like{\c&H00FFFFFF&} I can't
+Dialogue: 1,0:00:23.60,0:00:23.74,Cap,,0,0,0,,{\pos(540,1400)}it's like {\c&H0060ECCD}I{\c&H00FFFFFF&} can't
+Dialogue: 1,0:00:23.74,0:00:24.06,Cap,,0,0,0,,{\pos(540,1400)}it's like I {\c&H0060ECCD}can't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.06,0:00:24.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sell{\c&H00FFFFFF&} it because
+Dialogue: 1,0:00:24.28,0:00:24.42,Cap,,0,0,0,,{\pos(540,1400)}sell {\c&H0060ECCD}it{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:24.42,0:00:24.64,Cap,,0,0,0,,{\pos(540,1400)}sell it {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.64,0:00:24.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} price is too
+Dialogue: 1,0:00:24.78,0:00:25.04,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}price{\c&H00FFFFFF&} is too
+Dialogue: 1,0:00:25.04,0:00:25.20,Cap,,0,0,0,,{\pos(540,1400)}the price {\c&H0060ECCD}is{\c&H00FFFFFF&} too
+Dialogue: 1,0:00:25.20,0:00:25.32,Cap,,0,0,0,,{\pos(540,1400)}the price is {\c&H0060ECCD}too{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.32,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}high{\c&H00FFFFFF&} no price is
+Dialogue: 1,0:00:25.58,0:00:26.08,Cap,,0,0,0,,{\pos(540,1400)}high {\c&H0060ECCD}no{\c&H00FFFFFF&} price is
+Dialogue: 1,0:00:26.08,0:00:27.70,Cap,,0,0,0,,{\pos(540,1400)}high no {\c&H0060ECCD}price{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:27.70,0:00:27.96,Cap,,0,0,0,,{\pos(540,1400)}high no price {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.96,0:00:28.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}never{\c&H00FFFFFF&} the problem
+Dialogue: 1,0:00:28.26,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}never {\c&H0060ECCD}the{\c&H00FFFFFF&} problem
+Dialogue: 1,0:00:28.46,0:00:28.90,Cap,,0,0,0,,{\pos(540,1400)}never the {\c&H0060ECCD}problem{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.90,0:00:29.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} value it's
+Dialogue: 1,0:00:29.42,0:00:29.78,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}value{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:29.78,0:00:30.26,Cap,,0,0,0,,{\pos(540,1400)}the value {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.26,0:00:30.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} value they
+Dialogue: 1,0:00:30.38,0:00:30.74,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}value{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:30.74,0:00:31.16,Cap,,0,0,0,,{\pos(540,1400)}the value {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.16,0:00:31.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}failed{\c&H00FFFFFF&} to sell
+Dialogue: 1,0:00:31.60,0:00:31.82,Cap,,0,0,0,,{\pos(540,1400)}failed {\c&H0060ECCD}to{\c&H00FFFFFF&} sell
+Dialogue: 1,0:00:31.82,0:00:32.66,Cap,,0,0,0,,{\pos(540,1400)}failed to {\c&H0060ECCD}sell{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.66,0:00:32.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&} the value
+Dialogue: 1,0:00:32.78,0:00:32.88,Cap,,0,0,0,,{\pos(540,1400)}them {\c&H0060ECCD}the{\c&H00FFFFFF&} value
+Dialogue: 1,0:00:32.88,0:00:33.18,Cap,,0,0,0,,{\pos(540,1400)}them the {\c&H0060ECCD}value{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.18,0:00:33.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} if you don't
+Dialogue: 1,0:00:33.74,0:00:33.86,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}if{\c&H00FFFFFF&} you don't
+Dialogue: 1,0:00:33.86,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}but if {\c&H0060ECCD}you{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:33.96,0:00:34.10,Cap,,0,0,0,,{\pos(540,1400)}but if you {\c&H0060ECCD}don't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.10,0:00:34.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}even{\c&H00FFFFFF&} know your
+Dialogue: 1,0:00:34.22,0:00:34.38,Cap,,0,0,0,,{\pos(540,1400)}even {\c&H0060ECCD}know{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:34.38,0:00:34.50,Cap,,0,0,0,,{\pos(540,1400)}even know {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.50,0:00:34.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}numbers{\c&H00FFFFFF&} how do
+Dialogue: 1,0:00:34.80,0:00:34.94,Cap,,0,0,0,,{\pos(540,1400)}numbers {\c&H0060ECCD}how{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:34.94,0:00:35.06,Cap,,0,0,0,,{\pos(540,1400)}numbers how {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.06,0:00:35.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} sell the
+Dialogue: 1,0:00:35.14,0:00:35.32,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}sell{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:35.32,0:00:35.42,Cap,,0,0,0,,{\pos(540,1400)}you sell {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.42,0:00:35.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}value{\c&H00FFFFFF&}

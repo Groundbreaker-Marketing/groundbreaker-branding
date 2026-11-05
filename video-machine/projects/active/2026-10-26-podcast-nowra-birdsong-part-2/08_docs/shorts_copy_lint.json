@@ -1,0 +1,12 @@
+{
+  "disposal-crisis": {
+    "fails": [],
+    "warns": []
+  },
+  "hourly-rate": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  }
+}
