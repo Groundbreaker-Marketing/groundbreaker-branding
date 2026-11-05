@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 15 clips from the 2026-10-06 solo episode (take 144723, the full retake). keep = word-index ranges of 02_audio/words/144723.json, inclusive, in play order; fillers (um/uh) skip automatically; fixes = word index -> caption text. approved = Ashley approved the edit, title and description for publishing. Caption-hidden words (fixes \"\") stay in the audio: cutting them would clip the words beside them.",
+ "_how": "Recipe for shorts.build (video-machine). 15 clips from the 2026-10-06 solo episode (take 144723, the full retake). keep = word-index ranges of 02_audio/words/144723.json, inclusive, in play order; fillers (um/uh) skip automatically; fixes = word index -> caption text. approved = Ashley approved the edit, title and description for publishing. Caption-hidden words (fixes \"\") stay in the audio: cutting them would clip the words beside them. TikTok catch-up (2026-11-04): every TikTok part of these Shorts failed Oct 14..20 (the chapter track), so each clip's \"tiktok_catchup\" is a TikTok-only post of its own, kept out of \"metricool\" so social.shorts and Ops never touch the clip's other, already-posted networks. Its media is 05_exports/shorts/tiktok-cover/<id>.mp4: the approved render with the clip's cover as frame one, which TikTok shows as the cover.",
  "fillers": true,
  "cover_with": "on The #2 Septic Podcast",
  "clips": [
@@ -43,6 +43,17 @@
     "post_id": 392231028,
     "media": "https://static.metricool.com/video/4530374/202610/3af44d479f7f48c1.mp4",
     "scheduled": "2026-10-15T17:00:00"
+   },
+   "cover_at": 140.0,
+   "cover": "07_notes/shorts/covers/record-every-call.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-09T09:00:00",
+    "caption": "Every email, text, phone call and Zoom meeting with our clients gets recorded. Not to be creepy. Nobody can remember 600-plus questions a month, and that record is how your goals and preferences never get lost. It's filed in your own Google Drive folder, and my husband Josh Christian keeps it locked down.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #septicbusiness #clientservice #marketingagency",
+    "media": "05_exports/shorts/tiktok-cover/record-every-call.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/37ac01f779d0439a.mp4",
+    "post_id": 417207226,
+    "scheduled": "2026-11-09T09:00:00"
    }
   },
   {
@@ -80,7 +91,16 @@
     "scheduled": "2026-10-19T12:00:00"
    },
    "cover_at": 331.8,
-   "cover": "07_notes/shorts/covers/number-one-lever.jpg"
+   "cover": "07_notes/shorts/covers/number-one-lever.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-15T09:00:00",
+    "caption": "If you want your septic company showing up in AI search, the biggest lever you can pull is publishing your prices on your website. When your local competitors hide theirs and you show yours, you're the company AI points people to. The catch: you want to be the first in your area to do it.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #aisearch #septicpumping #localseo",
+    "media": "05_exports/shorts/tiktok-cover/number-one-lever.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/6eb55630b48842ea.mp4",
+    "post_id": 417209567,
+    "scheduled": "2026-11-15T09:00:00"
+   }
   },
   {
    "id": "leads-from-chatgpt",
@@ -117,6 +137,17 @@
     "post_id": 392289131,
     "media": "https://static.metricool.com/video/4530374/202610/d158fa3cb89440c8.mp4",
     "scheduled": "2026-10-19T17:00:00"
+   },
+   "cover_at": 392.4,
+   "cover": "07_notes/shorts/covers/leads-from-chatgpt.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-16T09:00:00",
+    "caption": "Homeowners are asking ChatGPT, Gemini and Google's AI who to call for septic service, and our clients are getting more and more of those requests. We track every phone call, text and website form with attribution, so when a lead finds you through ChatGPT, you know it.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #chatgpt #leadtracking #septicbusiness",
+    "media": "05_exports/shorts/tiktok-cover/leads-from-chatgpt.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/3e940e7ad9a24914.mp4",
+    "post_id": 417209790,
+    "scheduled": "2026-11-16T09:00:00"
    }
   },
   {
@@ -161,6 +192,17 @@
     "post_id": 392231044,
     "media": "https://static.metricool.com/video/4530374/202610/b0454378dcad4996.mp4",
     "scheduled": "2026-10-14T17:00:00"
+   },
+   "cover_at": 415.0,
+   "cover": "07_notes/shorts/covers/ai-visibility-tracker.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-07T09:00:00",
+    "caption": "We check where your septic company ranks in AI search the same way a homeowner finds you: real questions about septic service, asked in your service area, on the top four AI platforms. Our clients see that ranking next to their competitors on their dashboard, and right now most of them are at the top of it.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #aivisibility #septicmarketing #localbusiness",
+    "media": "05_exports/shorts/tiktok-cover/ai-visibility-tracker.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/4cd3fc09ba394099.mp4",
+    "post_id": 417206204,
+    "scheduled": "2026-11-07T09:00:00"
    }
   },
   {
@@ -193,6 +235,17 @@
     "post_id": 392231058,
     "media": "https://static.metricool.com/video/4530374/202610/9d21363ab24a480a.mp4",
     "scheduled": "2026-10-16T17:00:00"
+   },
+   "cover_at": 493.0,
+   "cover": "07_notes/shorts/covers/do-what-google-wants.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-11T09:00:00",
+    "caption": "Google keeps pushing businesses to show their prices, and the more you show them, the more Google shows you. Our clients who publish their prices are getting calls, texts and website forms from AI search right now. Once owners see that, most of them are happy to put their prices out there.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #localseo #pricing #septicpumping",
+    "media": "05_exports/shorts/tiktok-cover/do-what-google-wants.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/368f0a6cce634483.mp4",
+    "post_id": 417207855,
+    "scheduled": "2026-11-11T09:00:00"
    }
   },
   {
@@ -250,7 +303,16 @@
     "scheduled": "2026-10-16T12:00:00"
    },
    "cover_at": 530.9,
-   "cover": "07_notes/shorts/covers/competitors-undercut.jpg"
+   "cover": "07_notes/shorts/covers/competitors-undercut.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-10T09:00:00",
+    "caption": "Afraid that if you publish your prices, a competitor will undercut you by $50 on a pump-out? They probably already know what you charge. Those calls asking for a quick price from someone who never books? That happens every day. Your prices aren't as secret as you think. Agree?\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #septicbusiness #pricing #competition",
+    "media": "05_exports/shorts/tiktok-cover/competitors-undercut.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/416dfa908ab9407d.mp4",
+    "post_id": 417207354,
+    "scheduled": "2026-11-10T09:00:00"
+   }
   },
   {
    "id": "coupon-trick",
@@ -316,7 +378,16 @@
     "scheduled": "2026-10-14T12:00:00"
    },
    "cover_at": 692.8,
-   "cover": "07_notes/shorts/covers/coupon-trick.jpg"
+   "cover": "07_notes/shorts/covers/coupon-trick.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-06T09:00:00",
+    "caption": "One septic company lists its pump-outs at $1,200, then runs a limited-time $500 off coupon. A client asked me if skipping that trick would put them behind. Think like the customer. Someone who doesn't shop around might bite. Someone who checks a few companies sees the markdown and trusts that company less. Agree?\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #septicpumping #pricing #septicbusiness",
+    "media": "05_exports/shorts/tiktok-cover/coupon-trick.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/c10c80cdc3484967.mp4",
+    "post_id": 417205972,
+    "scheduled": "2026-11-06T09:00:00"
+   }
   },
   {
    "id": "one-fair-price",
@@ -400,6 +471,17 @@
     "post_id": 392231090,
     "media": "https://static.metricool.com/video/4530374/202610/b85ea540b72a40ac.mp4",
     "scheduled": "2026-10-18T12:00:00"
+   },
+   "cover_at": 798.4,
+   "cover": "07_notes/shorts/covers/honest-companies-win.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-14T09:00:00",
+    "caption": "Homeowners can't see inside their septic system, the same way most of us can't judge what a mechanic tells us. So the company that recommends the repair before selling a whole new system is the one they trust. And trust is what gets you shown first on Google. Agree?\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #septicrepair #septicservice #smallbusiness",
+    "media": "05_exports/shorts/tiktok-cover/honest-companies-win.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/dedda17da0754824.mp4",
+    "post_id": 417209058,
+    "scheduled": "2026-11-14T09:00:00"
    }
   },
   {
@@ -447,6 +529,17 @@
     "post_id": 392231109,
     "media": "https://static.metricool.com/video/4530374/202610/711652f538864108.mp4",
     "scheduled": "2026-10-17T12:00:00"
+   },
+   "cover_at": 849.5,
+   "cover": "07_notes/shorts/covers/what-google-rewards.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-12T09:00:00",
+    "caption": "Google's whole business model is keeping its users happy. So when it decides who to show first, it looks for the septic company most likely to treat customers well. Your reviews are a huge part of that trust. Being upfront with your prices builds it too. Agree?\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #googlereviews #localseo #septicmarketing",
+    "media": "05_exports/shorts/tiktok-cover/what-google-rewards.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/e32bbb03cfe6439a.mp4",
+    "post_id": 417208037,
+    "scheduled": "2026-11-12T09:00:00"
    }
   },
   {
@@ -489,7 +582,16 @@
     "scheduled": "2026-10-15T12:00:00"
    },
    "cover_at": 935.1,
-   "cover": "07_notes/shorts/covers/google-ai-calls.jpg"
+   "cover": "07_notes/shorts/covers/google-ai-calls.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-08T09:00:00",
+    "caption": "There's a Get a Quote button on Google now. When a homeowner taps it, Google's voice AI calls four or five septic companies, asks each one for a quote and sends the answers back. It reports on every company it called, including the ones that didn't answer or wouldn't give a price. Is your office ready for that call?\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #googlebusinessprofile #voiceai #septicbusiness",
+    "media": "05_exports/shorts/tiktok-cover/google-ai-calls.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/9adb9a15f6c14a68.mp4",
+    "post_id": 417206356,
+    "scheduled": "2026-11-08T09:00:00"
+   }
   },
   {
    "id": "price-by-distance",
@@ -539,6 +641,17 @@
     "post_id": 392231139,
     "media": "https://static.metricool.com/video/4530374/202610/f9ef6acdf5f44875.mp4",
     "scheduled": "2026-10-17T17:00:00"
+   },
+   "cover_at": 1050.2,
+   "cover": "07_notes/shorts/covers/price-by-distance.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-13T09:00:00",
+    "caption": "Pricing a pump-out by distance from your yard isn't just about the drive. Diesel, wear on the truck and the trip to your dump site all add up. Inspections and installs can travel farther because those jobs are worth more. With pumping, 30 minutes out and an hour and 15 out shouldn't cost the same.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #pumptruck #septicpumping #pricing",
+    "media": "05_exports/shorts/tiktok-cover/price-by-distance.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/aad9d3733b4c4339.mp4",
+    "post_id": 417208441,
+    "scheduled": "2026-11-13T09:00:00"
    }
   },
   {
@@ -589,7 +702,16 @@
     "scheduled": "2026-10-20T12:00:00"
    },
    "cover_at": 1171.9,
-   "cover": "07_notes/shorts/covers/post-variable-prices.jpg"
+   "cover": "07_notes/shorts/covers/post-variable-prices.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-17T09:00:00",
+    "caption": "Your prices change with tank size? You can still put them on your website. List your tiers, give a range from your lowest to your highest pump-out, price the first thousand gallons, or just show where you start. The goal isn't getting into the weeds. It's getting a price out there.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #septicwebsite #pricing #septicpumping",
+    "media": "05_exports/shorts/tiktok-cover/post-variable-prices.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/2a771f37b7e54a49.mp4",
+    "post_id": 417209954,
+    "scheduled": "2026-11-17T09:00:00"
+   }
   },
   {
    "id": "install-prices",
@@ -665,6 +787,17 @@
     "post_id": 392231165,
     "media": "https://static.metricool.com/video/4530374/202610/c14edc45eaec45dc.mp4",
     "scheduled": "2026-10-20T17:00:00"
+   },
+   "cover_at": 1285.9,
+   "cover": "07_notes/shorts/covers/beyond-wordpress.jpg",
+   "tiktok_catchup": {
+    "publish_at": "2026-11-18T09:00:00",
+    "caption": "We used to build every site on WordPress. Now we build them on Astro with AI tools, and honestly, that part isn't hard anymore. The hard part is building it the right way: the information and trust signals Google wants so you show up first, and a page that turns visitors into customers.\n\nFull episode on our YouTube: https://www.youtube.com/watch?v=lEFqsU00vVI\n\n#septic #septicwebsite #webdesign #seo",
+    "media": "05_exports/shorts/tiktok-cover/beyond-wordpress.mp4",
+    "approved": "2026-11-04: Ashley approved the times and captions in chat",
+    "media_url": "https://static.metricool.com/video/4530374/202611/3900ef4f44674cfa.mp4",
+    "post_id": 417210576,
+    "scheduled": "2026-11-18T09:00:00"
    }
   }
  ]
