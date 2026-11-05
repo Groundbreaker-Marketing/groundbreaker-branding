@@ -1,0 +1,159 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:47.61,Title,,0,0,0,,{\pos(540,480)}Promoting your best tech\Ncan {\c&H0060ECCD}fail{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:00.04,0:00:00.42,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}lessons{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:00.42,0:00:00.76,Cap,,0,0,0,,{\pos(540,1400)}The lessons {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.76,0:00:00.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} took from
+Dialogue: 1,0:00:00.90,0:00:01.18,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}took{\c&H00FFFFFF&} from
+Dialogue: 1,0:00:01.18,0:00:01.56,Cap,,0,0,0,,{\pos(540,1400)}I took {\c&H0060ECCD}from{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.56,0:00:02.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hiring{\c&H00FFFFFF&} people is
+Dialogue: 1,0:00:02.10,0:00:02.66,Cap,,0,0,0,,{\pos(540,1400)}hiring {\c&H0060ECCD}people{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:02.66,0:00:03.78,Cap,,0,0,0,,{\pos(540,1400)}hiring people {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.85,0:00:04.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}at{\c&H00FFFFFF&} the time
+Dialogue: 1,0:00:04.77,0:00:04.87,Cap,,0,0,0,,{\pos(540,1400)}at {\c&H0060ECCD}the{\c&H00FFFFFF&} time
+Dialogue: 1,0:00:04.87,0:00:05.25,Cap,,0,0,0,,{\pos(540,1400)}at the {\c&H0060ECCD}time{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.25,0:00:05.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} didn't have a
+Dialogue: 1,0:00:05.97,0:00:06.15,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}didn't{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:06.15,0:00:06.31,Cap,,0,0,0,,{\pos(540,1400)}I didn't {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:06.31,0:00:06.49,Cap,,0,0,0,,{\pos(540,1400)}I didn't have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.49,0:00:06.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}skill{\c&H00FFFFFF&} set to make
+Dialogue: 1,0:00:06.81,0:00:07.21,Cap,,0,0,0,,{\pos(540,1400)}skill {\c&H0060ECCD}set{\c&H00FFFFFF&} to make
+Dialogue: 1,0:00:07.21,0:00:07.53,Cap,,0,0,0,,{\pos(540,1400)}skill set {\c&H0060ECCD}to{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:07.53,0:00:07.71,Cap,,0,0,0,,{\pos(540,1400)}skill set to {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.71,0:00:07.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} bunch of me's
+Dialogue: 1,0:00:07.83,0:00:08.01,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}bunch{\c&H00FFFFFF&} of me's
+Dialogue: 1,0:00:08.01,0:00:08.15,Cap,,0,0,0,,{\pos(540,1400)}a bunch {\c&H0060ECCD}of{\c&H00FFFFFF&} me's
+Dialogue: 1,0:00:08.15,0:00:08.83,Cap,,0,0,0,,{\pos(540,1400)}a bunch of {\c&H0060ECCD}me's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.35,0:00:09.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} that's where
+Dialogue: 1,0:00:09.83,0:00:10.07,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}that's{\c&H00FFFFFF&} where
+Dialogue: 1,0:00:10.07,0:00:10.23,Cap,,0,0,0,,{\pos(540,1400)}And that's {\c&H0060ECCD}where{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.23,0:00:10.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} really
+Dialogue: 1,0:00:10.61,0:00:10.97,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}really{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.97,0:00:11.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}make{\c&H00FFFFFF&} mistakes
+Dialogue: 1,0:00:11.19,0:00:11.61,Cap,,0,0,0,,{\pos(540,1400)}make {\c&H0060ECCD}mistakes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.61,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} they have a
+Dialogue: 1,0:00:11.83,0:00:11.95,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}they{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:11.95,0:00:12.09,Cap,,0,0,0,,{\pos(540,1400)}is they {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:12.09,0:00:12.25,Cap,,0,0,0,,{\pos(540,1400)}is they have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.25,0:00:12.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}really{\c&H00FFFFFF&} good
+Dialogue: 1,0:00:12.61,0:00:12.85,Cap,,0,0,0,,{\pos(540,1400)}really {\c&H0060ECCD}good{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.85,0:00:13.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}person{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.41,0:00:14.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} they may be
+Dialogue: 1,0:00:14.61,0:00:14.95,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}they{\c&H00FFFFFF&} may be
+Dialogue: 1,0:00:14.95,0:00:15.07,Cap,,0,0,0,,{\pos(540,1400)}and they {\c&H0060ECCD}may{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:15.07,0:00:15.17,Cap,,0,0,0,,{\pos(540,1400)}and they may {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.17,0:00:15.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} top revenue
+Dialogue: 1,0:00:15.31,0:00:15.55,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}top{\c&H00FFFFFF&} revenue
+Dialogue: 1,0:00:15.55,0:00:15.89,Cap,,0,0,0,,{\pos(540,1400)}a top {\c&H0060ECCD}revenue{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.89,0:00:16.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}producer{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.77,0:00:16.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} I've made
+Dialogue: 1,0:00:16.85,0:00:17.37,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}I've{\c&H00FFFFFF&} made
+Dialogue: 1,0:00:17.37,0:00:17.57,Cap,,0,0,0,,{\pos(540,1400)}And I've {\c&H0060ECCD}made{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.57,0:00:18.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}several{\c&H00FFFFFF&} of these
+Dialogue: 1,0:00:18.13,0:00:18.29,Cap,,0,0,0,,{\pos(540,1400)}several {\c&H0060ECCD}of{\c&H00FFFFFF&} these
+Dialogue: 1,0:00:18.29,0:00:18.45,Cap,,0,0,0,,{\pos(540,1400)}several of {\c&H0060ECCD}these{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.45,0:00:19.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mistakes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.11,0:00:19.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} later on in
+Dialogue: 1,0:00:19.45,0:00:20.05,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}later{\c&H00FFFFFF&} on in
+Dialogue: 1,0:00:20.05,0:00:20.31,Cap,,0,0,0,,{\pos(540,1400)}And later {\c&H0060ECCD}on{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:20.31,0:00:20.43,Cap,,0,0,0,,{\pos(540,1400)}And later on {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.43,0:00:20.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}life{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.71,0:00:20.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} called these
+Dialogue: 1,0:00:20.93,0:00:21.25,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}called{\c&H00FFFFFF&} these
+Dialogue: 1,0:00:21.25,0:00:21.43,Cap,,0,0,0,,{\pos(540,1400)}I called {\c&H0060ECCD}these{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.43,0:00:21.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} and said
+Dialogue: 1,0:00:21.77,0:00:21.91,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}and{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:21.91,0:00:22.07,Cap,,0,0,0,,{\pos(540,1400)}people and {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.07,0:00:22.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}man{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.19,0:00:22.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} need to
+Dialogue: 1,0:00:22.27,0:00:22.41,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}need{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:22.41,0:00:22.55,Cap,,0,0,0,,{\pos(540,1400)}I need {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.55,0:00:23.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}apologize{\c&H00FFFFFF&} to you
+Dialogue: 1,0:00:23.09,0:00:23.43,Cap,,0,0,0,,{\pos(540,1400)}apologize {\c&H0060ECCD}to{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:23.43,0:00:23.51,Cap,,0,0,0,,{\pos(540,1400)}apologize to {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.51,0:00:23.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} failed you
+Dialogue: 1,0:00:23.79,0:00:24.33,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}failed{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:24.33,0:00:24.73,Cap,,0,0,0,,{\pos(540,1400)}I failed {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.25,0:00:25.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Just{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:25.77,0:00:26.03,Cap,,0,0,0,,{\pos(540,1400)}Just {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.03,0:00:26.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} really
+Dialogue: 1,0:00:26.27,0:00:26.73,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}really{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.73,0:00:26.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}good{\c&H00FFFFFF&} at what you
+Dialogue: 1,0:00:26.97,0:00:27.13,Cap,,0,0,0,,{\pos(540,1400)}good {\c&H0060ECCD}at{\c&H00FFFFFF&} what you
+Dialogue: 1,0:00:27.13,0:00:27.27,Cap,,0,0,0,,{\pos(540,1400)}good at {\c&H0060ECCD}what{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:27.27,0:00:27.45,Cap,,0,0,0,,{\pos(540,1400)}good at what {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.45,0:00:27.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} doesn't mean
+Dialogue: 1,0:00:27.79,0:00:28.51,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}doesn't{\c&H00FFFFFF&} mean
+Dialogue: 1,0:00:28.51,0:00:28.73,Cap,,0,0,0,,{\pos(540,1400)}do doesn't {\c&H0060ECCD}mean{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.73,0:00:28.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} you have the
+Dialogue: 1,0:00:28.99,0:00:29.23,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}you{\c&H00FFFFFF&} have the
+Dialogue: 1,0:00:29.23,0:00:29.49,Cap,,0,0,0,,{\pos(540,1400)}that you {\c&H0060ECCD}have{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:29.49,0:00:29.71,Cap,,0,0,0,,{\pos(540,1400)}that you have {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.71,0:00:30.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}skill{\c&H00FFFFFF&} set and
+Dialogue: 1,0:00:30.25,0:00:30.63,Cap,,0,0,0,,{\pos(540,1400)}skill {\c&H0060ECCD}set{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:30.63,0:00:30.93,Cap,,0,0,0,,{\pos(540,1400)}skill set {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.93,0:00:31.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}knowledge{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:31.41,0:00:32.01,Cap,,0,0,0,,{\pos(540,1400)}knowledge {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.01,0:00:32.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}create{\c&H00FFFFFF&} a bunch
+Dialogue: 1,0:00:32.35,0:00:32.49,Cap,,0,0,0,,{\pos(540,1400)}create {\c&H0060ECCD}a{\c&H00FFFFFF&} bunch
+Dialogue: 1,0:00:32.49,0:00:32.65,Cap,,0,0,0,,{\pos(540,1400)}create a {\c&H0060ECCD}bunch{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.65,0:00:32.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} of you but
+Dialogue: 1,0:00:32.91,0:00:33.05,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}of{\c&H00FFFFFF&} you but
+Dialogue: 1,0:00:33.05,0:00:33.23,Cap,,0,0,0,,{\pos(540,1400)}more of {\c&H0060ECCD}you{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:33.23,0:00:33.61,Cap,,0,0,0,,{\pos(540,1400)}more of you {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.61,0:00:34.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} a business
+Dialogue: 1,0:00:34.23,0:00:34.35,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}a{\c&H00FFFFFF&} business
+Dialogue: 1,0:00:34.35,0:00:34.61,Cap,,0,0,0,,{\pos(540,1400)}as a {\c&H0060ECCD}business{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.61,0:00:34.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}owner{\c&H00FFFFFF&} I want a
+Dialogue: 1,0:00:34.89,0:00:35.09,Cap,,0,0,0,,{\pos(540,1400)}owner {\c&H0060ECCD}I{\c&H00FFFFFF&} want a
+Dialogue: 1,0:00:35.09,0:00:35.31,Cap,,0,0,0,,{\pos(540,1400)}owner I {\c&H0060ECCD}want{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:35.31,0:00:35.41,Cap,,0,0,0,,{\pos(540,1400)}owner I want {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.41,0:00:35.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bunch{\c&H00FFFFFF&} more of you
+Dialogue: 1,0:00:35.59,0:00:35.83,Cap,,0,0,0,,{\pos(540,1400)}bunch {\c&H0060ECCD}more{\c&H00FFFFFF&} of you
+Dialogue: 1,0:00:35.83,0:00:35.95,Cap,,0,0,0,,{\pos(540,1400)}bunch more {\c&H0060ECCD}of{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:35.95,0:00:36.05,Cap,,0,0,0,,{\pos(540,1400)}bunch more of {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.05,0:00:36.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} and so I
+Dialogue: 1,0:00:36.31,0:00:37.15,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}and{\c&H00FFFFFF&} so I
+Dialogue: 1,0:00:37.15,0:00:37.43,Cap,,0,0,0,,{\pos(540,1400)}right and {\c&H0060ECCD}so{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:37.43,0:00:37.69,Cap,,0,0,0,,{\pos(540,1400)}right and so {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.69,0:00:38.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}failed{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:38.21,0:00:38.45,Cap,,0,0,0,,{\pos(540,1400)}failed {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.45,0:00:39.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:39.19,0:00:39.77,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.77,0:00:40.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}promoting{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:40.43,0:00:40.69,Cap,,0,0,0,,{\pos(540,1400)}promoting {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.69,0:00:40.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:40.97,0:00:41.31,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.31,0:00:41.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}really{\c&H00FFFFFF&} good at
+Dialogue: 1,0:00:41.53,0:00:41.71,Cap,,0,0,0,,{\pos(540,1400)}really {\c&H0060ECCD}good{\c&H00FFFFFF&} at
+Dialogue: 1,0:00:41.71,0:00:41.85,Cap,,0,0,0,,{\pos(540,1400)}really good {\c&H0060ECCD}at{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.85,0:00:41.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} they do and
+Dialogue: 1,0:00:41.97,0:00:42.13,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}they{\c&H00FFFFFF&} do and
+Dialogue: 1,0:00:42.13,0:00:42.43,Cap,,0,0,0,,{\pos(540,1400)}what they {\c&H0060ECCD}do{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:42.43,0:00:42.93,Cap,,0,0,0,,{\pos(540,1400)}what they do {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.93,0:00:43.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} didn't provide
+Dialogue: 1,0:00:43.03,0:00:43.27,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}didn't{\c&H00FFFFFF&} provide
+Dialogue: 1,0:00:43.27,0:00:43.61,Cap,,0,0,0,,{\pos(540,1400)}I didn't {\c&H0060ECCD}provide{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.61,0:00:43.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&} the skill
+Dialogue: 1,0:00:43.79,0:00:43.97,Cap,,0,0,0,,{\pos(540,1400)}them {\c&H0060ECCD}the{\c&H00FFFFFF&} skill
+Dialogue: 1,0:00:43.97,0:00:44.27,Cap,,0,0,0,,{\pos(540,1400)}them the {\c&H0060ECCD}skill{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.27,0:00:44.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}set{\c&H00FFFFFF&} to be able
+Dialogue: 1,0:00:44.75,0:00:45.31,Cap,,0,0,0,,{\pos(540,1400)}set {\c&H0060ECCD}to{\c&H00FFFFFF&} be able
+Dialogue: 1,0:00:45.31,0:00:45.45,Cap,,0,0,0,,{\pos(540,1400)}set to {\c&H0060ECCD}be{\c&H00FFFFFF&} able
+Dialogue: 1,0:00:45.45,0:00:45.95,Cap,,0,0,0,,{\pos(540,1400)}set to be {\c&H0060ECCD}able{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.95,0:00:46.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} lead people
+Dialogue: 1,0:00:46.53,0:00:47.13,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}lead{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:47.13,0:00:47.65,Cap,,0,0,0,,{\pos(540,1400)}to lead {\c&H0060ECCD}people{\c&H00FFFFFF&}

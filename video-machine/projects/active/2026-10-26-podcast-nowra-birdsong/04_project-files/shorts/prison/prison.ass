@@ -1,0 +1,121 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:43.57,Title,,0,0,0,,{\pos(540,480)}Is your septic business\Na {\c&H0060ECCD}prison{\c&H00FFFFFF&} with your name on it?
+Dialogue: 1,0:00:00.00,0:00:00.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} many people go
+Dialogue: 1,0:00:00.14,0:00:00.44,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}many{\c&H00FFFFFF&} people go
+Dialogue: 1,0:00:00.44,0:00:00.96,Cap,,0,0,0,,{\pos(540,1400)}So many {\c&H0060ECCD}people{\c&H00FFFFFF&} go
+Dialogue: 1,0:00:00.96,0:00:01.36,Cap,,0,0,0,,{\pos(540,1400)}So many people {\c&H0060ECCD}go{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.36,0:00:01.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}into{\c&H00FFFFFF&} business for
+Dialogue: 1,0:00:01.58,0:00:03.44,Cap,,0,0,0,,{\pos(540,1400)}into {\c&H0060ECCD}business{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:03.44,0:00:04.06,Cap,,0,0,0,,{\pos(540,1400)}into business {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.06,0:00:04.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} theory of
+Dialogue: 1,0:00:04.28,0:00:04.66,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}theory{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:04.66,0:00:05.08,Cap,,0,0,0,,{\pos(540,1400)}the theory {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.08,0:00:05.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}freedom{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.94,0:00:06.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whether{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:06.10,0:00:06.48,Cap,,0,0,0,,{\pos(540,1400)}whether {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.48,0:00:07.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}financial{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.34,0:00:07.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}freedom{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.58,0:00:08.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}time{\c&H00FFFFFF&} freedom
+Dialogue: 1,0:00:08.94,0:00:09.36,Cap,,0,0,0,,{\pos(540,1400)}time {\c&H0060ECCD}freedom{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.36,0:00:10.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} they quickly
+Dialogue: 1,0:00:10.54,0:00:10.70,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}they{\c&H00FFFFFF&} quickly
+Dialogue: 1,0:00:10.70,0:00:11.14,Cap,,0,0,0,,{\pos(540,1400)}and they {\c&H0060ECCD}quickly{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.14,0:00:11.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} realize
+Dialogue: 1,0:00:11.50,0:00:11.94,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}realize{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.94,0:00:12.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:12.30,0:00:12.48,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.48,0:00:12.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}building{\c&H00FFFFFF&} a prison
+Dialogue: 1,0:00:12.72,0:00:12.92,Cap,,0,0,0,,{\pos(540,1400)}building {\c&H0060ECCD}a{\c&H00FFFFFF&} prison
+Dialogue: 1,0:00:12.92,0:00:13.28,Cap,,0,0,0,,{\pos(540,1400)}building a {\c&H0060ECCD}prison{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.28,0:00:13.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} their name
+Dialogue: 1,0:00:13.50,0:00:13.62,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}their{\c&H00FFFFFF&} name
+Dialogue: 1,0:00:13.62,0:00:13.86,Cap,,0,0,0,,{\pos(540,1400)}with their {\c&H0060ECCD}name{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.86,0:00:14.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:14.06,0:00:14.97,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.97,0:00:15.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} you know
+Dialogue: 1,0:00:15.39,0:00:15.73,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:15.73,0:00:16.85,Cap,,0,0,0,,{\pos(540,1400)}and you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.85,0:00:17.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}instead{\c&H00FFFFFF&} of owning
+Dialogue: 1,0:00:17.63,0:00:18.36,Cap,,0,0,0,,{\pos(540,1400)}instead {\c&H0060ECCD}of{\c&H00FFFFFF&} owning
+Dialogue: 1,0:00:18.36,0:00:19.52,Cap,,0,0,0,,{\pos(540,1400)}instead of {\c&H0060ECCD}owning{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.52,0:00:19.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} business and
+Dialogue: 1,0:00:19.70,0:00:19.96,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}business{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:19.96,0:00:20.22,Cap,,0,0,0,,{\pos(540,1400)}a business {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.22,0:00:20.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}running{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:20.50,0:00:20.68,Cap,,0,0,0,,{\pos(540,1400)}running {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.68,0:00:20.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:20.98,0:00:21.28,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.28,0:00:21.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} owns and
+Dialogue: 1,0:00:21.56,0:00:21.86,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}owns{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:21.86,0:00:22.02,Cap,,0,0,0,,{\pos(540,1400)}business owns {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.02,0:00:22.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}runs{\c&H00FFFFFF&} you and that
+Dialogue: 1,0:00:22.24,0:00:22.52,Cap,,0,0,0,,{\pos(540,1400)}runs {\c&H0060ECCD}you{\c&H00FFFFFF&} and that
+Dialogue: 1,0:00:22.52,0:00:23.34,Cap,,0,0,0,,{\pos(540,1400)}runs you {\c&H0060ECCD}and{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:23.34,0:00:23.62,Cap,,0,0,0,,{\pos(540,1400)}runs you and {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.62,0:00:24.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} one of the
+Dialogue: 1,0:00:24.10,0:00:24.28,Cap,,0,0,0,,{\pos(540,1400)}that's {\c&H0060ECCD}one{\c&H00FFFFFF&} of the
+Dialogue: 1,0:00:24.28,0:00:24.36,Cap,,0,0,0,,{\pos(540,1400)}that's one {\c&H0060ECCD}of{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:24.36,0:00:24.46,Cap,,0,0,0,,{\pos(540,1400)}that's one of {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.46,0:00:24.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hardest{\c&H00FFFFFF&} lessons
+Dialogue: 1,0:00:24.74,0:00:25.20,Cap,,0,0,0,,{\pos(540,1400)}hardest {\c&H0060ECCD}lessons{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.20,0:00:25.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} business
+Dialogue: 1,0:00:25.42,0:00:25.68,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}business{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.68,0:00:25.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}owners{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:25.98,0:00:26.34,Cap,,0,0,0,,{\pos(540,1400)}owners {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.34,0:00:27.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} don't have
+Dialogue: 1,0:00:27.08,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}don't{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:27.28,0:00:27.56,Cap,,0,0,0,,{\pos(540,1400)}they don't {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.56,0:00:27.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} skill set
+Dialogue: 1,0:00:27.90,0:00:28.38,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}skill{\c&H00FFFFFF&} set
+Dialogue: 1,0:00:28.38,0:00:28.90,Cap,,0,0,0,,{\pos(540,1400)}the skill {\c&H0060ECCD}set{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.90,0:00:29.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}within{\c&H00FFFFFF&} themselves
+Dialogue: 1,0:00:29.76,0:00:30.26,Cap,,0,0,0,,{\pos(540,1400)}within {\c&H0060ECCD}themselves{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.26,0:00:31.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} that's not a
+Dialogue: 1,0:00:31.00,0:00:31.34,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}that's{\c&H00FFFFFF&} not a
+Dialogue: 1,0:00:31.34,0:00:31.46,Cap,,0,0,0,,{\pos(540,1400)}and that's {\c&H0060ECCD}not{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:31.46,0:00:31.56,Cap,,0,0,0,,{\pos(540,1400)}and that's not {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.56,0:00:31.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bad{\c&H00FFFFFF&} problem they
+Dialogue: 1,0:00:31.80,0:00:32.30,Cap,,0,0,0,,{\pos(540,1400)}bad {\c&H0060ECCD}problem{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:32.30,0:00:32.88,Cap,,0,0,0,,{\pos(540,1400)}bad problem {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.88,0:00:33.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} don't know
+Dialogue: 1,0:00:33.12,0:00:33.36,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}don't{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:33.36,0:00:33.52,Cap,,0,0,0,,{\pos(540,1400)}just don't {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.52,0:00:33.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} they don't
+Dialogue: 1,0:00:33.68,0:00:33.84,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}they{\c&H00FFFFFF&} don't
+Dialogue: 1,0:00:33.84,0:00:34.06,Cap,,0,0,0,,{\pos(540,1400)}what they {\c&H0060ECCD}don't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.06,0:00:34.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} and they
+Dialogue: 1,0:00:34.30,0:00:35.24,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}and{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:35.24,0:00:35.56,Cap,,0,0,0,,{\pos(540,1400)}know and {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.56,0:00:35.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} have the
+Dialogue: 1,0:00:35.76,0:00:35.96,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}have{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:35.96,0:00:36.14,Cap,,0,0,0,,{\pos(540,1400)}don't have {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.14,0:00:36.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}skill{\c&H00FFFFFF&} set to go
+Dialogue: 1,0:00:36.40,0:00:36.78,Cap,,0,0,0,,{\pos(540,1400)}skill {\c&H0060ECCD}set{\c&H00FFFFFF&} to go
+Dialogue: 1,0:00:36.78,0:00:37.10,Cap,,0,0,0,,{\pos(540,1400)}skill set {\c&H0060ECCD}to{\c&H00FFFFFF&} go
+Dialogue: 1,0:00:37.10,0:00:37.78,Cap,,0,0,0,,{\pos(540,1400)}skill set to {\c&H0060ECCD}go{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.78,0:00:38.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} the doer the
+Dialogue: 1,0:00:38.24,0:00:39.08,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}the{\c&H00FFFFFF&} doer the
+Dialogue: 1,0:00:39.08,0:00:39.64,Cap,,0,0,0,,{\pos(540,1400)}from the {\c&H0060ECCD}doer{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:39.64,0:00:39.96,Cap,,0,0,0,,{\pos(540,1400)}from the doer {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.96,0:00:40.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}guy{\c&H00FFFFFF&} in the trench
+Dialogue: 1,0:00:40.12,0:00:40.30,Cap,,0,0,0,,{\pos(540,1400)}guy {\c&H0060ECCD}in{\c&H00FFFFFF&} the trench
+Dialogue: 1,0:00:40.30,0:00:40.40,Cap,,0,0,0,,{\pos(540,1400)}guy in {\c&H0060ECCD}the{\c&H00FFFFFF&} trench
+Dialogue: 1,0:00:40.40,0:00:40.88,Cap,,0,0,0,,{\pos(540,1400)}guy in the {\c&H0060ECCD}trench{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.88,0:00:42.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} a CEO mindset
+Dialogue: 1,0:00:42.54,0:00:42.70,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}a{\c&H00FFFFFF&} CEO mindset
+Dialogue: 1,0:00:42.70,0:00:42.98,Cap,,0,0,0,,{\pos(540,1400)}to a {\c&H0060ECCD}CEO{\c&H00FFFFFF&} mindset
+Dialogue: 1,0:00:42.98,0:00:43.56,Cap,,0,0,0,,{\pos(540,1400)}to a CEO {\c&H0060ECCD}mindset{\c&H00FFFFFF&}
