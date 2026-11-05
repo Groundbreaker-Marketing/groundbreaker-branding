@@ -1,4 +1,4 @@
-import json, re
+import json, os, re
 W = json.load(open('02_audio/words/c0030.json'))['words']
 
 single = [81, 104, 142, 167, 366, 477, 787, 808, 836, 859, 1023, 1083, 1114, 1115, 1157, 1318, 1338,
@@ -84,6 +84,13 @@ rec = {
         ],
     },
     "chapters": chapters,
+    "grade": True,     # Ashley 2026-11-04: brighten the dim booth footage (podcast.episode BRIGHTEN)
 }
+old = {}
+if os.path.exists('06_scripts/episode.json'):
+    old = json.load(open('06_scripts/episode.json'))
+for k in ("thumbnail", "publish"):          # keep blocks written after the first run
+    if k in old:
+        rec[k] = old[k]
 json.dump(rec, open('06_scripts/episode.json', 'w'), indent=1)
 print(len(drops), len(fixes))

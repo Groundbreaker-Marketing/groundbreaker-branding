@@ -449,17 +449,17 @@
   "at": 1126.0,
   "source": "01_footage/c0031.mp4",
   "photo_crop": [
-   1110,
+   1100,
    0,
-   1710,
+   1700,
    1080
   ],
   "guest": {
    "at": 1125.0,
    "photo_crop": [
-    190,
+    280,
     0,
-    790,
+    880,
     1080
    ]
   },
@@ -477,7 +477,9 @@
     "small"
    ]
   ],
-  "out": "07_notes/episode/thumbnail.jpg"
+  "out": "07_notes/episode/thumbnail.jpg",
+  "swap": true,
+  "brighten": 1.35
  },
  "publish": {
   "approved": false,
@@ -502,5 +504,6 @@
    ]
   },
   "thumbnail": "07_notes/episode/thumbnail.jpg"
- }
+ },
+ "grade": true
 }

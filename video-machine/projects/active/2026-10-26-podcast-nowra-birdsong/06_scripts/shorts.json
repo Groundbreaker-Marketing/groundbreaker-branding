@@ -395,5 +395,6 @@
    "trim_start": -0.2,
    "end_pad": 0.04
   }
- ]
+ ],
+ "grade": true
 }
