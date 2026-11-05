@@ -1,6 +1,7 @@
 {
  "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Turner's guest episode (take 202403, Zoom HD 1280x720, no upscale). keep = inclusive word-index ranges of 02_audio/words/202403.json in play order (splits drop Ashley's short interjections and false starts); fillers skip automatically; fixes = word index -> caption text (the episode's name fixes plus each clip's own). Posting plan: release week 2026-10-21..27, every clip to YouTube + TikTok at noon or 5 PM CT, the five best also to Instagram, Facebook and LinkedIn at noon on weekdays. approved = Ashley approved it in Ops. Source is 01_footage/zoom-202403-synced.mov (2026-10-19): Ashley's and Kim's own Zoom tracks remixed with Kim 100 ms earlier, because Zoom recorded her voice ~100 ms behind her picture (lip-sync measured +99 ms on the original, +3 ms after); 02_audio/words/202403-synced.json has her words moved to match, same indexes.",
  "fillers": true,
+ "cover_with": "with Kim Turner of Turner Septic",
  "clips": [
   {
    "id": "zero-experience",
@@ -62,7 +63,9 @@
     ],
     "media": "https://static.metricool.com/video/4530374/202610/46be0790500241d1.mp4",
     "scheduled": "2026-10-21T12:00:00"
-   }
+   },
+   "cover_at": 66.8,
+   "cover": "07_notes/shorts/covers/zero-experience.jpg"
   },
   {
    "id": "septic-whisperer",
@@ -188,7 +191,9 @@
     ],
     "media": "https://static.metricool.com/video/4530374/202610/c1933bc504974e37.mp4",
     "scheduled": "2026-10-22T12:00:00"
-   }
+   },
+   "cover_at": 2098.7,
+   "cover": "07_notes/shorts/covers/almost-400-reviews.jpg"
   },
   {
    "id": "million-views",
@@ -327,7 +332,9 @@
     ],
     "media": "https://static.metricool.com/video/4530374/202610/b09a73e35cd64a88.mp4",
     "scheduled": "2026-10-23T12:00:00"
-   }
+   },
+   "cover_at": 2264.7,
+   "cover": "07_notes/shorts/covers/two-page-inspections.jpg"
   },
   {
    "id": "twenty-tripods",
@@ -725,7 +732,9 @@
     ],
     "media": "https://static.metricool.com/video/4530374/202610/fa1ee28b3c794218.mp4",
     "scheduled": "2026-10-26T12:00:00"
-   }
+   },
+   "cover_at": 1579.5,
+   "cover": "07_notes/shorts/covers/brand-new-trucks.jpg"
   },
   {
    "id": "voice-to-report",
@@ -852,7 +861,9 @@
     ],
     "media": "https://static.metricool.com/video/4530374/202610/5c9072b7fd084069.mp4",
     "scheduled": "2026-10-27T12:00:00"
-   }
+   },
+   "cover_at": 2746.7,
+   "cover": "07_notes/shorts/covers/im-the-bottleneck.jpg"
   },
   {
    "id": "cried-in-my-truck",
