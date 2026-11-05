@@ -465,11 +465,23 @@
   },
   "lines": [
    [
-    "KNOW YOUR",
+    "DO YOU KNOW",
     "big"
    ],
    [
-    "NUMBERS",
+    "YOUR SEPTIC",
+    "big"
+   ],
+   [
+    "COMPANY'S",
+    "big"
+   ],
+   [
+    "BREAK-EVEN",
+    "box"
+   ],
+   [
+    "NUMBER?",
     "box"
    ],
    [
@@ -479,7 +491,9 @@
   ],
   "out": "07_notes/episode/thumbnail.jpg",
   "swap": true,
-  "brighten": 1.35
+  "brighten": 1.7,
+  "cool": 0.08,
+  "headline_w": 600
  },
  "publish": {
   "approved": false,
