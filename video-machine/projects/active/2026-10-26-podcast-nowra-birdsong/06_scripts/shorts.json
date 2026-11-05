@@ -104,6 +104,7 @@
   },
   {
    "id": "get-on-your-phone",
+   "cover_at": 384.0,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
@@ -271,6 +272,7 @@
   },
   {
    "id": "electrical-last",
+   "cover_at": 1766.0,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
@@ -323,6 +325,7 @@
   },
   {
    "id": "no-shoulder-season",
+   "cover_at": 1562.0,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
@@ -361,6 +364,7 @@
   },
   {
    "id": "saying-no",
+   "cover_at": 1918.0,
    "source": "01_footage/c0030.mp4",
    "words": "02_audio/words/c0030.json",
    "keep": [
