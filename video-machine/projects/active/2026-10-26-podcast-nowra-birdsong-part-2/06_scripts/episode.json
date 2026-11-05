@@ -491,8 +491,8 @@
   ],
   "out": "07_notes/episode/thumbnail.jpg",
   "swap": true,
-  "brighten": 1.7,
-  "cool": 0.08,
+  "brighten": 2.3,
+  "cool": 0.2,
   "headline_w": 600
  },
  "publish": {
