@@ -431,12 +431,24 @@
   },
   "lines": [
    [
-    "ADD PLUMBING",
+    "SHOULD YOU ADD",
     "big"
    ],
    [
-    "OR HVAC?",
+    "PLUMBING",
     "box"
+   ],
+   [
+    "OR HVAC",
+    "box"
+   ],
+   [
+    "TO YOUR SEPTIC",
+    "big"
+   ],
+   [
+    "BUSINESS?",
+    "big"
    ],
    [
     "PART 1 OF 2",
@@ -445,7 +457,9 @@
   ],
   "out": "07_notes/episode/thumbnail.jpg",
   "swap": true,
-  "brighten": 1.35
+  "brighten": 1.7,
+  "cool": 0.08,
+  "headline_w": 600
  },
  "publish": {
   "approved": false,
