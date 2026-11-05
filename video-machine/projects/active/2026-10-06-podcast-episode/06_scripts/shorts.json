@@ -1,6 +1,7 @@
 {
  "_how": "Recipe for shorts.build (video-machine). 15 clips from the 2026-10-06 solo episode (take 144723, the full retake). keep = word-index ranges of 02_audio/words/144723.json, inclusive, in play order; fillers (um/uh) skip automatically; fixes = word index -> caption text. approved = Ashley approved the edit, title and description for publishing. Caption-hidden words (fixes \"\") stay in the audio: cutting them would clip the words beside them.",
  "fillers": true,
+ "cover_with": "on The #2 Septic Podcast",
  "clips": [
   {
    "id": "record-every-call",
@@ -77,7 +78,9 @@
     "post_id": 392289123,
     "media": "https://static.metricool.com/video/4530374/202610/5557f633580e4e31.mp4",
     "scheduled": "2026-10-19T12:00:00"
-   }
+   },
+   "cover_at": 331.8,
+   "cover": "07_notes/shorts/covers/number-one-lever.jpg"
   },
   {
    "id": "leads-from-chatgpt",
@@ -245,7 +248,9 @@
     "post_id": 392231072,
     "media": "https://static.metricool.com/video/4530374/202610/360c8e922bb64741.mp4",
     "scheduled": "2026-10-16T12:00:00"
-   }
+   },
+   "cover_at": 530.9,
+   "cover": "07_notes/shorts/covers/competitors-undercut.jpg"
   },
   {
    "id": "coupon-trick",
@@ -309,7 +314,9 @@
     "post_id": 392227647,
     "media": "https://static.metricool.com/video/4530374/202610/fdbe729c0ec74ddd.mp4",
     "scheduled": "2026-10-14T12:00:00"
-   }
+   },
+   "cover_at": 692.8,
+   "cover": "07_notes/shorts/covers/coupon-trick.jpg"
   },
   {
    "id": "one-fair-price",
@@ -480,7 +487,9 @@
     "post_id": 392231125,
     "media": "https://static.metricool.com/video/4530374/202610/28f5182729434421.mp4",
     "scheduled": "2026-10-15T12:00:00"
-   }
+   },
+   "cover_at": 935.1,
+   "cover": "07_notes/shorts/covers/google-ai-calls.jpg"
   },
   {
    "id": "price-by-distance",
@@ -578,7 +587,9 @@
     "post_id": 392231152,
     "media": "https://static.metricool.com/video/4530374/202610/8917cfca4ae24803.mp4",
     "scheduled": "2026-10-20T12:00:00"
-   }
+   },
+   "cover_at": 1171.9,
+   "cover": "07_notes/shorts/covers/post-variable-prices.jpg"
   },
   {
    "id": "install-prices",
