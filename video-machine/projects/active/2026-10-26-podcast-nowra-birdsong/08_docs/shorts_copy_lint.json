@@ -1,0 +1,44 @@
+{
+  "repo-man": {
+    "fails": [],
+    "warns": []
+  },
+  "prison": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "get-on-your-phone": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "one-is-none": {
+    "fails": [],
+    "warns": []
+  },
+  "promoted-best-tech": {
+    "fails": [],
+    "warns": []
+  },
+  "master-experts": {
+    "fails": [],
+    "warns": []
+  },
+  "electrical-last": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "no-shoulder-season": {
+    "fails": [],
+    "warns": []
+  },
+  "saying-no": {
+    "fails": [],
+    "warns": []
+  }
+}

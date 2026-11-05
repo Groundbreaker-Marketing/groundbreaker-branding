@@ -1,0 +1,144 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:51.87,Title,,0,0,0,,{\pos(540,480)}Why {\c&H0060ECCD}electrical{\c&H00FFFFFF&} comes last\Nin a home service company
+Dialogue: 1,0:00:00.20,0:00:00.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} actually wanted
+Dialogue: 1,0:00:00.96,0:00:01.50,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}actually{\c&H00FFFFFF&} wanted
+Dialogue: 1,0:00:01.50,0:00:01.74,Cap,,0,0,0,,{\pos(540,1400)}I actually {\c&H0060ECCD}wanted{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.74,0:00:01.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} start with
+Dialogue: 1,0:00:01.92,0:00:02.28,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}start{\c&H00FFFFFF&} with
+Dialogue: 1,0:00:02.28,0:00:02.56,Cap,,0,0,0,,{\pos(540,1400)}to start {\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.56,0:00:02.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}electrical{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:02.98,0:00:03.26,Cap,,0,0,0,,{\pos(540,1400)}electrical {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.26,0:00:04.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plumbing{\c&H00FFFFFF&} but I
+Dialogue: 1,0:00:04.25,0:00:04.95,Cap,,0,0,0,,{\pos(540,1400)}plumbing {\c&H0060ECCD}but{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:04.95,0:00:05.45,Cap,,0,0,0,,{\pos(540,1400)}plumbing but {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.45,0:00:05.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}did{\c&H00FFFFFF&} some research
+Dialogue: 1,0:00:05.91,0:00:06.13,Cap,,0,0,0,,{\pos(540,1400)}did {\c&H0060ECCD}some{\c&H00FFFFFF&} research
+Dialogue: 1,0:00:06.13,0:00:06.61,Cap,,0,0,0,,{\pos(540,1400)}did some {\c&H0060ECCD}research{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.61,0:00:06.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}had{\c&H00FFFFFF&} some
+Dialogue: 1,0:00:06.99,0:00:07.17,Cap,,0,0,0,,{\pos(540,1400)}had {\c&H0060ECCD}some{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.17,0:00:07.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}conversations{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:07.91,0:00:08.71,Cap,,0,0,0,,{\pos(540,1400)}conversations {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.71,0:00:09.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there's{\c&H00FFFFFF&} a lot of
+Dialogue: 1,0:00:09.51,0:00:09.61,Cap,,0,0,0,,{\pos(540,1400)}there's {\c&H0060ECCD}a{\c&H00FFFFFF&} lot of
+Dialogue: 1,0:00:09.61,0:00:09.73,Cap,,0,0,0,,{\pos(540,1400)}there's a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:09.73,0:00:09.85,Cap,,0,0,0,,{\pos(540,1400)}there's a lot {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.85,0:00:10.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}companies{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:10.71,0:00:11.15,Cap,,0,0,0,,{\pos(540,1400)}companies {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.15,0:00:11.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:11.61,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.83,0:00:12.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}electrical{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.25,0:00:12.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}companies{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:12.81,0:00:13.19,Cap,,0,0,0,,{\pos(540,1400)}companies {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.19,0:00:14.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} you look at
+Dialogue: 1,0:00:14.14,0:00:14.47,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}you{\c&H00FFFFFF&} look at
+Dialogue: 1,0:00:14.47,0:00:14.69,Cap,,0,0,0,,{\pos(540,1400)}when you {\c&H0060ECCD}look{\c&H00FFFFFF&} at
+Dialogue: 1,0:00:14.69,0:00:14.89,Cap,,0,0,0,,{\pos(540,1400)}when you look {\c&H0060ECCD}at{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.89,0:00:15.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whole{\c&H00FFFFFF&} home
+Dialogue: 1,0:00:15.37,0:00:15.69,Cap,,0,0,0,,{\pos(540,1400)}whole {\c&H0060ECCD}home{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.69,0:00:16.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}service{\c&H00FFFFFF&} typically
+Dialogue: 1,0:00:16.27,0:00:17.45,Cap,,0,0,0,,{\pos(540,1400)}service {\c&H0060ECCD}typically{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.45,0:00:17.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} margins are
+Dialogue: 1,0:00:17.87,0:00:18.47,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}margins{\c&H00FFFFFF&} are
+Dialogue: 1,0:00:18.47,0:00:19.13,Cap,,0,0,0,,{\pos(540,1400)}the margins {\c&H0060ECCD}are{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.13,0:00:19.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} lowest in
+Dialogue: 1,0:00:19.27,0:00:19.69,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}lowest{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:19.69,0:00:19.89,Cap,,0,0,0,,{\pos(540,1400)}the lowest {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.89,0:00:20.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}electrical{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:20.33,0:00:21.01,Cap,,0,0,0,,{\pos(540,1400)}electrical {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.01,0:00:21.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} repeat
+Dialogue: 1,0:00:21.15,0:00:21.51,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}repeat{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.51,0:00:21.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} I mean
+Dialogue: 1,0:00:21.95,0:00:22.21,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}I{\c&H00FFFFFF&} mean
+Dialogue: 1,0:00:22.21,0:00:22.35,Cap,,0,0,0,,{\pos(540,1400)}business I {\c&H0060ECCD}mean{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.35,0:00:22.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}think{\c&H00FFFFFF&} about it
+Dialogue: 1,0:00:22.57,0:00:22.73,Cap,,0,0,0,,{\pos(540,1400)}think {\c&H0060ECCD}about{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:22.73,0:00:22.87,Cap,,0,0,0,,{\pos(540,1400)}think about {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.87,0:00:23.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} was the last
+Dialogue: 1,0:00:23.11,0:00:23.29,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}was{\c&H00FFFFFF&} the last
+Dialogue: 1,0:00:23.29,0:00:23.37,Cap,,0,0,0,,{\pos(540,1400)}when was {\c&H0060ECCD}the{\c&H00FFFFFF&} last
+Dialogue: 1,0:00:23.37,0:00:23.57,Cap,,0,0,0,,{\pos(540,1400)}when was the {\c&H0060ECCD}last{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.57,0:00:23.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}time{\c&H00FFFFFF&} you had a
+Dialogue: 1,0:00:23.77,0:00:23.97,Cap,,0,0,0,,{\pos(540,1400)}time {\c&H0060ECCD}you{\c&H00FFFFFF&} had a
+Dialogue: 1,0:00:23.97,0:00:24.13,Cap,,0,0,0,,{\pos(540,1400)}time you {\c&H0060ECCD}had{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:24.13,0:00:24.25,Cap,,0,0,0,,{\pos(540,1400)}time you had {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.25,0:00:24.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}receptacle{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:24.93,0:00:25.15,Cap,,0,0,0,,{\pos(540,1400)}receptacle {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.15,0:00:25.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}light{\c&H00FFFFFF&} switch
+Dialogue: 1,0:00:25.37,0:00:25.61,Cap,,0,0,0,,{\pos(540,1400)}light {\c&H0060ECCD}switch{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.61,0:00:25.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}replaced{\c&H00FFFFFF&} by an
+Dialogue: 1,0:00:25.99,0:00:26.17,Cap,,0,0,0,,{\pos(540,1400)}replaced {\c&H0060ECCD}by{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:26.17,0:00:26.31,Cap,,0,0,0,,{\pos(540,1400)}replaced by {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.31,0:00:26.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}electrician{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:26.81,0:00:26.93,Cap,,0,0,0,,{\pos(540,1400)}electrician {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.93,0:00:27.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} home very
+Dialogue: 1,0:00:27.05,0:00:27.22,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}home{\c&H00FFFFFF&} very
+Dialogue: 1,0:00:27.22,0:00:27.88,Cap,,0,0,0,,{\pos(540,1400)}your home {\c&H0060ECCD}very{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.88,0:00:29.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}uncommon{\c&H00FFFFFF&} and So
+Dialogue: 1,0:00:29.13,0:00:29.83,Cap,,0,0,0,,{\pos(540,1400)}uncommon {\c&H0060ECCD}and{\c&H00FFFFFF&} So
+Dialogue: 1,0:00:29.83,0:00:30.03,Cap,,0,0,0,,{\pos(540,1400)}uncommon and {\c&H0060ECCD}So{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.15,0:00:31.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} had to learn
+Dialogue: 1,0:00:31.33,0:00:31.55,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}had{\c&H00FFFFFF&} to learn
+Dialogue: 1,0:00:31.55,0:00:31.73,Cap,,0,0,0,,{\pos(540,1400)}I had {\c&H0060ECCD}to{\c&H00FFFFFF&} learn
+Dialogue: 1,0:00:31.73,0:00:32.23,Cap,,0,0,0,,{\pos(540,1400)}I had to {\c&H0060ECCD}learn{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.23,0:00:33.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} and then
+Dialogue: 1,0:00:33.15,0:00:33.81,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}and{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:33.81,0:00:33.99,Cap,,0,0,0,,{\pos(540,1400)}more and {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.99,0:00:34.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}realize{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.49,0:00:35.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}electrical{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.17,0:00:35.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}probably{\c&H00FFFFFF&} needs to
+Dialogue: 1,0:00:35.47,0:00:35.65,Cap,,0,0,0,,{\pos(540,1400)}probably {\c&H0060ECCD}needs{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:35.65,0:00:35.71,Cap,,0,0,0,,{\pos(540,1400)}probably needs {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.71,0:00:35.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}come{\c&H00FFFFFF&} last
+Dialogue: 1,0:00:35.85,0:00:36.39,Cap,,0,0,0,,{\pos(540,1400)}come {\c&H0060ECCD}last{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.59,0:00:36.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} mean
+Dialogue: 1,0:00:36.83,0:00:37.09,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}mean{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.09,0:00:37.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} something
+Dialogue: 1,0:00:37.57,0:00:38.37,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}something{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.37,0:00:38.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} we need to
+Dialogue: 1,0:00:38.55,0:00:38.71,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}we{\c&H00FFFFFF&} need to
+Dialogue: 1,0:00:38.71,0:00:38.89,Cap,,0,0,0,,{\pos(540,1400)}that we {\c&H0060ECCD}need{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:38.89,0:00:38.99,Cap,,0,0,0,,{\pos(540,1400)}that we need {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.99,0:00:39.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} because at
+Dialogue: 1,0:00:39.45,0:00:39.91,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}because{\c&H00FFFFFF&} at
+Dialogue: 1,0:00:39.91,0:00:40.09,Cap,,0,0,0,,{\pos(540,1400)}have because {\c&H0060ECCD}at{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.09,0:00:40.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}some{\c&H00FFFFFF&} point when
+Dialogue: 1,0:00:40.21,0:00:40.43,Cap,,0,0,0,,{\pos(540,1400)}some {\c&H0060ECCD}point{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:40.43,0:00:40.55,Cap,,0,0,0,,{\pos(540,1400)}some point {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.55,0:00:40.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:40.67,0:00:40.83,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}doing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.83,0:00:41.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}generators{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:41.61,0:00:42.13,Cap,,0,0,0,,{\pos(540,1400)}generators {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.13,0:00:42.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}new{\c&H00FFFFFF&} HVAC systems
+Dialogue: 1,0:00:42.77,0:00:43.25,Cap,,0,0,0,,{\pos(540,1400)}new {\c&H0060ECCD}HVAC{\c&H00FFFFFF&} systems
+Dialogue: 1,0:00:43.25,0:00:43.85,Cap,,0,0,0,,{\pos(540,1400)}new HVAC {\c&H0060ECCD}systems{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.03,0:00:44.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} got to have
+Dialogue: 1,0:00:44.41,0:00:44.55,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}got{\c&H00FFFFFF&} to have
+Dialogue: 1,0:00:44.55,0:00:44.69,Cap,,0,0,0,,{\pos(540,1400)}you got {\c&H0060ECCD}to{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:44.69,0:00:44.91,Cap,,0,0,0,,{\pos(540,1400)}you got to {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.91,0:00:45.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}an{\c&H00FFFFFF&} electrician
+Dialogue: 1,0:00:45.05,0:00:45.93,Cap,,0,0,0,,{\pos(540,1400)}an {\c&H0060ECCD}electrician{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.07,0:00:46.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:46.43,0:00:46.91,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.05,0:00:47.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} it just kind
+Dialogue: 1,0:00:47.27,0:00:47.99,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}it{\c&H00FFFFFF&} just kind
+Dialogue: 1,0:00:47.99,0:00:48.91,Cap,,0,0,0,,{\pos(540,1400)}but it {\c&H0060ECCD}just{\c&H00FFFFFF&} kind
+Dialogue: 1,0:00:48.91,0:00:49.11,Cap,,0,0,0,,{\pos(540,1400)}but it just {\c&H0060ECCD}kind{\c&H00FFFFFF&}
+Dialogue: 1,0:00:49.11,0:00:49.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} made the
+Dialogue: 1,0:00:49.61,0:00:50.71,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}made{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:50.71,0:00:50.87,Cap,,0,0,0,,{\pos(540,1400)}of made {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:50.87,0:00:51.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}circle{\c&H00FFFFFF&} complete
+Dialogue: 1,0:00:51.17,0:00:51.87,Cap,,0,0,0,,{\pos(540,1400)}circle {\c&H0060ECCD}complete{\c&H00FFFFFF&}
