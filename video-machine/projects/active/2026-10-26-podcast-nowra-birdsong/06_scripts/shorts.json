@@ -5,7 +5,12 @@
  "mono": true,
  "guests": {
   "jt": {
-   "name": "Jason Birdsong of JT Services"
+   "name": "Jason Birdsong of JT Services",
+   "instagram": "jtservicesco",
+   "youtube": "@JTServiceCompanyLLCClaremore",
+   "facebook": {
+    "name": "JT Services"
+   }
   }
  },
  "cover_with": "with Jason Birdsong of JT Services",
