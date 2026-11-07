@@ -1483,31 +1483,30 @@ Dialogue: 1,0:08:38.27,0:08:38.37,Cap,,0,0,0,,{\pos(960,905)}elements you need {
 Dialogue: 1,0:08:38.37,0:08:38.61,Cap,,0,0,0,,{\pos(960,905)}elements you need to {\c&H0060ECCD}pump{\c&H00FFFFFF&} the tank
 Dialogue: 1,0:08:38.61,0:08:38.79,Cap,,0,0,0,,{\pos(960,905)}elements you need to pump {\c&H0060ECCD}the{\c&H00FFFFFF&} tank
 Dialogue: 1,0:08:38.79,0:08:39.09,Cap,,0,0,0,,{\pos(960,905)}elements you need to pump the {\c&H0060ECCD}tank{\c&H00FFFFFF&}
-Dialogue: 1,0:08:39.09,0:08:40.03,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}all{\c&H00FFFFFF&} in it's usually in the 5
-Dialogue: 1,0:08:40.03,0:08:40.35,Cap,,0,0,0,,{\pos(960,905)}all {\c&H0060ECCD}in{\c&H00FFFFFF&} it's usually in the 5
-Dialogue: 1,0:08:40.35,0:08:40.94,Cap,,0,0,0,,{\pos(960,905)}all in {\c&H0060ECCD}it's{\c&H00FFFFFF&} usually in the 5
-Dialogue: 1,0:08:40.94,0:08:41.46,Cap,,0,0,0,,{\pos(960,905)}all in it's {\c&H0060ECCD}usually{\c&H00FFFFFF&} in the 5
-Dialogue: 1,0:08:41.46,0:08:42.29,Cap,,0,0,0,,{\pos(960,905)}all in it's usually {\c&H0060ECCD}in{\c&H00FFFFFF&} the 5
-Dialogue: 1,0:08:42.29,0:08:42.42,Cap,,0,0,0,,{\pos(960,905)}all in it's usually in {\c&H0060ECCD}the{\c&H00FFFFFF&} 5
-Dialogue: 1,0:08:42.42,0:08:42.73,Cap,,0,0,0,,{\pos(960,905)}all in it's usually in the {\c&H0060ECCD}5{\c&H00FFFFFF&}
-Dialogue: 1,0:08:42.73,0:08:43.18,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}000{\c&H00FFFFFF&} range maybe a little under maybe
-Dialogue: 1,0:08:43.18,0:08:43.96,Cap,,0,0,0,,{\pos(960,905)}000 {\c&H0060ECCD}range{\c&H00FFFFFF&} maybe a little under maybe
-Dialogue: 1,0:08:43.96,0:08:44.61,Cap,,0,0,0,,{\pos(960,905)}000 range {\c&H0060ECCD}maybe{\c&H00FFFFFF&} a little under maybe
-Dialogue: 1,0:08:44.61,0:08:44.79,Cap,,0,0,0,,{\pos(960,905)}000 range maybe {\c&H0060ECCD}a{\c&H00FFFFFF&} little under maybe
-Dialogue: 1,0:08:44.79,0:08:44.90,Cap,,0,0,0,,{\pos(960,905)}000 range maybe a {\c&H0060ECCD}little{\c&H00FFFFFF&} under maybe
-Dialogue: 1,0:08:44.90,0:08:45.27,Cap,,0,0,0,,{\pos(960,905)}000 range maybe a little {\c&H0060ECCD}under{\c&H00FFFFFF&} maybe
-Dialogue: 1,0:08:45.27,0:08:45.51,Cap,,0,0,0,,{\pos(960,905)}000 range maybe a little under {\c&H0060ECCD}maybe{\c&H00FFFFFF&}
-Dialogue: 1,0:08:45.51,0:08:45.68,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}a{\c&H00FFFFFF&} little over depending on what needs
-Dialogue: 1,0:08:45.68,0:08:45.79,Cap,,0,0,0,,{\pos(960,905)}a {\c&H0060ECCD}little{\c&H00FFFFFF&} over depending on what needs
-Dialogue: 1,0:08:45.79,0:08:46.09,Cap,,0,0,0,,{\pos(960,905)}a little {\c&H0060ECCD}over{\c&H00FFFFFF&} depending on what needs
-Dialogue: 1,0:08:46.09,0:08:46.44,Cap,,0,0,0,,{\pos(960,905)}a little over {\c&H0060ECCD}depending{\c&H00FFFFFF&} on what needs
-Dialogue: 1,0:08:46.44,0:08:46.64,Cap,,0,0,0,,{\pos(960,905)}a little over depending {\c&H0060ECCD}on{\c&H00FFFFFF&} what needs
-Dialogue: 1,0:08:46.64,0:08:46.83,Cap,,0,0,0,,{\pos(960,905)}a little over depending on {\c&H0060ECCD}what{\c&H00FFFFFF&} needs
-Dialogue: 1,0:08:46.83,0:08:47.05,Cap,,0,0,0,,{\pos(960,905)}a little over depending on what {\c&H0060ECCD}needs{\c&H00FFFFFF&}
-Dialogue: 1,0:08:47.05,0:08:47.20,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}to{\c&H00FFFFFF&} be done okay
-Dialogue: 1,0:08:47.20,0:08:47.35,Cap,,0,0,0,,{\pos(960,905)}to {\c&H0060ECCD}be{\c&H00FFFFFF&} done okay
-Dialogue: 1,0:08:47.35,0:08:47.57,Cap,,0,0,0,,{\pos(960,905)}to be {\c&H0060ECCD}done{\c&H00FFFFFF&} okay
-Dialogue: 1,0:08:47.57,0:08:48.14,Cap,,0,0,0,,{\pos(960,905)}to be done {\c&H0060ECCD}okay{\c&H00FFFFFF&}
+Dialogue: 1,0:08:39.09,0:08:40.03,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}all{\c&H00FFFFFF&} in it's usually in the $5,000
+Dialogue: 1,0:08:40.03,0:08:40.35,Cap,,0,0,0,,{\pos(960,905)}all {\c&H0060ECCD}in{\c&H00FFFFFF&} it's usually in the $5,000
+Dialogue: 1,0:08:40.35,0:08:40.94,Cap,,0,0,0,,{\pos(960,905)}all in {\c&H0060ECCD}it's{\c&H00FFFFFF&} usually in the $5,000
+Dialogue: 1,0:08:40.94,0:08:41.46,Cap,,0,0,0,,{\pos(960,905)}all in it's {\c&H0060ECCD}usually{\c&H00FFFFFF&} in the $5,000
+Dialogue: 1,0:08:41.46,0:08:42.29,Cap,,0,0,0,,{\pos(960,905)}all in it's usually {\c&H0060ECCD}in{\c&H00FFFFFF&} the $5,000
+Dialogue: 1,0:08:42.29,0:08:42.42,Cap,,0,0,0,,{\pos(960,905)}all in it's usually in {\c&H0060ECCD}the{\c&H00FFFFFF&} $5,000
+Dialogue: 1,0:08:42.42,0:08:43.18,Cap,,0,0,0,,{\pos(960,905)}all in it's usually in the {\c&H0060ECCD}$5,000{\c&H00FFFFFF&}
+Dialogue: 1,0:08:43.18,0:08:43.96,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}range{\c&H00FFFFFF&} maybe a little under maybe a
+Dialogue: 1,0:08:43.96,0:08:44.61,Cap,,0,0,0,,{\pos(960,905)}range {\c&H0060ECCD}maybe{\c&H00FFFFFF&} a little under maybe a
+Dialogue: 1,0:08:44.61,0:08:44.79,Cap,,0,0,0,,{\pos(960,905)}range maybe {\c&H0060ECCD}a{\c&H00FFFFFF&} little under maybe a
+Dialogue: 1,0:08:44.79,0:08:44.90,Cap,,0,0,0,,{\pos(960,905)}range maybe a {\c&H0060ECCD}little{\c&H00FFFFFF&} under maybe a
+Dialogue: 1,0:08:44.90,0:08:45.27,Cap,,0,0,0,,{\pos(960,905)}range maybe a little {\c&H0060ECCD}under{\c&H00FFFFFF&} maybe a
+Dialogue: 1,0:08:45.27,0:08:45.51,Cap,,0,0,0,,{\pos(960,905)}range maybe a little under {\c&H0060ECCD}maybe{\c&H00FFFFFF&} a
+Dialogue: 1,0:08:45.51,0:08:45.68,Cap,,0,0,0,,{\pos(960,905)}range maybe a little under maybe {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:08:45.68,0:08:45.79,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}little{\c&H00FFFFFF&} over depending on what needs to
+Dialogue: 1,0:08:45.79,0:08:46.09,Cap,,0,0,0,,{\pos(960,905)}little {\c&H0060ECCD}over{\c&H00FFFFFF&} depending on what needs to
+Dialogue: 1,0:08:46.09,0:08:46.44,Cap,,0,0,0,,{\pos(960,905)}little over {\c&H0060ECCD}depending{\c&H00FFFFFF&} on what needs to
+Dialogue: 1,0:08:46.44,0:08:46.64,Cap,,0,0,0,,{\pos(960,905)}little over depending {\c&H0060ECCD}on{\c&H00FFFFFF&} what needs to
+Dialogue: 1,0:08:46.64,0:08:46.83,Cap,,0,0,0,,{\pos(960,905)}little over depending on {\c&H0060ECCD}what{\c&H00FFFFFF&} needs to
+Dialogue: 1,0:08:46.83,0:08:47.05,Cap,,0,0,0,,{\pos(960,905)}little over depending on what {\c&H0060ECCD}needs{\c&H00FFFFFF&} to
+Dialogue: 1,0:08:47.05,0:08:47.20,Cap,,0,0,0,,{\pos(960,905)}little over depending on what needs {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:08:47.20,0:08:47.35,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}be{\c&H00FFFFFF&} done okay
+Dialogue: 1,0:08:47.35,0:08:47.57,Cap,,0,0,0,,{\pos(960,905)}be {\c&H0060ECCD}done{\c&H00FFFFFF&} okay
+Dialogue: 1,0:08:47.57,0:08:48.14,Cap,,0,0,0,,{\pos(960,905)}be done {\c&H0060ECCD}okay{\c&H00FFFFFF&}
 Dialogue: 1,0:08:48.68,0:08:48.96,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}and{\c&H00FFFFFF&} that's quite a bit different than
 Dialogue: 1,0:08:48.96,0:08:49.18,Cap,,0,0,0,,{\pos(960,905)}and {\c&H0060ECCD}that's{\c&H00FFFFFF&} quite a bit different than
 Dialogue: 1,0:08:49.18,0:08:49.38,Cap,,0,0,0,,{\pos(960,905)}and that's {\c&H0060ECCD}quite{\c&H00FFFFFF&} a bit different than
@@ -2606,16 +2605,15 @@ Dialogue: 1,0:14:59.10,0:14:59.42,Cap,,0,0,0,,{\pos(960,905)}we received a {\c&H
 Dialogue: 1,0:14:59.42,0:14:59.80,Cap,,0,0,0,,{\pos(960,905)}we received a request {\c&H0060ECCD}from{\c&H00FFFFFF&} a customer
 Dialogue: 1,0:14:59.80,0:14:59.92,Cap,,0,0,0,,{\pos(960,905)}we received a request from {\c&H0060ECCD}a{\c&H00FFFFFF&} customer
 Dialogue: 1,0:14:59.92,0:15:00.34,Cap,,0,0,0,,{\pos(960,905)}we received a request from a {\c&H0060ECCD}customer{\c&H00FFFFFF&}
-Dialogue: 1,0:15:00.34,0:15:00.58,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}in{\c&H00FFFFFF&} Liberia that has 8 000 gallon
-Dialogue: 1,0:15:00.58,0:15:01.14,Cap,,0,0,0,,{\pos(960,905)}in {\c&H0060ECCD}Liberia{\c&H00FFFFFF&} that has 8 000 gallon
-Dialogue: 1,0:15:01.14,0:15:01.30,Cap,,0,0,0,,{\pos(960,905)}in Liberia {\c&H0060ECCD}that{\c&H00FFFFFF&} has 8 000 gallon
-Dialogue: 1,0:15:01.30,0:15:01.56,Cap,,0,0,0,,{\pos(960,905)}in Liberia that {\c&H0060ECCD}has{\c&H00FFFFFF&} 8 000 gallon
-Dialogue: 1,0:15:01.56,0:15:01.92,Cap,,0,0,0,,{\pos(960,905)}in Liberia that has {\c&H0060ECCD}8{\c&H00FFFFFF&} 000 gallon
-Dialogue: 1,0:15:01.92,0:15:02.32,Cap,,0,0,0,,{\pos(960,905)}in Liberia that has 8 {\c&H0060ECCD}000{\c&H00FFFFFF&} gallon
-Dialogue: 1,0:15:02.32,0:15:02.60,Cap,,0,0,0,,{\pos(960,905)}in Liberia that has 8 000 {\c&H0060ECCD}gallon{\c&H00FFFFFF&}
-Dialogue: 1,0:15:02.60,0:15:02.82,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}per{\c&H00FFFFFF&} day flow
-Dialogue: 1,0:15:02.82,0:15:03.00,Cap,,0,0,0,,{\pos(960,905)}per {\c&H0060ECCD}day{\c&H00FFFFFF&} flow
-Dialogue: 1,0:15:03.00,0:15:03.49,Cap,,0,0,0,,{\pos(960,905)}per day {\c&H0060ECCD}flow{\c&H00FFFFFF&}
+Dialogue: 1,0:15:00.34,0:15:00.58,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}in{\c&H00FFFFFF&} Liberia that has 8,000 gallon per
+Dialogue: 1,0:15:00.58,0:15:01.14,Cap,,0,0,0,,{\pos(960,905)}in {\c&H0060ECCD}Liberia{\c&H00FFFFFF&} that has 8,000 gallon per
+Dialogue: 1,0:15:01.14,0:15:01.30,Cap,,0,0,0,,{\pos(960,905)}in Liberia {\c&H0060ECCD}that{\c&H00FFFFFF&} has 8,000 gallon per
+Dialogue: 1,0:15:01.30,0:15:01.56,Cap,,0,0,0,,{\pos(960,905)}in Liberia that {\c&H0060ECCD}has{\c&H00FFFFFF&} 8,000 gallon per
+Dialogue: 1,0:15:01.56,0:15:02.32,Cap,,0,0,0,,{\pos(960,905)}in Liberia that has {\c&H0060ECCD}8,000{\c&H00FFFFFF&} gallon per
+Dialogue: 1,0:15:02.32,0:15:02.60,Cap,,0,0,0,,{\pos(960,905)}in Liberia that has 8,000 {\c&H0060ECCD}gallon{\c&H00FFFFFF&} per
+Dialogue: 1,0:15:02.60,0:15:02.82,Cap,,0,0,0,,{\pos(960,905)}in Liberia that has 8,000 gallon {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:15:02.82,0:15:03.00,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}day{\c&H00FFFFFF&} flow
+Dialogue: 1,0:15:03.00,0:15:03.49,Cap,,0,0,0,,{\pos(960,905)}day {\c&H0060ECCD}flow{\c&H00FFFFFF&}
 Dialogue: 1,0:15:04.00,0:15:04.42,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}and{\c&H00FFFFFF&} the biggest concern was they had
 Dialogue: 1,0:15:04.42,0:15:05.12,Cap,,0,0,0,,{\pos(960,905)}and {\c&H0060ECCD}the{\c&H00FFFFFF&} biggest concern was they had
 Dialogue: 1,0:15:05.12,0:15:05.54,Cap,,0,0,0,,{\pos(960,905)}and the {\c&H0060ECCD}biggest{\c&H00FFFFFF&} concern was they had
@@ -2980,20 +2978,19 @@ Dialogue: 1,0:17:25.92,0:17:26.94,Cap,,0,0,0,,{\pos(960,905)}on a 24 {\c&H0060EC
 Dialogue: 1,0:17:26.94,0:17:28.02,Cap,,0,0,0,,{\pos(960,905)}on a 24 unit {\c&H0060ECCD}townhome{\c&H00FFFFFF&} complex with
 Dialogue: 1,0:17:28.02,0:17:28.54,Cap,,0,0,0,,{\pos(960,905)}on a 24 unit townhome {\c&H0060ECCD}complex{\c&H00FFFFFF&} with
 Dialogue: 1,0:17:28.54,0:17:29.38,Cap,,0,0,0,,{\pos(960,905)}on a 24 unit townhome complex {\c&H0060ECCD}with{\c&H00FFFFFF&}
-Dialogue: 1,0:17:29.38,0:17:29.68,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}one{\c&H00FFFFFF&} 5 000 gallon tank and two
-Dialogue: 1,0:17:29.68,0:17:29.98,Cap,,0,0,0,,{\pos(960,905)}one {\c&H0060ECCD}5{\c&H00FFFFFF&} 000 gallon tank and two
-Dialogue: 1,0:17:29.98,0:17:30.36,Cap,,0,0,0,,{\pos(960,905)}one 5 {\c&H0060ECCD}000{\c&H00FFFFFF&} gallon tank and two
-Dialogue: 1,0:17:30.36,0:17:30.66,Cap,,0,0,0,,{\pos(960,905)}one 5 000 {\c&H0060ECCD}gallon{\c&H00FFFFFF&} tank and two
-Dialogue: 1,0:17:30.66,0:17:31.06,Cap,,0,0,0,,{\pos(960,905)}one 5 000 gallon {\c&H0060ECCD}tank{\c&H00FFFFFF&} and two
-Dialogue: 1,0:17:31.06,0:17:31.64,Cap,,0,0,0,,{\pos(960,905)}one 5 000 gallon tank {\c&H0060ECCD}and{\c&H00FFFFFF&} two
-Dialogue: 1,0:17:31.64,0:17:31.82,Cap,,0,0,0,,{\pos(960,905)}one 5 000 gallon tank and {\c&H0060ECCD}two{\c&H00FFFFFF&}
-Dialogue: 1,0:17:31.82,0:17:31.96,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}of{\c&H00FFFFFF&} those systems and it's making class
-Dialogue: 1,0:17:31.96,0:17:32.12,Cap,,0,0,0,,{\pos(960,905)}of {\c&H0060ECCD}those{\c&H00FFFFFF&} systems and it's making class
-Dialogue: 1,0:17:32.12,0:17:32.54,Cap,,0,0,0,,{\pos(960,905)}of those {\c&H0060ECCD}systems{\c&H00FFFFFF&} and it's making class
-Dialogue: 1,0:17:32.54,0:17:32.82,Cap,,0,0,0,,{\pos(960,905)}of those systems {\c&H0060ECCD}and{\c&H00FFFFFF&} it's making class
-Dialogue: 1,0:17:32.82,0:17:33.00,Cap,,0,0,0,,{\pos(960,905)}of those systems and {\c&H0060ECCD}it's{\c&H00FFFFFF&} making class
-Dialogue: 1,0:17:33.00,0:17:33.26,Cap,,0,0,0,,{\pos(960,905)}of those systems and it's {\c&H0060ECCD}making{\c&H00FFFFFF&} class
-Dialogue: 1,0:17:33.26,0:17:33.94,Cap,,0,0,0,,{\pos(960,905)}of those systems and it's making {\c&H0060ECCD}class{\c&H00FFFFFF&}
+Dialogue: 1,0:17:29.38,0:17:29.68,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}one{\c&H00FFFFFF&} 5,000 gallon tank and two of
+Dialogue: 1,0:17:29.68,0:17:30.36,Cap,,0,0,0,,{\pos(960,905)}one {\c&H0060ECCD}5,000{\c&H00FFFFFF&} gallon tank and two of
+Dialogue: 1,0:17:30.36,0:17:30.66,Cap,,0,0,0,,{\pos(960,905)}one 5,000 {\c&H0060ECCD}gallon{\c&H00FFFFFF&} tank and two of
+Dialogue: 1,0:17:30.66,0:17:31.06,Cap,,0,0,0,,{\pos(960,905)}one 5,000 gallon {\c&H0060ECCD}tank{\c&H00FFFFFF&} and two of
+Dialogue: 1,0:17:31.06,0:17:31.64,Cap,,0,0,0,,{\pos(960,905)}one 5,000 gallon tank {\c&H0060ECCD}and{\c&H00FFFFFF&} two of
+Dialogue: 1,0:17:31.64,0:17:31.82,Cap,,0,0,0,,{\pos(960,905)}one 5,000 gallon tank and {\c&H0060ECCD}two{\c&H00FFFFFF&} of
+Dialogue: 1,0:17:31.82,0:17:31.96,Cap,,0,0,0,,{\pos(960,905)}one 5,000 gallon tank and two {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:17:31.96,0:17:32.12,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}those{\c&H00FFFFFF&} systems and it's making class
+Dialogue: 1,0:17:32.12,0:17:32.54,Cap,,0,0,0,,{\pos(960,905)}those {\c&H0060ECCD}systems{\c&H00FFFFFF&} and it's making class
+Dialogue: 1,0:17:32.54,0:17:32.82,Cap,,0,0,0,,{\pos(960,905)}those systems {\c&H0060ECCD}and{\c&H00FFFFFF&} it's making class
+Dialogue: 1,0:17:32.82,0:17:33.00,Cap,,0,0,0,,{\pos(960,905)}those systems and {\c&H0060ECCD}it's{\c&H00FFFFFF&} making class
+Dialogue: 1,0:17:33.00,0:17:33.26,Cap,,0,0,0,,{\pos(960,905)}those systems and it's {\c&H0060ECCD}making{\c&H00FFFFFF&} class
+Dialogue: 1,0:17:33.26,0:17:33.94,Cap,,0,0,0,,{\pos(960,905)}those systems and it's making {\c&H0060ECCD}class{\c&H00FFFFFF&}
 Dialogue: 1,0:17:33.94,0:17:34.20,Cap,,0,0,0,,{\pos(960,905)}{\c&H0060ECCD}one{\c&H00FFFFFF&} water the BOD was 18 the
 Dialogue: 1,0:17:34.20,0:17:34.90,Cap,,0,0,0,,{\pos(960,905)}one {\c&H0060ECCD}water{\c&H00FFFFFF&} the BOD was 18 the
 Dialogue: 1,0:17:34.90,0:17:35.38,Cap,,0,0,0,,{\pos(960,905)}one water {\c&H0060ECCD}the{\c&H00FFFFFF&} BOD was 18 the
