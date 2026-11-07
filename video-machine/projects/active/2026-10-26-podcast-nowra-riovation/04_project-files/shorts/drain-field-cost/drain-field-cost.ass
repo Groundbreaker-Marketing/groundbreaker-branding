@@ -1,0 +1,118 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.36,Title,,0,0,0,,{\pos(540,480)}What a failing septic\Ndrain field {\c&H0060ECCD}really{\c&H00FFFFFF&} costs to fix
+Dialogue: 1,0:00:00.00,0:00:00.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}cost{\c&H00FFFFFF&} look like to
+Dialogue: 1,0:00:00.18,0:00:00.42,Cap,,0,0,0,,{\pos(540,1400)}cost {\c&H0060ECCD}look{\c&H00FFFFFF&} like to
+Dialogue: 1,0:00:00.42,0:00:00.70,Cap,,0,0,0,,{\pos(540,1400)}cost look {\c&H0060ECCD}like{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:00.70,0:00:01.06,Cap,,0,0,0,,{\pos(540,1400)}cost look like {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.06,0:00:01.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} that drain
+Dialogue: 1,0:00:01.56,0:00:02.02,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}that{\c&H00FFFFFF&} drain
+Dialogue: 1,0:00:02.02,0:00:02.70,Cap,,0,0,0,,{\pos(540,1400)}do that {\c&H0060ECCD}drain{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.70,0:00:02.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}field{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.90,0:00:03.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}rejuvenation{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:03.58,0:00:04.62,Cap,,0,0,0,,{\pos(540,1400)}rejuvenation {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.62,0:00:04.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} sell to the
+Dialogue: 1,0:00:04.98,0:00:05.18,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}sell{\c&H00FFFFFF&} to the
+Dialogue: 1,0:00:05.18,0:00:05.30,Cap,,0,0,0,,{\pos(540,1400)}we sell {\c&H0060ECCD}to{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:05.30,0:00:05.40,Cap,,0,0,0,,{\pos(540,1400)}we sell to {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.40,0:00:05.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}professional{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.88,0:00:06.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}market{\c&H00FFFFFF&} by the
+Dialogue: 1,0:00:06.30,0:00:06.50,Cap,,0,0,0,,{\pos(540,1400)}market {\c&H0060ECCD}by{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:06.50,0:00:06.64,Cap,,0,0,0,,{\pos(540,1400)}market by {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.64,0:00:07.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}every{\c&H00FFFFFF&} state's a
+Dialogue: 1,0:00:07.42,0:00:07.78,Cap,,0,0,0,,{\pos(540,1400)}every {\c&H0060ECCD}state's{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:07.78,0:00:07.86,Cap,,0,0,0,,{\pos(540,1400)}every state's {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.86,0:00:07.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}little{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:07.94,0:00:08.22,Cap,,0,0,0,,{\pos(540,1400)}little {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.22,0:00:08.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} some states
+Dialogue: 1,0:00:08.44,0:00:08.62,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}some{\c&H00FFFFFF&} states
+Dialogue: 1,0:00:08.62,0:00:08.90,Cap,,0,0,0,,{\pos(540,1400)}so some {\c&H0060ECCD}states{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.90,0:00:09.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}require{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.52,0:00:10.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}permitting{\c&H00FFFFFF&} you do
+Dialogue: 1,0:00:10.22,0:00:12.00,Cap,,0,0,0,,{\pos(540,1400)}permitting {\c&H0060ECCD}you{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:12.00,0:00:12.16,Cap,,0,0,0,,{\pos(540,1400)}permitting you {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.16,0:00:12.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}need{\c&H00FFFFFF&} a riser to
+Dialogue: 1,0:00:12.34,0:00:12.50,Cap,,0,0,0,,{\pos(540,1400)}need {\c&H0060ECCD}a{\c&H00FFFFFF&} riser to
+Dialogue: 1,0:00:12.50,0:00:12.96,Cap,,0,0,0,,{\pos(540,1400)}need a {\c&H0060ECCD}riser{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:12.96,0:00:13.12,Cap,,0,0,0,,{\pos(540,1400)}need a riser {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.12,0:00:13.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} surface so if
+Dialogue: 1,0:00:13.26,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}surface{\c&H00FFFFFF&} so if
+Dialogue: 1,0:00:13.66,0:00:14.16,Cap,,0,0,0,,{\pos(540,1400)}the surface {\c&H0060ECCD}so{\c&H00FFFFFF&} if
+Dialogue: 1,0:00:14.16,0:00:14.52,Cap,,0,0,0,,{\pos(540,1400)}the surface so {\c&H0060ECCD}if{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.52,0:00:14.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} doesn't have a
+Dialogue: 1,0:00:14.62,0:00:14.86,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}doesn't{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:14.86,0:00:14.98,Cap,,0,0,0,,{\pos(540,1400)}it doesn't {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:14.98,0:00:15.10,Cap,,0,0,0,,{\pos(540,1400)}it doesn't have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.10,0:00:15.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}riser{\c&H00FFFFFF&} you need
+Dialogue: 1,0:00:15.48,0:00:15.60,Cap,,0,0,0,,{\pos(540,1400)}riser {\c&H0060ECCD}you{\c&H00FFFFFF&} need
+Dialogue: 1,0:00:15.60,0:00:15.76,Cap,,0,0,0,,{\pos(540,1400)}riser you {\c&H0060ECCD}need{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.76,0:00:16.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}install{\c&H00FFFFFF&} that so
+Dialogue: 1,0:00:16.22,0:00:16.54,Cap,,0,0,0,,{\pos(540,1400)}install {\c&H0060ECCD}that{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:16.54,0:00:17.96,Cap,,0,0,0,,{\pos(540,1400)}install that {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.96,0:00:18.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there's{\c&H00FFFFFF&} various
+Dialogue: 1,0:00:18.24,0:00:18.62,Cap,,0,0,0,,{\pos(540,1400)}there's {\c&H0060ECCD}various{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.62,0:00:19.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}elements{\c&H00FFFFFF&} you need
+Dialogue: 1,0:00:19.10,0:00:19.54,Cap,,0,0,0,,{\pos(540,1400)}elements {\c&H0060ECCD}you{\c&H00FFFFFF&} need
+Dialogue: 1,0:00:19.54,0:00:19.66,Cap,,0,0,0,,{\pos(540,1400)}elements you {\c&H0060ECCD}need{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.66,0:00:19.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} pump the tank
+Dialogue: 1,0:00:19.76,0:00:20.00,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}pump{\c&H00FFFFFF&} the tank
+Dialogue: 1,0:00:20.00,0:00:20.18,Cap,,0,0,0,,{\pos(540,1400)}to pump {\c&H0060ECCD}the{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:20.18,0:00:20.48,Cap,,0,0,0,,{\pos(540,1400)}to pump the {\c&H0060ECCD}tank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.48,0:00:21.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} in it's
+Dialogue: 1,0:00:21.42,0:00:21.74,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}in{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:21.74,0:00:22.34,Cap,,0,0,0,,{\pos(540,1400)}all in {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.34,0:00:22.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}usually{\c&H00FFFFFF&} in the 5
+Dialogue: 1,0:00:22.86,0:00:23.68,Cap,,0,0,0,,{\pos(540,1400)}usually {\c&H0060ECCD}in{\c&H00FFFFFF&} the 5
+Dialogue: 1,0:00:23.68,0:00:23.82,Cap,,0,0,0,,{\pos(540,1400)}usually in {\c&H0060ECCD}the{\c&H00FFFFFF&} 5
+Dialogue: 1,0:00:23.82,0:00:24.12,Cap,,0,0,0,,{\pos(540,1400)}usually in the {\c&H0060ECCD}5{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.12,0:00:24.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}000{\c&H00FFFFFF&} range maybe a
+Dialogue: 1,0:00:24.58,0:00:25.36,Cap,,0,0,0,,{\pos(540,1400)}000 {\c&H0060ECCD}range{\c&H00FFFFFF&} maybe a
+Dialogue: 1,0:00:25.36,0:00:26.00,Cap,,0,0,0,,{\pos(540,1400)}000 range {\c&H0060ECCD}maybe{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:26.00,0:00:26.18,Cap,,0,0,0,,{\pos(540,1400)}000 range maybe {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.18,0:00:26.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}little{\c&H00FFFFFF&} under
+Dialogue: 1,0:00:26.30,0:00:26.66,Cap,,0,0,0,,{\pos(540,1400)}little {\c&H0060ECCD}under{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.66,0:00:26.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}maybe{\c&H00FFFFFF&} a little
+Dialogue: 1,0:00:26.90,0:00:27.08,Cap,,0,0,0,,{\pos(540,1400)}maybe {\c&H0060ECCD}a{\c&H00FFFFFF&} little
+Dialogue: 1,0:00:27.08,0:00:27.18,Cap,,0,0,0,,{\pos(540,1400)}maybe a {\c&H0060ECCD}little{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.18,0:00:27.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}over{\c&H00FFFFFF&} depending on
+Dialogue: 1,0:00:27.48,0:00:27.84,Cap,,0,0,0,,{\pos(540,1400)}over {\c&H0060ECCD}depending{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:27.84,0:00:28.04,Cap,,0,0,0,,{\pos(540,1400)}over depending {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.04,0:00:28.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} needs to be
+Dialogue: 1,0:00:28.22,0:00:28.44,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}needs{\c&H00FFFFFF&} to be
+Dialogue: 1,0:00:28.44,0:00:28.60,Cap,,0,0,0,,{\pos(540,1400)}what needs {\c&H0060ECCD}to{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:28.60,0:00:28.74,Cap,,0,0,0,,{\pos(540,1400)}what needs to {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.74,0:00:28.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}done{\c&H00FFFFFF&} okay and
+Dialogue: 1,0:00:28.96,0:00:30.08,Cap,,0,0,0,,{\pos(540,1400)}done {\c&H0060ECCD}okay{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:30.08,0:00:30.36,Cap,,0,0,0,,{\pos(540,1400)}done okay {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.36,0:00:30.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} quite a
+Dialogue: 1,0:00:30.58,0:00:30.78,Cap,,0,0,0,,{\pos(540,1400)}that's {\c&H0060ECCD}quite{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:30.78,0:00:30.88,Cap,,0,0,0,,{\pos(540,1400)}that's quite {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.88,0:00:31.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bit{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:31.00,0:00:31.24,Cap,,0,0,0,,{\pos(540,1400)}bit {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.24,0:00:31.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}than{\c&H00FFFFFF&} having to
+Dialogue: 1,0:00:31.50,0:00:31.92,Cap,,0,0,0,,{\pos(540,1400)}than {\c&H0060ECCD}having{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:31.92,0:00:32.14,Cap,,0,0,0,,{\pos(540,1400)}than having {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.14,0:00:32.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}replace{\c&H00FFFFFF&} an entire
+Dialogue: 1,0:00:32.60,0:00:32.88,Cap,,0,0,0,,{\pos(540,1400)}replace {\c&H0060ECCD}an{\c&H00FFFFFF&} entire
+Dialogue: 1,0:00:32.88,0:00:33.14,Cap,,0,0,0,,{\pos(540,1400)}replace an {\c&H0060ECCD}entire{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.14,0:00:33.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&} that maybe
+Dialogue: 1,0:00:33.52,0:00:33.74,Cap,,0,0,0,,{\pos(540,1400)}system {\c&H0060ECCD}that{\c&H00FFFFFF&} maybe
+Dialogue: 1,0:00:33.74,0:00:34.10,Cap,,0,0,0,,{\pos(540,1400)}system that {\c&H0060ECCD}maybe{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.10,0:00:34.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&} need to
+Dialogue: 1,0:00:34.44,0:00:34.62,Cap,,0,0,0,,{\pos(540,1400)}doesn't {\c&H0060ECCD}need{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:34.62,0:00:34.72,Cap,,0,0,0,,{\pos(540,1400)}doesn't need {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.72,0:00:34.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} replaced
+Dialogue: 1,0:00:34.86,0:00:35.28,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}replaced{\c&H00FFFFFF&}

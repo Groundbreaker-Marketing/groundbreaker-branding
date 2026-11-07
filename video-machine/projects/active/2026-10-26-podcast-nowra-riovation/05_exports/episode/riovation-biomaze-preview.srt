@@ -1,0 +1,279 @@
+1
+00:00:00,000 --> 00:00:01,640
+Hey everyone and welcome to the #2
+
+2
+00:00:01,640 --> 00:00:02,520
+septic podcast
+
+3
+00:00:02,520 --> 00:00:04,500
+We are here at the NOWRA event
+
+4
+00:00:04,500 --> 00:00:06,030
+and I have Stephen Moeller
+
+5
+00:00:06,060 --> 00:00:07,990
+He is a partner at RioVation
+
+6
+00:00:08,060 --> 00:00:09,640
+so I'm really excited to have him
+
+7
+00:00:09,640 --> 00:00:11,340
+on the podcast and actually get a
+
+8
+00:00:11,340 --> 00:00:13,700
+really hands-on demonstration of the
+
+9
+00:00:13,700 --> 00:00:14,990
+product what it does
+
+10
+00:00:15,100 --> 00:00:16,820
+I had a great conversation with him
+
+11
+00:00:16,820 --> 00:00:19,040
+yesterday and just am excited to
+
+12
+00:00:19,040 --> 00:00:21,480
+share this because I think just when
+
+13
+00:00:21,480 --> 00:00:22,670
+I talk to people
+
+14
+00:00:22,720 --> 00:00:24,320
+I hear them bring up a lot
+
+15
+00:00:24,320 --> 00:00:26,500
+of issues and I think that this
+
+16
+00:00:26,500 --> 00:00:28,260
+product can help solve a lot of
+
+17
+00:00:28,260 --> 00:00:30,920
+those so it's one of those products
+
+18
+00:00:30,920 --> 00:00:32,880
+that it's almost too good to be
+
+19
+00:00:32,880 --> 00:00:34,620
+true kind of thing but we're going
+
+20
+00:00:34,620 --> 00:00:35,820
+to prove it to you today so
+
+21
+00:00:35,820 --> 00:00:37,940
+welcome to the podcast steven thanks
+
+22
+00:00:37,940 --> 00:00:39,540
+for thanks for having me glad to
+
+23
+00:00:39,540 --> 00:00:41,580
+be here yeah so tell us a
+
+24
+00:00:41,580 --> 00:00:43,280
+little bit just about your story your
+
+25
+00:00:43,280 --> 00:00:45,200
+background what did you do before
+
+26
+00:00:45,200 --> 00:00:47,580
+RioVation what brought you to this
+
+27
+00:00:47,580 --> 00:00:50,120
+company yeah so my background is
+
+28
+00:00:50,120 --> 00:00:52,240
+electrical my family had electrical
+
+29
+00:00:52,240 --> 00:00:56,100
+supply business in east Texas and so
+
+30
+00:00:56,100 --> 00:00:58,860
+interacted with industrial customers
+
+31
+00:00:58,860 --> 00:01:01,540
+petrochemical and so forth and so I
+
+32
+00:01:01,540 --> 00:01:03,300
+had a lot of exposure to process
+
+33
+00:01:03,300 --> 00:01:06,540
+and then I knew the fellow that
+
+34
+00:01:06,540 --> 00:01:09,470
+developed this product Gig Drewery in
+
+35
+00:01:09,740 --> 00:01:11,500
+his early days when he founded
+
+36
+00:01:11,500 --> 00:01:14,360
+Hydro-Action so he was in a jet
+
+37
+00:01:14,360 --> 00:01:16,340
+aerobic installer and then he founded
+
+38
+00:01:16,340 --> 00:01:18,900
+Hydro-Action and had about 13 patents
+
+39
+00:01:18,900 --> 00:01:21,820
+with that product line and so I
+
+40
+00:01:21,820 --> 00:01:23,700
+knew him through the electrical supply
+
+41
+00:01:23,700 --> 00:01:25,120
+connection and we've stayed in touch
+
+42
+00:01:25,120 --> 00:01:26,640
+over the years well he ended up
+
+43
+00:01:26,640 --> 00:01:28,680
+getting out of the industry got rid
+
+44
+00:01:28,680 --> 00:01:31,340
+of Hydro-Action and then in the back
+
+45
+00:01:31,340 --> 00:01:32,960
+of his mind he's thinking that we've
+
+46
+00:01:32,960 --> 00:01:34,740
+got all of these septic systems in
+
+47
+00:01:34,740 --> 00:01:35,140
+the U.S
+
+48
+00:01:35,140 --> 00:01:37,420
+and worldwide that struggle have
+
+49
+00:01:37,420 --> 00:01:39,300
+issues he says there's got to be
+
+50
+00:01:39,300 --> 00:01:40,700
+a way to fix it so seven
+
+51
+00:01:40,700 --> 00:01:43,140
+eight years of R&D later we have
+
+52
+00:01:43,140 --> 00:01:45,500
+the RioVation BioMaze product that's a
+
+53
+00:01:45,500 --> 00:01:47,800
+lot of R&D yeah yeah that's great
+
+54
+00:01:47,800 --> 00:01:49,680
+so at what point did you join
+
+55
+00:01:49,680 --> 00:01:51,020
+RioVation have you been there since
+
+56
+00:01:51,020 --> 00:01:54,360
+the beginning so I've been about five
+
+57
+00:01:54,360 --> 00:01:58,000
+years okay and since we started just
+
+58
+00:01:58,000 --> 00:02:00,360
+started going to market so I was
+
+59
+00:02:00,360 --> 00:02:01,840
+stayed in touch with Gig I was
+
+60
+00:02:01,840 --> 00:02:04,540
+really excited about the product and
+
+61
+00:02:04,540 --> 00:02:06,760
+eventually got on board and so I
+
+62
+00:02:06,760 --> 00:02:10,060
+pretty much run the business aspect of
+
+63
+00:02:10,060 --> 00:02:12,720
+it Gig does R&D and engineering okay
+
+64
+00:02:12,720 --> 00:02:15,000
+yeah that's good to have both sides
+
+65
+00:02:15,000 --> 00:02:17,360
+of it yeah that's great so what
+
+66
+00:02:17,360 --> 00:02:19,740
+was the major problem that you're
+
+67
+00:02:19,740 --> 00:02:21,360
+trying to solve for when you started
+
+68
+00:02:21,360 --> 00:02:23,980
+developing this product so yeah the
+
+69
+00:02:23,980 --> 00:02:26,380
+focus was drain field rejuvenation so
+
+70
+00:02:26,380 --> 00:02:28,210
+there's some studies through
