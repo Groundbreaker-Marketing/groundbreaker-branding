@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:28.38,Title,,0,0,0,,{\an5\pos(540,960)}A $25,000 septic mound,\Nor a {\c&H0060ECCD}$5,000{\c&H00FFFFFF&} fix?
+Dialogue: 2,0:00:00.00,0:00:28.38,Title,,0,0,0,,{\an5\pos(540,190)}A $25,000 septic mound,\Nor a {\c&H0060ECCD}$5,000{\c&H00FFFFFF&} fix?
 Dialogue: 1,0:00:00.00,0:00:00.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}This{\c&H00FFFFFF&} is a grab
 Dialogue: 1,0:00:00.18,0:00:00.30,Cap,,0,0,0,,{\pos(540,1400)}This {\c&H0060ECCD}is{\c&H00FFFFFF&} a grab
 Dialogue: 1,0:00:00.30,0:00:00.40,Cap,,0,0,0,,{\pos(540,1400)}This is {\c&H0060ECCD}a{\c&H00FFFFFF&} grab
