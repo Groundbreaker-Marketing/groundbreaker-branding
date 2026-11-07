@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:45.97,Title,,0,0,0,,{\pos(540,480)}Be willing to try new\N{\c&H0060ECCD}septic{\c&H00FFFFFF&} technology
+Dialogue: 2,0:00:00.00,0:00:45.97,Title,,0,0,0,,{\an5\pos(540,960)}Be willing to try new\N{\c&H0060ECCD}septic{\c&H00FFFFFF&} technology
 Dialogue: 1,0:00:00.57,0:00:00.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}willing{\c&H00FFFFFF&} to try
 Dialogue: 1,0:00:00.75,0:00:00.91,Cap,,0,0,0,,{\pos(540,1400)}willing {\c&H0060ECCD}to{\c&H00FFFFFF&} try
 Dialogue: 1,0:00:00.91,0:00:01.09,Cap,,0,0,0,,{\pos(540,1400)}willing to {\c&H0060ECCD}try{\c&H00FFFFFF&}

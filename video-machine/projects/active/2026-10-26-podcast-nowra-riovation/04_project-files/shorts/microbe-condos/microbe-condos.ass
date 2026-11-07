@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:44.23,Title,,0,0,0,,{\pos(540,480)}Condominiums for the\Nmicrobes in your {\c&H0060ECCD}septic{\c&H00FFFFFF&} tank
+Dialogue: 2,0:00:00.00,0:00:44.23,Title,,0,0,0,,{\an5\pos(540,190)}Condominiums for the\Nmicrobes in your {\c&H0060ECCD}septic{\c&H00FFFFFF&} tank
 Dialogue: 1,0:00:00.00,0:00:00.13,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}pods{\c&H00FFFFFF&} drop
 Dialogue: 1,0:00:00.13,0:00:00.47,Cap,,0,0,0,,{\pos(540,1400)}the pods {\c&H0060ECCD}drop{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.47,0:00:00.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}into{\c&H00FFFFFF&} the tank so

@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:47.14,Title,,0,0,0,,{\pos(540,480)}How to get a {\c&H0060ECCD}septic{\c&H00FFFFFF&}\Ncustomer for life
+Dialogue: 2,0:00:00.00,0:00:47.14,Title,,0,0,0,,{\an5\pos(540,960)}How to get a {\c&H0060ECCD}septic{\c&H00FFFFFF&}\Ncustomer for life
 Dialogue: 1,0:00:00.00,0:00:00.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then you
 Dialogue: 1,0:00:00.14,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} you
 Dialogue: 1,0:00:00.26,0:00:00.50,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}you{\c&H00FFFFFF&}
