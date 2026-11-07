@@ -1,6 +1,18 @@
 {
-  "mound-or-five-thousand": {
+  "drain-field-cost": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "install-time": {
     "fails": [],
     "warns": []
+  },
+  "microbe-condos": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
   }
 }
