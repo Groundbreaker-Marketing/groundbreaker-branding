@@ -1,0 +1,112 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.41,Title,,0,0,0,,{\pos(540,480)}30 years of maintenance\Nkits for a {\c&H0060ECCD}septic{\c&H00FFFFFF&} job
+Dialogue: 1,0:00:00.08,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:00.28,0:00:00.42,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.42,0:00:00.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everything{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:00.74,0:00:01.36,Cap,,0,0,0,,{\pos(540,1400)}everything {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.36,0:00:01.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}instance{\c&H00FFFFFF&} on those
+Dialogue: 1,0:00:01.62,0:00:02.04,Cap,,0,0,0,,{\pos(540,1400)}instance {\c&H0060ECCD}on{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:02.04,0:00:02.22,Cap,,0,0,0,,{\pos(540,1400)}instance on {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.22,0:00:02.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}larger{\c&H00FFFFFF&} jobs in
+Dialogue: 1,0:00:02.54,0:00:02.90,Cap,,0,0,0,,{\pos(540,1400)}larger {\c&H0060ECCD}jobs{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:02.90,0:00:03.16,Cap,,0,0,0,,{\pos(540,1400)}larger jobs {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.16,0:00:03.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Ghana{\c&H00FFFFFF&} and Liberia
+Dialogue: 1,0:00:03.72,0:00:03.98,Cap,,0,0,0,,{\pos(540,1400)}Ghana {\c&H0060ECCD}and{\c&H00FFFFFF&} Liberia
+Dialogue: 1,0:00:03.98,0:00:04.58,Cap,,0,0,0,,{\pos(540,1400)}Ghana and {\c&H0060ECCD}Liberia{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.58,0:00:06.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} know they
+Dialogue: 1,0:00:06.52,0:00:06.70,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}know{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:06.70,0:00:06.86,Cap,,0,0,0,,{\pos(540,1400)}we know {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.86,0:00:07.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} have ready
+Dialogue: 1,0:00:07.00,0:00:07.16,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}have{\c&H00FFFFFF&} ready
+Dialogue: 1,0:00:07.16,0:00:07.36,Cap,,0,0,0,,{\pos(540,1400)}don't have {\c&H0060ECCD}ready{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.36,0:00:07.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}access{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:07.76,0:00:08.08,Cap,,0,0,0,,{\pos(540,1400)}access {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.08,0:00:08.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}replacement{\c&H00FFFFFF&} parts
+Dialogue: 1,0:00:08.56,0:00:09.04,Cap,,0,0,0,,{\pos(540,1400)}replacement {\c&H0060ECCD}parts{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.04,0:00:09.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} so we
+Dialogue: 1,0:00:09.28,0:00:09.58,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}so{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:09.58,0:00:09.82,Cap,,0,0,0,,{\pos(540,1400)}right so {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.82,0:00:10.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}provide{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.30,0:00:11.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}additional{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.36,0:00:12.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}blowers{\c&H00FFFFFF&} for duty
+Dialogue: 1,0:00:12.38,0:00:13.16,Cap,,0,0,0,,{\pos(540,1400)}blowers {\c&H0060ECCD}for{\c&H00FFFFFF&} duty
+Dialogue: 1,0:00:13.16,0:00:13.94,Cap,,0,0,0,,{\pos(540,1400)}blowers for {\c&H0060ECCD}duty{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.94,0:00:14.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} standby so we
+Dialogue: 1,0:00:14.14,0:00:14.58,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}standby{\c&H00FFFFFF&} so we
+Dialogue: 1,0:00:14.58,0:00:14.90,Cap,,0,0,0,,{\pos(540,1400)}and standby {\c&H0060ECCD}so{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:14.90,0:00:15.02,Cap,,0,0,0,,{\pos(540,1400)}and standby so {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.02,0:00:15.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} standby
+Dialogue: 1,0:00:15.14,0:00:15.50,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}standby{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.50,0:00:15.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}blowers{\c&H00FFFFFF&} so if one
+Dialogue: 1,0:00:15.98,0:00:16.54,Cap,,0,0,0,,{\pos(540,1400)}blowers {\c&H0060ECCD}so{\c&H00FFFFFF&} if one
+Dialogue: 1,0:00:16.54,0:00:16.70,Cap,,0,0,0,,{\pos(540,1400)}blowers so {\c&H0060ECCD}if{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:16.70,0:00:16.84,Cap,,0,0,0,,{\pos(540,1400)}blowers so if {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.84,0:00:17.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}goes{\c&H00FFFFFF&} down they
+Dialogue: 1,0:00:17.06,0:00:17.24,Cap,,0,0,0,,{\pos(540,1400)}goes {\c&H0060ECCD}down{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:17.24,0:00:17.42,Cap,,0,0,0,,{\pos(540,1400)}goes down {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.42,0:00:17.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}can{\c&H00FFFFFF&} just switch
+Dialogue: 1,0:00:17.54,0:00:17.68,Cap,,0,0,0,,{\pos(540,1400)}can {\c&H0060ECCD}just{\c&H00FFFFFF&} switch
+Dialogue: 1,0:00:17.68,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}can just {\c&H0060ECCD}switch{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.98,0:00:18.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}over{\c&H00FFFFFF&} to the
+Dialogue: 1,0:00:18.76,0:00:18.98,Cap,,0,0,0,,{\pos(540,1400)}over {\c&H0060ECCD}to{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:18.98,0:00:19.22,Cap,,0,0,0,,{\pos(540,1400)}over to {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.22,0:00:19.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}standby{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:19.72,0:00:20.18,Cap,,0,0,0,,{\pos(540,1400)}standby {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.24,0:00:20.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} also provide
+Dialogue: 1,0:00:20.72,0:00:20.96,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}also{\c&H00FFFFFF&} provide
+Dialogue: 1,0:00:20.96,0:00:21.36,Cap,,0,0,0,,{\pos(540,1400)}We also {\c&H0060ECCD}provide{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.36,0:00:21.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&} maintenance
+Dialogue: 1,0:00:21.52,0:00:22.20,Cap,,0,0,0,,{\pos(540,1400)}them {\c&H0060ECCD}maintenance{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.20,0:00:22.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}kits{\c&H00FFFFFF&} for the
+Dialogue: 1,0:00:22.58,0:00:23.06,Cap,,0,0,0,,{\pos(540,1400)}kits {\c&H0060ECCD}for{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:23.06,0:00:23.16,Cap,,0,0,0,,{\pos(540,1400)}kits for {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.16,0:00:23.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}blowers{\c&H00FFFFFF&} and all
+Dialogue: 1,0:00:23.60,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}blowers {\c&H0060ECCD}and{\c&H00FFFFFF&} all
+Dialogue: 1,0:00:24.34,0:00:25.12,Cap,,0,0,0,,{\pos(540,1400)}blowers and {\c&H0060ECCD}all{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.12,0:00:25.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} diffuser
+Dialogue: 1,0:00:25.26,0:00:25.76,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}diffuser{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.76,0:00:26.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}replacements{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:26.88,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}replacements {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.28,0:00:27.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}stones{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.84,0:00:28.06,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}they've{\c&H00FFFFFF&} got
+Dialogue: 1,0:00:28.06,0:00:28.18,Cap,,0,0,0,,{\pos(540,1400)}So they've {\c&H0060ECCD}got{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.18,0:00:28.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} 30 years of
+Dialogue: 1,0:00:28.42,0:00:28.80,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}30{\c&H00FFFFFF&} years of
+Dialogue: 1,0:00:28.80,0:00:29.10,Cap,,0,0,0,,{\pos(540,1400)}about 30 {\c&H0060ECCD}years{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:29.10,0:00:29.28,Cap,,0,0,0,,{\pos(540,1400)}about 30 years {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.28,0:00:29.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}maintenance{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:29.60,0:00:30.26,Cap,,0,0,0,,{\pos(540,1400)}maintenance {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.26,0:00:30.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} project
+Dialogue: 1,0:00:30.44,0:00:30.84,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}project{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.84,0:00:30.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}They{\c&H00FFFFFF&} don't even
+Dialogue: 1,0:00:30.90,0:00:31.06,Cap,,0,0,0,,{\pos(540,1400)}They {\c&H0060ECCD}don't{\c&H00FFFFFF&} even
+Dialogue: 1,0:00:31.06,0:00:31.36,Cap,,0,0,0,,{\pos(540,1400)}They don't {\c&H0060ECCD}even{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.38,0:00:31.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} should not
+Dialogue: 1,0:00:31.64,0:00:31.82,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}should{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:31.82,0:00:32.12,Cap,,0,0,0,,{\pos(540,1400)}they should {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.12,0:00:32.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} to buy
+Dialogue: 1,0:00:32.32,0:00:32.46,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}to{\c&H00FFFFFF&} buy
+Dialogue: 1,0:00:32.46,0:00:33.04,Cap,,0,0,0,,{\pos(540,1400)}have to {\c&H0060ECCD}buy{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.04,0:00:33.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anything{\c&H00FFFFFF&} to run
+Dialogue: 1,0:00:33.44,0:00:33.62,Cap,,0,0,0,,{\pos(540,1400)}anything {\c&H0060ECCD}to{\c&H00FFFFFF&} run
+Dialogue: 1,0:00:33.62,0:00:33.80,Cap,,0,0,0,,{\pos(540,1400)}anything to {\c&H0060ECCD}run{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.80,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} project for
+Dialogue: 1,0:00:33.96,0:00:34.36,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}project{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:34.36,0:00:34.58,Cap,,0,0,0,,{\pos(540,1400)}that project {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.58,0:00:34.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} 30 years
+Dialogue: 1,0:00:34.76,0:00:35.00,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}30{\c&H00FFFFFF&} years
+Dialogue: 1,0:00:35.00,0:00:35.44,Cap,,0,0,0,,{\pos(540,1400)}about 30 {\c&H0060ECCD}years{\c&H00FFFFFF&}

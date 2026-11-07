@@ -1,0 +1,132 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:47.98,Title,,0,0,0,,{\pos(540,480)}How a {\c&H0060ECCD}septic{\c&H00FFFFFF&} tank in Liberia\Nlost its odor on day one
+Dialogue: 1,0:00:00.08,0:00:00.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} we received a
+Dialogue: 1,0:00:00.78,0:00:01.56,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}we{\c&H00FFFFFF&} received a
+Dialogue: 1,0:00:01.56,0:00:02.16,Cap,,0,0,0,,{\pos(540,1400)}so we {\c&H0060ECCD}received{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:02.16,0:00:02.36,Cap,,0,0,0,,{\pos(540,1400)}so we received {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.36,0:00:02.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}request{\c&H00FFFFFF&} from a
+Dialogue: 1,0:00:02.68,0:00:03.06,Cap,,0,0,0,,{\pos(540,1400)}request {\c&H0060ECCD}from{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:03.06,0:00:03.18,Cap,,0,0,0,,{\pos(540,1400)}request from {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.18,0:00:03.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}customer{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:03.60,0:00:03.84,Cap,,0,0,0,,{\pos(540,1400)}customer {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.84,0:00:04.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Liberia{\c&H00FFFFFF&} that has
+Dialogue: 1,0:00:04.40,0:00:04.56,Cap,,0,0,0,,{\pos(540,1400)}Liberia {\c&H0060ECCD}that{\c&H00FFFFFF&} has
+Dialogue: 1,0:00:04.56,0:00:04.82,Cap,,0,0,0,,{\pos(540,1400)}Liberia that {\c&H0060ECCD}has{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.82,0:00:05.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}8{\c&H00FFFFFF&} 000 gallon per
+Dialogue: 1,0:00:05.18,0:00:05.58,Cap,,0,0,0,,{\pos(540,1400)}8 {\c&H0060ECCD}000{\c&H00FFFFFF&} gallon per
+Dialogue: 1,0:00:05.58,0:00:05.86,Cap,,0,0,0,,{\pos(540,1400)}8 000 {\c&H0060ECCD}gallon{\c&H00FFFFFF&} per
+Dialogue: 1,0:00:05.86,0:00:06.08,Cap,,0,0,0,,{\pos(540,1400)}8 000 gallon {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.08,0:00:06.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}day{\c&H00FFFFFF&} flow and the
+Dialogue: 1,0:00:06.26,0:00:07.26,Cap,,0,0,0,,{\pos(540,1400)}day {\c&H0060ECCD}flow{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:07.26,0:00:07.68,Cap,,0,0,0,,{\pos(540,1400)}day flow {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:07.68,0:00:08.38,Cap,,0,0,0,,{\pos(540,1400)}day flow and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.38,0:00:08.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}biggest{\c&H00FFFFFF&} concern
+Dialogue: 1,0:00:08.80,0:00:09.30,Cap,,0,0,0,,{\pos(540,1400)}biggest {\c&H0060ECCD}concern{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.30,0:00:09.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} they had an
+Dialogue: 1,0:00:09.62,0:00:09.78,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}they{\c&H00FFFFFF&} had an
+Dialogue: 1,0:00:09.78,0:00:09.92,Cap,,0,0,0,,{\pos(540,1400)}was they {\c&H0060ECCD}had{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:09.92,0:00:10.28,Cap,,0,0,0,,{\pos(540,1400)}was they had {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.28,0:00:10.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anaerobic{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:10.82,0:00:11.20,Cap,,0,0,0,,{\pos(540,1400)}anaerobic {\c&H0060ECCD}tank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.20,0:00:12.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then that was
+Dialogue: 1,0:00:12.39,0:00:12.55,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} that was
+Dialogue: 1,0:00:12.55,0:00:12.99,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}that{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:12.99,0:00:13.15,Cap,,0,0,0,,{\pos(540,1400)}and then that {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.15,0:00:13.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} trash tank and
+Dialogue: 1,0:00:13.27,0:00:13.53,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}trash{\c&H00FFFFFF&} tank and
+Dialogue: 1,0:00:13.53,0:00:13.85,Cap,,0,0,0,,{\pos(540,1400)}a trash {\c&H0060ECCD}tank{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:13.85,0:00:14.03,Cap,,0,0,0,,{\pos(540,1400)}a trash tank {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.03,0:00:14.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} from there
+Dialogue: 1,0:00:14.13,0:00:14.31,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}from{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:14.31,0:00:14.49,Cap,,0,0,0,,{\pos(540,1400)}then from {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.49,0:00:14.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} went to a
+Dialogue: 1,0:00:14.67,0:00:14.79,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}went{\c&H00FFFFFF&} to a
+Dialogue: 1,0:00:14.79,0:00:14.93,Cap,,0,0,0,,{\pos(540,1400)}it went {\c&H0060ECCD}to{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:14.93,0:00:15.05,Cap,,0,0,0,,{\pos(540,1400)}it went to {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.05,0:00:15.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}dosing{\c&H00FFFFFF&} tank with
+Dialogue: 1,0:00:15.49,0:00:15.73,Cap,,0,0,0,,{\pos(540,1400)}dosing {\c&H0060ECCD}tank{\c&H00FFFFFF&} with
+Dialogue: 1,0:00:15.73,0:00:16.07,Cap,,0,0,0,,{\pos(540,1400)}dosing tank {\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.07,0:00:16.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumps{\c&H00FFFFFF&} and pumped
+Dialogue: 1,0:00:16.49,0:00:17.13,Cap,,0,0,0,,{\pos(540,1400)}pumps {\c&H0060ECCD}and{\c&H00FFFFFF&} pumped
+Dialogue: 1,0:00:17.13,0:00:17.41,Cap,,0,0,0,,{\pos(540,1400)}pumps and {\c&H0060ECCD}pumped{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.41,0:00:17.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} to an above
+Dialogue: 1,0:00:17.55,0:00:17.67,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}to{\c&H00FFFFFF&} an above
+Dialogue: 1,0:00:17.67,0:00:17.77,Cap,,0,0,0,,{\pos(540,1400)}it to {\c&H0060ECCD}an{\c&H00FFFFFF&} above
+Dialogue: 1,0:00:17.77,0:00:18.01,Cap,,0,0,0,,{\pos(540,1400)}it to an {\c&H0060ECCD}above{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.01,0:00:18.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ground{\c&H00FFFFFF&} rock media
+Dialogue: 1,0:00:18.27,0:00:18.61,Cap,,0,0,0,,{\pos(540,1400)}ground {\c&H0060ECCD}rock{\c&H00FFFFFF&} media
+Dialogue: 1,0:00:18.61,0:00:18.91,Cap,,0,0,0,,{\pos(540,1400)}ground rock {\c&H0060ECCD}media{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.91,0:00:19.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trickle{\c&H00FFFFFF&} filter
+Dialogue: 1,0:00:19.33,0:00:19.63,Cap,,0,0,0,,{\pos(540,1400)}trickle {\c&H0060ECCD}filter{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.63,0:00:20.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} it treated
+Dialogue: 1,0:00:20.37,0:00:20.55,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}it{\c&H00FFFFFF&} treated
+Dialogue: 1,0:00:20.55,0:00:20.97,Cap,,0,0,0,,{\pos(540,1400)}and it {\c&H0060ECCD}treated{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.97,0:00:21.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}relatively{\c&H00FFFFFF&} good
+Dialogue: 1,0:00:21.73,0:00:22.11,Cap,,0,0,0,,{\pos(540,1400)}relatively {\c&H0060ECCD}good{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.11,0:00:22.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}not{\c&H00FFFFFF&} great but the
+Dialogue: 1,0:00:22.37,0:00:22.77,Cap,,0,0,0,,{\pos(540,1400)}not {\c&H0060ECCD}great{\c&H00FFFFFF&} but the
+Dialogue: 1,0:00:22.77,0:00:23.35,Cap,,0,0,0,,{\pos(540,1400)}not great {\c&H0060ECCD}but{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:23.35,0:00:23.49,Cap,,0,0,0,,{\pos(540,1400)}not great but {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.49,0:00:23.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}biggest{\c&H00FFFFFF&} issue was
+Dialogue: 1,0:00:23.75,0:00:24.07,Cap,,0,0,0,,{\pos(540,1400)}biggest {\c&H0060ECCD}issue{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:24.07,0:00:24.27,Cap,,0,0,0,,{\pos(540,1400)}biggest issue {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.27,0:00:25.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}odor{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:25.59,0:00:25.83,Cap,,0,0,0,,{\pos(540,1400)}odor {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:25.83,0:00:25.95,Cap,,0,0,0,,{\pos(540,1400)}odor and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.95,0:00:26.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}community{\c&H00FFFFFF&} at
+Dialogue: 1,0:00:26.47,0:00:27.19,Cap,,0,0,0,,{\pos(540,1400)}community {\c&H0060ECCD}at{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.19,0:00:27.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}large{\c&H00FFFFFF&} around the
+Dialogue: 1,0:00:27.59,0:00:27.99,Cap,,0,0,0,,{\pos(540,1400)}large {\c&H0060ECCD}around{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:27.99,0:00:28.27,Cap,,0,0,0,,{\pos(540,1400)}large around {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.27,0:00:28.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}facility{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:28.77,0:00:29.65,Cap,,0,0,0,,{\pos(540,1400)}facility {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.65,0:00:30.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}constantly{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.11,0:00:30.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}complaining{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:30.63,0:00:31.34,Cap,,0,0,0,,{\pos(540,1400)}complaining {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.34,0:00:31.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumped{\c&H00FFFFFF&} that 8,000
+Dialogue: 1,0:00:31.62,0:00:31.77,Cap,,0,0,0,,{\pos(540,1400)}pumped {\c&H0060ECCD}that{\c&H00FFFFFF&} 8,000
+Dialogue: 1,0:00:31.77,0:00:32.27,Cap,,0,0,0,,{\pos(540,1400)}pumped that {\c&H0060ECCD}8,000{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.27,0:00:32.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gallon{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:32.48,0:00:32.87,Cap,,0,0,0,,{\pos(540,1400)}gallon {\c&H0060ECCD}tank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.89,0:00:32.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} installed the
+Dialogue: 1,0:00:32.94,0:00:33.27,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}installed{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:33.27,0:00:33.46,Cap,,0,0,0,,{\pos(540,1400)}we installed {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.46,0:00:33.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}product{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.24,0:00:34.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}day{\c&H00FFFFFF&} one the odor
+Dialogue: 1,0:00:34.50,0:00:34.75,Cap,,0,0,0,,{\pos(540,1400)}day {\c&H0060ECCD}one{\c&H00FFFFFF&} the odor
+Dialogue: 1,0:00:34.75,0:00:34.94,Cap,,0,0,0,,{\pos(540,1400)}day one {\c&H0060ECCD}the{\c&H00FFFFFF&} odor
+Dialogue: 1,0:00:34.94,0:00:35.15,Cap,,0,0,0,,{\pos(540,1400)}day one the {\c&H0060ECCD}odor{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.15,0:00:35.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}issue{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:35.70,0:00:35.88,Cap,,0,0,0,,{\pos(540,1400)}issue {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.88,0:00:36.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}resolved{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:36.27,0:00:36.94,Cap,,0,0,0,,{\pos(540,1400)}resolved {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.94,0:00:38.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}anaerobic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.22,0:00:39.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}microorganisms{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.22,0:00:39.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}off-gas{\c&H00FFFFFF&} hydrogen
+Dialogue: 1,0:00:39.67,0:00:40.12,Cap,,0,0,0,,{\pos(540,1400)}off-gas {\c&H0060ECCD}hydrogen{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.12,0:00:40.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sulfide{\c&H00FFFFFF&} aerobic
+Dialogue: 1,0:00:40.75,0:00:42.08,Cap,,0,0,0,,{\pos(540,1400)}sulfide {\c&H0060ECCD}aerobic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.08,0:00:42.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}microorganisms{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.91,0:00:43.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}off-gas{\c&H00FFFFFF&} carbon
+Dialogue: 1,0:00:43.48,0:00:44.62,Cap,,0,0,0,,{\pos(540,1400)}off-gas {\c&H0060ECCD}carbon{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.62,0:00:45.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}dioxide{\c&H00FFFFFF&} so the
+Dialogue: 1,0:00:45.03,0:00:45.41,Cap,,0,0,0,,{\pos(540,1400)}dioxide {\c&H0060ECCD}so{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:45.41,0:00:45.89,Cap,,0,0,0,,{\pos(540,1400)}dioxide so {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.89,0:00:46.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}odor{\c&H00FFFFFF&} issues
+Dialogue: 1,0:00:46.06,0:00:46.46,Cap,,0,0,0,,{\pos(540,1400)}odor {\c&H0060ECCD}issues{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.46,0:00:47.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}eliminated{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.41,0:00:48.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}immediately{\c&H00FFFFFF&}
