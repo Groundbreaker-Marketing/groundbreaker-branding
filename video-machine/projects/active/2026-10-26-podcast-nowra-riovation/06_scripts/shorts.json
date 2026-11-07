@@ -4,6 +4,7 @@
  "max_gap": 1.0,
  "mono": true,
  "grade": true,
+ "title_y": 960,
  "guests": {
   "riovation": {
    "name": "RioVation",
