@@ -1,0 +1,36 @@
+{
+  "name": "web-google-leads",
+  "out": "05_renders/review/website/mountainside-er-john-vandervalk-google-leads-testimonial.mp4",
+  "vtt": "05_renders/review/website/mountainside-er-john-vandervalk-google-leads-testimonial.vtt",
+  "poster": "05_renders/review/website/mountainside-er-john-vandervalk-google-leads-testimonial-poster.jpg",
+  "poster_at": 1.4,
+  "burn": false,
+  "broll": true,
+  "broll_offset": 7,
+  "lower_thirds": true,
+  "music": null,
+  "crf": 23,
+  "maxrate": "3000k",
+  "bufsize": "6000k",
+  "abr": "128k",
+  "preset": "slow",
+  "items": [
+    {
+      "type": "talk",
+      "clip": "C0066",
+      "text": "josh and ashley have helped me with the google side of it and getting google leads",
+      "lt": [
+        "John Vandervalk",
+        "Mountainside ER+ \u00b7 Monument, Colorado"
+      ],
+      "lt_at": 0.5
+    },
+    {
+      "type": "talk",
+      "clip": "C0066",
+      "text": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver",
+      "in": 412.0,
+      "out": 431.18
+    }
+  ]
+}

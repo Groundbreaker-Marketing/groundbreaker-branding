@@ -1,0 +1,48 @@
+def plan_broll(spans, joins, seg=3.6, first_clear=8.0, gap=10.5, offset=0, blocked=()):
+    """Plan muted B-roll cutaways on the cut's timeline.
+
+    spans:   [(t0, t1)] stretches of talking head (one per talk piece; cards are not in here)
+    joins:   times of jump cuts between talk pieces (each gets a cutaway from 1.0 s before to 2.6 s after)
+    blocked: [(t0, t1)] stretches that must stay on camera (the employee's insert, the cold open)
+    Fills so that no stretch of talking head runs longer than `gap` seconds.
+    Returns [{at, dur, clip, ss}] sorted by time.
+    """
+    wins = broll_windows(seg)
+    cuts = []
+
+    def free(a, b):
+        if a < first_clear:
+            return False
+        if any(not (b <= x0 or a >= x1) for x0, x1 in blocked):
+            return False
+        return any(a >= s0 + 0.3 and b <= s1 - 0.3 for s0, s1 in spans)
+
+    for j in joins:
+        a = j - 1.0
+        if free(a, a + 3.6):
+            cuts.append((a, a + 3.6))
+    cuts.sort()
+    # break up long stretches of head
+    changed = True
+    while changed:
+        changed = False
+        pts = sorted(cuts)
+        for s0, s1 in spans:
+            # head stretches inside this span, between cutaways
+            inside = [c for c in pts if c[0] >= s0 - 0.01 and c[1] <= s1 + 0.01]
+            edges = [s0] + [x for c in inside for x in c] + [s1]
+            for a, b in zip(edges[0::2], edges[1::2]):
+                if b - a > gap:
+                    at = a + 6.5
+                    if free(at, at + seg) and at + seg <= b - 1.0:
+                        cuts.append((at, at + seg))
+                        changed = True
+                        break
+            if changed:
+                break
+    cuts.sort()
+    out = []
+    for k, (a, b) in enumerate(cuts):
+        clip, ss = wins[(k + offset) % len(wins)]
+        out.append({"at": round(a, 3), "dur": round(b - a, 3), "clip": clip, "ss": ss})
+    return out

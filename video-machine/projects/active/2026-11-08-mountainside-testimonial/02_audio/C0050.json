@@ -1,0 +1,148 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0050.MP4",
+  "start": 0.0,
+  "end": 8.51,
+  "duration": 8.51,
+  "language": "en",
+  "text": "kept they were such a hot mess they would not refinance it or she would have given me 30 000 dollars off wow",
+  "words": [
+    {
+      "word": "kept",
+      "start": 0.0,
+      "end": 0.2,
+      "prob": 0.361
+    },
+    {
+      "word": "they",
+      "start": 0.2,
+      "end": 0.76,
+      "prob": 0.49
+    },
+    {
+      "word": "were",
+      "start": 0.76,
+      "end": 0.94,
+      "prob": 0.999
+    },
+    {
+      "word": "such",
+      "start": 0.94,
+      "end": 1.32,
+      "prob": 0.998
+    },
+    {
+      "word": "a",
+      "start": 1.32,
+      "end": 1.46,
+      "prob": 1.0
+    },
+    {
+      "word": "hot",
+      "start": 1.46,
+      "end": 1.66,
+      "prob": 0.999
+    },
+    {
+      "word": "mess",
+      "start": 1.66,
+      "end": 2.04,
+      "prob": 0.999
+    },
+    {
+      "word": "they",
+      "start": 2.04,
+      "end": 2.44,
+      "prob": 0.831
+    },
+    {
+      "word": "would",
+      "start": 2.44,
+      "end": 2.66,
+      "prob": 0.999
+    },
+    {
+      "word": "not",
+      "start": 2.66,
+      "end": 2.82,
+      "prob": 1.0
+    },
+    {
+      "word": "refinance",
+      "start": 2.82,
+      "end": 3.64,
+      "prob": 0.999
+    },
+    {
+      "word": "it",
+      "start": 3.64,
+      "end": 3.8,
+      "prob": 0.99
+    },
+    {
+      "word": "or",
+      "start": 3.8,
+      "end": 4.44,
+      "prob": 0.956
+    },
+    {
+      "word": "she",
+      "start": 4.44,
+      "end": 4.66,
+      "prob": 0.999
+    },
+    {
+      "word": "would",
+      "start": 4.66,
+      "end": 4.84,
+      "prob": 1.0
+    },
+    {
+      "word": "have",
+      "start": 4.84,
+      "end": 4.96,
+      "prob": 0.995
+    },
+    {
+      "word": "given",
+      "start": 4.96,
+      "end": 5.24,
+      "prob": 0.999
+    },
+    {
+      "word": "me",
+      "start": 5.24,
+      "end": 5.48,
+      "prob": 1.0
+    },
+    {
+      "word": "30",
+      "start": 5.48,
+      "end": 5.8,
+      "prob": 0.196
+    },
+    {
+      "word": "000",
+      "start": 5.8,
+      "end": 6.32,
+      "prob": 0.931
+    },
+    {
+      "word": "dollars",
+      "start": 6.32,
+      "end": 6.68,
+      "prob": 0.472
+    },
+    {
+      "word": "off",
+      "start": 6.68,
+      "end": 6.98,
+      "prob": 0.986
+    },
+    {
+      "word": "wow",
+      "start": 6.98,
+      "end": 7.96,
+      "prob": 0.029
+    }
+  ]
+}

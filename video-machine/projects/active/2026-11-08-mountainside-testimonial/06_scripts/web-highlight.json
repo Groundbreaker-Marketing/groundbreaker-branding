@@ -1,0 +1,46 @@
+{
+  "name": "web-highlight",
+  "out": "05_renders/review/website/mountainside-er-john-vandervalk-testimonial-highlight.mp4",
+  "vtt": "05_renders/review/website/mountainside-er-john-vandervalk-testimonial-highlight.vtt",
+  "poster": "05_renders/review/website/mountainside-er-john-vandervalk-testimonial-highlight-poster.jpg",
+  "poster_at": 1.6,
+  "burn": false,
+  "broll": true,
+  "broll_offset": 3,
+  "lower_thirds": true,
+  "music": null,
+  "crf": 23,
+  "maxrate": "3000k",
+  "bufsize": "6000k",
+  "abr": "128k",
+  "preset": "slow",
+  "items": [
+    {
+      "type": "talk",
+      "clip": "C0067",
+      "text": "i have a contractor friend that i met and he raved about josh and ashley and said that is the best hire i've made to grow a business",
+      "lt": [
+        "John Vandervalk",
+        "Mountainside ER+ \u00b7 Monument, Colorado"
+      ],
+      "lt_at": 0.7
+    },
+    {
+      "type": "talk",
+      "clip": "C0066",
+      "text": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading"
+    },
+    {
+      "type": "talk",
+      "clip": "C0066",
+      "text": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver",
+      "in": 412.0,
+      "out": 431.18
+    },
+    {
+      "type": "talk",
+      "clip": "C0067",
+      "text": "the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things"
+    }
+  ]
+}

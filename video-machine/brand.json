@@ -118,6 +118,19 @@
       ],
       "QR": [
         "qr"
+      ],
+      "Mountainside ER": [
+        "mountain side er",
+        "mountainside e r"
+      ],
+      "Facebook Marketplace": [
+        "facebook marketplace"
+      ],
+      "Colorado": [
+        "colorado"
+      ],
+      "Zoho": [
+        "zoho"
       ]
     },
     "_brand_terms_how": "Exact spelling -> the ways a transcriber or writer gets it wrong. Captions are corrected and kept in this casing; copy lint fails any other spelling. Include on-camera people's names."

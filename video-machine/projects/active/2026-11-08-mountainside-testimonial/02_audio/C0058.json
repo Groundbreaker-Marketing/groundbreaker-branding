@@ -1,0 +1,22 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0058.MP4",
+  "start": 0.0,
+  "end": 18.02,
+  "duration": 18.02,
+  "language": "en",
+  "text": "Thank you.",
+  "words": [
+    {
+      "word": "Thank",
+      "start": 3.76,
+      "end": 4.44,
+      "prob": 0.045
+    },
+    {
+      "word": "you.",
+      "start": 4.44,
+      "end": 4.52,
+      "prob": 0.995
+    }
+  ]
+}

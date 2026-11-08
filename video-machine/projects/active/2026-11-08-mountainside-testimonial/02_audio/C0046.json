@@ -1,0 +1,184 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0046.MP4",
+  "start": 0.0,
+  "end": 8.51,
+  "duration": 8.51,
+  "language": "en",
+  "text": "I don't know how he stays in business, honestly. He does not have the best business practices and has pissed off a lot of people. So I think he's...",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.0,
+      "end": 0.0,
+      "prob": 0.635
+    },
+    {
+      "word": "don't",
+      "start": 0.0,
+      "end": 0.1,
+      "prob": 0.987
+    },
+    {
+      "word": "know",
+      "start": 0.1,
+      "end": 0.2,
+      "prob": 0.992
+    },
+    {
+      "word": "how",
+      "start": 0.2,
+      "end": 0.36,
+      "prob": 0.989
+    },
+    {
+      "word": "he",
+      "start": 0.36,
+      "end": 0.5,
+      "prob": 0.997
+    },
+    {
+      "word": "stays",
+      "start": 0.5,
+      "end": 0.74,
+      "prob": 0.997
+    },
+    {
+      "word": "in",
+      "start": 0.74,
+      "end": 0.9,
+      "prob": 0.997
+    },
+    {
+      "word": "business,",
+      "start": 0.9,
+      "end": 1.26,
+      "prob": 0.993
+    },
+    {
+      "word": "honestly.",
+      "start": 1.26,
+      "end": 1.68,
+      "prob": 0.995
+    },
+    {
+      "word": "He",
+      "start": 1.68,
+      "end": 2.02,
+      "prob": 0.997
+    },
+    {
+      "word": "does",
+      "start": 2.02,
+      "end": 2.2,
+      "prob": 0.992
+    },
+    {
+      "word": "not",
+      "start": 2.2,
+      "end": 2.56,
+      "prob": 0.999
+    },
+    {
+      "word": "have",
+      "start": 2.56,
+      "end": 3.52,
+      "prob": 0.99
+    },
+    {
+      "word": "the",
+      "start": 3.52,
+      "end": 3.66,
+      "prob": 0.999
+    },
+    {
+      "word": "best",
+      "start": 3.66,
+      "end": 3.86,
+      "prob": 0.999
+    },
+    {
+      "word": "business",
+      "start": 3.86,
+      "end": 4.2,
+      "prob": 0.997
+    },
+    {
+      "word": "practices",
+      "start": 4.2,
+      "end": 4.76,
+      "prob": 0.995
+    },
+    {
+      "word": "and",
+      "start": 4.76,
+      "end": 5.02,
+      "prob": 0.788
+    },
+    {
+      "word": "has",
+      "start": 5.02,
+      "end": 5.16,
+      "prob": 0.738
+    },
+    {
+      "word": "pissed",
+      "start": 5.16,
+      "end": 5.4,
+      "prob": 0.984
+    },
+    {
+      "word": "off",
+      "start": 5.4,
+      "end": 5.62,
+      "prob": 0.989
+    },
+    {
+      "word": "a",
+      "start": 5.62,
+      "end": 5.76,
+      "prob": 0.997
+    },
+    {
+      "word": "lot",
+      "start": 5.76,
+      "end": 5.86,
+      "prob": 0.998
+    },
+    {
+      "word": "of",
+      "start": 5.86,
+      "end": 5.98,
+      "prob": 0.999
+    },
+    {
+      "word": "people.",
+      "start": 5.98,
+      "end": 6.32,
+      "prob": 0.999
+    },
+    {
+      "word": "So",
+      "start": 6.76,
+      "end": 7.2,
+      "prob": 0.981
+    },
+    {
+      "word": "I",
+      "start": 7.2,
+      "end": 7.52,
+      "prob": 0.668
+    },
+    {
+      "word": "think",
+      "start": 7.52,
+      "end": 7.74,
+      "prob": 0.999
+    },
+    {
+      "word": "he's...",
+      "start": 7.74,
+      "end": 8.2,
+      "prob": 0.765
+    }
+  ]
+}

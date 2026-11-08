@@ -1,0 +1,130 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0047.MP4",
+  "start": 0.0,
+  "end": 8.01,
+  "duration": 8.01,
+  "language": "en",
+  "text": "and he's one of our he's probably not quite at five percent of our revenue we supply him with landscape",
+  "words": [
+    {
+      "word": "and",
+      "start": 0.0,
+      "end": 0.18,
+      "prob": 0.678
+    },
+    {
+      "word": "he's",
+      "start": 0.18,
+      "end": 0.4,
+      "prob": 0.988
+    },
+    {
+      "word": "one",
+      "start": 0.4,
+      "end": 0.56,
+      "prob": 0.925
+    },
+    {
+      "word": "of",
+      "start": 0.56,
+      "end": 0.66,
+      "prob": 1.0
+    },
+    {
+      "word": "our",
+      "start": 0.66,
+      "end": 0.9,
+      "prob": 0.999
+    },
+    {
+      "word": "he's",
+      "start": 0.9,
+      "end": 1.58,
+      "prob": 0.889
+    },
+    {
+      "word": "probably",
+      "start": 1.58,
+      "end": 2.04,
+      "prob": 1.0
+    },
+    {
+      "word": "not",
+      "start": 2.04,
+      "end": 3.42,
+      "prob": 0.969
+    },
+    {
+      "word": "quite",
+      "start": 3.42,
+      "end": 3.84,
+      "prob": 0.875
+    },
+    {
+      "word": "at",
+      "start": 3.84,
+      "end": 4.06,
+      "prob": 0.92
+    },
+    {
+      "word": "five",
+      "start": 4.06,
+      "end": 4.24,
+      "prob": 0.901
+    },
+    {
+      "word": "percent",
+      "start": 4.24,
+      "end": 4.56,
+      "prob": 0.993
+    },
+    {
+      "word": "of",
+      "start": 4.56,
+      "end": 4.74,
+      "prob": 1.0
+    },
+    {
+      "word": "our",
+      "start": 4.74,
+      "end": 4.88,
+      "prob": 1.0
+    },
+    {
+      "word": "revenue",
+      "start": 4.88,
+      "end": 5.3,
+      "prob": 1.0
+    },
+    {
+      "word": "we",
+      "start": 5.3,
+      "end": 6.4,
+      "prob": 0.249
+    },
+    {
+      "word": "supply",
+      "start": 6.4,
+      "end": 6.82,
+      "prob": 0.994
+    },
+    {
+      "word": "him",
+      "start": 6.82,
+      "end": 7.08,
+      "prob": 0.99
+    },
+    {
+      "word": "with",
+      "start": 7.08,
+      "end": 7.36,
+      "prob": 0.998
+    },
+    {
+      "word": "landscape",
+      "start": 7.36,
+      "end": 7.78,
+      "prob": 0.826
+    }
+  ]
+}

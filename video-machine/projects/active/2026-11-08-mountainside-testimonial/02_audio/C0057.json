@@ -1,0 +1,46 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0057.MP4",
+  "start": 0.0,
+  "end": 22.525,
+  "duration": 22.525,
+  "language": "en",
+  "text": "I'm going to move this over.",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 4.11,
+      "end": 4.65,
+      "prob": 0.894
+    },
+    {
+      "word": "going",
+      "start": 4.65,
+      "end": 4.77,
+      "prob": 0.39
+    },
+    {
+      "word": "to",
+      "start": 4.77,
+      "end": 4.87,
+      "prob": 0.998
+    },
+    {
+      "word": "move",
+      "start": 4.87,
+      "end": 5.15,
+      "prob": 0.996
+    },
+    {
+      "word": "this",
+      "start": 5.15,
+      "end": 5.41,
+      "prob": 0.997
+    },
+    {
+      "word": "over.",
+      "start": 5.41,
+      "end": 5.79,
+      "prob": 0.998
+    }
+  ]
+}

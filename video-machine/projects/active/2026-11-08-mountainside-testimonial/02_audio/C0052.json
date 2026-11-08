@@ -1,0 +1,154 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0052.MP4",
+  "start": 0.0,
+  "end": 13.515,
+  "duration": 13.515,
+  "language": "en",
+  "text": "commercial commercial work wow i'm gonna go get my jacket out of the car yeah it's a little cold i might do the same",
+  "words": [
+    {
+      "word": "commercial",
+      "start": 0.0,
+      "end": 0.5,
+      "prob": 0.401
+    },
+    {
+      "word": "commercial",
+      "start": 0.5,
+      "end": 1.4,
+      "prob": 0.263
+    },
+    {
+      "word": "work",
+      "start": 1.4,
+      "end": 1.94,
+      "prob": 0.996
+    },
+    {
+      "word": "wow",
+      "start": 1.94,
+      "end": 2.26,
+      "prob": 0.674
+    },
+    {
+      "word": "i'm",
+      "start": 2.26,
+      "end": 4.08,
+      "prob": 0.946
+    },
+    {
+      "word": "gonna",
+      "start": 4.08,
+      "end": 4.18,
+      "prob": 0.857
+    },
+    {
+      "word": "go",
+      "start": 4.18,
+      "end": 4.28,
+      "prob": 0.956
+    },
+    {
+      "word": "get",
+      "start": 4.28,
+      "end": 4.4,
+      "prob": 1.0
+    },
+    {
+      "word": "my",
+      "start": 4.4,
+      "end": 4.6,
+      "prob": 1.0
+    },
+    {
+      "word": "jacket",
+      "start": 4.6,
+      "end": 5.02,
+      "prob": 1.0
+    },
+    {
+      "word": "out",
+      "start": 5.02,
+      "end": 5.16,
+      "prob": 0.99
+    },
+    {
+      "word": "of",
+      "start": 5.16,
+      "end": 5.26,
+      "prob": 0.992
+    },
+    {
+      "word": "the",
+      "start": 5.26,
+      "end": 5.3,
+      "prob": 0.967
+    },
+    {
+      "word": "car",
+      "start": 5.3,
+      "end": 5.4,
+      "prob": 0.982
+    },
+    {
+      "word": "yeah",
+      "start": 5.4,
+      "end": 5.58,
+      "prob": 0.798
+    },
+    {
+      "word": "it's",
+      "start": 5.58,
+      "end": 5.72,
+      "prob": 0.997
+    },
+    {
+      "word": "a",
+      "start": 5.72,
+      "end": 5.84,
+      "prob": 1.0
+    },
+    {
+      "word": "little",
+      "start": 5.84,
+      "end": 5.92,
+      "prob": 1.0
+    },
+    {
+      "word": "cold",
+      "start": 5.92,
+      "end": 6.3,
+      "prob": 1.0
+    },
+    {
+      "word": "i",
+      "start": 7.48,
+      "end": 7.78,
+      "prob": 0.986
+    },
+    {
+      "word": "might",
+      "start": 7.78,
+      "end": 7.94,
+      "prob": 1.0
+    },
+    {
+      "word": "do",
+      "start": 7.94,
+      "end": 8.08,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 8.08,
+      "end": 8.2,
+      "prob": 1.0
+    },
+    {
+      "word": "same",
+      "start": 8.2,
+      "end": 8.46,
+      "prob": 1.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "no-third-leg-recognition-h1c1",
+    "angle": "no-third-leg",
+    "role": "recognition",
+    "belief": "fear: leaning on one source of work (Facebook Marketplace) until it goes dead",
+    "landing_url": "https://groundbreakermarketing.com/calendar",
+    "pieces": {
+      "hook": "h1",
+      "body": null,
+      "cta": "c1"
+    },
+    "script": "something inside of me kept saying i need that third and fourth leg on the stool for business so that if one of them completely breaks i'm not having to cut my finances and cut team because i'm unprepared josh and ashley have helped me with the google side of it and getting google leads",
+    "segments": [
+      {
+        "in": 232.85,
+        "out": 249.92,
+        "text": "something inside of me kept saying i need that third and fourth leg on the stool for business so that if one of them completely breaks i'm not having to cut my finances and cut team because i'm unprepared"
+      },
+      {
+        "in": 251.0,
+        "out": 256.47,
+        "text": "josh and ashley have helped me with the google side of it and getting google leads"
+      }
+    ],
+    "est_seconds": 22.5,
+    "render_dir": "03_selects/no-third-leg-recognition-h1c1"
+  },
+  {
+    "id": "leads-to-hires-proof-h1",
+    "angle": "leads-to-hires",
+    "role": "proof",
+    "belief": "value: Google leads turn into booked jobs and a bigger crew",
+    "landing_url": "https://groundbreakermarketing.com/calendar",
+    "pieces": {
+      "hook": "h1",
+      "body": null,
+      "cta": null
+    },
+    "script": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver",
+    "segments": [
+      {
+        "in": 412.0,
+        "out": 431.18,
+        "text": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver"
+      }
+    ],
+    "est_seconds": 19.2,
+    "render_dir": "03_selects/leads-to-hires-proof-h1"
+  },
+  {
+    "id": "new-services-proof-h1",
+    "angle": "new-services",
+    "role": "proof",
+    "belief": "value: marketing brings work beyond the one service you started with",
+    "landing_url": "https://groundbreakermarketing.com/calendar",
+    "pieces": {
+      "hook": "h1",
+      "body": null,
+      "cta": null
+    },
+    "script": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading",
+    "segments": [
+      {
+        "in": 28.32,
+        "out": 52.78,
+        "text": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading"
+      }
+    ],
+    "est_seconds": 24.5,
+    "render_dir": "03_selects/new-services-proof-h1"
+  },
+  {
+    "id": "personal-side-objection-h1b1",
+    "angle": "personal-side",
+    "role": "objection",
+    "belief": "objection: why pay someone when software can do it (a person to bounce ideas off)",
+    "landing_url": "https://groundbreakermarketing.com/calendar",
+    "pieces": {
+      "hook": "h1",
+      "body": "b1",
+      "cta": null
+    },
+    "script": "i realize in business that with all this new movement we are losing a personal side of it where i don't have someone that i can necessarily bounce ideas off the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things",
+    "segments": [
+      {
+        "in": 88.24,
+        "out": 99.85,
+        "text": "i realize in business that with all this new movement we are losing a personal side of it where i don't have someone that i can necessarily bounce ideas off",
+        "source_video": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4",
+        "source_audio": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4"
+      },
+      {
+        "in": 141.64,
+        "out": 159.97,
+        "text": "the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things",
+        "source_video": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4",
+        "source_audio": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4"
+      }
+    ],
+    "est_seconds": 29.9,
+    "render_dir": "03_selects/personal-side-objection-h1b1"
+  },
+  {
+    "id": "too-many-hats-recognition-h1b1",
+    "angle": "too-many-hats",
+    "role": "recognition",
+    "belief": "control: doing everything yourself keeps you out of the work only you can do",
+    "landing_url": "https://groundbreakermarketing.com/calendar",
+    "pieces": {
+      "hook": "h1",
+      "body": "b1",
+      "cta": null
+    },
+    "script": "if i'm trying to put on multiple hats to run a business i'm not being as effective as i can be in the role that i can crush it in josh and ashley have helped me with the google side of it and getting google leads",
+    "segments": [
+      {
+        "in": 100.04,
+        "out": 108.48,
+        "text": "if i'm trying to put on multiple hats to run a business i'm not being as effective as i can be in the role that i can crush it in",
+        "source_video": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4",
+        "source_audio": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4"
+      },
+      {
+        "in": 251.0,
+        "out": 256.47,
+        "text": "josh and ashley have helped me with the google side of it and getting google leads"
+      }
+    ],
+    "est_seconds": 13.9,
+    "render_dir": "03_selects/too-many-hats-recognition-h1b1"
+  },
+  {
+    "id": "contractor-referral-proof-h1b1",
+    "angle": "contractor-referral",
+    "role": "proof",
+    "belief": "value: a peer's word is the best reason to pick a marketing partner",
+    "landing_url": "https://groundbreakermarketing.com/calendar",
+    "pieces": {
+      "hook": "h1",
+      "body": "b1",
+      "cta": null
+    },
+    "script": "i have a contractor friend that i met and he raved about josh and ashley and said that is the best hire i've made to grow a business and then i kept getting more work so i was able to hire another driver so year over year in the last two years we have doubled each summer and the goal is to double again next year",
+    "segments": [
+      {
+        "in": 74.24,
+        "out": 83.01,
+        "text": "i have a contractor friend that i met and he raved about josh and ashley and said that is the best hire i've made to grow a business",
+        "source_video": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4",
+        "source_audio": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/04_project-files/crops/C0067-v.mp4"
+      },
+      {
+        "in": 432.7,
+        "out": 444.74,
+        "text": "and then i kept getting more work so i was able to hire another driver so year over year in the last two years we have doubled each summer and the goal is to double again next year"
+      }
+    ],
+    "est_seconds": 20.8,
+    "render_dir": "03_selects/contractor-referral-proof-h1b1"
+  }
+]

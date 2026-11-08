@@ -1,0 +1,748 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0043.MP4",
+  "start": 0.0,
+  "end": 43.045,
+  "duration": 43.045,
+  "language": "en",
+  "text": "that there's a demand for this rock so we stock it we stock this rock but that's a five-hour turn to go get it wow and so this is landscaping and this is for drain rock or people use it for driveways or whatever so that's ordered almost every week okay so that's a three-hour turn on a good day without traffic interesting and so we will bring in these at 30 to 32 ton loads and then we just stock it and then i turn around and sell it according to yeah and i still beat site one which is just down the road landscaping supply yeah that's awesome and then dirt we thankfully got for free so Thank you.",
+  "words": [
+    {
+      "word": "that",
+      "start": 0.0,
+      "end": 0.52,
+      "prob": 0.09
+    },
+    {
+      "word": "there's",
+      "start": 0.52,
+      "end": 0.96,
+      "prob": 0.99
+    },
+    {
+      "word": "a",
+      "start": 0.96,
+      "end": 2.04,
+      "prob": 0.996
+    },
+    {
+      "word": "demand",
+      "start": 2.23,
+      "end": 2.63,
+      "prob": 0.998
+    },
+    {
+      "word": "for",
+      "start": 2.63,
+      "end": 3.07,
+      "prob": 0.999
+    },
+    {
+      "word": "this",
+      "start": 3.07,
+      "end": 3.29,
+      "prob": 0.999
+    },
+    {
+      "word": "rock",
+      "start": 3.29,
+      "end": 3.75,
+      "prob": 0.998
+    },
+    {
+      "word": "so",
+      "start": 3.75,
+      "end": 4.15,
+      "prob": 0.594
+    },
+    {
+      "word": "we",
+      "start": 4.15,
+      "end": 4.39,
+      "prob": 0.985
+    },
+    {
+      "word": "stock",
+      "start": 4.39,
+      "end": 4.61,
+      "prob": 0.926
+    },
+    {
+      "word": "it",
+      "start": 4.61,
+      "end": 4.81,
+      "prob": 0.981
+    },
+    {
+      "word": "we",
+      "start": 4.81,
+      "end": 5.83,
+      "prob": 0.375
+    },
+    {
+      "word": "stock",
+      "start": 5.83,
+      "end": 6.15,
+      "prob": 0.979
+    },
+    {
+      "word": "this",
+      "start": 6.15,
+      "end": 6.51,
+      "prob": 0.689
+    },
+    {
+      "word": "rock",
+      "start": 6.51,
+      "end": 6.83,
+      "prob": 0.999
+    },
+    {
+      "word": "but",
+      "start": 6.83,
+      "end": 7.05,
+      "prob": 0.99
+    },
+    {
+      "word": "that's",
+      "start": 7.05,
+      "end": 7.25,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 7.25,
+      "end": 7.37,
+      "prob": 1.0
+    },
+    {
+      "word": "five",
+      "start": 7.37,
+      "end": 7.65,
+      "prob": 0.99
+    },
+    {
+      "word": "-hour",
+      "start": 7.65,
+      "end": 7.87,
+      "prob": 0.782
+    },
+    {
+      "word": "turn",
+      "start": 7.87,
+      "end": 8.21,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 8.21,
+      "end": 8.77,
+      "prob": 0.971
+    },
+    {
+      "word": "go",
+      "start": 8.77,
+      "end": 8.91,
+      "prob": 0.993
+    },
+    {
+      "word": "get",
+      "start": 8.91,
+      "end": 9.09,
+      "prob": 0.984
+    },
+    {
+      "word": "it",
+      "start": 9.09,
+      "end": 9.23,
+      "prob": 0.994
+    },
+    {
+      "word": "wow",
+      "start": 9.23,
+      "end": 9.77,
+      "prob": 0.932
+    },
+    {
+      "word": "and",
+      "start": 9.77,
+      "end": 10.27,
+      "prob": 0.993
+    },
+    {
+      "word": "so",
+      "start": 10.27,
+      "end": 10.55,
+      "prob": 1.0
+    },
+    {
+      "word": "this",
+      "start": 10.55,
+      "end": 10.87,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 10.87,
+      "end": 11.03,
+      "prob": 1.0
+    },
+    {
+      "word": "landscaping",
+      "start": 11.03,
+      "end": 11.87,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 11.87,
+      "end": 12.97,
+      "prob": 0.964
+    },
+    {
+      "word": "this",
+      "start": 12.97,
+      "end": 13.27,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 13.27,
+      "end": 13.43,
+      "prob": 1.0
+    },
+    {
+      "word": "for",
+      "start": 13.43,
+      "end": 13.61,
+      "prob": 1.0
+    },
+    {
+      "word": "drain",
+      "start": 13.61,
+      "end": 13.95,
+      "prob": 0.997
+    },
+    {
+      "word": "rock",
+      "start": 13.95,
+      "end": 14.29,
+      "prob": 0.995
+    },
+    {
+      "word": "or",
+      "start": 14.29,
+      "end": 14.75,
+      "prob": 0.999
+    },
+    {
+      "word": "people",
+      "start": 14.75,
+      "end": 15.07,
+      "prob": 1.0
+    },
+    {
+      "word": "use",
+      "start": 15.07,
+      "end": 15.31,
+      "prob": 1.0
+    },
+    {
+      "word": "it",
+      "start": 15.31,
+      "end": 15.41,
+      "prob": 0.999
+    },
+    {
+      "word": "for",
+      "start": 15.41,
+      "end": 15.55,
+      "prob": 1.0
+    },
+    {
+      "word": "driveways",
+      "start": 15.55,
+      "end": 16.15,
+      "prob": 0.995
+    },
+    {
+      "word": "or",
+      "start": 16.15,
+      "end": 16.29,
+      "prob": 1.0
+    },
+    {
+      "word": "whatever",
+      "start": 16.29,
+      "end": 16.59,
+      "prob": 1.0
+    },
+    {
+      "word": "so",
+      "start": 16.59,
+      "end": 17.01,
+      "prob": 0.996
+    },
+    {
+      "word": "that's",
+      "start": 17.01,
+      "end": 17.53,
+      "prob": 1.0
+    },
+    {
+      "word": "ordered",
+      "start": 17.53,
+      "end": 17.83,
+      "prob": 1.0
+    },
+    {
+      "word": "almost",
+      "start": 17.83,
+      "end": 18.13,
+      "prob": 1.0
+    },
+    {
+      "word": "every",
+      "start": 18.13,
+      "end": 18.43,
+      "prob": 1.0
+    },
+    {
+      "word": "week",
+      "start": 18.43,
+      "end": 18.73,
+      "prob": 1.0
+    },
+    {
+      "word": "okay",
+      "start": 18.73,
+      "end": 19.11,
+      "prob": 0.954
+    },
+    {
+      "word": "so",
+      "start": 19.11,
+      "end": 19.55,
+      "prob": 0.937
+    },
+    {
+      "word": "that's",
+      "start": 19.55,
+      "end": 19.71,
+      "prob": 0.99
+    },
+    {
+      "word": "a",
+      "start": 19.71,
+      "end": 19.79,
+      "prob": 1.0
+    },
+    {
+      "word": "three",
+      "start": 19.79,
+      "end": 20.01,
+      "prob": 0.999
+    },
+    {
+      "word": "-hour",
+      "start": 20.01,
+      "end": 20.27,
+      "prob": 0.891
+    },
+    {
+      "word": "turn",
+      "start": 20.27,
+      "end": 20.71,
+      "prob": 0.999
+    },
+    {
+      "word": "on",
+      "start": 21.29,
+      "end": 21.61,
+      "prob": 0.99
+    },
+    {
+      "word": "a",
+      "start": 21.61,
+      "end": 21.73,
+      "prob": 1.0
+    },
+    {
+      "word": "good",
+      "start": 21.73,
+      "end": 21.89,
+      "prob": 1.0
+    },
+    {
+      "word": "day",
+      "start": 21.89,
+      "end": 22.09,
+      "prob": 1.0
+    },
+    {
+      "word": "without",
+      "start": 22.09,
+      "end": 22.31,
+      "prob": 0.999
+    },
+    {
+      "word": "traffic",
+      "start": 22.31,
+      "end": 22.85,
+      "prob": 0.998
+    },
+    {
+      "word": "interesting",
+      "start": 22.85,
+      "end": 23.53,
+      "prob": 0.95
+    },
+    {
+      "word": "and",
+      "start": 23.53,
+      "end": 24.21,
+      "prob": 0.993
+    },
+    {
+      "word": "so",
+      "start": 24.21,
+      "end": 24.55,
+      "prob": 1.0
+    },
+    {
+      "word": "we",
+      "start": 24.55,
+      "end": 25.75,
+      "prob": 0.999
+    },
+    {
+      "word": "will",
+      "start": 25.75,
+      "end": 26.35,
+      "prob": 0.98
+    },
+    {
+      "word": "bring",
+      "start": 26.35,
+      "end": 26.61,
+      "prob": 1.0
+    },
+    {
+      "word": "in",
+      "start": 26.61,
+      "end": 26.93,
+      "prob": 1.0
+    },
+    {
+      "word": "these",
+      "start": 26.93,
+      "end": 27.23,
+      "prob": 0.998
+    },
+    {
+      "word": "at",
+      "start": 27.23,
+      "end": 27.51,
+      "prob": 0.999
+    },
+    {
+      "word": "30",
+      "start": 27.51,
+      "end": 27.93,
+      "prob": 0.972
+    },
+    {
+      "word": "to",
+      "start": 27.93,
+      "end": 28.09,
+      "prob": 0.995
+    },
+    {
+      "word": "32",
+      "start": 28.09,
+      "end": 28.43,
+      "prob": 0.998
+    },
+    {
+      "word": "ton",
+      "start": 28.43,
+      "end": 28.77,
+      "prob": 0.983
+    },
+    {
+      "word": "loads",
+      "start": 28.77,
+      "end": 29.19,
+      "prob": 0.991
+    },
+    {
+      "word": "and",
+      "start": 29.97,
+      "end": 30.23,
+      "prob": 0.699
+    },
+    {
+      "word": "then",
+      "start": 30.23,
+      "end": 30.41,
+      "prob": 0.999
+    },
+    {
+      "word": "we",
+      "start": 30.41,
+      "end": 30.63,
+      "prob": 0.999
+    },
+    {
+      "word": "just",
+      "start": 30.63,
+      "end": 30.83,
+      "prob": 1.0
+    },
+    {
+      "word": "stock",
+      "start": 30.83,
+      "end": 31.15,
+      "prob": 0.969
+    },
+    {
+      "word": "it",
+      "start": 31.15,
+      "end": 31.37,
+      "prob": 0.995
+    },
+    {
+      "word": "and",
+      "start": 31.37,
+      "end": 31.57,
+      "prob": 0.934
+    },
+    {
+      "word": "then",
+      "start": 31.57,
+      "end": 31.69,
+      "prob": 0.999
+    },
+    {
+      "word": "i",
+      "start": 31.69,
+      "end": 31.81,
+      "prob": 0.417
+    },
+    {
+      "word": "turn",
+      "start": 31.81,
+      "end": 32.03,
+      "prob": 1.0
+    },
+    {
+      "word": "around",
+      "start": 32.03,
+      "end": 32.29,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 32.29,
+      "end": 32.53,
+      "prob": 1.0
+    },
+    {
+      "word": "sell",
+      "start": 32.53,
+      "end": 32.85,
+      "prob": 1.0
+    },
+    {
+      "word": "it",
+      "start": 32.85,
+      "end": 32.99,
+      "prob": 1.0
+    },
+    {
+      "word": "according",
+      "start": 32.99,
+      "end": 33.35,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 33.35,
+      "end": 33.67,
+      "prob": 1.0
+    },
+    {
+      "word": "yeah",
+      "start": 33.67,
+      "end": 34.27,
+      "prob": 0.971
+    },
+    {
+      "word": "and",
+      "start": 34.27,
+      "end": 34.95,
+      "prob": 0.998
+    },
+    {
+      "word": "i",
+      "start": 34.95,
+      "end": 35.07,
+      "prob": 0.997
+    },
+    {
+      "word": "still",
+      "start": 35.07,
+      "end": 35.35,
+      "prob": 1.0
+    },
+    {
+      "word": "beat",
+      "start": 35.35,
+      "end": 35.67,
+      "prob": 0.999
+    },
+    {
+      "word": "site",
+      "start": 35.67,
+      "end": 36.05,
+      "prob": 0.99
+    },
+    {
+      "word": "one",
+      "start": 36.05,
+      "end": 36.31,
+      "prob": 0.99
+    },
+    {
+      "word": "which",
+      "start": 36.31,
+      "end": 36.53,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 36.53,
+      "end": 36.69,
+      "prob": 1.0
+    },
+    {
+      "word": "just",
+      "start": 36.69,
+      "end": 36.81,
+      "prob": 1.0
+    },
+    {
+      "word": "down",
+      "start": 36.81,
+      "end": 37.03,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 37.03,
+      "end": 37.15,
+      "prob": 1.0
+    },
+    {
+      "word": "road",
+      "start": 37.15,
+      "end": 37.33,
+      "prob": 0.997
+    },
+    {
+      "word": "landscaping",
+      "start": 37.33,
+      "end": 38.05,
+      "prob": 0.901
+    },
+    {
+      "word": "supply",
+      "start": 38.05,
+      "end": 38.47,
+      "prob": 0.998
+    },
+    {
+      "word": "yeah",
+      "start": 38.47,
+      "end": 38.85,
+      "prob": 0.994
+    },
+    {
+      "word": "that's",
+      "start": 38.85,
+      "end": 39.21,
+      "prob": 1.0
+    },
+    {
+      "word": "awesome",
+      "start": 39.21,
+      "end": 39.49,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 39.49,
+      "end": 40.25,
+      "prob": 0.997
+    },
+    {
+      "word": "then",
+      "start": 40.25,
+      "end": 40.45,
+      "prob": 1.0
+    },
+    {
+      "word": "dirt",
+      "start": 40.45,
+      "end": 40.83,
+      "prob": 0.999
+    },
+    {
+      "word": "we",
+      "start": 40.83,
+      "end": 41.31,
+      "prob": 0.999
+    },
+    {
+      "word": "thankfully",
+      "start": 41.31,
+      "end": 41.75,
+      "prob": 0.466
+    },
+    {
+      "word": "got",
+      "start": 41.75,
+      "end": 41.95,
+      "prob": 0.977
+    },
+    {
+      "word": "for",
+      "start": 41.95,
+      "end": 42.15,
+      "prob": 0.992
+    },
+    {
+      "word": "free",
+      "start": 42.15,
+      "end": 42.41,
+      "prob": 0.997
+    },
+    {
+      "word": "so",
+      "start": 42.41,
+      "end": 42.93,
+      "prob": 0.004
+    },
+    {
+      "word": "Thank",
+      "start": 42.93,
+      "end": 43.01,
+      "prob": 0.117
+    },
+    {
+      "word": "you.",
+      "start": 43.01,
+      "end": 43.01,
+      "prob": 0.997
+    }
+  ]
+}

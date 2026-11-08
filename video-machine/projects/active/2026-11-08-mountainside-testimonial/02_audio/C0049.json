@@ -1,0 +1,244 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0049.MP4",
+  "start": 0.0,
+  "end": 13.015,
+  "duration": 13.015,
+  "language": "en",
+  "text": "There's a septic, old septic tank, and the loader fell in. Fred was driving it. And so thankfully, he put the bucket down really quick before he really sank the loader in. So we have to dig all this.",
+  "words": [
+    {
+      "word": "There's",
+      "start": 0.0,
+      "end": 0.18,
+      "prob": 0.786
+    },
+    {
+      "word": "a",
+      "start": 0.18,
+      "end": 0.46,
+      "prob": 0.816
+    },
+    {
+      "word": "septic,",
+      "start": 0.46,
+      "end": 1.74,
+      "prob": 0.795
+    },
+    {
+      "word": "old",
+      "start": 1.88,
+      "end": 2.68,
+      "prob": 0.936
+    },
+    {
+      "word": "septic",
+      "start": 2.68,
+      "end": 3.14,
+      "prob": 0.997
+    },
+    {
+      "word": "tank,",
+      "start": 3.14,
+      "end": 3.42,
+      "prob": 0.995
+    },
+    {
+      "word": "and",
+      "start": 3.54,
+      "end": 3.6,
+      "prob": 0.995
+    },
+    {
+      "word": "the",
+      "start": 3.6,
+      "end": 3.72,
+      "prob": 0.998
+    },
+    {
+      "word": "loader",
+      "start": 3.72,
+      "end": 4.02,
+      "prob": 0.997
+    },
+    {
+      "word": "fell",
+      "start": 4.02,
+      "end": 4.28,
+      "prob": 0.998
+    },
+    {
+      "word": "in.",
+      "start": 4.28,
+      "end": 4.54,
+      "prob": 0.997
+    },
+    {
+      "word": "Fred",
+      "start": 4.72,
+      "end": 4.84,
+      "prob": 0.984
+    },
+    {
+      "word": "was",
+      "start": 4.84,
+      "end": 5.08,
+      "prob": 0.998
+    },
+    {
+      "word": "driving",
+      "start": 5.08,
+      "end": 5.46,
+      "prob": 0.99
+    },
+    {
+      "word": "it.",
+      "start": 5.46,
+      "end": 5.66,
+      "prob": 0.97
+    },
+    {
+      "word": "And",
+      "start": 6.36,
+      "end": 6.5,
+      "prob": 0.879
+    },
+    {
+      "word": "so",
+      "start": 6.5,
+      "end": 6.68,
+      "prob": 0.997
+    },
+    {
+      "word": "thankfully,",
+      "start": 6.68,
+      "end": 7.08,
+      "prob": 0.725
+    },
+    {
+      "word": "he",
+      "start": 7.2,
+      "end": 7.48,
+      "prob": 1.0
+    },
+    {
+      "word": "put",
+      "start": 7.48,
+      "end": 7.66,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 7.66,
+      "end": 7.8,
+      "prob": 1.0
+    },
+    {
+      "word": "bucket",
+      "start": 7.8,
+      "end": 8.06,
+      "prob": 1.0
+    },
+    {
+      "word": "down",
+      "start": 8.06,
+      "end": 8.26,
+      "prob": 1.0
+    },
+    {
+      "word": "really",
+      "start": 8.26,
+      "end": 8.52,
+      "prob": 0.999
+    },
+    {
+      "word": "quick",
+      "start": 8.52,
+      "end": 8.8,
+      "prob": 0.998
+    },
+    {
+      "word": "before",
+      "start": 8.8,
+      "end": 9.12,
+      "prob": 0.997
+    },
+    {
+      "word": "he",
+      "start": 9.12,
+      "end": 9.42,
+      "prob": 0.999
+    },
+    {
+      "word": "really",
+      "start": 9.42,
+      "end": 9.82,
+      "prob": 1.0
+    },
+    {
+      "word": "sank",
+      "start": 9.82,
+      "end": 10.16,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 10.16,
+      "end": 10.32,
+      "prob": 1.0
+    },
+    {
+      "word": "loader",
+      "start": 10.32,
+      "end": 10.7,
+      "prob": 0.997
+    },
+    {
+      "word": "in.",
+      "start": 10.7,
+      "end": 10.84,
+      "prob": 1.0
+    },
+    {
+      "word": "So",
+      "start": 11.65,
+      "end": 12.05,
+      "prob": 0.999
+    },
+    {
+      "word": "we",
+      "start": 12.05,
+      "end": 12.21,
+      "prob": 0.966
+    },
+    {
+      "word": "have",
+      "start": 12.21,
+      "end": 12.33,
+      "prob": 0.959
+    },
+    {
+      "word": "to",
+      "start": 12.33,
+      "end": 12.43,
+      "prob": 1.0
+    },
+    {
+      "word": "dig",
+      "start": 12.43,
+      "end": 12.61,
+      "prob": 1.0
+    },
+    {
+      "word": "all",
+      "start": 12.61,
+      "end": 12.79,
+      "prob": 1.0
+    },
+    {
+      "word": "this.",
+      "start": 12.79,
+      "end": 12.93,
+      "prob": 0.763
+    }
+  ]
+}

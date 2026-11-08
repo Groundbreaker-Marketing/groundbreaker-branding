@@ -1,0 +1,244 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0051.MP4",
+  "start": 0.0,
+  "end": 13.515,
+  "duration": 13.515,
+  "language": "en",
+  "text": "load himself i've trained him on the loader and he loves it he doesn't want to just sit in a truck so he likes the variety oh yeah so so this is it's not just the earth and rock",
+  "words": [
+    {
+      "word": "load",
+      "start": 0.0,
+      "end": 0.28,
+      "prob": 0.265
+    },
+    {
+      "word": "himself",
+      "start": 0.28,
+      "end": 0.68,
+      "prob": 0.988
+    },
+    {
+      "word": "i've",
+      "start": 0.68,
+      "end": 0.96,
+      "prob": 0.676
+    },
+    {
+      "word": "trained",
+      "start": 0.96,
+      "end": 1.18,
+      "prob": 1.0
+    },
+    {
+      "word": "him",
+      "start": 1.18,
+      "end": 1.36,
+      "prob": 0.982
+    },
+    {
+      "word": "on",
+      "start": 1.36,
+      "end": 1.5,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 1.5,
+      "end": 1.6,
+      "prob": 1.0
+    },
+    {
+      "word": "loader",
+      "start": 1.6,
+      "end": 1.96,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 2.22,
+      "end": 3.26,
+      "prob": 0.981
+    },
+    {
+      "word": "he",
+      "start": 3.26,
+      "end": 3.74,
+      "prob": 1.0
+    },
+    {
+      "word": "loves",
+      "start": 3.74,
+      "end": 4.08,
+      "prob": 1.0
+    },
+    {
+      "word": "it",
+      "start": 4.08,
+      "end": 4.22,
+      "prob": 0.991
+    },
+    {
+      "word": "he",
+      "start": 4.22,
+      "end": 4.34,
+      "prob": 0.984
+    },
+    {
+      "word": "doesn't",
+      "start": 4.34,
+      "end": 4.58,
+      "prob": 0.999
+    },
+    {
+      "word": "want",
+      "start": 4.58,
+      "end": 4.66,
+      "prob": 0.995
+    },
+    {
+      "word": "to",
+      "start": 4.66,
+      "end": 4.74,
+      "prob": 1.0
+    },
+    {
+      "word": "just",
+      "start": 4.74,
+      "end": 4.9,
+      "prob": 0.999
+    },
+    {
+      "word": "sit",
+      "start": 4.9,
+      "end": 5.08,
+      "prob": 1.0
+    },
+    {
+      "word": "in",
+      "start": 5.08,
+      "end": 5.18,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 5.18,
+      "end": 5.26,
+      "prob": 0.817
+    },
+    {
+      "word": "truck",
+      "start": 5.26,
+      "end": 5.6,
+      "prob": 0.998
+    },
+    {
+      "word": "so",
+      "start": 5.6,
+      "end": 6.12,
+      "prob": 0.963
+    },
+    {
+      "word": "he",
+      "start": 6.12,
+      "end": 6.24,
+      "prob": 0.999
+    },
+    {
+      "word": "likes",
+      "start": 6.24,
+      "end": 6.48,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 6.48,
+      "end": 6.64,
+      "prob": 0.999
+    },
+    {
+      "word": "variety",
+      "start": 6.64,
+      "end": 7.0,
+      "prob": 0.996
+    },
+    {
+      "word": "oh",
+      "start": 7.0,
+      "end": 7.3,
+      "prob": 0.963
+    },
+    {
+      "word": "yeah",
+      "start": 7.3,
+      "end": 7.48,
+      "prob": 0.999
+    },
+    {
+      "word": "so",
+      "start": 7.8,
+      "end": 8.96,
+      "prob": 0.998
+    },
+    {
+      "word": "so",
+      "start": 8.96,
+      "end": 9.68,
+      "prob": 0.991
+    },
+    {
+      "word": "this",
+      "start": 9.68,
+      "end": 9.9,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 9.9,
+      "end": 10.14,
+      "prob": 1.0
+    },
+    {
+      "word": "it's",
+      "start": 10.14,
+      "end": 10.48,
+      "prob": 0.999
+    },
+    {
+      "word": "not",
+      "start": 10.48,
+      "end": 10.78,
+      "prob": 1.0
+    },
+    {
+      "word": "just",
+      "start": 10.78,
+      "end": 11.32,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 11.32,
+      "end": 12.2,
+      "prob": 0.999
+    },
+    {
+      "word": "earth",
+      "start": 12.2,
+      "end": 12.96,
+      "prob": 0.997
+    },
+    {
+      "word": "and",
+      "start": 12.96,
+      "end": 13.14,
+      "prob": 0.95
+    },
+    {
+      "word": "rock",
+      "start": 13.14,
+      "end": 13.36,
+      "prob": 0.996
+    }
+  ]
+}

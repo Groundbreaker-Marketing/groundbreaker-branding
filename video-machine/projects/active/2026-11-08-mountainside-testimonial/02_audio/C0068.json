@@ -1,0 +1,1420 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0068.MP4",
+  "start": 0.0,
+  "end": 92.095,
+  "duration": 92.095,
+  "language": "en",
+  "text": "So there's one more thing that I want to add. I play ice hockey, and I used to play a forward position, center ice. And when I got my shoulder hurt, I loved the game so much, the only position I could play was goalie. And my eyes were opened up, and I realized that this is applicable to all life situations, especially in business. I was able to scan the whole ice and see from a goalie's perspective, almost like a bird's eye view, what it was like when players with enough talent to be destructive to their own ability did not use their teammates. And I realized I was so laser-focused on shooting that puck and scoring a lot of goals, I could have done a lot better job passing the puck and building confidence in my teammates. And so that one-dimensional way of thinking in business, yes, you can save money, but the pie grows. The pie here, in our mind, we think that there's only so much work available for all these contractors when it can expand and grow continually. And so my encouragement to anyone that's thinking, how can marketing help me? Can I afford to spend $100 a day? It depends on the capacity you have and the desire you want to truly grow with a good team versus doing everything yourself and running your mind ragged.",
+  "words": [
+    {
+      "word": "So",
+      "start": 1.68,
+      "end": 2.14,
+      "prob": 0.818
+    },
+    {
+      "word": "there's",
+      "start": 2.14,
+      "end": 2.4,
+      "prob": 0.936
+    },
+    {
+      "word": "one",
+      "start": 2.4,
+      "end": 2.58,
+      "prob": 0.998
+    },
+    {
+      "word": "more",
+      "start": 2.58,
+      "end": 2.76,
+      "prob": 0.998
+    },
+    {
+      "word": "thing",
+      "start": 2.76,
+      "end": 3.0,
+      "prob": 0.998
+    },
+    {
+      "word": "that",
+      "start": 3.0,
+      "end": 3.18,
+      "prob": 0.991
+    },
+    {
+      "word": "I",
+      "start": 3.18,
+      "end": 3.3,
+      "prob": 0.992
+    },
+    {
+      "word": "want",
+      "start": 3.3,
+      "end": 3.48,
+      "prob": 0.98
+    },
+    {
+      "word": "to",
+      "start": 3.48,
+      "end": 3.6,
+      "prob": 0.999
+    },
+    {
+      "word": "add.",
+      "start": 3.6,
+      "end": 3.92,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 4.16,
+      "end": 4.4,
+      "prob": 0.999
+    },
+    {
+      "word": "play",
+      "start": 4.4,
+      "end": 4.68,
+      "prob": 0.997
+    },
+    {
+      "word": "ice",
+      "start": 4.68,
+      "end": 5.0,
+      "prob": 0.996
+    },
+    {
+      "word": "hockey,",
+      "start": 5.0,
+      "end": 5.42,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 5.6,
+      "end": 6.0,
+      "prob": 0.999
+    },
+    {
+      "word": "I",
+      "start": 6.0,
+      "end": 6.14,
+      "prob": 1.0
+    },
+    {
+      "word": "used",
+      "start": 6.14,
+      "end": 6.44,
+      "prob": 0.998
+    },
+    {
+      "word": "to",
+      "start": 6.44,
+      "end": 6.62,
+      "prob": 1.0
+    },
+    {
+      "word": "play",
+      "start": 6.62,
+      "end": 6.94,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 6.94,
+      "end": 7.34,
+      "prob": 0.999
+    },
+    {
+      "word": "forward",
+      "start": 7.34,
+      "end": 7.68,
+      "prob": 0.999
+    },
+    {
+      "word": "position,",
+      "start": 7.68,
+      "end": 8.26,
+      "prob": 1.0
+    },
+    {
+      "word": "center",
+      "start": 8.48,
+      "end": 8.68,
+      "prob": 0.995
+    },
+    {
+      "word": "ice.",
+      "start": 8.68,
+      "end": 9.06,
+      "prob": 0.999
+    },
+    {
+      "word": "And",
+      "start": 9.69,
+      "end": 10.19,
+      "prob": 0.952
+    },
+    {
+      "word": "when",
+      "start": 10.19,
+      "end": 10.41,
+      "prob": 0.999
+    },
+    {
+      "word": "I",
+      "start": 10.41,
+      "end": 10.67,
+      "prob": 1.0
+    },
+    {
+      "word": "got",
+      "start": 10.67,
+      "end": 11.17,
+      "prob": 1.0
+    },
+    {
+      "word": "my",
+      "start": 11.17,
+      "end": 11.41,
+      "prob": 1.0
+    },
+    {
+      "word": "shoulder",
+      "start": 11.41,
+      "end": 11.75,
+      "prob": 1.0
+    },
+    {
+      "word": "hurt,",
+      "start": 11.75,
+      "end": 12.11,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 12.33,
+      "end": 12.51,
+      "prob": 1.0
+    },
+    {
+      "word": "loved",
+      "start": 12.51,
+      "end": 12.81,
+      "prob": 0.997
+    },
+    {
+      "word": "the",
+      "start": 12.81,
+      "end": 12.95,
+      "prob": 1.0
+    },
+    {
+      "word": "game",
+      "start": 12.95,
+      "end": 13.17,
+      "prob": 1.0
+    },
+    {
+      "word": "so",
+      "start": 13.17,
+      "end": 13.45,
+      "prob": 1.0
+    },
+    {
+      "word": "much,",
+      "start": 13.45,
+      "end": 13.71,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 13.71,
+      "end": 13.91,
+      "prob": 0.998
+    },
+    {
+      "word": "only",
+      "start": 13.91,
+      "end": 14.07,
+      "prob": 1.0
+    },
+    {
+      "word": "position",
+      "start": 14.07,
+      "end": 14.51,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 14.51,
+      "end": 14.71,
+      "prob": 1.0
+    },
+    {
+      "word": "could",
+      "start": 14.71,
+      "end": 14.85,
+      "prob": 1.0
+    },
+    {
+      "word": "play",
+      "start": 14.85,
+      "end": 15.09,
+      "prob": 1.0
+    },
+    {
+      "word": "was",
+      "start": 15.09,
+      "end": 15.29,
+      "prob": 1.0
+    },
+    {
+      "word": "goalie.",
+      "start": 15.29,
+      "end": 15.69,
+      "prob": 0.998
+    },
+    {
+      "word": "And",
+      "start": 16.6,
+      "end": 17.1,
+      "prob": 0.981
+    },
+    {
+      "word": "my",
+      "start": 17.1,
+      "end": 17.6,
+      "prob": 0.999
+    },
+    {
+      "word": "eyes",
+      "start": 17.6,
+      "end": 18.0,
+      "prob": 1.0
+    },
+    {
+      "word": "were",
+      "start": 18.0,
+      "end": 18.16,
+      "prob": 1.0
+    },
+    {
+      "word": "opened",
+      "start": 18.16,
+      "end": 18.54,
+      "prob": 1.0
+    },
+    {
+      "word": "up,",
+      "start": 18.54,
+      "end": 18.78,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 18.8,
+      "end": 18.92,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 18.92,
+      "end": 19.04,
+      "prob": 1.0
+    },
+    {
+      "word": "realized",
+      "start": 19.04,
+      "end": 19.46,
+      "prob": 0.998
+    },
+    {
+      "word": "that",
+      "start": 19.46,
+      "end": 19.66,
+      "prob": 1.0
+    },
+    {
+      "word": "this",
+      "start": 19.66,
+      "end": 19.82,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 19.82,
+      "end": 19.96,
+      "prob": 0.987
+    },
+    {
+      "word": "applicable",
+      "start": 19.96,
+      "end": 20.44,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 20.44,
+      "end": 20.74,
+      "prob": 1.0
+    },
+    {
+      "word": "all",
+      "start": 20.74,
+      "end": 21.0,
+      "prob": 1.0
+    },
+    {
+      "word": "life",
+      "start": 21.0,
+      "end": 21.26,
+      "prob": 0.996
+    },
+    {
+      "word": "situations,",
+      "start": 21.26,
+      "end": 21.98,
+      "prob": 0.999
+    },
+    {
+      "word": "especially",
+      "start": 22.18,
+      "end": 22.7,
+      "prob": 1.0
+    },
+    {
+      "word": "in",
+      "start": 22.7,
+      "end": 23.1,
+      "prob": 1.0
+    },
+    {
+      "word": "business.",
+      "start": 23.1,
+      "end": 23.52,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 24.13,
+      "end": 24.63,
+      "prob": 0.999
+    },
+    {
+      "word": "was",
+      "start": 24.63,
+      "end": 24.87,
+      "prob": 1.0
+    },
+    {
+      "word": "able",
+      "start": 24.87,
+      "end": 25.11,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 25.11,
+      "end": 25.29,
+      "prob": 1.0
+    },
+    {
+      "word": "scan",
+      "start": 25.29,
+      "end": 25.63,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 25.63,
+      "end": 25.83,
+      "prob": 1.0
+    },
+    {
+      "word": "whole",
+      "start": 25.83,
+      "end": 26.07,
+      "prob": 0.995
+    },
+    {
+      "word": "ice",
+      "start": 26.07,
+      "end": 26.59,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 26.59,
+      "end": 27.31,
+      "prob": 0.951
+    },
+    {
+      "word": "see",
+      "start": 27.31,
+      "end": 27.73,
+      "prob": 1.0
+    },
+    {
+      "word": "from",
+      "start": 27.73,
+      "end": 28.05,
+      "prob": 0.616
+    },
+    {
+      "word": "a",
+      "start": 28.05,
+      "end": 28.19,
+      "prob": 1.0
+    },
+    {
+      "word": "goalie's",
+      "start": 28.19,
+      "end": 28.65,
+      "prob": 0.995
+    },
+    {
+      "word": "perspective,",
+      "start": 28.65,
+      "end": 29.17,
+      "prob": 1.0
+    },
+    {
+      "word": "almost",
+      "start": 29.33,
+      "end": 29.55,
+      "prob": 0.999
+    },
+    {
+      "word": "like",
+      "start": 29.55,
+      "end": 29.77,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 29.77,
+      "end": 29.87,
+      "prob": 0.999
+    },
+    {
+      "word": "bird's",
+      "start": 29.87,
+      "end": 30.23,
+      "prob": 0.998
+    },
+    {
+      "word": "eye",
+      "start": 30.23,
+      "end": 30.35,
+      "prob": 0.825
+    },
+    {
+      "word": "view,",
+      "start": 30.35,
+      "end": 30.69,
+      "prob": 1.0
+    },
+    {
+      "word": "what",
+      "start": 30.69,
+      "end": 31.41,
+      "prob": 0.938
+    },
+    {
+      "word": "it",
+      "start": 31.41,
+      "end": 31.57,
+      "prob": 1.0
+    },
+    {
+      "word": "was",
+      "start": 31.57,
+      "end": 31.75,
+      "prob": 1.0
+    },
+    {
+      "word": "like",
+      "start": 31.75,
+      "end": 32.13,
+      "prob": 1.0
+    },
+    {
+      "word": "when",
+      "start": 32.13,
+      "end": 32.37,
+      "prob": 1.0
+    },
+    {
+      "word": "players",
+      "start": 32.37,
+      "end": 32.91,
+      "prob": 1.0
+    },
+    {
+      "word": "with",
+      "start": 32.91,
+      "end": 33.33,
+      "prob": 1.0
+    },
+    {
+      "word": "enough",
+      "start": 33.33,
+      "end": 34.49,
+      "prob": 0.998
+    },
+    {
+      "word": "talent",
+      "start": 34.49,
+      "end": 35.07,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 35.07,
+      "end": 35.37,
+      "prob": 0.999
+    },
+    {
+      "word": "be",
+      "start": 35.37,
+      "end": 35.51,
+      "prob": 1.0
+    },
+    {
+      "word": "destructive",
+      "start": 35.51,
+      "end": 36.07,
+      "prob": 0.993
+    },
+    {
+      "word": "to",
+      "start": 36.07,
+      "end": 36.35,
+      "prob": 1.0
+    },
+    {
+      "word": "their",
+      "start": 36.35,
+      "end": 36.51,
+      "prob": 1.0
+    },
+    {
+      "word": "own",
+      "start": 36.51,
+      "end": 36.67,
+      "prob": 1.0
+    },
+    {
+      "word": "ability",
+      "start": 36.67,
+      "end": 37.09,
+      "prob": 1.0
+    },
+    {
+      "word": "did",
+      "start": 37.09,
+      "end": 37.31,
+      "prob": 0.995
+    },
+    {
+      "word": "not",
+      "start": 37.31,
+      "end": 37.47,
+      "prob": 1.0
+    },
+    {
+      "word": "use",
+      "start": 37.47,
+      "end": 37.71,
+      "prob": 1.0
+    },
+    {
+      "word": "their",
+      "start": 37.71,
+      "end": 37.89,
+      "prob": 1.0
+    },
+    {
+      "word": "teammates.",
+      "start": 37.89,
+      "end": 38.35,
+      "prob": 0.999
+    },
+    {
+      "word": "And",
+      "start": 39.15,
+      "end": 39.75,
+      "prob": 0.964
+    },
+    {
+      "word": "I",
+      "start": 39.75,
+      "end": 40.17,
+      "prob": 0.999
+    },
+    {
+      "word": "realized",
+      "start": 40.17,
+      "end": 40.69,
+      "prob": 0.999
+    },
+    {
+      "word": "I",
+      "start": 40.69,
+      "end": 41.35,
+      "prob": 0.997
+    },
+    {
+      "word": "was",
+      "start": 41.35,
+      "end": 41.57,
+      "prob": 1.0
+    },
+    {
+      "word": "so",
+      "start": 41.57,
+      "end": 41.81,
+      "prob": 1.0
+    },
+    {
+      "word": "laser",
+      "start": 41.81,
+      "end": 42.11,
+      "prob": 0.999
+    },
+    {
+      "word": "-focused",
+      "start": 42.11,
+      "end": 42.51,
+      "prob": 0.684
+    },
+    {
+      "word": "on",
+      "start": 42.51,
+      "end": 42.77,
+      "prob": 1.0
+    },
+    {
+      "word": "shooting",
+      "start": 42.77,
+      "end": 43.07,
+      "prob": 1.0
+    },
+    {
+      "word": "that",
+      "start": 43.07,
+      "end": 43.31,
+      "prob": 1.0
+    },
+    {
+      "word": "puck",
+      "start": 43.31,
+      "end": 43.55,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 43.55,
+      "end": 43.75,
+      "prob": 1.0
+    },
+    {
+      "word": "scoring",
+      "start": 43.75,
+      "end": 44.07,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 44.07,
+      "end": 44.23,
+      "prob": 1.0
+    },
+    {
+      "word": "lot",
+      "start": 44.23,
+      "end": 44.33,
+      "prob": 1.0
+    },
+    {
+      "word": "of",
+      "start": 44.33,
+      "end": 44.45,
+      "prob": 1.0
+    },
+    {
+      "word": "goals,",
+      "start": 44.45,
+      "end": 44.81,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 44.87,
+      "end": 45.09,
+      "prob": 1.0
+    },
+    {
+      "word": "could",
+      "start": 45.09,
+      "end": 45.27,
+      "prob": 1.0
+    },
+    {
+      "word": "have",
+      "start": 45.27,
+      "end": 45.37,
+      "prob": 0.997
+    },
+    {
+      "word": "done",
+      "start": 45.37,
+      "end": 45.49,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 45.49,
+      "end": 45.59,
+      "prob": 1.0
+    },
+    {
+      "word": "lot",
+      "start": 45.59,
+      "end": 45.75,
+      "prob": 0.997
+    },
+    {
+      "word": "better",
+      "start": 45.75,
+      "end": 46.03,
+      "prob": 1.0
+    },
+    {
+      "word": "job",
+      "start": 46.03,
+      "end": 46.65,
+      "prob": 1.0
+    },
+    {
+      "word": "passing",
+      "start": 46.65,
+      "end": 47.45,
+      "prob": 0.998
+    },
+    {
+      "word": "the",
+      "start": 47.45,
+      "end": 47.67,
+      "prob": 1.0
+    },
+    {
+      "word": "puck",
+      "start": 47.67,
+      "end": 47.97,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 47.97,
+      "end": 48.99,
+      "prob": 0.989
+    },
+    {
+      "word": "building",
+      "start": 48.99,
+      "end": 50.07,
+      "prob": 1.0
+    },
+    {
+      "word": "confidence",
+      "start": 50.07,
+      "end": 50.63,
+      "prob": 1.0
+    },
+    {
+      "word": "in",
+      "start": 50.63,
+      "end": 50.87,
+      "prob": 1.0
+    },
+    {
+      "word": "my",
+      "start": 50.87,
+      "end": 51.09,
+      "prob": 1.0
+    },
+    {
+      "word": "teammates.",
+      "start": 51.09,
+      "end": 51.65,
+      "prob": 1.0
+    },
+    {
+      "word": "And",
+      "start": 52.66,
+      "end": 53.26,
+      "prob": 1.0
+    },
+    {
+      "word": "so",
+      "start": 53.26,
+      "end": 53.54,
+      "prob": 1.0
+    },
+    {
+      "word": "that",
+      "start": 53.54,
+      "end": 53.88,
+      "prob": 0.981
+    },
+    {
+      "word": "one",
+      "start": 53.88,
+      "end": 54.26,
+      "prob": 1.0
+    },
+    {
+      "word": "-dimensional",
+      "start": 54.26,
+      "end": 54.7,
+      "prob": 0.999
+    },
+    {
+      "word": "way",
+      "start": 54.7,
+      "end": 55.16,
+      "prob": 1.0
+    },
+    {
+      "word": "of",
+      "start": 55.16,
+      "end": 55.34,
+      "prob": 1.0
+    },
+    {
+      "word": "thinking",
+      "start": 55.34,
+      "end": 55.64,
+      "prob": 1.0
+    },
+    {
+      "word": "in",
+      "start": 55.64,
+      "end": 55.9,
+      "prob": 1.0
+    },
+    {
+      "word": "business,",
+      "start": 55.9,
+      "end": 56.4,
+      "prob": 1.0
+    },
+    {
+      "word": "yes,",
+      "start": 56.68,
+      "end": 57.24,
+      "prob": 1.0
+    },
+    {
+      "word": "you",
+      "start": 57.42,
+      "end": 57.5,
+      "prob": 1.0
+    },
+    {
+      "word": "can",
+      "start": 57.5,
+      "end": 57.78,
+      "prob": 1.0
+    },
+    {
+      "word": "save",
+      "start": 57.78,
+      "end": 58.74,
+      "prob": 1.0
+    },
+    {
+      "word": "money,",
+      "start": 58.74,
+      "end": 59.16,
+      "prob": 1.0
+    },
+    {
+      "word": "but",
+      "start": 59.18,
+      "end": 59.82,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 59.82,
+      "end": 59.98,
+      "prob": 1.0
+    },
+    {
+      "word": "pie",
+      "start": 59.98,
+      "end": 60.34,
+      "prob": 0.999
+    },
+    {
+      "word": "grows.",
+      "start": 60.34,
+      "end": 60.92,
+      "prob": 1.0
+    },
+    {
+      "word": "The",
+      "start": 61.14,
+      "end": 61.52,
+      "prob": 0.775
+    },
+    {
+      "word": "pie",
+      "start": 61.52,
+      "end": 61.9,
+      "prob": 0.98
+    },
+    {
+      "word": "here,",
+      "start": 61.9,
+      "end": 62.82,
+      "prob": 0.97
+    },
+    {
+      "word": "in",
+      "start": 63.08,
+      "end": 63.18,
+      "prob": 0.998
+    },
+    {
+      "word": "our",
+      "start": 63.18,
+      "end": 63.36,
+      "prob": 0.999
+    },
+    {
+      "word": "mind,",
+      "start": 63.36,
+      "end": 63.78,
+      "prob": 0.996
+    },
+    {
+      "word": "we",
+      "start": 64.0,
+      "end": 64.22,
+      "prob": 0.995
+    },
+    {
+      "word": "think",
+      "start": 64.22,
+      "end": 64.5,
+      "prob": 0.999
+    },
+    {
+      "word": "that",
+      "start": 64.5,
+      "end": 64.66,
+      "prob": 0.96
+    },
+    {
+      "word": "there's",
+      "start": 64.66,
+      "end": 64.92,
+      "prob": 0.933
+    },
+    {
+      "word": "only",
+      "start": 64.92,
+      "end": 65.34,
+      "prob": 0.999
+    },
+    {
+      "word": "so",
+      "start": 65.34,
+      "end": 65.8,
+      "prob": 0.999
+    },
+    {
+      "word": "much",
+      "start": 65.8,
+      "end": 66.0,
+      "prob": 1.0
+    },
+    {
+      "word": "work",
+      "start": 66.0,
+      "end": 66.4,
+      "prob": 0.999
+    },
+    {
+      "word": "available",
+      "start": 66.4,
+      "end": 67.6,
+      "prob": 0.995
+    },
+    {
+      "word": "for",
+      "start": 67.6,
+      "end": 67.96,
+      "prob": 0.996
+    },
+    {
+      "word": "all",
+      "start": 67.96,
+      "end": 68.12,
+      "prob": 0.999
+    },
+    {
+      "word": "these",
+      "start": 68.12,
+      "end": 68.32,
+      "prob": 0.988
+    },
+    {
+      "word": "contractors",
+      "start": 68.32,
+      "end": 69.06,
+      "prob": 0.999
+    },
+    {
+      "word": "when",
+      "start": 69.06,
+      "end": 69.32,
+      "prob": 0.941
+    },
+    {
+      "word": "it",
+      "start": 69.32,
+      "end": 69.46,
+      "prob": 0.998
+    },
+    {
+      "word": "can",
+      "start": 69.46,
+      "end": 69.64,
+      "prob": 0.999
+    },
+    {
+      "word": "expand",
+      "start": 69.64,
+      "end": 70.14,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 70.14,
+      "end": 70.4,
+      "prob": 0.999
+    },
+    {
+      "word": "grow",
+      "start": 70.4,
+      "end": 70.64,
+      "prob": 0.999
+    },
+    {
+      "word": "continually.",
+      "start": 70.64,
+      "end": 71.3,
+      "prob": 0.995
+    },
+    {
+      "word": "And",
+      "start": 71.68,
+      "end": 72.22,
+      "prob": 0.935
+    },
+    {
+      "word": "so",
+      "start": 72.22,
+      "end": 72.48,
+      "prob": 0.996
+    },
+    {
+      "word": "my",
+      "start": 72.48,
+      "end": 72.78,
+      "prob": 0.795
+    },
+    {
+      "word": "encouragement",
+      "start": 72.78,
+      "end": 73.4,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 73.4,
+      "end": 73.88,
+      "prob": 1.0
+    },
+    {
+      "word": "anyone",
+      "start": 73.88,
+      "end": 74.44,
+      "prob": 1.0
+    },
+    {
+      "word": "that's",
+      "start": 74.44,
+      "end": 74.76,
+      "prob": 0.998
+    },
+    {
+      "word": "thinking,",
+      "start": 74.76,
+      "end": 75.1,
+      "prob": 1.0
+    },
+    {
+      "word": "how",
+      "start": 75.34,
+      "end": 75.84,
+      "prob": 0.892
+    },
+    {
+      "word": "can",
+      "start": 75.84,
+      "end": 76.12,
+      "prob": 1.0
+    },
+    {
+      "word": "marketing",
+      "start": 76.12,
+      "end": 76.56,
+      "prob": 0.999
+    },
+    {
+      "word": "help",
+      "start": 76.56,
+      "end": 76.9,
+      "prob": 1.0
+    },
+    {
+      "word": "me?",
+      "start": 76.9,
+      "end": 77.16,
+      "prob": 1.0
+    },
+    {
+      "word": "Can",
+      "start": 77.36,
+      "end": 77.7,
+      "prob": 1.0
+    },
+    {
+      "word": "I",
+      "start": 77.7,
+      "end": 77.86,
+      "prob": 1.0
+    },
+    {
+      "word": "afford",
+      "start": 77.86,
+      "end": 78.22,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 78.22,
+      "end": 78.4,
+      "prob": 1.0
+    },
+    {
+      "word": "spend",
+      "start": 78.4,
+      "end": 78.66,
+      "prob": 1.0
+    },
+    {
+      "word": "$100",
+      "start": 78.66,
+      "end": 79.1,
+      "prob": 0.974
+    },
+    {
+      "word": "a",
+      "start": 79.1,
+      "end": 79.64,
+      "prob": 0.998
+    },
+    {
+      "word": "day?",
+      "start": 79.64,
+      "end": 79.9,
+      "prob": 1.0
+    },
+    {
+      "word": "It",
+      "start": 80.1,
+      "end": 80.68,
+      "prob": 0.999
+    },
+    {
+      "word": "depends",
+      "start": 80.68,
+      "end": 81.02,
+      "prob": 1.0
+    },
+    {
+      "word": "on",
+      "start": 81.02,
+      "end": 81.24,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 81.24,
+      "end": 81.36,
+      "prob": 1.0
+    },
+    {
+      "word": "capacity",
+      "start": 81.36,
+      "end": 81.96,
+      "prob": 1.0
+    },
+    {
+      "word": "you",
+      "start": 81.96,
+      "end": 82.24,
+      "prob": 1.0
+    },
+    {
+      "word": "have",
+      "start": 82.24,
+      "end": 82.54,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 82.54,
+      "end": 82.7,
+      "prob": 0.998
+    },
+    {
+      "word": "the",
+      "start": 82.7,
+      "end": 82.82,
+      "prob": 1.0
+    },
+    {
+      "word": "desire",
+      "start": 82.82,
+      "end": 83.16,
+      "prob": 1.0
+    },
+    {
+      "word": "you",
+      "start": 83.16,
+      "end": 83.36,
+      "prob": 0.999
+    },
+    {
+      "word": "want",
+      "start": 83.36,
+      "end": 83.6,
+      "prob": 1.0
+    },
+    {
+      "word": "to",
+      "start": 83.6,
+      "end": 83.76,
+      "prob": 1.0
+    },
+    {
+      "word": "truly",
+      "start": 83.76,
+      "end": 84.12,
+      "prob": 1.0
+    },
+    {
+      "word": "grow",
+      "start": 84.12,
+      "end": 84.46,
+      "prob": 1.0
+    },
+    {
+      "word": "with",
+      "start": 84.46,
+      "end": 84.7,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 84.7,
+      "end": 84.82,
+      "prob": 1.0
+    },
+    {
+      "word": "good",
+      "start": 84.82,
+      "end": 84.98,
+      "prob": 1.0
+    },
+    {
+      "word": "team",
+      "start": 84.98,
+      "end": 85.34,
+      "prob": 1.0
+    },
+    {
+      "word": "versus",
+      "start": 85.34,
+      "end": 85.66,
+      "prob": 0.966
+    },
+    {
+      "word": "doing",
+      "start": 85.66,
+      "end": 86.0,
+      "prob": 1.0
+    },
+    {
+      "word": "everything",
+      "start": 86.0,
+      "end": 86.4,
+      "prob": 1.0
+    },
+    {
+      "word": "yourself",
+      "start": 86.4,
+      "end": 86.92,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 86.92,
+      "end": 87.62,
+      "prob": 0.998
+    },
+    {
+      "word": "running",
+      "start": 87.62,
+      "end": 87.86,
+      "prob": 1.0
+    },
+    {
+      "word": "your",
+      "start": 87.86,
+      "end": 88.04,
+      "prob": 1.0
+    },
+    {
+      "word": "mind",
+      "start": 88.04,
+      "end": 88.26,
+      "prob": 0.944
+    },
+    {
+      "word": "ragged.",
+      "start": 88.26,
+      "end": 88.72,
+      "prob": 0.999
+    }
+  ]
+}

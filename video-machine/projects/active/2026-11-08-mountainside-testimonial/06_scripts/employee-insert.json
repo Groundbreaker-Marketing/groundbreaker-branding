@@ -1,0 +1,14 @@
+{
+  "name": "employee-insert",
+  "out": "05_renders/review/employee/mountainside-er-max-driver-employee-clip-16x9.mp4",
+  "srt": "05_renders/review/employee/mountainside-er-max-driver-employee-clip-16x9.srt",
+  "burn": true,
+  "broll": false,
+  "lower_thirds": true,
+  "music": null,
+  "crf": 18,
+  "items": [
+    {"type": "talk", "clip": "C0070", "text": "i'm a driver here at mountainside er i've been here going on three months i'm mainly a driver but i operate the loader that you can see behind us when needed", "lt": ["Max", "Driver, Mountainside ER+"], "lt_at": 0.6},
+    {"type": "talk", "clip": "C0070", "text": "i like operating heavy equipment so operating that loader is my favorite part"}
+  ]
+}

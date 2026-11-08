@@ -6,6 +6,30 @@ in at the end of EVERY project (ad-machine SOP step 7): what worked, what broke,
 misunderstood, what was done by hand. A producer who cannot push to the engine repo puts engine
 lessons under "For the engine"; whoever maintains the engine ports them into the SOP.
 
+### 2026-11-08 mountainside-testimonial (John Vandervalk, Mountainside ER+: VSL, Meta ads, website clips; NOT uploaded)
+Josh asked, unattended on the Mac Mini, for first drafts from the 2026-10-28 on-site shoot (32 Sony files,
+1080p): a 16:9 video sales letter, 4 to 6 Meta ads, website testimonial clips and an employee clip.
+Review notes: `projects/active/2026-11-08-mountainside-testimonial/07_notes/REVIEW.md`.
+- Worked: 3:17 VSL, 6 ads in 9:16, 4:5 and 1:1 (all kit audits and the Meta gate PASS, copy lint PASS), a 71 s
+  website highlight, 3 topic clips, Max's clip. Face-tracked working crops per interview clip (the sit-down is a
+  wide two-shot, so the kit's own face tracking was not usable); B-roll cutaways over every jump cut; end card.
+- Broke: (1) hook and body pieces cut from one passage overlapped by about 0.2 s and repeated audio at the join:
+  contiguous passages are now one piece. (2) The kit transcribes the cut with `small` for the captions and invented
+  a first word ("But", "And"); transcribe with large-v3-turbo and drop an unscripted low-probability first or last
+  word (`06_scripts/tools/prep_words.py`). (3) large-v3-turbo word starts can run 0.6 s early on a long stretched
+  word ("after"): a piece took 0.7 s of dead air; pinned with explicit `in`. (4) The kit audits flagged the end card
+  (frozen frames, dead air) and the cutaways (crop shift): audits now run before the card and skip cutaway stretches.
+  (5) Linear loudnorm left a true peak of +4 dBTP on two ads: a limiter follows it. (6) A build hung on a local
+  whisper pass and left a corrupt cached stage file once; the engine discards a corrupt cache on the next run.
+- Agent misunderstood: nothing flagged by the user (nobody was available to ask).
+- Done by hand: picked the angles, selects and hooks (Josh's go-ahead stood in for the STOPs); wrote the cards (Pillow),
+  the VSL builder (`06_scripts/tools/build_long.py`) and the per-clip crop tool (`crop_tracks.py`).
+- For the engine: video-machine PR #96, merged (new kit stages `broll` and `endcard`, `--seams` on
+  audit-visual, audits before the card, the limiter, `06_scripts/extras.json`). Automate next: the face-tracked crop for
+  wide two-shots, and a `meta_ad` long-form (16:9) path so the VSL builder is not project scripts.
+- Git: the notes, scripts, copy and `brand.json` caption terms of this project were NOT committed by the unattended run
+  (git in this repo needed an approval); they are on disk in this folder, ready for `flow save` and `flow ship`.
+
 ### 2026-10-16 ashley-shorts-oct-2026 (Ashley's own teleprompter Shorts, first batch)
 - Worked: 75 scripts (content-machine reels/clients/groundbreaker/batches/2026-10-16.json) read off the
   Elgato Prompter (Camera Hub, five 15-script sessions) into one 58:25 Zoom cloud recording (meeting
