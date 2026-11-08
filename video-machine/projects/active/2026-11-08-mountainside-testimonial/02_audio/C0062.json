@@ -1,0 +1,28 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0062.MP4",
+  "start": 0.0,
+  "end": 20.02,
+  "duration": 20.02,
+  "language": "en",
+  "text": "What is this?",
+  "words": [
+    {
+      "word": "What",
+      "start": 7.95,
+      "end": 8.45,
+      "prob": 0.017
+    },
+    {
+      "word": "is",
+      "start": 8.45,
+      "end": 8.55,
+      "prob": 0.544
+    },
+    {
+      "word": "this?",
+      "start": 8.55,
+      "end": 9.03,
+      "prob": 0.731
+    }
+  ]
+}

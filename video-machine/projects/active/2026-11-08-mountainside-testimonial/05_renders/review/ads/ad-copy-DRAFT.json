@@ -1,0 +1,35 @@
+{
+  "approved": false,
+  "variants": {
+    "no-third-leg-recognition-h1c1": {
+      "primary_text": "One lead source going quiet should not put your crew at risk. John Vandervalk of Mountainside ER+ added Google leads to the mix.",
+      "headline": "Do not run on one lead source",
+      "description": "Mountainside ER+, Monument, Colorado"
+    },
+    "leads-to-hires-proof-h1": {
+      "primary_text": "Google leads became booked jobs, and booked jobs became new hires. John says there is \"no shortage of work.\"",
+      "headline": "From Google leads to new hires",
+      "description": "Mountainside ER+, Monument, Colorado"
+    },
+    "new-services-proof-h1": {
+      "primary_text": "Customers started asking Mountainside ER+ about site prep, excavation and grading. John Vandervalk says better marketing on Google is part of why.",
+      "headline": "Customers ask for more",
+      "description": "Mountainside ER+, Monument, Colorado"
+    },
+    "personal-side-objection-h1b1": {
+      "primary_text": "Software can build you a website. It cannot be the person on the call. John Vandervalk likes \"having the Zoom calls where I can bounce ideas off.\"",
+      "headline": "A person to bounce ideas off",
+      "description": "Mountainside ER+, Monument, Colorado"
+    },
+    "too-many-hats-recognition-h1b1": {
+      "primary_text": "Wearing every hat keeps you out of the role where you crush it. John Vandervalk got help with the Google side of his business.",
+      "headline": "Stop wearing every hat",
+      "description": "Mountainside ER+, Monument, Colorado"
+    },
+    "contractor-referral-proof-h1b1": {
+      "primary_text": "John Vandervalk heard it from a contractor friend: \"the best hire I've made to grow a business.\"",
+      "headline": "Word of mouth from a contractor",
+      "description": "Mountainside ER+, Monument, Colorado"
+    }
+  }
+}

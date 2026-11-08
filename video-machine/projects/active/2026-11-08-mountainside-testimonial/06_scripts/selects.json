@@ -1,0 +1,50 @@
+{
+  "source": "04_project-files/crops/C0066-v.mp4",
+  "transcript": "02_audio/C0066.json",
+  "extra_transcripts": {
+    "04_project-files/crops/C0067-v.mp4": "02_audio/C0067.json",
+    "04_project-files/crops/C0068-v.mp4": "02_audio/C0068.json"
+  },
+  "angles": {
+    "no-third-leg": {
+      "belief": "fear: leaning on one source of work (Facebook Marketplace) until it goes dead",
+      "landing_url": "https://groundbreakermarketing.com/calendar",
+      "role": "recognition",
+      "hooks": [{"id": "h1", "text": "something inside of me kept saying i need that third and fourth leg on the stool for business so that if one of them completely breaks i'm not having to cut my finances and cut team because i'm unprepared"}],
+      "ctas": [{"id": "c1", "text": "josh and ashley have helped me with the google side of it and getting google leads"}]
+    },
+    "leads-to-hires": {
+      "belief": "value: Google leads turn into booked jobs and a bigger crew",
+      "landing_url": "https://groundbreakermarketing.com/calendar",
+      "role": "proof",
+      "hooks": [{"id": "h1", "in": 412.0, "out": 431.18, "text": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver"}]
+    },
+    "new-services": {
+      "belief": "value: marketing brings work beyond the one service you started with",
+      "landing_url": "https://groundbreakermarketing.com/calendar",
+      "role": "proof",
+      "hooks": [{"id": "h1", "text": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading"}]
+    },
+    "personal-side": {
+      "belief": "objection: why pay someone when software can do it (a person to bounce ideas off)",
+      "landing_url": "https://groundbreakermarketing.com/calendar",
+      "role": "objection",
+      "hooks": [{"id": "h1", "source": "04_project-files/crops/C0067-v.mp4", "text": "i realize in business that with all this new movement we are losing a personal side of it where i don't have someone that i can necessarily bounce ideas off"}],
+      "bodies": [{"id": "b1", "source": "04_project-files/crops/C0067-v.mp4", "text": "the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things"}]
+    },
+    "too-many-hats": {
+      "belief": "control: doing everything yourself keeps you out of the work only you can do",
+      "landing_url": "https://groundbreakermarketing.com/calendar",
+      "role": "recognition",
+      "hooks": [{"id": "h1", "source": "04_project-files/crops/C0067-v.mp4", "text": "if i'm trying to put on multiple hats to run a business i'm not being as effective as i can be in the role that i can crush it in"}],
+      "bodies": [{"id": "b1", "text": "josh and ashley have helped me with the google side of it and getting google leads"}]
+    },
+    "contractor-referral": {
+      "belief": "value: a peer's word is the best reason to pick a marketing partner",
+      "landing_url": "https://groundbreakermarketing.com/calendar",
+      "role": "proof",
+      "hooks": [{"id": "h1", "source": "04_project-files/crops/C0067-v.mp4", "text": "i have a contractor friend that i met and he raved about josh and ashley and said that is the best hire i've made to grow a business"}],
+      "bodies": [{"id": "b1", "text": "and then i kept getting more work so i was able to hire another driver so year over year in the last two years we have doubled each summer and the goal is to double again next year"}]
+    }
+  }
+}

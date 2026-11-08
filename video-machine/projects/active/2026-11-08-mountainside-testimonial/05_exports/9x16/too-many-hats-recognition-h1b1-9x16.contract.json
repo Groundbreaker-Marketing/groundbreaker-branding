@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-08T14:22:10+00:00",
+  "source": {
+    "pipeline": "single_broll_end",
+    "project_dir": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/03_selects/too-many-hats-recognition-h1b1",
+    "manifest": "manifest.json"
+  },
+  "declared": {
+    "title": "too-many-hats-recognition-h1b1",
+    "output_name": "too-many-hats-recognition-h1b1-9x16.mp4",
+    "reframe_preset": "talking-head",
+    "reframe_zoom": 1.0,
+    "reframe_res": "1080",
+    "captions": {
+      "style": "spice",
+      "ass": null,
+      "context": {},
+      "n_events": null,
+      "color_map": {
+        "speaker": "white"
+      }
+    },
+    "music": {
+      "path": "",
+      "name": null,
+      "voice_lufs": -14,
+      "music_lufs": -30
+    },
+    "cut": {
+      "n_segments": 2,
+      "first_segment_label": null,
+      "last_segment_label": null,
+      "hard_end": true
+    },
+    "speakers": 1
+  },
+  "observed": {
+    "delivered_path": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/05_exports/9x16/too-many-hats-recognition-h1b1-9x16.mp4",
+    "size_bytes": 18441291,
+    "duration_seconds": 16.623,
+    "width": 1080,
+    "height": 1920,
+    "vcodec": "h264",
+    "acodec": "aac",
+    "fps": 29.898,
+    "aspect": "1080:1920"
+  },
+  "audit_hints": {
+    "expected_aspect_wh": [
+      1080,
+      1920
+    ],
+    "max_duration_seconds": 90,
+    "min_duration_seconds": 8,
+    "expected_caption_style": "spice",
+    "no_fade_out": true,
+    "delivery_target": "LOCAL_ONLY"
+  }
+}

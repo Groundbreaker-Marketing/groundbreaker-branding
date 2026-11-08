@@ -1,0 +1,20 @@
+{
+  "name": "web-more-work",
+  "out": "05_renders/review/website/mountainside-er-john-vandervalk-more-work-new-services-testimonial.mp4",
+  "vtt": "05_renders/review/website/mountainside-er-john-vandervalk-more-work-new-services-testimonial.vtt",
+  "poster": "05_renders/review/website/mountainside-er-john-vandervalk-more-work-new-services-testimonial-poster.jpg",
+  "poster_at": 1.4,
+  "burn": false,
+  "broll": true,
+  "broll_offset": 11,
+  "lower_thirds": true,
+  "music": null,
+  "crf": 23,
+  "maxrate": "3000k",
+  "bufsize": "6000k",
+  "abr": "128k",
+  "preset": "slow",
+  "items": [
+    {"type": "talk", "clip": "C0066", "text": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading", "lt": ["John Vandervalk", "Mountainside ER+ · Monument, Colorado"], "lt_at": 0.5}
+  ]
+}

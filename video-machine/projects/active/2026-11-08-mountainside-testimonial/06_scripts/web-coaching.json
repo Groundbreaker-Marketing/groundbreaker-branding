@@ -1,0 +1,21 @@
+{
+  "name": "web-coaching",
+  "out": "05_renders/review/website/mountainside-er-john-vandervalk-coaching-calls-testimonial.mp4",
+  "vtt": "05_renders/review/website/mountainside-er-john-vandervalk-coaching-calls-testimonial.vtt",
+  "poster": "05_renders/review/website/mountainside-er-john-vandervalk-coaching-calls-testimonial-poster.jpg",
+  "poster_at": 1.4,
+  "burn": false,
+  "broll": true,
+  "broll_offset": 15,
+  "lower_thirds": true,
+  "music": null,
+  "crf": 23,
+  "maxrate": "3000k",
+  "bufsize": "6000k",
+  "abr": "128k",
+  "preset": "slow",
+  "items": [
+    {"type": "talk", "clip": "C0067", "text": "if i'm trying to put on multiple hats to run a business i'm not being as effective as i can be in the role that i can crush it in", "lt": ["John Vandervalk", "Mountainside ER+ · Monument, Colorado"], "lt_at": 0.5},
+    {"type": "talk", "clip": "C0067", "text": "the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things"}
+  ]
+}

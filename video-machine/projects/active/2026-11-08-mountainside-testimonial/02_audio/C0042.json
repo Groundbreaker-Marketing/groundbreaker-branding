@@ -1,0 +1,502 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0042.MP4",
+  "start": 0.0,
+  "end": 34.035,
+  "duration": 34.035,
+  "language": "en",
+  "text": "day-to-day operations change one of the things that i have so i started off by taking demo concrete that gets loaded into the demo trailer so a demo trailer is a half round and that can take boulders and aggregate a regular box will break it interesting because that is the sides because they have to slide down and they're also twice as thick on steel and then the box is lightweight to haul aggregate okay anything under two inches",
+  "words": [
+    {
+      "word": "day",
+      "start": 0.08,
+      "end": 0.68,
+      "prob": 0.243
+    },
+    {
+      "word": "-to",
+      "start": 0.68,
+      "end": 0.88,
+      "prob": 0.949
+    },
+    {
+      "word": "-day",
+      "start": 0.88,
+      "end": 1.1,
+      "prob": 1.0
+    },
+    {
+      "word": "operations",
+      "start": 1.1,
+      "end": 2.06,
+      "prob": 0.958
+    },
+    {
+      "word": "change",
+      "start": 2.06,
+      "end": 2.66,
+      "prob": 0.997
+    },
+    {
+      "word": "one",
+      "start": 2.66,
+      "end": 3.42,
+      "prob": 0.457
+    },
+    {
+      "word": "of",
+      "start": 3.42,
+      "end": 3.56,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 3.56,
+      "end": 3.74,
+      "prob": 1.0
+    },
+    {
+      "word": "things",
+      "start": 3.74,
+      "end": 4.04,
+      "prob": 0.999
+    },
+    {
+      "word": "that",
+      "start": 4.04,
+      "end": 4.26,
+      "prob": 0.999
+    },
+    {
+      "word": "i",
+      "start": 4.26,
+      "end": 4.38,
+      "prob": 0.533
+    },
+    {
+      "word": "have",
+      "start": 4.38,
+      "end": 4.76,
+      "prob": 1.0
+    },
+    {
+      "word": "so",
+      "start": 4.76,
+      "end": 5.52,
+      "prob": 0.998
+    },
+    {
+      "word": "i",
+      "start": 5.52,
+      "end": 5.64,
+      "prob": 1.0
+    },
+    {
+      "word": "started",
+      "start": 5.64,
+      "end": 6.04,
+      "prob": 1.0
+    },
+    {
+      "word": "off",
+      "start": 6.04,
+      "end": 6.3,
+      "prob": 1.0
+    },
+    {
+      "word": "by",
+      "start": 6.3,
+      "end": 6.6,
+      "prob": 1.0
+    },
+    {
+      "word": "taking",
+      "start": 6.6,
+      "end": 7.04,
+      "prob": 1.0
+    },
+    {
+      "word": "demo",
+      "start": 7.04,
+      "end": 7.76,
+      "prob": 0.999
+    },
+    {
+      "word": "concrete",
+      "start": 7.76,
+      "end": 8.44,
+      "prob": 1.0
+    },
+    {
+      "word": "that",
+      "start": 8.44,
+      "end": 8.9,
+      "prob": 0.536
+    },
+    {
+      "word": "gets",
+      "start": 8.9,
+      "end": 9.2,
+      "prob": 0.91
+    },
+    {
+      "word": "loaded",
+      "start": 9.2,
+      "end": 9.52,
+      "prob": 1.0
+    },
+    {
+      "word": "into",
+      "start": 9.52,
+      "end": 9.84,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 9.84,
+      "end": 10.74,
+      "prob": 1.0
+    },
+    {
+      "word": "demo",
+      "start": 10.74,
+      "end": 11.08,
+      "prob": 1.0
+    },
+    {
+      "word": "trailer",
+      "start": 11.08,
+      "end": 11.74,
+      "prob": 1.0
+    },
+    {
+      "word": "so",
+      "start": 11.74,
+      "end": 12.08,
+      "prob": 0.999
+    },
+    {
+      "word": "a",
+      "start": 12.08,
+      "end": 12.22,
+      "prob": 0.982
+    },
+    {
+      "word": "demo",
+      "start": 12.22,
+      "end": 12.4,
+      "prob": 1.0
+    },
+    {
+      "word": "trailer",
+      "start": 12.4,
+      "end": 12.88,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 12.88,
+      "end": 13.42,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 13.42,
+      "end": 13.54,
+      "prob": 1.0
+    },
+    {
+      "word": "half",
+      "start": 13.54,
+      "end": 13.78,
+      "prob": 1.0
+    },
+    {
+      "word": "round",
+      "start": 13.78,
+      "end": 14.12,
+      "prob": 0.998
+    },
+    {
+      "word": "and",
+      "start": 14.12,
+      "end": 14.38,
+      "prob": 1.0
+    },
+    {
+      "word": "that",
+      "start": 14.38,
+      "end": 14.52,
+      "prob": 1.0
+    },
+    {
+      "word": "can",
+      "start": 14.52,
+      "end": 14.72,
+      "prob": 1.0
+    },
+    {
+      "word": "take",
+      "start": 14.72,
+      "end": 15.14,
+      "prob": 1.0
+    },
+    {
+      "word": "boulders",
+      "start": 15.14,
+      "end": 16.04,
+      "prob": 0.996
+    },
+    {
+      "word": "and",
+      "start": 16.04,
+      "end": 16.22,
+      "prob": 0.978
+    },
+    {
+      "word": "aggregate",
+      "start": 16.22,
+      "end": 16.68,
+      "prob": 0.996
+    },
+    {
+      "word": "a",
+      "start": 16.68,
+      "end": 17.46,
+      "prob": 1.0
+    },
+    {
+      "word": "regular",
+      "start": 17.46,
+      "end": 17.8,
+      "prob": 1.0
+    },
+    {
+      "word": "box",
+      "start": 17.8,
+      "end": 18.34,
+      "prob": 1.0
+    },
+    {
+      "word": "will",
+      "start": 18.34,
+      "end": 19.14,
+      "prob": 0.992
+    },
+    {
+      "word": "break",
+      "start": 19.14,
+      "end": 19.42,
+      "prob": 1.0
+    },
+    {
+      "word": "it",
+      "start": 19.42,
+      "end": 19.66,
+      "prob": 1.0
+    },
+    {
+      "word": "interesting",
+      "start": 19.66,
+      "end": 20.32,
+      "prob": 0.995
+    },
+    {
+      "word": "because",
+      "start": 20.32,
+      "end": 20.64,
+      "prob": 0.976
+    },
+    {
+      "word": "that",
+      "start": 20.64,
+      "end": 20.86,
+      "prob": 0.299
+    },
+    {
+      "word": "is",
+      "start": 20.86,
+      "end": 21.04,
+      "prob": 0.987
+    },
+    {
+      "word": "the",
+      "start": 21.04,
+      "end": 21.2,
+      "prob": 0.993
+    },
+    {
+      "word": "sides",
+      "start": 21.2,
+      "end": 21.64,
+      "prob": 0.94
+    },
+    {
+      "word": "because",
+      "start": 21.64,
+      "end": 22.66,
+      "prob": 0.553
+    },
+    {
+      "word": "they",
+      "start": 22.66,
+      "end": 23.28,
+      "prob": 0.991
+    },
+    {
+      "word": "have",
+      "start": 23.28,
+      "end": 23.44,
+      "prob": 0.995
+    },
+    {
+      "word": "to",
+      "start": 23.44,
+      "end": 23.58,
+      "prob": 1.0
+    },
+    {
+      "word": "slide",
+      "start": 23.58,
+      "end": 23.94,
+      "prob": 1.0
+    },
+    {
+      "word": "down",
+      "start": 23.94,
+      "end": 24.34,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 24.34,
+      "end": 24.74,
+      "prob": 1.0
+    },
+    {
+      "word": "they're",
+      "start": 24.74,
+      "end": 24.94,
+      "prob": 1.0
+    },
+    {
+      "word": "also",
+      "start": 24.94,
+      "end": 25.3,
+      "prob": 1.0
+    },
+    {
+      "word": "twice",
+      "start": 25.3,
+      "end": 25.86,
+      "prob": 0.999
+    },
+    {
+      "word": "as",
+      "start": 25.86,
+      "end": 26.12,
+      "prob": 0.993
+    },
+    {
+      "word": "thick",
+      "start": 26.12,
+      "end": 26.36,
+      "prob": 0.998
+    },
+    {
+      "word": "on",
+      "start": 26.36,
+      "end": 26.56,
+      "prob": 1.0
+    },
+    {
+      "word": "steel",
+      "start": 26.56,
+      "end": 26.88,
+      "prob": 0.994
+    },
+    {
+      "word": "and",
+      "start": 26.88,
+      "end": 27.88,
+      "prob": 0.999
+    },
+    {
+      "word": "then",
+      "start": 27.88,
+      "end": 28.04,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 28.04,
+      "end": 28.22,
+      "prob": 1.0
+    },
+    {
+      "word": "box",
+      "start": 28.22,
+      "end": 28.68,
+      "prob": 1.0
+    },
+    {
+      "word": "is",
+      "start": 28.68,
+      "end": 28.98,
+      "prob": 1.0
+    },
+    {
+      "word": "lightweight",
+      "start": 28.98,
+      "end": 30.04,
+      "prob": 0.782
+    },
+    {
+      "word": "to",
+      "start": 30.04,
+      "end": 30.36,
+      "prob": 0.955
+    },
+    {
+      "word": "haul",
+      "start": 30.36,
+      "end": 30.56,
+      "prob": 0.557
+    },
+    {
+      "word": "aggregate",
+      "start": 30.56,
+      "end": 30.98,
+      "prob": 0.99
+    },
+    {
+      "word": "okay",
+      "start": 30.98,
+      "end": 31.56,
+      "prob": 0.294
+    },
+    {
+      "word": "anything",
+      "start": 31.56,
+      "end": 32.02,
+      "prob": 0.988
+    },
+    {
+      "word": "under",
+      "start": 32.02,
+      "end": 32.32,
+      "prob": 0.999
+    },
+    {
+      "word": "two",
+      "start": 32.32,
+      "end": 32.7,
+      "prob": 0.888
+    },
+    {
+      "word": "inches",
+      "start": 32.7,
+      "end": 33.04,
+      "prob": 0.999
+    }
+  ]
+}

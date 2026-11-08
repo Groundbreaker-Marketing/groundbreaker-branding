@@ -1,0 +1,86 @@
+{
+  "no-third-leg-recognition-h1c1": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "leads-to-hires-proof-h1": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "new-services-proof-h1": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "personal-side-objection-h1b1": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "too-many-hats-recognition-h1b1": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  },
+  "contractor-referral-proof-h1b1": {
+    "audit-audio": {
+      "verdict": "PASS",
+      "summary": "All audio checks passed"
+    },
+    "audit-captions": {
+      "verdict": "PASS",
+      "summary": "All caption checks passed"
+    },
+    "audit-visual": {
+      "verdict": "PASS",
+      "summary": "All visual checks passed"
+    }
+  }
+}

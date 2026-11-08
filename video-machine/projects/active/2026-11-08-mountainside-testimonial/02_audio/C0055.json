@@ -1,0 +1,142 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0055.MP4",
+  "start": 0.0,
+  "end": 16.52,
+  "duration": 16.52,
+  "language": "en",
+  "text": "I'm not going into it yeah yeah we don't know like even though get these heavy cinema out of here and it's",
+  "words": [
+    {
+      "word": "I'm",
+      "start": 2.14,
+      "end": 2.58,
+      "prob": 0.536
+    },
+    {
+      "word": "not",
+      "start": 2.58,
+      "end": 2.68,
+      "prob": 0.978
+    },
+    {
+      "word": "going",
+      "start": 2.68,
+      "end": 2.92,
+      "prob": 0.986
+    },
+    {
+      "word": "into",
+      "start": 2.92,
+      "end": 3.1,
+      "prob": 0.766
+    },
+    {
+      "word": "it",
+      "start": 3.1,
+      "end": 3.3,
+      "prob": 0.61
+    },
+    {
+      "word": "yeah",
+      "start": 3.3,
+      "end": 3.82,
+      "prob": 0.109
+    },
+    {
+      "word": "yeah",
+      "start": 3.82,
+      "end": 4.36,
+      "prob": 0.434
+    },
+    {
+      "word": "we",
+      "start": 4.36,
+      "end": 4.52,
+      "prob": 0.621
+    },
+    {
+      "word": "don't",
+      "start": 4.52,
+      "end": 4.72,
+      "prob": 0.712
+    },
+    {
+      "word": "know",
+      "start": 4.72,
+      "end": 4.92,
+      "prob": 0.761
+    },
+    {
+      "word": "like",
+      "start": 4.92,
+      "end": 6.4,
+      "prob": 0.54
+    },
+    {
+      "word": "even",
+      "start": 9.57,
+      "end": 9.81,
+      "prob": 0.995
+    },
+    {
+      "word": "though",
+      "start": 9.81,
+      "end": 10.05,
+      "prob": 0.965
+    },
+    {
+      "word": "get",
+      "start": 11.97,
+      "end": 12.89,
+      "prob": 0.882
+    },
+    {
+      "word": "these",
+      "start": 12.89,
+      "end": 13.09,
+      "prob": 0.992
+    },
+    {
+      "word": "heavy",
+      "start": 13.09,
+      "end": 13.33,
+      "prob": 0.988
+    },
+    {
+      "word": "cinema",
+      "start": 13.33,
+      "end": 13.85,
+      "prob": 0.064
+    },
+    {
+      "word": "out",
+      "start": 13.85,
+      "end": 14.05,
+      "prob": 0.436
+    },
+    {
+      "word": "of",
+      "start": 14.05,
+      "end": 14.07,
+      "prob": 0.505
+    },
+    {
+      "word": "here",
+      "start": 14.07,
+      "end": 14.23,
+      "prob": 0.897
+    },
+    {
+      "word": "and",
+      "start": 14.23,
+      "end": 15.11,
+      "prob": 0.829
+    },
+    {
+      "word": "it's",
+      "start": 15.11,
+      "end": 15.29,
+      "prob": 0.931
+    }
+  ]
+}

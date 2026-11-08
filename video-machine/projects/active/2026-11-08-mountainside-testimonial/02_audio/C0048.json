@@ -1,0 +1,400 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0048.MP4",
+  "start": 0.0,
+  "end": 17.02,
+  "duration": 17.02,
+  "language": "en",
+  "text": "so if they're not gonna pay they'll text me and say hey can you give me four days or five days so they let you know yeah they let me know that's good or brian will say hey i'm not getting paid and i'm owed six figures on this project i'll i'll get you paid in a couple weeks or i'll update you yeah so",
+  "words": [
+    {
+      "word": "so",
+      "start": 0.05,
+      "end": 0.55,
+      "prob": 0.152
+    },
+    {
+      "word": "if",
+      "start": 0.55,
+      "end": 0.71,
+      "prob": 0.984
+    },
+    {
+      "word": "they're",
+      "start": 0.71,
+      "end": 0.87,
+      "prob": 0.998
+    },
+    {
+      "word": "not",
+      "start": 0.87,
+      "end": 1.05,
+      "prob": 0.999
+    },
+    {
+      "word": "gonna",
+      "start": 1.05,
+      "end": 1.25,
+      "prob": 0.64
+    },
+    {
+      "word": "pay",
+      "start": 1.25,
+      "end": 1.51,
+      "prob": 0.997
+    },
+    {
+      "word": "they'll",
+      "start": 1.51,
+      "end": 1.75,
+      "prob": 0.925
+    },
+    {
+      "word": "text",
+      "start": 1.75,
+      "end": 2.01,
+      "prob": 0.998
+    },
+    {
+      "word": "me",
+      "start": 2.01,
+      "end": 2.19,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 2.19,
+      "end": 2.31,
+      "prob": 0.992
+    },
+    {
+      "word": "say",
+      "start": 2.31,
+      "end": 2.45,
+      "prob": 0.999
+    },
+    {
+      "word": "hey",
+      "start": 2.45,
+      "end": 2.63,
+      "prob": 0.876
+    },
+    {
+      "word": "can",
+      "start": 2.63,
+      "end": 2.81,
+      "prob": 0.959
+    },
+    {
+      "word": "you",
+      "start": 2.81,
+      "end": 2.91,
+      "prob": 1.0
+    },
+    {
+      "word": "give",
+      "start": 2.91,
+      "end": 3.03,
+      "prob": 0.998
+    },
+    {
+      "word": "me",
+      "start": 3.03,
+      "end": 3.15,
+      "prob": 0.999
+    },
+    {
+      "word": "four",
+      "start": 3.15,
+      "end": 3.39,
+      "prob": 0.985
+    },
+    {
+      "word": "days",
+      "start": 3.39,
+      "end": 3.63,
+      "prob": 0.998
+    },
+    {
+      "word": "or",
+      "start": 3.63,
+      "end": 3.83,
+      "prob": 0.987
+    },
+    {
+      "word": "five",
+      "start": 3.83,
+      "end": 4.07,
+      "prob": 0.994
+    },
+    {
+      "word": "days",
+      "start": 4.07,
+      "end": 4.43,
+      "prob": 0.997
+    },
+    {
+      "word": "so",
+      "start": 4.43,
+      "end": 4.95,
+      "prob": 0.434
+    },
+    {
+      "word": "they",
+      "start": 4.95,
+      "end": 5.13,
+      "prob": 0.883
+    },
+    {
+      "word": "let",
+      "start": 5.13,
+      "end": 5.53,
+      "prob": 0.975
+    },
+    {
+      "word": "you",
+      "start": 5.53,
+      "end": 5.69,
+      "prob": 0.996
+    },
+    {
+      "word": "know",
+      "start": 5.69,
+      "end": 5.81,
+      "prob": 0.995
+    },
+    {
+      "word": "yeah",
+      "start": 5.81,
+      "end": 6.05,
+      "prob": 0.973
+    },
+    {
+      "word": "they",
+      "start": 6.05,
+      "end": 6.29,
+      "prob": 0.982
+    },
+    {
+      "word": "let",
+      "start": 6.29,
+      "end": 6.41,
+      "prob": 0.994
+    },
+    {
+      "word": "me",
+      "start": 6.41,
+      "end": 6.57,
+      "prob": 0.997
+    },
+    {
+      "word": "know",
+      "start": 6.57,
+      "end": 6.65,
+      "prob": 0.982
+    },
+    {
+      "word": "that's",
+      "start": 6.65,
+      "end": 6.87,
+      "prob": 0.991
+    },
+    {
+      "word": "good",
+      "start": 6.87,
+      "end": 7.03,
+      "prob": 0.999
+    },
+    {
+      "word": "or",
+      "start": 7.03,
+      "end": 7.47,
+      "prob": 0.994
+    },
+    {
+      "word": "brian",
+      "start": 7.47,
+      "end": 7.81,
+      "prob": 0.806
+    },
+    {
+      "word": "will",
+      "start": 7.81,
+      "end": 7.93,
+      "prob": 0.989
+    },
+    {
+      "word": "say",
+      "start": 7.93,
+      "end": 8.09,
+      "prob": 1.0
+    },
+    {
+      "word": "hey",
+      "start": 8.09,
+      "end": 8.27,
+      "prob": 1.0
+    },
+    {
+      "word": "i'm",
+      "start": 8.27,
+      "end": 8.45,
+      "prob": 0.996
+    },
+    {
+      "word": "not",
+      "start": 8.45,
+      "end": 8.57,
+      "prob": 1.0
+    },
+    {
+      "word": "getting",
+      "start": 8.57,
+      "end": 8.81,
+      "prob": 1.0
+    },
+    {
+      "word": "paid",
+      "start": 8.81,
+      "end": 9.15,
+      "prob": 1.0
+    },
+    {
+      "word": "and",
+      "start": 9.15,
+      "end": 9.41,
+      "prob": 1.0
+    },
+    {
+      "word": "i'm",
+      "start": 9.41,
+      "end": 9.61,
+      "prob": 0.998
+    },
+    {
+      "word": "owed",
+      "start": 9.61,
+      "end": 9.85,
+      "prob": 0.999
+    },
+    {
+      "word": "six",
+      "start": 9.85,
+      "end": 10.39,
+      "prob": 1.0
+    },
+    {
+      "word": "figures",
+      "start": 10.39,
+      "end": 10.77,
+      "prob": 1.0
+    },
+    {
+      "word": "on",
+      "start": 10.77,
+      "end": 10.99,
+      "prob": 1.0
+    },
+    {
+      "word": "this",
+      "start": 10.99,
+      "end": 11.19,
+      "prob": 1.0
+    },
+    {
+      "word": "project",
+      "start": 11.19,
+      "end": 11.67,
+      "prob": 1.0
+    },
+    {
+      "word": "i'll",
+      "start": 11.67,
+      "end": 12.89,
+      "prob": 0.997
+    },
+    {
+      "word": "i'll",
+      "start": 12.89,
+      "end": 13.39,
+      "prob": 0.985
+    },
+    {
+      "word": "get",
+      "start": 13.39,
+      "end": 13.55,
+      "prob": 1.0
+    },
+    {
+      "word": "you",
+      "start": 13.55,
+      "end": 13.71,
+      "prob": 1.0
+    },
+    {
+      "word": "paid",
+      "start": 13.71,
+      "end": 14.05,
+      "prob": 1.0
+    },
+    {
+      "word": "in",
+      "start": 14.05,
+      "end": 14.23,
+      "prob": 1.0
+    },
+    {
+      "word": "a",
+      "start": 14.23,
+      "end": 14.37,
+      "prob": 1.0
+    },
+    {
+      "word": "couple",
+      "start": 14.37,
+      "end": 14.53,
+      "prob": 0.999
+    },
+    {
+      "word": "weeks",
+      "start": 14.53,
+      "end": 14.85,
+      "prob": 0.998
+    },
+    {
+      "word": "or",
+      "start": 14.85,
+      "end": 15.07,
+      "prob": 1.0
+    },
+    {
+      "word": "i'll",
+      "start": 15.07,
+      "end": 15.23,
+      "prob": 0.999
+    },
+    {
+      "word": "update",
+      "start": 15.23,
+      "end": 15.61,
+      "prob": 1.0
+    },
+    {
+      "word": "you",
+      "start": 15.61,
+      "end": 15.87,
+      "prob": 1.0
+    },
+    {
+      "word": "yeah",
+      "start": 15.87,
+      "end": 16.19,
+      "prob": 0.996
+    },
+    {
+      "word": "so",
+      "start": 16.19,
+      "end": 16.75,
+      "prob": 1.0
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "clip": "2e77a2f4448e2ebe.mp4",
+  "resolution": "1080x1920",
+  "fps": 29.93,
+  "duration_s": 22.6,
+  "total_frames": 675,
+  "verdict": "PASS",
+  "checks": {
+    "aspect_ratio": {
+      "pass": true,
+      "ratio": "9:16",
+      "resolution": "1080x1920",
+      "issues": []
+    },
+    "crop_stability": {
+      "pass": true,
+      "seams_checked": 20,
+      "content_seams": 18,
+      "same_take_seams_gated": 0,
+      "max_seam_dy_pct": 10.38,
+      "zoom_seams": 2,
+      "zoom_moves_within_shots": 0,
+      "max_within_shot_dy_pct": 0.06,
+      "max_gateable_within_dy_pct": 0.0,
+      "max_within_shot_dx_pct": 0.1,
+      "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
+      "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
+      "within_dy_err_threshold_pct": 1.2,
+      "baseline_dy_pct": 0.014,
+      "issues": []
+    },
+    "face_tracking": {
+      "pass": true,
+      "faces_detected_pct": 81.8,
+      "avg_center_x": 0.5,
+      "issues": []
+    },
+    "framing": {
+      "pass": true,
+      "avg_face_size_pct": 1.9,
+      "max_sustained_deviation_pct": 55.1,
+      "segments": 2,
+      "issues": [
+        {
+          "segment": 1,
+          "severity": "warn",
+          "deviation_pct": 55.1,
+          "problem": "face size deviates 55.1% within shot 1 (could be an intentional punch-in \u2014 eyeball it)"
+        }
+      ],
+      "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
+    },
+    "frozen_frames": {
+      "pass": true,
+      "detected": 0,
+      "issues": []
+    },
+    "black_frames": {
+      "pass": true,
+      "detected": 0,
+      "issues": []
+    },
+    "first_last_frame": {
+      "pass": true,
+      "issues": []
+    },
+    "jump_cuts": {
+      "pass": true,
+      "detected": 20,
+      "issues": [],
+      "note": "20 cut seams (render metadata; 20 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
+    }
+  },
+  "metadata": {
+    "segments": 2,
+    "seam_source": "render metadata",
+    "content_seams": 20,
+    "same_take_seams": 0,
+    "loose_thresholds": false,
+    "resolved_from": "contract/manifest"
+  },
+  "summary": "All visual checks passed"
+}

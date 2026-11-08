@@ -1,0 +1,346 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0044.MP4",
+  "start": 0.0,
+  "end": 20.525,
+  "duration": 20.525,
+  "language": "en",
+  "text": "of a gulp gulp today afford it yeah and it just has paid for itself in spades so it loads all the trucks for dirt and expedites our time so i think i got that for 60 000 yeah and it's a hundred thousand dollars that's not bad it's not bad at all because it's a",
+  "words": [
+    {
+      "word": "of",
+      "start": 0.0,
+      "end": 0.16,
+      "prob": 0.843
+    },
+    {
+      "word": "a",
+      "start": 0.16,
+      "end": 0.24,
+      "prob": 0.991
+    },
+    {
+      "word": "gulp",
+      "start": 0.24,
+      "end": 0.52,
+      "prob": 0.944
+    },
+    {
+      "word": "gulp",
+      "start": 0.52,
+      "end": 0.94,
+      "prob": 0.908
+    },
+    {
+      "word": "today",
+      "start": 0.94,
+      "end": 1.2,
+      "prob": 0.396
+    },
+    {
+      "word": "afford",
+      "start": 1.2,
+      "end": 1.56,
+      "prob": 0.949
+    },
+    {
+      "word": "it",
+      "start": 1.56,
+      "end": 1.72,
+      "prob": 0.899
+    },
+    {
+      "word": "yeah",
+      "start": 1.72,
+      "end": 1.92,
+      "prob": 0.946
+    },
+    {
+      "word": "and",
+      "start": 1.92,
+      "end": 2.94,
+      "prob": 0.994
+    },
+    {
+      "word": "it",
+      "start": 2.94,
+      "end": 3.12,
+      "prob": 0.999
+    },
+    {
+      "word": "just",
+      "start": 3.12,
+      "end": 3.42,
+      "prob": 1.0
+    },
+    {
+      "word": "has",
+      "start": 3.42,
+      "end": 3.94,
+      "prob": 0.994
+    },
+    {
+      "word": "paid",
+      "start": 3.94,
+      "end": 4.22,
+      "prob": 1.0
+    },
+    {
+      "word": "for",
+      "start": 4.22,
+      "end": 4.4,
+      "prob": 1.0
+    },
+    {
+      "word": "itself",
+      "start": 4.4,
+      "end": 4.68,
+      "prob": 0.997
+    },
+    {
+      "word": "in",
+      "start": 4.68,
+      "end": 4.86,
+      "prob": 0.995
+    },
+    {
+      "word": "spades",
+      "start": 4.86,
+      "end": 5.3,
+      "prob": 0.955
+    },
+    {
+      "word": "so",
+      "start": 5.3,
+      "end": 6.48,
+      "prob": 0.99
+    },
+    {
+      "word": "it",
+      "start": 6.48,
+      "end": 6.76,
+      "prob": 1.0
+    },
+    {
+      "word": "loads",
+      "start": 6.76,
+      "end": 7.06,
+      "prob": 0.999
+    },
+    {
+      "word": "all",
+      "start": 7.06,
+      "end": 7.26,
+      "prob": 1.0
+    },
+    {
+      "word": "the",
+      "start": 7.26,
+      "end": 7.4,
+      "prob": 1.0
+    },
+    {
+      "word": "trucks",
+      "start": 7.4,
+      "end": 7.74,
+      "prob": 1.0
+    },
+    {
+      "word": "for",
+      "start": 7.74,
+      "end": 8.02,
+      "prob": 1.0
+    },
+    {
+      "word": "dirt",
+      "start": 8.02,
+      "end": 8.34,
+      "prob": 0.999
+    },
+    {
+      "word": "and",
+      "start": 8.34,
+      "end": 9.56,
+      "prob": 1.0
+    },
+    {
+      "word": "expedites",
+      "start": 9.56,
+      "end": 10.48,
+      "prob": 0.995
+    },
+    {
+      "word": "our",
+      "start": 10.48,
+      "end": 10.62,
+      "prob": 0.999
+    },
+    {
+      "word": "time",
+      "start": 10.62,
+      "end": 10.94,
+      "prob": 0.999
+    },
+    {
+      "word": "so",
+      "start": 10.94,
+      "end": 11.44,
+      "prob": 0.997
+    },
+    {
+      "word": "i",
+      "start": 11.44,
+      "end": 12.6,
+      "prob": 0.936
+    },
+    {
+      "word": "think",
+      "start": 12.82,
+      "end": 12.98,
+      "prob": 1.0
+    },
+    {
+      "word": "i",
+      "start": 12.98,
+      "end": 13.12,
+      "prob": 0.999
+    },
+    {
+      "word": "got",
+      "start": 13.12,
+      "end": 13.3,
+      "prob": 1.0
+    },
+    {
+      "word": "that",
+      "start": 13.3,
+      "end": 13.52,
+      "prob": 1.0
+    },
+    {
+      "word": "for",
+      "start": 13.52,
+      "end": 13.86,
+      "prob": 1.0
+    },
+    {
+      "word": "60",
+      "start": 14.06,
+      "end": 15.4,
+      "prob": 0.585
+    },
+    {
+      "word": "000",
+      "start": 15.4,
+      "end": 15.84,
+      "prob": 0.953
+    },
+    {
+      "word": "yeah",
+      "start": 15.84,
+      "end": 16.78,
+      "prob": 0.728
+    },
+    {
+      "word": "and",
+      "start": 16.78,
+      "end": 17.06,
+      "prob": 0.999
+    },
+    {
+      "word": "it's",
+      "start": 17.06,
+      "end": 17.24,
+      "prob": 0.999
+    },
+    {
+      "word": "a",
+      "start": 17.24,
+      "end": 17.34,
+      "prob": 0.801
+    },
+    {
+      "word": "hundred",
+      "start": 17.34,
+      "end": 17.46,
+      "prob": 0.951
+    },
+    {
+      "word": "thousand",
+      "start": 17.46,
+      "end": 17.74,
+      "prob": 0.469
+    },
+    {
+      "word": "dollars",
+      "start": 17.74,
+      "end": 18.06,
+      "prob": 0.212
+    },
+    {
+      "word": "that's",
+      "start": 18.06,
+      "end": 18.4,
+      "prob": 0.804
+    },
+    {
+      "word": "not",
+      "start": 18.4,
+      "end": 18.4,
+      "prob": 0.992
+    },
+    {
+      "word": "bad",
+      "start": 18.4,
+      "end": 18.6,
+      "prob": 0.997
+    },
+    {
+      "word": "it's",
+      "start": 18.6,
+      "end": 19.24,
+      "prob": 0.98
+    },
+    {
+      "word": "not",
+      "start": 19.24,
+      "end": 19.38,
+      "prob": 1.0
+    },
+    {
+      "word": "bad",
+      "start": 19.38,
+      "end": 19.62,
+      "prob": 0.999
+    },
+    {
+      "word": "at",
+      "start": 19.62,
+      "end": 19.78,
+      "prob": 0.998
+    },
+    {
+      "word": "all",
+      "start": 19.78,
+      "end": 19.96,
+      "prob": 1.0
+    },
+    {
+      "word": "because",
+      "start": 19.96,
+      "end": 20.22,
+      "prob": 0.898
+    },
+    {
+      "word": "it's",
+      "start": 20.22,
+      "end": 20.42,
+      "prob": 0.978
+    },
+    {
+      "word": "a",
+      "start": 20.42,
+      "end": 20.46,
+      "prob": 0.521
+    }
+  ]
+}

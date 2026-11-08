@@ -1,0 +1,26 @@
+{
+  "no-third-leg-recognition-h1b1c1": {
+    "fails": [],
+    "warns": []
+  },
+  "leads-to-hires-proof-h1b1": {
+    "fails": [],
+    "warns": []
+  },
+  "new-services-proof-h1b1": {
+    "fails": [],
+    "warns": []
+  },
+  "personal-side-objection-h1b1": {
+    "fails": [],
+    "warns": []
+  },
+  "too-many-hats-recognition-h1b1": {
+    "fails": [],
+    "warns": []
+  },
+  "contractor-referral-proof-h1b1": {
+    "fails": [],
+    "warns": []
+  }
+}

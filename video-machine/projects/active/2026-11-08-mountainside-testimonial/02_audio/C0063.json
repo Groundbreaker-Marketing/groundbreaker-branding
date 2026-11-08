@@ -1,0 +1,298 @@
+{
+  "source": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/01_footage/C0063.MP4",
+  "start": 0.0,
+  "end": 21.525,
+  "duration": 21.525,
+  "language": "en",
+  "text": "I did. I didn't get home until 10 o'clock last night, but yes, that is, we would love to haul out of there Thursday and Friday. And I ran into Steve, I think it's Steve, is it your excavator operator? Jack. Yeah, happy cheery guy. He's hilarious.",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.94,
+      "end": 1.46,
+      "prob": 0.455
+    },
+    {
+      "word": "did.",
+      "start": 1.46,
+      "end": 1.74,
+      "prob": 0.927
+    },
+    {
+      "word": "I",
+      "start": 2.02,
+      "end": 2.44,
+      "prob": 0.992
+    },
+    {
+      "word": "didn't",
+      "start": 2.44,
+      "end": 2.68,
+      "prob": 0.947
+    },
+    {
+      "word": "get",
+      "start": 2.68,
+      "end": 2.8,
+      "prob": 0.997
+    },
+    {
+      "word": "home",
+      "start": 2.8,
+      "end": 3.0,
+      "prob": 0.999
+    },
+    {
+      "word": "until",
+      "start": 3.0,
+      "end": 3.16,
+      "prob": 0.569
+    },
+    {
+      "word": "10",
+      "start": 3.16,
+      "end": 3.4,
+      "prob": 0.9
+    },
+    {
+      "word": "o",
+      "start": 3.4,
+      "end": 3.48,
+      "prob": 0.864
+    },
+    {
+      "word": "'clock",
+      "start": 3.48,
+      "end": 3.8,
+      "prob": 0.999
+    },
+    {
+      "word": "last",
+      "start": 3.8,
+      "end": 4.1,
+      "prob": 0.997
+    },
+    {
+      "word": "night,",
+      "start": 4.1,
+      "end": 4.42,
+      "prob": 1.0
+    },
+    {
+      "word": "but",
+      "start": 4.56,
+      "end": 4.98,
+      "prob": 0.997
+    },
+    {
+      "word": "yes,",
+      "start": 4.98,
+      "end": 5.32,
+      "prob": 0.909
+    },
+    {
+      "word": "that",
+      "start": 5.62,
+      "end": 5.76,
+      "prob": 0.68
+    },
+    {
+      "word": "is,",
+      "start": 5.76,
+      "end": 6.08,
+      "prob": 0.999
+    },
+    {
+      "word": "we",
+      "start": 6.38,
+      "end": 6.9,
+      "prob": 0.997
+    },
+    {
+      "word": "would",
+      "start": 6.9,
+      "end": 7.2,
+      "prob": 1.0
+    },
+    {
+      "word": "love",
+      "start": 7.2,
+      "end": 7.4,
+      "prob": 0.999
+    },
+    {
+      "word": "to",
+      "start": 7.4,
+      "end": 7.6,
+      "prob": 1.0
+    },
+    {
+      "word": "haul",
+      "start": 7.6,
+      "end": 7.84,
+      "prob": 0.998
+    },
+    {
+      "word": "out",
+      "start": 7.84,
+      "end": 8.1,
+      "prob": 0.999
+    },
+    {
+      "word": "of",
+      "start": 8.1,
+      "end": 8.2,
+      "prob": 0.999
+    },
+    {
+      "word": "there",
+      "start": 8.2,
+      "end": 8.46,
+      "prob": 0.995
+    },
+    {
+      "word": "Thursday",
+      "start": 8.46,
+      "end": 9.02,
+      "prob": 0.99
+    },
+    {
+      "word": "and",
+      "start": 9.02,
+      "end": 9.28,
+      "prob": 0.999
+    },
+    {
+      "word": "Friday.",
+      "start": 9.28,
+      "end": 9.72,
+      "prob": 1.0
+    },
+    {
+      "word": "And",
+      "start": 11.2,
+      "end": 11.76,
+      "prob": 0.838
+    },
+    {
+      "word": "I",
+      "start": 11.76,
+      "end": 11.9,
+      "prob": 0.709
+    },
+    {
+      "word": "ran",
+      "start": 11.9,
+      "end": 12.1,
+      "prob": 0.916
+    },
+    {
+      "word": "into",
+      "start": 12.1,
+      "end": 12.4,
+      "prob": 0.972
+    },
+    {
+      "word": "Steve,",
+      "start": 12.4,
+      "end": 12.78,
+      "prob": 0.998
+    },
+    {
+      "word": "I",
+      "start": 13.08,
+      "end": 13.26,
+      "prob": 0.876
+    },
+    {
+      "word": "think",
+      "start": 13.26,
+      "end": 13.44,
+      "prob": 1.0
+    },
+    {
+      "word": "it's",
+      "start": 13.44,
+      "end": 13.64,
+      "prob": 0.991
+    },
+    {
+      "word": "Steve,",
+      "start": 13.64,
+      "end": 13.86,
+      "prob": 0.999
+    },
+    {
+      "word": "is",
+      "start": 14.12,
+      "end": 14.3,
+      "prob": 0.991
+    },
+    {
+      "word": "it",
+      "start": 14.3,
+      "end": 14.46,
+      "prob": 0.994
+    },
+    {
+      "word": "your",
+      "start": 14.46,
+      "end": 15.36,
+      "prob": 0.709
+    },
+    {
+      "word": "excavator",
+      "start": 15.36,
+      "end": 16.02,
+      "prob": 1.0
+    },
+    {
+      "word": "operator?",
+      "start": 16.02,
+      "end": 16.52,
+      "prob": 0.999
+    },
+    {
+      "word": "Jack.",
+      "start": 17.6,
+      "end": 17.88,
+      "prob": 0.293
+    },
+    {
+      "word": "Yeah,",
+      "start": 18.66,
+      "end": 18.94,
+      "prob": 0.994
+    },
+    {
+      "word": "happy",
+      "start": 19.14,
+      "end": 19.42,
+      "prob": 0.997
+    },
+    {
+      "word": "cheery",
+      "start": 19.42,
+      "end": 19.82,
+      "prob": 0.669
+    },
+    {
+      "word": "guy.",
+      "start": 19.82,
+      "end": 20.12,
+      "prob": 0.999
+    },
+    {
+      "word": "He's",
+      "start": 20.32,
+      "end": 20.44,
+      "prob": 1.0
+    },
+    {
+      "word": "hilarious.",
+      "start": 20.44,
+      "end": 20.88,
+      "prob": 1.0
+    }
+  ]
+}
