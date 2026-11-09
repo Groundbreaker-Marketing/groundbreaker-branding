@@ -34,7 +34,7 @@ GRADE = "eq=contrast=1.05:saturation=1.06:gamma=0.98"
 BRAND = load_brand("groundbreaker-branding")
 FIX = brand_corrections(BRAND)   # lowercase wrong -> canonical
 FIX.update({"ashley": "Ashley", "josh": "Josh", "google": "Google", "zoom": "Zoom", "colorado": "Colorado",
-            "zoho": "Zoho", "facebook": "Facebook", "i": "I"})
+            "zoho": "Zoho", "facebook": "Facebook", "i": "I", "john": "John", "max": "Max"})
 
 # raw footage with no speech worth keeping: (clip, start sec, usable sec). All shown muted.
 BROLL_POOL = [
@@ -81,11 +81,20 @@ def words_for(clip: str):
 _cache = {}
 
 
-def locate_piece(clip: str, text: str):
+AUDIO = P / "04_project-files" / "audio"
+
+
+def mic_wav(clip: str, who: str = "L") -> Path:
+    """Round 2 dialogue track (dialogue.process): the speaker's own mic, both ears, voice chain."""
+    return AUDIO / f"{clip}-{who}.wav"
+
+
+def locate_piece(clip: str, text: str, who: str = "L"):
     if clip not in _cache:
         _cache[clip] = load_words(P / "02_audio" / f"{clip}.json")
     a, b = locate(text, _cache[clip])
-    return tighten(FOOT / f"{clip}.MP4", a, b)
+    wav = mic_wav(clip, who)
+    return tighten(wav if wav.exists() else FOOT / f"{clip}.MP4", a, b)
 
 
 def caption_cues(words, piece_start, t_in, t_out, join_breaks=True):
@@ -213,7 +222,7 @@ def broll_windows(seg=3.6):
     return out
 
 
-def plan_broll(spans, joins, seg=3.6, first_clear=8.0, gap=10.5, offset=0, blocked=()):
+def plan_broll(spans, joins, seg=3.6, first_clear=8.0, gap=10.5, offset=0, blocked=(), seed=()):
     """Plan muted B-roll cutaways on the cut's timeline.
 
     spans:   [(t0, t1)] stretches of talking head (one per talk piece; cards are not in here)
@@ -223,7 +232,7 @@ def plan_broll(spans, joins, seg=3.6, first_clear=8.0, gap=10.5, offset=0, block
     Returns [{at, dur, clip, ss}] sorted by time.
     """
     wins = broll_windows(seg)
-    cuts = []
+    cuts = [tuple(s) for s in seed]      # other picture changes (the wide two-shot): they break up the head too
     merged = []
     for s0, s1 in sorted(spans):          # talk pieces that touch form one run (jump cuts inside it)
         if merged and abs(merged[-1][1] - s0) < 0.01:
@@ -267,7 +276,7 @@ def plan_broll(spans, joins, seg=3.6, first_clear=8.0, gap=10.5, offset=0, block
                         break
             if changed:
                 break
-    cuts.sort()
+    cuts = [c for c in sorted(cuts) if c not in {tuple(s) for s in seed}]
     out = []
     for k, (a, b) in enumerate(cuts):
         clip, ss = wins[(k + offset) % len(wins)]

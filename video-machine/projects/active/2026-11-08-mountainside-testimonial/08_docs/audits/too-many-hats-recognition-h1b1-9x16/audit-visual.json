@@ -1,9 +1,9 @@
 {
-  "clip": "57ee54a5bbf67aee.mp4",
+  "clip": "4a1da1d7dc48fc56.mp4",
   "resolution": "1080x1920",
   "fps": 29.9,
-  "duration_s": 14.0,
-  "total_frames": 415,
+  "duration_s": 14.2,
+  "total_frames": 423,
   "verdict": "PASS",
   "checks": {
     "aspect_ratio": {
@@ -14,11 +14,11 @@
     },
     "crop_stability": {
       "pass": true,
-      "seams_checked": 10,
-      "content_seams": 9,
+      "seams_checked": 11,
+      "content_seams": 11,
       "same_take_seams_gated": 0,
-      "max_seam_dy_pct": 6.54,
-      "zoom_seams": 1,
+      "max_seam_dy_pct": 3.5,
+      "zoom_seams": 0,
       "zoom_moves_within_shots": 0,
       "max_within_shot_dy_pct": 0.05,
       "max_gateable_within_dy_pct": 0.0,
@@ -31,14 +31,14 @@
     },
     "face_tracking": {
       "pass": true,
-      "faces_detected_pct": 84.9,
+      "faces_detected_pct": 85.1,
       "avg_center_x": 0.5,
       "issues": []
     },
     "framing": {
       "pass": true,
       "avg_face_size_pct": 1.9,
-      "max_sustained_deviation_pct": 19.3,
+      "max_sustained_deviation_pct": 18.1,
       "segments": 2,
       "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
@@ -59,15 +59,15 @@
     },
     "jump_cuts": {
       "pass": true,
-      "detected": 10,
+      "detected": 11,
       "issues": [],
-      "note": "10 cut seams (render metadata; 10 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
+      "note": "11 cut seams (render metadata; 11 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
     }
   },
   "metadata": {
     "segments": 2,
     "seam_source": "render metadata",
-    "content_seams": 10,
+    "content_seams": 11,
     "same_take_seams": 0,
     "loose_thresholds": false,
     "resolved_from": "contract/manifest"

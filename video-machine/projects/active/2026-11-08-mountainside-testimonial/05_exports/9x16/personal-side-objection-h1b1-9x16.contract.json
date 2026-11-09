@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T14:52:41+00:00",
+  "generated_at": "2026-11-09T17:04:55+00:00",
   "source": {
     "pipeline": "single_broll_end",
     "project_dir": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/03_selects/personal-side-objection-h1b1",
@@ -37,7 +37,7 @@
   },
   "observed": {
     "delivered_path": "/Users/josh/apps/clients/groundbreaker-branding/video-machine/projects/active/2026-11-08-mountainside-testimonial/05_exports/9x16/personal-side-objection-h1b1-9x16.mp4",
-    "size_bytes": 37486188,
+    "size_bytes": 37467677,
     "duration_seconds": 32.6,
     "width": 1080,
     "height": 1920,

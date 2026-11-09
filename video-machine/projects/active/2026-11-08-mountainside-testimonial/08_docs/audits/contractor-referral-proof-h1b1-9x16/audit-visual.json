@@ -1,9 +1,9 @@
 {
-  "clip": "b493c8e947c3b867.mp4",
+  "clip": "7730a9eac649985b.mp4",
   "resolution": "1080x1920",
   "fps": 29.92,
-  "duration_s": 20.9,
-  "total_frames": 623,
+  "duration_s": 21.0,
+  "total_frames": 629,
   "verdict": "PASS",
   "checks": {
     "aspect_ratio": {
@@ -14,11 +14,11 @@
     },
     "crop_stability": {
       "pass": true,
-      "seams_checked": 30,
-      "content_seams": 24,
+      "seams_checked": 31,
+      "content_seams": 29,
       "same_take_seams_gated": 0,
-      "max_seam_dy_pct": 10.04,
-      "zoom_seams": 6,
+      "max_seam_dy_pct": 9.91,
+      "zoom_seams": 2,
       "zoom_moves_within_shots": 0,
       "max_within_shot_dy_pct": 0.14,
       "max_gateable_within_dy_pct": 0.0,
@@ -26,28 +26,21 @@
       "dy_note": "max_within_shot_dy_pct is the RAW peak (incl. intentional zoom moves); max_gateable_within_dy_pct excludes zooms and is what the gate actually evaluates against the threshold",
       "dx_note": "within-shot horizontal crop drift NOW GATES (>8% = panning/no-lock-x) when seams are known + bg static; small dx for true subject re-centering at a content cut is exempt",
       "within_dy_err_threshold_pct": 1.2,
-      "baseline_dy_pct": 0.012,
+      "baseline_dy_pct": 0.011,
       "issues": []
     },
     "face_tracking": {
       "pass": true,
-      "faces_detected_pct": 69.2,
-      "avg_center_x": 0.51,
+      "faces_detected_pct": 69.0,
+      "avg_center_x": 0.5,
       "issues": []
     },
     "framing": {
       "pass": true,
-      "avg_face_size_pct": 1.8,
-      "max_sustained_deviation_pct": 94.7,
+      "avg_face_size_pct": 1.9,
+      "max_sustained_deviation_pct": 15.9,
       "segments": 2,
-      "issues": [
-        {
-          "segment": 1,
-          "severity": "warn",
-          "deviation_pct": 94.7,
-          "problem": "face size deviates 94.7% within shot 1 (could be an intentional punch-in \u2014 eyeball it)"
-        }
-      ],
+      "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"
     },
     "frozen_frames": {
@@ -66,15 +59,15 @@
     },
     "jump_cuts": {
       "pass": true,
-      "detected": 30,
+      "detected": 31,
       "issues": [],
-      "note": "30 cut seams (render metadata; 30 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
+      "note": "31 cut seams (render metadata; 31 content / 0 same-take) \u2014 content cuts exempt, stability verified by crop_stability"
     }
   },
   "metadata": {
     "segments": 2,
     "seam_source": "render metadata",
-    "content_seams": 30,
+    "content_seams": 31,
     "same_take_seams": 0,
     "loose_thresholds": false,
     "resolved_from": "contract/manifest"

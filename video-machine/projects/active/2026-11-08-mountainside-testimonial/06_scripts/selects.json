@@ -1,6 +1,11 @@
 {
   "source": "04_project-files/crops/C0066-v.mp4",
   "transcript": "02_audio/C0066.json",
+  "audio": {
+    "04_project-files/crops/C0066-v.mp4": "04_project-files/audio/C0066-L.wav",
+    "04_project-files/crops/C0067-v.mp4": "04_project-files/audio/C0067-L.wav",
+    "04_project-files/crops/C0068-v.mp4": "04_project-files/audio/C0068-L.wav"
+  },
   "extra_transcripts": {
     "04_project-files/crops/C0067-v.mp4": "02_audio/C0067.json",
     "04_project-files/crops/C0068-v.mp4": "02_audio/C0068.json"

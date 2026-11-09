@@ -1,13 +1,13 @@
 {
-  "no-third-leg-recognition-h1b1c1": {
+  "no-third-leg-recognition-h1c1": {
     "fails": [],
     "warns": []
   },
-  "leads-to-hires-proof-h1b1": {
+  "leads-to-hires-proof-h1": {
     "fails": [],
     "warns": []
   },
-  "new-services-proof-h1b1": {
+  "new-services-proof-h1": {
     "fails": [],
     "warns": []
   },
