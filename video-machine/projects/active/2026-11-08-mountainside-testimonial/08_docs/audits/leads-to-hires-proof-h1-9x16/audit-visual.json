@@ -1,5 +1,5 @@
 {
-  "clip": "32ba5fe73a7c33f5.mp4",
+  "clip": "c234b1b689531855.mp4",
   "resolution": "1080x1920",
   "fps": 29.97,
   "duration_s": 19.2,
@@ -15,10 +15,10 @@
     "crop_stability": {
       "pass": true,
       "seams_checked": 20,
-      "content_seams": 14,
+      "content_seams": 17,
       "same_take_seams_gated": 0,
       "max_seam_dy_pct": 11.05,
-      "zoom_seams": 6,
+      "zoom_seams": 3,
       "zoom_moves_within_shots": 0,
       "max_within_shot_dy_pct": 0.07,
       "max_gateable_within_dy_pct": 0.0,

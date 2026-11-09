@@ -1,14 +1,14 @@
 {
-  "clip": "2afb2577a14a192e.mp4",
-  "duration_s": 24.5,
-  "speech_level_db": -17.4,
+  "clip": "ed6aa275232a21e0.mp4",
+  "duration_s": 24.6,
+  "speech_level_db": -13.4,
   "verdict": "PASS",
   "checks": {
     "word_clipping": {
       "pass": true,
       "issues": [],
-      "head_edge_db_below_speech": -4.3,
-      "tail_edge_db_below_speech": 22.8,
+      "head_edge_db_below_speech": -3.1,
+      "tail_edge_db_below_speech": 45.2,
       "total_words": 0,
       "note": "no transcription available \u2014 edge measurements only"
     },
@@ -18,15 +18,15 @@
     },
     "clipping_distortion": {
       "pass": true,
-      "railed_fraction_pct": 0.0,
-      "railed_samples_total": 0,
-      "peak_abs": 0.674,
+      "railed_fraction_pct": 0.0037,
+      "railed_samples_total": 694,
+      "peak_abs": 1.208,
       "issues": []
     },
     "level_consistency": {
       "pass": true,
-      "avg_voice_db": -18.8,
-      "range_db": 1.5,
+      "avg_voice_db": -14.9,
+      "range_db": 0.9,
       "issues": []
     },
     "buzz_hum": {
@@ -37,19 +37,19 @@
           "freq_hz": 147.9,
           "grid_hz": 150,
           "off_grid": true,
-          "prominence_db": 4.6
+          "prominence_db": 4.3
         },
         {
           "freq_hz": 302.5,
           "grid_hz": 300,
           "off_grid": true,
-          "prominence_db": 3.1
+          "prominence_db": 3.0
         },
         {
           "freq_hz": 302.5,
           "grid_hz": 300,
           "off_grid": true,
-          "prominence_db": 3.1
+          "prominence_db": 3.0
         }
       ],
       "issues": []
@@ -57,7 +57,7 @@
     "clean_open_close": {
       "pass": true,
       "open_onset_ms": 0,
-      "close_tail_ms": 145,
+      "close_tail_ms": 245,
       "issues": []
     },
     "music_balance": {

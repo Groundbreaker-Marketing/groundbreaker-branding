@@ -1,9 +1,9 @@
 {
-  "clip": "2afb2577a14a192e.mp4",
+  "clip": "ed6aa275232a21e0.mp4",
   "resolution": "1080x1920",
   "fps": 29.97,
-  "duration_s": 24.5,
-  "total_frames": 734,
+  "duration_s": 24.6,
+  "total_frames": 735,
   "verdict": "PASS",
   "checks": {
     "aspect_ratio": {
@@ -15,10 +15,10 @@
     "crop_stability": {
       "pass": true,
       "seams_checked": 20,
-      "content_seams": 19,
+      "content_seams": 17,
       "same_take_seams_gated": 0,
-      "max_seam_dy_pct": 4.6,
-      "zoom_seams": 1,
+      "max_seam_dy_pct": 4.09,
+      "zoom_seams": 3,
       "zoom_moves_within_shots": 0,
       "max_within_shot_dy_pct": 0.08,
       "max_gateable_within_dy_pct": 0.0,
@@ -38,7 +38,7 @@
     "framing": {
       "pass": true,
       "avg_face_size_pct": 1.9,
-      "max_sustained_deviation_pct": 7.8,
+      "max_sustained_deviation_pct": 7.6,
       "segments": 1,
       "issues": [],
       "note": "OVER-ZOOM now GATES (>20% face area = FAIL \u2014 head cropped); face-size DEVIATION within a shot stays advisory (intentional punch-ins)"

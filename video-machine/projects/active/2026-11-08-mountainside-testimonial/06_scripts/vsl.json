@@ -8,116 +8,32 @@
   "lower_thirds": true,
   "music": "e8da90fe-1284-48f9-aa10-0e9262e72a00",
   "crf": 18,
+  "lufs": -16,
   "items": [
-    {
-      "type": "talk",
-      "clip": "C0067",
-      "text": "i have a contractor friend that i met and he raved about josh and ashley and said that is the best hire i've made to grow a business",
-      "lt": [
-        "John Vandervalk",
-        "Mountainside ER+ \u00b7 Monument, Colorado"
-      ],
-      "lt_at": 0.7
-    },
-    {
-      "type": "title",
-      "key": "before",
-      "dur": 1.8
-    },
-    {
-      "type": "talk",
-      "clip": "C0066",
-      "text": "i would say probably two legs on a stool one of them being facebook marketplace and it goes through ebbs and flows sometimes i will pull a lot of work in off of it and sometimes it seems to go kind of dead"
-    },
-    {
-      "type": "talk",
-      "clip": "C0066",
-      "text": "something inside of me kept saying i need that third and fourth leg on the stool for business so that if one of them completely breaks i'm not having to cut my finances and cut team because i'm unprepared"
-    },
-    {
-      "type": "title",
-      "key": "why",
-      "dur": 1.8
-    },
-    {
-      "type": "talk",
-      "clip": "C0067",
-      "text": "i realize in business that with all this new movement we are losing a personal side of it where i don't have someone that i can necessarily bounce ideas off and if i'm trying to put on multiple hats to run a business i'm not being as effective as i can be in the role that i can crush it in"
-    },
-    {
-      "type": "talk",
-      "clip": "C0066",
-      "text": "josh and ashley have helped me with the google side of it and getting google leads"
-    },
-    {
-      "type": "title",
-      "key": "change",
-      "dur": 1.8
-    },
-    {
-      "type": "talk",
-      "clip": "C0066",
-      "text": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading"
-    },
-    {
-      "type": "talk",
-      "clip": "C0066",
-      "text": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver",
-      "in": 412.0,
-      "out": 431.18
-    },
-    {
-      "type": "talk",
-      "clip": "C0070",
-      "text": "i'm a driver here at mountainside er i've been here going on three months i'm mainly a driver but i operate the loader that you can see behind us when needed",
-      "lt": [
-        "Max",
-        "Driver, Mountainside ER+"
-      ],
-      "lt_at": 0.6
-    },
-    {
-      "type": "talk",
-      "clip": "C0066",
-      "text": "and then i kept getting more work so i was able to hire another driver so year over year in the last two years we have doubled each summer and the goal is to double again next year"
-    },
-    {
-      "type": "title",
-      "key": "team",
-      "dur": 1.8
-    },
-    {
-      "type": "talk",
-      "clip": "C0067",
-      "text": "the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things"
-    },
-    {
-      "type": "review",
-      "dur": 6.0
-    },
-    {
-      "type": "title",
-      "key": "who",
-      "dur": 1.8
-    },
-    {
-      "type": "talk",
-      "clip": "C0068",
-      "text": "the pie here in our mind we think that there's only so much work available for all these contractors when it can expand and grow continually"
-    },
-    {
-      "type": "talk",
-      "clip": "C0068",
-      "text": "my encouragement to anyone that's thinking how can marketing help me"
-    },
-    {
-      "type": "talk",
-      "clip": "C0068",
-      "text": "it depends on the capacity you have and the desire you want to truly grow with a good team versus doing everything yourself and running your mind ragged"
-    },
-    {
-      "type": "end",
-      "dur": 5.0
-    }
+    {"type": "talk", "clip": "C0067", "text": "i have a contractor friend that i met and he raved about josh and ashley and said that is the best hire i've made to grow a business", "lt": ["John Vandervalk", "Mountainside ER+ · Monument, Colorado"], "lt_at": 0.7},
+
+    {"type": "talk", "clip": "C0066", "who": "R", "frame": "wide", "blocked": true, "text": "we've been working together about six months how have you seen things grow in the last six months since we've been working together", "lt": ["Ashley Christian", "Groundbreaker Marketing"], "lt_at": 0.5},
+    {"type": "talk", "clip": "C0066", "text": "i would say probably two legs on a stool one of them being facebook marketplace and it goes through ebbs and flows sometimes i will pull a lot of work in off of it and sometimes it seems to go kind of dead", "wide_inserts": [[0.0, 2.2]]},
+    {"type": "talk", "clip": "C0066", "text": "something inside of me kept saying i need that third and fourth leg on the stool for business so that if one of them completely breaks i'm not having to cut my finances and cut team because i'm unprepared"},
+
+    {"type": "talk", "clip": "C0067", "who": "R", "frame": "wide", "blocked": true, "text": "so why hire a marketing agency instead of just do it yourself"},
+    {"type": "talk", "clip": "C0067", "text": "i realize in business that with all this new movement we are losing a personal side of it where i don't have someone that i can necessarily bounce ideas off and if i'm trying to put on multiple hats to run a business i'm not being as effective as i can be in the role that i can crush it in", "wide_inserts": [[0.0, 2.2]]},
+    {"type": "talk", "clip": "C0066", "text": "josh and ashley have helped me with the google side of it and getting google leads"},
+
+    {"type": "talk", "clip": "C0066", "who": "R", "frame": "wide", "blocked": true, "text": "john just tell us real quick about your business and what is it you do"},
+    {"type": "talk", "clip": "C0066", "text": "we have morphed into a lot more machine work and that is i would say in thanks to ashley and her husband josh helping us market and google a little bit better because as we have grown with hauling we have had people ask us if we offer any other services such as site prep or excavation or grading", "wide_inserts": [[0.0, 2.2]]},
+    {"type": "talk", "clip": "C0066", "in": 412.0, "out": 431.18, "text": "after ashley and josh started helping me with google leads and i started booking work from that i realized a there's a shortage of good contractors and b there is no shortage of work and so gaining that confidence to go book those jobs allowed me to hire a machine operator and driver", "wide_inserts": [[9.8, 3.0]]},
+    {"type": "talk", "clip": "C0070", "text": "i'm a driver here at mountainside er i've been here going on three months i'm mainly a driver but i operate the loader that you can see behind us when needed", "lt": ["Max", "Driver, Mountainside ER+"], "lt_at": 0.6},
+    {"type": "talk", "clip": "C0066", "text": "and then i kept getting more work so i was able to hire another driver so year over year in the last two years we have doubled each summer and the goal is to double again next year", "wide_inserts": [[4.3, 2.6]]},
+
+    {"type": "title", "key": "team", "dur": 1.8},
+    {"type": "talk", "clip": "C0067", "text": "the most helpful thing for me and this is how my mind operates running a business is having the zoom calls where i can bounce ideas off get feedback that is constructive and figure out if we need to switch direction or tweak a few things", "wide_inserts": [[0.0, 2.5]]},
+    {"type": "review", "dur": 6.0},
+
+    {"type": "title", "key": "who", "dur": 1.8},
+    {"type": "talk", "clip": "C0068", "text": "the pie here in our mind we think that there's only so much work available for all these contractors when it can expand and grow continually", "wide_inserts": [[0.0, 2.5]]},
+    {"type": "talk", "clip": "C0068", "text": "my encouragement to anyone that's thinking how can marketing help me"},
+    {"type": "talk", "clip": "C0068", "text": "it depends on the capacity you have and the desire you want to truly grow with a good team versus doing everything yourself and running your mind ragged"},
+    {"type": "end", "dur": 5.0}
   ]
 }

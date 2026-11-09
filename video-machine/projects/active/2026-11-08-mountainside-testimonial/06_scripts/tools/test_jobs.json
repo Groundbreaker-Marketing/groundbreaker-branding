@@ -1,0 +1,4 @@
+[
+  {"id": "t-close", "clip": "C0066", "t_in": 28.32, "t_out": 33.32, "kind": "close"},
+  {"id": "t-wide", "clip": "C0066", "t_in": 28.32, "t_out": 31.32, "kind": "wide"}
+]

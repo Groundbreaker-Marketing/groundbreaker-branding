@@ -6,6 +6,19 @@ in at the end of EVERY project (ad-machine SOP step 7): what worked, what broke,
 misunderstood, what was done by hand. A producer who cannot push to the engine repo puts engine
 lessons under "For the engine"; whoever maintains the engine ports them into the SOP.
 
+### 2026-11-09 mountainside-testimonial round 2 (Josh's notes: centering, left-speaker-only audio, dull audio; NOT uploaded)
+Details and the A/B numbers: `projects/active/2026-11-08-mountainside-testimonial/07_notes/REVIEW.md`, "Round 2".
+- Worked: John (and Max) centered in a tracked medium close-up, AI-upscaled with `podcast/upscale.py` (3.5 to 4.2x crops of a
+  1080p two-shot); Ashley's questions on the two-shot open three sections; each speaker's own mic in both ears with a voice
+  chain sized from the mic's measured highs; every file re-rendered, all kit audits and the Meta gate pass.
+- Broke: the Resemble Enhance venv and pip install needed an approval an unattended job cannot get, so the A/B sample 3 is
+  ffmpeg's harmonic exciter, not the model. The long-cut B-roll planner let 17 s of one picture through when the two-shot
+  inserts did not count as picture changes (fixed). The brand-terms caption fix missed "John" (lowercase in Ashley's question).
+- Agent misunderstood: nothing flagged (nobody available to ask).
+- For the engine: video-machine PR #97 (merged): `dialogue/` package, selects.json `"audio"` map, `podcast.upscale --fps`.
+  Next: a 16:9 long-form path in meta_ad so the project scripts (`build_long.py`, `framing.py`, `prep_close.py`) are not copied per client.
+- Git: as in round 1, the project files in this repo were not committed by the unattended run.
+
 ### 2026-11-08 mountainside-testimonial (John Vandervalk, Mountainside ER+: VSL, Meta ads, website clips; NOT uploaded)
 Josh asked, unattended on the Mac Mini, for first drafts from the 2026-10-28 on-site shoot (32 Sony files,
 1080p): a 16:9 video sales letter, 4 to 6 Meta ads, website testimonial clips and an employee clip.

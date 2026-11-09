@@ -27,13 +27,13 @@ can see behind us when
 needed
 
 8
-00:00:14,027 --> 00:00:15,277
+00:00:14,070 --> 00:00:15,320
 I like operating heavy
 
 9
-00:00:15,287 --> 00:00:16,757
+00:00:15,330 --> 00:00:16,800
 equipment so operating that
 
 10
-00:00:16,767 --> 00:00:18,207
+00:00:16,810 --> 00:00:18,250
 loader is my favorite part

@@ -1,7 +1,7 @@
 {
   "format": "4x5",
-  "crop_top_px": 252,
-  "caption_y": 0.6382,
+  "crop_top_px": 253,
+  "caption_y": 0.6375,
   "caption_half_band": 0.0853,
-  "eye_y": 0.2403
+  "eye_y": 0.2397
 }
