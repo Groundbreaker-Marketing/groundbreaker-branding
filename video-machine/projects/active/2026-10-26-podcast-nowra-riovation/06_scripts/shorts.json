@@ -65,7 +65,43 @@
     }
    ],
    "hook_clear": 0.05,
-   "cover": "07_notes/shorts/covers/mound-or-five-thousand.jpg"
+   "cover": "07_notes/shorts/covers/mound-or-five-thousand.jpg",
+   "metricool": {
+    "post_id": 426131862,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 426131862
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426131874
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 426131900
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/7794d81322334315.mp4",
+    "scheduled": "2026-11-25T12:00:00",
+    "caption_sha": "20a55551104f7388",
+    "render_sha": "d06fb6d8beedb82d",
+    "cover": "https://static.metricool.com/video/4530374/202611/032d3460dbd34f58.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/a4ae84d2bd324ffd.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "Ic0VoHtiz38",
+    "url": "https://youtu.be/Ic0VoHtiz38",
+    "scheduled": "2026-11-25T12:00:00",
+    "caption_sha": "20a55551104f7388",
+    "render_sha": "d06fb6d8beedb82d"
+   }
   },
   {
    "id": "designing-to-fail",
@@ -106,7 +142,43 @@
    "end_pad": 0.03,
    "cover_at": 196.0,
    "trim_start": -0.1,
-   "cover": "07_notes/shorts/covers/designing-to-fail.jpg"
+   "cover": "07_notes/shorts/covers/designing-to-fail.jpg",
+   "metricool": {
+    "post_id": 426132067,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 426132067
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426132085
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 426132095
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/42fca5f7a5eb41f5.mp4",
+    "scheduled": "2026-11-26T12:00:00",
+    "caption_sha": "a7258311b74a32c1",
+    "render_sha": "b728d8108700271e",
+    "cover": "https://static.metricool.com/video/4530374/202611/251bbf83e49d4828.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/53f0ece9a2824646.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "EUHTM8yUfq4",
+    "url": "https://youtu.be/EUHTM8yUfq4",
+    "scheduled": "2026-11-26T12:00:00",
+    "caption_sha": "a7258311b74a32c1",
+    "render_sha": "b728d8108700271e"
+   }
   },
   {
    "id": "drain-field-cost",
@@ -156,7 +228,43 @@
     ]
    ],
    "trim_start": 0.62,
-   "cover": "07_notes/shorts/covers/drain-field-cost.jpg"
+   "cover": "07_notes/shorts/covers/drain-field-cost.jpg",
+   "metricool": {
+    "post_id": 426132238,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 426132238
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426132250
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 426132261
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/822f67cbceba4cd3.mp4",
+    "scheduled": "2026-11-27T12:00:00",
+    "caption_sha": "d03f74e23a7f90f4",
+    "render_sha": "f891255bdc69f148",
+    "cover": "https://static.metricool.com/video/4530374/202611/3023ef4866cd492d.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/0484673cab62418a.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "xpe13UK3fRU",
+    "url": "https://youtu.be/xpe13UK3fRU",
+    "scheduled": "2026-11-27T12:00:00",
+    "caption_sha": "d03f74e23a7f90f4",
+    "render_sha": "f891255bdc69f148"
+   }
   },
   {
    "id": "customer-for-life",
@@ -198,7 +306,31 @@
    },
    "end_pad": 0.05,
    "cover_at": 700.0,
-   "cover": "07_notes/shorts/covers/customer-for-life.jpg"
+   "cover": "07_notes/shorts/covers/customer-for-life.jpg",
+   "metricool": {
+    "post_id": 426132391,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426132391
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/aae2a50fadf84d6a.mp4",
+    "scheduled": "2026-11-25T17:00:00",
+    "caption_sha": "ce06d64771b5a8b3",
+    "render_sha": "0b9e886004e55702",
+    "cover": "https://static.metricool.com/video/4530374/202611/4638728ccc45481d.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/5b24ec10b8e54609.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "dT5KIPbJUKI",
+    "url": "https://youtu.be/dT5KIPbJUKI",
+    "scheduled": "2026-11-25T17:00:00",
+    "caption_sha": "ce06d64771b5a8b3",
+    "render_sha": "0b9e886004e55702"
+   }
   },
   {
    "id": "install-time",
@@ -246,7 +378,31 @@
     ]
    ],
    "trim_start": -0.05,
-   "cover": "07_notes/shorts/covers/install-time.jpg"
+   "cover": "07_notes/shorts/covers/install-time.jpg",
+   "metricool": {
+    "post_id": 426132565,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426132565
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/112cdadc942a4749.mp4",
+    "scheduled": "2026-11-26T17:00:00",
+    "caption_sha": "59140530326c2f42",
+    "render_sha": "8ead84a20a0d45c6",
+    "cover": "https://static.metricool.com/video/4530374/202611/9f552d511a6a4205.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/697b95443bdc4e50.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "V77hNHoyv0o",
+    "url": "https://youtu.be/V77hNHoyv0o",
+    "scheduled": "2026-11-26T17:00:00",
+    "caption_sha": "59140530326c2f42",
+    "render_sha": "8ead84a20a0d45c6"
+   }
   },
   {
    "id": "microbe-condos",
@@ -283,7 +439,31 @@
    "end_pad": 0.05,
    "cover_at": 285.0,
    "trim_start": 0.12,
-   "cover": "07_notes/shorts/covers/microbe-condos.jpg"
+   "cover": "07_notes/shorts/covers/microbe-condos.jpg",
+   "metricool": {
+    "post_id": 426132761,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426132761
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/805e7fb356b94491.mp4",
+    "scheduled": "2026-11-27T17:00:00",
+    "caption_sha": "d9a6fde4917fd581",
+    "render_sha": "2448644306d69ad3",
+    "cover": "https://static.metricool.com/video/4530374/202611/59cd71683d974304.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/2da6529b57194fe3.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "pheDsbDRd3E",
+    "url": "https://youtu.be/pheDsbDRd3E",
+    "scheduled": "2026-11-27T17:00:00",
+    "caption_sha": "d9a6fde4917fd581",
+    "render_sha": "2448644306d69ad3"
+   }
   },
   {
    "id": "townhomes-one-tank",
@@ -320,7 +500,31 @@
    "end_pad": 0.08,
    "cover_at": 1068.0,
    "trim_start": -0.1,
-   "cover": "07_notes/shorts/covers/townhomes-one-tank.jpg"
+   "cover": "07_notes/shorts/covers/townhomes-one-tank.jpg",
+   "metricool": {
+    "post_id": 426132918,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426132918
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/717d286e681f45a2.mp4",
+    "scheduled": "2026-11-28T12:00:00",
+    "caption_sha": "9fe7a513cef1952c",
+    "render_sha": "2445612b7efa86b3",
+    "cover": "https://static.metricool.com/video/4530374/202611/f6b2f33ebf994f57.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/0a53851eff254773.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "PoqJfkCRNYQ",
+    "url": "https://youtu.be/PoqJfkCRNYQ",
+    "scheduled": "2026-11-28T12:00:00",
+    "caption_sha": "9fe7a513cef1952c",
+    "render_sha": "2445612b7efa86b3"
+   }
   },
   {
    "id": "try-new-technology",
@@ -358,7 +562,31 @@
    "end_pad": 0.03,
    "cover_at": 1325.0,
    "trim_start": -0.05,
-   "cover": "07_notes/shorts/covers/try-new-technology.jpg"
+   "cover": "07_notes/shorts/covers/try-new-technology.jpg",
+   "metricool": {
+    "post_id": 426133044,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426133044
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/eeffac249b4f4570.mp4",
+    "scheduled": "2026-11-29T12:00:00",
+    "caption_sha": "ac7da040d972aa1a",
+    "render_sha": "0c0a318bbf30f2f7",
+    "cover": "https://static.metricool.com/video/4530374/202611/de9602291939411c.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/797698f47b8b4ca1.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "_nl4HKjKR8o",
+    "url": "https://youtu.be/_nl4HKjKR8o",
+    "scheduled": "2026-11-29T12:00:00",
+    "caption_sha": "ac7da040d972aa1a",
+    "render_sha": "0c0a318bbf30f2f7"
+   }
   },
   {
    "id": "liberia-odor",
@@ -408,7 +636,43 @@
    "end_pad": 0.12,
    "cover_at": 925.0,
    "trim_start": -0.1,
-   "cover": "07_notes/shorts/covers/liberia-odor.jpg"
+   "cover": "07_notes/shorts/covers/liberia-odor.jpg",
+   "metricool": {
+    "post_id": 426133170,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 426133170
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426133186
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 426133197
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/b75deeda3abf4856.mp4",
+    "scheduled": "2026-11-30T12:00:00",
+    "caption_sha": "d4bbece474b8ee95",
+    "render_sha": "3b56f48baf1b96a7",
+    "cover": "https://static.metricool.com/video/4530374/202611/035273cb7aa4411c.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/4df28b517a504024.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "i-eI-Et1pRs",
+    "url": "https://youtu.be/i-eI-Et1pRs",
+    "scheduled": "2026-11-30T12:00:00",
+    "caption_sha": "d4bbece474b8ee95",
+    "render_sha": "3b56f48baf1b96a7"
+   }
   },
   {
    "id": "thirty-years-of-parts",
@@ -444,7 +708,43 @@
    "end_pad": 0.04,
    "cover_at": 1272.0,
    "trim_start": -0.1,
-   "cover": "07_notes/shorts/covers/thirty-years-of-parts.jpg"
+   "cover": "07_notes/shorts/covers/thirty-years-of-parts.jpg",
+   "metricool": {
+    "post_id": 426133380,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 426133380
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 426133388
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 426133402
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/e7e9c111be2d477a.mp4",
+    "scheduled": "2026-12-01T12:00:00",
+    "caption_sha": "b325fcad1adbbd53",
+    "render_sha": "21feacf9d136aa52",
+    "cover": "https://static.metricool.com/video/4530374/202611/f9ccda3dc30b45a4.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/357d36f185a24846.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "gYosxnjnlL0",
+    "url": "https://youtu.be/gYosxnjnlL0",
+    "scheduled": "2026-12-01T12:00:00",
+    "caption_sha": "b325fcad1adbbd53",
+    "render_sha": "21feacf9d136aa52"
+   }
   }
  ]
 }
