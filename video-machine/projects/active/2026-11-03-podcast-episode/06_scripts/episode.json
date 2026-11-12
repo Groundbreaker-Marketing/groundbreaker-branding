@@ -1,10 +1,10 @@
 {
  "_how": "Recipe for podcast.episode (video-machine). Guest episode, Justin Gamblin of Hendricks Septic Tank Service Inc. (Madisonville, Kentucky; the booking has his name and email only, the company's site names no owner), recorded on Zoom 2026-11-03 (meeting 82637989347, one part, 160057, 1280x720 at 25 fps; no AI upscale at 720p). Justin joined by phone: Zoom shows him as 'iPhone (2)' in a portrait picture inside black bars. keep = inclusive word-index ranges of 02_audio/words/160057-synced.json; drop = stammered repeats and false starts; fillers drop automatically; fixes = word index -> caption text (I casing, Kentucky, Hibu, Juvenot, grease trap). Source is 01_footage/zoom-160057-synced.mov: Justin's voice measured 55 ms behind his lips, so his Zoom track is remixed 55 ms earlier (podcast.avsync apply). Three phrase drops that landed inside loud speech (1490-1492, 1664-1670, 2884-2886) stay in the audio; the two later ones are hidden from the captions with \"\" fixes.",
  "slug": "stay-in-your-lane",
- "title": "I Bought a Jetter and a Belt Press. Now We Just Pump Septic Tanks.",
+ "title": "Septic Pumping Is a Trucking Business. Run It Like One.",
  "title_options": [
-  "I Bought a Jetter and a Belt Press. Now We Just Pump Septic Tanks.",
   "Septic Pumping Is a Trucking Business. Run It Like One.",
+  "I Bought a Jetter and a Belt Press. Now We Just Pump Septic Tanks.",
   "Call 100 Past Customers, Book 10 to 15 Septic Pumps",
   "Why This Septic Owner Said No to Extra Money",
   "Installs Are Seasonal. Septic Pumping Isn't.",
@@ -620,7 +620,7 @@
  "publish": {
   "approved": false,
   "youtube": {
-   "title": "Why a Kentucky Septic Owner Quit Installs and Stuck to Pumping",
+   "title": "Septic Pumping Is a Trucking Business. Run It Like One.",
    "description": "Justin Gamblin, owner of Hendricks Septic Tank Service Inc. in Madisonville, Kentucky, joins me to talk about going back to basics. He bought the company in 2012 from the man who started it, tried installs, repairs, drain cleaning and dewatering, and today he runs a three-person family crew that just pumps septic tanks and grease traps.\n\nA lot of you feel pressure to be full service, so we dig into what he gave up, why the numbers made the decision easy, and how he keeps the phones steady when residential calls come in waves.\n\nWhat we cover:\n- Why he stopped doing installs and repairs and went back to pumping\n- Buying an established septic company, and what he would tell the next buyer\n- Why you only add a new service when the numbers line up first\n- Evening out the roller coaster with reminder lists, outbound calls and neighbor discounts\n- Senior and military discounts, and why people ask for them\n- Helping out after the Dawson Springs tornado\n- Routing trucks for fuel, and raising prices when you are behind\n- Hiring CDL drivers and running a family crew\n- His one piece of advice: be a problem solver\n\nFind Justin at hendricksseptictankservice.com.",
    "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
    "category": "EDUCATION",
