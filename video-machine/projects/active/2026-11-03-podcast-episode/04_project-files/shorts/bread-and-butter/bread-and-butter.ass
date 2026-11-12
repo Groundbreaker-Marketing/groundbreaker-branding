@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:23.25,Title,,0,0,0,,{\pos(540,480)}Find your septic\N{\c&H0060ECCD}bread and butter{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}It's{\c&H00FFFFFF&} a hard thing
+Dialogue: 1,0:00:00.17,0:00:00.29,Cap,,0,0,0,,{\pos(540,1400)}It's {\c&H0060ECCD}a{\c&H00FFFFFF&} hard thing
+Dialogue: 1,0:00:00.29,0:00:00.59,Cap,,0,0,0,,{\pos(540,1400)}It's a {\c&H0060ECCD}hard{\c&H00FFFFFF&} thing
+Dialogue: 1,0:00:00.59,0:00:00.85,Cap,,0,0,0,,{\pos(540,1400)}It's a hard {\c&H0060ECCD}thing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.85,0:00:01.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} say no to
+Dialogue: 1,0:00:01.05,0:00:01.33,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}say{\c&H00FFFFFF&} no to
+Dialogue: 1,0:00:01.33,0:00:01.95,Cap,,0,0,0,,{\pos(540,1400)}to say {\c&H0060ECCD}no{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:01.95,0:00:02.33,Cap,,0,0,0,,{\pos(540,1400)}to say no {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.33,0:00:03.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}making{\c&H00FFFFFF&} extra
+Dialogue: 1,0:00:03.27,0:00:03.71,Cap,,0,0,0,,{\pos(540,1400)}making {\c&H0060ECCD}extra{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.71,0:00:04.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}money{\c&H00FFFFFF&} but I think
+Dialogue: 1,0:00:04.77,0:00:05.41,Cap,,0,0,0,,{\pos(540,1400)}money {\c&H0060ECCD}but{\c&H00FFFFFF&} I think
+Dialogue: 1,0:00:05.41,0:00:05.55,Cap,,0,0,0,,{\pos(540,1400)}money but {\c&H0060ECCD}I{\c&H00FFFFFF&} think
+Dialogue: 1,0:00:05.55,0:00:05.79,Cap,,0,0,0,,{\pos(540,1400)}money but I {\c&H0060ECCD}think{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.79,0:00:06.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}once{\c&H00FFFFFF&} you put pen
+Dialogue: 1,0:00:06.11,0:00:06.31,Cap,,0,0,0,,{\pos(540,1400)}once {\c&H0060ECCD}you{\c&H00FFFFFF&} put pen
+Dialogue: 1,0:00:06.31,0:00:06.63,Cap,,0,0,0,,{\pos(540,1400)}once you {\c&H0060ECCD}put{\c&H00FFFFFF&} pen
+Dialogue: 1,0:00:06.63,0:00:06.91,Cap,,0,0,0,,{\pos(540,1400)}once you put {\c&H0060ECCD}pen{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.91,0:00:07.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} paper of what
+Dialogue: 1,0:00:07.07,0:00:07.39,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}paper{\c&H00FFFFFF&} of what
+Dialogue: 1,0:00:07.39,0:00:08.43,Cap,,0,0,0,,{\pos(540,1400)}the paper {\c&H0060ECCD}of{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:08.43,0:00:08.73,Cap,,0,0,0,,{\pos(540,1400)}the paper of {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.73,0:00:09.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} can actually
+Dialogue: 1,0:00:09.53,0:00:09.71,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}can{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:09.71,0:00:10.09,Cap,,0,0,0,,{\pos(540,1400)}you can {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.09,0:00:10.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} versus what
+Dialogue: 1,0:00:10.45,0:00:11.41,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}versus{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:11.41,0:00:11.65,Cap,,0,0,0,,{\pos(540,1400)}do versus {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.65,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} were doing
+Dialogue: 1,0:00:11.83,0:00:12.07,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}were{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:12.07,0:00:12.43,Cap,,0,0,0,,{\pos(540,1400)}you were {\c&H0060ECCD}doing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.43,0:00:12.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know that
+Dialogue: 1,0:00:12.97,0:00:13.15,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:13.15,0:00:13.81,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.81,0:00:14.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} kind of
+Dialogue: 1,0:00:14.11,0:00:14.25,Cap,,0,0,0,,{\pos(540,1400)}that's {\c&H0060ECCD}kind{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:14.25,0:00:14.37,Cap,,0,0,0,,{\pos(540,1400)}that's kind {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.37,0:00:14.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} made me make
+Dialogue: 1,0:00:14.53,0:00:14.77,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}made{\c&H00FFFFFF&} me make
+Dialogue: 1,0:00:14.77,0:00:14.93,Cap,,0,0,0,,{\pos(540,1400)}what made {\c&H0060ECCD}me{\c&H00FFFFFF&} make
+Dialogue: 1,0:00:14.93,0:00:15.17,Cap,,0,0,0,,{\pos(540,1400)}what made me {\c&H0060ECCD}make{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.17,0:00:15.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} decision was
+Dialogue: 1,0:00:15.33,0:00:15.71,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}decision{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:15.71,0:00:16.01,Cap,,0,0,0,,{\pos(540,1400)}the decision {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.01,0:00:16.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} like what is
+Dialogue: 1,0:00:16.21,0:00:17.13,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}like{\c&H00FFFFFF&} what is
+Dialogue: 1,0:00:17.13,0:00:17.39,Cap,,0,0,0,,{\pos(540,1400)}it's like {\c&H0060ECCD}what{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:17.39,0:00:17.59,Cap,,0,0,0,,{\pos(540,1400)}it's like what {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.59,0:00:17.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} my bread
+Dialogue: 1,0:00:17.87,0:00:18.11,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}my{\c&H00FFFFFF&} bread
+Dialogue: 1,0:00:18.11,0:00:18.33,Cap,,0,0,0,,{\pos(540,1400)}actually my {\c&H0060ECCD}bread{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.33,0:00:18.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} butter and we
+Dialogue: 1,0:00:18.45,0:00:18.69,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}butter{\c&H00FFFFFF&} and we
+Dialogue: 1,0:00:18.69,0:00:19.25,Cap,,0,0,0,,{\pos(540,1400)}and butter {\c&H0060ECCD}and{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:19.25,0:00:20.19,Cap,,0,0,0,,{\pos(540,1400)}and butter and {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.19,0:00:20.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}can{\c&H00FFFFFF&} we can pump
+Dialogue: 1,0:00:20.47,0:00:20.81,Cap,,0,0,0,,{\pos(540,1400)}can {\c&H0060ECCD}we{\c&H00FFFFFF&} can pump
+Dialogue: 1,0:00:20.81,0:00:20.95,Cap,,0,0,0,,{\pos(540,1400)}can we {\c&H0060ECCD}can{\c&H00FFFFFF&} pump
+Dialogue: 1,0:00:20.95,0:00:21.17,Cap,,0,0,0,,{\pos(540,1400)}can we can {\c&H0060ECCD}pump{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.17,0:00:21.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} tanks
+Dialogue: 1,0:00:21.51,0:00:21.85,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}tanks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.85,0:00:22.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pretty{\c&H00FFFFFF&} much year
+Dialogue: 1,0:00:22.39,0:00:22.55,Cap,,0,0,0,,{\pos(540,1400)}pretty {\c&H0060ECCD}much{\c&H00FFFFFF&} year
+Dialogue: 1,0:00:22.55,0:00:22.71,Cap,,0,0,0,,{\pos(540,1400)}pretty much {\c&H0060ECCD}year{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.71,0:00:23.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}round{\c&H00FFFFFF&}

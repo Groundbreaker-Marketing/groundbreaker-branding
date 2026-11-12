@@ -1,0 +1,2197 @@
+{
+ "output_seconds": 2045.68,
+ "segments": 56,
+ "pause": {
+  "max_gap": 1.0,
+  "pre": 0.3,
+  "post": 0.45
+ },
+ "loudness_in": {
+  "input_i": "-19.37",
+  "input_tp": "1.40",
+  "input_lra": "6.10"
+ },
+ "joins_not_in_silence": [
+  {
+   "at": 27.66,
+   "out_db": -25.1,
+   "in_db": -68.9,
+   "after": "so madisonville kentucky",
+   "before": "mainly what we"
+  },
+  {
+   "at": 80.05,
+   "out_db": -26.5,
+   "in_db": -29.4,
+   "after": "my installation work",
+   "before": "me and i"
+  },
+  {
+   "at": 189.78,
+   "out_db": -49.3,
+   "in_db": -28.6,
+   "after": "basics um i",
+   "before": "it's a hard"
+  },
+  {
+   "at": 447.1,
+   "out_db": -55.5,
+   "in_db": -33.0,
+   "after": "the overhead of",
+   "before": "the purchase of"
+  },
+  {
+   "at": 463.94,
+   "out_db": -26.4,
+   "in_db": -28.4,
+   "after": "or or people",
+   "before": "because it's their"
+  },
+  {
+   "at": 567.15,
+   "out_db": -66.6,
+   "in_db": -26.7,
+   "after": "i I mean,",
+   "before": "but you know,"
+  },
+  {
+   "at": 638.26,
+   "out_db": -33.8,
+   "in_db": -69.9,
+   "after": "like that sometimes",
+   "before": "yeah but I"
+  },
+  {
+   "at": 913.67,
+   "out_db": -22.0,
+   "in_db": -67.6,
+   "after": "figure that out,",
+   "before": "I could be"
+  },
+  {
+   "at": 1157.37,
+   "out_db": -28.1,
+   "in_db": -33.0,
+   "after": "so I think",
+   "before": "that helps us"
+  },
+  {
+   "at": 1170.24,
+   "out_db": -27.3,
+   "in_db": -39.3,
+   "after": "um I think",
+   "before": "that definitely has"
+  },
+  {
+   "at": 1254.91,
+   "out_db": -27.2,
+   "in_db": -46.4,
+   "after": "neighbor 20 bucks",
+   "before": "it's pretty cool"
+  },
+  {
+   "at": 1530.64,
+   "out_db": -28.6,
+   "in_db": -28.5,
+   "after": "a customer wrote",
+   "before": "about you guys"
+  },
+  {
+   "at": 1787.91,
+   "out_db": -34.8,
+   "in_db": -61.7,
+   "after": "whole lot of,",
+   "before": "local haulers in,"
+  },
+  {
+   "at": 1819.15,
+   "out_db": -42.5,
+   "in_db": -27.9,
+   "after": "out those routes",
+   "before": "what do you"
+  },
+  {
+   "at": 1967.19,
+   "out_db": -27.8,
+   "in_db": -54.1,
+   "after": "um, you know,",
+   "before": "not getting into"
+  }
+ ],
+ "cut_words": [
+  {
+   "take": "160057",
+   "i": 76,
+   "word": "um",
+   "at": 31.405,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 91,
+   "word": "um",
+   "at": 39.385,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 114,
+   "word": "um",
+   "at": 53.345,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 118,
+   "word": "we've",
+   "at": 57.045,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 160,
+   "word": "um",
+   "at": 73.665,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 166,
+   "word": "uh",
+   "at": 77.445,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 186,
+   "word": "uh",
+   "at": 84.865,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 187,
+   "word": "um",
+   "at": 85.125,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 202,
+   "word": "um",
+   "at": 90.525,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 234,
+   "word": "uh",
+   "at": 106.355,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 235,
+   "word": "for",
+   "at": 107.315,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 274,
+   "word": "making",
+   "at": 121.765,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 281,
+   "word": "um",
+   "at": 124.345,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 376,
+   "word": "uh",
+   "at": 156.575,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 496,
+   "word": "um",
+   "at": 193.725,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 498,
+   "word": "it's",
+   "at": 196.485,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 510,
+   "word": "uh",
+   "at": 202.125,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 546,
+   "word": "what",
+   "at": 214.525,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 574,
+   "word": "um,",
+   "at": 224.945,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 581,
+   "word": "Um,",
+   "at": 228.825,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 616,
+   "word": "um,",
+   "at": 240.215,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 628,
+   "word": "to,",
+   "at": 246.865,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 662,
+   "word": "uh",
+   "at": 256.705,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 666,
+   "word": "they're",
+   "at": 257.845,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 696,
+   "word": "that's",
+   "at": 267.405,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 716,
+   "word": "that",
+   "at": 273.965,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 722,
+   "word": "um",
+   "at": 275.425,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 756,
+   "word": "you",
+   "at": 288.84,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 759,
+   "word": "that",
+   "at": 289.68,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 894,
+   "word": "uh",
+   "at": 333.505,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 904,
+   "word": "um",
+   "at": 337.745,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 918,
+   "word": "um",
+   "at": 342.605,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 931,
+   "word": "um",
+   "at": 345.545,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 941,
+   "word": "um",
+   "at": 351.045,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 952,
+   "word": "um",
+   "at": 354.605,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 953,
+   "word": "um",
+   "at": 355.865,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 957,
+   "word": "he",
+   "at": 359.085,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 987,
+   "word": "um",
+   "at": 366.025,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1042,
+   "word": "having",
+   "at": 386.28,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1110,
+   "word": "um",
+   "at": 408.655,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1115,
+   "word": "I",
+   "at": 411.215,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1126,
+   "word": "uh",
+   "at": 414.67,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1133,
+   "word": "it",
+   "at": 419.775,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1145,
+   "word": "um",
+   "at": 423.855,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1164,
+   "word": "um",
+   "at": 431.325,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1174,
+   "word": "um",
+   "at": 435.925,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1224,
+   "word": "Um,",
+   "at": 451.385,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 1227,
+   "word": "I,",
+   "at": 452.585,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1260,
+   "word": "the,",
+   "at": 460.445,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 1319,
+   "word": "or",
+   "at": 476.6,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1322,
+   "word": "because",
+   "at": 477.64,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 1378,
+   "word": "uh",
+   "at": 496.325,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1386,
+   "word": "um",
+   "at": 501.245,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1433,
+   "word": "um",
+   "at": 518.28,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1506,
+   "word": "i",
+   "at": 548.485,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1520,
+   "word": "i",
+   "at": 553.045,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1579,
+   "word": "there's",
+   "at": 569.605,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1581,
+   "word": "um",
+   "at": 571.025,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1612,
+   "word": "i",
+   "at": 581.545,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1615,
+   "word": "uh,",
+   "at": 582.345,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 1627,
+   "word": "you",
+   "at": 586.145,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1628,
+   "word": "know,",
+   "at": 586.225,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1641,
+   "word": "Um,",
+   "at": 592.565,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 1643,
+   "word": "the,",
+   "at": 593.925,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1644,
+   "word": "the,",
+   "at": 594.885,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1687,
+   "word": "Um,",
+   "at": 608.805,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1705,
+   "word": "once",
+   "at": 613.885,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1904,
+   "word": "um",
+   "at": 674.26,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1971,
+   "word": "um",
+   "at": 693.985,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 1979,
+   "word": "um",
+   "at": 699.965,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 1990,
+   "word": "um",
+   "at": 706.905,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2019,
+   "word": "let's",
+   "at": 719.365,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2026,
+   "word": "and",
+   "at": 721.525,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2031,
+   "word": "then",
+   "at": 723.445,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2038,
+   "word": "um",
+   "at": 725.445,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2039,
+   "word": "let's",
+   "at": 726.585,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2043,
+   "word": "let's",
+   "at": 728.525,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2054,
+   "word": "um",
+   "at": 731.365,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2104,
+   "word": "um",
+   "at": 750.015,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2172,
+   "word": "uh",
+   "at": 767.395,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2178,
+   "word": "uh",
+   "at": 770.965,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2198,
+   "word": "you",
+   "at": 776.705,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2343,
+   "word": "any",
+   "at": 822.725,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2483,
+   "word": "uh",
+   "at": 869.13,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2502,
+   "word": "um",
+   "at": 876.63,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2513,
+   "word": "um",
+   "at": 881.575,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2514,
+   "word": "we",
+   "at": 882.855,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2518,
+   "word": "lot",
+   "at": 884.675,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2524,
+   "word": "um",
+   "at": 885.975,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2532,
+   "word": "that's",
+   "at": 891.215,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2533,
+   "word": "that's",
+   "at": 891.475,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2559,
+   "word": "um",
+   "at": 897.835,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2627,
+   "word": "Um,",
+   "at": 921.825,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 2628,
+   "word": "we,",
+   "at": 923.045,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2629,
+   "word": "we,",
+   "at": 923.545,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2630,
+   "word": "um,",
+   "at": 924.145,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2631,
+   "word": "I,",
+   "at": 926.315,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2632,
+   "word": "you",
+   "at": 926.595,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2633,
+   "word": "know,",
+   "at": 926.675,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2634,
+   "word": "and",
+   "at": 926.795,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2635,
+   "word": "that's",
+   "at": 926.855,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2636,
+   "word": "what",
+   "at": 927.035,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2637,
+   "word": "I,",
+   "at": 927.155,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2648,
+   "word": "I'm,",
+   "at": 929.095,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2684,
+   "word": "Um,",
+   "at": 940.075,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 2685,
+   "word": "and",
+   "at": 940.795,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2686,
+   "word": "that,",
+   "at": 940.955,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2687,
+   "word": "and",
+   "at": 941.175,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2688,
+   "word": "I",
+   "at": 941.235,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2689,
+   "word": "think",
+   "at": 941.375,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2690,
+   "word": "that's,",
+   "at": 941.535,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2698,
+   "word": "I",
+   "at": 945.635,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2699,
+   "word": "think",
+   "at": 945.695,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2700,
+   "word": "I",
+   "at": 945.875,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2701,
+   "word": "could,",
+   "at": 945.995,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 2755,
+   "word": "um",
+   "at": 965.285,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2772,
+   "word": "um",
+   "at": 970.795,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2795,
+   "word": "um",
+   "at": 977.395,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2853,
+   "word": "um",
+   "at": 995.335,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2881,
+   "word": "um",
+   "at": 1004.315,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2892,
+   "word": "we",
+   "at": 1013.115,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2906,
+   "word": "i",
+   "at": 1017.275,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 2933,
+   "word": "um",
+   "at": 1027.415,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3029,
+   "word": "um",
+   "at": 1056.35,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3087,
+   "word": "uh",
+   "at": 1074.27,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3143,
+   "word": "and",
+   "at": 1088.47,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3145,
+   "word": "that's",
+   "at": 1088.95,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3196,
+   "word": "the",
+   "at": 1103.79,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3345,
+   "word": "um",
+   "at": 1154.055,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3361,
+   "word": "um",
+   "at": 1159.095,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3362,
+   "word": "the",
+   "at": 1159.955,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3380,
+   "word": "we",
+   "at": 1166.695,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3394,
+   "word": "we",
+   "at": 1172.935,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3462,
+   "word": "that",
+   "at": 1190.895,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 3500,
+   "word": "um",
+   "at": 1201.675,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3503,
+   "word": "that",
+   "at": 1203.985,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 3510,
+   "word": "um",
+   "at": 1205.885,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3517,
+   "word": "uh",
+   "at": 1208.605,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3533,
+   "word": "um",
+   "at": 1212.585,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3557,
+   "word": "we",
+   "at": 1220.605,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3627,
+   "word": "um",
+   "at": 1235.545,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3636,
+   "word": "we",
+   "at": 1239.225,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3652,
+   "word": "that",
+   "at": 1243.405,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3655,
+   "word": "uh",
+   "at": 1244.585,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3692,
+   "word": "i",
+   "at": 1257.6,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3693,
+   "word": "i",
+   "at": 1257.8,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3773,
+   "word": "it's",
+   "at": 1288.91,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 3791,
+   "word": "um",
+   "at": 1295.79,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3836,
+   "word": "um",
+   "at": 1310.57,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3842,
+   "word": "to",
+   "at": 1312.61,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 3948,
+   "word": "Um,",
+   "at": 1348.615,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 3950,
+   "word": "they,",
+   "at": 1349.49,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4001,
+   "word": "So,",
+   "at": 1366.87,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4033,
+   "word": "um",
+   "at": 1377.03,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4055,
+   "word": "you",
+   "at": 1383.73,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4079,
+   "word": "uh",
+   "at": 1390.21,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4100,
+   "word": "we",
+   "at": 1397.715,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4104,
+   "word": "uh",
+   "at": 1399.315,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4125,
+   "word": "a",
+   "at": 1406.385,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4130,
+   "word": "uh",
+   "at": 1408.325,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4156,
+   "word": "um",
+   "at": 1416.645,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4160,
+   "word": "we",
+   "at": 1418.265,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4244,
+   "word": "um",
+   "at": 1440.965,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4264,
+   "word": "start",
+   "at": 1448.705,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4397,
+   "word": "that",
+   "at": 1490.525,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4426,
+   "word": "yeah",
+   "at": 1498.865,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4429,
+   "word": "we",
+   "at": 1499.905,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4455,
+   "word": "Um,",
+   "at": 1508.38,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4483,
+   "word": "Um,",
+   "at": 1518.045,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4487,
+   "word": "it's,",
+   "at": 1520.105,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4542,
+   "word": "um",
+   "at": 1537.025,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4557,
+   "word": "and",
+   "at": 1541.245,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4578,
+   "word": "uh",
+   "at": 1545.9,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4581,
+   "word": "uh",
+   "at": 1548.145,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4586,
+   "word": "um",
+   "at": 1549.605,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4640,
+   "word": "um",
+   "at": 1567.06,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4650,
+   "word": "um",
+   "at": 1570.0,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4661,
+   "word": "um",
+   "at": 1573.82,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4667,
+   "word": "that",
+   "at": 1576.26,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4708,
+   "word": "um",
+   "at": 1587.12,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4729,
+   "word": "um",
+   "at": 1595.24,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4732,
+   "word": "um",
+   "at": 1596.605,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4745,
+   "word": "uh",
+   "at": 1604.105,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4751,
+   "word": "um",
+   "at": 1606.825,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4781,
+   "word": "um",
+   "at": 1617.245,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4819,
+   "word": "it",
+   "at": 1629.665,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4825,
+   "word": "and",
+   "at": 1631.925,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4854,
+   "word": "Um,",
+   "at": 1638.185,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4856,
+   "word": "um,",
+   "at": 1640.135,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4874,
+   "word": "Um,",
+   "at": 1647.325,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4893,
+   "word": "Um,",
+   "at": 1650.885,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4903,
+   "word": "um,",
+   "at": 1655.855,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 4917,
+   "word": "um,",
+   "at": 1661.115,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4925,
+   "word": "um",
+   "at": 1663.975,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4928,
+   "word": "uh",
+   "at": 1666.445,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4933,
+   "word": "that",
+   "at": 1668.365,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4936,
+   "word": "um",
+   "at": 1669.505,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4954,
+   "word": "um",
+   "at": 1675.025,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4956,
+   "word": "um",
+   "at": 1676.185,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4981,
+   "word": "um",
+   "at": 1684.925,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4986,
+   "word": "um",
+   "at": 1687.705,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 4996,
+   "word": "um",
+   "at": 1692.315,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5051,
+   "word": "um",
+   "at": 1718.885,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5083,
+   "word": "um",
+   "at": 1729.985,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5096,
+   "word": "um",
+   "at": 1734.175,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5103,
+   "word": "those",
+   "at": 1737.775,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5109,
+   "word": "um",
+   "at": 1740.515,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5119,
+   "word": "um",
+   "at": 1744.855,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5137,
+   "word": "i'm",
+   "at": 1750.295,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5182,
+   "word": "um",
+   "at": 1764.235,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5215,
+   "word": "um",
+   "at": 1773.825,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5284,
+   "word": "um",
+   "at": 1793.125,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5294,
+   "word": "uh",
+   "at": 1799.135,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5310,
+   "word": "six",
+   "at": 1804.195,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5311,
+   "word": "dollars",
+   "at": 1804.575,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5320,
+   "word": "um",
+   "at": 1808.095,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5326,
+   "word": "um",
+   "at": 1810.475,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5328,
+   "word": "so",
+   "at": 1813.055,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5386,
+   "word": "um,",
+   "at": 1830.635,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 5389,
+   "word": "in,",
+   "at": 1832.415,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5406,
+   "word": "Um,",
+   "at": 1837.575,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 5410,
+   "word": "I'm",
+   "at": 1839.935,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 5411,
+   "word": "not,",
+   "at": 1840.395,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 5433,
+   "word": "Um,",
+   "at": 1847.205,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 5485,
+   "word": "um",
+   "at": 1866.22,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 5577,
+   "word": "uh",
+   "at": 1904.175,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5590,
+   "word": "um",
+   "at": 1909.485,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5595,
+   "word": "it's",
+   "at": 1911.705,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5627,
+   "word": "um",
+   "at": 1919.985,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5645,
+   "word": "uh",
+   "at": 1927.565,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5654,
+   "word": "um",
+   "at": 1932.045,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5655,
+   "word": "so",
+   "at": 1932.805,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5766,
+   "word": "um",
+   "at": 1972.125,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5792,
+   "word": "um",
+   "at": 1981.345,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5880,
+   "word": "one,",
+   "at": 2011.8,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5900,
+   "word": "um,",
+   "at": 2017.465,
+   "why": "filler kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 5903,
+   "word": "not,",
+   "at": 2018.86,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 5931,
+   "word": "Um,",
+   "at": 2027.925,
+   "why": "filler"
+  },
+  {
+   "take": "160057",
+   "i": 5946,
+   "word": "That's,",
+   "at": 2033.405,
+   "why": "drop"
+  },
+  {
+   "take": "160057",
+   "i": 5979,
+   "word": "you",
+   "at": 2043.025,
+   "why": "drop kept (no clean cut)"
+  },
+  {
+   "take": "160057",
+   "i": 6085,
+   "word": "they've",
+   "at": 2071.62,
+   "why": "drop"
+  }
+ ],
+ "joins": [
+  {
+   "at": 27.66,
+   "out_db": -25.1,
+   "in_db": -68.9,
+   "after": "so madisonville kentucky",
+   "before": "mainly what we"
+  },
+  {
+   "at": 80.05,
+   "out_db": -26.5,
+   "in_db": -29.4,
+   "after": "my installation work",
+   "before": "me and i"
+  },
+  {
+   "at": 153.72,
+   "out_db": -80.8,
+   "in_db": -63.8,
+   "after": "problems for us",
+   "before": "that we just"
+  },
+  {
+   "at": 189.78,
+   "out_db": -49.3,
+   "in_db": -28.6,
+   "after": "basics um i",
+   "before": "it's a hard"
+  },
+  {
+   "at": 220.41,
+   "out_db": -63.6,
+   "in_db": -62.6,
+   "after": "real bad, obviously.",
+   "before": "but, you know,"
+  },
+  {
+   "at": 230.47,
+   "out_db": -45.8,
+   "in_db": -62.7,
+   "after": "of work. So,",
+   "before": "I think it,"
+  },
+  {
+   "at": 232.23,
+   "out_db": -76.8,
+   "in_db": -68.0,
+   "after": "it, you know,",
+   "before": "that to be"
+  },
+  {
+   "at": 395.89,
+   "out_db": -60.4,
+   "in_db": -64.4,
+   "after": "differently looking back",
+   "before": "um a lot"
+  },
+  {
+   "at": 438.74,
+   "out_db": -78.4,
+   "in_db": -51.7,
+   "after": "get going enough.",
+   "before": "but again, I,"
+  },
+  {
+   "at": 447.1,
+   "out_db": -55.5,
+   "in_db": -33.0,
+   "after": "the overhead of",
+   "before": "the purchase of"
+  },
+  {
+   "at": 463.94,
+   "out_db": -26.4,
+   "in_db": -28.4,
+   "after": "or or people",
+   "before": "because it's their"
+  },
+  {
+   "at": 524.6,
+   "out_db": -60.9,
+   "in_db": -60.8,
+   "after": "the beginning i",
+   "before": "would definitely probably"
+  },
+  {
+   "at": 528.88,
+   "out_db": -55.3,
+   "in_db": -56.3,
+   "after": "definitely probably a",
+   "before": "little mixture of"
+  },
+  {
+   "at": 557.24,
+   "out_db": -75.2,
+   "in_db": -76.2,
+   "after": "there's there's um",
+   "before": "there's some things"
+  },
+  {
+   "at": 567.15,
+   "out_db": -66.6,
+   "in_db": -26.7,
+   "after": "i I mean,",
+   "before": "but you know,"
+  },
+  {
+   "at": 571.39,
+   "out_db": -62.3,
+   "in_db": -74.0,
+   "after": "through, you know,",
+   "before": "the pain and"
+  },
+  {
+   "at": 576.32,
+   "out_db": -35.7,
+   "in_db": -67.3,
+   "after": "here and there.",
+   "before": "but the, the,"
+  },
+  {
+   "at": 585.54,
+   "out_db": -75.9,
+   "in_db": -75.1,
+   "after": "at, you know,",
+   "before": "did the, the"
+  },
+  {
+   "at": 638.26,
+   "out_db": -33.8,
+   "in_db": -69.9,
+   "after": "like that sometimes",
+   "before": "yeah but I"
+  },
+  {
+   "at": 678.91,
+   "out_db": -77.4,
+   "in_db": -78.7,
+   "after": "be um for",
+   "before": "me i think"
+  },
+  {
+   "at": 681.1,
+   "out_db": -39.6,
+   "in_db": -71.5,
+   "after": "it's more of",
+   "before": "focusing on one"
+  },
+  {
+   "at": 726.1,
+   "out_db": -70.0,
+   "in_db": -71.4,
+   "after": "and I think",
+   "before": "it's beneficial to"
+  },
+  {
+   "at": 772.85,
+   "out_db": -47.7,
+   "in_db": -37.5,
+   "after": "it works out.",
+   "before": "Yeah. Sometimes. So,"
+  },
+  {
+   "at": 899.35,
+   "out_db": -58.9,
+   "in_db": -48.7,
+   "after": "it has helped.",
+   "before": "that's what I"
+  },
+  {
+   "at": 911.98,
+   "out_db": -72.8,
+   "in_db": -70.9,
+   "after": "know, across. Right.",
+   "before": "if I could"
+  },
+  {
+   "at": 913.67,
+   "out_db": -22.0,
+   "in_db": -67.6,
+   "after": "figure that out,",
+   "before": "I could be"
+  },
+  {
+   "at": 915.92,
+   "out_db": -56.5,
+   "in_db": -43.0,
+   "after": "be a multimillionaire,",
+   "before": "but I'm still"
+  },
+  {
+   "at": 976.82,
+   "out_db": -69.3,
+   "in_db": -73.1,
+   "after": "then they i",
+   "before": "the facebook stuff"
+  },
+  {
+   "at": 1157.37,
+   "out_db": -28.1,
+   "in_db": -33.0,
+   "after": "so I think",
+   "before": "that helps us"
+  },
+  {
+   "at": 1170.24,
+   "out_db": -27.3,
+   "in_db": -39.3,
+   "after": "um I think",
+   "before": "that definitely has"
+  },
+  {
+   "at": 1254.91,
+   "out_db": -27.2,
+   "in_db": -46.4,
+   "after": "neighbor 20 bucks",
+   "before": "it's pretty cool"
+  },
+  {
+   "at": 1314.18,
+   "out_db": -45.5,
+   "in_db": -60.3,
+   "after": "care of it.",
+   "before": "and they, they"
+  },
+  {
+   "at": 1406.12,
+   "out_db": -35.5,
+   "in_db": -64.4,
+   "after": "that works great",
+   "before": "some three years"
+  },
+  {
+   "at": 1463.07,
+   "out_db": -56.6,
+   "in_db": -56.8,
+   "after": "or something but",
+   "before": "yeah we definitely"
+  },
+  {
+   "at": 1472.67,
+   "out_db": -53.9,
+   "in_db": -68.6,
+   "after": "and neighbor discounts.",
+   "before": "so how do"
+  },
+  {
+   "at": 1530.64,
+   "out_db": -28.6,
+   "in_db": -28.5,
+   "after": "a customer wrote",
+   "before": "about you guys"
+  },
+  {
+   "at": 1601.02,
+   "out_db": -64.4,
+   "in_db": -65.2,
+   "after": "midst of it.",
+   "before": "so, um, you"
+  },
+  {
+   "at": 1609.69,
+   "out_db": -64.9,
+   "in_db": -62.9,
+   "after": "know, needed help.",
+   "before": "there was a,"
+  },
+  {
+   "at": 1612.35,
+   "out_db": -62.0,
+   "in_db": -63.5,
+   "after": "that needed it.",
+   "before": "it was just,"
+  },
+  {
+   "at": 1616.35,
+   "out_db": -67.5,
+   "in_db": -64.8,
+   "after": "crazy, crazy situation,",
+   "before": "that did a"
+  },
+  {
+   "at": 1666.29,
+   "out_db": -37.7,
+   "in_db": -71.8,
+   "after": "it teach you?",
+   "before": "Well, I would"
+  },
+  {
+   "at": 1787.91,
+   "out_db": -34.8,
+   "in_db": -61.7,
+   "after": "whole lot of,",
+   "before": "local haulers in,"
+  },
+  {
+   "at": 1793.94,
+   "out_db": -63.9,
+   "in_db": -41.3,
+   "after": "us around here.",
+   "before": "but you know,"
+  },
+  {
+   "at": 1795.06,
+   "out_db": -62.6,
+   "in_db": -62.8,
+   "after": "but you know,",
+   "before": "I don't want"
+  },
+  {
+   "at": 1800.58,
+   "out_db": -69.3,
+   "in_db": -39.6,
+   "after": "of deal. Yeah.",
+   "before": "I don't know"
+  },
+  {
+   "at": 1819.15,
+   "out_db": -42.5,
+   "in_db": -27.9,
+   "after": "out those routes",
+   "before": "what do you"
+  },
+  {
+   "at": 1826.0,
+   "out_db": -63.4,
+   "in_db": -60.3,
+   "after": "finding good help",
+   "before": "Yeah, so we"
+  },
+  {
+   "at": 1848.4,
+   "out_db": -55.6,
+   "in_db": -48.1,
+   "after": "agreed to disagree.",
+   "before": "But I've had"
+  },
+  {
+   "at": 1904.35,
+   "out_db": -61.8,
+   "in_db": -72.4,
+   "after": "be, you know,",
+   "before": "cleanliness and stuff"
+  },
+  {
+   "at": 1942.05,
+   "out_db": -63.3,
+   "in_db": -62.7,
+   "after": "you know so",
+   "before": "luckily these the"
+  },
+  {
+   "at": 1967.19,
+   "out_db": -27.8,
+   "in_db": -54.1,
+   "after": "um, you know,",
+   "before": "not getting into"
+  },
+  {
+   "at": 1974.94,
+   "out_db": -65.8,
+   "in_db": -45.5,
+   "after": "share with people?",
+   "before": "I, you know,"
+  },
+  {
+   "at": 1976.37,
+   "out_db": -79.1,
+   "in_db": -66.8,
+   "after": "I, you know,",
+   "before": "just don't give"
+  },
+  {
+   "at": 1979.33,
+   "out_db": -58.3,
+   "in_db": -59.1,
+   "after": "to keep going.",
+   "before": "that's the only"
+  },
+  {
+   "at": 2017.23,
+   "out_db": -36.6,
+   "in_db": -47.8,
+   "after": "generation you know",
+   "before": "they've got to"
+  }
+ ]
+}
