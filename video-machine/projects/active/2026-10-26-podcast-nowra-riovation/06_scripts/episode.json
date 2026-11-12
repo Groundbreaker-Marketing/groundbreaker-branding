@@ -650,6 +650,11 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "youtube_upload": {
+   "video_id": "ehzXxAkfDGQ",
+   "url": "https://youtu.be/ehzXxAkfDGQ",
+   "scheduled": "2026-11-25T08:00:00"
+  }
  }
 }
