@@ -1,13 +1,14 @@
 {
  "_how": "Recipe for podcast.episode (video-machine). Guest episode, Justin Gamblin of Hendricks Septic Tank Service Inc. (Madisonville, Kentucky; the booking has his name and email only, the company's site names no owner), recorded on Zoom 2026-11-03 (meeting 82637989347, one part, 160057, 1280x720 at 25 fps; no AI upscale at 720p). Justin joined by phone: Zoom shows him as 'iPhone (2)' in a portrait picture inside black bars. keep = inclusive word-index ranges of 02_audio/words/160057-synced.json; drop = stammered repeats and false starts; fillers drop automatically; fixes = word index -> caption text (I casing, Kentucky, Hibu, Juvenot, grease trap). Source is 01_footage/zoom-160057-synced.mov: Justin's voice measured 55 ms behind his lips, so his Zoom track is remixed 55 ms earlier (podcast.avsync apply). Three phrase drops that landed inside loud speech (1490-1492, 1664-1670, 2884-2886) stay in the audio; the two later ones are hidden from the captions with \"\" fixes.",
  "slug": "stay-in-your-lane",
- "title": "Why a Kentucky Septic Owner Quit Installs and Stuck to Pumping",
+ "title": "I Bought a Jetter and a Belt Press. Now We Just Pump Septic Tanks.",
  "title_options": [
-  "Why a Kentucky Septic Owner Quit Installs and Stuck to Pumping",
-  "Bought a Septic Company in 2012? What He'd Do Differently",
-  "Full Service or Just Pumping? Advice From a Kentucky Septic Owner",
-  "How a Septic Pumper Evens Out the Phone Roller Coaster",
-  "Stay in Your Lane: A Septic Owner on Pumping and Grease Traps"
+  "I Bought a Jetter and a Belt Press. Now We Just Pump Septic Tanks.",
+  "Septic Pumping Is a Trucking Business. Run It Like One.",
+  "Call 100 Past Customers, Book 10 to 15 Septic Pumps",
+  "Why This Septic Owner Said No to Extra Money",
+  "Installs Are Seasonal. Septic Pumping Isn't.",
+  "Sometimes I Wish I Hadn't Bought This Septic Company"
  ],
  "takes": {
   "160057": {
@@ -638,6 +639,8 @@
   "thumbnail": "07_notes/episode/thumbnail.jpg"
  },
  "thumbnail": {
+  "layout": "cutout",
+  "bg": "black",
   "at": 1133.0,
   "source": "01_footage/zoom-160057.mp4",
   "lines": [
@@ -654,12 +657,35 @@
     "box"
    ]
   ],
-  "photo_crop": [
-   260,
-   0,
-   1460,
-   1080
-  ],
-  "out": "07_notes/episode/thumbnail.jpg"
+  "guest": {
+   "at": 1257.0
+  },
+  "out": "07_notes/episode/thumbnail.jpg",
+  "single": {
+   "note": "the earlier one-person thumbnail (Ashley only, side layout), kept as 07_notes/episode/thumbnail-single.jpg",
+   "at": 1133.0,
+   "source": "01_footage/zoom-160057.mp4",
+   "lines": [
+    [
+     "Stay in",
+     "big"
+    ],
+    [
+     "your",
+     "big"
+    ],
+    [
+     "lane",
+     "box"
+    ]
+   ],
+   "photo_crop": [
+    260,
+    0,
+    1460,
+    1080
+   ],
+   "out": "07_notes/episode/thumbnail-single.jpg"
+  }
  }
 }
