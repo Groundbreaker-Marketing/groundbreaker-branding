@@ -645,11 +645,7 @@
   "source": "01_footage/zoom-160057.mp4",
   "lines": [
    [
-    "SEPTIC PUMPING",
-    "big"
-   ],
-   [
-    "IS A",
+    "PUMPING IS A",
     "big"
    ],
    [
@@ -672,7 +668,8 @@
   "guest": {
    "at": 1257.0,
    "gamma": 1.5,
-   "brighten": 1.15
+   "brighten": 1.15,
+   "contrast": 1.25
   },
   "out": "07_notes/episode/thumbnail.jpg",
   "single": {
@@ -720,9 +717,45 @@
     ],
     "guest": {
      "brighten": 1.0,
-     "gamma": 1.0
+     "gamma": 1.0,
+     "contrast": 1.0
     },
     "out": "07_notes/episode/thumbnail-lane.jpg"
+   },
+   "trucking-v2": {
+    "note": "round 2 (job #144): the full title as the headline, SEPTIC PUMPING on one row; Justin gamma 1.5, brighten 1.15, no contrast",
+    "lines": [
+     [
+      "SEPTIC PUMPING",
+      "big"
+     ],
+     [
+      "IS A",
+      "big"
+     ],
+     [
+      "TRUCKING",
+      "box"
+     ],
+     [
+      "BUSINESS.",
+      "box"
+     ],
+     [
+      "RUN IT",
+      "big"
+     ],
+     [
+      "LIKE ONE.",
+      "big"
+     ]
+    ],
+    "guest": {
+     "gamma": 1.5,
+     "brighten": 1.15,
+     "contrast": 1.0
+    },
+    "out": "07_notes/episode/thumbnail-trucking-v2.jpg"
    }
   }
  }
