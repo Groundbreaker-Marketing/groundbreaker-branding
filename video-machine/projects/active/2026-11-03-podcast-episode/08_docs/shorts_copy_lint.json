@@ -1,0 +1,12 @@
+{
+  "neighbor-deal": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "bread-and-butter": {
+    "fails": [],
+    "warns": []
+  }
+}

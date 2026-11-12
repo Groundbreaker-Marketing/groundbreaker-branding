@@ -1,0 +1,595 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 13 clips from Justin Gamblin's (Hendricks Septic Tank Service Inc., Madisonville, Kentucky) guest episode, take 160057 (Zoom HD 1280x720, speaker view, no upscale). Source is the lip-synced file (zoom-160057-synced.mov, Justin 55 ms earlier) with its words file; keep = inclusive word-index ranges in play order; fillers skip automatically; stammers stay in the audio and are hidden from the captions with \"\" fixes, max_gap 1.0. Justin's phone picture is a portrait window in the middle of the frame, so layout crop at 0.5 frames him exactly. Posting plan: release week 2026-12-09..12-15, every clip to YouTube + TikTok at noon or 5 PM CT; the five strongest (go-empty, walk-right-over, call-100, neighbor-deal, wish-i-hadnt) also to Instagram and Facebook at noon on weekdays. Captions: one per network; {hendricks} tags Hendricks Septic Tank Service (Facebook page id from the company's own site; no Instagram, TikTok or YouTube listed), the full episode linked ({episode}) everywhere but Facebook. approved = Ashley approved it in Ops.",
+ "fillers": true,
+ "max_gap": 1.0,
+ "guests": {
+  "hendricks": {
+   "name": "Hendricks Septic Tank Service",
+   "facebook": {
+    "id": "523699351141242",
+    "name": "Hendricks Septic Tank Service"
+   }
+  }
+ },
+ "cover_with": "with Justin Gamblin of Hendricks Septic Tank Service",
+ "clips": [
+  {
+   "id": "go-empty",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     5164,
+     5280
+    ]
+   ],
+   "title": "Go *empty* to the farthest\nseptic job first",
+   "youtube": {
+    "title": "Why septic trucks should drive empty to the farthest job first",
+    "description": "Justin Gamblin of {hendricks} calls septic pumping trucking, and he says the route is the whole game. Here is the rule he gives his drivers.\n\nFull episode: {episode}\n\n#septic #septicpumping #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "I call it trucking because that is really what it is. Justin Gamblin of {hendricks} tells his guys to run empty to the farthest job and work their way back, because a truck that is loaded at the far end gets worse fuel mileage on the way home. With fuel around $6 a gallon, every route counts.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumping #septicbusiness #trucking",
+    "instagram": "Go empty to the farthest job, then work your way back. Justin Gamblin of {hendricks} calls septic pumping trucking, and he says it is all logistics. A truck that is loaded at the far end gets worse fuel mileage on the way back, so he plans every route around the dump location.\n\nFull episode: {episode}\n\n#septic #septicpumping #septictruck #septicbusiness #fuelcosts",
+    "facebook": "Ask a septic pumper what the job really is and Justin Gamblin of {hendricks} in Madisonville, Kentucky will tell you it is trucking. He pumps septic tanks and grease traps, but the money is in the logistics. He tells his guys all the time to run empty to the farthest job and work their way back toward the dump location, because a truck that is loaded at the far end gets worse fuel mileage on the way home. With fuel around $6 a gallon, that kind of planning adds up.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "5164": "I",
+    "5216": "I",
+    "5280": "back."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.19,
+   "end_pad": 0.1,
+   "publish_at": "2026-12-09T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1761.5,
+   "cover": "07_notes/shorts/covers/go-empty.jpg"
+  },
+  {
+   "id": "walk-right-over",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     1706,
+     1850
+    ]
+   ],
+   "title": "I walk right over to\nthe *septic tank*",
+   "youtube": {
+    "title": "Septic trade secret: how to find a tank by reading the yard",
+    "description": "Justin Gamblin of {hendricks} says once you find one septic tank, you can pretty much find them all. He explains the trade secret behind it, and why his crew gets frustrated when he walks right over to a tank they could not find.\n\nFull episode: {episode}\n\n#septic #septictank #septicpumping"
+   },
+   "captions": {
+    "tiktok": "Once you find one septic tank, you can pretty much find them all. Justin Gamblin of {hendricks} says there is a trade secret to it: knowing what a yard looks like and where you would have put the system, so you do not have to flush a transmitter. His guys cannot find the tank, he walks right over to it, and he still cannot explain how.\n\nFull episode on our YouTube: {episode}\n\n#septic #septictank #septicpumping #septiclife",
+    "instagram": "Once you find one septic tank, you can find them all. Justin Gamblin of {hendricks} says there is a trade secret to it: you learn what a yard looks like, and where you would put a septic system in it, before you ever reach for a transmitter. His crew says they cannot find the tank, and he walks right over to it.\n\nFull episode: {episode}\n\n#septic #septictank #septicpumping #septicpro #septiclife",
+    "facebook": "His guys get frustrated with him, and Justin Gamblin of {hendricks} understands why. They will say they cannot find the septic tank, then he walks out in the yard, goes right to it, and they ask how he did that. He says he honestly does not know. The man he bought the business from showed him an easier way to find tanks early on, and he says once you find one you can pretty much find them all. He would rather read the yard than flush a transmitter.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "1720": "",
+    "1721": "",
+    "1706": "Once",
+    "1850": "sometimes."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.2,
+   "end_pad": 0.04,
+   "publish_at": "2026-12-10T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 617.5,
+   "cover": "07_notes/shorts/covers/walk-right-over.jpg"
+  },
+  {
+   "id": "call-100",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     3381,
+     3498
+    ]
+   ],
+   "title": "Call *100* past septic\ncustomers, 10 to 15 book",
+   "youtube": {
+    "title": "Septic reminder calls: call 100 customers and 10 to 15 book on the spot",
+    "description": "Justin Gamblin of {hendricks} moved his septic customer list into QuickBooks and asks every customer if they want a reminder. When his office calls the list, 10 to 15 out of 100 book right then.\n\nFull episode: {episode}\n\n#septic #septicmarketing #septicpumping"
+   },
+   "captions": {
+    "tiktok": "You might call 100 people, but 10 to 15 of them book right then. A few years back Justin Gamblin of {hendricks} converted his septic customer history into QuickBooks. When a crew services a tank, they ask if the customer wants a reminder, write it on the invoice, and it goes in the computer. Then they call the list.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicmarketing #septicpumping #septicbusiness",
+    "instagram": "Call 100 past customers and 10 to 15 will book right then. Justin Gamblin of {hendricks} built a big list in QuickBooks by asking every septic customer if they want a reminder. The answer goes on the invoice, then into the computer, and the callouts book jobs.\n\nFull episode: {episode}\n\n#septic #septicmarketing #septicpumping #septicbusiness #customerservice",
+    "facebook": "The septic business is a roller coaster, and Justin Gamblin of {hendricks} has felt every dip. One thing that helps: a few years ago his team converted their customer history into QuickBooks. When they pump a tank, they ask if the customer wants a reminder and write it on the invoice, and it goes in the computer. Then they call the list. He says if you call 100 people, 10 to 15 of them will book right then.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "3394": "",
+    "3398": "QuickBooks",
+    "3462": "",
+    "3381": "We",
+    "3498": "then."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": 0,
+   "end_pad": 0.05,
+   "publish_at": "2026-12-11T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1170.0,
+   "cover": "07_notes/shorts/covers/call-100.jpg"
+  },
+  {
+   "id": "neighbor-deal",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     3514,
+     3540
+    ],
+    [
+     3545,
+     3654
+    ]
+   ],
+   "title": "Door hangers flopped,\nthe *neighbor deal* didn't",
+   "youtube": {
+    "title": "Septic neighbor discounts: door hangers flopped, the deal still works",
+    "description": "Justin Gamblin of {hendricks} tried the neighbor discount idea he heard on this podcast. The door hangers did not bring much turnout, but honoring the neighbor deal still gets him jobs.\n\nFull episode: {episode}\n\n#septic #septicmarketing #septicpumping"
+   },
+   "captions": {
+    "tiktok": "Door hangers on the next house did not bring much turnout for Justin Gamblin of {hendricks}. The neighbor discount itself still works. He heard the idea on this podcast, has honored it for a year, and says you would be surprised how often it pays off.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicmarketing #septicpumping #neighbordiscount",
+    "instagram": "Door hangers did not do much. The neighbor discount did. Justin Gamblin of {hendricks} heard the idea on this podcast and has run it for a year. He kept door hangers in the truck and hung one on the house next door, but says honoring the neighbor deal is what still gets him jobs.\n\nFull episode: {episode}\n\n#septic #septicmarketing #septicpumping #neighbordiscount #septicbusiness",
+    "facebook": "Justin Gamblin of {hendricks} listened to this podcast, heard about the neighbor discount, and gave it a real try. He kept door hangers in the truck and hung one on the house next door after a job. He says they did not see much turnout from that. But when a customer brings up the neighbor deal, he honors it, and he says you would be surprised how often that works.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "3546": "",
+    "3547": "I've",
+    "3557": "",
+    "3636": "",
+    "3652": "",
+    "3514": "I",
+    "3540": "that.",
+    "3545": "And",
+    "3654": "works."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": 0,
+   "end_pad": -0.02,
+   "publish_at": "2026-12-14T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1210.9,
+   "cover": "07_notes/shorts/covers/neighbor-deal.jpg"
+  },
+  {
+   "id": "wish-i-hadnt",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     1111,
+     1223
+    ]
+   ],
+   "title": "Do I wish I hadn't\nbought my *septic* company?",
+   "youtube": {
+    "title": "Should you buy a septic company? A Kentucky owner on what he would tell you",
+    "description": "Justin Gamblin of {hendricks} bought his septic company in 2012. Does he wish he hadn't? The answer is yes and no, and he explains what the purchase gave him and what you could do instead.\n\nFull episode: {episode}\n\n#septic #septicbusiness #buyingabusiness"
+   },
+   "captions": {
+    "tiktok": "A lot of times Justin Gamblin of {hendricks} says he wishes he had not bought his septic company. Then he thinks about what came with it: an established name, an existing customer list, and grease traps already on the books. His advice if you are thinking about it: buy a truck, keep your day job, and build from there.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #buyingabusiness #septicpumping",
+    "instagram": "Yes and no. Justin Gamblin of {hendricks} bought his septic company in 2012, and some days he wishes he had not. But it gave him an established name, a customer list and grease traps already on the books. He says you could also buy a truck, keep your day job, and build up from there.\n\nFull episode: {episode}\n\n#septic #septicbusiness #buyingabusiness #septicpumping #smallbusiness",
+    "facebook": "Does Justin Gamblin of {hendricks} regret buying his septic company? Yes and no. He bought it in 2012 from the man who started it, and some days he says he wishes he had not. But it gave him a head start: an established name, an existing customer list, and grease traps that were already on the books. He does not think buying is a necessity. He says you could start with a truck and a day job and grow from there.\n\n#septic"
+   },
+   "approved": false,
+   "fixes": {
+    "1115": "",
+    "1116": "I",
+    "1119": "I",
+    "1121": "I",
+    "1128": "I",
+    "1133": "",
+    "1187": "I",
+    "1111": "A",
+    "1196": "I"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.2,
+   "end_pad": 0.1,
+   "publish_at": "2026-12-15T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 412.9,
+   "cover": "07_notes/shorts/covers/wish-i-hadnt.jpg"
+  },
+  {
+   "id": "stay-in-your-lane",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     1991,
+     2159
+    ]
+   ],
+   "title": "Stay in your *lane*\nin the septic business",
+   "youtube": {
+    "title": "Stop buying new septic equipment before you master one job",
+    "description": "Justin Gamblin of {hendricks} bought a jetter, then a mobile belt press, then tried dewatering. Now he says if you are good at one thing, stay there.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumping"
+   },
+   "captions": {
+    "tiktok": "Let us buy a jetter. Let us do dewatering. Let us buy a mobile belt press. Justin Gamblin of {hendricks} did all of it after he bought his septic company, and now he says if you are good at one thing, stay there. He is teaching his 20-year-old son the same lesson: stay in our lane. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumping #businessadvice"
+   },
+   "approved": false,
+   "fixes": {
+    "1992": "I",
+    "2019": "",
+    "2026": "",
+    "2031": "",
+    "2039": "",
+    "2043": "",
+    "1991": "When",
+    "2159": "lane."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": 0,
+   "end_pad": 0.12,
+   "publish_at": "2026-12-10T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 710.6,
+   "cover": "07_notes/shorts/covers/stay-in-your-lane.jpg"
+  },
+  {
+   "id": "bread-and-butter",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     499,
+     565
+    ]
+   ],
+   "title": "Find your septic\n*bread and butter*",
+   "youtube": {
+    "title": "Hard to say no to extra money: why one septic company went back to pumping",
+    "description": "Justin Gamblin of {hendricks} on the moment he put pen to paper and asked what his septic company actually does best.\n\nFull episode: {episode}\n\n#septic #septicpumping #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "It is a hard thing to say no to extra money. Justin Gamblin of {hendricks} says what changed his mind was putting pen to paper: what can we actually do versus what were we doing? His answer was pumping, since you can pump septic tanks pretty much year round.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumping #septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "512": "I",
+    "546": "",
+    "499": "It's",
+    "565": "round."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": 0.06,
+   "end_pad": 0.08,
+   "publish_at": "2026-12-09T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 201.0,
+   "cover": "07_notes/shorts/covers/bread-and-butter.jpg"
+  },
+  {
+   "id": "roller-coaster",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     2525,
+     2584
+    ],
+    [
+     2638,
+     2682
+    ],
+    [
+     2691,
+     2697
+    ],
+    [
+     2702,
+     2714
+    ]
+   ],
+   "title": "Septic calls are\na *roller coaster*",
+   "youtube": {
+    "title": "Septic calls are a roller coaster: Justin Gamblin on smoothing it out",
+    "description": "Justin Gamblin of {hendricks} on residential septic work: one week you do not have enough trucks, the next the phone is not ringing.\n\nFull episode: {episode}\n\n#septic #septicmarketing #septicpumping"
+   },
+   "captions": {
+    "tiktok": "Residential septic work is a roller coaster. Justin Gamblin of {hendricks} says one week you are so busy you do not have enough trucks, and the next the phone is not ringing at all. He wants it either all the way up or flat across. If he ever figures that out, he says he could be a multimillionaire. Does your phone do this too?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicmarketing #septicpumping #septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "2532": "",
+    "2533": "",
+    "2648": "",
+    "2525": "But",
+    "2584": "all.",
+    "2638": "That's",
+    "2691": "If",
+    "2659": "Like"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.13,
+   "end_pad": -0.01,
+   "publish_at": "2026-12-11T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 889.7,
+   "cover": "07_notes/shorts/covers/roller-coaster.jpg"
+  },
+  {
+   "id": "senior-military",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     4493,
+     4620
+    ]
+   ],
+   "title": "Senior and *military*\ndiscounts on septic pumping",
+   "youtube": {
+    "title": "Why one septic company offers senior and military discounts",
+    "description": "Justin Gamblin of {hendricks} on why he offers senior and military discounts, and how many people ask about them.\n\nFull episode: {episode}\n\n#septic #septicpumping #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "We just think it is a good idea. Justin Gamblin of {hendricks} offers septic customers senior and military discounts, and he says you would be surprised how many people ask about them. He has grandparents of his own and wants to give back to the military. He still feels a little awkward asking someone if they are a senior.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumping #septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "4557": "",
+    "4559": "I",
+    "4563": "I",
+    "4567": "I",
+    "4612": "I",
+    "4493": "We",
+    "4620": "sure.",
+    "4500": "I"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": 0.06,
+   "end_pad": 0.11,
+   "publish_at": "2026-12-12T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1525.6,
+   "cover": "07_notes/shorts/covers/senior-military.jpg"
+  },
+  {
+   "id": "dawson-springs",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     4735,
+     4873
+    ]
+   ],
+   "title": "The night the tornado\nhit *Dawson Springs*",
+   "youtube": {
+    "title": "A septic pumper on the night a tornado hit his wife's hometown",
+    "description": "Justin Gamblin of {hendricks} on the Dawson Springs tornado, his wife's family, and helping people who needed it.\n\nFull episode: {episode}\n\n#septic #septicpumping #kentucky"
+   },
+   "captions": {
+    "tiktok": "Justin Gamblin of {hendricks} was in Dawson Springs the night the tornado hit, looking for his wife's family. Her parents lost their home. A giant tree demolished her brother's house. He spent a lot of time in the area after that, helping people who needed it.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumping #kentucky"
+   },
+   "approved": false,
+   "fixes": {
+    "4785": "I",
+    "4817": "I",
+    "4819": "",
+    "4825": "",
+    "4735": "My",
+    "4854": "Um,"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.19,
+   "end_pad": -0.02,
+   "publish_at": "2026-12-13T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1602.4,
+   "cover": "07_notes/shorts/covers/dawson-springs.jpg"
+  },
+  {
+   "id": "not-cheapest",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     5303,
+     5325
+    ],
+    [
+     5330,
+     5431
+    ]
+   ],
+   "title": "Not the *cheapest* septic\ncompany, not the priciest",
+   "youtube": {
+    "title": "Septic pricing with fuel at $6 a gallon: not the cheapest, not the priciest",
+    "description": "Justin Gamblin of {hendricks} on raising prices when fuel and truck parts keep climbing, in a town with only three or four haulers.\n\nFull episode: {episode}\n\n#septic #septicpricing #septicpumping"
+   },
+   "captions": {
+    "tiktok": "Fuel is about $6 a gallon and truck parts are crazy. Justin Gamblin of {hendricks} says he raised prices because his area was behind, and there are only three or four haulers in town. His rule: not the most expensive, not the cheapest. Where does your price sit?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpricing #septicpumping #septicbusiness"
+   },
+   "approved": false,
+   "fixes": {
+    "5310": "",
+    "5311": "",
+    "5343": "I",
+    "5350": "I",
+    "5365": "I",
+    "5368": "I",
+    "5389": "",
+    "5410": "",
+    "5411": "",
+    "5303": "It's",
+    "5325": "trucks.",
+    "5330": "Have",
+    "5393": "There's",
+    "5406": "Um,"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.13,
+   "end_pad": 0.09,
+   "publish_at": "2026-12-12T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1805.5,
+   "cover": "07_notes/shorts/covers/not-cheapest.jpg"
+  },
+  {
+   "id": "check-the-truck",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     5713,
+     5747
+    ],
+    [
+     5750,
+     5782
+    ],
+    [
+     5794,
+     5819
+    ]
+   ],
+   "title": "Check a driver's *truck*\nbefore you hire",
+   "youtube": {
+    "title": "How to judge a septic driver before you hire: look at their own truck",
+    "description": "Justin Gamblin of {hendricks} on what a driver's own vehicle tells you before you hire.\n\nFull episode: {episode}\n\n#septic #septicbusiness #hiring"
+   },
+   "captions": {
+    "tiktok": "Want to know if someone will take care of your truck? Look at what they pull up in. Justin Gamblin of {hendricks} says if they do not care about theirs much, they probably will not care about yours. He admits maybe that is wrong, but it is how he sees it. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #hiring #cdl"
+   },
+   "approved": false,
+   "fixes": {
+    "5713": "I",
+    "5727": "I",
+    "5779": "I",
+    "5795": "CDL",
+    "5798": "I",
+    "5747": "like.",
+    "5750": "So",
+    "5782": "sometimes.",
+    "5794": "And",
+    "5819": "up."
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": -0.11,
+   "end_pad": 0.12,
+   "publish_at": "2026-12-13T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1961.2,
+   "cover": "07_notes/shorts/covers/check-the-truck.jpg"
+  },
+  {
+   "id": "problem-solver",
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json",
+   "keep": [
+    [
+     5935,
+     6020
+    ],
+    [
+     6101,
+     6147
+    ]
+   ],
+   "title": "Be a septic\n*problem solver*",
+   "youtube": {
+    "title": "Septic owners are problem solvers: fix it yourself or find someone who can",
+    "description": "Justin Gamblin of {hendricks} on never giving up, and what he tells his son and brother-in-law when something breaks.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumping"
+   },
+   "captions": {
+    "tiktok": "Do not give up. Justin Gamblin of {hendricks} says when something breaks, you just have to be a problem solver: fix it yourself or find someone who can. He is teaching his son and brother-in-law the same thing. When they pull up, park and say fix this, his answer is no, we are getting out and fixing it together.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumping #problemsolving"
+   },
+   "approved": false,
+   "fixes": {
+    "5946": "",
+    "5979": "",
+    "6115": "I",
+    "6137": "I'm",
+    "5935": "Just",
+    "6020": "solver.",
+    "6101": "They",
+    "6147": "together.",
+    "5939": "Just,"
+   },
+   "layout": "crop",
+   "crop_x": 0.5,
+   "trim_start": 0.06,
+   "end_pad": -0.01,
+   "publish_at": "2026-12-14T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2033.6,
+   "cover": "07_notes/shorts/covers/problem-solver.jpg"
+  }
+ ]
+}

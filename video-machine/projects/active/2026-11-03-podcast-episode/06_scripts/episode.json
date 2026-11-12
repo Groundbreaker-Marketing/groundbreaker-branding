@@ -1,0 +1,665 @@
+{
+ "_how": "Recipe for podcast.episode (video-machine). Guest episode, Justin Gamblin of Hendricks Septic Tank Service Inc. (Madisonville, Kentucky; the booking has his name and email only, the company's site names no owner), recorded on Zoom 2026-11-03 (meeting 82637989347, one part, 160057, 1280x720 at 25 fps; no AI upscale at 720p). Justin joined by phone: Zoom shows him as 'iPhone (2)' in a portrait picture inside black bars. keep = inclusive word-index ranges of 02_audio/words/160057-synced.json; drop = stammered repeats and false starts; fillers drop automatically; fixes = word index -> caption text (I casing, Kentucky, Hibu, Juvenot, grease trap). Source is 01_footage/zoom-160057-synced.mov: Justin's voice measured 55 ms behind his lips, so his Zoom track is remixed 55 ms earlier (podcast.avsync apply). Three phrase drops that landed inside loud speech (1490-1492, 1664-1670, 2884-2886) stay in the audio; the two later ones are hidden from the captions with \"\" fixes.",
+ "slug": "stay-in-your-lane",
+ "title": "Why a Kentucky Septic Owner Quit Installs and Stuck to Pumping",
+ "title_options": [
+  "Why a Kentucky Septic Owner Quit Installs and Stuck to Pumping",
+  "Bought a Septic Company in 2012? What He'd Do Differently",
+  "Full Service or Just Pumping? Advice From a Kentucky Septic Owner",
+  "How a Septic Pumper Evens Out the Phone Roller Coaster",
+  "Stay in Your Lane: A Septic Owner on Pumping and Grease Traps"
+ ],
+ "takes": {
+  "160057": {
+   "source": "01_footage/zoom-160057-synced.mov",
+   "words": "02_audio/words/160057-synced.json"
+  }
+ },
+ "keep": [
+  [
+   0,
+   6187,
+   "160057"
+  ]
+ ],
+ "drop": {
+  "160057": [
+   [
+    118,
+    118
+   ],
+   [
+    235,
+    235
+   ],
+   [
+    274,
+    274
+   ],
+   [
+    498,
+    498
+   ],
+   [
+    546,
+    546
+   ],
+   [
+    628,
+    628
+   ],
+   [
+    666,
+    666
+   ],
+   [
+    696,
+    696
+   ],
+   [
+    716,
+    716
+   ],
+   [
+    756,
+    756
+   ],
+   [
+    759,
+    759
+   ],
+   [
+    957,
+    957
+   ],
+   [
+    1042,
+    1042
+   ],
+   [
+    1115,
+    1115
+   ],
+   [
+    1133,
+    1133
+   ],
+   [
+    1227,
+    1227
+   ],
+   [
+    1260,
+    1260
+   ],
+   [
+    1319,
+    1319
+   ],
+   [
+    1322,
+    1322
+   ],
+   [
+    1506,
+    1506
+   ],
+   [
+    1520,
+    1520
+   ],
+   [
+    1579,
+    1579
+   ],
+   [
+    1612,
+    1612
+   ],
+   [
+    1627,
+    1628
+   ],
+   [
+    1643,
+    1644
+   ],
+   [
+    1705,
+    1705
+   ],
+   [
+    2019,
+    2019
+   ],
+   [
+    2026,
+    2026
+   ],
+   [
+    2031,
+    2031
+   ],
+   [
+    2039,
+    2039
+   ],
+   [
+    2043,
+    2043
+   ],
+   [
+    2198,
+    2198
+   ],
+   [
+    2343,
+    2343
+   ],
+   [
+    2514,
+    2514
+   ],
+   [
+    2518,
+    2518
+   ],
+   [
+    2532,
+    2532
+   ],
+   [
+    2533,
+    2533
+   ],
+   [
+    2628,
+    2637
+   ],
+   [
+    2648,
+    2648
+   ],
+   [
+    2685,
+    2690
+   ],
+   [
+    2698,
+    2701
+   ],
+   [
+    2892,
+    2892
+   ],
+   [
+    2906,
+    2906
+   ],
+   [
+    3143,
+    3143
+   ],
+   [
+    3145,
+    3145
+   ],
+   [
+    3196,
+    3196
+   ],
+   [
+    3362,
+    3362
+   ],
+   [
+    3380,
+    3380
+   ],
+   [
+    3394,
+    3394
+   ],
+   [
+    3462,
+    3462
+   ],
+   [
+    3503,
+    3503
+   ],
+   [
+    3557,
+    3557
+   ],
+   [
+    3636,
+    3636
+   ],
+   [
+    3652,
+    3652
+   ],
+   [
+    3692,
+    3693
+   ],
+   [
+    3773,
+    3773
+   ],
+   [
+    3842,
+    3842
+   ],
+   [
+    3950,
+    3950
+   ],
+   [
+    4001,
+    4001
+   ],
+   [
+    4055,
+    4055
+   ],
+   [
+    4100,
+    4100
+   ],
+   [
+    4125,
+    4125
+   ],
+   [
+    4160,
+    4160
+   ],
+   [
+    4264,
+    4264
+   ],
+   [
+    4397,
+    4397
+   ],
+   [
+    4426,
+    4426
+   ],
+   [
+    4429,
+    4429
+   ],
+   [
+    4487,
+    4487
+   ],
+   [
+    4557,
+    4557
+   ],
+   [
+    4667,
+    4667
+   ],
+   [
+    4819,
+    4819
+   ],
+   [
+    4825,
+    4825
+   ],
+   [
+    4933,
+    4933
+   ],
+   [
+    5103,
+    5103
+   ],
+   [
+    5137,
+    5137
+   ],
+   [
+    5310,
+    5311
+   ],
+   [
+    5328,
+    5328
+   ],
+   [
+    5389,
+    5389
+   ],
+   [
+    5410,
+    5411
+   ],
+   [
+    5595,
+    5595
+   ],
+   [
+    5655,
+    5655
+   ],
+   [
+    5880,
+    5880
+   ],
+   [
+    5903,
+    5903
+   ],
+   [
+    5946,
+    5946
+   ],
+   [
+    5979,
+    5979
+   ],
+   [
+    6085,
+    6085
+   ]
+  ]
+ },
+ "fixes": {
+  "160057": {
+   "190": "I",
+   "497": "I",
+   "512": "I",
+   "787": "I",
+   "841": "I",
+   "844": "I'll",
+   "848": "I",
+   "906": "I",
+   "923": "I",
+   "927": "I",
+   "934": "I",
+   "968": "I",
+   "1006": "I",
+   "1008": "I",
+   "1116": "I",
+   "1119": "I",
+   "1121": "I",
+   "1128": "I",
+   "1187": "I",
+   "1298": "I",
+   "1361": "I",
+   "1490": "I",
+   "1499": "I",
+   "1506": "I",
+   "1507": "I",
+   "1520": "I",
+   "1521": "I",
+   "1535": "I",
+   "1563": "I",
+   "1573": "I",
+   "1588": "I've",
+   "1599": "I",
+   "1612": "I",
+   "1922": "I",
+   "1924": "I",
+   "1953": "I",
+   "1960": "I",
+   "1964": "I",
+   "1974": "I",
+   "1992": "I",
+   "2283": "I'm",
+   "2322": "I",
+   "2332": "I",
+   "2355": "I",
+   "2458": "I'm",
+   "2462": "I",
+   "2468": "I'm",
+   "2470": "I",
+   "2492": "I",
+   "2756": "I've",
+   "2767": "I've",
+   "2800": "I",
+   "2857": "I'm",
+   "2885": "",
+   "2889": "I",
+   "2906": "I",
+   "2907": "I",
+   "2916": "I",
+   "2919": "I'm",
+   "2944": "I'm",
+   "2945": "I",
+   "2948": "I'm",
+   "2950": "I'm",
+   "2960": "I",
+   "2964": "I",
+   "2992": "I",
+   "3010": "I",
+   "3023": "I",
+   "3088": "I'm",
+   "3090": "I",
+   "3113": "I",
+   "3115": "I",
+   "3118": "I've",
+   "3123": "I've",
+   "3163": "I",
+   "3204": "I",
+   "3206": "I",
+   "3213": "I",
+   "3369": "I",
+   "3546": "I",
+   "3547": "I've",
+   "3656": "I",
+   "3659": "I",
+   "3676": "I",
+   "3692": "I",
+   "3693": "I",
+   "3694": "I",
+   "3742": "I",
+   "3779": "I",
+   "3817": "I",
+   "4073": "I",
+   "4305": "I",
+   "4311": "I",
+   "4559": "I",
+   "4563": "I",
+   "4567": "I",
+   "4612": "I",
+   "4629": "I",
+   "4652": "I",
+   "4688": "I",
+   "4698": "I",
+   "4785": "I",
+   "4817": "I",
+   "4929": "I",
+   "4994": "I",
+   "5127": "I",
+   "5137": "I'm",
+   "5138": "I'm",
+   "5164": "I",
+   "5216": "I",
+   "5343": "I",
+   "5350": "I",
+   "5365": "I",
+   "5368": "I",
+   "5468": "I",
+   "5497": "I",
+   "5578": "I",
+   "5582": "I",
+   "5592": "I",
+   "5713": "I",
+   "5727": "I",
+   "5779": "I",
+   "5798": "I",
+   "6062": "I",
+   "6115": "I",
+   "6137": "I'm",
+   "6168": "I",
+   "6178": "I",
+   "72": "Kentucky",
+   "74": "Madisonville",
+   "75": "Kentucky",
+   "810": "Kentucky",
+   "862": "Hendricks",
+   "2820": "Google",
+   "2851": "Google",
+   "2887": "Facebook",
+   "3022": "Facebook",
+   "3045": "Facebook",
+   "3398": "QuickBooks",
+   "4320": "Justin",
+   "5494": "CDL",
+   "5605": "Facebook",
+   "5795": "CDL",
+   "6157": "Justin",
+   "5": "The",
+   "6": "#2",
+   "7": "",
+   "8": "Septic",
+   "9": "Podcast.",
+   "89": "grease trap",
+   "2745": "Hibu",
+   "2746": "",
+   "3542": "Jon",
+   "3543": "Jouvenaux,",
+   "4111": "Hibu",
+   "821": "El",
+   "822": "Nino",
+   "4675": "Sunday",
+   "1664": "",
+   "1665": "",
+   "1666": "",
+   "1667": "",
+   "1668": "",
+   "1669": "",
+   "1670": "",
+   "2884": "",
+   "2886": "",
+   "1663": "So",
+   "1671": "the"
+  }
+ },
+ "fillers": true,
+ "lower_third": {
+  "y": 970,
+  "people": [
+   {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "at": 12.0
+   },
+   {
+    "name": "Justin Gamblin",
+    "org": "Hendricks Septic Tank Service",
+    "at": 33.0
+   }
+  ]
+ },
+ "chapters": [
+  [
+   0,
+   "160057",
+   "Why he went back to pumping septic tanks and grease traps"
+  ],
+  [
+   853,
+   "160057",
+   "Buying the company from the man who started it"
+  ],
+  [
+   1432,
+   "160057",
+   "Learning the business side the hard way"
+  ],
+  [
+   1905,
+   "160057",
+   "Stay in your lane before you buy the next truck"
+  ],
+  [
+   2480,
+   "160057",
+   "Grease traps and the residential roller coaster"
+  ],
+  [
+   3360,
+   "160057",
+   "Reminder lists, neighbor discounts and calling your own customers"
+  ],
+  [
+   4437,
+   "160057",
+   "Senior, military and neighbor discounts"
+  ],
+  [
+   4620,
+   "160057",
+   "The tornado and helping Dawson Springs"
+  ],
+  [
+   5010,
+   "160057",
+   "Trucking routes, $6 fuel and raising prices"
+  ],
+  [
+   5480,
+   "160057",
+   "Hiring drivers in a family-run crew"
+  ],
+  [
+   5870,
+   "160057",
+   "The one piece of advice: be a problem solver"
+  ]
+ ],
+ "publish": {
+  "approved": false,
+  "youtube": {
+   "title": "Why a Kentucky Septic Owner Quit Installs and Stuck to Pumping",
+   "description": "Justin Gamblin, owner of Hendricks Septic Tank Service Inc. in Madisonville, Kentucky, joins me to talk about going back to basics. He bought the company in 2012 from the man who started it, tried installs, repairs, drain cleaning and dewatering, and today he runs a three-person family crew that just pumps septic tanks and grease traps.\n\nA lot of you feel pressure to be full service, so we dig into what he gave up, why the numbers made the decision easy, and how he keeps the phones steady when residential calls come in waves.\n\nWhat we cover:\n- Why he stopped doing installs and repairs and went back to pumping\n- Buying an established septic company, and what he would tell the next buyer\n- Why you only add a new service when the numbers line up first\n- Evening out the roller coaster with reminder lists, outbound calls and neighbor discounts\n- Senior and military discounts, and why people ask for them\n- Helping out after the Dawson Springs tornado\n- Routing trucks for fuel, and raising prices when you are behind\n- Hiring CDL drivers and running a family crew\n- His one piece of advice: be a problem solver\n\nFind Justin at hendricksseptictankservice.com.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic pumping",
+    "grease trap",
+    "grease trap cleaning",
+    "buying a septic company",
+    "Kentucky",
+    "Hendricks Septic Tank Service",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "thumbnail": "07_notes/episode/thumbnail.jpg"
+ },
+ "thumbnail": {
+  "at": 1133.0,
+  "source": "01_footage/zoom-160057.mp4",
+  "lines": [
+   [
+    "Stay in",
+    "big"
+   ],
+   [
+    "your",
+    "big"
+   ],
+   [
+    "lane",
+    "box"
+   ]
+  ],
+  "photo_crop": [
+   260,
+   0,
+   1460,
+   1080
+  ],
+  "out": "07_notes/episode/thumbnail.jpg"
+ }
+}
