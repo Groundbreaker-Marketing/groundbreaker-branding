@@ -645,20 +645,34 @@
   "source": "01_footage/zoom-160057.mp4",
   "lines": [
    [
-    "Stay in",
+    "SEPTIC PUMPING",
     "big"
    ],
    [
-    "your",
+    "IS A",
     "big"
    ],
    [
-    "lane",
+    "TRUCKING",
     "box"
+   ],
+   [
+    "BUSINESS.",
+    "box"
+   ],
+   [
+    "RUN IT",
+    "big"
+   ],
+   [
+    "LIKE ONE.",
+    "big"
    ]
   ],
   "guest": {
-   "at": 1257.0
+   "at": 1257.0,
+   "gamma": 1.5,
+   "brighten": 1.15
   },
   "out": "07_notes/episode/thumbnail.jpg",
   "single": {
@@ -686,6 +700,30 @@
     1080
    ],
    "out": "07_notes/episode/thumbnail-single.jpg"
+  },
+  "variants": {
+   "lane": {
+    "note": "the first two-person version (headline Stay in your lane, nobody brightened), 2026-11-12 job #140",
+    "lines": [
+     [
+      "Stay in",
+      "big"
+     ],
+     [
+      "your",
+      "big"
+     ],
+     [
+      "lane",
+      "box"
+     ]
+    ],
+    "guest": {
+     "brighten": 1.0,
+     "gamma": 1.0
+    },
+    "out": "07_notes/episode/thumbnail-lane.jpg"
+   }
   }
  }
 }
