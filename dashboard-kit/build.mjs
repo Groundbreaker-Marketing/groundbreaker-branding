@@ -45,7 +45,7 @@ const css = `${min(read('src/tokens.css'))}\n${barCss}`;
 const favicon = (svg, png, touch) => `<link rel="icon" href="${png}" sizes="32x32"><link rel="icon" href="${svg}" type="image/svg+xml"><link rel="apple-touch-icon" href="${touch}">`;
 const faviconInline = favicon(dataUri('../logos/gbm-favicon.svg', 'image/svg+xml'), dataUri('../logos/gbm-favicon-32.png', 'image/png'), dataUri('../logos/gbm-touch-icon.png', 'image/png'));
 const faviconFiles = favicon('/gbm-favicon.svg', '/gbm-favicon-32.png', '/gbm-touch-icon.png');
-const fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400..800&display=swap">';
+const fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400..800&display=swap">';
 
 const js = `// ${banner}
 
@@ -59,6 +59,9 @@ export const BAR_CSS = ${JSON.stringify(barCss)};
 export const LOGO_REVERSE = ${JSON.stringify(inline('../logos/gbm-logo-reverse.svg', 'gbm-logo'))};
 export const MARK_REVERSE = ${JSON.stringify(inline('../logos/gbm-mark-reverse.svg', 'gbm-mark'))};
 export const LOGO_COLOR = ${JSON.stringify(inline('../logos/gbm-logo.svg', 'gbm-logo'))};
+// The GM mark the bar shows (v1.3.0). Its G takes the text color (--gbm-logo: forest on white,
+// near-white in dark mode); the M stays lime.
+export const MARK = ${JSON.stringify(inline('../logos/gbm-mark.svg', 'gbm-mark').replace('fill="#1c352b"', 'fill="currentColor"'))};
 
 // Who may open each app, read from each app's own allowlist when the kit was built.
 export const APPS = ${JSON.stringify(apps)};
@@ -73,14 +76,15 @@ export function appsFor(email, current = '') {
 
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
-// The Forest Bar. \`right\` is trusted HTML from the app (filters, buttons); everything else is escaped.
+// The bar: white, with the GM mark and the app name. \`right\` is trusted HTML from the app (filters, buttons); everything else is escaped.
 // Pass \`current\` (this app's id in APPS) and the signed-in \`email\` to add the app picker: an
 // Apps menu in the bar and a rail after it (place the returned HTML as a direct child of <body>).
 // It lists only the apps that email can open, and only when there are two or more.
 // Pass the page's section \`tabs\` here too (the items for tabs(), or HTML tabs() already made) so
 // the bar and tabs stick to the top of the screen together while the page scrolls.
 export function bar({ app, home = '/', user = '', signOut = '', signOutLabel = 'Sign out', right = '', current = '', email = '', tabs: sections = '' }) {
-  const who = user ? \`<span class="gbm-user">\${esc(user)}</span>\` : '';
+  const initial = String(user || '').trim().charAt(0).toUpperCase();
+  const who = user ? \`<span class="gbm-av" aria-hidden="true">\${esc(initial)}</span><span class="gbm-user">\${esc(user)}</span>\` : '';
   const out = signOut ? \`<a href="\${esc(signOut)}">\${esc(signOutLabel)}</a>\` : '';
   const side = right || who || out ? \`<div class="gbm-right">\${right}\${who}\${out}</div>\` : '';
   const mine = current ? appsFor(email, current) : [];
@@ -89,7 +93,7 @@ export function bar({ app, home = '/', user = '', signOut = '', signOutLabel = '
   const menu = picker ? \`<details class="gbm-apps"><summary>Apps</summary><nav class="gbm-apps-menu" aria-label="Groundbreaker apps">\${links}</nav></details>\` : '';
   const rail = picker ? \`<nav class="gbm-rail" aria-label="Groundbreaker apps"><div class="gbm-rail-in"><span class="gbm-rail-h">Apps</span>\${links}</div></nav>\` : '';
   const strip = Array.isArray(sections) ? tabs(sections) : sections;
-  return \`<div class="gbm-top"><header class="gbm-bar"><a class="gbm-brand" href="\${esc(home)}" aria-label="Groundbreaker Marketing \${esc(app)}, home">\${LOGO_REVERSE}\${MARK_REVERSE}<span class="gbm-sep"></span><span class="gbm-app">\${esc(app)}</span></a>\${menu}\${side}</header>\${strip}</div>\${rail}\`;
+  return \`<div class="gbm-top"><header class="gbm-bar"><a class="gbm-brand" href="\${esc(home)}" aria-label="Groundbreaker Marketing \${esc(app)}, home">\${MARK}<span class="gbm-app">\${esc(app)}</span></a>\${menu}\${side}</header>\${strip}</div>\${rail}\`;
 }
 
 // Section tabs. items: [{ href, label, on, badge }]

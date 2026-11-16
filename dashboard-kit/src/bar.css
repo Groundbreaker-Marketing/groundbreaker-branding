@@ -1,7 +1,11 @@
 /* Bar tokens, namespaced so the bar drops into a page that keeps its own palette
-   (the client-facing Access and Reviews pages load only bar.css + chrome.css). */
-:root{--gbm-bar:#1c352b;--gbm-bar-ink:#f3f5ef;--gbm-bar-ink-2:#cfe0d6;--gbm-bar-line:rgba(243,245,239,.26);--gbm-bar-app:#cdec60;
+   (the client-facing Access page loads only bar.css + chrome.css). The bar and rail are white in
+   light mode and the card color in dark mode, with hairlines; the accent marks the selected tab and app. */
+:root{--gbm-bar:#ffffff;--gbm-bar-ink:#17201b;--gbm-bar-ink-2:#4a5650;--gbm-bar-ink-3:#67716c;--gbm-bar-line:#e2e6e1;--gbm-bar-app:#17201b;
+  --gbm-logo:#1c352b;--gbm-accent:#1c352b;--gbm-accent-tint:#eaf2ec;--gbm-menu-shadow:0 12px 32px rgba(23,32,27,.14);
+  --gbm-rail-w:208px;--gbm-rail-dot:#c9cfca;--gbm-rail-hover:#f3f5f2;
   --gbm-gutter:clamp(16px,2.5vw,28px);--gbm-font:"DM Sans",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--gbm-bar:#132219;--gbm-bar-line:rgba(243,245,239,.18)}}
-:root[data-theme="dark"]{--gbm-bar:#132219;--gbm-bar-line:rgba(243,245,239,.18)}
-:root{--gbm-rail-w:208px;--gbm-rail-dot:rgba(243,245,239,.32);--gbm-rail-hover:rgba(243,245,239,.08)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--gbm-bar:#191c1a;--gbm-bar-ink:#eceeec;--gbm-bar-ink-2:#b3bab5;--gbm-bar-ink-3:#8b938e;--gbm-bar-line:#2a2f2c;--gbm-bar-app:#eceeec;
+  --gbm-logo:#f3f5ef;--gbm-accent:#cdec60;--gbm-accent-tint:#252b1c;--gbm-menu-shadow:0 12px 32px rgba(0,0,0,.5);--gbm-rail-dot:#3c433f;--gbm-rail-hover:#1f2321}}
+:root[data-theme="dark"]{--gbm-bar:#191c1a;--gbm-bar-ink:#eceeec;--gbm-bar-ink-2:#b3bab5;--gbm-bar-ink-3:#8b938e;--gbm-bar-line:#2a2f2c;--gbm-bar-app:#eceeec;
+  --gbm-logo:#f3f5ef;--gbm-accent:#cdec60;--gbm-accent-tint:#252b1c;--gbm-menu-shadow:0 12px 32px rgba(0,0,0,.5);--gbm-rail-dot:#3c433f;--gbm-rail-hover:#1f2321}
