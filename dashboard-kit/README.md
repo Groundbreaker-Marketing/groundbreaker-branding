@@ -2,7 +2,9 @@
 
 One look for every internal Groundbreaker dashboard: the same colors, the same type, and the
 same header with our logo. Josh picked the "Forest Bar" direction on 2026-10-14, then the app picker
-rail from the "Suite Rail" idea on top of it (v1.1.0).
+rail from the "Suite Rail" idea on top of it (v1.1.0). Ashley moved it to light chrome on
+2026-11-16 (v1.3.0): the bar and rail are white, the surfaces are quiet neutrals, and forest is an
+accent only.
 
 ## What is in it
 
@@ -42,9 +44,12 @@ ${bar({ app: 'Ops', user: user.name, signOut: '/cdn-cgi/access/logout',
   a dark browser theme) inline as `data:` URIs, so it needs no route and works under each
   dashboard's CSP (each allows `img-src data:`). Static pages use `FAVICON_FILE_LINKS`, which links
   the three files `sync.mjs` copies beside them.
-- The logo is inline SVG, so it works under a strict CSP (`img-src` does not need to allow
-  anything). Below 560px wide the full logo swaps to the GM mark.
-- Fonts: DM Sans from Google Fonts, the same face as groundbreakermarketing.com. A page's CSP
+- The bar shows the GM mark (inline SVG, `MARK`) and the app name at every width. The full logo
+  sets "Marketing" in lime, which washes out on white, so the bar no longer uses it; a
+  hand-copied header that still carries it shows the mark alone. Inline SVG works under a strict
+  CSP (`img-src` does not need to allow anything).
+- Fonts: DM Sans from Google Fonts, the same face as groundbreakermarketing.com, and DM Mono for
+  IDs and codes (`--mono`). A page's CSP
   needs `style-src https://fonts.googleapis.com` and `font-src https://fonts.gstatic.com`.
 
 ## The app picker
@@ -70,9 +75,15 @@ returns (a bare bar is sticky too), plus `FAVICON_FILE_LINKS` in the `<head>` (r
 
 ## Rules
 
-- The bar is forest in both themes (`--gbm-bar`). `--forest` itself turns lime in dark mode,
-  because pages use it as the accent and link color.
-- Lime is a fill. Lime text only on forest or in dark mode; on light screens use `--lime-ink`.
+- Forest is an accent, never a surface: the primary button, links, the selected tab and app,
+  focus rings and progress. No forest bars, rails, banners, section or card backgrounds, or
+  table headers. If it fills more than a button, it is too much.
+- The bar and rail are white in light mode and the card color in dark mode (`--gbm-bar`), with
+  hairlines. `--forest` turns lime in dark mode, because pages use it as the accent and link color.
+- Lime appears in the logo's mark, and as the accent in dark mode. Never lime text on a light
+  screen; use `--lime-ink` there.
+- Never style a page's own button with the bar tokens (`--gbm-bar`, `--gbm-bar-app`): they are
+  white and ink now. Use `--forest` and `--on-forest`.
 - Good, warning, critical and info mean state only. Brand colors never signal status.
 - The bar and tabs never carry page content: titles, KPIs and filters that belong to the page
   stay in the page.

@@ -1,10 +1,10 @@
 {
-  "version": "1.2.1",
-  "updated": "2026-10-17",
+  "version": "1.3.0",
+  "updated": "2026-11-16",
   "_consumers": "Every dashboard that carries the kit, and where each dist file lands in it. Paths are relative to ~/apps. sync.mjs writes these; each repo then ships its own PR and deploy.",
   "consumers": [
     {
-      "repo": "clients/ops-dashboard",
+      "repo": "ops-dashboard",
       "host": "ops.groundbreakermarketing.com",
       "deploy": "npm run deploy (by hand)",
       "files": {
