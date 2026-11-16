@@ -12,18 +12,6 @@
       }
     },
     {
-      "repo": "onboarding-dashboard",
-      "host": "onboarding.groundbreakermarketing.com",
-      "deploy": "GitHub Actions on merge",
-      "files": {
-        "gbm-dash.css": "site/gbm-dash.css",
-        "gbm-dash.js": "functions/_lib/gbm-dash.js",
-        "gbm-favicon.svg": "site/gbm-favicon.svg",
-        "gbm-favicon-32.png": "site/gbm-favicon-32.png",
-        "gbm-touch-icon.png": "site/gbm-touch-icon.png"
-      }
-    },
-    {
       "repo": "finance-jobs",
       "host": "finance.groundbreakermarketing.com",
       "deploy": "cd dashboard && npm run deploy (by hand)",
@@ -42,7 +30,7 @@
     {
       "repo": "ads-ops",
       "host": "tracking.groundbreakermarketing.com",
-      "deploy": "cd call-tracking/master && npx wrangler deploy (by hand)",
+      "deploy": "GitHub Actions on merge (deploy-tracking-master.yml)",
       "files": {
         "gbm-dash.js": "call-tracking/master/src/gbm-dash.js"
       }
@@ -50,7 +38,7 @@
     {
       "repo": "ads-ops",
       "host": "liam.groundbreakermarketing.com",
-      "deploy": "cd call-tracking/social && npx wrangler deploy (by hand)",
+      "deploy": "GitHub Actions on merge (deploy-social.yml)",
       "files": {
         "gbm-dash.js": "call-tracking/social/src/gbm-dash.js"
       }
@@ -78,7 +66,7 @@
     {
       "repo": "contracts",
       "host": "contracts.groundbreakermarketing.com",
-      "deploy": "cd dashboard && npm run deploy (by hand)",
+      "deploy": "cd dashboard && npm run bundle && wrangler deploy (by hand; npm run deploy also redeploys the pay-link Worker)",
       "files": {
         "gbm-dash.js": "dashboard/src/gbm-dash.js"
       }

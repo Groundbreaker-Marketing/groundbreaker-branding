@@ -10,11 +10,11 @@ accent only.
 
 | File (in `dist/`) | What it is | Who uses it |
 |---|---|---|
-| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, `FAVICON_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops (which carries Website & SEO as a tab), Finance, Leads, Social & Video, Contracts, Security, Onboarding and Access functions |
-| `gbm-dash.css` | Page tokens (light and dark) plus the bar and tabs | Onboarding's static page |
+| `gbm-dash.js` | ES module for Workers and Pages Functions that render HTML strings: `DASH_CSS`, `BAR_CSS`, `FONT_LINKS`, `FAVICON_LINKS`, the inline logos, `APPS`, `appsFor()`, `bar()` and `tabs()` | Ops (which carries Website & SEO as a tab), Finance, Leads, Social & Video, Contracts, Security and Access functions |
+| `gbm-dash.css` | Page tokens (light and dark) plus the bar and tabs | Any static dashboard page (none today; Onboarding's moved into Ops) |
 | `gbm-bar.css` | The bar and tabs alone, with namespaced `--gbm-*` tokens, for a page that keeps its own palette | Access (client-facing) |
 | `gbm-logo*.svg`, `gbm-mark*.svg` | Copies of `../logos` | Reviews |
-| `gbm-favicon.svg`, `gbm-favicon-32.png`, `gbm-touch-icon.png` | The GM favicon as files, for static pages (`FAVICON_FILE_LINKS` links them) | Onboarding and Access static pages |
+| `gbm-favicon.svg`, `gbm-favicon-32.png`, `gbm-touch-icon.png` | The GM favicon as files, for static pages (`FAVICON_FILE_LINKS` links them) | Access static pages |
 
 Sources live in `src/` (`tokens.css`, `bar.css`, `chrome.css`) and `../logos/`. `dist/` is built,
 not committed (`sync.mjs` builds it first). Never edit a consumer's copy by hand.
