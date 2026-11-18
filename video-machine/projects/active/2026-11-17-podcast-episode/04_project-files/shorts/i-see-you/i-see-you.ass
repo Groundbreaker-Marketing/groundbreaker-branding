@@ -8,12 +8,12 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
-Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
 Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:37.60,Title,,0,0,0,,{\pos(540,480)}When did you last {\c&H0060ECCD}see{\c&H00FFFFFF&}\Nyourself in the mirror?
+Dialogue: 2,0:00:00.00,0:00:37.60,Title,,0,0,0,,{\an5\pos(540,328)}When did you last {\c&H0060ECCD}see{\c&H00FFFFFF&}\Nyourself in the mirror?
 Dialogue: 1,0:00:00.10,0:00:00.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}think{\c&H00FFFFFF&} about this
 Dialogue: 1,0:00:00.22,0:00:00.40,Cap,,0,0,0,,{\pos(540,1400)}think {\c&H0060ECCD}about{\c&H00FFFFFF&} this
 Dialogue: 1,0:00:00.40,0:00:00.68,Cap,,0,0,0,,{\pos(540,1400)}think about {\c&H0060ECCD}this{\c&H00FFFFFF&}
