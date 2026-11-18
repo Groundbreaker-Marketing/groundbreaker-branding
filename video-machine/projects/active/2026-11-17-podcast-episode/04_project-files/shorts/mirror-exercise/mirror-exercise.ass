@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:30.49,Title,,0,0,0,,{\pos(540,480)}Mirror, mirror: show me\Nmy {\c&H0060ECCD}weakest{\c&H00FFFFFF&} self
+Dialogue: 2,0:00:00.00,0:00:30.40,Title,,0,0,0,,{\pos(540,480)}Mirror, mirror: show me\Nmy {\c&H0060ECCD}weakest{\c&H00FFFFFF&} self
 Dialogue: 1,0:00:00.00,0:00:00.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}But{\c&H00FFFFFF&} if you look
 Dialogue: 1,0:00:00.22,0:00:00.36,Cap,,0,0,0,,{\pos(540,1400)}But {\c&H0060ECCD}if{\c&H00FFFFFF&} you look
 Dialogue: 1,0:00:00.36,0:00:00.44,Cap,,0,0,0,,{\pos(540,1400)}But if {\c&H0060ECCD}you{\c&H00FFFFFF&} look

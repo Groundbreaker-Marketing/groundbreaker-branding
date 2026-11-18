@@ -31,7 +31,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.562,
    "trim_start": -0.2,
    "end_pad": 0.12,
    "publish_at": "2026-11-18T12:00:00",
@@ -43,7 +43,8 @@
    ],
    "cover_at": 259.1,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/32-million.jpg"
+   "cover": "07_notes/shorts/covers/32-million.jpg",
+   "crop_t": []
   },
   {
    "id": "not-24-7",
@@ -65,7 +66,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.617,
    "trim_start": -0.12,
    "end_pad": 0.12,
    "publish_at": "2026-11-18T17:00:00",
@@ -75,7 +76,17 @@
    ],
    "cover_at": 1015.6,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/not-24-7.jpg"
+   "cover": "07_notes/shorts/covers/not-24-7.jpg",
+   "crop_t": [
+    [
+     1008.91,
+     0.465
+    ],
+    [
+     1011.71,
+     0.549
+    ]
+   ]
   },
   {
    "id": "500k-identity",
@@ -99,7 +110,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.594,
    "trim_start": -0.12,
    "end_pad": 0.12,
    "publish_at": "2026-11-19T12:00:00",
@@ -113,7 +124,21 @@
    "fixes": {
     "2229": ""
    },
-   "cover": "07_notes/shorts/covers/500k-identity.jpg"
+   "cover": "07_notes/shorts/covers/500k-identity.jpg",
+   "crop_t": [
+    [
+     702.55,
+     0.533
+    ],
+    [
+     734.37,
+     0.455
+    ],
+    [
+     737.17,
+     0.584
+    ]
+   ]
   },
   {
    "id": "blind-trust-ai",
@@ -135,7 +160,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.564,
    "trim_start": -0.22,
    "end_pad": 0.2,
    "publish_at": "2026-11-19T17:00:00",
@@ -145,7 +170,13 @@
    ],
    "cover_at": 1215.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/blind-trust-ai.jpg"
+   "cover": "07_notes/shorts/covers/blind-trust-ai.jpg",
+   "crop_t": [
+    [
+     1240.09,
+     0.457
+    ]
+   ]
   },
   {
    "id": "find-good-people",
@@ -169,7 +200,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.548,
    "trim_start": -0.12,
    "end_pad": 0.12,
    "publish_at": "2026-11-20T12:00:00",
@@ -181,7 +212,25 @@
    ],
    "cover_at": 622.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/find-good-people.jpg"
+   "cover": "07_notes/shorts/covers/find-good-people.jpg",
+   "crop_t": [
+    [
+     604.59,
+     0.441
+    ],
+    [
+     607.43,
+     0.548
+    ],
+    [
+     615.39,
+     0.446
+    ],
+    [
+     618.23,
+     0.588
+    ]
+   ]
   },
   {
    "id": "i-see-you",
@@ -203,7 +252,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.556,
    "trim_start": -0.12,
    "end_pad": 0.12,
    "publish_at": "2026-11-20T17:00:00",
@@ -213,7 +262,13 @@
    ],
    "cover_at": 1599.9,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/i-see-you.jpg"
+   "cover": "07_notes/shorts/covers/i-see-you.jpg",
+   "crop_t": [
+    [
+     1618.35,
+     0.617
+    ]
+   ]
   },
   {
    "id": "eulogy",
@@ -221,7 +276,7 @@
    "words": "02_audio/words/200116.json",
    "keep": [
     [
-     6189,
+     6190,
      6222
     ],
     [
@@ -239,8 +294,8 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
-   "trim_start": -0.03,
+   "crop_x": 0.574,
+   "trim_start": -0.22,
    "end_pad": 0.12,
    "publish_at": "2026-11-21T12:00:00",
    "networks": [
@@ -254,7 +309,41 @@
     "6258": "Ashley",
     "6263": ""
    },
-   "cover": "07_notes/shorts/covers/eulogy.jpg"
+   "cover": "07_notes/shorts/covers/eulogy.jpg",
+   "crop_t": [
+    [
+     1991.16,
+     0.449
+    ],
+    [
+     1994.0,
+     0.59
+    ],
+    [
+     2002.92,
+     0.443
+    ],
+    [
+     2004.52,
+     0.44
+    ],
+    [
+     2005.72,
+     0.496
+    ],
+    [
+     2013.72,
+     0.565
+    ],
+    [
+     2032.88,
+     0.447
+    ],
+    [
+     2036.18,
+     0.525
+    ]
+   ]
   },
   {
    "id": "grateful-future",
@@ -276,7 +365,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.588,
    "trim_start": -0.17,
    "end_pad": 0.12,
    "publish_at": "2026-11-21T17:00:00",
@@ -290,7 +379,21 @@
     "9692": "I",
     "9701": "I"
    },
-   "cover": "07_notes/shorts/covers/grateful-future.jpg"
+   "cover": "07_notes/shorts/covers/grateful-future.jpg",
+   "crop_t": [
+    [
+     3106.16,
+     0.467
+    ],
+    [
+     3109.0,
+     0.552
+    ],
+    [
+     3141.0,
+     0.617
+    ]
+   ]
   },
   {
    "id": "financial-peace",
@@ -312,7 +415,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.569,
    "trim_start": -0.12,
    "end_pad": 0.02,
    "publish_at": "2026-11-22T12:00:00",
@@ -324,7 +427,17 @@
    "fixes": {
     "6966": ""
    },
-   "cover": "07_notes/shorts/covers/financial-peace.jpg"
+   "cover": "07_notes/shorts/covers/financial-peace.jpg",
+   "crop_t": [
+    [
+     2222.85,
+     0.447
+    ],
+    [
+     2225.69,
+     0.602
+    ]
+   ]
   },
   {
    "id": "hard-things",
@@ -350,7 +463,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.553,
    "trim_start": -0.12,
    "end_pad": 0.14,
    "publish_at": "2026-11-22T17:00:00",
@@ -362,7 +475,25 @@
    "fixes": {
     "10087": ""
    },
-   "cover": "07_notes/shorts/covers/hard-things.jpg"
+   "cover": "07_notes/shorts/covers/hard-things.jpg",
+   "crop_t": [
+    [
+     3266.33,
+     0.516
+    ],
+    [
+     3274.33,
+     0.592
+    ],
+    [
+     3281.89,
+     0.465
+    ],
+    [
+     3284.69,
+     0.566
+    ]
+   ]
   },
   {
    "id": "hire-same-day",
@@ -390,7 +521,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.572,
    "trim_start": -0.12,
    "end_pad": 0.12,
    "publish_at": "2026-11-23T12:00:00",
@@ -402,7 +533,25 @@
    ],
    "cover_at": 848.8,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/hire-same-day.jpg"
+   "cover": "07_notes/shorts/covers/hire-same-day.jpg",
+   "crop_t": [
+    [
+     858.09,
+     0.46
+    ],
+    [
+     861.21,
+     0.557
+    ],
+    [
+     870.83,
+     0.542
+    ],
+    [
+     878.83,
+     0.618
+    ]
+   ]
   },
   {
    "id": "subtraction",
@@ -428,7 +577,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.444,
    "trim_start": -0.12,
    "end_pad": 0.03,
    "publish_at": "2026-11-23T17:00:00",
@@ -438,7 +587,21 @@
    ],
    "cover_at": 2670.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/subtraction.jpg"
+   "cover": "07_notes/shorts/covers/subtraction.jpg",
+   "crop_t": [
+    [
+     2638.23,
+     0.559
+    ],
+    [
+     2677.17,
+     0.439
+    ],
+    [
+     2679.23,
+     0.564
+    ]
+   ]
   },
   {
    "id": "hour-value",
@@ -462,7 +625,7 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.485,
    "trim_start": -0.12,
    "end_pad": 0.12,
    "publish_at": "2026-11-24T12:00:00",
@@ -474,7 +637,25 @@
    ],
    "cover_at": 2398.6,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/hour-value.jpg"
+   "cover": "07_notes/shorts/covers/hour-value.jpg",
+   "crop_t": [
+    [
+     2393.0,
+     0.567
+    ],
+    [
+     2404.62,
+     0.44
+    ],
+    [
+     2407.44,
+     0.561
+    ],
+    [
+     2415.4,
+     0.481
+    ]
+   ]
   },
   {
    "id": "mirror-exercise",
@@ -496,9 +677,9 @@
    },
    "approved": false,
    "layout": "crop",
-   "crop_x": 0.56,
+   "crop_x": 0.585,
    "trim_start": -0.12,
-   "end_pad": 0.12,
+   "end_pad": 0.03,
    "publish_at": "2026-11-24T17:00:00",
    "networks": [
     "youtube",
@@ -506,7 +687,8 @@
    ],
    "cover_at": 1470.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/mirror-exercise.jpg"
+   "cover": "07_notes/shorts/covers/mirror-exercise.jpg",
+   "crop_t": []
   }
  ]
 }
