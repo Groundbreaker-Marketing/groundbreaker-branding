@@ -1,0 +1,64 @@
+{
+  "32-million": {
+    "fails": [],
+    "warns": []
+  },
+  "not-24-7": {
+    "fails": [],
+    "warns": []
+  },
+  "500k-identity": {
+    "fails": [],
+    "warns": []
+  },
+  "blind-trust-ai": {
+    "fails": [],
+    "warns": []
+  },
+  "find-good-people": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "i-see-you": {
+    "fails": [],
+    "warns": []
+  },
+  "eulogy": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "grateful-future": {
+    "fails": [],
+    "warns": []
+  },
+  "financial-peace": {
+    "fails": [],
+    "warns": []
+  },
+  "hard-things": {
+    "fails": [],
+    "warns": []
+  },
+  "hire-same-day": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "subtraction": {
+    "fails": [],
+    "warns": []
+  },
+  "hour-value": {
+    "fails": [],
+    "warns": []
+  },
+  "mirror-exercise": {
+    "fails": [],
+    "warns": []
+  }
+}

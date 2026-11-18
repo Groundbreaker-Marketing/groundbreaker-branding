@@ -1,0 +1,105 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:27.02,Title,,0,0,0,,{\pos(540,480)}165 trucks, 200 people,\N{\c&H0060ECCD}$32M{\c&H00FFFFFF&} in 10 years
+Dialogue: 1,0:00:00.18,0:00:00.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} figured it out
+Dialogue: 1,0:00:00.62,0:00:00.92,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}figured{\c&H00FFFFFF&} it out
+Dialogue: 1,0:00:00.92,0:00:01.06,Cap,,0,0,0,,{\pos(540,1400)}I figured {\c&H0060ECCD}it{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:01.06,0:00:01.42,Cap,,0,0,0,,{\pos(540,1400)}I figured it {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.66,0:00:02.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}From{\c&H00FFFFFF&} there
+Dialogue: 1,0:00:02.10,0:00:02.38,Cap,,0,0,0,,{\pos(540,1400)}From {\c&H0060ECCD}there{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.38,0:00:02.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'll{\c&H00FFFFFF&} give
+Dialogue: 1,0:00:02.44,0:00:02.60,Cap,,0,0,0,,{\pos(540,1400)}I'll {\c&H0060ECCD}give{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.60,0:00:02.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everybody{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:02.96,0:00:03.16,Cap,,0,0,0,,{\pos(540,1400)}everybody {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.16,0:00:03.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}short{\c&H00FFFFFF&} version of
+Dialogue: 1,0:00:03.56,0:00:03.90,Cap,,0,0,0,,{\pos(540,1400)}short {\c&H0060ECCD}version{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:03.90,0:00:04.10,Cap,,0,0,0,,{\pos(540,1400)}short version {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.10,0:00:04.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}success{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.54,0:00:04.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} went from under
+Dialogue: 1,0:00:04.98,0:00:05.16,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}went{\c&H00FFFFFF&} from under
+Dialogue: 1,0:00:05.16,0:00:05.36,Cap,,0,0,0,,{\pos(540,1400)}I went {\c&H0060ECCD}from{\c&H00FFFFFF&} under
+Dialogue: 1,0:00:05.36,0:00:05.62,Cap,,0,0,0,,{\pos(540,1400)}I went from {\c&H0060ECCD}under{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.62,0:00:05.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} million to over
+Dialogue: 1,0:00:05.78,0:00:06.06,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}million{\c&H00FFFFFF&} to over
+Dialogue: 1,0:00:06.06,0:00:06.34,Cap,,0,0,0,,{\pos(540,1400)}a million {\c&H0060ECCD}to{\c&H00FFFFFF&} over
+Dialogue: 1,0:00:06.34,0:00:06.58,Cap,,0,0,0,,{\pos(540,1400)}a million to {\c&H0060ECCD}over{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.58,0:00:07.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}32{\c&H00FFFFFF&} million in
+Dialogue: 1,0:00:07.00,0:00:07.46,Cap,,0,0,0,,{\pos(540,1400)}32 {\c&H0060ECCD}million{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:07.46,0:00:08.08,Cap,,0,0,0,,{\pos(540,1400)}32 million {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.08,0:00:08.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}less{\c&H00FFFFFF&} than 10
+Dialogue: 1,0:00:08.28,0:00:08.46,Cap,,0,0,0,,{\pos(540,1400)}less {\c&H0060ECCD}than{\c&H00FFFFFF&} 10
+Dialogue: 1,0:00:08.46,0:00:08.70,Cap,,0,0,0,,{\pos(540,1400)}less than {\c&H0060ECCD}10{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.70,0:00:09.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}years{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.30,0:00:09.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} ran 165 trucks
+Dialogue: 1,0:00:09.64,0:00:09.86,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}ran{\c&H00FFFFFF&} 165 trucks
+Dialogue: 1,0:00:09.86,0:00:10.96,Cap,,0,0,0,,{\pos(540,1400)}I ran {\c&H0060ECCD}165{\c&H00FFFFFF&} trucks
+Dialogue: 1,0:00:10.96,0:00:11.30,Cap,,0,0,0,,{\pos(540,1400)}I ran 165 {\c&H0060ECCD}trucks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.30,0:00:11.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} over the
+Dialogue: 1,0:00:11.52,0:00:11.68,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}over{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:11.68,0:00:11.86,Cap,,0,0,0,,{\pos(540,1400)}all over {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.86,0:00:12.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}state{\c&H00FFFFFF&} of New
+Dialogue: 1,0:00:12.06,0:00:12.24,Cap,,0,0,0,,{\pos(540,1400)}state {\c&H0060ECCD}of{\c&H00FFFFFF&} New
+Dialogue: 1,0:00:12.24,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}state of {\c&H0060ECCD}New{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.36,0:00:12.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Jersey{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.98,0:00:13.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}That's{\c&H00FFFFFF&} a whole
+Dialogue: 1,0:00:13.38,0:00:13.50,Cap,,0,0,0,,{\pos(540,1400)}That's {\c&H0060ECCD}a{\c&H00FFFFFF&} whole
+Dialogue: 1,0:00:13.50,0:00:13.72,Cap,,0,0,0,,{\pos(540,1400)}That's a {\c&H0060ECCD}whole{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.72,0:00:13.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lot{\c&H00FFFFFF&} of vehicles
+Dialogue: 1,0:00:13.98,0:00:14.10,Cap,,0,0,0,,{\pos(540,1400)}lot {\c&H0060ECCD}of{\c&H00FFFFFF&} vehicles
+Dialogue: 1,0:00:14.10,0:00:14.50,Cap,,0,0,0,,{\pos(540,1400)}lot of {\c&H0060ECCD}vehicles{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.50,0:00:14.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} run and
+Dialogue: 1,0:00:14.74,0:00:14.92,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}run{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:14.92,0:00:15.12,Cap,,0,0,0,,{\pos(540,1400)}to run {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.12,0:00:15.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}manage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.82,0:00:16.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} had 200
+Dialogue: 1,0:00:16.26,0:00:16.44,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}had{\c&H00FFFFFF&} 200
+Dialogue: 1,0:00:16.44,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}I had {\c&H0060ECCD}200{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.80,0:00:17.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}employees{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.04,0:00:18.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}double{\c&H00FFFFFF&} digit
+Dialogue: 1,0:00:18.30,0:00:18.60,Cap,,0,0,0,,{\pos(540,1400)}double {\c&H0060ECCD}digit{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.60,0:00:19.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}profit{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.14,0:00:20.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} I loved it
+Dialogue: 1,0:00:20.12,0:00:20.56,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}I{\c&H00FFFFFF&} loved it
+Dialogue: 1,0:00:20.56,0:00:20.86,Cap,,0,0,0,,{\pos(540,1400)}and I {\c&H0060ECCD}loved{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:20.86,0:00:21.18,Cap,,0,0,0,,{\pos(540,1400)}and I loved {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.20,0:00:21.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} loved it every
+Dialogue: 1,0:00:21.38,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}loved{\c&H00FFFFFF&} it every
+Dialogue: 1,0:00:21.58,0:00:21.72,Cap,,0,0,0,,{\pos(540,1400)}I loved {\c&H0060ECCD}it{\c&H00FFFFFF&} every
+Dialogue: 1,0:00:21.72,0:00:21.88,Cap,,0,0,0,,{\pos(540,1400)}I loved it {\c&H0060ECCD}every{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.88,0:00:22.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}day{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.16,0:00:22.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}The{\c&H00FFFFFF&} last five
+Dialogue: 1,0:00:22.24,0:00:22.48,Cap,,0,0,0,,{\pos(540,1400)}The {\c&H0060ECCD}last{\c&H00FFFFFF&} five
+Dialogue: 1,0:00:22.48,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}The last {\c&H0060ECCD}five{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.76,0:00:23.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}years{\c&H00FFFFFF&} that I ran
+Dialogue: 1,0:00:23.04,0:00:23.24,Cap,,0,0,0,,{\pos(540,1400)}years {\c&H0060ECCD}that{\c&H00FFFFFF&} I ran
+Dialogue: 1,0:00:23.24,0:00:23.36,Cap,,0,0,0,,{\pos(540,1400)}years that {\c&H0060ECCD}I{\c&H00FFFFFF&} ran
+Dialogue: 1,0:00:23.36,0:00:23.62,Cap,,0,0,0,,{\pos(540,1400)}years that I {\c&H0060ECCD}ran{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.62,0:00:23.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.94,0:00:24.12,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}got{\c&H00FFFFFF&} it to
+Dialogue: 1,0:00:24.12,0:00:24.24,Cap,,0,0,0,,{\pos(540,1400)}I got {\c&H0060ECCD}it{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:24.24,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}I got it {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.34,0:00:24.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}run{\c&H00FFFFFF&} without me
+Dialogue: 1,0:00:24.52,0:00:24.74,Cap,,0,0,0,,{\pos(540,1400)}run {\c&H0060ECCD}without{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:24.74,0:00:25.04,Cap,,0,0,0,,{\pos(540,1400)}run without {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.04,0:00:25.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} didn't even
+Dialogue: 1,0:00:25.10,0:00:25.28,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}didn't{\c&H00FFFFFF&} even
+Dialogue: 1,0:00:25.28,0:00:25.40,Cap,,0,0,0,,{\pos(540,1400)}I didn't {\c&H0060ECCD}even{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.40,0:00:25.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} an office in
+Dialogue: 1,0:00:25.60,0:00:25.72,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}an{\c&H00FFFFFF&} office in
+Dialogue: 1,0:00:25.72,0:00:26.00,Cap,,0,0,0,,{\pos(540,1400)}have an {\c&H0060ECCD}office{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:26.00,0:00:26.20,Cap,,0,0,0,,{\pos(540,1400)}have an office {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.20,0:00:26.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} building
+Dialogue: 1,0:00:26.30,0:00:26.80,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}building{\c&H00FFFFFF&}

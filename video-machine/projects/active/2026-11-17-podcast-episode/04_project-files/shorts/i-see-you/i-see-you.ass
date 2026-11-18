@@ -1,0 +1,120 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:37.60,Title,,0,0,0,,{\pos(540,480)}When did you last {\c&H0060ECCD}see{\c&H00FFFFFF&}\Nyourself in the mirror?
+Dialogue: 1,0:00:00.10,0:00:00.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}think{\c&H00FFFFFF&} about this
+Dialogue: 1,0:00:00.22,0:00:00.40,Cap,,0,0,0,,{\pos(540,1400)}think {\c&H0060ECCD}about{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:00.40,0:00:00.68,Cap,,0,0,0,,{\pos(540,1400)}think about {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.68,0:00:00.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Ashley{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.92,0:00:01.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Like{\c&H00FFFFFF&} if most
+Dialogue: 1,0:00:01.10,0:00:01.54,Cap,,0,0,0,,{\pos(540,1400)}Like {\c&H0060ECCD}if{\c&H00FFFFFF&} most
+Dialogue: 1,0:00:01.54,0:00:02.00,Cap,,0,0,0,,{\pos(540,1400)}Like if {\c&H0060ECCD}most{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.00,0:00:02.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}people{\c&H00FFFFFF&} here
+Dialogue: 1,0:00:02.34,0:00:02.78,Cap,,0,0,0,,{\pos(540,1400)}people {\c&H0060ECCD}here{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.86,0:00:02.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} I said to
+Dialogue: 1,0:00:02.94,0:00:03.08,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}I{\c&H00FFFFFF&} said to
+Dialogue: 1,0:00:03.08,0:00:03.36,Cap,,0,0,0,,{\pos(540,1400)}if I {\c&H0060ECCD}said{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:03.36,0:00:03.54,Cap,,0,0,0,,{\pos(540,1400)}if I said {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.54,0:00:03.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.02,0:00:04.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} want you to
+Dialogue: 1,0:00:04.60,0:00:04.88,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}want{\c&H00FFFFFF&} you to
+Dialogue: 1,0:00:04.88,0:00:05.04,Cap,,0,0,0,,{\pos(540,1400)}I want {\c&H0060ECCD}you{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:05.04,0:00:05.22,Cap,,0,0,0,,{\pos(540,1400)}I want you {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.22,0:00:05.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}think{\c&H00FFFFFF&} to this
+Dialogue: 1,0:00:05.50,0:00:05.72,Cap,,0,0,0,,{\pos(540,1400)}think {\c&H0060ECCD}to{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:05.72,0:00:06.06,Cap,,0,0,0,,{\pos(540,1400)}think to {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.06,0:00:06.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}morning{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.82,0:00:07.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} morning
+Dialogue: 1,0:00:07.34,0:00:07.74,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}morning{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.74,0:00:08.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} do you
+Dialogue: 1,0:00:08.42,0:00:08.62,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}do{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:08.62,0:00:08.86,Cap,,0,0,0,,{\pos(540,1400)}and do {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.86,0:00:09.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}remember{\c&H00FFFFFF&} looking
+Dialogue: 1,0:00:09.52,0:00:10.10,Cap,,0,0,0,,{\pos(540,1400)}remember {\c&H0060ECCD}looking{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.10,0:00:10.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}at{\c&H00FFFFFF&} yourself in
+Dialogue: 1,0:00:10.62,0:00:11.26,Cap,,0,0,0,,{\pos(540,1400)}at {\c&H0060ECCD}yourself{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:11.26,0:00:11.84,Cap,,0,0,0,,{\pos(540,1400)}at yourself {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.84,0:00:12.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} mirror?
+Dialogue: 1,0:00:12.04,0:00:12.76,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}mirror?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.18,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Like{\c&H00FFFFFF&} not looking
+Dialogue: 1,0:00:13.66,0:00:14.14,Cap,,0,0,0,,{\pos(540,1400)}Like {\c&H0060ECCD}not{\c&H00FFFFFF&} looking
+Dialogue: 1,0:00:14.14,0:00:14.54,Cap,,0,0,0,,{\pos(540,1400)}Like not {\c&H0060ECCD}looking{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.54,0:00:14.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.98,0:00:15.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} my hair good?
+Dialogue: 1,0:00:15.04,0:00:15.28,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}my{\c&H00FFFFFF&} hair good?
+Dialogue: 1,0:00:15.28,0:00:15.60,Cap,,0,0,0,,{\pos(540,1400)}is my {\c&H0060ECCD}hair{\c&H00FFFFFF&} good?
+Dialogue: 1,0:00:15.60,0:00:16.12,Cap,,0,0,0,,{\pos(540,1400)}is my hair {\c&H0060ECCD}good?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.34,0:00:16.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Did{\c&H00FFFFFF&} you actually
+Dialogue: 1,0:00:16.60,0:00:17.22,Cap,,0,0,0,,{\pos(540,1400)}Did {\c&H0060ECCD}you{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:17.22,0:00:17.68,Cap,,0,0,0,,{\pos(540,1400)}Did you {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.68,0:00:18.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}see{\c&H00FFFFFF&} yourself in
+Dialogue: 1,0:00:18.64,0:00:19.20,Cap,,0,0,0,,{\pos(540,1400)}see {\c&H0060ECCD}yourself{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:19.20,0:00:19.44,Cap,,0,0,0,,{\pos(540,1400)}see yourself {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.44,0:00:19.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} mirror?
+Dialogue: 1,0:00:19.54,0:00:19.86,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}mirror?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.90,0:00:20.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}You{\c&H00FFFFFF&} probably
+Dialogue: 1,0:00:20.00,0:00:20.54,Cap,,0,0,0,,{\pos(540,1400)}You {\c&H0060ECCD}probably{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.54,0:00:21.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}can't{\c&H00FFFFFF&} remember
+Dialogue: 1,0:00:21.06,0:00:21.56,Cap,,0,0,0,,{\pos(540,1400)}can't {\c&H0060ECCD}remember{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.56,0:00:21.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} this morning
+Dialogue: 1,0:00:21.78,0:00:21.98,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}this{\c&H00FFFFFF&} morning
+Dialogue: 1,0:00:21.98,0:00:22.16,Cap,,0,0,0,,{\pos(540,1400)}that this {\c&H0060ECCD}morning{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.16,0:00:22.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:22.34,0:00:22.62,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.62,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:22.76,0:00:23.04,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.30,0:00:23.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}brush{\c&H00FFFFFF&} my teeth
+Dialogue: 1,0:00:23.46,0:00:23.66,Cap,,0,0,0,,{\pos(540,1400)}brush {\c&H0060ECCD}my{\c&H00FFFFFF&} teeth
+Dialogue: 1,0:00:23.66,0:00:23.98,Cap,,0,0,0,,{\pos(540,1400)}brush my {\c&H0060ECCD}teeth{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.04,0:00:24.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}brush{\c&H00FFFFFF&} my hair
+Dialogue: 1,0:00:24.16,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}brush {\c&H0060ECCD}my{\c&H00FFFFFF&} hair
+Dialogue: 1,0:00:24.34,0:00:24.72,Cap,,0,0,0,,{\pos(540,1400)}brush my {\c&H0060ECCD}hair{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.78,0:00:25.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Okay{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.02,0:00:25.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}makeup's{\c&H00FFFFFF&} good
+Dialogue: 1,0:00:25.38,0:00:25.62,Cap,,0,0,0,,{\pos(540,1400)}makeup's {\c&H0060ECCD}good{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.62,0:00:25.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whatever{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.04,0:00:26.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} then they
+Dialogue: 1,0:00:26.30,0:00:26.42,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}then{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:26.42,0:00:26.54,Cap,,0,0,0,,{\pos(540,1400)}And then {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.54,0:00:26.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}look{\c&H00FFFFFF&} away
+Dialogue: 1,0:00:26.80,0:00:27.30,Cap,,0,0,0,,{\pos(540,1400)}look {\c&H0060ECCD}away{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.52,0:00:28.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}But{\c&H00FFFFFF&} just do this
+Dialogue: 1,0:00:28.00,0:00:28.30,Cap,,0,0,0,,{\pos(540,1400)}But {\c&H0060ECCD}just{\c&H00FFFFFF&} do this
+Dialogue: 1,0:00:28.30,0:00:28.48,Cap,,0,0,0,,{\pos(540,1400)}But just {\c&H0060ECCD}do{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:28.48,0:00:28.72,Cap,,0,0,0,,{\pos(540,1400)}But just do {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.72,0:00:28.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} thing
+Dialogue: 1,0:00:28.94,0:00:29.24,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}thing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.24,0:00:29.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} want you just
+Dialogue: 1,0:00:29.62,0:00:29.88,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}want{\c&H00FFFFFF&} you just
+Dialogue: 1,0:00:29.88,0:00:30.02,Cap,,0,0,0,,{\pos(540,1400)}I want {\c&H0060ECCD}you{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:30.02,0:00:30.30,Cap,,0,0,0,,{\pos(540,1400)}I want you {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.30,0:00:30.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.64,0:00:31.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tonight{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.42,0:00:31.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tomorrow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.00,0:00:32.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whatever{\c&H00FFFFFF&} you do
+Dialogue: 1,0:00:32.34,0:00:32.54,Cap,,0,0,0,,{\pos(540,1400)}whatever {\c&H0060ECCD}you{\c&H00FFFFFF&} do
+Dialogue: 1,0:00:32.54,0:00:32.82,Cap,,0,0,0,,{\pos(540,1400)}whatever you {\c&H0060ECCD}do{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.02,0:00:33.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}look{\c&H00FFFFFF&} at the
+Dialogue: 1,0:00:33.42,0:00:33.56,Cap,,0,0,0,,{\pos(540,1400)}look {\c&H0060ECCD}at{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:33.56,0:00:33.68,Cap,,0,0,0,,{\pos(540,1400)}look at {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.68,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mirror{\c&H00FFFFFF&} and say
+Dialogue: 1,0:00:33.96,0:00:34.14,Cap,,0,0,0,,{\pos(540,1400)}mirror {\c&H0060ECCD}and{\c&H00FFFFFF&} say
+Dialogue: 1,0:00:34.14,0:00:34.54,Cap,,0,0,0,,{\pos(540,1400)}mirror and {\c&H0060ECCD}say{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.58,0:00:34.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} see you
+Dialogue: 1,0:00:34.84,0:00:35.26,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}see{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:35.26,0:00:35.84,Cap,,0,0,0,,{\pos(540,1400)}I see {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.14,0:00:36.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} see you
+Dialogue: 1,0:00:36.66,0:00:36.94,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}see{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:36.94,0:00:37.34,Cap,,0,0,0,,{\pos(540,1400)}I see {\c&H0060ECCD}you{\c&H00FFFFFF&}

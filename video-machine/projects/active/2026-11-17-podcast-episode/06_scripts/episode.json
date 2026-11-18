@@ -1,0 +1,542 @@
+{
+ "_how": "Recipe for podcast.episode (video-machine). Guest episode, Mike Agugliaro of FuDog Group (the booking says 'michael J Agugliaro' and the Zoom title 'Michael J Agugliaro'; fudoggroup.com and the Ops plan say Mike, so the lower third uses Mike), recorded on Zoom 2026-11-17 (meeting 6620561605, one part, 200116, 1280x720 at 25 fps; no AI upscale at 720p). keep = inclusive word-index ranges of 02_audio/words/200116.json; drop = stammered repeats, strong profanity (piss, shit, ass, F you; the feed is marked not explicit) and the sentence about thoughts removing cancer and tumors (a medical claim); fillers drop automatically; fixes = word index -> caption text (I casing, names, FuDog Group).",
+ "slug": "mind-growth",
+ "title": "You Can't Build a $5 Million Septic Company With a $500K Identity",
+ "title_options": [
+  "You Can't Build a $5 Million Septic Company With a $500K Identity",
+  "You Can't Find Good Help? Mike Agugliaro Says Look in the Mirror",
+  "He Went From 2 Employees to 200. Good People Weren't the Problem.",
+  "A Septic Owner's Mindset Reset: The Mirror Exercise That Works",
+  "Your Hour Is Worth More Than You Think. Here's What to Hand Off."
+ ],
+ "takes": {
+  "200116": {
+   "source": "01_footage/zoom-200116.mp4",
+   "words": "02_audio/words/200116.json"
+  }
+ },
+ "keep": [
+  [
+   0,
+   10393,
+   "200116"
+  ]
+ ],
+ "drop": {
+  "200116": [
+   [
+    98,
+    98
+   ],
+   [
+    244,
+    244
+   ],
+   [
+    253,
+    253
+   ],
+   [
+    257,
+    257
+   ],
+   [
+    387,
+    387
+   ],
+   [
+    604,
+    606
+   ],
+   [
+    668,
+    668
+   ],
+   [
+    976,
+    985
+   ],
+   [
+    998,
+    998
+   ],
+   [
+    1667,
+    1667
+   ],
+   [
+    2229,
+    2229
+   ],
+   [
+    2349,
+    2349
+   ],
+   [
+    2477,
+    2478
+   ],
+   [
+    2821,
+    2821
+   ],
+   [
+    2961,
+    2961
+   ],
+   [
+    2971,
+    2971
+   ],
+   [
+    3023,
+    3023
+   ],
+   [
+    3042,
+    3042
+   ],
+   [
+    3150,
+    3157
+   ],
+   [
+    3226,
+    3226
+   ],
+   [
+    3443,
+    3443
+   ],
+   [
+    3489,
+    3489
+   ],
+   [
+    4609,
+    4609
+   ],
+   [
+    5267,
+    5269
+   ],
+   [
+    5541,
+    5541
+   ],
+   [
+    5830,
+    5830
+   ],
+   [
+    5831,
+    5831
+   ],
+   [
+    5923,
+    5924
+   ],
+   [
+    5962,
+    5962
+   ],
+   [
+    6107,
+    6107
+   ],
+   [
+    6115,
+    6115
+   ],
+   [
+    6223,
+    6223
+   ],
+   [
+    6263,
+    6263
+   ],
+   [
+    6383,
+    6383
+   ],
+   [
+    6561,
+    6561
+   ],
+   [
+    6629,
+    6629
+   ],
+   [
+    6781,
+    6781
+   ],
+   [
+    6801,
+    6801
+   ],
+   [
+    6817,
+    6817
+   ],
+   [
+    6877,
+    6877
+   ],
+   [
+    6966,
+    6966
+   ],
+   [
+    7387,
+    7387
+   ],
+   [
+    7754,
+    7754
+   ],
+   [
+    8052,
+    8052
+   ],
+   [
+    8089,
+    8089
+   ],
+   [
+    8123,
+    8123
+   ],
+   [
+    8318,
+    8318
+   ],
+   [
+    8330,
+    8331
+   ],
+   [
+    8464,
+    8464
+   ],
+   [
+    9225,
+    9247
+   ],
+   [
+    9458,
+    9458
+   ],
+   [
+    10042,
+    10042
+   ],
+   [
+    10087,
+    10087
+   ],
+   [
+    10193,
+    10193
+   ]
+  ]
+ },
+ "fixes": {
+  "200116": {
+   "58": "Mike",
+   "169": "septic",
+   "197": "I",
+   "210": "Mike",
+   "215": "Mike",
+   "367": "I",
+   "391": "Mike",
+   "405": "I",
+   "417": "I",
+   "425": "I'll",
+   "437": "I'm",
+   "537": "I",
+   "546": "I",
+   "549": "I",
+   "553": "I",
+   "557": "I",
+   "561": "I",
+   "565": "I",
+   "582": "I",
+   "586": "I",
+   "591": "I",
+   "595": "I",
+   "957": "I",
+   "963": "I",
+   "992": "I'm",
+   "1018": "I'm",
+   "1029": "I'm",
+   "1035": "I",
+   "1039": "Ashley",
+   "1159": "WET",
+   "1176": "WET",
+   "1430": "FuDog",
+   "1431": "Group",
+   "1432": "",
+   "1443": "I",
+   "1480": "Ashley",
+   "1623": "I",
+   "1678": "I",
+   "2356": "I",
+   "2359": "I",
+   "2361": "I'm",
+   "2377": "I'm",
+   "2380": "I'm",
+   "2385": "I",
+   "2405": "I",
+   "2453": "I",
+   "2479": "Mike",
+   "2489": "I",
+   "2491": "I",
+   "2990": "I'm",
+   "2994": "I",
+   "3033": "I",
+   "3039": "I'm",
+   "3048": "Sunday",
+   "3059": "Thursday",
+   "3311": "God",
+   "3391": "I'll",
+   "3709": "I'm",
+   "3718": "I",
+   "3721": "AI",
+   "4617": "God",
+   "4618": "I",
+   "4641": "I",
+   "4653": "I",
+   "4761": "I",
+   "4763": "Jason",
+   "4782": "I",
+   "4794": "I'm",
+   "4807": "Netflix",
+   "4813": "Rocky",
+   "4817": "Spartan",
+   "4822": "I'm",
+   "4839": "I'm",
+   "5114": "I",
+   "5127": "I'm",
+   "5140": "I'm",
+   "5148": "I",
+   "5172": "I",
+   "5190": "I",
+   "5211": "Jersey",
+   "5229": "I",
+   "5283": "I'm",
+   "5286": "Mercedes",
+   "5287": "Benz",
+   "5289": "I",
+   "5303": "I",
+   "5483": "FuDog",
+   "5484": "Group.",
+   "5485": "",
+   "5989": "I",
+   "6015": "I",
+   "6116": "I've",
+   "6120": "I",
+   "6127": "I",
+   "6152": "I'll",
+   "6175": "I",
+   "6228": "Mike",
+   "6237": "I'm",
+   "6258": "Ashley",
+   "6460": "I",
+   "6465": "I",
+   "6468": "I",
+   "6487": "I",
+   "6643": "I",
+   "6645": "I",
+   "6647": "I",
+   "6651": "I",
+   "6661": "Byron",
+   "6662": "Katie",
+   "6701": "I",
+   "6730": "I",
+   "7599": "AI",
+   "7608": "I'm",
+   "7613": "AI",
+   "7617": "I",
+   "7624": "I",
+   "7631": "I",
+   "7636": "American",
+   "7637": "Express",
+   "7642": "I'm",
+   "7662": "I'm",
+   "7671": "I",
+   "7681": "I",
+   "7684": "AI",
+   "8017": "I",
+   "8023": "Ashley",
+   "8059": "I",
+   "8067": "I",
+   "8074": "Facebook",
+   "8081": "I",
+   "8085": "I",
+   "8090": "I",
+   "8095": "I",
+   "8553": "I",
+   "8598": "I",
+   "8601": "I",
+   "8636": "I",
+   "9085": "I",
+   "9110": "I",
+   "9138": "I",
+   "9152": "God",
+   "9154": "Jesus",
+   "9160": "I",
+   "9163": "I'm",
+   "9177": "UFOs",
+   "9179": "I",
+   "9487": "I",
+   "9503": "Ashley",
+   "9504": "I",
+   "9619": "God",
+   "9622": "I'm",
+   "9646": "Mike",
+   "9660": "I",
+   "9666": "I",
+   "9680": "I",
+   "9692": "I",
+   "9701": "I",
+   "9929": "I'm",
+   "9943": "I'm",
+   "9955": "I've",
+   "9965": "I'm",
+   "9980": "Mike",
+   "10288": "FuDogGroup.com,",
+   "10289": "",
+   "10290": "",
+   "10291": "",
+   "10292": "",
+   "10293": "",
+   "10294": "",
+   "10295": "",
+   "10296": "",
+   "10297": "",
+   "10298": "",
+   "10299": "",
+   "10300": "",
+   "10301": ""
+  }
+ },
+ "fillers": true,
+ "lower_third": {
+  "y": 970,
+  "people": [
+   {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "at": 12.0
+   },
+   {
+    "name": "Mike Agugliaro",
+    "org": "FuDog Group",
+    "at": 120.0
+   }
+  ]
+ },
+ "chapters": [
+  [
+   0,
+   "200116",
+   "Who Mike is: an electrician who built a $500 million business"
+  ],
+  [
+   1668,
+   "200116",
+   "Why \"I can't find good help\" is really a thinking problem"
+  ],
+  [
+   2917,
+   "200116",
+   "Working 24/7 is a story you tell yourself"
+  ],
+  [
+   3606,
+   "200116",
+   "AI: where it helps and where it hurts your thinking"
+  ],
+  [
+   4140,
+   "200116",
+   "The mirror exercise that changes how you think"
+  ],
+  [
+   5450,
+   "200116",
+   "Getting your spouse and family on the same page"
+  ],
+  [
+   6920,
+   "200116",
+   "Why financial peace beats financial freedom"
+  ],
+  [
+   7230,
+   "200116",
+   "Stay focused: what your hour is worth and what to hand off"
+  ],
+  [
+   8206,
+   "200116",
+   "Add one new habit, then energy and gratitude in plain words"
+  ],
+  [
+   9990,
+   "200116",
+   "The advice he would give his younger self"
+  ]
+ ],
+ "publish": {
+  "approved": false,
+  "youtube": {
+   "title": "You Can't Build a $5 Million Septic Company With a $500K Identity",
+   "description": "Mike Agugliaro joins me to talk about the one thing that holds most septic and excavation owners back: how they think. Mike started as an electrician, grew a New Jersey service company from under a million dollars to over $32 million with 165 trucks and 200 employees, exited it, and has since coached more than a thousand business owners. His company today is FuDog Group, where he helps people with life, business and wealth.\n\nA lot of you tell me you can't find good help, you're working around the clock and getting nowhere, or you're comfortable at the same revenue you've had for years. We dig into why Mike says it's about mind growth, not mindset, how to take an honest look at yourself, and what it takes to get your family and your business pulling in the same direction.\n\nWhat we cover:\n- Why \"I can't find good help\" is a thinking problem, and how Mike hired someone the same day he changed his mind\n- Why you won't build a $5 million company with a $500,000 identity\n- The 24/7 story: where your hours really go\n- Using AI without losing your critical thinking\n- The mirror exercise, and how to try it tonight\n- Getting your spouse and family on the same page\n- What your hour is worth, and what to hand off\n- Subtraction by addition: add one habit and the weaker one drops away\n- Mike's advice to his younger self: keep moving forward\n\nFind Mike at fudoggroup.com.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic owner mindset",
+    "mindset",
+    "hiring",
+    "leadership",
+    "FuDog Group",
+    "Mike Agugliaro",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "thumbnail": "07_notes/episode/thumbnail.jpg"
+ },
+ "thumbnail": {
+  "layout": "cutout",
+  "bg": "black",
+  "at": 25.0,
+  "source": "01_footage/zoom-200116.mp4",
+  "lines": [
+   [
+    "$5M COMPANY",
+    "big"
+   ],
+   [
+    "WITH A",
+    "small"
+   ],
+   [
+    "$500K",
+    "box"
+   ],
+   [
+    "IDENTITY",
+    "box"
+   ]
+  ],
+  "guest": {
+   "at": 3325.0
+  },
+  "out": "07_notes/episode/thumbnail.jpg"
+ }
+}
