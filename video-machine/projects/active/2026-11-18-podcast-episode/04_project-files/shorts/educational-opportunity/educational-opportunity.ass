@@ -1,0 +1,110 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:29.13,Title,,0,0,0,,{\an5\pos(540,250)}Don't just pump the tank\Nand {\c&H0060ECCD}walk away{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} of the things
+Dialogue: 1,0:00:00.20,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}of{\c&H00FFFFFF&} the things
+Dialogue: 1,0:00:00.28,0:00:00.38,Cap,,0,0,0,,{\pos(540,1400)}one of {\c&H0060ECCD}the{\c&H00FFFFFF&} things
+Dialogue: 1,0:00:00.38,0:00:00.58,Cap,,0,0,0,,{\pos(540,1400)}one of the {\c&H0060ECCD}things{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.58,0:00:00.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} we advocate
+Dialogue: 1,0:00:00.72,0:00:00.82,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}we{\c&H00FFFFFF&} advocate
+Dialogue: 1,0:00:00.82,0:00:01.30,Cap,,0,0,0,,{\pos(540,1400)}that we {\c&H0060ECCD}advocate{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.30,0:00:02.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} again that
+Dialogue: 1,0:00:02.24,0:00:02.54,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}again{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:02.54,0:00:02.72,Cap,,0,0,0,,{\pos(540,1400)}is again {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.72,0:00:03.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}communication{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:03.34,0:00:03.82,Cap,,0,0,0,,{\pos(540,1400)}communication {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.82,0:00:04.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} education
+Dialogue: 1,0:00:04.00,0:00:04.56,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}education{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.56,0:00:05.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.14,0:00:05.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}education{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:05.72,0:00:06.54,Cap,,0,0,0,,{\pos(540,1400)}education {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.54,0:00:06.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}taking{\c&H00FFFFFF&} advantage
+Dialogue: 1,0:00:06.98,0:00:07.48,Cap,,0,0,0,,{\pos(540,1400)}taking {\c&H0060ECCD}advantage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.48,0:00:07.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} what what we
+Dialogue: 1,0:00:07.76,0:00:08.04,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}what{\c&H00FFFFFF&} what we
+Dialogue: 1,0:00:08.04,0:00:08.34,Cap,,0,0,0,,{\pos(540,1400)}of what {\c&H0060ECCD}what{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:08.34,0:00:08.64,Cap,,0,0,0,,{\pos(540,1400)}of what what {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.64,0:00:08.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}refer{\c&H00FFFFFF&} to as
+Dialogue: 1,0:00:08.94,0:00:09.18,Cap,,0,0,0,,{\pos(540,1400)}refer {\c&H0060ECCD}to{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:09.18,0:00:09.60,Cap,,0,0,0,,{\pos(540,1400)}refer to {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.60,0:00:10.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}educational{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.12,0:00:10.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}opportunities{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.76,0:00:11.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} so when
+Dialogue: 1,0:00:11.52,0:00:12.08,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}so{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:12.08,0:00:12.34,Cap,,0,0,0,,{\pos(540,1400)}right so {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.34,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} on their
+Dialogue: 1,0:00:12.62,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}on{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:12.80,0:00:12.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}own{\c&H00FFFFFF&} side and
+Dialogue: 1,0:00:12.98,0:00:13.28,Cap,,0,0,0,,{\pos(540,1400)}own {\c&H0060ECCD}side{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:13.28,0:00:13.46,Cap,,0,0,0,,{\pos(540,1400)}own side {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.46,0:00:13.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they're{\c&H00FFFFFF&} at a
+Dialogue: 1,0:00:13.70,0:00:13.94,Cap,,0,0,0,,{\pos(540,1400)}they're {\c&H0060ECCD}at{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:13.94,0:00:14.02,Cap,,0,0,0,,{\pos(540,1400)}they're at {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.02,0:00:14.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}place{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:14.36,0:00:14.52,Cap,,0,0,0,,{\pos(540,1400)}place {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:14.52,0:00:14.60,Cap,,0,0,0,,{\pos(540,1400)}place and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.60,0:00:15.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}homeowner{\c&H00FFFFFF&} is is
+Dialogue: 1,0:00:15.04,0:00:15.34,Cap,,0,0,0,,{\pos(540,1400)}homeowner {\c&H0060ECCD}is{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:15.34,0:00:15.68,Cap,,0,0,0,,{\pos(540,1400)}homeowner is {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.68,0:00:16.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}having{\c&H00FFFFFF&} problems
+Dialogue: 1,0:00:16.28,0:00:16.74,Cap,,0,0,0,,{\pos(540,1400)}having {\c&H0060ECCD}problems{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.74,0:00:16.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} the system
+Dialogue: 1,0:00:16.92,0:00:17.06,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}the{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:17.06,0:00:17.44,Cap,,0,0,0,,{\pos(540,1400)}with the {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.44,0:00:17.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}instead{\c&H00FFFFFF&} of just
+Dialogue: 1,0:00:17.76,0:00:17.98,Cap,,0,0,0,,{\pos(540,1400)}instead {\c&H0060ECCD}of{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:17.98,0:00:18.22,Cap,,0,0,0,,{\pos(540,1400)}instead of {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.22,0:00:18.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}instead{\c&H00FFFFFF&} of just
+Dialogue: 1,0:00:18.76,0:00:19.00,Cap,,0,0,0,,{\pos(540,1400)}instead {\c&H0060ECCD}of{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:19.00,0:00:19.10,Cap,,0,0,0,,{\pos(540,1400)}instead of {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.10,0:00:19.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumping{\c&H00FFFFFF&} the tank
+Dialogue: 1,0:00:19.38,0:00:19.54,Cap,,0,0,0,,{\pos(540,1400)}pumping {\c&H0060ECCD}the{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:19.54,0:00:19.76,Cap,,0,0,0,,{\pos(540,1400)}pumping the {\c&H0060ECCD}tank{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.76,0:00:19.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} walking away
+Dialogue: 1,0:00:19.92,0:00:20.26,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}walking{\c&H00FFFFFF&} away
+Dialogue: 1,0:00:20.26,0:00:20.62,Cap,,0,0,0,,{\pos(540,1400)}and walking {\c&H0060ECCD}away{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.62,0:00:20.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know let's
+Dialogue: 1,0:00:20.80,0:00:20.90,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} let's
+Dialogue: 1,0:00:20.90,0:00:21.06,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}let's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.06,0:00:21.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}talk{\c&H00FFFFFF&} to you about
+Dialogue: 1,0:00:21.30,0:00:21.48,Cap,,0,0,0,,{\pos(540,1400)}talk {\c&H0060ECCD}to{\c&H00FFFFFF&} you about
+Dialogue: 1,0:00:21.48,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}talk to {\c&H0060ECCD}you{\c&H00FFFFFF&} about
+Dialogue: 1,0:00:21.58,0:00:21.80,Cap,,0,0,0,,{\pos(540,1400)}talk to you {\c&H0060ECCD}about{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.80,0:00:21.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}how{\c&H00FFFFFF&} you're using
+Dialogue: 1,0:00:21.96,0:00:22.24,Cap,,0,0,0,,{\pos(540,1400)}how {\c&H0060ECCD}you're{\c&H00FFFFFF&} using
+Dialogue: 1,0:00:22.24,0:00:22.48,Cap,,0,0,0,,{\pos(540,1400)}how you're {\c&H0060ECCD}using{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.48,0:00:22.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} system and
+Dialogue: 1,0:00:22.68,0:00:23.00,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}system{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:23.00,0:00:23.50,Cap,,0,0,0,,{\pos(540,1400)}the system {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.50,0:00:23.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}how{\c&H00FFFFFF&} your system
+Dialogue: 1,0:00:23.70,0:00:23.90,Cap,,0,0,0,,{\pos(540,1400)}how {\c&H0060ECCD}your{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:23.90,0:00:24.20,Cap,,0,0,0,,{\pos(540,1400)}how your {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.20,0:00:24.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}should{\c&H00FFFFFF&} be used so
+Dialogue: 1,0:00:24.46,0:00:24.64,Cap,,0,0,0,,{\pos(540,1400)}should {\c&H0060ECCD}be{\c&H00FFFFFF&} used so
+Dialogue: 1,0:00:24.64,0:00:25.04,Cap,,0,0,0,,{\pos(540,1400)}should be {\c&H0060ECCD}used{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:25.04,0:00:25.48,Cap,,0,0,0,,{\pos(540,1400)}should be used {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.48,0:00:25.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} you can get
+Dialogue: 1,0:00:25.62,0:00:25.80,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}you{\c&H00FFFFFF&} can get
+Dialogue: 1,0:00:25.80,0:00:26.06,Cap,,0,0,0,,{\pos(540,1400)}that you {\c&H0060ECCD}can{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:26.06,0:00:26.80,Cap,,0,0,0,,{\pos(540,1400)}that you can {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.80,0:00:27.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} much life out
+Dialogue: 1,0:00:27.04,0:00:27.22,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}much{\c&H00FFFFFF&} life out
+Dialogue: 1,0:00:27.22,0:00:27.52,Cap,,0,0,0,,{\pos(540,1400)}as much {\c&H0060ECCD}life{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:27.52,0:00:27.74,Cap,,0,0,0,,{\pos(540,1400)}as much life {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.74,0:00:27.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} this system
+Dialogue: 1,0:00:27.82,0:00:28.05,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}this{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:28.05,0:00:28.40,Cap,,0,0,0,,{\pos(540,1400)}of this {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.40,0:00:29.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&}
