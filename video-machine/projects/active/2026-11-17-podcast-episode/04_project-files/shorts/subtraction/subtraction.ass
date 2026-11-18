@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:37.87,Title,,0,0,0,,{\pos(540,480)}Add one thing and the\Nweaker habit {\c&H0060ECCD}drops{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} subtraction by
+Dialogue: 1,0:00:00.28,0:00:01.28,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}subtraction{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:01.28,0:00:01.66,Cap,,0,0,0,,{\pos(540,1400)}So subtraction {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.66,0:00:02.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}addition{\c&H00FFFFFF&} means
+Dialogue: 1,0:00:02.10,0:00:02.50,Cap,,0,0,0,,{\pos(540,1400)}addition {\c&H0060ECCD}means{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.50,0:00:02.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.84,0:00:03.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'll{\c&H00FFFFFF&} put it in
+Dialogue: 1,0:00:03.18,0:00:03.42,Cap,,0,0,0,,{\pos(540,1400)}I'll {\c&H0060ECCD}put{\c&H00FFFFFF&} it in
+Dialogue: 1,0:00:03.42,0:00:03.54,Cap,,0,0,0,,{\pos(540,1400)}I'll put {\c&H0060ECCD}it{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:03.54,0:00:03.74,Cap,,0,0,0,,{\pos(540,1400)}I'll put it {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.74,0:00:03.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} health way
+Dialogue: 1,0:00:03.88,0:00:04.16,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}health{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:04.16,0:00:04.56,Cap,,0,0,0,,{\pos(540,1400)}a health {\c&H0060ECCD}way{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.72,0:00:05.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} if you have
+Dialogue: 1,0:00:05.26,0:00:05.42,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}if{\c&H00FFFFFF&} you have
+Dialogue: 1,0:00:05.42,0:00:05.50,Cap,,0,0,0,,{\pos(540,1400)}So if {\c&H0060ECCD}you{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:05.50,0:00:05.76,Cap,,0,0,0,,{\pos(540,1400)}So if you {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.76,0:00:06.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}somebody{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:06.18,0:00:06.76,Cap,,0,0,0,,{\pos(540,1400)}somebody {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.76,0:00:07.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drinks{\c&H00FFFFFF&} coffee and
+Dialogue: 1,0:00:07.64,0:00:08.16,Cap,,0,0,0,,{\pos(540,1400)}drinks {\c&H0060ECCD}coffee{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:08.16,0:00:08.52,Cap,,0,0,0,,{\pos(540,1400)}drinks coffee {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.52,0:00:08.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}eat{\c&H00FFFFFF&} Red Bulls in
+Dialogue: 1,0:00:08.78,0:00:09.48,Cap,,0,0,0,,{\pos(540,1400)}eat {\c&H0060ECCD}Red{\c&H00FFFFFF&} Bulls in
+Dialogue: 1,0:00:09.48,0:00:09.92,Cap,,0,0,0,,{\pos(540,1400)}eat Red {\c&H0060ECCD}Bulls{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:09.92,0:00:10.06,Cap,,0,0,0,,{\pos(540,1400)}eat Red Bulls {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.06,0:00:10.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} morning or
+Dialogue: 1,0:00:10.14,0:00:10.42,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}morning{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:10.42,0:00:10.60,Cap,,0,0,0,,{\pos(540,1400)}the morning {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.60,0:00:11.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}whatever{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.12,0:00:11.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you made them
+Dialogue: 1,0:00:11.80,0:00:12.00,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} made them
+Dialogue: 1,0:00:12.00,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}made{\c&H00FFFFFF&} them
+Dialogue: 1,0:00:12.36,0:00:12.64,Cap,,0,0,0,,{\pos(540,1400)}if you made {\c&H0060ECCD}them{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.64,0:00:13.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}drink{\c&H00FFFFFF&} something
+Dialogue: 1,0:00:13.12,0:00:13.62,Cap,,0,0,0,,{\pos(540,1400)}drink {\c&H0060ECCD}something{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.62,0:00:14.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} a green
+Dialogue: 1,0:00:14.02,0:00:14.24,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}a{\c&H00FFFFFF&} green
+Dialogue: 1,0:00:14.24,0:00:14.64,Cap,,0,0,0,,{\pos(540,1400)}like a {\c&H0060ECCD}green{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.64,0:00:15.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}smoothie{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:15.16,0:00:15.36,Cap,,0,0,0,,{\pos(540,1400)}smoothie {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.36,0:00:15.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}something{\c&H00FFFFFF&} healthy
+Dialogue: 1,0:00:15.74,0:00:16.32,Cap,,0,0,0,,{\pos(540,1400)}something {\c&H0060ECCD}healthy{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.32,0:00:16.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} they liked
+Dialogue: 1,0:00:16.56,0:00:16.74,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}they{\c&H00FFFFFF&} liked
+Dialogue: 1,0:00:16.74,0:00:17.22,Cap,,0,0,0,,{\pos(540,1400)}that they {\c&H0060ECCD}liked{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.38,0:00:17.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}If{\c&H00FFFFFF&} they drank the
+Dialogue: 1,0:00:17.82,0:00:18.00,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}they{\c&H00FFFFFF&} drank the
+Dialogue: 1,0:00:18.00,0:00:18.52,Cap,,0,0,0,,{\pos(540,1400)}If they {\c&H0060ECCD}drank{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:18.52,0:00:18.72,Cap,,0,0,0,,{\pos(540,1400)}If they drank {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.72,0:00:19.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}green{\c&H00FFFFFF&} smoothie in
+Dialogue: 1,0:00:19.04,0:00:19.60,Cap,,0,0,0,,{\pos(540,1400)}green {\c&H0060ECCD}smoothie{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:19.60,0:00:20.04,Cap,,0,0,0,,{\pos(540,1400)}green smoothie {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.04,0:00:20.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} morning and
+Dialogue: 1,0:00:20.16,0:00:20.48,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}morning{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:20.48,0:00:20.66,Cap,,0,0,0,,{\pos(540,1400)}the morning {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.66,0:00:20.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} just added
+Dialogue: 1,0:00:20.78,0:00:21.04,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}just{\c&H00FFFFFF&} added
+Dialogue: 1,0:00:21.04,0:00:21.52,Cap,,0,0,0,,{\pos(540,1400)}they just {\c&H0060ECCD}added{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.52,0:00:21.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}this{\c&H00FFFFFF&} in without
+Dialogue: 1,0:00:21.86,0:00:22.04,Cap,,0,0,0,,{\pos(540,1400)}this {\c&H0060ECCD}in{\c&H00FFFFFF&} without
+Dialogue: 1,0:00:22.04,0:00:22.32,Cap,,0,0,0,,{\pos(540,1400)}this in {\c&H0060ECCD}without{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.32,0:00:22.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}saying{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:22.84,0:00:23.16,Cap,,0,0,0,,{\pos(540,1400)}saying {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.16,0:00:23.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to stop
+Dialogue: 1,0:00:23.24,0:00:23.34,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} stop
+Dialogue: 1,0:00:23.34,0:00:23.66,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}stop{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.66,0:00:24.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}coffee{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.28,0:00:24.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they{\c&H00FFFFFF&} would start
+Dialogue: 1,0:00:24.84,0:00:25.06,Cap,,0,0,0,,{\pos(540,1400)}they {\c&H0060ECCD}would{\c&H00FFFFFF&} start
+Dialogue: 1,0:00:25.06,0:00:25.34,Cap,,0,0,0,,{\pos(540,1400)}they would {\c&H0060ECCD}start{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.34,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} say
+Dialogue: 1,0:00:25.58,0:00:26.08,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}say{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.08,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} don't want the
+Dialogue: 1,0:00:26.46,0:00:26.64,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}don't{\c&H00FFFFFF&} want the
+Dialogue: 1,0:00:26.64,0:00:26.78,Cap,,0,0,0,,{\pos(540,1400)}I don't {\c&H0060ECCD}want{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:26.78,0:00:26.92,Cap,,0,0,0,,{\pos(540,1400)}I don't want {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.92,0:00:27.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}coffee{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.20,0:00:27.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}but{\c&H00FFFFFF&} the fact is
+Dialogue: 1,0:00:27.86,0:00:28.39,Cap,,0,0,0,,{\pos(540,1400)}but {\c&H0060ECCD}the{\c&H00FFFFFF&} fact is
+Dialogue: 1,0:00:28.39,0:00:28.72,Cap,,0,0,0,,{\pos(540,1400)}but the {\c&H0060ECCD}fact{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:28.72,0:00:29.04,Cap,,0,0,0,,{\pos(540,1400)}but the fact {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.04,0:00:29.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you add
+Dialogue: 1,0:00:29.38,0:00:29.56,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} add
+Dialogue: 1,0:00:29.56,0:00:30.08,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}add{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.08,0:00:30.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}something{\c&H00FFFFFF&} on and
+Dialogue: 1,0:00:30.66,0:00:31.32,Cap,,0,0,0,,{\pos(540,1400)}something {\c&H0060ECCD}on{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:31.32,0:00:32.24,Cap,,0,0,0,,{\pos(540,1400)}something on {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.24,0:00:32.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} shows huge
+Dialogue: 1,0:00:32.41,0:00:32.86,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}shows{\c&H00FFFFFF&} huge
+Dialogue: 1,0:00:32.86,0:00:33.20,Cap,,0,0,0,,{\pos(540,1400)}it shows {\c&H0060ECCD}huge{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.20,0:00:33.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}value{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.70,0:00:34.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} will make your
+Dialogue: 1,0:00:34.51,0:00:34.70,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}will{\c&H00FFFFFF&} make your
+Dialogue: 1,0:00:34.70,0:00:34.95,Cap,,0,0,0,,{\pos(540,1400)}it will {\c&H0060ECCD}make{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:34.95,0:00:35.12,Cap,,0,0,0,,{\pos(540,1400)}it will make {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.12,0:00:35.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mind{\c&H00FFFFFF&} want to
+Dialogue: 1,0:00:35.47,0:00:35.70,Cap,,0,0,0,,{\pos(540,1400)}mind {\c&H0060ECCD}want{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:35.70,0:00:35.86,Cap,,0,0,0,,{\pos(540,1400)}mind want {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.86,0:00:36.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}eliminate{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:36.43,0:00:37.24,Cap,,0,0,0,,{\pos(540,1400)}eliminate {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.24,0:00:37.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}weaker{\c&H00FFFFFF&} thing
+Dialogue: 1,0:00:37.49,0:00:37.88,Cap,,0,0,0,,{\pos(540,1400)}weaker {\c&H0060ECCD}thing{\c&H00FFFFFF&}
