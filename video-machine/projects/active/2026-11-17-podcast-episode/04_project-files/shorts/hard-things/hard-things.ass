@@ -8,12 +8,12 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
-Style: Title,Montserrat,72,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
 Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:34.24,Title,,0,0,0,,{\pos(540,480)}{\c&H0060ECCD}Love{\c&H00FFFFFF&} the hard things.\NThey build you.
+Dialogue: 2,0:00:00.00,0:00:34.24,Title,,0,0,0,,{\an5\pos(540,328)}{\c&H0060ECCD}Love{\c&H00FFFFFF&} the hard things.\NThey build you.
 Dialogue: 1,0:00:00.00,0:00:00.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} would tell
 Dialogue: 1,0:00:00.29,0:00:00.49,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}would{\c&H00FFFFFF&} tell
 Dialogue: 1,0:00:00.49,0:00:00.77,Cap,,0,0,0,,{\pos(540,1400)}I would {\c&H0060ECCD}tell{\c&H00FFFFFF&}

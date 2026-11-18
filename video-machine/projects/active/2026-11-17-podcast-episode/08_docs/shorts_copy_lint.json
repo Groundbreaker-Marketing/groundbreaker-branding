@@ -1,4 +1,8 @@
 {
+  "32-million": {
+    "fails": [],
+    "warns": []
+  },
   "not-24-7": {
     "fails": [],
     "warns": []
@@ -50,6 +54,10 @@
     "warns": []
   },
   "hour-value": {
+    "fails": [],
+    "warns": []
+  },
+  "mirror-exercise": {
     "fails": [],
     "warns": []
   }
