@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for podcast.episode (video-machine). Guest episode, Mike Agugliaro of FuDog Group (the booking says 'michael J Agugliaro' and the Zoom title 'Michael J Agugliaro'; fudoggroup.com and the Ops plan say Mike, so the lower third uses Mike), recorded on Zoom 2026-11-17 (meeting 6620561605, one part, 200116, 1280x720 at 25 fps; no AI upscale at 720p). keep = inclusive word-index ranges of 02_audio/words/200116.json; drop = stammered repeats, strong profanity (piss, shit, ass, F you; the feed is marked not explicit) and the sentence about thoughts removing cancer and tumors (a medical claim); fillers drop automatically; fixes = word index -> caption text (I casing, names, FuDog Group).",
+ "_how": "Recipe for podcast.episode (video-machine). Guest episode, Mike Agugliaro of FuDog Group (the booking says 'michael J Agugliaro' and the Zoom title 'Michael J Agugliaro'; fudoggroup.com and the Ops plan say Mike, so the lower third uses Mike), recorded on Zoom 2026-11-17 (meeting 6620561605, one part, 200116, 1280x720 at 25 fps; no AI upscale at 720p).. Edit v2 (2026-11-18, Ashley: 'I don't want any clips throughout the whole thing. I just want it continuous'): one continuous keep from the first word to the last, no drops, fillers off, no pause cuts; the opening and closing trims are unchanged. Source 01_footage/zoom-200116-clean.mov = the recording's video with audio remixed from the per-person tracks: Ashley's track with late-reverb suppression (her echo), Mike's track untouched (aligned to the original mix), and the eight profane words muted in the audio (piss x3, F x2, shit x2, ass; the feed is not explicit) with '[bleep]' in the captions. The cancer/tumors sentence is back in.",
  "slug": "mind-growth",
  "title": "You Can't Build a $5 Million Septic Company With a $500K Identity",
  "title_options": [
@@ -11,7 +11,7 @@
  ],
  "takes": {
   "200116": {
-   "source": "01_footage/zoom-200116.mp4",
+   "source": "01_footage/zoom-200116-clean.mov",
    "words": "02_audio/words/200116.json"
   }
  },
@@ -22,226 +22,7 @@
    "200116"
   ]
  ],
- "drop": {
-  "200116": [
-   [
-    98,
-    98
-   ],
-   [
-    244,
-    244
-   ],
-   [
-    253,
-    253
-   ],
-   [
-    257,
-    257
-   ],
-   [
-    387,
-    387
-   ],
-   [
-    604,
-    606
-   ],
-   [
-    668,
-    668
-   ],
-   [
-    976,
-    985
-   ],
-   [
-    998,
-    998
-   ],
-   [
-    1667,
-    1667
-   ],
-   [
-    2229,
-    2229
-   ],
-   [
-    2349,
-    2349
-   ],
-   [
-    2477,
-    2478
-   ],
-   [
-    2821,
-    2821
-   ],
-   [
-    2961,
-    2961
-   ],
-   [
-    2971,
-    2971
-   ],
-   [
-    3023,
-    3023
-   ],
-   [
-    3042,
-    3042
-   ],
-   [
-    3150,
-    3157
-   ],
-   [
-    3226,
-    3226
-   ],
-   [
-    3443,
-    3443
-   ],
-   [
-    3489,
-    3489
-   ],
-   [
-    4609,
-    4609
-   ],
-   [
-    5267,
-    5269
-   ],
-   [
-    5541,
-    5541
-   ],
-   [
-    5830,
-    5830
-   ],
-   [
-    5831,
-    5831
-   ],
-   [
-    5923,
-    5924
-   ],
-   [
-    5962,
-    5962
-   ],
-   [
-    6107,
-    6107
-   ],
-   [
-    6115,
-    6115
-   ],
-   [
-    6223,
-    6223
-   ],
-   [
-    6263,
-    6263
-   ],
-   [
-    6383,
-    6383
-   ],
-   [
-    6561,
-    6561
-   ],
-   [
-    6629,
-    6629
-   ],
-   [
-    6781,
-    6781
-   ],
-   [
-    6801,
-    6801
-   ],
-   [
-    6817,
-    6817
-   ],
-   [
-    6877,
-    6877
-   ],
-   [
-    6966,
-    6966
-   ],
-   [
-    7387,
-    7387
-   ],
-   [
-    7754,
-    7754
-   ],
-   [
-    8052,
-    8052
-   ],
-   [
-    8089,
-    8089
-   ],
-   [
-    8123,
-    8123
-   ],
-   [
-    8318,
-    8318
-   ],
-   [
-    8330,
-    8331
-   ],
-   [
-    8464,
-    8464
-   ],
-   [
-    9225,
-    9247
-   ],
-   [
-    9458,
-    9458
-   ],
-   [
-    10042,
-    10042
-   ],
-   [
-    10087,
-    10087
-   ],
-   [
-    10193,
-    10193
-   ]
-  ]
- },
+ "drop": {},
  "fixes": {
   "200116": {
    "58": "Mike",
@@ -251,6 +32,7 @@
    "215": "Mike",
    "367": "I",
    "391": "Mike",
+   "403": "",
    "405": "I",
    "417": "I",
    "425": "I'll",
@@ -266,8 +48,11 @@
    "586": "I",
    "591": "I",
    "595": "I",
+   "605": "[bleep]",
+   "952": "",
    "957": "I",
    "963": "I",
+   "982": "[bleep]",
    "992": "I'm",
    "1018": "I'm",
    "1029": "I'm",
@@ -290,6 +75,7 @@
    "2385": "I",
    "2405": "I",
    "2453": "I",
+   "2477": "[bleep]",
    "2479": "Mike",
    "2489": "I",
    "2491": "I",
@@ -299,11 +85,15 @@
    "3039": "I'm",
    "3048": "Sunday",
    "3059": "Thursday",
+   "3157": "[bleep].",
+   "3197": "",
    "3311": "God",
    "3391": "I'll",
    "3709": "I'm",
    "3718": "I",
    "3721": "AI",
+   "3856": "",
+   "4608": "",
    "4617": "God",
    "4618": "I",
    "4641": "I",
@@ -325,6 +115,7 @@
    "5190": "I",
    "5211": "Jersey",
    "5229": "I",
+   "5269": "[bleep]",
    "5283": "I'm",
    "5286": "Mercedes",
    "5287": "Benz",
@@ -333,13 +124,18 @@
    "5483": "FuDog",
    "5484": "Group.",
    "5485": "",
+   "5851": "",
+   "5924": "[bleep]",
    "5989": "I",
    "6015": "I",
+   "6115": "I've",
    "6116": "I've",
    "6120": "I",
    "6127": "I",
    "6152": "I'll",
    "6175": "I",
+   "6202": "",
+   "6223": "[bleep]",
    "6228": "Mike",
    "6237": "I'm",
    "6258": "Ashley",
@@ -347,14 +143,20 @@
    "6465": "I",
    "6468": "I",
    "6487": "I",
+   "6642": "",
    "6643": "I",
    "6645": "I",
    "6647": "I",
    "6651": "I",
+   "6656": "",
    "6661": "Byron",
    "6662": "Katie",
    "6701": "I",
+   "6705": "",
    "6730": "I",
+   "7307": "",
+   "7332": "",
+   "7364": "",
    "7599": "AI",
    "7608": "I'm",
    "7613": "AI",
@@ -375,8 +177,12 @@
    "8074": "Facebook",
    "8081": "I",
    "8085": "I",
+   "8089": "I",
    "8090": "I",
    "8095": "I",
+   "8145": "",
+   "8205": "",
+   "8330": "[bleep]",
    "8553": "I",
    "8598": "I",
    "8601": "I",
@@ -406,6 +212,8 @@
    "9955": "I've",
    "9965": "I'm",
    "9980": "Mike",
+   "10150": "",
+   "10206": "",
    "10288": "FuDogGroup.com,",
    "10289": "",
    "10290": "",
@@ -422,7 +230,7 @@
    "10301": ""
   }
  },
- "fillers": true,
+ "fillers": false,
  "lower_third": {
   "y": 970,
   "people": [
@@ -538,5 +346,10 @@
    "at": 3325.0
   },
   "out": "07_notes/episode/thumbnail.jpg"
+ },
+ "pause": {
+  "max_gap": 1000000.0,
+  "pre": 0.3,
+  "post": 0.45
  }
 }
