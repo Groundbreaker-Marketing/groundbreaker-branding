@@ -343,9 +343,10 @@
    ]
   ],
   "guest": {
-   "at": 3325.0
+   "at": 468.5
   },
-  "out": "07_notes/episode/thumbnail.jpg"
+  "out": "07_notes/episode/thumbnail.jpg",
+  "note_guest": "option 1 of the 2026-11-18 choices (mike-1.jpg): Mike at 468.5 s; Ashley picked it"
  },
  "pause": {
   "max_gap": 1000000.0,
