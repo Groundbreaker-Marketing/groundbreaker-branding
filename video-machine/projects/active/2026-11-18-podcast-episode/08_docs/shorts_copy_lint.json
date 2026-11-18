@@ -1,0 +1,68 @@
+{
+  "send-a-picture": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "educational-opportunity": {
+    "fails": [],
+    "warns": []
+  },
+  "disney-clog": {
+    "fails": [],
+    "warns": []
+  },
+  "soil-is-soil": {
+    "fails": [],
+    "warns": []
+  },
+  "just-a-pumper": {
+    "fails": [],
+    "warns": []
+  },
+  "bedding-bellies": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "honest-about-the-tank": {
+    "fails": [],
+    "warns": []
+  },
+  "classes-on-zoom": {
+    "fails": [],
+    "warns": []
+  },
+  "google-reviews": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "horse-show-calls": {
+    "fails": [],
+    "warns": []
+  },
+  "call-you-first": {
+    "fails": [],
+    "warns": []
+  },
+  "live-classes": {
+    "fails": [],
+    "warns": []
+  },
+  "answer-the-phone": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "stand-up-for-yourself": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  }
+}

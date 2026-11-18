@@ -1,0 +1,182 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:55.51,Title,,0,0,0,,{\an5\pos(540,250)}Why {\c&H0060ECCD}soil is soil{\c&H00FFFFFF&} for\Nevery septic system
+Dialogue: 1,0:00:00.00,0:00:00.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} just it it
+Dialogue: 1,0:00:00.18,0:00:00.36,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}just{\c&H00FFFFFF&} it it
+Dialogue: 1,0:00:00.36,0:00:00.64,Cap,,0,0,0,,{\pos(540,1400)}it just {\c&H0060ECCD}it{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:00.64,0:00:00.92,Cap,,0,0,0,,{\pos(540,1400)}it just it {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.92,0:00:01.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tends{\c&H00FFFFFF&} to hyper
+Dialogue: 1,0:00:01.12,0:00:01.30,Cap,,0,0,0,,{\pos(540,1400)}tends {\c&H0060ECCD}to{\c&H00FFFFFF&} hyper
+Dialogue: 1,0:00:01.30,0:00:01.60,Cap,,0,0,0,,{\pos(540,1400)}tends to {\c&H0060ECCD}hyper{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.60,0:00:02.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}focus{\c&H00FFFFFF&} and it
+Dialogue: 1,0:00:02.10,0:00:02.62,Cap,,0,0,0,,{\pos(540,1400)}focus {\c&H0060ECCD}and{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:02.62,0:00:02.78,Cap,,0,0,0,,{\pos(540,1400)}focus and {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.78,0:00:03.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doesn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.10,0:00:03.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}necessarily{\c&H00FFFFFF&} hyper
+Dialogue: 1,0:00:03.52,0:00:03.86,Cap,,0,0,0,,{\pos(540,1400)}necessarily {\c&H0060ECCD}hyper{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.86,0:00:04.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}focus{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:04.26,0:00:04.54,Cap,,0,0,0,,{\pos(540,1400)}focus {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:04.54,0:00:04.70,Cap,,0,0,0,,{\pos(540,1400)}focus on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.70,0:00:04.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} things it
+Dialogue: 1,0:00:04.96,0:00:05.61,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}things{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:05.61,0:00:06.06,Cap,,0,0,0,,{\pos(540,1400)}right things {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.06,0:00:06.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tends{\c&H00FFFFFF&} to hyper
+Dialogue: 1,0:00:06.26,0:00:06.38,Cap,,0,0,0,,{\pos(540,1400)}tends {\c&H0060ECCD}to{\c&H00FFFFFF&} hyper
+Dialogue: 1,0:00:06.38,0:00:06.66,Cap,,0,0,0,,{\pos(540,1400)}tends to {\c&H0060ECCD}hyper{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.66,0:00:07.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}focus{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:07.04,0:00:07.42,Cap,,0,0,0,,{\pos(540,1400)}focus {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.42,0:00:08.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}regulations{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:08.18,0:00:08.64,Cap,,0,0,0,,{\pos(540,1400)}regulations {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.64,0:00:09.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} if you've
+Dialogue: 1,0:00:09.70,0:00:10.08,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}if{\c&H00FFFFFF&} you've
+Dialogue: 1,0:00:10.08,0:00:10.32,Cap,,0,0,0,,{\pos(540,1400)}and if {\c&H0060ECCD}you've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.32,0:00:10.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ever{\c&H00FFFFFF&} compared
+Dialogue: 1,0:00:10.48,0:00:10.94,Cap,,0,0,0,,{\pos(540,1400)}ever {\c&H0060ECCD}compared{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.94,0:00:11.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}regulations{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:11.56,0:00:11.84,Cap,,0,0,0,,{\pos(540,1400)}regulations {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.84,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}regulations{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:12.36,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}regulations {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.62,0:00:12.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} I said
+Dialogue: 1,0:00:12.78,0:00:12.88,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}I{\c&H00FFFFFF&} said
+Dialogue: 1,0:00:12.88,0:00:13.06,Cap,,0,0,0,,{\pos(540,1400)}like I {\c&H0060ECCD}said{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.06,0:00:13.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}earlier{\c&H00FFFFFF&} you know
+Dialogue: 1,0:00:13.44,0:00:13.98,Cap,,0,0,0,,{\pos(540,1400)}earlier {\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:13.98,0:00:14.06,Cap,,0,0,0,,{\pos(540,1400)}earlier you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.06,0:00:14.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}soil{\c&H00FFFFFF&} is soil is
+Dialogue: 1,0:00:14.36,0:00:14.52,Cap,,0,0,0,,{\pos(540,1400)}soil {\c&H0060ECCD}is{\c&H00FFFFFF&} soil is
+Dialogue: 1,0:00:14.52,0:00:14.72,Cap,,0,0,0,,{\pos(540,1400)}soil is {\c&H0060ECCD}soil{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:14.72,0:00:14.92,Cap,,0,0,0,,{\pos(540,1400)}soil is soil {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.92,0:00:15.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}soil{\c&H00FFFFFF&} is soil
+Dialogue: 1,0:00:15.10,0:00:15.30,Cap,,0,0,0,,{\pos(540,1400)}soil {\c&H0060ECCD}is{\c&H00FFFFFF&} soil
+Dialogue: 1,0:00:15.30,0:00:15.52,Cap,,0,0,0,,{\pos(540,1400)}soil is {\c&H0060ECCD}soil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.52,0:00:15.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}right{\c&H00FFFFFF&} it doesn't
+Dialogue: 1,0:00:15.86,0:00:16.22,Cap,,0,0,0,,{\pos(540,1400)}right {\c&H0060ECCD}it{\c&H00FFFFFF&} doesn't
+Dialogue: 1,0:00:16.22,0:00:16.40,Cap,,0,0,0,,{\pos(540,1400)}right it {\c&H0060ECCD}doesn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.40,0:00:16.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}matter{\c&H00FFFFFF&} it doesn't
+Dialogue: 1,0:00:16.64,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}matter {\c&H0060ECCD}it{\c&H00FFFFFF&} doesn't
+Dialogue: 1,0:00:16.80,0:00:16.98,Cap,,0,0,0,,{\pos(540,1400)}matter it {\c&H0060ECCD}doesn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.98,0:00:17.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}matter{\c&H00FFFFFF&} if you're
+Dialogue: 1,0:00:17.12,0:00:17.24,Cap,,0,0,0,,{\pos(540,1400)}matter {\c&H0060ECCD}if{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:17.24,0:00:17.36,Cap,,0,0,0,,{\pos(540,1400)}matter if {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.36,0:00:17.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} kansas doesn't
+Dialogue: 1,0:00:17.50,0:00:17.82,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}kansas{\c&H00FFFFFF&} doesn't
+Dialogue: 1,0:00:17.82,0:00:18.14,Cap,,0,0,0,,{\pos(540,1400)}in kansas {\c&H0060ECCD}doesn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.14,0:00:18.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}matter{\c&H00FFFFFF&} if you're
+Dialogue: 1,0:00:18.26,0:00:18.38,Cap,,0,0,0,,{\pos(540,1400)}matter {\c&H0060ECCD}if{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:18.38,0:00:18.62,Cap,,0,0,0,,{\pos(540,1400)}matter if {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.62,0:00:18.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Colorado{\c&H00FFFFFF&} doesn't
+Dialogue: 1,0:00:18.90,0:00:19.16,Cap,,0,0,0,,{\pos(540,1400)}Colorado {\c&H0060ECCD}doesn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.16,0:00:19.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}matter{\c&H00FFFFFF&} if you're
+Dialogue: 1,0:00:19.32,0:00:19.50,Cap,,0,0,0,,{\pos(540,1400)}matter {\c&H0060ECCD}if{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:19.50,0:00:19.62,Cap,,0,0,0,,{\pos(540,1400)}matter if {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.62,0:00:19.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} utah it's soil
+Dialogue: 1,0:00:19.74,0:00:20.06,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}utah{\c&H00FFFFFF&} it's soil
+Dialogue: 1,0:00:20.06,0:00:20.86,Cap,,0,0,0,,{\pos(540,1400)}in utah {\c&H0060ECCD}it's{\c&H00FFFFFF&} soil
+Dialogue: 1,0:00:20.86,0:00:21.18,Cap,,0,0,0,,{\pos(540,1400)}in utah it's {\c&H0060ECCD}soil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.18,0:00:21.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} sand silt
+Dialogue: 1,0:00:21.46,0:00:21.66,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}sand{\c&H00FFFFFF&} silt
+Dialogue: 1,0:00:21.66,0:00:21.92,Cap,,0,0,0,,{\pos(540,1400)}it's sand {\c&H0060ECCD}silt{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.92,0:00:22.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} clay it's
+Dialogue: 1,0:00:22.04,0:00:22.24,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}clay{\c&H00FFFFFF&} it's
+Dialogue: 1,0:00:22.24,0:00:22.54,Cap,,0,0,0,,{\pos(540,1400)}and clay {\c&H0060ECCD}it's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.54,0:00:23.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}made{\c&H00FFFFFF&} up in
+Dialogue: 1,0:00:23.04,0:00:23.18,Cap,,0,0,0,,{\pos(540,1400)}made {\c&H0060ECCD}up{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:23.18,0:00:23.30,Cap,,0,0,0,,{\pos(540,1400)}made up {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.30,0:00:23.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}different{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:23.58,0:00:23.88,Cap,,0,0,0,,{\pos(540,1400)}different {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.88,0:00:24.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} percentages
+Dialogue: 1,0:00:24.02,0:00:24.94,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}percentages{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.94,0:00:25.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} all this
+Dialogue: 1,0:00:25.18,0:00:25.28,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}all{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:25.28,0:00:25.46,Cap,,0,0,0,,{\pos(540,1400)}and all {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.46,0:00:25.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}other{\c&H00FFFFFF&} stuff and
+Dialogue: 1,0:00:25.71,0:00:25.86,Cap,,0,0,0,,{\pos(540,1400)}other {\c&H0060ECCD}stuff{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:25.86,0:00:26.02,Cap,,0,0,0,,{\pos(540,1400)}other stuff {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.02,0:00:26.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}still{\c&H00FFFFFF&} soil but
+Dialogue: 1,0:00:26.24,0:00:28.22,Cap,,0,0,0,,{\pos(540,1400)}still {\c&H0060ECCD}soil{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:28.22,0:00:29.50,Cap,,0,0,0,,{\pos(540,1400)}still soil {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.50,0:00:30.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} you when
+Dialogue: 1,0:00:30.12,0:00:30.36,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}you{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:30.36,0:00:30.72,Cap,,0,0,0,,{\pos(540,1400)}when you {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.72,0:00:31.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}when{\c&H00FFFFFF&} the states
+Dialogue: 1,0:00:31.34,0:00:31.62,Cap,,0,0,0,,{\pos(540,1400)}when {\c&H0060ECCD}the{\c&H00FFFFFF&} states
+Dialogue: 1,0:00:31.62,0:00:32.04,Cap,,0,0,0,,{\pos(540,1400)}when the {\c&H0060ECCD}states{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.04,0:00:32.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} the regulators
+Dialogue: 1,0:00:32.58,0:00:32.92,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}the{\c&H00FFFFFF&} regulators
+Dialogue: 1,0:00:32.92,0:00:33.52,Cap,,0,0,0,,{\pos(540,1400)}or the {\c&H0060ECCD}regulators{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.52,0:00:34.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}put{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:34.22,0:00:34.40,Cap,,0,0,0,,{\pos(540,1400)}put {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.40,0:00:34.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}training{\c&H00FFFFFF&} they put
+Dialogue: 1,0:00:34.78,0:00:35.56,Cap,,0,0,0,,{\pos(540,1400)}training {\c&H0060ECCD}they{\c&H00FFFFFF&} put
+Dialogue: 1,0:00:35.56,0:00:35.74,Cap,,0,0,0,,{\pos(540,1400)}training they {\c&H0060ECCD}put{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.74,0:00:35.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}their{\c&H00FFFFFF&} little
+Dialogue: 1,0:00:35.90,0:00:36.08,Cap,,0,0,0,,{\pos(540,1400)}their {\c&H0060ECCD}little{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.08,0:00:36.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}goggles{\c&H00FFFFFF&} on and my
+Dialogue: 1,0:00:36.46,0:00:36.82,Cap,,0,0,0,,{\pos(540,1400)}goggles {\c&H0060ECCD}on{\c&H00FFFFFF&} and my
+Dialogue: 1,0:00:36.82,0:00:37.44,Cap,,0,0,0,,{\pos(540,1400)}goggles on {\c&H0060ECCD}and{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:37.44,0:00:37.76,Cap,,0,0,0,,{\pos(540,1400)}goggles on and {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.76,0:00:37.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}dirt{\c&H00FFFFFF&} is different
+Dialogue: 1,0:00:37.96,0:00:38.16,Cap,,0,0,0,,{\pos(540,1400)}dirt {\c&H0060ECCD}is{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:38.16,0:00:38.40,Cap,,0,0,0,,{\pos(540,1400)}dirt is {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.40,0:00:38.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}than{\c&H00FFFFFF&} your dirt
+Dialogue: 1,0:00:38.58,0:00:38.74,Cap,,0,0,0,,{\pos(540,1400)}than {\c&H0060ECCD}your{\c&H00FFFFFF&} dirt
+Dialogue: 1,0:00:38.74,0:00:39.00,Cap,,0,0,0,,{\pos(540,1400)}than your {\c&H0060ECCD}dirt{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.00,0:00:39.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} like well
+Dialogue: 1,0:00:39.94,0:00:40.10,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}like{\c&H00FFFFFF&} well
+Dialogue: 1,0:00:40.10,0:00:40.72,Cap,,0,0,0,,{\pos(540,1400)}it's like {\c&H0060ECCD}well{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.72,0:00:41.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yes{\c&H00FFFFFF&} and no you
+Dialogue: 1,0:00:41.00,0:00:41.16,Cap,,0,0,0,,{\pos(540,1400)}yes {\c&H0060ECCD}and{\c&H00FFFFFF&} no you
+Dialogue: 1,0:00:41.16,0:00:41.48,Cap,,0,0,0,,{\pos(540,1400)}yes and {\c&H0060ECCD}no{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:41.48,0:00:42.70,Cap,,0,0,0,,{\pos(540,1400)}yes and no {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.70,0:00:43.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} some
+Dialogue: 1,0:00:43.08,0:00:43.28,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}some{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.28,0:00:43.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}characteristics{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.94,0:00:44.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} are going to
+Dialogue: 1,0:00:44.34,0:00:44.50,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}are{\c&H00FFFFFF&} going to
+Dialogue: 1,0:00:44.50,0:00:44.58,Cap,,0,0,0,,{\pos(540,1400)}that are {\c&H0060ECCD}going{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:44.58,0:00:44.66,Cap,,0,0,0,,{\pos(540,1400)}that are going {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.66,0:00:44.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}make{\c&H00FFFFFF&} it make it
+Dialogue: 1,0:00:44.90,0:00:45.06,Cap,,0,0,0,,{\pos(540,1400)}make {\c&H0060ECCD}it{\c&H00FFFFFF&} make it
+Dialogue: 1,0:00:45.06,0:00:45.36,Cap,,0,0,0,,{\pos(540,1400)}make it {\c&H0060ECCD}make{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:45.36,0:00:45.58,Cap,,0,0,0,,{\pos(540,1400)}make it make {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.58,0:00:46.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}react{\c&H00FFFFFF&} maybe a
+Dialogue: 1,0:00:46.02,0:00:46.30,Cap,,0,0,0,,{\pos(540,1400)}react {\c&H0060ECCD}maybe{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:46.30,0:00:46.46,Cap,,0,0,0,,{\pos(540,1400)}react maybe {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.46,0:00:46.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}little{\c&H00FFFFFF&} bit
+Dialogue: 1,0:00:46.58,0:00:46.76,Cap,,0,0,0,,{\pos(540,1400)}little {\c&H0060ECCD}bit{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.76,0:00:47.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}differently{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:47.22,0:00:47.90,Cap,,0,0,0,,{\pos(540,1400)}differently {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.90,0:00:48.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} bottom line
+Dialogue: 1,0:00:48.04,0:00:48.30,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}bottom{\c&H00FFFFFF&} line
+Dialogue: 1,0:00:48.30,0:00:48.58,Cap,,0,0,0,,{\pos(540,1400)}the bottom {\c&H0060ECCD}line{\c&H00FFFFFF&}
+Dialogue: 1,0:00:48.58,0:00:48.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}is{\c&H00FFFFFF&} the soil and
+Dialogue: 1,0:00:48.88,0:00:49.06,Cap,,0,0,0,,{\pos(540,1400)}is {\c&H0060ECCD}the{\c&H00FFFFFF&} soil and
+Dialogue: 1,0:00:49.06,0:00:49.54,Cap,,0,0,0,,{\pos(540,1400)}is the {\c&H0060ECCD}soil{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:49.54,0:00:50.26,Cap,,0,0,0,,{\pos(540,1400)}is the soil {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:50.26,0:00:50.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} way that soil
+Dialogue: 1,0:00:50.44,0:00:50.62,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}way{\c&H00FFFFFF&} that soil
+Dialogue: 1,0:00:50.62,0:00:50.84,Cap,,0,0,0,,{\pos(540,1400)}the way {\c&H0060ECCD}that{\c&H00FFFFFF&} soil
+Dialogue: 1,0:00:50.84,0:00:51.32,Cap,,0,0,0,,{\pos(540,1400)}the way that {\c&H0060ECCD}soil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:51.32,0:00:52.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}treats{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:52.24,0:00:52.44,Cap,,0,0,0,,{\pos(540,1400)}treats {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:52.44,0:00:52.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}interacts{\c&H00FFFFFF&} with
+Dialogue: 1,0:00:52.98,0:00:53.34,Cap,,0,0,0,,{\pos(540,1400)}interacts {\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:53.34,0:00:54.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septage{\c&H00FFFFFF&} is pretty
+Dialogue: 1,0:00:54.12,0:00:54.68,Cap,,0,0,0,,{\pos(540,1400)}septage {\c&H0060ECCD}is{\c&H00FFFFFF&} pretty
+Dialogue: 1,0:00:54.68,0:00:54.86,Cap,,0,0,0,,{\pos(540,1400)}septage is {\c&H0060ECCD}pretty{\c&H00FFFFFF&}
+Dialogue: 1,0:00:54.86,0:00:55.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}much{\c&H00FFFFFF&} the same
+Dialogue: 1,0:00:55.02,0:00:55.20,Cap,,0,0,0,,{\pos(540,1400)}much {\c&H0060ECCD}the{\c&H00FFFFFF&} same
+Dialogue: 1,0:00:55.20,0:00:55.62,Cap,,0,0,0,,{\pos(540,1400)}much the {\c&H0060ECCD}same{\c&H00FFFFFF&}

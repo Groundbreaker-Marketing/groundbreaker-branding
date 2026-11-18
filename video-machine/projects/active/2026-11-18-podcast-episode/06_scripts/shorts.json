@@ -1,0 +1,458 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Seipp's (NAWT) guest episode, take 170537 (Zoom HD 1280x720, speaker view, no upscale; synced-clean source = lip-synced, Ashley's room echo reduced). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-02..12-08, every clip to YouTube + TikTok at noon and 5 PM CT; the five strongest (send-a-picture, disney-clog, just-a-pumper, call-you-first, answer-the-phone) also to Instagram and Facebook at noon on weekdays. {kim} tags Kim Seipp, {nawt} tags NAWT (its site lists only a Facebook page; no Instagram, TikTok or YouTube), the full episode linked ({episode}) everywhere but Facebook.",
+ "fillers": true,
+ "max_gap": 1.0,
+ "guests": {
+  "kim": {
+   "name": "Kim Seipp"
+  },
+  "nawt": {
+   "name": "NAWT"
+  }
+ },
+ "cover_with": "with Kim Seipp of NAWT",
+ "title_y": 250,
+ "title_size": 58,
+ "clips": [
+  {
+   "id": "send-a-picture",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     5479,
+     5621
+    ]
+   ],
+   "title": "Ask for a *picture* before\nyou roll the septic truck",
+   "youtube": {
+    "title": "Septic customer says the tank needs pumping? Ask for a picture first",
+    "description": "{kim} of {nawt} says when a septic customer panics, ask for a picture before you roll the truck. If the tank is at the right level, you can pump it all day and never fix a blocked main line.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "A customer says their septic tank needs pumping right now. Before you roll the truck, ask for a picture. {kim} of {nawt} says if the tank is at the correct operating level, you can pump it all day and it will not fix a blocked main line. She has people send a photo of what they're looking at, and then she tells them if there's a problem at all. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #septictank",
+    "instagram": "Pumping the tank all day won't fix a blocked main line. {kim} of {nawt} has panicked customers send a photo before she rolls the truck, and the picture tells her if there's a real problem. The first thing she asks: have you looked inside your septic tank?\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #septictank #customerservice",
+    "facebook": "Picture this: water is backing up into the house, and the homeowner is sure the septic tank needs to be pumped right now. {kim} of {nawt}, who runs a septic pumping business with her husband in Colorado, asks one question first: have you looked inside your septic tank? If it's at the correct level, she says you can pump it all day long and it won't fix anything, because the blockage is in the main line. These days she has people send a picture of what they're looking at, and she tells them whether they have a problem or not.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-02T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1938.7,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/send-a-picture.jpg"
+  },
+  {
+   "id": "educational-opportunity",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     2403,
+     2497
+    ]
+   ],
+   "title": "Don't just pump the tank\nand *walk away*",
+   "youtube": {
+    "title": "Don't Just Pump the Septic Tank and Walk Away",
+    "description": "{kim} of {nawt} says every septic job is a chance to teach the homeowner. Instead of pumping the tank and walking away, talk about how they use the system so it lasts longer.\n\nFull episode: {episode}\n\n#septic #septicpumper #homeownereducation"
+   },
+   "captions": {
+    "tiktok": "You're at the house, the homeowner is having problems with the system, and the easy move is to pump the tank and leave. {kim} of {nawt} says don't. Talk to them about how they're using the system and how it should be used, so they get as much life out of it as they can. She calls it an educational opportunity. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumper #septicbusiness #homeownereducation"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-02T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 869.8,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/educational-opportunity.jpg"
+  },
+  {
+   "id": "disney-clog",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     5810,
+     5986
+    ]
+   ],
+   "title": "A septic clog fixed\nfrom *Disney World*",
+   "youtube": {
+    "title": "He Talked a Septic Customer Through a Clog From Disney World",
+    "description": "{kim} of {nawt} tells the story of her husband Jeff, who finally agreed to go to Disney World and ended up on a bench talking a customer through a blocked line. The customer called back to say thanks. Kim says that kind of customer service has been lost in recent years.\n\nFull episode: {episode}\n\n#septic #septicbusiness #customerservice"
+   },
+   "captions": {
+    "tiktok": "{kim}'s husband Jeff finally agreed to go to Disney World. She got a picture of him on a bench in the park, talking a customer through a blockage in his line. The guy did exactly what Jeff said and called back to say, you're at Disney and you're telling me how to unplug my septic system. Kim says that kind of customer service has been lost. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #customerservice #septicpumper",
+    "instagram": "Jeff finally went to Disney World, and a customer still got a septic answer. {kim} of {nawt} shares the picture she took of him on a bench, talking a guy through a blockage in his line. The customer called back and said, you're at Disney and you're telling me how to unplug my septic system.\n\nFull episode: {episode}\n\n#septic #septicbusiness #customerservice #septicpumper #sanitation",
+    "facebook": "{kim} of {nawt} runs a septic pumping business with her husband Jeff, and his dad would never take a vacation. Jeff was a lot like him, so getting him to Disney World was a big deal. She has a picture of him sitting on a bench in the park, on the phone, talking a customer through a blockage in his line. The customer did exactly what Jeff said and called back a few minutes later: you're at Disney and you're telling me how to unplug my septic system. Kim says that kind of customer service has been lost in recent years.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-03T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 2031.0,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/disney-clog.jpg"
+  },
+  {
+   "id": "soil-is-soil",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     3766,
+     3933
+    ]
+   ],
+   "title": "Why *soil is soil* for\nevery septic system",
+   "youtube": {
+    "title": "Soil Is Soil: Why Septic Systems Work the Same in Every State",
+    "description": "{kim} of {nawt} says state training tends to hyper focus on regulations, but the way soil treats septage is pretty much the same wherever you are. It's sand, silt and clay in different percentages.\n\nFull episode: {episode}\n\n#septic #septicsystem #septictraining"
+   },
+   "captions": {
+    "tiktok": "My dirt is different than your dirt. Not quite, says {kim} of {nawt}. State training tends to hyper focus on regulations, but soil is sand, silt and clay in different percentages, and the way it treats septage is pretty much the same whether you're in Kansas, Colorado or Utah. Do you agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicsystem #septictraining #septicpumper"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-03T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1361.1,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/soil-is-soil.jpg"
+  },
+  {
+   "id": "just-a-pumper",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     7732,
+     7804
+    ]
+   ],
+   "title": "You're not *just* a\nseptic pumper",
+   "youtube": {
+    "title": "Septic Installers and Pumpers Know More Than They Think",
+    "description": "{kim} of {nawt} has watched installers and pumpers go from \"I'm just a pumper\" to knowing more about the system than some designers and regulators, because they see what works.\n\nFull episode: {episode}\n\n#septic #septicpumper #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "I'm just an installer. I'm just a pumper. {kim} of {nawt} has heard it from a lot of people in her trainings, and her answer is no, you're not just that. You see what works, which means you know more about the system than some designers and some regulators. Take that back to them and help them help themselves. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumper #septicinstaller #septicbusiness",
+    "instagram": "You're not just an installer. You're not just a pumper. {kim} of {nawt} says the people in her trainings often know more about the system than some designers and some regulators, because they see what works every day. Agree?\n\nFull episode: {episode}\n\n#septic #septicpumper #septicinstaller #septicbusiness #sanitation",
+    "facebook": "{kim} of {nawt} has seen it for years in her trainings. The guys used to say, I'm just an installer, I'm just a pumper. And now she tells them, no, you're not just that. You see what works and what doesn't, so you know more about the system than some designers and some regulators. If you take that information back to them, she says, you help them help themselves. That kind of confidence is something a lot of people in this industry deserve to hear.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-04T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 2642.0,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/just-a-pumper.jpg"
+  },
+  {
+   "id": "bedding-bellies",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     4387,
+     4487
+    ]
+   ],
+   "title": "The septic install mistake\nColorado *kept finding*",
+   "youtube": {
+    "title": "The Septic Install Mistake Colorado Inspectors Kept Finding",
+    "description": "When Colorado started requiring inspections, {kim} of {nawt} says installers weren't bedding around the tanks properly. After talking with installers at conferences and in the field, she doesn't see it much anymore.\n\nFull episode: {episode}\n\n#septic #septicinspection #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "When Colorado first required septic inspections, one of the first problems that popped up was installers not bedding around the tanks properly. {kim} of {nawt} says almost every second or third inspection had big bellies right next to the tank. After talking with installers at conferences and in the field, she doesn't see it much anymore. Talking works.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinspection #septicinstaller #septictank"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-04T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1570.1,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/bedding-bellies.jpg"
+  },
+  {
+   "id": "honest-about-the-tank",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     6692,
+     6848
+    ]
+   ],
+   "title": "Be honest when it's not\nthe *septic tank*",
+   "youtube": {
+    "title": "Be Honest With Septic Customers When the Problem Isn't the Tank",
+    "description": "{kim} of {nawt} says if she drives out, she's pumping the tank whether it needs it or not, but she tells customers up front. When a picture shows the main line is the problem, she refers them to someone who can fix it.\n\nFull episode: {episode}\n\n#septic #septicpumper #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "If I drive my truck out there, I'm pumping your septic tank whether it needs it or not. {kim} of {nawt} says it costs too much to run that truck up and down the road, so she's upfront about it. If the picture shows the main line is the problem, she refers the customer to someone else instead. Would you do that?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumper #septicbusiness #customerservice"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-05T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2289.4,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/honest-about-the-tank.jpg"
+  },
+  {
+   "id": "classes-on-zoom",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     2636,
+     2742
+    ]
+   ],
+   "title": "Septic classes on Zoom\nreached *all 50 states*",
+   "youtube": {
+    "title": "Septic Classes Moved to Zoom and Reached All 50 States",
+    "description": "When COVID hit, {kim} of {nawt} says the classes that used to be live only went to Zoom. People from the Philippines, Puerto Rico and Brazil joined, and all 50 states have been represented.\n\nFull episode: {episode}\n\n#septic #septictraining #septiccertification"
+   },
+   "captions": {
+    "tiktok": "Septic classes used to be live only. You'd get a couple of people from New Mexico and Utah. Then COVID hit, and {kim} of {nawt} says the classes moved to Zoom. Now they've had people from the Philippines, Puerto Rico and Brazil, and all 50 states have been represented at one time. Wild, right?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septiccertification #septicpumper"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-05T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 949.2,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/classes-on-zoom.jpg"
+  },
+  {
+   "id": "google-reviews",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     6145,
+     6292
+    ]
+   ],
+   "title": "A customer tried to *blow up*\nher Google reviews",
+   "youtube": {
+    "title": "A Customer Tried to Blow Up Her Septic Company's Google Reviews",
+    "description": "{kim} of {nawt} shares what happened when an unhappy customer tried to blow up her Google reviews. She kept it professional, and Google traced it back to him and wiped out all of his reviews.\n\nFull episode: {episode}\n\n#septic #septicbusiness #googlereviews"
+   },
+   "captions": {
+    "tiktok": "A customer called {kim} of {nawt}, and he was not very pleasant. She kept it professional. Then he tried to blow up her Google reviews saying she didn't know anything. She reached out to the people who handle her website and Google, and Google traced it to him and wiped out all of his reviews. Has this happened to you?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #googlereviews #reputation"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-06T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2120.2,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/google-reviews.jpg"
+  },
+  {
+   "id": "horse-show-calls",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     6987,
+     7081
+    ]
+   ],
+   "title": "She judges *horse shows*\nand answers septic calls",
+   "youtube": {
+    "title": "She Judges Horse Shows and Still Answers Septic Calls",
+    "description": "{kim} of {nawt} says her business phone is a cell phone that goes everywhere, even to the horse shows she judges in the summer. Staying in touch with customers is good, but she says you need to draw a line.\n\nFull episode: {episode}\n\n#septic #septicbusiness #worklifebalance"
+   },
+   "captions": {
+    "tiktok": "In the summer, {kim} of {nawt} judges horse shows, and in the off hours she's answering septic calls. Her business phone is a cell phone now, so it goes with her everywhere. Staying in touch with customers is a good thing, she says, but you also need to draw that line and separate yourself. Where's your line?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #smallbusiness #worklifebalance"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-06T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2384.5,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/horse-show-calls.jpg"
+  },
+  {
+   "id": "call-you-first",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     3562,
+     3712
+    ]
+   ],
+   "title": "Be the septic company\nthey *call first*",
+   "youtube": {
+    "title": "Be the Septic Company Homeowners Call First",
+    "description": "{kim} of {nawt} says the homeowner is in charge of the septic system and is the least educated about it. Be the resource they call first instead of grandpa, who never pumped his tank.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Who's in charge of the septic system? The homeowner, says {kim} of {nawt}, who is also the least educated about it. So be the resource they call first, not grandpa who's lived on a septic system and never pumped it. It's good for business, good for the homeowner and good for the system. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #homeownereducation",
+    "instagram": "Who's in charge of the septic system? The homeowner, who is also the least educated about it. {kim} of {nawt} says be the person they call first, not grandpa who's lived on a septic system and never pumped it. Good for business, good for the homeowner, good for the system.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #homeownereducation #sanitation",
+    "facebook": "Think about who is actually in charge of a septic system. It's the homeowner, and they're also the least educated person about it. {kim} of {nawt} says that's why it matters so much for the pros to become the resource those homeowners call first. Instead of calling grandpa, who has lived on a septic system and never pumped it, they call somebody who knows those systems. She says it's good for business, good for the homeowner and good for the system.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-07T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1288.2,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/call-you-first.jpg"
+  },
+  {
+   "id": "live-classes",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     3091,
+     3209
+    ]
+   ],
+   "title": "Why septic crews learn\nbest *in person*",
+   "youtube": {
+    "title": "Why Septic Crews Learn Best in Person, Not on a Screen",
+    "description": "{kim} of {nawt} explains why she advocates live, in-person classes: installers, pumpers and inspectors learn from each other, like the inspector who tells an installer that buried components take time to dig up.\n\nFull episode: {episode}\n\n#septic #septictraining #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "Why does {kim} of {nawt} push live, in-person classes over Zoom? Because this group learns best by being there, seeing it, touching it and talking with each other. Inspectors tell installers, it's not helpful when you bury everything, we can't find it, we have to dig it up. The installers answer, oh, I didn't know that. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septicinstaller #septicinspection"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-07T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1130.7,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/live-classes.jpg"
+  },
+  {
+   "id": "answer-the-phone",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     5145,
+     5286
+    ]
+   ],
+   "title": "Septic customer panicking?\n*Answer* the phone",
+   "youtube": {
+    "title": "Septic Customers Hang Up Fast. Answer the Phone.",
+    "description": "{kim} of {nawt} says when wastewater backs up, people panic and call down the list until someone answers. If you want them to call you, you better answer the phone.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "When wastewater starts backing up into the house, people go into panic mode. They dial a septic company, and if nobody answers they hang up and call the next one down the line. {kim} of {nawt} says if you want people to call you, you better answer the phone. Amen. Does your phone get answered?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #customerservice",
+    "instagram": "If you want people to call you, you better answer the phone. {kim} of {nawt} says when wastewater backs up, homeowners panic, dial, and hang up if nobody answers. Then they call the next one down the line. Agree?\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #customerservice #sanitation",
+    "facebook": "When wastewater starts backing up into the house, people go straight into panic mode. The first thing they do is pick up the phone and dial a septic company. If nobody answers, they hang up and call the next one down the line. {kim} of {nawt} has run a septic pumping business for years, and her advice is simple: if you want people to call you, you better answer the phone.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-08T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1831.5,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/answer-the-phone.jpg"
+  },
+  {
+   "id": "stand-up-for-yourself",
+   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "words": "02_audio/words/170537-synced.json",
+   "keep": [
+    [
+     8147,
+     8233
+    ]
+   ],
+   "title": "Know your septic stuff\nand *stand up* for yourself",
+   "youtube": {
+    "title": "Know Your Septic Stuff and Stand Up for Yourself",
+    "description": "{kim} of {nawt} says the septic world is a small one, so be the person people want on their site because you do the right thing and know your stuff. You don't have to be disrespectful, but you don't have to be disrespected either.\n\nFull episode: {episode}\n\n#septic #septicpumper #septicbusiness"
+   },
+   "captions": {
+    "tiktok": "It's a small world, says {kim} of {nawt}, so be the person people want on their site because you do the right thing and know your stuff. Let them know you know it. You don't have to be disrespectful, but you don't have to be disrespected either. Stand up for yourself. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumper #septicbusiness #septicinstaller"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.42,
+   "publish_at": "2026-12-08T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2788.9,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/stand-up-for-yourself.jpg"
+  }
+ ]
+}
