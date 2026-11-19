@@ -1,17 +1,25 @@
 {
- "output_seconds": 2918.08,
- "segments": 1,
+ "output_seconds": 2851.52,
+ "segments": 2,
  "pause": {
   "max_gap": 1000000.0,
   "pre": 0.3,
   "post": 0.45
  },
  "loudness_in": {
-  "input_i": "-22.93",
+  "input_i": "-22.98",
   "input_tp": "2.71",
-  "input_lra": "4.60"
+  "input_lra": "4.40"
  },
  "joins_not_in_silence": [],
  "cut_words": [],
- "joins": []
+ "joins": [
+  {
+   "at": 530.75,
+   "out_db": -70.5,
+   "in_db": -45.3,
+   "after": "a plan and",
+   "before": "so um yeah"
+  }
+ ]
 }
