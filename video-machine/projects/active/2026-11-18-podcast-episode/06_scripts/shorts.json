@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Seipp's (NAWT) guest episode, take 170537 (Zoom HD 1280x720, speaker view, no upscale; synced-clean source = lip-synced, Ashley's room echo reduced). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-02..12-08, every clip to YouTube + TikTok at noon and 5 PM CT; the five strongest (send-a-picture, disney-clog, just-a-pumper, call-you-first, answer-the-phone) also to Instagram and Facebook at noon on weekdays. {kim} tags Kim Seipp, {nawt} tags NAWT (its site lists only a Facebook page; no Instagram, TikTok or YouTube), the full episode linked ({episode}) everywhere but Facebook.",
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Seipp's (NAWT) guest episode, take 170537 (Zoom HD 1280x720, speaker view, no upscale; synced-clean source = lip-synced, Ashley's room echo reduced). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-02..12-08, every clip to YouTube + TikTok at noon and 5 PM CT; the five strongest (send-a-picture, disney-clog, just-a-pumper, call-you-first, answer-the-phone) also to Instagram and Facebook at noon on weekdays. {kim} tags Kim Seipp, {nawt} tags NAWT (Facebook page facebook.com/NAWT.org, page id 61557233531639 (Ashley, 2026-11-19); no Instagram, TikTok or YouTube on its site), the full episode linked ({episode}) everywhere but Facebook.",
  "fillers": true,
  "max_gap": 1.0,
  "guests": {
@@ -7,7 +7,11 @@
    "name": "Kim Seipp"
   },
   "nawt": {
-   "name": "NAWT"
+   "name": "NAWT",
+   "facebook": {
+    "id": "61557233531639",
+    "name": "NAWT"
+   }
   }
  },
  "cover_with": "with Kim Seipp of NAWT",
