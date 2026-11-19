@@ -1,5 +1,5 @@
 {
- "output_seconds": 1831.96,
+ "output_seconds": 1832.96,
  "segments": 22,
  "pause": {
   "max_gap": 1000000.0,
@@ -7,71 +7,29 @@
   "post": 0.45
  },
  "loudness_in": {
-  "input_i": "-23.06",
-  "input_tp": "2.71",
+  "input_i": "-22.36",
+  "input_tp": "3.31",
   "input_lra": "4.20"
  },
  "joins_not_in_silence": [
   {
-   "at": 194.47,
-   "out_db": -33.0,
-   "in_db": -39.6,
-   "after": "the NOT classes.",
-   "before": "started out with"
-  },
-  {
-   "at": 353.62,
-   "out_db": -43.5,
-   "in_db": -34.1,
-   "after": "as we speak",
-   "before": "talk to us"
-  },
-  {
-   "at": 456.37,
-   "out_db": -51.9,
-   "in_db": -33.5,
-   "after": "that's our flagship",
-   "before": "now we've got"
-  },
-  {
-   "at": 490.01,
-   "out_db": -35.1,
-   "in_db": -32.5,
-   "after": "different sectors within",
-   "before": "trying to turn"
-  },
-  {
-   "at": 542.98,
-   "out_db": -32.0,
-   "in_db": -67.9,
-   "after": "this system right",
-   "before": "but since covid"
-  },
-  {
-   "at": 788.84,
-   "out_db": -29.3,
-   "in_db": -40.4,
+   "at": 789.4,
+   "out_db": -31.1,
+   "in_db": -43.3,
    "after": "about that okay",
    "before": "there's a whole"
   },
   {
-   "at": 1024.36,
-   "out_db": -54.8,
-   "in_db": -33.0,
-   "after": "the other side",
-   "before": "people call up"
-  },
-  {
-   "at": 1226.52,
-   "out_db": -36.9,
-   "in_db": -29.6,
+   "at": 1227.6,
+   "out_db": -52.3,
+   "in_db": -31.0,
    "after": "in recent years",
    "before": "I recently had"
   },
   {
-   "at": 1284.2,
-   "out_db": -67.6,
-   "in_db": -30.1,
+   "at": 1285.27,
+   "out_db": -106.3,
+   "in_db": -33.6,
    "after": "professionally is important",
    "before": "jeff and his"
   }
@@ -79,149 +37,149 @@
  "cut_words": [],
  "joins": [
   {
-   "at": 82.26,
-   "out_db": -46.7,
-   "in_db": -42.8,
+   "at": 82.27,
+   "out_db": -63.4,
+   "in_db": -68.1,
    "after": "got into it",
    "before": "uh started working"
   },
   {
-   "at": 85.77,
-   "out_db": -56.4,
-   "in_db": -43.9,
+   "at": 85.78,
+   "out_db": -102.4,
+   "in_db": -53.1,
    "after": "business in 91",
    "before": "and I got"
   },
   {
-   "at": 194.47,
-   "out_db": -33.0,
-   "in_db": -39.6,
+   "at": 194.54,
+   "out_db": -35.7,
+   "in_db": -44.3,
    "after": "the NOT classes.",
    "before": "started out with"
   },
   {
-   "at": 234.0,
-   "out_db": -63.0,
-   "in_db": -35.8,
+   "at": 234.05,
+   "out_db": -95.6,
+   "in_db": -67.3,
    "after": "in the field.",
    "before": "from there in"
   },
   {
-   "at": 353.62,
-   "out_db": -43.5,
-   "in_db": -34.1,
+   "at": 353.93,
+   "out_db": -74.6,
+   "in_db": -35.5,
    "after": "as we speak",
    "before": "talk to us"
   },
   {
-   "at": 410.46,
-   "out_db": -50.7,
-   "in_db": -70.3,
+   "at": 410.83,
+   "out_db": -89.1,
+   "in_db": -105.6,
    "after": "listening to him",
    "before": "early 90s they"
   },
   {
-   "at": 456.37,
-   "out_db": -51.9,
-   "in_db": -33.5,
+   "at": 456.97,
+   "out_db": -84.5,
+   "in_db": -44.6,
    "after": "that's our flagship",
    "before": "now we've got"
   },
   {
-   "at": 490.01,
-   "out_db": -35.1,
-   "in_db": -32.5,
+   "at": 490.57,
+   "out_db": -36.3,
+   "in_db": -37.7,
    "after": "different sectors within",
    "before": "trying to turn"
   },
   {
-   "at": 542.98,
-   "out_db": -32.0,
-   "in_db": -67.9,
+   "at": 543.54,
+   "out_db": -38.4,
+   "in_db": -104.4,
    "after": "this system right",
    "before": "but since covid"
   },
   {
-   "at": 788.84,
-   "out_db": -29.3,
-   "in_db": -40.4,
+   "at": 789.4,
+   "out_db": -31.1,
+   "in_db": -43.3,
    "after": "about that okay",
    "before": "there's a whole"
   },
   {
-   "at": 832.84,
-   "out_db": -38.4,
-   "in_db": -37.5,
+   "at": 833.4,
+   "out_db": -51.6,
+   "in_db": -43.9,
    "after": "this whole industry",
    "before": "who's the person"
   },
   {
-   "at": 909.86,
-   "out_db": -68.5,
-   "in_db": -44.3,
+   "at": 910.41,
+   "out_db": -101.3,
+   "in_db": -71.1,
    "after": "soil is soil",
    "before": "so um by"
   },
   {
-   "at": 937.65,
-   "out_db": -37.2,
-   "in_db": -57.7,
+   "at": 938.5,
+   "out_db": -39.8,
+   "in_db": -86.3,
    "after": "be the same",
    "before": "one of the"
   },
   {
-   "at": 985.42,
-   "out_db": -47.9,
-   "in_db": -56.8,
+   "at": 986.24,
+   "out_db": -73.6,
+   "in_db": -58.2,
    "after": "it's an issue",
    "before": "yeah so you"
   },
   {
-   "at": 1024.36,
-   "out_db": -54.8,
-   "in_db": -33.0,
+   "at": 1025.18,
+   "out_db": -56.8,
+   "in_db": -42.7,
    "after": "the other side",
    "before": "people call up"
   },
   {
-   "at": 1065.26,
-   "out_db": -41.4,
-   "in_db": -58.0,
+   "at": 1066.09,
+   "out_db": -43.6,
+   "in_db": -42.3,
    "after": "the phone amen",
    "before": "however i will"
   },
   {
-   "at": 1226.52,
-   "out_db": -36.9,
-   "in_db": -29.6,
+   "at": 1227.6,
+   "out_db": -52.3,
+   "in_db": -31.0,
    "after": "in recent years",
    "before": "I recently had"
   },
   {
-   "at": 1284.2,
-   "out_db": -67.6,
-   "in_db": -30.1,
+   "at": 1285.27,
+   "out_db": -106.3,
+   "in_db": -33.6,
    "after": "professionally is important",
    "before": "jeff and his"
   },
   {
-   "at": 1357.98,
-   "out_db": -35.4,
-   "in_db": -67.7,
+   "at": 1359.03,
+   "out_db": -39.1,
+   "in_db": -97.1,
    "after": "absolutely does help",
    "before": "if i drive"
   },
   {
-   "at": 1402.28,
-   "out_db": -72.9,
-   "in_db": -45.9,
+   "at": 1403.32,
+   "out_db": -75.4,
+   "in_db": -47.3,
    "after": "and fix it",
    "before": "and just really"
   },
   {
-   "at": 1737.11,
-   "out_db": -53.3,
-   "in_db": -64.9,
+   "at": 1738.15,
+   "out_db": -83.1,
+   "in_db": -102.5,
    "after": "up for yourself",
    "before": "Yeah, very well"
   }

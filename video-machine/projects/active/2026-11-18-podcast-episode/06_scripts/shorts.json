@@ -51,7 +51,43 @@
    "cover_at": 1938.7,
    "fixes": {},
    "cover": "07_notes/shorts/covers/send-a-picture.jpg",
-   "cover_raise": 250
+   "cover_raise": 250,
+   "metricool": {
+    "post_id": 434841604,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 434841604
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434841619
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 434841635
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/40cf7268e71d4e0b.mp4",
+    "scheduled": "2026-12-02T12:00:00",
+    "caption_sha": "2dd836321aaad7ac",
+    "render_sha": "cd100c7632fb65d3",
+    "cover": "https://static.metricool.com/video/4530374/202611/1cc10c41ce02499b.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/b4a6106787c14422.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "BKmiOyxfr4w",
+    "url": "https://youtu.be/BKmiOyxfr4w",
+    "scheduled": "2026-12-02T12:00:00",
+    "caption_sha": "2dd836321aaad7ac",
+    "render_sha": "cd100c7632fb65d3"
+   }
   },
   {
    "id": "educational-opportunity",
@@ -81,7 +117,31 @@
    ],
    "cover_at": 869.8,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/educational-opportunity.jpg"
+   "cover": "07_notes/shorts/covers/educational-opportunity.jpg",
+   "metricool": {
+    "post_id": 434841737,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434841737
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/0a566a00ba154cb6.mp4",
+    "scheduled": "2026-12-02T17:00:00",
+    "caption_sha": "d6010b44e2418b85",
+    "render_sha": "92c53fa2b71a9fa9",
+    "cover": "https://static.metricool.com/video/4530374/202611/38181fef85b44bdc.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/ad61acb101a74aaa.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "irz2TqnHGw0",
+    "url": "https://youtu.be/irz2TqnHGw0",
+    "scheduled": "2026-12-02T17:00:00",
+    "caption_sha": "d6010b44e2418b85",
+    "render_sha": "92c53fa2b71a9fa9"
+   }
   },
   {
    "id": "disney-clog",
@@ -115,7 +175,43 @@
    ],
    "cover_at": 2031.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/disney-clog.jpg"
+   "cover": "07_notes/shorts/covers/disney-clog.jpg",
+   "metricool": {
+    "post_id": 434841820,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 434841820
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434841834
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 434841845
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/8e9b00c416584f58.mp4",
+    "scheduled": "2026-12-03T12:00:00",
+    "caption_sha": "125dfdde60f7c5f4",
+    "render_sha": "8e9834f904fe2372",
+    "cover": "https://static.metricool.com/video/4530374/202611/126ce9377c314106.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/a931801276044e5a.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "M6_fQ0LvY6s",
+    "url": "https://youtu.be/M6_fQ0LvY6s",
+    "scheduled": "2026-12-03T12:00:00",
+    "caption_sha": "125dfdde60f7c5f4",
+    "render_sha": "8e9834f904fe2372"
+   }
   },
   {
    "id": "bedding-bellies",
@@ -145,7 +241,31 @@
    ],
    "cover_at": 1570.1,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/bedding-bellies.jpg"
+   "cover": "07_notes/shorts/covers/bedding-bellies.jpg",
+   "metricool": {
+    "post_id": 434841992,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434841992
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/45aecc3b1bb540c8.mp4",
+    "scheduled": "2026-12-03T17:00:00",
+    "caption_sha": "6ad28322762413a8",
+    "render_sha": "12b96130d6b7c11a",
+    "cover": "https://static.metricool.com/video/4530374/202611/2807cd2408be45c5.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/8e489d34a8b74b14.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "F2GIW0_b8tE",
+    "url": "https://youtu.be/F2GIW0_b8tE",
+    "scheduled": "2026-12-03T17:00:00",
+    "caption_sha": "6ad28322762413a8",
+    "render_sha": "12b96130d6b7c11a"
+   }
   },
   {
    "id": "just-a-pumper",
@@ -179,7 +299,43 @@
    ],
    "cover_at": 2642.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/just-a-pumper.jpg"
+   "cover": "07_notes/shorts/covers/just-a-pumper.jpg",
+   "metricool": {
+    "post_id": 434842122,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 434842122
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842131
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 434842148
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/7ae29928c3b04b2f.mp4",
+    "scheduled": "2026-12-04T12:00:00",
+    "caption_sha": "3f1204c2a508bedc",
+    "render_sha": "c717997a7366bc7a",
+    "cover": "https://static.metricool.com/video/4530374/202611/dde418b86093480f.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/0e9d5166bc8c42a0.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "gyek9yAqOkk",
+    "url": "https://youtu.be/gyek9yAqOkk",
+    "scheduled": "2026-12-04T12:00:00",
+    "caption_sha": "3f1204c2a508bedc",
+    "render_sha": "c717997a7366bc7a"
+   }
   },
   {
    "id": "classes-on-zoom",
@@ -209,7 +365,31 @@
    ],
    "cover_at": 949.2,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/classes-on-zoom.jpg"
+   "cover": "07_notes/shorts/covers/classes-on-zoom.jpg",
+   "metricool": {
+    "post_id": 434842230,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842230
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/eae93c2622b64d89.mp4",
+    "scheduled": "2026-12-04T17:00:00",
+    "caption_sha": "eac0eb239c885d2e",
+    "render_sha": "5929d177a5715786",
+    "cover": "https://static.metricool.com/video/4530374/202611/4e73af8446554a8e.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/2ed99b2876fd430d.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "wD_V8llnk64",
+    "url": "https://youtu.be/wD_V8llnk64",
+    "scheduled": "2026-12-04T17:00:00",
+    "caption_sha": "eac0eb239c885d2e",
+    "render_sha": "5929d177a5715786"
+   }
   },
   {
    "id": "honest-about-the-tank",
@@ -239,7 +419,31 @@
    ],
    "cover_at": 2289.4,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/honest-about-the-tank.jpg"
+   "cover": "07_notes/shorts/covers/honest-about-the-tank.jpg",
+   "metricool": {
+    "post_id": 434842339,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842339
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/02d8f417cdb64c21.mp4",
+    "scheduled": "2026-12-05T12:00:00",
+    "caption_sha": "3090fc64edba2516",
+    "render_sha": "a2c5e2699d594f67",
+    "cover": "https://static.metricool.com/video/4530374/202611/51e49faad9e34420.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/57a004f8822644f0.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "lYnEace0tAA",
+    "url": "https://youtu.be/lYnEace0tAA",
+    "scheduled": "2026-12-05T12:00:00",
+    "caption_sha": "3090fc64edba2516",
+    "render_sha": "a2c5e2699d594f67"
+   }
   },
   {
    "id": "live-classes",
@@ -270,7 +474,31 @@
    "cover_at": 1130.7,
    "fixes": {},
    "cover": "07_notes/shorts/covers/live-classes.jpg",
-   "end_pad": 0.05
+   "end_pad": 0.05,
+   "metricool": {
+    "post_id": 434842441,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842441
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/8f5d875bc8644370.mp4",
+    "scheduled": "2026-12-05T17:00:00",
+    "caption_sha": "e5f8c42c0c5eeb67",
+    "render_sha": "2689e300fbf771ad",
+    "cover": "https://static.metricool.com/video/4530374/202611/13c28052c26947d0.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/9d10ea56412f4d38.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "vY0jdkK_8hA",
+    "url": "https://youtu.be/vY0jdkK_8hA",
+    "scheduled": "2026-12-05T17:00:00",
+    "caption_sha": "e5f8c42c0c5eeb67",
+    "render_sha": "2689e300fbf771ad"
+   }
   },
   {
    "id": "stand-up-for-yourself",
@@ -300,7 +528,31 @@
    ],
    "cover_at": 2788.9,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/stand-up-for-yourself.jpg"
+   "cover": "07_notes/shorts/covers/stand-up-for-yourself.jpg",
+   "metricool": {
+    "post_id": 434842524,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842524
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/5a929400829e408c.mp4",
+    "scheduled": "2026-12-06T12:00:00",
+    "caption_sha": "02d931d7e656a1b9",
+    "render_sha": "8dc253107a450523",
+    "cover": "https://static.metricool.com/video/4530374/202611/7ff7635bb0294a31.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/428f95ac53fe461e.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "Rlwkqd5rGkY",
+    "url": "https://youtu.be/Rlwkqd5rGkY",
+    "scheduled": "2026-12-06T12:00:00",
+    "caption_sha": "02d931d7e656a1b9",
+    "render_sha": "8dc253107a450523"
+   }
   },
   {
    "id": "call-you-first",
@@ -335,7 +587,43 @@
    "cover_at": 1317.0,
    "fixes": {},
    "cover": "07_notes/shorts/covers/call-you-first.jpg",
-   "trim_start": -0.18
+   "trim_start": -0.18,
+   "metricool": {
+    "post_id": 434842628,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 434842628
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842644
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 434842661
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/9846a54b510c4efa.mp4",
+    "scheduled": "2026-12-07T12:00:00",
+    "caption_sha": "2a5c84cb2210a6c6",
+    "render_sha": "979f057b8d8939fa",
+    "cover": "https://static.metricool.com/video/4530374/202611/8e1582d50a8a4cf6.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/4904580667704d52.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "M3_rE1MfizA",
+    "url": "https://youtu.be/M3_rE1MfizA",
+    "scheduled": "2026-12-07T12:00:00",
+    "caption_sha": "2a5c84cb2210a6c6",
+    "render_sha": "979f057b8d8939fa"
+   }
   },
   {
    "id": "answer-the-phone",
@@ -369,7 +657,43 @@
    ],
    "cover_at": 1831.5,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/answer-the-phone.jpg"
+   "cover": "07_notes/shorts/covers/answer-the-phone.jpg",
+   "metricool": {
+    "post_id": 434842753,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 434842753
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 434842769
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 434842780
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/f154390b0c624516.mp4",
+    "scheduled": "2026-12-08T12:00:00",
+    "caption_sha": "61890e6ac842bf18",
+    "render_sha": "cd1bdc69e7e608aa",
+    "cover": "https://static.metricool.com/video/4530374/202611/a91d50662dab49e4.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/b88644e21eab4bb4.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "nWIv4hj0uqo",
+    "url": "https://youtu.be/nWIv4hj0uqo",
+    "scheduled": "2026-12-08T12:00:00",
+    "caption_sha": "61890e6ac842bf18",
+    "render_sha": "cd1bdc69e7e608aa"
+   }
   }
  ]
 }

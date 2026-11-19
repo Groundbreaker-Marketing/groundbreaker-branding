@@ -414,7 +414,7 @@
   "post": 0.45
  },
  "publish": {
-  "approved": false,
+  "approved": true,
   "youtube": {
    "title": "Inside NAWT Septic Education With Kim Seipp",
    "description": "Kim Seipp joins me to talk about why the best septic pros never stop learning. Kim runs the education program at the National Association of Wastewater Technicians (NAWT), and she and her husband own High Plains Sanitation Service in Colorado, a family septic business his father started in 1959.\n\nA lot of you tell me customers call in a panic and you're never sure whether to roll the truck. Kim shares how she talks them off the cliff, why a quick photo can save you a trip, and why answering the phone still wins the job. We also get into how NAWT grew from a voice for septic pumpers into a training group, what a national class gives you that state training doesn't, and why she tells every installer and pumper to value their work.\n\nWhat we cover:\n- How a septic family business led Kim into industry education\n- How NAWT grew from a voice for pumpers into a training group\n- Why live classes beat online for most septic crews\n- What a national class gives you that your state's training doesn't\n- How to talk a panicked customer off the cliff, and why you ask for a picture first\n- Customer service lessons: reviews, reputation and a clean truck\n- Kim's advice to every installer and pumper: value what you do\n\nFind NAWT at nawt.org.",
@@ -433,7 +433,13 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "publish_at": "2026-12-02T08:00:00",
+  "youtube_upload": {
+   "video_id": "B8AyCMe7xBU",
+   "url": "https://youtu.be/B8AyCMe7xBU",
+   "scheduled": "2026-12-02T08:00:00"
+  }
  },
  "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). Re-edited shorter 2026-11-19 (Ashley: a lot more aggressive, long chunks not tiny pieces): 21 long cuts, joins in silence; replaces the continuous-take rule for this episode only. v8 (2026-11-19, Ashley's notes on v7): source is zoom-170537-synced-clean-v8.mov, picture and audio rebuilt. (1) 36 Zoom speaker-view flips to Ashley (a quick 'yeah' held about 2.8 s, or a join landing on one; one is the 0.4 s flash at 1:23) are covered with Kim's own preceding frames, never cutting audio. (2) The lower third's Kim reference frame was at 60 s, which is Ashley's room, so the names flipped at random; it is now 120 s. (3) Kim's own track is de-noised (afftdn 10 dB, whole track, +1.6 dB makeup), Ashley's track and her de-reverb untouched. Earlier cut, Kim's dog break, words 1482 to 1628 (source about 533.0 s to 599.3 s, about 66 s) is dropped; the edges sit on the real silences, one word nudged on the left (and) and four on the right (so um yeah so); everything else is continuous.",
  "thumbnail": {
