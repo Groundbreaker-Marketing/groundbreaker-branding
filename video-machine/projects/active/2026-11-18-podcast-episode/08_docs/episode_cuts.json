@@ -1,25 +1,229 @@
 {
- "output_seconds": 2851.52,
- "segments": 2,
+ "output_seconds": 1831.96,
+ "segments": 22,
  "pause": {
   "max_gap": 1000000.0,
   "pre": 0.3,
   "post": 0.45
  },
  "loudness_in": {
-  "input_i": "-22.98",
+  "input_i": "-23.06",
   "input_tp": "2.71",
-  "input_lra": "4.40"
+  "input_lra": "4.20"
  },
- "joins_not_in_silence": [],
+ "joins_not_in_silence": [
+  {
+   "at": 194.47,
+   "out_db": -33.0,
+   "in_db": -39.6,
+   "after": "the NOT classes.",
+   "before": "started out with"
+  },
+  {
+   "at": 353.62,
+   "out_db": -43.5,
+   "in_db": -34.1,
+   "after": "as we speak",
+   "before": "talk to us"
+  },
+  {
+   "at": 456.37,
+   "out_db": -51.9,
+   "in_db": -33.5,
+   "after": "that's our flagship",
+   "before": "now we've got"
+  },
+  {
+   "at": 490.01,
+   "out_db": -35.1,
+   "in_db": -32.5,
+   "after": "different sectors within",
+   "before": "trying to turn"
+  },
+  {
+   "at": 542.98,
+   "out_db": -32.0,
+   "in_db": -67.9,
+   "after": "this system right",
+   "before": "but since covid"
+  },
+  {
+   "at": 788.84,
+   "out_db": -29.3,
+   "in_db": -40.4,
+   "after": "about that okay",
+   "before": "there's a whole"
+  },
+  {
+   "at": 1024.36,
+   "out_db": -54.8,
+   "in_db": -33.0,
+   "after": "the other side",
+   "before": "people call up"
+  },
+  {
+   "at": 1226.52,
+   "out_db": -36.9,
+   "in_db": -29.6,
+   "after": "in recent years",
+   "before": "I recently had"
+  },
+  {
+   "at": 1284.2,
+   "out_db": -67.6,
+   "in_db": -30.1,
+   "after": "professionally is important",
+   "before": "jeff and his"
+  }
+ ],
  "cut_words": [],
  "joins": [
   {
-   "at": 530.75,
-   "out_db": -70.5,
-   "in_db": -45.3,
-   "after": "a plan and",
-   "before": "so um yeah"
+   "at": 82.26,
+   "out_db": -46.7,
+   "in_db": -42.8,
+   "after": "got into it",
+   "before": "uh started working"
+  },
+  {
+   "at": 85.77,
+   "out_db": -56.4,
+   "in_db": -43.9,
+   "after": "business in 91",
+   "before": "and I got"
+  },
+  {
+   "at": 194.47,
+   "out_db": -33.0,
+   "in_db": -39.6,
+   "after": "the NOT classes.",
+   "before": "started out with"
+  },
+  {
+   "at": 234.0,
+   "out_db": -63.0,
+   "in_db": -35.8,
+   "after": "in the field.",
+   "before": "from there in"
+  },
+  {
+   "at": 353.62,
+   "out_db": -43.5,
+   "in_db": -34.1,
+   "after": "as we speak",
+   "before": "talk to us"
+  },
+  {
+   "at": 410.46,
+   "out_db": -50.7,
+   "in_db": -70.3,
+   "after": "listening to him",
+   "before": "early 90s they"
+  },
+  {
+   "at": 456.37,
+   "out_db": -51.9,
+   "in_db": -33.5,
+   "after": "that's our flagship",
+   "before": "now we've got"
+  },
+  {
+   "at": 490.01,
+   "out_db": -35.1,
+   "in_db": -32.5,
+   "after": "different sectors within",
+   "before": "trying to turn"
+  },
+  {
+   "at": 542.98,
+   "out_db": -32.0,
+   "in_db": -67.9,
+   "after": "this system right",
+   "before": "but since covid"
+  },
+  {
+   "at": 788.84,
+   "out_db": -29.3,
+   "in_db": -40.4,
+   "after": "about that okay",
+   "before": "there's a whole"
+  },
+  {
+   "at": 832.84,
+   "out_db": -38.4,
+   "in_db": -37.5,
+   "after": "this whole industry",
+   "before": "who's the person"
+  },
+  {
+   "at": 909.86,
+   "out_db": -68.5,
+   "in_db": -44.3,
+   "after": "soil is soil",
+   "before": "so um by"
+  },
+  {
+   "at": 937.65,
+   "out_db": -37.2,
+   "in_db": -57.7,
+   "after": "be the same",
+   "before": "one of the"
+  },
+  {
+   "at": 985.42,
+   "out_db": -47.9,
+   "in_db": -56.8,
+   "after": "it's an issue",
+   "before": "yeah so you"
+  },
+  {
+   "at": 1024.36,
+   "out_db": -54.8,
+   "in_db": -33.0,
+   "after": "the other side",
+   "before": "people call up"
+  },
+  {
+   "at": 1065.26,
+   "out_db": -41.4,
+   "in_db": -58.0,
+   "after": "the phone amen",
+   "before": "however i will"
+  },
+  {
+   "at": 1226.52,
+   "out_db": -36.9,
+   "in_db": -29.6,
+   "after": "in recent years",
+   "before": "I recently had"
+  },
+  {
+   "at": 1284.2,
+   "out_db": -67.6,
+   "in_db": -30.1,
+   "after": "professionally is important",
+   "before": "jeff and his"
+  },
+  {
+   "at": 1357.98,
+   "out_db": -35.4,
+   "in_db": -67.7,
+   "after": "absolutely does help",
+   "before": "if i drive"
+  },
+  {
+   "at": 1402.28,
+   "out_db": -72.9,
+   "in_db": -45.9,
+   "after": "and fix it",
+   "before": "and just really"
+  },
+  {
+   "at": 1737.11,
+   "out_db": -53.3,
+   "in_db": -64.9,
+   "after": "up for yourself",
+   "before": "Yeah, very well"
   }
  ]
 }
