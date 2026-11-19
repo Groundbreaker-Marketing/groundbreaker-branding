@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 14 clips from Kim Seipp's (NAWT) guest episode, take 170537 (Zoom HD 1280x720, speaker view, no upscale; synced-clean source = lip-synced, Ashley's room echo reduced). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-02..12-08, every clip to YouTube + TikTok at noon and 5 PM CT; the five strongest (send-a-picture, disney-clog, just-a-pumper, call-you-first, answer-the-phone) also to Instagram and Facebook at noon on weekdays. {kim} tags Kim Seipp, {nawt} tags NAWT (Facebook page facebook.com/NAWT.org, page id 61557233531639 (Ashley, 2026-11-19); no Instagram, TikTok or YouTube on its site), the full episode linked ({episode}) everywhere but Facebook.",
+ "_how": "Recipe for shorts.build (video-machine). 11 clips from Kim Seipp's (NAWT) guest episode, take 170537 (Zoom HD 1280x720, speaker view, no upscale; v8 source = lip-synced, Ashley's room echo reduced, Kim's background noise reduced, no frame of Ashley while only Kim talks). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Re-cut 2026-11-19 to match the shorter episode (keep ranges in episode.json): soil-is-soil, horse-show-calls and google-reviews dropped (outside the kept content), call-you-first, honest-about-the-tank and live-classes trimmed to kept words. Posting plan: release week 2026-12-02..12-08, every clip to YouTube + TikTok, two a day at noon and 5 PM CT through 12-05, then one at noon 12-06, 12-07 and 12-08; the five strongest (send-a-picture, disney-clog, just-a-pumper, call-you-first, answer-the-phone) also to Instagram and Facebook at noon on weekdays. {kim} tags Kim Seipp, {nawt} tags NAWT (Facebook page facebook.com/NAWT.org, page id 61557233531639 (Ashley, 2026-11-19); no Instagram, TikTok or YouTube on its site), the full episode linked ({episode}) everywhere but Facebook.",
  "fillers": true,
  "max_gap": 1.0,
  "guests": {
@@ -20,7 +20,7 @@
  "clips": [
   {
    "id": "send-a-picture",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
@@ -28,7 +28,7 @@
      5621
     ]
    ],
-   "title": "Ask for a *picture* before\nyou roll the septic truck",
+   "title": "Ask for a *picture* before\nyou send your pump truck",
    "youtube": {
     "title": "Septic customer says the tank needs pumping? Ask for a picture first",
     "description": "{kim} of {nawt} says when a septic customer panics, ask for a picture before you roll the truck. If the tank is at the right level, you can pump it all day and never fix a blocked main line.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
@@ -50,11 +50,12 @@
    ],
    "cover_at": 1938.7,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/send-a-picture.jpg"
+   "cover": "07_notes/shorts/covers/send-a-picture.jpg",
+   "cover_raise": 250
   },
   {
    "id": "educational-opportunity",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
@@ -84,7 +85,7 @@
   },
   {
    "id": "disney-clog",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
@@ -117,22 +118,22 @@
    "cover": "07_notes/shorts/covers/disney-clog.jpg"
   },
   {
-   "id": "soil-is-soil",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "id": "bedding-bellies",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
-     3766,
-     3933
+     4387,
+     4487
     ]
    ],
-   "title": "Why *soil is soil* for\nevery septic system",
+   "title": "The septic install mistake\nColorado *kept finding*",
    "youtube": {
-    "title": "Soil Is Soil: Why Septic Systems Work the Same in Every State",
-    "description": "{kim} of {nawt} says state training tends to hyper focus on regulations, but the way soil treats septage is pretty much the same wherever you are. It's sand, silt and clay in different percentages.\n\nFull episode: {episode}\n\n#septic #septicsystem #septictraining"
+    "title": "The Septic Install Mistake Colorado Inspectors Kept Finding",
+    "description": "When Colorado started requiring inspections, {kim} of {nawt} says installers weren't bedding around the tanks properly. After talking with installers at conferences and in the field, she doesn't see it much anymore.\n\nFull episode: {episode}\n\n#septic #septicinspection #septicinstaller"
    },
    "captions": {
-    "tiktok": "My dirt is different than your dirt. Not quite, says {kim} of {nawt}. State training tends to hyper focus on regulations, but soil is sand, silt and clay in different percentages, and the way it treats septage is pretty much the same whether you're in Kansas, Colorado or Utah. Do you agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicsystem #septictraining #septicpumper"
+    "tiktok": "When Colorado first required septic inspections, one of the first problems that popped up was installers not bedding around the tanks properly. {kim} of {nawt} says almost every second or third inspection had big bellies right next to the tank. After talking with installers at conferences and in the field, she doesn't see it much anymore. Talking works.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinspection #septicinstaller #septictank"
    },
    "approved": false,
    "layout": "crop",
@@ -142,13 +143,13 @@
     "youtube",
     "tiktok"
    ],
-   "cover_at": 1361.1,
+   "cover_at": 1570.1,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/soil-is-soil.jpg"
+   "cover": "07_notes/shorts/covers/bedding-bellies.jpg"
   },
   {
    "id": "just-a-pumper",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
@@ -181,22 +182,22 @@
    "cover": "07_notes/shorts/covers/just-a-pumper.jpg"
   },
   {
-   "id": "bedding-bellies",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "id": "classes-on-zoom",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
-     4387,
-     4487
+     2636,
+     2742
     ]
    ],
-   "title": "The septic install mistake\nColorado *kept finding*",
+   "title": "Septic classes on Zoom\nreached *all 50 states*",
    "youtube": {
-    "title": "The Septic Install Mistake Colorado Inspectors Kept Finding",
-    "description": "When Colorado started requiring inspections, {kim} of {nawt} says installers weren't bedding around the tanks properly. After talking with installers at conferences and in the field, she doesn't see it much anymore.\n\nFull episode: {episode}\n\n#septic #septicinspection #septicinstaller"
+    "title": "Septic Classes Moved to Zoom and Reached All 50 States",
+    "description": "When COVID hit, {kim} of {nawt} says the classes that used to be live only went to Zoom. People from the Philippines, Puerto Rico and Brazil joined, and all 50 states have been represented.\n\nFull episode: {episode}\n\n#septic #septictraining #septiccertification"
    },
    "captions": {
-    "tiktok": "When Colorado first required septic inspections, one of the first problems that popped up was installers not bedding around the tanks properly. {kim} of {nawt} says almost every second or third inspection had big bellies right next to the tank. After talking with installers at conferences and in the field, she doesn't see it much anymore. Talking works.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinspection #septicinstaller #septictank"
+    "tiktok": "Septic classes used to be live only. You'd get a couple of people from New Mexico and Utah. Then COVID hit, and {kim} of {nawt} says the classes moved to Zoom. Now they've had people from the Philippines, Puerto Rico and Brazil, and all 50 states have been represented at one time. Wild, right?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septiccertification #septicpumper"
    },
    "approved": false,
    "layout": "crop",
@@ -206,17 +207,17 @@
     "youtube",
     "tiktok"
    ],
-   "cover_at": 1570.1,
+   "cover_at": 949.2,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/bedding-bellies.jpg"
+   "cover": "07_notes/shorts/covers/classes-on-zoom.jpg"
   },
   {
    "id": "honest-about-the-tank",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
-     6692,
+     6693,
      6848
     ]
    ],
@@ -241,22 +242,22 @@
    "cover": "07_notes/shorts/covers/honest-about-the-tank.jpg"
   },
   {
-   "id": "classes-on-zoom",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "id": "live-classes",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
-     2636,
-     2742
+     3091,
+     3208
     ]
    ],
-   "title": "Septic classes on Zoom\nreached *all 50 states*",
+   "title": "Why septic crews learn\nbest *in person*",
    "youtube": {
-    "title": "Septic Classes Moved to Zoom and Reached All 50 States",
-    "description": "When COVID hit, {kim} of {nawt} says the classes that used to be live only went to Zoom. People from the Philippines, Puerto Rico and Brazil joined, and all 50 states have been represented.\n\nFull episode: {episode}\n\n#septic #septictraining #septiccertification"
+    "title": "Why Septic Crews Learn Best in Person, Not on a Screen",
+    "description": "{kim} of {nawt} explains why she advocates live, in-person classes: installers, pumpers and inspectors learn from each other, like the inspector who tells an installer that buried components take time to dig up.\n\nFull episode: {episode}\n\n#septic #septictraining #septicinstaller"
    },
    "captions": {
-    "tiktok": "Septic classes used to be live only. You'd get a couple of people from New Mexico and Utah. Then COVID hit, and {kim} of {nawt} says the classes moved to Zoom. Now they've had people from the Philippines, Puerto Rico and Brazil, and all 50 states have been represented at one time. Wild, right?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septiccertification #septicpumper"
+    "tiktok": "Why does {kim} of {nawt} push live, in-person classes over Zoom? Because this group learns best by being there, seeing it, touching it and talking with each other. Inspectors tell installers, it's not helpful when you bury everything, we can't find it, we have to dig it up. The installers answer, oh, I didn't know that. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septicinstaller #septicinspection"
    },
    "approved": false,
    "layout": "crop",
@@ -266,27 +267,28 @@
     "youtube",
     "tiktok"
    ],
-   "cover_at": 949.2,
+   "cover_at": 1130.7,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/classes-on-zoom.jpg"
+   "cover": "07_notes/shorts/covers/live-classes.jpg",
+   "end_pad": 0.05
   },
   {
-   "id": "google-reviews",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "id": "stand-up-for-yourself",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
-     6145,
-     6292
+     8147,
+     8233
     ]
    ],
-   "title": "A customer tried to *blow up*\nher Google reviews",
+   "title": "Know your septic stuff\nand *stand up* for yourself",
    "youtube": {
-    "title": "A Customer Tried to Blow Up Her Septic Company's Google Reviews",
-    "description": "{kim} of {nawt} shares what happened when an unhappy customer tried to blow up her Google reviews. She kept it professional, and Google traced it back to him and wiped out all of his reviews.\n\nFull episode: {episode}\n\n#septic #septicbusiness #googlereviews"
+    "title": "Know Your Septic Stuff and Stand Up for Yourself",
+    "description": "{kim} of {nawt} says the septic world is a small one, so be the person people want on their site because you do the right thing and know your stuff. You don't have to be disrespectful, but you don't have to be disrespected either.\n\nFull episode: {episode}\n\n#septic #septicpumper #septicbusiness"
    },
    "captions": {
-    "tiktok": "A customer called {kim} of {nawt}, and he was not very pleasant. She kept it professional. Then he tried to blow up her Google reviews saying she didn't know anything. She reached out to the people who handle her website and Google, and Google traced it to him and wiped out all of his reviews. Has this happened to you?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #googlereviews #reputation"
+    "tiktok": "It's a small world, says {kim} of {nawt}, so be the person people want on their site because you do the right thing and know your stuff. Let them know you know it. You don't have to be disrespectful, but you don't have to be disrespected either. Stand up for yourself. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumper #septicbusiness #septicinstaller"
    },
    "approved": false,
    "layout": "crop",
@@ -296,47 +298,17 @@
     "youtube",
     "tiktok"
    ],
-   "cover_at": 2120.2,
+   "cover_at": 2788.9,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/google-reviews.jpg"
-  },
-  {
-   "id": "horse-show-calls",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
-   "words": "02_audio/words/170537-synced.json",
-   "keep": [
-    [
-     6987,
-     7081
-    ]
-   ],
-   "title": "She judges *horse shows*\nand answers septic calls",
-   "youtube": {
-    "title": "She Judges Horse Shows and Still Answers Septic Calls",
-    "description": "{kim} of {nawt} says her business phone is a cell phone that goes everywhere, even to the horse shows she judges in the summer. Staying in touch with customers is good, but she says you need to draw a line.\n\nFull episode: {episode}\n\n#septic #septicbusiness #worklifebalance"
-   },
-   "captions": {
-    "tiktok": "In the summer, {kim} of {nawt} judges horse shows, and in the off hours she's answering septic calls. Her business phone is a cell phone now, so it goes with her everywhere. Staying in touch with customers is a good thing, she says, but you also need to draw that line and separate yourself. Where's your line?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #smallbusiness #worklifebalance"
-   },
-   "approved": false,
-   "layout": "crop",
-   "crop_x": 0.42,
-   "publish_at": "2026-12-06T17:00:00",
-   "networks": [
-    "youtube",
-    "tiktok"
-   ],
-   "cover_at": 2384.5,
-   "fixes": {},
-   "cover": "07_notes/shorts/covers/horse-show-calls.jpg"
+   "cover": "07_notes/shorts/covers/stand-up-for-yourself.jpg"
   },
   {
    "id": "call-you-first",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
-     3562,
+     3596,
      3712
     ]
    ],
@@ -360,43 +332,14 @@
     "instagram",
     "facebook"
    ],
-   "cover_at": 1288.2,
+   "cover_at": 1317.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/call-you-first.jpg"
-  },
-  {
-   "id": "live-classes",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
-   "words": "02_audio/words/170537-synced.json",
-   "keep": [
-    [
-     3091,
-     3209
-    ]
-   ],
-   "title": "Why septic crews learn\nbest *in person*",
-   "youtube": {
-    "title": "Why Septic Crews Learn Best in Person, Not on a Screen",
-    "description": "{kim} of {nawt} explains why she advocates live, in-person classes: installers, pumpers and inspectors learn from each other, like the inspector who tells an installer that buried components take time to dig up.\n\nFull episode: {episode}\n\n#septic #septictraining #septicinstaller"
-   },
-   "captions": {
-    "tiktok": "Why does {kim} of {nawt} push live, in-person classes over Zoom? Because this group learns best by being there, seeing it, touching it and talking with each other. Inspectors tell installers, it's not helpful when you bury everything, we can't find it, we have to dig it up. The installers answer, oh, I didn't know that. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septicinstaller #septicinspection"
-   },
-   "approved": false,
-   "layout": "crop",
-   "crop_x": 0.42,
-   "publish_at": "2026-12-07T17:00:00",
-   "networks": [
-    "youtube",
-    "tiktok"
-   ],
-   "cover_at": 1130.7,
-   "fixes": {},
-   "cover": "07_notes/shorts/covers/live-classes.jpg"
+   "cover": "07_notes/shorts/covers/call-you-first.jpg",
+   "trim_start": -0.18
   },
   {
    "id": "answer-the-phone",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json",
    "keep": [
     [
@@ -427,36 +370,6 @@
    "cover_at": 1831.5,
    "fixes": {},
    "cover": "07_notes/shorts/covers/answer-the-phone.jpg"
-  },
-  {
-   "id": "stand-up-for-yourself",
-   "source": "01_footage/zoom-170537-synced-clean.mov",
-   "words": "02_audio/words/170537-synced.json",
-   "keep": [
-    [
-     8147,
-     8233
-    ]
-   ],
-   "title": "Know your septic stuff\nand *stand up* for yourself",
-   "youtube": {
-    "title": "Know Your Septic Stuff and Stand Up for Yourself",
-    "description": "{kim} of {nawt} says the septic world is a small one, so be the person people want on their site because you do the right thing and know your stuff. You don't have to be disrespectful, but you don't have to be disrespected either.\n\nFull episode: {episode}\n\n#septic #septicpumper #septicbusiness"
-   },
-   "captions": {
-    "tiktok": "It's a small world, says {kim} of {nawt}, so be the person people want on their site because you do the right thing and know your stuff. Let them know you know it. You don't have to be disrespectful, but you don't have to be disrespected either. Stand up for yourself. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicpumper #septicbusiness #septicinstaller"
-   },
-   "approved": false,
-   "layout": "crop",
-   "crop_x": 0.42,
-   "publish_at": "2026-12-08T17:00:00",
-   "networks": [
-    "youtube",
-    "tiktok"
-   ],
-   "cover_at": 2788.9,
-   "fixes": {},
-   "cover": "07_notes/shorts/covers/stand-up-for-yourself.jpg"
   }
  ]
 }

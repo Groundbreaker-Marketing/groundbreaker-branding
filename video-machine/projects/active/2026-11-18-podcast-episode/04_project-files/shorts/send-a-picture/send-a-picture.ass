@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:34.62,Title,,0,0,0,,{\an5\pos(540,250)}Ask for a {\c&H0060ECCD}picture{\c&H00FFFFFF&} before\Nyou roll the septic truck
+Dialogue: 2,0:00:00.00,0:00:34.62,Title,,0,0,0,,{\an5\pos(540,250)}Ask for a {\c&H0060ECCD}picture{\c&H00FFFFFF&} before\Nyou send your pump truck
 Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}today{\c&H00FFFFFF&} a lot of
 Dialogue: 1,0:00:00.19,0:00:00.65,Cap,,0,0,0,,{\pos(540,1400)}today {\c&H0060ECCD}a{\c&H00FFFFFF&} lot of
 Dialogue: 1,0:00:00.65,0:00:00.75,Cap,,0,0,0,,{\pos(540,1400)}today a {\c&H0060ECCD}lot{\c&H00FFFFFF&} of

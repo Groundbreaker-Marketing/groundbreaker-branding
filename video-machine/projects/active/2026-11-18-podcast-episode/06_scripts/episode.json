@@ -10,7 +10,7 @@
  ],
  "takes": {
   "170537": {
-   "source": "01_footage/zoom-170537-synced-clean.mov",
+   "source": "01_footage/zoom-170537-synced-clean-v8.mov",
    "words": "02_audio/words/170537-synced.json"
   }
  },
@@ -362,7 +362,7 @@
    {
     "name": "Kim Seipp",
     "org": "NAWT",
-    "at": 60.0
+    "at": 120.0
    }
   ]
  },
@@ -435,7 +435,7 @@
   },
   "thumbnail": "07_notes/episode/thumbnail.jpg"
  },
- "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). Re-edited shorter 2026-11-19 (Ashley: a lot more aggressive, long chunks not tiny pieces): 21 long cuts, joins in silence; replaces the continuous-take rule for this episode only. Earlier cut, Kim's dog break, words 1482 to 1628 (source about 533.0 s to 599.3 s, about 66 s) is dropped; the edges sit on the real silences, one word nudged on the left (and) and four on the right (so um yeah so); everything else is continuous.",
+ "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). Re-edited shorter 2026-11-19 (Ashley: a lot more aggressive, long chunks not tiny pieces): 21 long cuts, joins in silence; replaces the continuous-take rule for this episode only. v8 (2026-11-19, Ashley's notes on v7): source is zoom-170537-synced-clean-v8.mov, picture and audio rebuilt. (1) 36 Zoom speaker-view flips to Ashley (a quick 'yeah' held about 2.8 s, or a join landing on one; one is the 0.4 s flash at 1:23) are covered with Kim's own preceding frames, never cutting audio. (2) The lower third's Kim reference frame was at 60 s, which is Ashley's room, so the names flipped at random; it is now 120 s. (3) Kim's own track is de-noised (afftdn 10 dB, whole track, +1.6 dB makeup), Ashley's track and her de-reverb untouched. Earlier cut, Kim's dog break, words 1482 to 1628 (source about 533.0 s to 599.3 s, about 66 s) is dropped; the edges sit on the real silences, one word nudged on the left (and) and four on the right (so um yeah so); everything else is continuous.",
  "thumbnail": {
   "layout": "cutout",
   "bg": "black",
