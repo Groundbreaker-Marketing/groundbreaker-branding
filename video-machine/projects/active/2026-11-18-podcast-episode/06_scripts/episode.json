@@ -17,11 +17,111 @@
  "keep": [
   [
    0,
-   1481,
+   232,
    "170537"
   ],
   [
-   1629,
+   308,
+   316,
+   "170537"
+  ],
+  [
+   384,
+   714,
+   "170537"
+  ],
+  [
+   844,
+   956,
+   "170537"
+  ],
+  [
+   1014,
+   1335,
+   "170537"
+  ],
+  [
+   1683,
+   1864,
+   "170537"
+  ],
+  [
+   1962,
+   2080,
+   "170537"
+  ],
+  [
+   2157,
+   2236,
+   "170537"
+  ],
+  [
+   2321,
+   2497,
+   "170537"
+  ],
+  [
+   2593,
+   3208,
+   "170537"
+  ],
+  [
+   3307,
+   3442,
+   "170537"
+  ],
+  [
+   3596,
+   3814,
+   "170537"
+  ],
+  [
+   4111,
+   4196,
+   "170537"
+  ],
+  [
+   4353,
+   4487,
+   "170537"
+  ],
+  [
+   4941,
+   5060,
+   "170537"
+  ],
+  [
+   5132,
+   5287,
+   "170537"
+  ],
+  [
+   5402,
+   5986,
+   "170537"
+  ],
+  [
+   6152,
+   6337,
+   "170537"
+  ],
+  [
+   6380,
+   6597,
+   "170537"
+  ],
+  [
+   6693,
+   6848,
+   "170537"
+  ],
+  [
+   7257,
+   8233,
+   "170537"
+  ],
+  [
+   8284,
    8541,
    "170537"
   ]
@@ -288,17 +388,12 @@
    "What a national class gives you that state training does not"
   ],
   [
-   4707,
-   "170537",
-   "Which states accept NAWT classes for continuing education"
-  ],
-  [
    4941,
    "170537",
    "How to talk a panicked customer off the cliff"
   ],
   [
-   6141,
+   6152,
    "170537",
    "Customer service lessons: reviews, reputation and a clean truck"
   ],
@@ -322,7 +417,7 @@
   "approved": false,
   "youtube": {
    "title": "Inside NAWT Septic Education With Kim Seipp",
-   "description": "Kim Seipp joins me to talk about why the best septic pros never stop learning. Kim runs the education program at the National Association of Wastewater Technicians (NAWT), and she and her husband own High Plains Sanitation Service in Colorado, a family septic business his father started in 1959.\n\nA lot of you tell me customers call in a panic and you're never sure whether to roll the truck. Kim shares how she talks them off the cliff, why a quick photo can save you a trip, and why answering the phone still wins the job. We also get into how NAWT grew from a voice for septic pumpers into a training group, what a national class gives you that state training doesn't, and why she tells every installer and pumper to value their work.\n\nWhat we cover:\n- How a septic family business led Kim into industry education\n- How NAWT grew from a voice for pumpers into a training group\n- Why live classes beat online for most septic crews\n- What a national class gives you that your state's training doesn't\n- Which states accept NAWT classes for continuing education\n- How to talk a panicked customer off the cliff, and why you ask for a picture first\n- Customer service lessons: reviews, reputation and a clean truck\n- Kim's advice to every installer and pumper: value what you do\n\nFind NAWT at nawt.org.",
+   "description": "Kim Seipp joins me to talk about why the best septic pros never stop learning. Kim runs the education program at the National Association of Wastewater Technicians (NAWT), and she and her husband own High Plains Sanitation Service in Colorado, a family septic business his father started in 1959.\n\nA lot of you tell me customers call in a panic and you're never sure whether to roll the truck. Kim shares how she talks them off the cliff, why a quick photo can save you a trip, and why answering the phone still wins the job. We also get into how NAWT grew from a voice for septic pumpers into a training group, what a national class gives you that state training doesn't, and why she tells every installer and pumper to value their work.\n\nWhat we cover:\n- How a septic family business led Kim into industry education\n- How NAWT grew from a voice for pumpers into a training group\n- Why live classes beat online for most septic crews\n- What a national class gives you that your state's training doesn't\n- How to talk a panicked customer off the cliff, and why you ask for a picture first\n- Customer service lessons: reviews, reputation and a clean truck\n- Kim's advice to every installer and pumper: value what you do\n\nFind NAWT at nawt.org.",
    "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
    "category": "EDUCATION",
    "tags": [
@@ -340,7 +435,7 @@
   },
   "thumbnail": "07_notes/episode/thumbnail.jpg"
  },
- "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). One cut, Ashley's explicit exception to the continuous take (2026-11-19, 'yes, cut 8:50 to 10:00'): Kim's dog break, words 1482 to 1628 (source about 533.0 s to 599.3 s, about 66 s) is dropped; the edges sit on the real silences, one word nudged on the left (and) and four on the right (so um yeah so); everything else is continuous.",
+ "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). Re-edited shorter 2026-11-19 (Ashley: a lot more aggressive, long chunks not tiny pieces): 21 long cuts, joins in silence; replaces the continuous-take rule for this episode only. Earlier cut, Kim's dog break, words 1482 to 1628 (source about 533.0 s to 599.3 s, about 66 s) is dropped; the edges sit on the real silences, one word nudged on the left (and) and four on the right (so um yeah so); everything else is continuous.",
  "thumbnail": {
   "layout": "cutout",
   "bg": "black",
