@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:47.61,Title,,0,0,0,,{\an5\pos(540,250)}Why septic crews learn\Nbest {\c&H0060ECCD}in person{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:47.48,Title,,0,0,0,,{\an5\pos(540,250)}Why septic crews learn\Nbest {\c&H0060ECCD}in person{\c&H00FFFFFF&}
 Dialogue: 1,0:00:00.00,0:00:00.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} reason we
 Dialogue: 1,0:00:00.10,0:00:00.38,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}reason{\c&H00FFFFFF&} we
 Dialogue: 1,0:00:00.38,0:00:00.56,Cap,,0,0,0,,{\pos(540,1400)}the reason {\c&H0060ECCD}we{\c&H00FFFFFF&}
@@ -130,5 +130,4 @@ Dialogue: 1,0:00:45.86,0:00:46.18,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD
 Dialogue: 1,0:00:46.18,0:00:46.42,Cap,,0,0,0,,{\pos(540,1400)}that didn't {\c&H0060ECCD}think{\c&H00FFFFFF&}
 Dialogue: 1,0:00:46.42,0:00:46.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} that okay
 Dialogue: 1,0:00:46.68,0:00:46.94,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}that{\c&H00FFFFFF&} okay
-Dialogue: 1,0:00:46.94,0:00:47.30,Cap,,0,0,0,,{\pos(540,1400)}about that {\c&H0060ECCD}okay{\c&H00FFFFFF&}
-Dialogue: 1,0:00:47.30,0:00:47.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.94,0:00:47.55,Cap,,0,0,0,,{\pos(540,1400)}about that {\c&H0060ECCD}okay{\c&H00FFFFFF&}

@@ -13,7 +13,7 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:26.28,Title,,0,0,0,,{\an5\pos(540,250)}You're not {\c&H0060ECCD}just{\c&H00FFFFFF&} a\Nseptic pumper
+Dialogue: 2,0:00:00.00,0:00:26.30,Title,,0,0,0,,{\an5\pos(540,250)}You're not {\c&H0060ECCD}just{\c&H00FFFFFF&} a\Nseptic pumper
 Dialogue: 1,0:00:00.00,0:00:00.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}these{\c&H00FFFFFF&} guys who
 Dialogue: 1,0:00:00.15,0:00:00.57,Cap,,0,0,0,,{\pos(540,1400)}these {\c&H0060ECCD}guys{\c&H00FFFFFF&} who
 Dialogue: 1,0:00:00.57,0:00:01.01,Cap,,0,0,0,,{\pos(540,1400)}these guys {\c&H0060ECCD}who{\c&H00FFFFFF&}

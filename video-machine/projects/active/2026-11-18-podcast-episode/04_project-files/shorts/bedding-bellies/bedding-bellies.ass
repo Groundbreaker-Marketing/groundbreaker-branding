@@ -113,4 +113,4 @@ Dialogue: 1,0:00:31.50,0:00:31.76,Cap,,0,0,0,,{\pos(540,1400)}that was an {\c&H0
 Dialogue: 1,0:00:31.76,0:00:32.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yeah{\c&H00FFFFFF&} it's an
 Dialogue: 1,0:00:32.06,0:00:32.26,Cap,,0,0,0,,{\pos(540,1400)}yeah {\c&H0060ECCD}it's{\c&H00FFFFFF&} an
 Dialogue: 1,0:00:32.26,0:00:32.36,Cap,,0,0,0,,{\pos(540,1400)}yeah it's {\c&H0060ECCD}an{\c&H00FFFFFF&}
-Dialogue: 1,0:00:32.36,0:00:32.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}issue{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.36,0:00:32.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}issue{\c&H00FFFFFF&}
