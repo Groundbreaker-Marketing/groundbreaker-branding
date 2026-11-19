@@ -17,6 +17,11 @@
  "keep": [
   [
    0,
+   1481,
+   "170537"
+  ],
+  [
+   1629,
    8541,
    "170537"
   ]
@@ -335,7 +340,7 @@
   },
   "thumbnail": "07_notes/episode/thumbnail.jpg"
  },
- "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). Kim's dog barking break (about 8:15 to 9:40) is left in.",
+ "_how": "Recipe for podcast.episode. Guest episode, Kim Seipp of NAWT (National Association of Wastewater Technicians, nawt.org; co-owner of High Plains Sanitation Service), recorded on Zoom 2026-11-18 (meeting 6620561605, one part, 170537, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep from the first word to the last (no drops, fillers off, no pause cuts). Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB), Kim track untouched and moved 51 ms earlier for lip sync (podcast.avsync). One cut, Ashley's explicit exception to the continuous take (2026-11-19, 'yes, cut 8:50 to 10:00'): Kim's dog break, words 1482 to 1628 (source about 533.0 s to 599.3 s, about 66 s) is dropped; the edges sit on the real silences, one word nudged on the left (and) and four on the right (so um yeah so); everything else is continuous.",
  "thumbnail": {
   "layout": "cutout",
   "bg": "black",
