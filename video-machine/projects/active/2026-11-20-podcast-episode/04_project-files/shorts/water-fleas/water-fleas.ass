@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:36.18,Title,,0,0,0,,{\an5\pos(540,250)}My master's thesis was on\N{\c&H0060ECCD}water fleas{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} when I got
+Dialogue: 1,0:00:00.17,0:00:00.39,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}when{\c&H00FFFFFF&} I got
+Dialogue: 1,0:00:00.39,0:00:00.49,Cap,,0,0,0,,{\pos(540,1400)}So when {\c&H0060ECCD}I{\c&H00FFFFFF&} got
+Dialogue: 1,0:00:00.49,0:00:00.65,Cap,,0,0,0,,{\pos(540,1400)}So when I {\c&H0060ECCD}got{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.65,0:00:00.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} degree
+Dialogue: 1,0:00:00.79,0:00:01.31,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}degree{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.57,0:00:02.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} master's
+Dialogue: 1,0:00:02.27,0:00:02.81,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}master's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.81,0:00:03.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thesis{\c&H00FFFFFF&} was on the
+Dialogue: 1,0:00:03.15,0:00:03.75,Cap,,0,0,0,,{\pos(540,1400)}thesis {\c&H0060ECCD}was{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:03.75,0:00:04.45,Cap,,0,0,0,,{\pos(540,1400)}thesis was {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:04.45,0:00:05.19,Cap,,0,0,0,,{\pos(540,1400)}thesis was on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.19,0:00:05.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}effects{\c&H00FFFFFF&} of binary
+Dialogue: 1,0:00:05.41,0:00:05.55,Cap,,0,0,0,,{\pos(540,1400)}effects {\c&H0060ECCD}of{\c&H00FFFFFF&} binary
+Dialogue: 1,0:00:05.55,0:00:05.99,Cap,,0,0,0,,{\pos(540,1400)}effects of {\c&H0060ECCD}binary{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.99,0:00:06.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}metal{\c&H00FFFFFF&} mixtures on
+Dialogue: 1,0:00:06.67,0:00:07.09,Cap,,0,0,0,,{\pos(540,1400)}metal {\c&H0060ECCD}mixtures{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:07.09,0:00:07.37,Cap,,0,0,0,,{\pos(540,1400)}metal mixtures {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.37,0:00:08.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}seriodaphnia{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.53,0:00:09.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}adubia{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.19,0:00:09.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}which{\c&H00FFFFFF&} are water
+Dialogue: 1,0:00:09.37,0:00:09.51,Cap,,0,0,0,,{\pos(540,1400)}which {\c&H0060ECCD}are{\c&H00FFFFFF&} water
+Dialogue: 1,0:00:09.51,0:00:09.79,Cap,,0,0,0,,{\pos(540,1400)}which are {\c&H0060ECCD}water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.79,0:00:10.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fleas{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.95,0:00:11.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} kind of
+Dialogue: 1,0:00:11.01,0:00:11.83,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}kind{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:11.83,0:00:12.03,Cap,,0,0,0,,{\pos(540,1400)}So kind {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.03,0:00:12.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}aquatic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.47,0:00:13.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}toxicology{\c&H00FFFFFF&} type
+Dialogue: 1,0:00:13.35,0:00:13.73,Cap,,0,0,0,,{\pos(540,1400)}toxicology {\c&H0060ECCD}type{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.73,0:00:14.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}work{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.33,0:00:14.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}My{\c&H00FFFFFF&} first job out
+Dialogue: 1,0:00:14.95,0:00:15.29,Cap,,0,0,0,,{\pos(540,1400)}My {\c&H0060ECCD}first{\c&H00FFFFFF&} job out
+Dialogue: 1,0:00:15.29,0:00:15.53,Cap,,0,0,0,,{\pos(540,1400)}My first {\c&H0060ECCD}job{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:15.53,0:00:15.71,Cap,,0,0,0,,{\pos(540,1400)}My first job {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.71,0:00:15.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} grad school
+Dialogue: 1,0:00:15.77,0:00:15.97,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}grad{\c&H00FFFFFF&} school
+Dialogue: 1,0:00:15.97,0:00:16.31,Cap,,0,0,0,,{\pos(540,1400)}of grad {\c&H0060ECCD}school{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.31,0:00:16.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} worked as an
+Dialogue: 1,0:00:16.79,0:00:17.03,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}worked{\c&H00FFFFFF&} as an
+Dialogue: 1,0:00:17.03,0:00:17.17,Cap,,0,0,0,,{\pos(540,1400)}I worked {\c&H0060ECCD}as{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:17.17,0:00:17.27,Cap,,0,0,0,,{\pos(540,1400)}I worked as {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.27,0:00:17.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}aquatic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.57,0:00:18.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}biologist{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.37,0:00:19.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sampling{\c&H00FFFFFF&} streams
+Dialogue: 1,0:00:19.43,0:00:20.05,Cap,,0,0,0,,{\pos(540,1400)}sampling {\c&H0060ECCD}streams{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.05,0:00:20.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:20.47,0:00:20.77,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}doing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.77,0:00:21.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ecological{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.41,0:00:22.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}assessments{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.73,0:00:23.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} I was not
+Dialogue: 1,0:00:23.41,0:00:23.65,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}I{\c&H00FFFFFF&} was not
+Dialogue: 1,0:00:23.65,0:00:24.79,Cap,,0,0,0,,{\pos(540,1400)}And I {\c&H0060ECCD}was{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:24.79,0:00:25.21,Cap,,0,0,0,,{\pos(540,1400)}And I was {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.21,0:00:25.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}necessarily{\c&H00FFFFFF&} very
+Dialogue: 1,0:00:25.91,0:00:27.35,Cap,,0,0,0,,{\pos(540,1400)}necessarily {\c&H0060ECCD}very{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.35,0:00:27.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}happy{\c&H00FFFFFF&} at my firm
+Dialogue: 1,0:00:27.91,0:00:28.25,Cap,,0,0,0,,{\pos(540,1400)}happy {\c&H0060ECCD}at{\c&H00FFFFFF&} my firm
+Dialogue: 1,0:00:28.25,0:00:28.43,Cap,,0,0,0,,{\pos(540,1400)}happy at {\c&H0060ECCD}my{\c&H00FFFFFF&} firm
+Dialogue: 1,0:00:28.43,0:00:28.91,Cap,,0,0,0,,{\pos(540,1400)}happy at my {\c&H0060ECCD}firm{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.91,0:00:29.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} I love the
+Dialogue: 1,0:00:29.59,0:00:30.41,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}I{\c&H00FFFFFF&} love the
+Dialogue: 1,0:00:30.41,0:00:30.75,Cap,,0,0,0,,{\pos(540,1400)}And I {\c&H0060ECCD}love{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:30.75,0:00:30.93,Cap,,0,0,0,,{\pos(540,1400)}And I love {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.93,0:00:31.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fieldwork{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.57,0:00:31.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}But{\c&H00FFFFFF&} then when
+Dialogue: 1,0:00:31.63,0:00:31.83,Cap,,0,0,0,,{\pos(540,1400)}But {\c&H0060ECCD}then{\c&H00FFFFFF&} when
+Dialogue: 1,0:00:31.83,0:00:32.03,Cap,,0,0,0,,{\pos(540,1400)}But then {\c&H0060ECCD}when{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.03,0:00:32.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}winter{\c&H00FFFFFF&} hit
+Dialogue: 1,0:00:32.39,0:00:32.81,Cap,,0,0,0,,{\pos(540,1400)}winter {\c&H0060ECCD}hit{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.85,0:00:32.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} just had to
+Dialogue: 1,0:00:32.93,0:00:33.19,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}just{\c&H00FFFFFF&} had to
+Dialogue: 1,0:00:33.19,0:00:33.43,Cap,,0,0,0,,{\pos(540,1400)}you just {\c&H0060ECCD}had{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:33.43,0:00:33.71,Cap,,0,0,0,,{\pos(540,1400)}you just had {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.71,0:00:34.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}analyze{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.47,0:00:35.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spreadsheets{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:35.19,0:00:35.37,Cap,,0,0,0,,{\pos(540,1400)}spreadsheets {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.37,0:00:35.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}write{\c&H00FFFFFF&} reports
+Dialogue: 1,0:00:35.57,0:00:36.15,Cap,,0,0,0,,{\pos(540,1400)}write {\c&H0060ECCD}reports{\c&H00FFFFFF&}

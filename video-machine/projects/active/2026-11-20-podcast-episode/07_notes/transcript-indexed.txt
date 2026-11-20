@@ -1,0 +1,660 @@
+[0 2.4s gap2.4] Hey everyone, and welcome to the Number 2 Septic Podcast. 
+[10 5.4s] Today we have Kate Carney on, and she is a 
+[20 8.7s] professional engineer. Wait, did I say that right? Professional engineer. 
+[30 13.5s] Okay, I'm just restart. Sorry. 
+[35 16.6s gap1.5] Professional engineer. That's how, that's 
+[40 18.3s] your title, right? Yep. Okay. I'm just going to restart. 
+[50 21.8s gap0.8] I'll just clip it. 
+[54 23.8s gap1.4] Hey everyone, welcome to the Number 
+[60 25.2s] 2 Septic Podcast. Today I have Kate Carney, and she 
+[70 28.1s] is a professional engineer, which is the first time we've 
+[80 30.8s] ever had an onsite engineer on the podcast. so I'm 
+[90 33.9s] really excited to have her on and talk about things 
+[100 36.2s] from a different perspective. So Kate, welcome to the podcast. 
+[110 40.0s gap0.8] Thank you. 
+[112 41.2s gap0.9] So Kate and I met recently and she 
+[120 44.8s] is the incoming vice president of Nowra and she has 
+[130 50.9s] a lot of experience in designing systems both commercial and 
+[140 54.0s] residential and so that's kind of her credentials but Kate 
+[150 57.6s] why don't you tell us a little bit about how 
+[160 59.8s] you got started. I know you got your degree in 
+[170 64.4s] biological sciences and environmental sciences and engineering. When you got 
+[180 69.2s] your degree, were you thinking, I want to go into 
+[190 72.2s] the on -site wastewater industry, or how did that whole 
+[200 76.1s] thing kind of play out for you? So when I 
+[210 78.7s] got my degree, my master's thesis was on the effects 
+[220 83.6s] of binary metal mixtures on seriodaphnia adubia, which are water 
+[230 88.0s] fleas. So kind of aquatic toxicology type work. My first 
+[240 93.5s] job out of grad school, I worked as an aquatic 
+[250 95.8s] biologist, sampling streams and doing ecological assessments. And I was 
+[260 103.0s] not necessarily very happy at my firm. And I love 
+[270 108.9s] the fieldwork. But then when winter hit, you just had 
+[280 111.6s] to analyze spreadsheets and write reports. And I had a 
+[290 116.2s] friend who said, Hey, I talked to this guy, I'm 
+[300 119.5s] getting a job with this guy who is, has been 
+[310 123.2s] designing onsite wastewater systems for a long time, and he's 
+[320 126.5s] looking to sell his business. 
+[325 129.0s gap1.0] And so I interviewed, I 
+[330 131.2s] got the job. My friend actually was like, Oh, hey, 
+[340 134.4s] I actually decided to go this other direction and take 
+[350 136.6s] a job elsewhere. um but it was this opportunity to 
+[360 140.9s] do engineering and in the ecology space I felt like 
+[370 147.8s] we wrote wrote a lot of reports and I never 
+[380 149.8s] saw anything happen and so it was really cool for 
+[390 153.0s] me to go out to a project go out to 
+[400 155.2s] the field see a problem create a solution and then 
+[410 158.5s] see it implemented um and I just really enjoyed that 
+[420 163.2s] and I you know I'm out in the field all 
+[430 165.1s] year long 
+[432 166.7s gap0.7] and I feel like I'm preventing the environmental 
+[440 170.4s] problems rather than just assessing them once they've happened. Yeah, 
+[450 174.7s] I could see how that would bring a ton of 
+[460 176.5s] fulfillment to be able to see the whole process from 
+[470 179.3s] beginning to end on that. Yeah, yeah, so it's been 
+[480 183.3s] a really, it's not something that I had thought was 
+[490 186.8s] going to be my path. I actually, in undergrad, I 
+[500 189.4s] worked at a water lab for a while in Missouri. 
+[510 191.6s] Then I sampled lagoons in rural Missouri and analyzed those 
+[520 196.5s] samples in a water lab. And that was the first 
+[530 198.3s] time I actually realized or thought about where our wastewater 
+[540 201.7s] went. 
+[541 203.4s gap1.1] And so I did have a little bit of 
+[550 205.1s] background with being familiar with on -site wastewater. Yeah, that's 
+[560 209.8s] really interesting. So what does a normal week for you 
+[570 213.7s] look like now in your career? 
+[576 216.2s gap0.8] Sure. So, um, I 
+[580 217.9s] have, um, another designer that works with me. And so 
+[590 221.8s] we work together splitting up the work. Um, but we 
+[600 225.3s] will get calls. We'll talk to clients, talk about their 
+[610 228.0s] situation, provide proposals, and then schedule site visits. So we'll 
+[620 232.6s] go out, meet with an excavator. We'll do a site 
+[630 235.8s] assessment, dig soil test holes, take elevations, map out where 
+[640 241.1s] repairs or on a new build where components will go, 
+[650 246.3s] come back to the office, complete the design, and then 
+[660 252.1s] send that out for the client to submit for permitting 
+[670 255.6s] and to installers that we work with to get bids. 
+[680 258.8s] We also make site visits during installation to inspect the 
+[690 263.2s] installation of the system so we can write a final 
+[700 266.1s] letter and provide record drawings to the county. Mm -hmm. 
+[710 269.7s] And are you working more with the excavator and installers 
+[720 274.7s] or more with the homeowners? 
+[725 276.7s gap0.8] We like the homeowner to 
+[730 278.5s] be our client because it's their property and it's their 
+[740 281.6s] product. 
+[741 283.1s gap1.0] We do work very closely with excavators and a 
+[750 286.6s] lot of times that's who gets called first. So they'll 
+[760 290.9s] refer us to those clients and we'll work closely with 
+[770 293.6s] them. We like to meet them out on site so 
+[780 296.8s] we can see those test pits excavated. That way, if 
+[790 300.3s] we see something that's, you know, suboptimal, we could move 
+[800 304.1s] to a different place on the site. Or in Colorado, 
+[810 307.9s] we recently in our new reg change, we worked really 
+[820 312.2s] hard, Colorado professionals and on -site wastewater to try to 
+[830 316.0s] close the gap because a lot of counties were requiring 
+[840 319.0s] us to dig these eight foot deep holes and leave 
+[850 321.4s] them open for the county to be able to look 
+[860 323.9s] at at a later time. and it could be a 
+[870 326.9s] month between when I get out on site and the 
+[880 329.7s] county actually gets on site. It could be longer. Some 
+[890 333.2s] of the counties take up to eight weeks to permit 
+[900 334.9s] a design and so leaving these test holes open seemed 
+[910 338.1s] like a really huge hazard and a liability for 
+[919 341.4s gap0.7] myself, 
+[920 341.9s] for the excavator, for the homeowner, for the public. So 
+[930 345.5s] it's nice to be out there. They can dig the 
+[940 348.2s] hole and they can backfill it and that way we're 
+[950 350.5s] not leaving these holes open as a hazard. 
+[958 353.8s gap0.9] How do 
+[960 354.7s] you decide between what type of system that you're going 
+[970 358.5s] to use? What are some of the major deciding factors 
+[980 360.6s] you use? So we like to go to simplest to 
+[990 364.3s] more complicated. So if we have the space, if we 
+[1000 368.0s] have good soil, we will do a very simple gravity 
+[1010 372.0s] flow type system. 
+[1013 375.8s gap1.5] Unfortunately we we have density um you 
+[1020 380.1s] know growing here in colorado and so a lot of 
+[1030 382.6s] times we'll have either really poor clay soils um small 
+[1040 387.6s] lots in the mountains we'll have rock soil um so 
+[1050 391.4s] we'll have these soil conditions that make us go to 
+[1060 394.7s] either a sand filter or sometimes higher level treatment 
+[1069 399.3s gap1.1] so 
+[1070 399.8s] it's really site -specific and soil -specific. 
+[1077 404.0s gap1.1] Yeah and then 
+[1080 405.3s] you also do commercial systems the design for that as 
+[1090 409.2s] well which I know is a whole different situation than 
+[1100 412.8s] your residential and then also sometimes you have to look 
+[1110 416.4s] at is it a short -term rental where there's just 
+[1120 418.9s] a lot of people in and out is it a 
+[1130 420.7s] daycare is there things where it's just high use so 
+[1140 424.5s] explain to us some of the big major differences in 
+[1150 428.1s] designing a system between commercial and residential? 
+[1157 431.2s gap0.7] Sure. So I 
+[1160 432.4s] would say we're actually fortunate that our code addresses the 
+[1170 435.8s] strength of the wastewater. So for a very long time, 
+[1180 438.8s] everything was just based on flows. 
+[1186 441.5s gap0.9] And so now our 
+[1190 442.7s] code says you cannot apply high strength wastewater to the 
+[1200 446.1s] soil without pretreatment, which is great because if you put 
+[1210 450.4s] high strength wastewater out to soil, it's not going to 
+[1220 453.3s] last very long. So we need to look at the 
+[1230 456.0s] use. And so it's really difficult if we've got an 
+[1240 459.1s] existing facility, we can do wastewater sampling and get a 
+[1250 463.1s] good idea of the strength. Otherwise, we're looking at regulatory 
+[1260 466.5s] tables that aren't as accurate. But the most important thing 
+[1270 471.0s] is convincing that owner that being honest with you is 
+[1280 474.6s] to their benefit. 
+[1283 476.3s gap1.0] So sometimes people may think that if 
+[1290 479.1s] they tell us what they're actually doing, they're going to 
+[1300 481.3s] get a more expensive system. 
+[1305 483.6s gap0.9] And so we get sometimes 
+[1310 485.8s] where they're not being honest about their use and that's 
+[1320 489.4s] not going to benefit them because maybe their system will 
+[1330 492.1s] be less expensive up front, but it's not going to 
+[1340 494.2s] work for the long run. Yeah. 
+[1346 497.4s gap1.0] So that's one of 
+[1350 498.7s] our challenges. We recently had a residential home that we 
+[1360 502.1s] designed as a residential home. and right after the system 
+[1370 505.4s] was installed the owner went in for a short -term 
+[1380 508.8s] rental permit and in Colorado after three bedrooms you only 
+[1390 513.7s] have to design for one person per bedroom and this 
+[1400 517.0s] person wanted the short -term rental for more people and 
+[1410 520.0s] then he was very upset but he never disclosed to 
+[1420 523.3s] us that he was going to use it as a 
+[1430 524.8s] short -term rental because he wanted it designed as a 
+[1440 528.4s] residential system. Okay. To save money. So did he not 
+[1450 532.0s] get his short -term rental approved because his system couldn't 
+[1460 536.2s] handle it? Yep. And now he's looking at adding on 
+[1470 540.0s] to a brand new system. It just got put in 
+[1480 543.4s] the ground. Yeah. So trying, trying to educate people up 
+[1490 547.3s] front. Um, a lot of times owners will want to 
+[1500 550.9s] tell you that they're not using any water and they're 
+[1510 553.5s] not putting anything. 
+[1513 556.2s gap1.5] And, you know, I think having a 
+[1520 559.9s] survey for them that they sign, um, is really helpful 
+[1530 564.3s] because, um, and educating them that it's really important that 
+[1540 569.1s] we know, you know, this isn't just an office building. 
+[1550 572.4s] It's going to be a restaurant. That's, that's a very 
+[1560 574.4s] different use, very different flows and strengths. And we have 
+[1570 577.9s] to be able to know what we're treating in order 
+[1580 579.9s] to provide a solution. Yeah. That makes a lot of 
+[1590 583.4s] sense. What is the most complex system you've designed? 
+[1599 589.7s gap1.7] Um, 
+[1600 590.5s] I would say probably there's a couple of them and 
+[1610 596.3s] I would say probably there was one up in Boulder 
+[1620 599.2s] County for a, um, residential treatment facilities. So kind of 
+[1630 605.4s] a, 
+[1631 607.1s gap1.2] I don't know the right word but inpatient type 
+[1640 610.3s] facility okay um and it had been an old hotel 
+[1650 614.9s] and there is a a road that goes winds through 
+[1660 620.2s] the mountain and there's a river on one side and 
+[1670 623.4s] then this site is up on the hill and then 
+[1680 625.8s] the mountain just goes straight up and the existing system 
+[1690 629.7s] was just some tanks with a soil treatment area that 
+[1700 634.6s] was installed in the right of way. And then CDOT 
+[1710 638.5s] put a bike path over it. 
+[1716 642.3s gap1.5] And so they needed 
+[1720 643.7s] a new system. And so not only did we need 
+[1730 646.4s] to be able to get components in, but we couldn't 
+[1740 649.0s] work in that right of way where all the access 
+[1750 652.0s] was and where existing things were. And so we ended 
+[1760 656.4s] up putting in septic tanks right outside of the right 
+[1770 661.5s] of way. We could still gravity flow um they had 
+[1780 664.4s] an old grease trap that was like a looked like 
+[1790 668.1s] a shoebox underneath the porch so we had to eliminate 
+[1800 671.6s] that put in a new grease interceptor tank new tanks 
+[1810 675.1s] treatment um and then we pumped up and ended up 
+[1820 682.2s] putting the drain field or soil treatment area under the 
+[1830 685.4s] parking area up above it had to be traffic graded 
+[1840 689.4s] for fire truck access wow and then because of the 
+[1850 693.4s] space they actually had to chisel away part of the 
+[1860 696.3s] mountain to extend that area to get enough space up 
+[1870 701.1s] there um so it was pretty costly but the other 
+[1880 706.5s] option was to build a road up the mountain and 
+[1890 709.1s] try to pump it up farther up the mountain because 
+[1900 711.7s] all their land was was way on the top of 
+[1910 714.4s] the mountain wow that does sound expensive it was it 
+[1920 718.1s] was very expensive we were very lucky we had great 
+[1930 720.5s] excavators that we have a great working relationship with even 
+[1940 724.1s] getting sand because when they excavate out that rock they 
+[1950 727.1s] have to bring in treatment sand the access in and 
+[1960 730.7s] out of there on the curve with the bike path 
+[1970 733.6s] and getting sand trucks in and out of there every 
+[1980 736.9s] part of it and because they couldn't set those concrete 
+[1990 740.6s] tanks um we couldn't get the tankage required in plastic 
+[2000 744.8s] tanks um they couldn't sit on the road to set 
+[2010 749.1s] those tanks without blocking a road of that highway which 
+[2020 752.7s] is very busy so they ended up craning the tanks 
+[2030 756.1s] over the building to set those tanks so it it 
+[2040 760.9s] was incredible and really we were fortunate to be working 
+[2050 765.2s] with such great contractors because not everyone could have done 
+[2060 769.3s] that job. And, you know, I understand that engineers can 
+[2070 772.1s] make things happen on paper that can't happen in real 
+[2080 774.7s] life. 
+[2081 775.8s gap0.8] And so we're fortunate to have some really great 
+[2090 778.0s] excavators here in Colorado that can implement those solutions. Yeah. 
+[2100 782.5s gap0.7] When you talked about having a great relationship with the 
+[2110 785.5s] excavators, can you explain more what kind of things make, 
+[2120 791.3s] what qualities make a great relationship with an excavator? Because 
+[2130 794.2s] we have a lot of excavators installers who listen. And 
+[2140 798.2s] so what kind of things really help the relationship work 
+[2150 801.6s] out really well? What kind of things are deterrent to 
+[2160 804.5s] working well together? 
+[2163 806.7s gap1.2] I would say I'd much rather you 
+[2170 809.5s] call me ahead of time with any question you have. 
+[2180 813.5s] I would much rather field those calls, have those conversations 
+[2190 817.2s] than to get out on site and someone's just done 
+[2200 820.8s] whatever they wanted or what they may have thought we 
+[2210 824.3s] try to provide very clear detailed plans with elevations um 
+[2220 828.8s] but also you know you especially with repairs you encounter 
+[2230 833.1s] things in the field that just weren't anticipated during design 
+[2240 837.1s] so having that communication is crucial we are also always 
+[2250 842.2s] trying to be as responsive as possible so i understand 
+[2260 845.4s] if you call for an inspection and I can't get 
+[2270 848.3s] out there for a couple of days, you have machinery 
+[2280 851.5s] sitting on site that's costing you money. Um, so that 
+[2290 854.7s] respect for each other's time and, um, 
+[2297 859.1s gap1.1] yeah, ask, as 
+[2300 860.0s] I say, asking for permission rather than forgiveness, because there's 
+[2310 864.1s] nothing worse than showing up on site and everything's just 
+[2320 867.2s] different than what you designed and you're confused. Yeah, that's 
+[2330 871.5s] great. So lots of good communication. And I love that 
+[2340 875.5s] just respecting each other's, you know, profession and how you 
+[2350 879.9s] work together goes a really long way that that respect, 
+[2360 882.5s] I'm sure. Yeah. And I have learned so much from 
+[2370 886.0s] installers, because I'm not the one physically making this happen. 
+[2380 889.8s] So if an installer says, Hey, Kate, when you do 
+[2390 892.1s] it this way, it's really difficult for us. If you 
+[2400 895.0s] do it this way, this is a lot easier for 
+[2410 897.2s] us to implement. um you know also operation and maintenance 
+[2420 901.4s] folks you know they'll say hey when you configure your 
+[2430 904.8s] effluent filter this way it's really hard for us to 
+[2440 907.0s] pull it if you you know those sorts of things 
+[2450 909.6s] because if you make things difficult to maintain it just 
+[2460 912.0s] won't get done yeah so listening to the people that 
+[2470 915.0s] are actually doing those jobs and and respecting that and 
+[2480 919.0s] trying to incorporate it so that it happens up front 
+[2490 921.9s] and they don't have to retrofit or fix things at 
+[2500 924.5s] the tail end what are some of the, like, please 
+[2510 927.8s] get a little technical here. What are some of the 
+[2520 929.6s] things that you've changed in the way that you designed 
+[2530 932.2s] systems so that it's more dual for the, um, the 
+[2540 937.5s] maintenance providers and for the installers? 
+[2546 940.9s gap0.9] Yeah. And I think, 
+[2550 942.2s] um, some of these things we've, we implemented and we 
+[2560 945.5s] actually, um, worked really closely with the state when they 
+[2570 949.1s] were doing their regulation change to try to get these 
+[2580 951.6s] things incorporated in regulation as well. So things like risers 
+[2590 955.8s] to grade are now required in our regulation, which is 
+[2600 959.1s] great. Um, we have external splice boxes now in our 
+[2610 963.4s] risers. There's no longer any splice boxes allowed inside the 
+[2620 967.7s] tank risers. They have to be on the outside. So 
+[2630 971.1s] that makes it, you know, a lot easier to work 
+[2640 974.5s] in that riser with other things. It also is less 
+[2650 977.0s] corrosive environment. Um, we have always extended all handles, effluent 
+[2660 982.4s] filters, um float tree handles up within six inches of 
+[2670 987.8s] the lid of the riser so that you can reach 
+[2680 989.9s] your hand in there without having to you know lay 
+[2690 992.6s] on your belly to reach down and grab something out 
+[2700 995.3s] of the tank um doing you know looking at the 
+[2710 1000.6s] cords having the cords neatly wrapped in that pump riser 
+[2720 1004.8s] and attached to the side um those uh float trees 
+[2730 1009.3s] are another thing you know it used to be people 
+[2740 1011.6s] would just kind of attach floats to the discharge pipe 
+[2750 1015.7s] that comes from the pump. And if you have a 
+[2760 1018.0s] separate float tree, you can actually pull that out and 
+[2770 1020.4s] test things without having to reach way down into a 
+[2780 1025.0s] tank. 
+[2781 1027.1s gap1.6] We like to keep everything really shallow for access. 
+[2790 1030.6s] So that was another thing that was implemented into our 
+[2800 1033.6s] reg is that top of new tanks can't be deeper 
+[2810 1036.5s] than four feet to the top the tank um on 
+[2820 1040.5s] repairs we struggle with that because people did some really 
+[2830 1043.7s] strange things back in the day made things really deep 
+[2840 1046.4s] um but then coordinating with a builder if you're working 
+[2850 1050.2s] with a builder emphasizing that the step out from the 
+[2860 1053.5s] house needs to be shallow so we can keep our 
+[2870 1055.6s] tank shallow um on a flat site um locating tanks 
+[2880 1061.0s] in our designs within a range of a parking area 
+[2890 1064.5s] so that pumpers can actually pump those tanks that's smart 
+[2900 1067.8s] so we we like to say 100 feet horizontally 10 
+[2910 1071.1s] feet vertically is what we're aiming for um as our 
+[2920 1074.3s] max for those tanks and and some of our mountain 
+[2930 1076.8s] sites we can't achieve that but keeping that in mind 
+[2940 1080.0s] the maintenance in mind so that you know in the 
+[2950 1083.3s] future someone's not having to haul 200 feet of pipe 
+[2960 1087.3s] out there to pump that tank. 
+[2966 1089.6s gap1.0] Also in our soil 
+[2970 1090.8s] treatment areas we have observation pipes that are present so 
+[2980 1095.6s] that you can actually look at the condition of those 
+[2990 1097.8s] soil treatment areas. We have flushing valves required on all 
+[3000 1102.1s] our pressure laterals so you can actually flush those laterals 
+[3010 1106.1s] and those have access at grade. 
+[3016 1110.4s gap2.0] Sometimes depending on the 
+[3020 1112.0s] site and the complexity we'll use tracing wire on underground 
+[3030 1115.4s] pipes you can locate it in the future yeah um 
+[3040 1119.6s] so yeah just a lot of those things to make 
+[3050 1122.0s] things accessible maintainable um line of sight control panels from 
+[3060 1127.5s] our pump tanks to the control panel so that you 
+[3070 1131.1s] could one person can easily do maintenance um and then 
+[3080 1134.3s] the height of that control panel um i think our 
+[3090 1137.8s] new reg says it has to be at least 30 
+[3100 1139.6s] inches but we want you know probably at least four 
+[3110 1142.5s] feet to that control panel because once again we're in 
+[3120 1146.0s] Colorado and we don't want that control panel covered in 
+[3130 1148.7s] snow we want it yeah so we can do our 
+[3140 1152.6s] maintenance so have you gotten all of these changes have 
+[3150 1156.1s] all been put into regulations now or just most of 
+[3160 1159.8s] them most of them regulation still doesn't call for tracing 
+[3170 1163.6s] wire but all these accessible things at grade and and 
+[3180 1168.6s] that sort of thing are part of regulation now. And 
+[3190 1173.3s] you were able to help influence that because of your 
+[3200 1177.4s] work at the state level with the state association and 
+[3210 1181.4s] then also with NARA or how did that work when 
+[3220 1183.6s] you were involved in sort of, you know, helping to 
+[3230 1187.5s] bring this about for the betterment of everybody? Sure, yeah. 
+[3240 1190.9s] So with Colorado Professionals and On -State Waste Better, We 
+[3250 1193.2s] always try to be really involved with any regular vision 
+[3260 1196.0s] at the state level. 
+[3264 1197.8s gap0.8] Once the state adopts it, each 
+[3270 1199.3s] county gets to adopt their version that's at least as 
+[3280 1202.9s] stringent. So we also try to be involved in those 
+[3290 1206.8s] processes when we're able to be. Some of the counties 
+[3300 1210.4s] are asked for more input than others. 
+[3307 1214.6s gap1.0] And then I 
+[3310 1215.5s] think just my relationship working with counties and regulators, regulators, 
+[3320 1220.3s] I feel as though if you do good work, those 
+[3330 1222.5s] regulators use you as a resource. 
+[3336 1225.5s gap1.3] So being able to 
+[3340 1227.2s] give them feedback and be involved in those processes, I 
+[3350 1231.8s] think is really important. Yeah. And I love what I'm 
+[3360 1236.2s] hearing too, is you're saying that you learned these things 
+[3370 1238.9s] from the maintenance providers and the excavators and hearing their 
+[3380 1244.0s] feedback. And then you were able to take that also 
+[3390 1246.7s] with your relationship with the regulators and create something that's 
+[3400 1250.6s] better for everybody. So I love that you've been able 
+[3410 1253.6s] to be the bridge between that. And I'm sure Colorado 
+[3420 1257.5s] is much better for it, although you still do have 
+[3430 1260.1s] all the old systems that folks have to deal with 
+[3440 1263.3s] that aren't up to regulation. 
+[3445 1265.9s gap0.9] Yeah. And so that's another 
+[3450 1267.8s] thing that Colorado was able to do is implement a 
+[3460 1270.8s] title transfer inspection program. Okay. 
+[3465 1274.0s gap0.7] Unfortunately, due to our political 
+[3470 1276.0s] environment, it's an opt -in opt -out program. So the 
+[3480 1280.1s] counties can choose whether or not they wanted to adopt 
+[3490 1283.3s] that portion of the regulation. Okay. So we have a 
+[3500 1286.2s] lot of counties who have adopted that, and I think 
+[3510 1288.5s] it's been wonderful. We are seeing a lot of systems 
+[3520 1291.8s] that are in need of repair, um are caught during 
+[3530 1295.9s] that process when money is available during the property transfer 
+[3540 1299.3s] and i think that even some counties that don't require 
+[3550 1302.8s] it i think realtors that maybe work in multiple counties 
+[3560 1306.6s] and you know they may say hey in this county 
+[3570 1309.3s] it's required even though it's not required in this county 
+[3580 1311.7s] i'm gonna let my client know it should be important 
+[3590 1314.7s] yeah yeah it's important to have the, those records where, 
+[3600 1319.9s] where everyone can, it follows the, follows the property. Um, 
+[3610 1324.6s] so that, you know, I'll, I have that data and 
+[3620 1326.9s] what happened and everything. Yeah. And it's, you know, if 
+[3630 1330.9s] you're buying a brand new house and you're putting a 
+[3640 1333.0s] good chunk of your money towards a down payment, it's 
+[3650 1336.0s] really a bummer if you move in and a couple 
+[3660 1338.1s] of days later, there's sewage on the ground, you know, 
+[3670 1340.4s] like it really is the time to find some of 
+[3680 1345.0s] these problems and the money's there during that transaction to, 
+[3690 1349.1s] to get that situation remedied. 
+[3695 1352.4s gap1.5] So when you, are you 
+[3700 1354.3s] getting calls from providers when a system fails, even if 
+[3710 1360.1s] it's not your system, or do you more get those 
+[3720 1362.5s] calls when it's just your system? How does that work? 
+[3730 1365.1s] Kind of that, that feedback loop when things don't go 
+[3740 1367.5s] right on the back end of it? Yeah. So I 
+[3750 1370.6s] get a lot of calls. We, a lot of the 
+[3760 1373.3s] failures that we see are older systems. Yeah. So, you 
+[3770 1378.4s] know, you look at them, you're like, well, this has 
+[3780 1379.9s] probably lived its life. Right. Um, there's also pockets in 
+[3790 1383.9s] Colorado, um, where maybe there was terrible clay soil, but 
+[3800 1387.3s] a builder came through and somehow had a soil scientist 
+[3810 1391.4s] who said everything percolated really well for, for onsite wastewater. 
+[3820 1396.9s] Um, and so I, you know, I'm not quite sure 
+[3830 1400.3s] how that happened, but we see a lot of that. 
+[3840 1403.9s gap0.8] Sometimes other failures. We've had a couple where something failed 
+[3850 1407.6s] very quickly. Yeah. And so they called us as a, 
+[3860 1412.7s] you know, maybe a second opinion to the design engineer. 
+[3870 1415.8s gap0.7] And we, you know, have had a couple of our 
+[3880 1418.1s] systems that failed, whether it was due to 
+[3888 1422.6s gap0.9] leaking toilets 
+[3890 1423.6s] or abuse or that sort of thing. Mm -hmm. Yeah. 
+[3900 1428.0s] Yeah. So it's usually due to abuse or a failure 
+[3910 1432.0s] kind of in the home is what you're seeing when 
+[3920 1434.5s] those things happen. Yeah. Most of the time I would 
+[3930 1437.6s] say age or yeah, something, some sort of use issue 
+[3940 1442.1s] or irrigation issue. We see sometimes where people just really 
+[3950 1448.1s] aren't used to being on -site wastewater and they'll just 
+[3960 1451.2s] irrigate their yard and not realize that we're already trying 
+[3970 1457.8s] to get water to go into the ground. We've seen 
+[3980 1460.9s] a few surface drainage issues where there wasn't coordination between 
+[3990 1465.2s] the onsite wastewater designer and the person doing general grading 
+[4000 1471.0s] and drainage. So sometimes we get drainage directed towards systems 
+[4010 1474.3s] and that sort of thing. 
+[4015 1476.5s gap1.1] Yeah, many ways for it 
+[4020 1479.1s] to go wrong. 
+[4023 1480.4s gap0.9] Probably thousands of ways for it to 
+[4030 1482.3s] go wrong. Can I pause one second while I let 
+[4040 1486.0s] my dog out because I hear him barking and I 
+[4050 1488.8s] don't know if you can hear it. 
+[4057 1510.8s gap21.0] Okay. You good? 
+[4060 1512.5s] Yes. Awesome. 
+[4062 1516.7s gap2.7] So on your website, it says we charge 
+[4070 1519.0s] more for design, but we deliver more. How do you 
+[4080 1522.2s] hold your prices when there's cheaper designers out there? Talk 
+[4090 1527.2s] us through your customer service process and what you offer 
+[4100 1532.3s] to that homeowner or the property owner? 
+[4107 1535.5s gap1.0] Sure. So, you 
+[4110 1537.1s] know, we really try to educate homeowners, let them know 
+[4120 1541.2s] most of the people we work with, especially homeowners, they 
+[4130 1544.3s] know nothing about onsite wastewater. They know nothing about the 
+[4140 1547.4s] process. And a lot of times they're in a situation 
+[4150 1549.8s] that's kind of terrible. 
+[4154 1551.7s gap0.8] If someone's in a situation where 
+[4160 1553.6s] they're having to pump their tank to maintain living there, 
+[4170 1556.5s] we try to expedite those jobs because we know the 
+[4180 1560.7s] cost of that. But Educating our clients, meeting with them 
+[4190 1566.3s] on site, walking them through the process, letting them know 
+[4200 1569.5s] what we're doing, providing a detailed design so that it 
+[4210 1574.8s] actually lays out everything they need. We see some designs 
+[4220 1578.4s] where there's a few boxes on a piece of paper. 
+[4230 1581.5s] They may have a tank size or, you know, rough 
+[4240 1587.5s] dimensions. um you know i i worked with an excavator 
+[4250 1591.4s] recently who said you know the other engineers i work 
+[4260 1594.4s] with they don't care where i put it as long 
+[4270 1596.6s] as it's within 50 feet of the test holes i 
+[4280 1599.8s] was like well that's not really a design you know 
+[4290 1602.7s] you know that's that's making the installer do the design 
+[4300 1605.8s] and i think that's why we have such a great 
+[4310 1607.5s] relationship with installers is because we provide something they know 
+[4320 1611.1s] exactly what what we want and they're not the ones 
+[4330 1614.5s] having to figure it out. 
+[4335 1616.7s gap1.0] Um, and then when we 
+[4340 1618.1s] provide the design, you know, walking them through how to 
+[4350 1622.2s] get their permits, um, whether the installer is going to 
+[4360 1625.0s] do that, or they're going to submit, um, being there 
+[4370 1628.3s] to inspect the system once it's installed and, um, the 
+[4380 1632.3s] counties here require that as well. So we provide a 
+[4390 1635.1s] verification and the counties come inspected as well, but we 
+[4400 1639.5s] verify it's installed for the design and provide a record 
+[4410 1642.3s] drawing and so just walking through that whole process with 
+[4420 1645.5s] them to make sure that that everything's complete and that 
+[4430 1649.0s] they have a good product in the end 
+[4438 1652.2s gap1.6] and it 
+[4440 1653.2s] sounds like you will be referred by um an installer 
+[4450 1660.2s] or an excavator um to the homeowner so basically they'll 
+[4460 1663.7s] say you know you're going to need a design here's 
+[4470 1665.5s] the designer we recommend and they would recommend you and 
+[4480 1668.3s] that probably goes the other way as well where maybe 
+[4490 1671.4s] someone comes directly to you for a design and then 
+[4500 1673.8s] you have certain installers that you recommend um so talk 
+[4510 1678.0s] a little bit more about that relationship that professional relationship 
+[4520 1681.3s] where you're referring each other because not everyone who's listening 
+[4530 1686.1s] has that kind of relationship with somebody knows that it's 
+[4540 1689.7s] even beneficial so kind of talk to us about the 
+[4550 1691.8s] benefits of that? 
+[4553 1693.9s gap1.2] Yeah. So I think that it's beneficial 
+[4560 1696.3s] for both of us. 
+[4564 1698.5s gap0.9] As I said, you know, we 
+[4570 1699.8s] provide a design that's very clear on what we expect 
+[4580 1702.9s] to be installed. And it's very clear to the county. 
+[4590 1706.6s] So the, you know, when we go out and look 
+[4600 1708.4s] at the systems, when they're installed, it's very straightforward. If 
+[4610 1711.8s] you've done what's in the design, that's what's been permitted. 
+[4620 1714.9s gap0.7] You should pass your inspection, no problem. Yeah. And so 
+[4630 1718.4s] it's much better than an installer who might work with 
+[4640 1721.3s] someone who's very vague about what they need and is 
+[4650 1724.3s] expecting them to do that legwork, lay things out and 
+[4660 1729.8s] put kind of that liability back on the installer. 
+[4669 1733.8s gap1.0] And 
+[4670 1734.4s] then for us, it's an amazing experience to go out 
+[4680 1738.1s] and just have everything done properly. 
+[4686 1740.8s gap0.8] You know, once in 
+[4690 1741.6s] a while, there might be a little something that wasn't 
+[4700 1744.2s] quite complete yet, But, um, we had that relationship. They 
+[4710 1748.4s] know what we expect. We get out there and it's, 
+[4720 1751.9s] it's done with, you know, it's done well. We don't 
+[4730 1756.5s] have to worry where, you know, sometimes we go out 
+[4740 1759.3s] and someone's found someone who was a hundred dollars cheaper 
+[4750 1764.0s] or something. And we go out and we're like, Hey, 
+[4760 1767.1s] there are several things that need to be corrected. We're 
+[4770 1769.6s] going to have to charge for another inspection this is 
+[4780 1772.6s] going to delay your process maybe you're not going to 
+[4790 1775.2s] be able you know some people may say oh we're 
+[4800 1777.7s] going to you know move out of our house which 
+[4810 1779.6s] normally isn't necessary but they may say we're just going 
+[4820 1782.5s] to move out because this is a lot and then 
+[4830 1784.8s] oh now it's another week because now the county has 
+[4840 1787.8s] to make another inspection and and so just it it's 
+[4850 1791.8s] really beneficial to both parties because things go way smoother 
+[4860 1796.2s] jobs go quicker because you know what's expected you've done 
+[4870 1799.8s] it correctly and it's great for us because i can 
+[4880 1803.1s] put you know i could put together the best design 
+[4890 1805.4s] in the world and if it's not implemented properly it's 
+[4900 1809.2s] not going to work properly right and with soil especially 
+[4910 1813.0s] some of that stuff you can't if you mess it 
+[4920 1816.4s] up 
+[4921 1817.5s gap0.8] there's you can't really fix it right so if 
+[4930 1820.7s] you go through and you do something with the soil 
+[4940 1824.2s] or compacted or dig too deep then it then we 
+[4950 1827.9s] start saying man we gotta now we gotta bring in 
+[4960 1830.2s] sand 
+[4961 1831.3s gap0.7] which is a huge added expense because you tore 
+[4970 1834.5s] up this area without looking at the elevations or doing 
+[4980 1837.6s] things properly and so it just it's it's more efficient 
+[4990 1841.5s] for everyone to work together 
+[4995 1844.2s gap0.9] and we're bringing each other 
+[5000 1846.1s] work you know which is great you know I have 
+[5010 1849.5s] a great working relationship with them. So they're bringing clients 
+[5020 1852.5s] to me. I'm bringing clients to them. And that's actually 
+[5030 1855.6s] beneficial because my job's going to go smoother because I 
+[5040 1859.4s] know someone who's capable and ethical is going to complete 
+[5050 1862.3s] that. 
+[5051 1863.3s gap0.7] That's really good advice. Really good. Tell us about 
+[5060 1866.6s] your work with CPOW and why a small septic company 
+[5070 1870.5s] should join its state association. What kind of benefits are 
+[5080 1874.2s] there? 
+[5081 1875.2s gap0.8] Yeah, so CPOW has been so great for me. 
+[5090 1879.5s] I love the networking. When I talked about, you know, 
+[5100 1883.0s] meeting those excavators in the field and learning things, it's 
+[5110 1886.8s] also, you know, we have meetings where people are telling 
+[5120 1889.7s] us what their experiences are, things they've run into in 
+[5130 1892.9s] the field. 
+[5132 1894.2s gap0.7] During COVID, you know, people were telling us 
+[5140 1896.6s] what their supply issues were. Um, so we were getting 
+[5150 1900.3s] that information and because we represent each sector of the 
+[5160 1906.8s gap1.1] industry, you're having those conversations, um, with everybody who's in 
+[5170 1911.9s] the industry. So you're getting different perspectives. Um, for me, 
+[5180 1915.7s] you know, the networking meeting people, um, and the learning. 
+[5190 1919.8s] So when I got into the industry, everything was just 
+[5200 1922.5s] kind of on the job training in my my schooling 
+[5210 1925.8s] and in my undergrad and graduate degree I did not 
+[5220 1929.2s] learn about on -site wastewater yeah and now we've been 
+[5230 1932.9s] able to develop courses for soils for design for inspector 
+[5240 1938.6s] um so there's just so much more education out there 
+[5250 1941.8s] for folks in our industry um I I got to 
+[5260 1945.4s] teach an inspector class and a gentleman had just bought 
+[5270 1947.9s] a pump truck was just getting into the industry and 
+[5280 1950.2s] he was so excited he was like I'm taking as 
+[5290 1952.0s] many of these classes as I can I just want 
+[5300 1953.9s] to learn as much about it as possible. And that's 
+[5310 1956.9s] just, I think that's so great because like I said, 
+[5320 1959.8s] when I got into it, I was just trying to 
+[5330 1961.8s] learn from everyone around me. And, um, 
+[5337 1965.3s gap0.8] so I think 
+[5340 1965.8s] the learning opportunities, the networking opportunities, um, and building those 
+[5350 1970.2s] relationships. 
+[5351 1971.7s gap0.7] So, you know, when you have those relationships with 
+[5360 1974.3s] the regulators, they know that you're in the industry and 
+[5370 1977.0s] you are, you know, working on being educated and doing 
+[5380 1980.5s] things ethically. 
+[5382 1982.0s gap0.7] You just build relationships with everyone in the 
+[5390 1984.8s] industry that really benefits you. Yeah. And that's pretty clear 
+[5400 1989.1s] just from the regulatory changes that Colorado has been able 
+[5410 1993.3s] to have is that that was part of that cooperative 
+[5420 1995.8s] process of bringing everybody together. For sure. 
+[5427 1999.8s gap0.9] That's great. Well, 
+[5430 2001.4s] what's the hardest stretch you've been through as a business 
+[5440 2004.4s] owner? And what did that teach you? Maybe it was 
+[5450 2007.0s] in the beginning or at some other point. Yeah, so 
+[5460 2010.4s] we bought our business in 2007. 
+[5466 2013.6s gap1.1] And right about then, 
+[5470 2016.7s] right as we bought our business, there was a huge 
+[5480 2019.5s] decline in the housing market. There was a recession. um 
+[5490 2023.5s] that was really difficult because we did a lot of 
+[5500 2026.3s] residential work um and there were you know there were 
+[5510 2029.9s] times where we weren't getting paychecks where it was you 
+[5520 2033.5s] know the work just wasn't there um builders were going 
+[5530 2036.5s] out of business um even larger engineering firms were laying 
+[5540 2040.5s] off people um and so it was tough you know 
+[5550 2045.9s] um and I think it taught me to be grateful 
+[5560 2049.8s] when we have too much work because sometimes you have 
+[5570 2054.4s] those times when you're you're like man this is a 
+[5580 2057.1s] lot but you're like well it's much better than the 
+[5590 2059.7s] alternative yeah um and like looking where you're spending your 
+[5600 2064.0s] money as a business owner and and what is an 
+[5610 2067.3s] appropriate cost where you can save money um that sort 
+[5620 2071.3s] of thing but I think just being being grateful for 
+[5630 2074.7s] the abundance when it's there 
+[5635 2077.1s gap1.0] and just that, like knowing 
+[5640 2078.8s] that there will be ebbs and flows and to prepare 
+[5650 2082.0s] for that. 
+[5652 2083.2s gap0.7] That's good. That's really, really good. Well, as 
+[5660 2086.4s] we wrap up, what is one piece of advice you 
+[5670 2089.7s] would give to others in the industry listening that you 
+[5680 2093.9s] feel like maybe you could have gone back in time 
+[5690 2096.2s] and given yourself advice or something that would really benefit 
+[5700 2099.1s] them? 
+[5701 2100.5s gap1.1] Yeah. So I would say uh one of my 
+[5710 2102.9s] mentors in the industry um he is also an engineer 
+[5720 2107.6s] distributor and he told me once when i was i 
+[5730 2111.5s] was frustrated by being undercut by a competitor and that 
+[5740 2116.0s] sort of thing and he said you can never go 
+[5750 2118.1s] wrong taking the high road 
+[5755 2121.1s gap1.5] and so that i think 
+[5760 2123.7s] always sticks with me is if my price is too 
+[5770 2126.5s] expensive because i'm providing the actual product that you need 
+[5780 2131.1s] um or i'm not you know doing unethical things so 
+[5790 2135.1s] be it and in the end that'll work out for 
+[5800 2137.7s] me yeah and it has and it has yeah yeah 
+[5810 2141.9s] that's good i got chills when you said that i 
+[5820 2144.3s] love that yeah that's great so where can listeners find 
+[5830 2147.9s] you and church on -site wastewater consultants uh so our 
+[5840 2152.2s] website is cowastewater .com. Um, we do have a Facebook 
+[5850 2158.3s] page as well. Um, but our website has all our 
+[5860 2162.2s] contact information. Um, 
+[5863 2165.0s gap0.7] and just, um, even people who may 
+[5870 2168.1s] not be in Colorado, I do teach the Colorado and 
+[5880 2171.7s] not design classes. So if you have, have questions about, 
+[5890 2176.3s] um, 
+[5891 2177.1s gap0.7] you know, anything about design or just how to 
+[5900 2180.0s] get education in your areas. I know there's still states 
+[5910 2184.3s] that may not have good training programs. Love to share 
+[5920 2188.2s] with you how we made that happen here. That's great. 
+[5930 2191.2s] Thanks for being on, Kate. Thank you. 

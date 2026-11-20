@@ -1,0 +1,87 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.02,Title,,0,0,0,,{\an5\pos(540,250)}Don't aim yard drainage\Nat your {\c&H0060ECCD}septic{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:00.36,0:00:00.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} see sometimes
+Dialogue: 1,0:00:00.92,0:00:01.18,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}see{\c&H00FFFFFF&} sometimes
+Dialogue: 1,0:00:01.18,0:00:01.62,Cap,,0,0,0,,{\pos(540,1400)}We see {\c&H0060ECCD}sometimes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.62,0:00:01.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}where{\c&H00FFFFFF&} people just
+Dialogue: 1,0:00:01.90,0:00:02.26,Cap,,0,0,0,,{\pos(540,1400)}where {\c&H0060ECCD}people{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:02.26,0:00:02.74,Cap,,0,0,0,,{\pos(540,1400)}where people {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.74,0:00:03.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}really{\c&H00FFFFFF&} aren't
+Dialogue: 1,0:00:03.34,0:00:04.26,Cap,,0,0,0,,{\pos(540,1400)}really {\c&H0060ECCD}aren't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.26,0:00:04.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}used{\c&H00FFFFFF&} to being
+Dialogue: 1,0:00:04.48,0:00:04.58,Cap,,0,0,0,,{\pos(540,1400)}used {\c&H0060ECCD}to{\c&H00FFFFFF&} being
+Dialogue: 1,0:00:04.58,0:00:04.72,Cap,,0,0,0,,{\pos(540,1400)}used to {\c&H0060ECCD}being{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.72,0:00:05.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on-site{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.08,0:00:05.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wastewater{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:05.52,0:00:05.96,Cap,,0,0,0,,{\pos(540,1400)}wastewater {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.96,0:00:06.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}they'll{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:06.18,0:00:06.48,Cap,,0,0,0,,{\pos(540,1400)}they'll {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.48,0:00:07.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}irrigate{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:07.66,0:00:08.00,Cap,,0,0,0,,{\pos(540,1400)}irrigate {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.00,0:00:09.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}yard{\c&H00FFFFFF&} and not
+Dialogue: 1,0:00:09.22,0:00:10.00,Cap,,0,0,0,,{\pos(540,1400)}yard {\c&H0060ECCD}and{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:10.00,0:00:11.66,Cap,,0,0,0,,{\pos(540,1400)}yard and {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.66,0:00:12.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}realize{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:12.10,0:00:12.38,Cap,,0,0,0,,{\pos(540,1400)}realize {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.38,0:00:12.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we're{\c&H00FFFFFF&} already
+Dialogue: 1,0:00:12.54,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}we're {\c&H0060ECCD}already{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.80,0:00:13.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}trying{\c&H00FFFFFF&} to get
+Dialogue: 1,0:00:13.08,0:00:13.22,Cap,,0,0,0,,{\pos(540,1400)}trying {\c&H0060ECCD}to{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:13.22,0:00:13.32,Cap,,0,0,0,,{\pos(540,1400)}trying to {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.32,0:00:13.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} to go into
+Dialogue: 1,0:00:13.58,0:00:13.74,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}to{\c&H00FFFFFF&} go into
+Dialogue: 1,0:00:13.74,0:00:13.90,Cap,,0,0,0,,{\pos(540,1400)}water to {\c&H0060ECCD}go{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:13.90,0:00:14.10,Cap,,0,0,0,,{\pos(540,1400)}water to go {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.10,0:00:14.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} ground
+Dialogue: 1,0:00:14.26,0:00:14.82,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}ground{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.28,0:00:15.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We've{\c&H00FFFFFF&} seen a few
+Dialogue: 1,0:00:15.92,0:00:16.10,Cap,,0,0,0,,{\pos(540,1400)}We've {\c&H0060ECCD}seen{\c&H00FFFFFF&} a few
+Dialogue: 1,0:00:16.10,0:00:16.26,Cap,,0,0,0,,{\pos(540,1400)}We've seen {\c&H0060ECCD}a{\c&H00FFFFFF&} few
+Dialogue: 1,0:00:16.26,0:00:16.64,Cap,,0,0,0,,{\pos(540,1400)}We've seen a {\c&H0060ECCD}few{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.64,0:00:17.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}surface{\c&H00FFFFFF&} drainage
+Dialogue: 1,0:00:17.50,0:00:17.82,Cap,,0,0,0,,{\pos(540,1400)}surface {\c&H0060ECCD}drainage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.82,0:00:18.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}issues{\c&H00FFFFFF&} where
+Dialogue: 1,0:00:18.34,0:00:18.86,Cap,,0,0,0,,{\pos(540,1400)}issues {\c&H0060ECCD}where{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.86,0:00:19.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&} wasn't
+Dialogue: 1,0:00:19.20,0:00:19.48,Cap,,0,0,0,,{\pos(540,1400)}there {\c&H0060ECCD}wasn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.48,0:00:19.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}coordination{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.98,0:00:20.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}between{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:20.44,0:00:21.72,Cap,,0,0,0,,{\pos(540,1400)}between {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.72,0:00:22.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}onsite{\c&H00FFFFFF&} wastewater
+Dialogue: 1,0:00:22.36,0:00:22.74,Cap,,0,0,0,,{\pos(540,1400)}onsite {\c&H0060ECCD}wastewater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.74,0:00:23.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}designer{\c&H00FFFFFF&} and the
+Dialogue: 1,0:00:23.30,0:00:23.92,Cap,,0,0,0,,{\pos(540,1400)}designer {\c&H0060ECCD}and{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:23.92,0:00:24.36,Cap,,0,0,0,,{\pos(540,1400)}designer and {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.36,0:00:25.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}person{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:25.00,0:00:25.24,Cap,,0,0,0,,{\pos(540,1400)}person {\c&H0060ECCD}doing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.24,0:00:25.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}general{\c&H00FFFFFF&} grading
+Dialogue: 1,0:00:25.74,0:00:26.24,Cap,,0,0,0,,{\pos(540,1400)}general {\c&H0060ECCD}grading{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.24,0:00:26.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} drainage
+Dialogue: 1,0:00:26.44,0:00:26.94,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}drainage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.00,0:00:27.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} sometimes we
+Dialogue: 1,0:00:27.08,0:00:27.40,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}sometimes{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:27.40,0:00:27.60,Cap,,0,0,0,,{\pos(540,1400)}So sometimes {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.60,0:00:27.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}get{\c&H00FFFFFF&} drainage
+Dialogue: 1,0:00:27.74,0:00:28.10,Cap,,0,0,0,,{\pos(540,1400)}get {\c&H0060ECCD}drainage{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.10,0:00:28.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}directed{\c&H00FFFFFF&} towards
+Dialogue: 1,0:00:28.58,0:00:29.02,Cap,,0,0,0,,{\pos(540,1400)}directed {\c&H0060ECCD}towards{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.02,0:00:29.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}systems{\c&H00FFFFFF&} and that
+Dialogue: 1,0:00:29.58,0:00:29.90,Cap,,0,0,0,,{\pos(540,1400)}systems {\c&H0060ECCD}and{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:29.90,0:00:30.08,Cap,,0,0,0,,{\pos(540,1400)}systems and {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.08,0:00:30.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sort{\c&H00FFFFFF&} of thing
+Dialogue: 1,0:00:30.30,0:00:30.40,Cap,,0,0,0,,{\pos(540,1400)}sort {\c&H0060ECCD}of{\c&H00FFFFFF&} thing
+Dialogue: 1,0:00:30.40,0:00:30.78,Cap,,0,0,0,,{\pos(540,1400)}sort of {\c&H0060ECCD}thing{\c&H00FFFFFF&}

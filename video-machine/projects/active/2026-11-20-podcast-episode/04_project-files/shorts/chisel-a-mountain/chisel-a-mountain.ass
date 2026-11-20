@@ -1,0 +1,115 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:36.71,Title,,0,0,0,,{\an5\pos(540,250)}They chiseled part of a mountain\Nto fit one {\c&H0060ECCD}drain field{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then we
+Dialogue: 1,0:00:00.26,0:00:00.58,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:00.58,0:00:01.48,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.48,0:00:01.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pumped{\c&H00FFFFFF&} up and
+Dialogue: 1,0:00:01.98,0:00:02.56,Cap,,0,0,0,,{\pos(540,1400)}pumped {\c&H0060ECCD}up{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:02.56,0:00:03.46,Cap,,0,0,0,,{\pos(540,1400)}pumped up {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.46,0:00:03.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ended{\c&H00FFFFFF&} up putting
+Dialogue: 1,0:00:03.92,0:00:04.12,Cap,,0,0,0,,{\pos(540,1400)}ended {\c&H0060ECCD}up{\c&H00FFFFFF&} putting
+Dialogue: 1,0:00:04.12,0:00:04.48,Cap,,0,0,0,,{\pos(540,1400)}ended up {\c&H0060ECCD}putting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.48,0:00:04.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} drain field
+Dialogue: 1,0:00:04.76,0:00:05.06,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}drain{\c&H00FFFFFF&} field
+Dialogue: 1,0:00:05.06,0:00:05.50,Cap,,0,0,0,,{\pos(540,1400)}the drain {\c&H0060ECCD}field{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.50,0:00:05.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} soil treatment
+Dialogue: 1,0:00:05.68,0:00:05.90,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}soil{\c&H00FFFFFF&} treatment
+Dialogue: 1,0:00:05.90,0:00:06.22,Cap,,0,0,0,,{\pos(540,1400)}or soil {\c&H0060ECCD}treatment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.22,0:00:06.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}area{\c&H00FFFFFF&} under the
+Dialogue: 1,0:00:06.60,0:00:07.16,Cap,,0,0,0,,{\pos(540,1400)}area {\c&H0060ECCD}under{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:07.16,0:00:07.38,Cap,,0,0,0,,{\pos(540,1400)}area under {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.38,0:00:07.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}parking{\c&H00FFFFFF&} area up
+Dialogue: 1,0:00:07.76,0:00:08.34,Cap,,0,0,0,,{\pos(540,1400)}parking {\c&H0060ECCD}area{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:08.34,0:00:08.80,Cap,,0,0,0,,{\pos(540,1400)}parking area {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.80,0:00:09.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}above{\c&H00FFFFFF&} it had to
+Dialogue: 1,0:00:09.26,0:00:10.06,Cap,,0,0,0,,{\pos(540,1400)}above {\c&H0060ECCD}it{\c&H00FFFFFF&} had to
+Dialogue: 1,0:00:10.06,0:00:10.22,Cap,,0,0,0,,{\pos(540,1400)}above it {\c&H0060ECCD}had{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:10.22,0:00:10.32,Cap,,0,0,0,,{\pos(540,1400)}above it had {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.32,0:00:10.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} traffic graded
+Dialogue: 1,0:00:10.44,0:00:10.86,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}traffic{\c&H00FFFFFF&} graded
+Dialogue: 1,0:00:10.86,0:00:11.30,Cap,,0,0,0,,{\pos(540,1400)}be traffic {\c&H0060ECCD}graded{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.30,0:00:11.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} fire truck
+Dialogue: 1,0:00:11.50,0:00:11.90,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}fire{\c&H00FFFFFF&} truck
+Dialogue: 1,0:00:11.90,0:00:12.36,Cap,,0,0,0,,{\pos(540,1400)}for fire {\c&H0060ECCD}truck{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.36,0:00:13.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}access{\c&H00FFFFFF&} wow and
+Dialogue: 1,0:00:13.02,0:00:13.82,Cap,,0,0,0,,{\pos(540,1400)}access {\c&H0060ECCD}wow{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:13.82,0:00:14.44,Cap,,0,0,0,,{\pos(540,1400)}access wow {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.44,0:00:14.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} because of
+Dialogue: 1,0:00:14.64,0:00:15.00,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}because{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:15.00,0:00:15.20,Cap,,0,0,0,,{\pos(540,1400)}then because {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.20,0:00:15.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} space they
+Dialogue: 1,0:00:15.34,0:00:15.72,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}space{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:15.72,0:00:16.00,Cap,,0,0,0,,{\pos(540,1400)}the space {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.00,0:00:16.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} had to
+Dialogue: 1,0:00:16.44,0:00:16.66,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}had{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:16.66,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}actually had {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.80,0:00:17.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}chisel{\c&H00FFFFFF&} away part
+Dialogue: 1,0:00:17.20,0:00:17.62,Cap,,0,0,0,,{\pos(540,1400)}chisel {\c&H0060ECCD}away{\c&H00FFFFFF&} part
+Dialogue: 1,0:00:17.62,0:00:18.00,Cap,,0,0,0,,{\pos(540,1400)}chisel away {\c&H0060ECCD}part{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.00,0:00:18.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} the mountain
+Dialogue: 1,0:00:18.12,0:00:18.24,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}the{\c&H00FFFFFF&} mountain
+Dialogue: 1,0:00:18.24,0:00:18.60,Cap,,0,0,0,,{\pos(540,1400)}of the {\c&H0060ECCD}mountain{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.60,0:00:19.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} extend that
+Dialogue: 1,0:00:19.70,0:00:20.36,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}extend{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:20.36,0:00:20.90,Cap,,0,0,0,,{\pos(540,1400)}to extend {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.90,0:00:21.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}area{\c&H00FFFFFF&} to get
+Dialogue: 1,0:00:21.50,0:00:21.92,Cap,,0,0,0,,{\pos(540,1400)}area {\c&H0060ECCD}to{\c&H00FFFFFF&} get
+Dialogue: 1,0:00:21.92,0:00:22.16,Cap,,0,0,0,,{\pos(540,1400)}area to {\c&H0060ECCD}get{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.16,0:00:22.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}enough{\c&H00FFFFFF&} space up
+Dialogue: 1,0:00:22.42,0:00:22.84,Cap,,0,0,0,,{\pos(540,1400)}enough {\c&H0060ECCD}space{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:22.84,0:00:23.06,Cap,,0,0,0,,{\pos(540,1400)}enough space {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.06,0:00:24.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&} so it was
+Dialogue: 1,0:00:24.16,0:00:24.72,Cap,,0,0,0,,{\pos(540,1400)}there {\c&H0060ECCD}so{\c&H00FFFFFF&} it was
+Dialogue: 1,0:00:24.72,0:00:24.94,Cap,,0,0,0,,{\pos(540,1400)}there so {\c&H0060ECCD}it{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:24.94,0:00:25.16,Cap,,0,0,0,,{\pos(540,1400)}there so it {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.16,0:00:25.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pretty{\c&H00FFFFFF&} costly but
+Dialogue: 1,0:00:25.60,0:00:26.28,Cap,,0,0,0,,{\pos(540,1400)}pretty {\c&H0060ECCD}costly{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:26.28,0:00:27.06,Cap,,0,0,0,,{\pos(540,1400)}pretty costly {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.06,0:00:28.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} other option
+Dialogue: 1,0:00:28.20,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}other{\c&H00FFFFFF&} option
+Dialogue: 1,0:00:28.46,0:00:28.80,Cap,,0,0,0,,{\pos(540,1400)}the other {\c&H0060ECCD}option{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.80,0:00:29.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} to build a
+Dialogue: 1,0:00:29.00,0:00:29.16,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}to{\c&H00FFFFFF&} build a
+Dialogue: 1,0:00:29.16,0:00:29.44,Cap,,0,0,0,,{\pos(540,1400)}was to {\c&H0060ECCD}build{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:29.44,0:00:29.60,Cap,,0,0,0,,{\pos(540,1400)}was to build {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.60,0:00:29.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}road{\c&H00FFFFFF&} up the
+Dialogue: 1,0:00:29.86,0:00:30.14,Cap,,0,0,0,,{\pos(540,1400)}road {\c&H0060ECCD}up{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:30.14,0:00:30.30,Cap,,0,0,0,,{\pos(540,1400)}road up {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.30,0:00:30.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mountain{\c&H00FFFFFF&} and try
+Dialogue: 1,0:00:30.64,0:00:31.06,Cap,,0,0,0,,{\pos(540,1400)}mountain {\c&H0060ECCD}and{\c&H00FFFFFF&} try
+Dialogue: 1,0:00:31.06,0:00:31.28,Cap,,0,0,0,,{\pos(540,1400)}mountain and {\c&H0060ECCD}try{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.28,0:00:31.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} pump it up
+Dialogue: 1,0:00:31.42,0:00:31.68,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}pump{\c&H00FFFFFF&} it up
+Dialogue: 1,0:00:31.68,0:00:31.84,Cap,,0,0,0,,{\pos(540,1400)}to pump {\c&H0060ECCD}it{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:31.84,0:00:32.18,Cap,,0,0,0,,{\pos(540,1400)}to pump it {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.18,0:00:32.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}farther{\c&H00FFFFFF&} up the
+Dialogue: 1,0:00:32.76,0:00:33.04,Cap,,0,0,0,,{\pos(540,1400)}farther {\c&H0060ECCD}up{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:33.04,0:00:33.16,Cap,,0,0,0,,{\pos(540,1400)}farther up {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.16,0:00:33.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mountain{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:33.44,0:00:33.68,Cap,,0,0,0,,{\pos(540,1400)}mountain {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.68,0:00:33.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} their land
+Dialogue: 1,0:00:33.84,0:00:34.00,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}their{\c&H00FFFFFF&} land
+Dialogue: 1,0:00:34.00,0:00:34.34,Cap,,0,0,0,,{\pos(540,1400)}all their {\c&H0060ECCD}land{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.34,0:00:34.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} was way on
+Dialogue: 1,0:00:34.66,0:00:35.54,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}was{\c&H00FFFFFF&} way on
+Dialogue: 1,0:00:35.54,0:00:35.80,Cap,,0,0,0,,{\pos(540,1400)}was was {\c&H0060ECCD}way{\c&H00FFFFFF&} on
+Dialogue: 1,0:00:35.80,0:00:36.00,Cap,,0,0,0,,{\pos(540,1400)}was was way {\c&H0060ECCD}on{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.00,0:00:36.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} top of the
+Dialogue: 1,0:00:36.10,0:00:36.28,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}top{\c&H00FFFFFF&} of the
+Dialogue: 1,0:00:36.28,0:00:36.38,Cap,,0,0,0,,{\pos(540,1400)}the top {\c&H0060ECCD}of{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:36.38,0:00:36.50,Cap,,0,0,0,,{\pos(540,1400)}the top of {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.50,0:00:36.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}mountain{\c&H00FFFFFF&}

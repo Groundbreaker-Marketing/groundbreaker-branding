@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:44.81,Title,,0,0,0,,{\an5\pos(540,250)}Tell your septic designer if\Nit'll be a {\c&H0060ECCD}rental{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.18,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}We{\c&H00FFFFFF&} recently had a
+Dialogue: 1,0:00:00.26,0:00:00.70,Cap,,0,0,0,,{\pos(540,1400)}We {\c&H0060ECCD}recently{\c&H00FFFFFF&} had a
+Dialogue: 1,0:00:00.70,0:00:01.16,Cap,,0,0,0,,{\pos(540,1400)}We recently {\c&H0060ECCD}had{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:01.16,0:00:01.52,Cap,,0,0,0,,{\pos(540,1400)}We recently had {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.52,0:00:02.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}residential{\c&H00FFFFFF&} home
+Dialogue: 1,0:00:02.14,0:00:02.56,Cap,,0,0,0,,{\pos(540,1400)}residential {\c&H0060ECCD}home{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.56,0:00:02.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} we designed
+Dialogue: 1,0:00:02.72,0:00:02.84,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}we{\c&H00FFFFFF&} designed
+Dialogue: 1,0:00:02.84,0:00:03.18,Cap,,0,0,0,,{\pos(540,1400)}that we {\c&H0060ECCD}designed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.18,0:00:03.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} a residential
+Dialogue: 1,0:00:03.36,0:00:03.44,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}a{\c&H00FFFFFF&} residential
+Dialogue: 1,0:00:03.44,0:00:03.84,Cap,,0,0,0,,{\pos(540,1400)}as a {\c&H0060ECCD}residential{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.84,0:00:04.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}home{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.26,0:00:04.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} right after
+Dialogue: 1,0:00:04.50,0:00:05.22,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}right{\c&H00FFFFFF&} after
+Dialogue: 1,0:00:05.22,0:00:05.64,Cap,,0,0,0,,{\pos(540,1400)}and right {\c&H0060ECCD}after{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.64,0:00:05.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} system was
+Dialogue: 1,0:00:05.80,0:00:06.08,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}system{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:06.08,0:00:06.32,Cap,,0,0,0,,{\pos(540,1400)}the system {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.32,0:00:06.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installed{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:06.88,0:00:07.70,Cap,,0,0,0,,{\pos(540,1400)}installed {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.70,0:00:08.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}owner{\c&H00FFFFFF&} went in for
+Dialogue: 1,0:00:08.10,0:00:08.50,Cap,,0,0,0,,{\pos(540,1400)}owner {\c&H0060ECCD}went{\c&H00FFFFFF&} in for
+Dialogue: 1,0:00:08.50,0:00:08.66,Cap,,0,0,0,,{\pos(540,1400)}owner went {\c&H0060ECCD}in{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:08.66,0:00:08.92,Cap,,0,0,0,,{\pos(540,1400)}owner went in {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.92,0:00:09.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} short-term
+Dialogue: 1,0:00:09.10,0:00:09.54,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}short-term{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.54,0:00:09.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}rental{\c&H00FFFFFF&} permit and
+Dialogue: 1,0:00:09.94,0:00:11.32,Cap,,0,0,0,,{\pos(540,1400)}rental {\c&H0060ECCD}permit{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:11.32,0:00:11.80,Cap,,0,0,0,,{\pos(540,1400)}rental permit {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.80,0:00:11.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} Colorado after
+Dialogue: 1,0:00:11.98,0:00:12.44,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}Colorado{\c&H00FFFFFF&} after
+Dialogue: 1,0:00:12.44,0:00:13.06,Cap,,0,0,0,,{\pos(540,1400)}in Colorado {\c&H0060ECCD}after{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.06,0:00:13.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}three{\c&H00FFFFFF&} bedrooms
+Dialogue: 1,0:00:13.40,0:00:13.94,Cap,,0,0,0,,{\pos(540,1400)}three {\c&H0060ECCD}bedrooms{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.94,0:00:14.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} only have to
+Dialogue: 1,0:00:14.26,0:00:14.44,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}only{\c&H00FFFFFF&} have to
+Dialogue: 1,0:00:14.44,0:00:14.62,Cap,,0,0,0,,{\pos(540,1400)}you only {\c&H0060ECCD}have{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:14.62,0:00:14.76,Cap,,0,0,0,,{\pos(540,1400)}you only have {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.76,0:00:15.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}design{\c&H00FFFFFF&} for one
+Dialogue: 1,0:00:15.06,0:00:15.32,Cap,,0,0,0,,{\pos(540,1400)}design {\c&H0060ECCD}for{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:15.32,0:00:15.62,Cap,,0,0,0,,{\pos(540,1400)}design for {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.62,0:00:16.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}person{\c&H00FFFFFF&} per
+Dialogue: 1,0:00:16.16,0:00:16.34,Cap,,0,0,0,,{\pos(540,1400)}person {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.34,0:00:16.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bedroom{\c&H00FFFFFF&} and this
+Dialogue: 1,0:00:16.80,0:00:17.54,Cap,,0,0,0,,{\pos(540,1400)}bedroom {\c&H0060ECCD}and{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:17.54,0:00:17.74,Cap,,0,0,0,,{\pos(540,1400)}bedroom and {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.74,0:00:18.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}person{\c&H00FFFFFF&} wanted the
+Dialogue: 1,0:00:18.10,0:00:18.56,Cap,,0,0,0,,{\pos(540,1400)}person {\c&H0060ECCD}wanted{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:18.56,0:00:18.74,Cap,,0,0,0,,{\pos(540,1400)}person wanted {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.74,0:00:19.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}short-term{\c&H00FFFFFF&} rental
+Dialogue: 1,0:00:19.14,0:00:19.38,Cap,,0,0,0,,{\pos(540,1400)}short-term {\c&H0060ECCD}rental{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.38,0:00:19.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} more people
+Dialogue: 1,0:00:19.62,0:00:19.86,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}more{\c&H00FFFFFF&} people
+Dialogue: 1,0:00:19.86,0:00:20.26,Cap,,0,0,0,,{\pos(540,1400)}for more {\c&H0060ECCD}people{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.26,0:00:20.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then he was
+Dialogue: 1,0:00:20.72,0:00:20.84,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} he was
+Dialogue: 1,0:00:20.84,0:00:20.96,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}he{\c&H00FFFFFF&} was
+Dialogue: 1,0:00:20.96,0:00:21.14,Cap,,0,0,0,,{\pos(540,1400)}and then he {\c&H0060ECCD}was{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.14,0:00:21.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}very{\c&H00FFFFFF&} upset but he
+Dialogue: 1,0:00:21.42,0:00:21.92,Cap,,0,0,0,,{\pos(540,1400)}very {\c&H0060ECCD}upset{\c&H00FFFFFF&} but he
+Dialogue: 1,0:00:21.92,0:00:22.74,Cap,,0,0,0,,{\pos(540,1400)}very upset {\c&H0060ECCD}but{\c&H00FFFFFF&} he
+Dialogue: 1,0:00:22.74,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}very upset but {\c&H0060ECCD}he{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.94,0:00:23.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}never{\c&H00FFFFFF&} disclosed
+Dialogue: 1,0:00:23.26,0:00:23.86,Cap,,0,0,0,,{\pos(540,1400)}never {\c&H0060ECCD}disclosed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.86,0:00:24.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} us that he
+Dialogue: 1,0:00:24.02,0:00:24.18,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}us{\c&H00FFFFFF&} that he
+Dialogue: 1,0:00:24.18,0:00:24.34,Cap,,0,0,0,,{\pos(540,1400)}to us {\c&H0060ECCD}that{\c&H00FFFFFF&} he
+Dialogue: 1,0:00:24.34,0:00:24.48,Cap,,0,0,0,,{\pos(540,1400)}to us that {\c&H0060ECCD}he{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.48,0:00:24.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} going to use
+Dialogue: 1,0:00:24.64,0:00:24.82,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}going{\c&H00FFFFFF&} to use
+Dialogue: 1,0:00:24.82,0:00:24.96,Cap,,0,0,0,,{\pos(540,1400)}was going {\c&H0060ECCD}to{\c&H00FFFFFF&} use
+Dialogue: 1,0:00:24.96,0:00:25.12,Cap,,0,0,0,,{\pos(540,1400)}was going to {\c&H0060ECCD}use{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.12,0:00:25.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} as a
+Dialogue: 1,0:00:25.22,0:00:25.38,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}as{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:25.38,0:00:25.48,Cap,,0,0,0,,{\pos(540,1400)}it as {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.48,0:00:25.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}short-term{\c&H00FFFFFF&} rental
+Dialogue: 1,0:00:25.90,0:00:26.26,Cap,,0,0,0,,{\pos(540,1400)}short-term {\c&H0060ECCD}rental{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.26,0:00:27.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} he wanted
+Dialogue: 1,0:00:27.60,0:00:27.92,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}he{\c&H00FFFFFF&} wanted
+Dialogue: 1,0:00:27.92,0:00:28.22,Cap,,0,0,0,,{\pos(540,1400)}because he {\c&H0060ECCD}wanted{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.22,0:00:28.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} designed as a
+Dialogue: 1,0:00:28.44,0:00:28.82,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}designed{\c&H00FFFFFF&} as a
+Dialogue: 1,0:00:28.82,0:00:29.06,Cap,,0,0,0,,{\pos(540,1400)}it designed {\c&H0060ECCD}as{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:29.06,0:00:29.16,Cap,,0,0,0,,{\pos(540,1400)}it designed as {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.16,0:00:29.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}residential{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.58,0:00:30.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.24,0:00:30.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Okay{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.90,0:00:31.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}To{\c&H00FFFFFF&} save money
+Dialogue: 1,0:00:31.06,0:00:31.28,Cap,,0,0,0,,{\pos(540,1400)}To {\c&H0060ECCD}save{\c&H00FFFFFF&} money
+Dialogue: 1,0:00:31.28,0:00:31.76,Cap,,0,0,0,,{\pos(540,1400)}To save {\c&H0060ECCD}money{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.88,0:00:32.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} did he not
+Dialogue: 1,0:00:32.14,0:00:32.30,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}did{\c&H00FFFFFF&} he not
+Dialogue: 1,0:00:32.30,0:00:32.40,Cap,,0,0,0,,{\pos(540,1400)}So did {\c&H0060ECCD}he{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:32.40,0:00:32.74,Cap,,0,0,0,,{\pos(540,1400)}So did he {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.74,0:00:33.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}get{\c&H00FFFFFF&} his
+Dialogue: 1,0:00:33.06,0:00:33.38,Cap,,0,0,0,,{\pos(540,1400)}get {\c&H0060ECCD}his{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.38,0:00:33.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}short-term{\c&H00FFFFFF&} rental
+Dialogue: 1,0:00:33.84,0:00:34.22,Cap,,0,0,0,,{\pos(540,1400)}short-term {\c&H0060ECCD}rental{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.22,0:00:34.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}approved{\c&H00FFFFFF&} because
+Dialogue: 1,0:00:34.96,0:00:35.34,Cap,,0,0,0,,{\pos(540,1400)}approved {\c&H0060ECCD}because{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.34,0:00:35.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}his{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:35.78,0:00:36.26,Cap,,0,0,0,,{\pos(540,1400)}his {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.26,0:00:36.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}couldn't{\c&H00FFFFFF&} handle
+Dialogue: 1,0:00:36.92,0:00:37.22,Cap,,0,0,0,,{\pos(540,1400)}couldn't {\c&H0060ECCD}handle{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.22,0:00:37.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.12,0:00:38.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Yep{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.52,0:00:38.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} now he's
+Dialogue: 1,0:00:38.70,0:00:38.90,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}now{\c&H00FFFFFF&} he's
+Dialogue: 1,0:00:38.90,0:00:39.20,Cap,,0,0,0,,{\pos(540,1400)}And now {\c&H0060ECCD}he's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.20,0:00:39.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}looking{\c&H00FFFFFF&} at adding
+Dialogue: 1,0:00:39.48,0:00:39.82,Cap,,0,0,0,,{\pos(540,1400)}looking {\c&H0060ECCD}at{\c&H00FFFFFF&} adding
+Dialogue: 1,0:00:39.82,0:00:40.36,Cap,,0,0,0,,{\pos(540,1400)}looking at {\c&H0060ECCD}adding{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.36,0:00:40.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} to a brand
+Dialogue: 1,0:00:40.74,0:00:40.96,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}to{\c&H00FFFFFF&} a brand
+Dialogue: 1,0:00:40.96,0:00:41.12,Cap,,0,0,0,,{\pos(540,1400)}on to {\c&H0060ECCD}a{\c&H00FFFFFF&} brand
+Dialogue: 1,0:00:41.12,0:00:41.44,Cap,,0,0,0,,{\pos(540,1400)}on to a {\c&H0060ECCD}brand{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.44,0:00:41.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}new{\c&H00FFFFFF&} system
+Dialogue: 1,0:00:41.64,0:00:42.26,Cap,,0,0,0,,{\pos(540,1400)}new {\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.66,0:00:43.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}It{\c&H00FFFFFF&} just got put
+Dialogue: 1,0:00:43.22,0:00:43.52,Cap,,0,0,0,,{\pos(540,1400)}It {\c&H0060ECCD}just{\c&H00FFFFFF&} got put
+Dialogue: 1,0:00:43.52,0:00:43.74,Cap,,0,0,0,,{\pos(540,1400)}It just {\c&H0060ECCD}got{\c&H00FFFFFF&} put
+Dialogue: 1,0:00:43.74,0:00:43.94,Cap,,0,0,0,,{\pos(540,1400)}It just got {\c&H0060ECCD}put{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.94,0:00:44.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the ground
+Dialogue: 1,0:00:44.10,0:00:44.20,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&} ground
+Dialogue: 1,0:00:44.20,0:00:44.72,Cap,,0,0,0,,{\pos(540,1400)}in the {\c&H0060ECCD}ground{\c&H00FFFFFF&}

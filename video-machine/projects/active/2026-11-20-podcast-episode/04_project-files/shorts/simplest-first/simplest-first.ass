@@ -1,0 +1,100 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.24,Title,,0,0,0,,{\an5\pos(540,250)}Septic design starts {\c&H0060ECCD}simple{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} we like to
+Dialogue: 1,0:00:00.11,0:00:00.27,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}we{\c&H00FFFFFF&} like to
+Dialogue: 1,0:00:00.27,0:00:00.53,Cap,,0,0,0,,{\pos(540,1400)}So we {\c&H0060ECCD}like{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:00.53,0:00:00.67,Cap,,0,0,0,,{\pos(540,1400)}So we like {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.67,0:00:00.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}go{\c&H00FFFFFF&} to simplest to
+Dialogue: 1,0:00:00.83,0:00:00.97,Cap,,0,0,0,,{\pos(540,1400)}go {\c&H0060ECCD}to{\c&H00FFFFFF&} simplest to
+Dialogue: 1,0:00:00.97,0:00:01.41,Cap,,0,0,0,,{\pos(540,1400)}go to {\c&H0060ECCD}simplest{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:01.41,0:00:01.91,Cap,,0,0,0,,{\pos(540,1400)}go to simplest {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.91,0:00:02.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}more{\c&H00FFFFFF&} complicated
+Dialogue: 1,0:00:02.09,0:00:02.79,Cap,,0,0,0,,{\pos(540,1400)}more {\c&H0060ECCD}complicated{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.93,0:00:03.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} if we have
+Dialogue: 1,0:00:03.33,0:00:04.35,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}if{\c&H00FFFFFF&} we have
+Dialogue: 1,0:00:04.35,0:00:04.49,Cap,,0,0,0,,{\pos(540,1400)}So if {\c&H0060ECCD}we{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:04.49,0:00:04.69,Cap,,0,0,0,,{\pos(540,1400)}So if we {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.69,0:00:04.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} space
+Dialogue: 1,0:00:04.83,0:00:05.23,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}space{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.23,0:00:05.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} we have good
+Dialogue: 1,0:00:05.51,0:00:05.63,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}we{\c&H00FFFFFF&} have good
+Dialogue: 1,0:00:05.63,0:00:05.83,Cap,,0,0,0,,{\pos(540,1400)}if we {\c&H0060ECCD}have{\c&H00FFFFFF&} good
+Dialogue: 1,0:00:05.83,0:00:06.07,Cap,,0,0,0,,{\pos(540,1400)}if we have {\c&H0060ECCD}good{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.07,0:00:06.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}soil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.87,0:00:07.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} will do a
+Dialogue: 1,0:00:07.29,0:00:07.51,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}will{\c&H00FFFFFF&} do a
+Dialogue: 1,0:00:07.51,0:00:07.75,Cap,,0,0,0,,{\pos(540,1400)}we will {\c&H0060ECCD}do{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:07.75,0:00:07.95,Cap,,0,0,0,,{\pos(540,1400)}we will do {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.95,0:00:08.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}very{\c&H00FFFFFF&} simple
+Dialogue: 1,0:00:08.31,0:00:09.09,Cap,,0,0,0,,{\pos(540,1400)}very {\c&H0060ECCD}simple{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.09,0:00:09.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}gravity{\c&H00FFFFFF&} flow type
+Dialogue: 1,0:00:09.65,0:00:10.23,Cap,,0,0,0,,{\pos(540,1400)}gravity {\c&H0060ECCD}flow{\c&H00FFFFFF&} type
+Dialogue: 1,0:00:10.23,0:00:11.33,Cap,,0,0,0,,{\pos(540,1400)}gravity flow {\c&H0060ECCD}type{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.33,0:00:12.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.32,0:00:12.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Unfortunately{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:12.88,0:00:13.84,Cap,,0,0,0,,{\pos(540,1400)}Unfortunately {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.84,0:00:14.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} have density
+Dialogue: 1,0:00:14.54,0:00:14.80,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&} density
+Dialogue: 1,0:00:14.80,0:00:16.16,Cap,,0,0,0,,{\pos(540,1400)}we have {\c&H0060ECCD}density{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.16,0:00:16.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know growing
+Dialogue: 1,0:00:16.64,0:00:16.74,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} growing
+Dialogue: 1,0:00:16.74,0:00:17.14,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}growing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.14,0:00:17.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}here{\c&H00FFFFFF&} in Colorado
+Dialogue: 1,0:00:17.64,0:00:17.82,Cap,,0,0,0,,{\pos(540,1400)}here {\c&H0060ECCD}in{\c&H00FFFFFF&} Colorado
+Dialogue: 1,0:00:17.82,0:00:18.42,Cap,,0,0,0,,{\pos(540,1400)}here in {\c&H0060ECCD}Colorado{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.42,0:00:18.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} so a lot
+Dialogue: 1,0:00:18.62,0:00:18.76,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}so{\c&H00FFFFFF&} a lot
+Dialogue: 1,0:00:18.76,0:00:18.92,Cap,,0,0,0,,{\pos(540,1400)}and so {\c&H0060ECCD}a{\c&H00FFFFFF&} lot
+Dialogue: 1,0:00:18.92,0:00:19.00,Cap,,0,0,0,,{\pos(540,1400)}and so a {\c&H0060ECCD}lot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.00,0:00:19.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} times we'll
+Dialogue: 1,0:00:19.10,0:00:19.54,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}times{\c&H00FFFFFF&} we'll
+Dialogue: 1,0:00:19.54,0:00:20.34,Cap,,0,0,0,,{\pos(540,1400)}of times {\c&H0060ECCD}we'll{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.34,0:00:20.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} either
+Dialogue: 1,0:00:20.76,0:00:21.16,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}either{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.16,0:00:21.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}really{\c&H00FFFFFF&} poor clay
+Dialogue: 1,0:00:21.48,0:00:21.88,Cap,,0,0,0,,{\pos(540,1400)}really {\c&H0060ECCD}poor{\c&H00FFFFFF&} clay
+Dialogue: 1,0:00:21.88,0:00:22.20,Cap,,0,0,0,,{\pos(540,1400)}really poor {\c&H0060ECCD}clay{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.20,0:00:23.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}soils{\c&H00FFFFFF&} small lots
+Dialogue: 1,0:00:23.48,0:00:24.10,Cap,,0,0,0,,{\pos(540,1400)}soils {\c&H0060ECCD}small{\c&H00FFFFFF&} lots
+Dialogue: 1,0:00:24.10,0:00:24.64,Cap,,0,0,0,,{\pos(540,1400)}soils small {\c&H0060ECCD}lots{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.64,0:00:25.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the mountains
+Dialogue: 1,0:00:25.12,0:00:25.20,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&} mountains
+Dialogue: 1,0:00:25.20,0:00:25.58,Cap,,0,0,0,,{\pos(540,1400)}in the {\c&H0060ECCD}mountains{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.58,0:00:25.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we'll{\c&H00FFFFFF&} have rock
+Dialogue: 1,0:00:25.86,0:00:26.00,Cap,,0,0,0,,{\pos(540,1400)}we'll {\c&H0060ECCD}have{\c&H00FFFFFF&} rock
+Dialogue: 1,0:00:26.00,0:00:26.30,Cap,,0,0,0,,{\pos(540,1400)}we'll have {\c&H0060ECCD}rock{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.30,0:00:27.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}soil{\c&H00FFFFFF&} so we'll
+Dialogue: 1,0:00:27.52,0:00:27.92,Cap,,0,0,0,,{\pos(540,1400)}soil {\c&H0060ECCD}so{\c&H00FFFFFF&} we'll
+Dialogue: 1,0:00:27.92,0:00:28.14,Cap,,0,0,0,,{\pos(540,1400)}soil so {\c&H0060ECCD}we'll{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.14,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} these soil
+Dialogue: 1,0:00:28.46,0:00:28.78,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}these{\c&H00FFFFFF&} soil
+Dialogue: 1,0:00:28.78,0:00:29.10,Cap,,0,0,0,,{\pos(540,1400)}have these {\c&H0060ECCD}soil{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.10,0:00:29.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}conditions{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:29.54,0:00:30.06,Cap,,0,0,0,,{\pos(540,1400)}conditions {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.06,0:00:30.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}make{\c&H00FFFFFF&} us go to
+Dialogue: 1,0:00:30.78,0:00:31.00,Cap,,0,0,0,,{\pos(540,1400)}make {\c&H0060ECCD}us{\c&H00FFFFFF&} go to
+Dialogue: 1,0:00:31.00,0:00:31.14,Cap,,0,0,0,,{\pos(540,1400)}make us {\c&H0060ECCD}go{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:31.14,0:00:31.26,Cap,,0,0,0,,{\pos(540,1400)}make us go {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.26,0:00:31.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}either{\c&H00FFFFFF&} a sand
+Dialogue: 1,0:00:31.44,0:00:31.62,Cap,,0,0,0,,{\pos(540,1400)}either {\c&H0060ECCD}a{\c&H00FFFFFF&} sand
+Dialogue: 1,0:00:31.62,0:00:31.88,Cap,,0,0,0,,{\pos(540,1400)}either a {\c&H0060ECCD}sand{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.88,0:00:32.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}filter{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:32.30,0:00:32.92,Cap,,0,0,0,,{\pos(540,1400)}filter {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.92,0:00:33.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sometimes{\c&H00FFFFFF&} higher
+Dialogue: 1,0:00:33.70,0:00:34.06,Cap,,0,0,0,,{\pos(540,1400)}sometimes {\c&H0060ECCD}higher{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.06,0:00:34.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}level{\c&H00FFFFFF&} treatment
+Dialogue: 1,0:00:34.34,0:00:34.86,Cap,,0,0,0,,{\pos(540,1400)}level {\c&H0060ECCD}treatment{\c&H00FFFFFF&}

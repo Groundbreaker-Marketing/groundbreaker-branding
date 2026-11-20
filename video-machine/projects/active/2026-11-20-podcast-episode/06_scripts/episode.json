@@ -1,0 +1,143 @@
+{
+ "slug": "septic-design-engineer",
+ "title": "What a Septic Design Engineer Wishes Every Installer Knew",
+ "title_options": [
+  "What a Septic Design Engineer Wishes Every Installer Knew",
+  "Call the Engineer Before You Dig: Kate Carney on Septic Design",
+  "The Septic Job That Needed a Crane to Set the Tanks",
+  "How to Design a Septic System Your Pumper Can Maintain",
+  "Why a Septic Engineer Says Take the High Road on Price"
+ ],
+ "takes": {
+  "160319": {
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json"
+  }
+ },
+ "keep": [
+  [
+   54,
+   5936,
+   "160319"
+  ]
+ ],
+ "drop": {},
+ "fixes": {
+  "160319": {
+   "126": "NOWRA",
+   "225": "Ceriodaphnia",
+   "226": "dubia,",
+   "1024": "Colorado",
+   "2258": "I",
+   "2535": "doable",
+   "3087": "I",
+   "3213": "NOWRA",
+   "3244": "in",
+   "3245": "Onsite",
+   "3246": "",
+   "3247": "Wastewater,",
+   "3248": "",
+   "3541": "I",
+   "3551": "I",
+   "3580": "I'm",
+   "4244": "",
+   "4245": "I",
+   "4258": "I",
+   "4265": "I",
+   "4279": "I",
+   "4301": "I",
+   "4878": "I",
+   "4883": "I",
+   "5727": "",
+   "5728": "",
+   "5729": "I",
+   "5758": "I",
+   "5772": "I'm",
+   "5782": "I'm",
+   "5812": "I",
+   "5819": "I",
+   "5832": "Church",
+   "5833": "Onsite",
+   "5834": "",
+   "5835": "Wastewater",
+   "5836": "Consultants?",
+   "5842": "cowastewater.com.",
+   "5843": ""
+  }
+ },
+ "fillers": false,
+ "lower_third": {
+  "y": 970,
+  "people": [
+   {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "at": 28.0
+   },
+   {
+    "name": "Kate Carney",
+    "org": "Church Onsite Wastewater Consultants",
+    "at": 90.0
+   }
+  ]
+ },
+ "chapters": [
+  [54, "160319", "How an aquatic biologist ended up designing septic systems"],
+  [556, "160319", "What a week looks like for a septic design engineer"],
+  [958, "160319", "How to pick the right system, and why owners must be honest about use"],
+  [1584, "160319", "The mountain job that needed a crane to set the tanks"],
+  [2097, "160319", "What a great working relationship with an installer looks like"],
+  [2500, "160319", "Design details that make a system easier to pump and maintain"],
+  [3445, "160319", "How title transfer inspections catch failing systems"],
+  [4062, "160319", "Why a detailed design beats the cheapest one"],
+  [5051, "160319", "Why a small septic company should join its state association"],
+  [5430, "160319", "The hardest stretch, and why you never go wrong taking the high road"]
+ ],
+ "pause": {
+  "max_gap": 1000000.0,
+  "pre": 0.3,
+  "post": 0.45
+ },
+ "publish": {
+  "approved": false,
+  "youtube": {
+   "title": "What a Septic Design Engineer Wishes Every Installer Knew",
+   "description": "Kate Carney is a professional engineer who designs onsite wastewater systems in Colorado, and she is the incoming vice president of NOWRA. She owns Church Onsite Wastewater Consultants, and she joined me to talk about what it takes to get a septic system designed, installed and maintained the right way.\n\nIf you install, pump or maintain septic systems, you will hear why Kate would much rather you call her before the dig than find a surprise on site, how she designs systems so a pumper can reach the filters and floats, and why a detailed design makes inspections go smoother. She also tells the story of a mountain job where the tanks had to be craned over a building, and the best advice she ever got: you can never go wrong taking the high road.\n\nWhat we cover:\n- How an aquatic biologist ended up designing septic systems\n- What a week looks like for a septic design engineer\n- How to pick the right system, and why owners must be honest about use\n- The mountain job that needed a crane to set the tanks\n- What a great working relationship with an installer looks like\n- Design details that make a system easier to pump and maintain\n- How title transfer inspections catch failing systems\n- Why a detailed design beats the cheapest one\n- Why a small septic company should join its state association\n- The hardest stretch, and why you never go wrong taking the high road\n\nFind Kate and Church Onsite Wastewater Consultants at cowastewater.com.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic design",
+    "onsite wastewater",
+    "septic engineer",
+    "septic installer",
+    "septic pumper",
+    "drain field",
+    "NOWRA",
+    "Church Onsite Wastewater Consultants",
+    "Kate Carney",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "thumbnail": "07_notes/episode/thumbnail.jpg"
+ },
+ "thumbnail": {
+  "layout": "cutout",
+  "bg": "black",
+  "at": 2005.9,
+  "source": "01_footage/zoom-160319.mp4",
+  "lines": [
+   ["CALL THE", "big"],
+   ["SEPTIC ENGINEER", "box"],
+   ["BEFORE YOU DIG", "small"]
+  ],
+  "guest": {
+   "at": 1511.3
+  },
+  "out": "07_notes/episode/thumbnail.jpg",
+  "headline_w": 470,
+  "note": "Ashley at 2005.9 s (smiling, eyes on camera), Kate at 1511.3 s (smiling); headline is Kate's clip line"
+ },
+ "_how": "Recipe for podcast.episode. Guest episode, Kate Carney, PE, of Church Onsite Wastewater Consultants (cowastewater.com, Golden, Colorado; incoming vice president of NOWRA), recorded on Zoom 2026-11-20 (meeting 6620561605, one part, 160319, 1280x720 at 25 fps; no AI upscale at 720p). Booking email domain is cowc.info; Kate said the website is cowastewater.com and that page names the company 'Church Onsite Wastewater Consultants, LLC' (it does not name Kate). One continuous keep from Ashley's retake ('Hey everyone, welcome', word 54) to the last word; the false start (words 0 to 53) is the only cut. Lip sync measured 2026-11-20: Ashley 27 ms early, Kate 11 ms late, nothing to fix. Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB, 60 ms onset, RT60 0.5 s), Kate's track untouched. Kate's dog break (words 4030 to 4056, about 24:40 to 25:11 on the file) is left in, flagged for Ashley."
+}
