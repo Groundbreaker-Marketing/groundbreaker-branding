@@ -1,0 +1,138 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:45.19,Title,,0,0,0,,{\an5\pos(540,250)}Reach the septic filter without\Nlying on your {\c&H0060ECCD}belly{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.30,0:00:00.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} have always
+Dialogue: 1,0:00:00.56,0:00:00.74,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&} always
+Dialogue: 1,0:00:00.74,0:00:01.04,Cap,,0,0,0,,{\pos(540,1400)}we have {\c&H0060ECCD}always{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.04,0:00:01.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}extended{\c&H00FFFFFF&} all
+Dialogue: 1,0:00:01.56,0:00:02.02,Cap,,0,0,0,,{\pos(540,1400)}extended {\c&H0060ECCD}all{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.02,0:00:02.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}handles{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.86,0:00:03.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}effluent{\c&H00FFFFFF&} filters
+Dialogue: 1,0:00:03.16,0:00:04.36,Cap,,0,0,0,,{\pos(540,1400)}effluent {\c&H0060ECCD}filters{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.36,0:00:05.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}float{\c&H00FFFFFF&} tree
+Dialogue: 1,0:00:05.16,0:00:05.54,Cap,,0,0,0,,{\pos(540,1400)}float {\c&H0060ECCD}tree{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.54,0:00:06.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}handles{\c&H00FFFFFF&} up within
+Dialogue: 1,0:00:06.06,0:00:06.62,Cap,,0,0,0,,{\pos(540,1400)}handles {\c&H0060ECCD}up{\c&H00FFFFFF&} within
+Dialogue: 1,0:00:06.62,0:00:07.52,Cap,,0,0,0,,{\pos(540,1400)}handles up {\c&H0060ECCD}within{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.52,0:00:07.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}six{\c&H00FFFFFF&} inches of the
+Dialogue: 1,0:00:07.86,0:00:08.20,Cap,,0,0,0,,{\pos(540,1400)}six {\c&H0060ECCD}inches{\c&H00FFFFFF&} of the
+Dialogue: 1,0:00:08.20,0:00:08.64,Cap,,0,0,0,,{\pos(540,1400)}six inches {\c&H0060ECCD}of{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:08.64,0:00:08.80,Cap,,0,0,0,,{\pos(540,1400)}six inches of {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.80,0:00:08.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lid{\c&H00FFFFFF&} of the riser
+Dialogue: 1,0:00:08.96,0:00:09.06,Cap,,0,0,0,,{\pos(540,1400)}lid {\c&H0060ECCD}of{\c&H00FFFFFF&} the riser
+Dialogue: 1,0:00:09.06,0:00:09.16,Cap,,0,0,0,,{\pos(540,1400)}lid of {\c&H0060ECCD}the{\c&H00FFFFFF&} riser
+Dialogue: 1,0:00:09.16,0:00:09.60,Cap,,0,0,0,,{\pos(540,1400)}lid of the {\c&H0060ECCD}riser{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.60,0:00:09.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} that you can
+Dialogue: 1,0:00:09.82,0:00:09.96,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}that{\c&H00FFFFFF&} you can
+Dialogue: 1,0:00:09.96,0:00:10.10,Cap,,0,0,0,,{\pos(540,1400)}so that {\c&H0060ECCD}you{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:10.10,0:00:10.36,Cap,,0,0,0,,{\pos(540,1400)}so that you {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.36,0:00:10.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reach{\c&H00FFFFFF&} your hand
+Dialogue: 1,0:00:10.72,0:00:10.86,Cap,,0,0,0,,{\pos(540,1400)}reach {\c&H0060ECCD}your{\c&H00FFFFFF&} hand
+Dialogue: 1,0:00:10.86,0:00:11.08,Cap,,0,0,0,,{\pos(540,1400)}reach your {\c&H0060ECCD}hand{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.08,0:00:11.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} there without
+Dialogue: 1,0:00:11.20,0:00:11.36,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}there{\c&H00FFFFFF&} without
+Dialogue: 1,0:00:11.36,0:00:11.66,Cap,,0,0,0,,{\pos(540,1400)}in there {\c&H0060ECCD}without{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.66,0:00:12.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}having{\c&H00FFFFFF&} to you
+Dialogue: 1,0:00:12.48,0:00:12.78,Cap,,0,0,0,,{\pos(540,1400)}having {\c&H0060ECCD}to{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:12.78,0:00:13.08,Cap,,0,0,0,,{\pos(540,1400)}having to {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.08,0:00:13.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} lay on your
+Dialogue: 1,0:00:13.16,0:00:13.40,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}lay{\c&H00FFFFFF&} on your
+Dialogue: 1,0:00:13.40,0:00:13.58,Cap,,0,0,0,,{\pos(540,1400)}know lay {\c&H0060ECCD}on{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:13.58,0:00:13.70,Cap,,0,0,0,,{\pos(540,1400)}know lay on {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.70,0:00:14.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}belly{\c&H00FFFFFF&} to reach
+Dialogue: 1,0:00:14.00,0:00:14.30,Cap,,0,0,0,,{\pos(540,1400)}belly {\c&H0060ECCD}to{\c&H00FFFFFF&} reach
+Dialogue: 1,0:00:14.30,0:00:14.90,Cap,,0,0,0,,{\pos(540,1400)}belly to {\c&H0060ECCD}reach{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.90,0:00:15.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}down{\c&H00FFFFFF&} and grab
+Dialogue: 1,0:00:15.16,0:00:15.30,Cap,,0,0,0,,{\pos(540,1400)}down {\c&H0060ECCD}and{\c&H00FFFFFF&} grab
+Dialogue: 1,0:00:15.30,0:00:15.52,Cap,,0,0,0,,{\pos(540,1400)}down and {\c&H0060ECCD}grab{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.52,0:00:15.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}something{\c&H00FFFFFF&} out of
+Dialogue: 1,0:00:15.86,0:00:16.06,Cap,,0,0,0,,{\pos(540,1400)}something {\c&H0060ECCD}out{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:16.06,0:00:16.14,Cap,,0,0,0,,{\pos(540,1400)}something out {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.14,0:00:16.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} tank doing
+Dialogue: 1,0:00:16.24,0:00:16.69,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}tank{\c&H00FFFFFF&} doing
+Dialogue: 1,0:00:16.69,0:00:18.17,Cap,,0,0,0,,{\pos(540,1400)}the tank {\c&H0060ECCD}doing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.69,0:00:19.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know looking
+Dialogue: 1,0:00:19.37,0:00:19.49,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} looking
+Dialogue: 1,0:00:19.49,0:00:19.79,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}looking{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.79,0:00:20.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}at{\c&H00FFFFFF&} the cords
+Dialogue: 1,0:00:20.03,0:00:20.15,Cap,,0,0,0,,{\pos(540,1400)}at {\c&H0060ECCD}the{\c&H00FFFFFF&} cords
+Dialogue: 1,0:00:20.15,0:00:20.69,Cap,,0,0,0,,{\pos(540,1400)}at the {\c&H0060ECCD}cords{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.69,0:00:21.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}having{\c&H00FFFFFF&} the cords
+Dialogue: 1,0:00:21.51,0:00:21.69,Cap,,0,0,0,,{\pos(540,1400)}having {\c&H0060ECCD}the{\c&H00FFFFFF&} cords
+Dialogue: 1,0:00:21.69,0:00:21.99,Cap,,0,0,0,,{\pos(540,1400)}having the {\c&H0060ECCD}cords{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.99,0:00:22.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}neatly{\c&H00FFFFFF&} wrapped in
+Dialogue: 1,0:00:22.35,0:00:22.87,Cap,,0,0,0,,{\pos(540,1400)}neatly {\c&H0060ECCD}wrapped{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:22.87,0:00:23.23,Cap,,0,0,0,,{\pos(540,1400)}neatly wrapped {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.23,0:00:23.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} pump riser
+Dialogue: 1,0:00:23.47,0:00:23.77,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}pump{\c&H00FFFFFF&} riser
+Dialogue: 1,0:00:23.77,0:00:24.35,Cap,,0,0,0,,{\pos(540,1400)}that pump {\c&H0060ECCD}riser{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.35,0:00:24.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} attached to
+Dialogue: 1,0:00:24.79,0:00:25.29,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}attached{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:25.29,0:00:25.49,Cap,,0,0,0,,{\pos(540,1400)}and attached {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.49,0:00:25.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} side those
+Dialogue: 1,0:00:25.67,0:00:26.81,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}side{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:26.81,0:00:28.01,Cap,,0,0,0,,{\pos(540,1400)}the side {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.01,0:00:28.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}float{\c&H00FFFFFF&} trees are
+Dialogue: 1,0:00:28.51,0:00:28.89,Cap,,0,0,0,,{\pos(540,1400)}float {\c&H0060ECCD}trees{\c&H00FFFFFF&} are
+Dialogue: 1,0:00:28.89,0:00:29.11,Cap,,0,0,0,,{\pos(540,1400)}float trees {\c&H0060ECCD}are{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.11,0:00:29.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}another{\c&H00FFFFFF&} thing you
+Dialogue: 1,0:00:29.35,0:00:29.62,Cap,,0,0,0,,{\pos(540,1400)}another {\c&H0060ECCD}thing{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:29.62,0:00:29.79,Cap,,0,0,0,,{\pos(540,1400)}another thing {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.79,0:00:29.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} it used to
+Dialogue: 1,0:00:29.87,0:00:30.05,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}it{\c&H00FFFFFF&} used to
+Dialogue: 1,0:00:30.05,0:00:30.43,Cap,,0,0,0,,{\pos(540,1400)}know it {\c&H0060ECCD}used{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:30.43,0:00:30.59,Cap,,0,0,0,,{\pos(540,1400)}know it used {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.59,0:00:30.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} people would
+Dialogue: 1,0:00:30.79,0:00:31.15,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}people{\c&H00FFFFFF&} would
+Dialogue: 1,0:00:31.15,0:00:31.37,Cap,,0,0,0,,{\pos(540,1400)}be people {\c&H0060ECCD}would{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.37,0:00:31.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}just{\c&H00FFFFFF&} kind of
+Dialogue: 1,0:00:31.67,0:00:31.91,Cap,,0,0,0,,{\pos(540,1400)}just {\c&H0060ECCD}kind{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:31.91,0:00:32.11,Cap,,0,0,0,,{\pos(540,1400)}just kind {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.11,0:00:32.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}attach{\c&H00FFFFFF&} floats to
+Dialogue: 1,0:00:32.81,0:00:33.77,Cap,,0,0,0,,{\pos(540,1400)}attach {\c&H0060ECCD}floats{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:33.77,0:00:34.15,Cap,,0,0,0,,{\pos(540,1400)}attach floats {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.15,0:00:34.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} discharge
+Dialogue: 1,0:00:34.29,0:00:34.83,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}discharge{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.83,0:00:35.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pipe{\c&H00FFFFFF&} that comes
+Dialogue: 1,0:00:35.31,0:00:35.85,Cap,,0,0,0,,{\pos(540,1400)}pipe {\c&H0060ECCD}that{\c&H00FFFFFF&} comes
+Dialogue: 1,0:00:35.85,0:00:36.15,Cap,,0,0,0,,{\pos(540,1400)}pipe that {\c&H0060ECCD}comes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.15,0:00:36.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} the pump
+Dialogue: 1,0:00:36.35,0:00:36.51,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}the{\c&H00FFFFFF&} pump
+Dialogue: 1,0:00:36.51,0:00:36.95,Cap,,0,0,0,,{\pos(540,1400)}from the {\c&H0060ECCD}pump{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.07,0:00:37.21,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}if{\c&H00FFFFFF&} you have
+Dialogue: 1,0:00:37.21,0:00:37.31,Cap,,0,0,0,,{\pos(540,1400)}And if {\c&H0060ECCD}you{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:37.31,0:00:37.43,Cap,,0,0,0,,{\pos(540,1400)}And if you {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.43,0:00:37.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} separate float
+Dialogue: 1,0:00:37.57,0:00:37.91,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}separate{\c&H00FFFFFF&} float
+Dialogue: 1,0:00:37.91,0:00:38.23,Cap,,0,0,0,,{\pos(540,1400)}a separate {\c&H0060ECCD}float{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.23,0:00:38.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tree{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.62,0:00:38.79,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}can{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:38.79,0:00:39.05,Cap,,0,0,0,,{\pos(540,1400)}you can {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.05,0:00:39.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pull{\c&H00FFFFFF&} that out and
+Dialogue: 1,0:00:39.37,0:00:39.61,Cap,,0,0,0,,{\pos(540,1400)}pull {\c&H0060ECCD}that{\c&H00FFFFFF&} out and
+Dialogue: 1,0:00:39.61,0:00:39.81,Cap,,0,0,0,,{\pos(540,1400)}pull that {\c&H0060ECCD}out{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:39.81,0:00:39.97,Cap,,0,0,0,,{\pos(540,1400)}pull that out {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.97,0:00:40.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}test{\c&H00FFFFFF&} things
+Dialogue: 1,0:00:40.33,0:00:40.79,Cap,,0,0,0,,{\pos(540,1400)}test {\c&H0060ECCD}things{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.79,0:00:41.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}without{\c&H00FFFFFF&} having to
+Dialogue: 1,0:00:41.67,0:00:42.23,Cap,,0,0,0,,{\pos(540,1400)}without {\c&H0060ECCD}having{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:42.23,0:00:42.67,Cap,,0,0,0,,{\pos(540,1400)}without having {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.67,0:00:43.71,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reach{\c&H00FFFFFF&} way down
+Dialogue: 1,0:00:43.71,0:00:43.90,Cap,,0,0,0,,{\pos(540,1400)}reach {\c&H0060ECCD}way{\c&H00FFFFFF&} down
+Dialogue: 1,0:00:43.90,0:00:44.14,Cap,,0,0,0,,{\pos(540,1400)}reach way {\c&H0060ECCD}down{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.14,0:00:44.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}into{\c&H00FFFFFF&} a tank
+Dialogue: 1,0:00:44.40,0:00:44.59,Cap,,0,0,0,,{\pos(540,1400)}into {\c&H0060ECCD}a{\c&H00FFFFFF&} tank
+Dialogue: 1,0:00:44.59,0:00:45.15,Cap,,0,0,0,,{\pos(540,1400)}into a {\c&H0060ECCD}tank{\c&H00FFFFFF&}

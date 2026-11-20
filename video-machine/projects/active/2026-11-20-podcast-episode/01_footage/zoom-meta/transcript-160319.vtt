@@ -1,0 +1,898 @@
+WEBVTT
+
+1
+00:00:02.540 --> 00:00:12.429
+Ashley Christian: Hey everyone, and welcome to the number 2 septic Podcast. Today, we have Kate Carney on, and she is a professional engineer… wait, did I say that right?
+
+2
+00:00:12.640 --> 00:00:15.730
+Ashley Christian: Professional engineer, okay, I'm gonna just restart, sorry.
+
+3
+00:00:16.440 --> 00:00:22.760
+Ashley Christian: Professional engineer, that's how… that's your title, right? Yep. Okay. I'm just gonna restart.
+
+4
+00:00:23.860 --> 00:00:39.550
+Ashley Christian: Hey everyone, welcome to the Number 2 Septic Podcast. Today, I have Kate Carney, and she is a professional engineer, which is the first time we've ever had an on-site engineer on the podcast, so I'm really excited to have her on and talk about things from a different perspective. So, Kate, welcome to the podcast.
+
+5
+00:00:39.930 --> 00:00:40.810
+Kate: Thank you.
+
+6
+00:00:41.570 --> 00:00:56.030
+Ashley Christian: So, Kate and I met recently, and she is the incoming vice president of NOWERA, and, she has a lot of experience in designing systems, both commercial and residential,
+
+7
+00:00:56.030 --> 00:00:59.539
+Ashley Christian: So that's kind of her credentials, but Kate, why don't you tell us a little bit about
+
+8
+00:00:59.540 --> 00:01:17.599
+Ashley Christian: how you got started, I know you got your degree, in biological sciences and, environmental sciences and engineering. When you got your degree, were you thinking, I want to go into the on-site wastewater industry, or how did that whole thing kind of play out for you?
+
+9
+00:01:18.090 --> 00:01:28.849
+Kate: So, when I got my degree, my master's thesis was on, the effects of binary metal mixtures on cereodaphnia dubia, which are water fleas.
+
+10
+00:01:28.850 --> 00:01:40.959
+Kate: So, kind of aquatic toxicology-type work. My first job out of grad school, I worked as an aquatic biologist, sampling streams and doing ecological assessments.
+
+11
+00:01:40.960 --> 00:01:42.419
+Kate: And I…
+
+12
+00:01:42.590 --> 00:01:54.789
+Kate: was not necessarily very happy at my firm, and I loved the fieldwork, but then when winter hit, you just had to analyze spreadsheets and write reports, and…
+
+13
+00:01:54.790 --> 00:01:55.400
+Ashley Christian: Yeah.
+
+14
+00:01:55.660 --> 00:02:08.350
+Kate: I had a friend who said, hey, I talked to this guy, I'm getting a job, with this guy who is, has been designing on-site wastewater systems for a long time, and he's looking to sell his business.
+
+15
+00:02:09.270 --> 00:02:23.690
+Kate: And so I interviewed, I got the job, my friend actually was like, oh, hey, I actually decided to go this other direction and take a job elsewhere. But it was this opportunity to do engineering, and…
+
+16
+00:02:24.060 --> 00:02:40.869
+Kate: in the ecology space, I felt like we wrote a lot of reports, and I never saw anything happen. And so it was really cool for me to go out to a project, go out to the field, see a problem, create a solution, and then see it implemented.
+
+17
+00:02:40.870 --> 00:02:53.999
+Kate: And I just really enjoyed that. And I, you know, I'm out in the field all year long, and I feel like I'm preventing the environmental problems rather than just assessing them once they have happened.
+
+18
+00:02:54.260 --> 00:03:00.910
+Ashley Christian: Yeah, I could see how that would bring a ton of fulfillment, to be able to see the whole process from beginning to end on that.
+
+19
+00:03:01.310 --> 00:03:20.190
+Kate: Yeah, yeah, so it's been a really… it's not something that I had thought was gonna be my path. I actually, in undergrad, I worked at a water lab for a while in Missouri, then I sampled lagoons in rural Missouri and analyzed those samples in a water lab, and that was the first time I actually realized
+
+20
+00:03:20.190 --> 00:03:23.670
+Kate: Or thought about where our wastewater went.
+
+21
+00:03:23.670 --> 00:03:28.769
+Kate: And so I did have a little bit of background with being familiar with on-site wastewater.
+
+22
+00:03:28.770 --> 00:03:35.870
+Ashley Christian: Yeah, that's really interesting. So, what does a normal week for you look like now, in your career?
+
+23
+00:03:36.200 --> 00:03:50.669
+Kate: Sure, so, I have, another designer that works with me, and so we work together, splitting up the work, but we will get calls, we'll talk to clients, talk about their situation, provide proposals.
+
+24
+00:03:50.670 --> 00:04:06.979
+Kate: And then schedule site visits. So we'll go out, meet with an excavator, we'll do a site assessment, dig soil test holes, take elevations, map out where repairs or, you know, on a new build where components will go.
+
+25
+00:04:06.980 --> 00:04:28.780
+Kate: Come back to the office, complete the design, and then send that out for the client to submit for permitting and to installers that we work with to get bids. We also make site visits during installation to inspect the installation of the system, so we can write a final letter and provide record drawings to the county.
+
+26
+00:04:29.900 --> 00:04:36.530
+Ashley Christian: And are you working more with the excavator and installers, or more with the homeowners?
+
+27
+00:04:36.950 --> 00:04:49.210
+Kate: We like the homeowner to be our client, because it's their property, and it's their product. We do work very closely with excavators, and a lot of times, that's who gets called first.
+
+28
+00:04:49.210 --> 00:05:07.180
+Kate: So, they'll refer us to those clients, and we'll work closely with them. We like to meet them out on site so we can see those test pits excavated. That way, if we see something that's, you know, suboptimal, we could move to a different place on the site, or,
+
+29
+00:05:07.180 --> 00:05:25.439
+Kate: In Colorado, we recently, in our new reg change, we worked really hard, Colorado professionals and on-site wastewater, to try to close the gap, because a lot of counties were requiring us to dig these 8-foot-deep holes and leave them open for the county to be able to look at at the later time.
+
+30
+00:05:25.540 --> 00:05:31.709
+Kate: And it could be a month between when I get out on site and the county actually gets on site.
+
+31
+00:05:32.210 --> 00:05:46.109
+Kate: It could be longer. Some of the counties take up to 8 weeks to permit a design, and so leaving these test holes open seemed like a really huge hazard and a liability for myself, for the excavator, for the homeowner, for the public. So…
+
+32
+00:05:46.110 --> 00:05:53.399
+Kate: It's nice to be out there, they can dig the hole, and they can backfill it, and that way we're not leaving these holes open as a hazard.
+
+33
+00:05:53.910 --> 00:06:01.709
+Ashley Christian: How do you decide between what type of system that you're gonna use? What are some of the major deciding factors you use?
+
+34
+00:06:02.320 --> 00:06:06.280
+Kate: So we like to go to simplest to more complicated, so…
+
+35
+00:06:06.340 --> 00:06:13.250
+Kate: If we have the space, if we have good soil, we will do a very simple gravity flow
+
+36
+00:06:13.300 --> 00:06:23.480
+Kate: type system. Unfortunately, we… we have density, you know, growing here in Colorado, and so a lot of times.
+
+37
+00:06:23.480 --> 00:06:39.370
+Kate: We'll have either really poor clay soils, small lots in the mountains, we'll have rock soil. So we'll have these soil conditions that make us go to either a sand filter or sometimes higher level treatment.
+
+38
+00:06:39.450 --> 00:06:43.530
+Kate: So it's really site-specific, and soil-specific.
+
+39
+00:06:44.170 --> 00:06:50.549
+Ashley Christian: Yeah. And then you also do commercial systems, the design for that as well, which I know is…
+
+40
+00:06:50.740 --> 00:07:03.869
+Ashley Christian: a whole different situation than your residential. And then also sometimes you have to look at, is it a short-term rental, where there's just a lot of people in and out? Is it a daycare? Is there things where it's just high use?
+
+41
+00:07:03.870 --> 00:07:10.970
+Ashley Christian: So explain to us the… some of the big, major differences in designing a system between commercial and residential.
+
+42
+00:07:11.490 --> 00:07:20.940
+Kate: Sure, so I would say we're actually fortunate that our code addresses the strength of the wastewater. So, for a very long time, everything was just based on flows.
+
+43
+00:07:21.330 --> 00:07:34.789
+Kate: And so now our code says you cannot apply high-strength wastewater to the soil without pre-treatment, which is great, because if you put high-strength wastewater out to soil, it's not going to last very long.
+
+44
+00:07:34.790 --> 00:07:59.749
+Kate: So we need to look at the use, and so it's really difficult. If we've got an existing facility, we can do wastewater sampling and get a good idea of the strength. Otherwise, we're looking at regulatory tables that aren't as accurate. But the most important thing is convincing that owner that being honest with you is to their benefit. So, sometimes people may think that if they tell us
+
+45
+00:07:59.750 --> 00:08:03.060
+Kate: what they're actually doing, they're gonna get a more expensive system.
+
+46
+00:08:03.900 --> 00:08:17.039
+Kate: And so, we get sometimes where they're not being honest about their use, and that's not going to benefit them, because maybe their system will be less expensive up front, but it's not going to work for the long run. Yeah.
+
+47
+00:08:17.040 --> 00:08:30.610
+Kate: So, that's one of our challenges. We recently had a residential home that we designed as a residential home, and right after the system was installed, the owner went in for a short-term rental permit.
+
+48
+00:08:30.610 --> 00:08:46.080
+Kate: And in Colorado, after 3 bedrooms, you only have to design for one person per bedroom. And this person wanted the short-term rental for more people, and then he was very upset, but he never disclosed to us that he was going to use it as a short-term rental.
+
+49
+00:08:46.450 --> 00:08:49.639
+Kate: Because he wanted it designed as a residential system.
+
+50
+00:08:49.640 --> 00:08:51.630
+Ashley Christian: Okay, to save money, so did.
+
+51
+00:08:51.630 --> 00:08:51.990
+Kate: Yeah.
+
+52
+00:08:51.990 --> 00:08:57.249
+Ashley Christian: Not get his short-term rental approved because his system couldn't handle it.
+
+53
+00:08:57.250 --> 00:09:01.740
+Kate: Yep, and now he's looking at adding on to a brand new system.
+
+54
+00:09:02.440 --> 00:09:04.599
+Kate: It just got put in the ground. Yeah.
+
+55
+00:09:04.740 --> 00:09:14.550
+Kate: So, trying… trying to educate people up front, a lot of times, owners will want to tell you that they're not using any water, and they're not putting any
+
+56
+00:09:16.710 --> 00:09:18.510
+Kate: And, you know.
+
+57
+00:09:18.630 --> 00:09:30.219
+Kate: I think having a survey for them that they sign, is really helpful, because, and educating them, that it's really important that we know
+
+58
+00:09:30.220 --> 00:09:41.519
+Kate: You know, this isn't just an office building, it's going to be a restaurant. That's a very different use, very different flows and strengths, and we have to be able to know what we're treating in order to provide a solution.
+
+59
+00:09:41.520 --> 00:09:42.290
+Ashley Christian: Yeah.
+
+60
+00:09:42.530 --> 00:09:48.479
+Ashley Christian: That makes a lot of sense. What is the most complex system you've designed?
+
+61
+00:09:50.020 --> 00:09:53.600
+Kate: I would say probably…
+
+62
+00:09:54.610 --> 00:10:06.470
+Kate: There's a couple of them, and I would say probably there was one up in Boulder County for a, residential treatment facility, so kind of a…
+
+63
+00:10:07.300 --> 00:10:11.350
+Kate: I don't know the right word, but inpatient-type facility.
+
+64
+00:10:11.350 --> 00:10:12.090
+Ashley Christian: Okay.
+
+65
+00:10:12.230 --> 00:10:16.950
+Kate: And it had been an old hotel, and…
+
+66
+00:10:17.120 --> 00:10:27.710
+Kate: There is a… a road that goes… winds through the mountain, and there's a river on one side, and then this site is up on the hill, and then the mountain just goes straight up.
+
+67
+00:10:27.920 --> 00:10:41.050
+Kate: And the existing system was just some tanks with a soil treatment area that was installed in the right-of-way, and then CDOT put a bike path over it.
+
+68
+00:10:41.200 --> 00:10:42.170
+Ashley Christian: Okay.
+
+69
+00:10:42.560 --> 00:10:59.909
+Kate: And so they needed a new system, and so not only did we need to be able to get components in, but we couldn't work in that right-of-way, where all the access was and where existing things were. And so, we ended up putting in septic tanks.
+
+70
+00:10:59.910 --> 00:11:15.489
+Kate: right outside of the right-of-way, we could still gravity flow. They had an old grease trap that was like a… looked like a shoebox underneath the porch, so we had to eliminate that, put in a new grease interceptor tank, new tanks.
+
+71
+00:11:15.510 --> 00:11:17.500
+Kate: treatment,
+
+72
+00:11:17.790 --> 00:11:31.659
+Kate: And then we pumped up and ended up putting the drain field or soil treatment area under the parking area up above. It had to be traffic graded for fire truck access.
+
+73
+00:11:31.660 --> 00:11:32.320
+Ashley Christian: Ow.
+
+74
+00:11:32.320 --> 00:11:42.010
+Kate: And then, because of the space, they actually had to chisel away part of the mountain to extend that area to get enough space up there.
+
+75
+00:11:42.010 --> 00:11:53.100
+Kate: So it was pretty costly, but the other option was to build a road up the mountain and try to pump it up farther up the mountain, because all their land was…
+
+76
+00:11:53.220 --> 00:11:55.400
+Kate: Was way on the top of the mountain.
+
+77
+00:11:55.400 --> 00:11:57.309
+Ashley Christian: Wow, that does sound expensive.
+
+78
+00:11:57.310 --> 00:11:57.920
+Kate: It was…
+
+79
+00:11:57.920 --> 00:12:21.569
+Kate: It was very expensive. We were very lucky we had great excavators that we have a great working relationship with. Even getting sand, because when they excavate out that rock, they have to bring in treatment sand. The access in and out of there, on the curve, with the bike path, and getting sand trucks in and out of there, every part of it. And because they couldn't set those concrete tanks.
+
+80
+00:12:21.870 --> 00:12:39.599
+Kate: We couldn't get the tankage required in plastic tanks. They couldn't sit on the road to set those tanks without blocking a road of that highway, which is very busy, so they ended up craning the tanks over the building to set those tanks. Wow.
+
+81
+00:12:39.660 --> 00:13:01.500
+Kate: So it was incredible, and really, we were fortunate to be working with such great contractors, because not everyone could have done that job. And, you know, I understand that engineers can make things happen on paper that can't happen in real life, and so we were fortunate to have some really great excavators here in Colorado that can implement those solutions.
+
+82
+00:13:01.500 --> 00:13:02.110
+Ashley Christian: Yeah.
+
+83
+00:13:02.730 --> 00:13:06.860
+Ashley Christian: When you talked about having a great relationship with the excavators.
+
+84
+00:13:06.950 --> 00:13:25.980
+Ashley Christian: Can you explain more what kind of things make… what qualities make a great relationship with an excavator? Because we have a lot of excavators, installers who listen, and so what kind of things really help the relationship work out really well? What kind of things are a deterrent to working well together?
+
+85
+00:13:27.070 --> 00:13:30.179
+Kate: But I always say, I'd much rather you…
+
+86
+00:13:30.540 --> 00:13:48.419
+Kate: call me ahead of time with any question you have. I would much rather field those calls, have those conversations, than to get out on site and someone's just done whatever they wanted, or what they may have thought. We try to provide very clear, detailed plans with elevations.
+
+87
+00:13:48.500 --> 00:13:51.059
+Kate: But also, you know, you…
+
+88
+00:13:51.060 --> 00:14:14.070
+Kate: especially with repairs, you encounter things in the field that just weren't anticipated during design, so having that communication is crucial. We are also always trying to be as responsive as possible. So I understand if you call for an inspection, and I can't get out there for a couple days, you have machinery sitting on site that's costing you money.
+
+89
+00:14:14.070 --> 00:14:18.630
+Kate: So that respect for each other's time and,
+
+90
+00:14:18.980 --> 00:14:22.910
+Kate: Yeah, ask… I say asking for permission rather than forgiveness.
+
+91
+00:14:22.910 --> 00:14:23.580
+Ashley Christian: Right?
+
+92
+00:14:23.580 --> 00:14:30.519
+Kate: Because there's nothing worse than showing up on site, and everything's just different than what you designed, and you're confused.
+
+93
+00:14:30.520 --> 00:14:43.889
+Ashley Christian: Yeah, that's great. So, lots of good communication, and I love that just respecting each other's, you know, profession and how you work together goes a really long way, that respect, I'm sure.
+
+94
+00:14:44.110 --> 00:14:54.400
+Kate: Yeah, and I have learned so much from installers, because I'm not the one physically making this happen, so if an installer says, hey, Kate, when you do it this way, it's really difficult for us.
+
+95
+00:14:54.400 --> 00:15:07.950
+Kate: If you do it this way, this is a lot easier for us to implement. You know, also, operation and maintenance folks, you know, they'll say, hey, when you configure your effluent filter this way, it's really hard for us to pull it.
+
+96
+00:15:07.950 --> 00:15:17.749
+Kate: If you, you know, those sorts of things, because if you make things difficult to maintain, it just won't get done. Yeah. So, listening to the people that are actually doing those jobs, and
+
+97
+00:15:17.760 --> 00:15:25.470
+Kate: And respecting that, and trying to incorporate it so that it happens up front, and they don't have to retrofit or fix things at the tail end.
+
+98
+00:15:25.970 --> 00:15:40.409
+Ashley Christian: What are some of the, like, please get a little technical here. What are some of the things that you've changed in the way that you design systems so that it's more doable for the, the maintenance providers and for the installers?
+
+99
+00:15:41.180 --> 00:16:00.790
+Kate: Yeah, and I think, some of these things we've… we implemented, and we actually, worked really closely with the state when they were doing their regulation change to try to get these things incorporated in regulation as well. That's great. So things like risers to grade are now required in our regulation, which is great.
+
+100
+00:16:00.790 --> 00:16:13.150
+Kate: We have external splice boxes now in our risers. There's no longer any splice boxes allowed inside the tank risers. They have to be on the outside, so that makes it, you know.
+
+101
+00:16:13.220 --> 00:16:31.429
+Kate: a lot easier to work in that riser with other things. It also is less corrosive environment. We have always extended all handles, effluent filters, float tree handles up within 6 inches of the lid of the riser, so that you can reach your hand in there without
+
+102
+00:16:31.430 --> 00:16:36.289
+Kate: Having to, you know, lay on your belly to reach down and grab something out of the tank.
+
+103
+00:16:38.670 --> 00:16:53.640
+Kate: doing, you know, looking at the cords, having the cords neatly wrapped in that pump riser and attached to the side. Those, float trees are another thing. You know, it used to be people would just kind of attach
+
+104
+00:16:53.700 --> 00:17:06.840
+Kate: floats to the discharge pipe that comes from the pump, and if you have a separate float tree, you can actually pull that out and test things without having to reach way down into a tank.
+
+105
+00:17:07.230 --> 00:17:26.709
+Kate: We like to keep everything really shallow for access, so, that was another thing that was implemented into our reg, is that top of new tanks can't be deeper than 4 feet to the top of tank. On repairs, we struggle with that because people did some really strange things back in the day, made things really deep.
+
+106
+00:17:26.869 --> 00:17:37.649
+Kate: But then coordinating with a builder. If you're working with a builder, emphasizing that the stub out from the house needs to be shallow so we can keep our tank shallow.
+
+107
+00:17:37.690 --> 00:17:47.260
+Kate: on a flat site. Locating tanks in our designs within a range of a parking area so that pumpers can actually pump those tanks.
+
+108
+00:17:47.260 --> 00:17:48.250
+Ashley Christian: That's smart.
+
+109
+00:17:48.250 --> 00:18:02.360
+Kate: So we like to say 100 feet horizontally, 10 feet vertically is what we're aiming for as our max for those tanks. And some of our mountain sites, we can't achieve that, but keeping that in mind, the maintenance in mind, so that
+
+110
+00:18:02.590 --> 00:18:09.030
+Kate: You know, in the future, someone's not having to haul 200 feet of pipe out there to pump that tank.
+
+111
+00:18:09.320 --> 00:18:23.950
+Kate: Also in our soil treatment areas, we have observation pipes that are present so that you can actually look at the condition of those soil treatment areas. We have, flushing valves required on all our pressure laterals.
+
+112
+00:18:23.950 --> 00:18:30.129
+Kate: So you can actually flush those laterals, and those have access at grade.
+
+113
+00:18:30.420 --> 00:18:38.020
+Kate: Sometimes, depending on the site and the complexity, we'll use tracing wire on underground pipes, so you can locate it in the future.
+
+114
+00:18:38.020 --> 00:18:38.630
+Ashley Christian: Yeah.
+
+115
+00:18:39.160 --> 00:18:57.049
+Kate: So yeah, just a lot of those things to make things accessible, maintainable. Line-of-site control panels from our pump tanks to the control panel, so that you could… one person can easily do maintenance, and then the height of that control panel.
+
+116
+00:18:57.050 --> 00:19:04.879
+Kate: I think our new reg says it has to be at least 30 inches, but we want, you know, probably at least 4 feet to that control panel, because
+
+117
+00:19:05.120 --> 00:19:13.510
+Kate: once again, we're in Colorado, and we don't want that control panel covered in snow, we want to fix the cold, so we can do our maintenance.
+
+118
+00:19:13.730 --> 00:19:20.430
+Ashley Christian: So, have you gotten all of these changes, have all been put into regulations now? Or just most of them?
+
+119
+00:19:20.430 --> 00:19:30.679
+Kate: Most of them, regulation still doesn't call for tracing wire, but all these accessible things that grade and… and that sort of thing,
+
+120
+00:19:31.130 --> 00:19:32.910
+Kate: Are part of regulation now.
+
+121
+00:19:33.160 --> 00:19:49.849
+Ashley Christian: And you were able to help influence that because of your work at the state level, with the state association, and then also with NARA, or how did that work when you were involved in, sort of, you know, helping to bring this about for the betterment of everybody?
+
+122
+00:19:50.110 --> 00:20:13.950
+Kate: Sure, yeah, so with Colorado Professionals and on-state wastewater, we always try to be really involved with any regular revision at the state level. Once the state adopts it, each county gets to adopt their version that's at least as stringent. So we also, try to be involved in those processes when we're able to be. Some of the counties are, ask for more input than others.
+
+123
+00:20:14.140 --> 00:20:28.699
+Kate: And then I think just my relationship working with counties and regulators, I feel as though if you do good work, those regulators use you as a resource. So giving… being able to give them feedback.
+
+124
+00:20:28.910 --> 00:20:33.250
+Kate: And be involved in those processes, I think, is really important.
+
+125
+00:20:33.530 --> 00:20:34.120
+Ashley Christian: Yeah.
+
+126
+00:20:34.210 --> 00:20:49.220
+Ashley Christian: And it… I… I love what I'm hearing, too, is you're saying that you learned these things from the maintenance providers and the excavators, and hearing their feedback, and then you were able to take that also with your relationship with the regulators.
+
+127
+00:20:49.220 --> 00:20:55.519
+Ashley Christian: and create something that's better for everybody. So I love that you've been able to be the bridge between that.
+
+128
+00:20:55.520 --> 00:21:02.079
+Ashley Christian: And I'm sure Colorado is much better for it, although you still do have all the old systems that…
+
+129
+00:21:02.150 --> 00:21:05.639
+Ashley Christian: Folks have to deal with that aren't up to regulation.
+
+130
+00:21:05.780 --> 00:21:13.110
+Kate: Yeah, and so that's another thing that, Colorado was able to do is implement a title transfer inspection program.
+
+131
+00:21:13.110 --> 00:21:13.850
+Ashley Christian: Okay.
+
+132
+00:21:13.850 --> 00:21:24.909
+Kate: Unfortunately, due to our political environment, it's an opt-in, opt-out program. So the counties can choose whether or not they wanted to adopt that portion of the regulation.
+
+133
+00:21:24.910 --> 00:21:25.680
+Ashley Christian: Okay.
+
+134
+00:21:25.680 --> 00:21:47.730
+Kate: So we have a lot of counties who have adopted that, and I think it's been wonderful. We are seeing a lot of systems that are in need of repair, are caught during that process when money is available during the property transfer. And I think that even some counties that don't require it, I think realtors that maybe work in multiple counties and
+
+135
+00:21:47.730 --> 00:21:55.249
+Kate: you know, they may say, hey, in this county, it's required. Even though it's not required in this county, I'm gonna let my client know it should be important.
+
+136
+00:21:55.250 --> 00:21:56.790
+Ashley Christian: Yeah.
+
+137
+00:21:56.920 --> 00:22:02.060
+Ashley Christian: Yeah, it's important to have the… those records where… where everyone can… it follows the…
+
+138
+00:22:02.200 --> 00:22:09.220
+Ashley Christian: follows the property, so that, you know, I have that data and what happened and everything.
+
+139
+00:22:09.590 --> 00:22:15.509
+Kate: Yeah, and it's, you know, if you're buying a brand new house, and you're putting a good chunk of your money towards a down payment.
+
+140
+00:22:15.540 --> 00:22:31.120
+Kate: it's really a bummer if you move in, and a couple days later, there's sewage on the ground, you know? It really is the time to find some of these problems, and the money's there during that transaction to get that situation remedied.
+
+141
+00:22:32.570 --> 00:22:49.380
+Ashley Christian: So, when you… are you getting calls from, providers when a system fails? Even if it's not your system, or do you more get those calls when it's just your system? How does that work? Kind of that feedback loop when things don't go right on the back end of it?
+
+142
+00:22:49.920 --> 00:22:56.829
+Kate: Yeah, so I get a lot of calls. We… a lot of the failures that we see are older systems.
+
+143
+00:22:56.830 --> 00:22:57.160
+Ashley Christian: Yeah.
+
+144
+00:22:57.160 --> 00:23:12.389
+Kate: So, you know, you look at them, you're like, well, this has probably lived its life. Right. There's also pockets in Colorado, where maybe there was terrible clay soil, but a builder came through and somehow had a soil scientist who
+
+145
+00:23:12.390 --> 00:23:29.070
+Kate: said everything percolated really well for… for on-site wastewater. And so, you know, I'm not quite sure how that happened, but we see a lot of that. Sometimes other failures. We've had a couple where something failed very quickly.
+
+146
+00:23:29.070 --> 00:23:29.420
+Ashley Christian: Yeah.
+
+147
+00:23:29.420 --> 00:23:42.139
+Kate: And so they… they called us as a, you know, maybe a second opinion to the design engineer. And we, you know, have had a couple of our systems that… that failed, whether it was due to…
+
+148
+00:23:42.270 --> 00:23:46.950
+Kate: Leaking toilets, or abuse, or that sort of thing.
+
+149
+00:23:47.610 --> 00:23:55.820
+Ashley Christian: Yeah. So it's usually due to abuse or some… a failure, kind of, in the home, is what you're seeing when those things happen.
+
+150
+00:23:56.390 --> 00:24:15.110
+Kate: Yeah, most of the time, I would say age, or… yeah, something… some sort of use issue, or irrigation issue. We see sometimes where people just really aren't used to being on-site wastewater, and they'll just irrigate their… their yard, and…
+
+151
+00:24:15.500 --> 00:24:26.139
+Kate: and not realize that we're already trying to get water to go into the ground. We've seen a few surface drainage issues where there wasn't coordination between
+
+152
+00:24:26.140 --> 00:24:35.920
+Kate: The on-site wastewater designer and the person doing general grading and drainage, so sometimes we get drainage directed towards systems and that sort of thing.
+
+153
+00:24:36.670 --> 00:24:40.420
+Ashley Christian: Yeah, many ways for it to go wrong.
+
+154
+00:24:40.570 --> 00:24:43.040
+Ashley Christian: Probably thousands of ways for it to go wrong.
+
+155
+00:24:43.860 --> 00:24:50.629
+Kate: Can I pause one second while I let my dog out? Go for it. I hear him barking, and I don't know if you can hear it, but…
+
+156
+00:25:11.230 --> 00:25:12.750
+Ashley Christian: Okay, you good?
+
+157
+00:25:12.750 --> 00:25:13.400
+Kate: Yes.
+
+158
+00:25:13.400 --> 00:25:16.410
+Ashley Christian: Awesome.
+
+159
+00:25:16.940 --> 00:25:34.979
+Ashley Christian: So, on your website, it says, we charge more for design, but we deliver more. How do you hold your prices when, you know, there's cheaper designers out there? Kind of talk us through your customer service process and what you offer to that homeowner or the property owner.
+
+160
+00:25:35.810 --> 00:25:51.449
+Kate: Sure, so, you know, we really try to educate homeowners, let them know. Most of the people we work with, especially homeowners, they know nothing about on-site wastewater, they know nothing about the process, and a lot of times they're in a situation that's kind of terrible.
+
+161
+00:25:51.450 --> 00:25:56.979
+Kate: If someone's in a situation where they're having to pump their tank to maintain living there.
+
+162
+00:25:56.980 --> 00:26:14.460
+Kate: We try to expedite those jobs, because we know the cost of that. But educating our clients, being… meeting with them on site, walking them through the process, letting them know what we're doing, providing a detailed design so that,
+
+163
+00:26:14.490 --> 00:26:25.380
+Kate: it actually lays out everything they need. We see some designs where there's a few boxes on a piece of paper, they may have a tank size, or
+
+164
+00:26:26.030 --> 00:26:41.939
+Kate: you know, rough dimensions. You know, I worked with an excavator recently who said, you know, the other engineers I work with, they don't care where I put it as long as it's within 50 feet of the test holes. And I was like, well, that's not really a design.
+
+165
+00:26:42.160 --> 00:26:56.119
+Kate: You know, that's making the installer do the design, and I think that's why we have such a great relationship with installers, is because we provide something, they know exactly what we want, and they're not the ones having to figure it out.
+
+166
+00:26:56.320 --> 00:27:15.489
+Kate: And then when we provide the design, you know, walking them through how to get their permits, whether the installer's going to do that, or they're going to submit, being there to inspect the system once it's installed, and the counties here require that as well, so we provide a
+
+167
+00:27:15.490 --> 00:27:19.320
+Kate: A verification, and the county's come inspected as well, but…
+
+168
+00:27:19.320 --> 00:27:30.829
+Kate: We verify it's installed for the design and provide a record drawing, and so just walking through that whole process with them to make sure that everything's complete and that they have a good product in the end.
+
+169
+00:27:30.830 --> 00:27:38.640
+Ashley Christian: and it sounds like you… will be referred by…
+
+170
+00:27:38.640 --> 00:27:56.799
+Ashley Christian: an installer, or an excavator, to the homeowner. So basically, they'll say, you know, you're gonna need a design, here's the designer we recommend, and they would recommend you. And that probably goes the other way as well, where maybe someone comes directly to you for a design, and then you have certain installers that you recommend.
+
+171
+00:27:56.800 --> 00:28:13.030
+Ashley Christian: So talk a little bit more about that relationship, that professional relationship where you're referring each other, because not everyone who's listening has that kind of relationship with somebody, knows that it's even beneficial, so kind of talk to us about the benefits of that.
+
+172
+00:28:14.220 --> 00:28:24.329
+Kate: Yeah, so I think that it's beneficial for both of us. As I said, you know, we provide a design that's very clear on what we expect to be installed.
+
+173
+00:28:24.330 --> 00:28:34.839
+Kate: And it's very clear to the county, so the… you know, when we go out and look at the systems when they're installed, it's very straightforward. If you've done what's in the design, that's what's been permitted.
+
+174
+00:28:35.050 --> 00:28:51.699
+Kate: you should pass your inspection, no problem. Yeah. And so, it's much better than an installer who might work with someone who's very vague about what they need, and is expecting them to do that legwork, lay things out, and put kind of that liability
+
+175
+00:28:51.710 --> 00:29:00.450
+Kate: back on the installer. And then for us, it's an amazing experience to go out and just have everything done properly.
+
+176
+00:29:00.830 --> 00:29:10.119
+Kate: you know, once in a while, there might be a little something that wasn't quite complete yet, but, we have that relationship. They know what we expect.
+
+177
+00:29:10.150 --> 00:29:22.090
+Kate: We get out there, and it's… it's done with, you know, it's done well, we don't have to worry, where, you know, sometimes we go out and someone's found someone who…
+
+178
+00:29:22.610 --> 00:29:25.050
+Kate: Was $100 cheaper or something.
+
+179
+00:29:25.050 --> 00:29:25.490
+Ashley Christian: Right.
+
+180
+00:29:25.490 --> 00:29:32.289
+Kate: We go out, and we're like, hey, there are several things that need to be corrected. We're gonna have to charge for another inspection.
+
+181
+00:29:32.290 --> 00:29:49.890
+Kate: This is gonna delay your process, maybe you're not gonna be able… you know, some people, they say, oh, we're gonna, you know, move out of our house, which normally isn't necessary, but they may say, we're just going to move out because this is a lot, and then, oh, now it's another week, because now the county has to make another inspection, and…
+
+182
+00:29:49.890 --> 00:29:54.990
+Kate: And so just… it… it's really beneficial to both parties, because
+
+183
+00:29:55.020 --> 00:29:57.669
+Kate: things go way smoother. Jobs go quicker.
+
+184
+00:29:58.190 --> 00:30:10.659
+Kate: Because you know what's expected, you've done it correctly, and it's great for us because I can put, you know, I could put together the best design in the world, and if it's not implemented properly, it's not going to work properly.
+
+185
+00:30:10.660 --> 00:30:11.280
+Ashley Christian: Right.
+
+186
+00:30:11.500 --> 00:30:17.150
+Kate: And with soil, especially, some of that stuff you can't… if you mess it up.
+
+187
+00:30:17.580 --> 00:30:22.570
+Kate: there's… you can't really fix it, right? So if… if you go through and you…
+
+188
+00:30:22.680 --> 00:30:31.160
+Kate: do something with the soil, or compact it, or dig too deep. Then it… then we start saying, man, we gotta… now we gotta bring in sand.
+
+189
+00:30:31.540 --> 00:30:47.080
+Kate: Which is a huge added expense, because you tore up this area without looking at the elevations or doing things properly, and so it just… it's… it's more efficient for everyone to work together, and we're bringing each other work.
+
+190
+00:30:47.080 --> 00:31:02.819
+Kate: Yeah. You know, which is great. You know, I have a great working relationship with them, so they're bringing clients to me, I'm bringing clients to them, and that's actually beneficial, because my job's gonna go smoother, because I know someone who's capable and ethical is gonna complete that.
+
+191
+00:31:02.820 --> 00:31:14.760
+Ashley Christian: That's really good advice. Really good. Tell us about your work with CPAL, and why a small septic company should join its state association. What kind of benefits are there?
+
+192
+00:31:15.440 --> 00:31:33.950
+Kate: Yeah, so CPOW has been so great for me. I love the networking. When I talked about, you know, meeting those excavators in the field and learning things. It's also, you know, we have meetings where people are telling us what their experiences are, things they've run into in the field.
+
+193
+00:31:33.950 --> 00:31:42.610
+Kate: During COVID, you know, people were telling us what their supply issues were. So we were getting that information, and…
+
+194
+00:31:42.710 --> 00:31:59.949
+Kate: because we represent each sector of the industry, you're having those conversations, with everybody who's in the industry, so you're getting different perspectives. For me, you know, the networking, meeting people, and the learning.
+
+195
+00:32:00.030 --> 00:32:06.639
+Kate: So, when I got into the industry, everything was just kind of on-the-job training. My… my schooling and…
+
+196
+00:32:07.110 --> 00:32:32.090
+Kate: in my undergrad and graduate degree, I did not learn about on-site wastewater. Yeah. And now we've been able to develop courses for soils, for design, for inspector. So there's just so much more education out there for folks in our industry. I got to teach an inspector class, and a gentleman had just bought a pump truck, was just getting into the industry, and he was so excited. He was like, I'm taking his
+
+197
+00:32:32.090 --> 00:32:36.300
+Kate: many of these classes as I can. I just want to learn as much about it as possible.
+
+198
+00:32:36.330 --> 00:32:44.910
+Kate: And that's just… I think that's so great, because, like I said, when I got into it, I was just trying to learn from everyone around me, and
+
+199
+00:32:45.150 --> 00:32:51.549
+Kate: So I think the learning opportunities, the networking opportunities, and building those relationships.
+
+200
+00:32:51.650 --> 00:33:07.350
+Kate: So, you know, when you have those relationships with the regulators, they know that you're in the industry, and you are, you know, working on being educated and doing things ethically. You just build relationships with everyone in the industry that really benefits you.
+
+201
+00:33:07.350 --> 00:33:18.310
+Ashley Christian: Yeah, and that's pretty clear, just from the regulatory changes that Colorado's been able to have, is that that was part of that cooperative process, bringing everybody together.
+
+202
+00:33:18.500 --> 00:33:19.460
+Kate: For sure.
+
+203
+00:33:20.150 --> 00:33:29.449
+Ashley Christian: That's great. Well, what's the hardest stretch you've been through as a business owner, and what did that teach you? Maybe it was in the beginning, or at some other point?
+
+204
+00:33:29.770 --> 00:33:33.200
+Kate: Yeah, so we bought our business in 2007.
+
+205
+00:33:33.540 --> 00:33:42.930
+Kate: And, right… right about then, right, as we bought our business, there was a huge decline in the housing market. There was a recession.
+
+206
+00:33:42.930 --> 00:34:01.909
+Kate: That was really difficult, because we did a lot of residential work, and there were, you know, there were times where we weren't getting paychecks, where it was, you know, the work just wasn't there. Builders were going out of business, even larger engineering firms were laying off people.
+
+207
+00:34:01.910 --> 00:34:04.280
+Kate: And so…
+
+208
+00:34:04.280 --> 00:34:20.820
+Kate: it was tough, you know? And I think it taught me to be grateful when we have too much work. Because sometimes you have those times, and you're like, man, this is a lot, but you're like, well, it's much better than the alternative.
+
+209
+00:34:20.820 --> 00:34:21.380
+Ashley Christian: Yeah.
+
+210
+00:34:21.520 --> 00:34:26.459
+Kate: And, like, looking where you're spending your money as a business owner, and… and…
+
+211
+00:34:26.639 --> 00:34:33.319
+Kate: what is an appropriate cost where you can save money, that sort of thing. But I think just being…
+
+212
+00:34:33.550 --> 00:34:42.709
+Kate: Being grateful for the abundance when it's there, and just that, like, knowing that there will be ebbs and flows, and to prepare for that.
+
+213
+00:34:43.300 --> 00:34:59.799
+Ashley Christian: That's good. That's really, really good. Well, as we wrap up, what is one piece of advice you would give to, others in the industry listening that you feel like maybe you could have gone back in time and given yourself advice, or something that would really benefit them?
+
+214
+00:35:00.860 --> 00:35:19.959
+Kate: Yeah, so I would say, one of my mentors in the industry, he is also an engineer, distributor, and he told me once when I was… I was frustrated by being undercut by a competitor, and that sort of thing, and he said, you can never go wrong taking the high road.
+
+215
+00:35:21.800 --> 00:35:38.350
+Kate: And so that, I think, always sticks with me, is if my price is too expensive because I'm providing the actual product that you need, or I'm not, you know, doing unethical things, so be it. And in the end, that'll work out for me.
+
+216
+00:35:38.350 --> 00:35:40.030
+Ashley Christian: Yeah. And it has.
+
+217
+00:35:40.500 --> 00:35:41.840
+Kate: And it has. Yeah. Yeah.
+
+218
+00:35:41.840 --> 00:35:50.899
+Ashley Christian: Yeah, that's good. I got chills when you said that. I love that. Yeah, that's great. So, where can listeners find you and Church Onsite Wastewater Consultants?
+
+219
+00:35:51.670 --> 00:36:05.870
+Kate: So our website is co-wastewater.com. We do have a Facebook page as well, but our website has all our contact information, and…
+
+220
+00:36:06.150 --> 00:36:14.279
+Kate: just, even people who may not be in Colorado, I do teach the… the Colorado and not design classes, so if you have
+
+221
+00:36:14.390 --> 00:36:26.940
+Kate: have questions about, you know, anything about design, or just how to get education in your areas. I know there's still states that may not have good training programs.
+
+222
+00:36:27.170 --> 00:36:30.210
+Kate: Love to share with you how we made that happen here.
+
+223
+00:36:30.370 --> 00:36:32.940
+Ashley Christian: That's great. Thanks for being on, Kate.
+
+224
+00:36:32.940 --> 00:36:34.100
+Kate: Thank you.
+

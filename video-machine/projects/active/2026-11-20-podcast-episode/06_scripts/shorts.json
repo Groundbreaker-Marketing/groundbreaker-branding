@@ -1,0 +1,638 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 13 clips from Kate Carney's (Church Onsite Wastewater Consultants) guest episode, take 160319 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced, in sync). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-16..12-22, every clip to YouTube + TikTok, two a day at noon and 5 PM CT through 12-21, then one at noon 12-22; the five strongest (call-before-you-dig, chisel-a-mountain, short-term-rental, hundred-cheaper, high-road) also to Instagram and Facebook at noon on weekdays. {kate} tags Kate Carney, {cowc} tags Church Onsite Wastewater Consultants (website cowastewater.com; no social handles on its site, and Kate named a Facebook page without its name, so Facebook gets the plain name until Ashley sends the page id), the full episode linked ({episode}) everywhere but Facebook.",
+ "fillers": true,
+ "max_gap": 1.0,
+ "guests": {
+  "kate": {
+   "name": "Kate Carney"
+  },
+  "cowc": {
+   "name": "Church Onsite Wastewater Consultants"
+  }
+ },
+ "cover_with": "with Kate Carney, professional engineer",
+ "title_y": 250,
+ "title_size": 58,
+ "clips": [
+  {
+   "id": "call-before-you-dig",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     2166,
+     2327
+    ]
+   ],
+   "title": "Call the septic engineer\n*before* you dig",
+   "youtube": {
+    "title": "Septic installers: call the engineer before you dig, not after",
+    "description": "{kate} of {cowc} would much rather answer your questions ahead of time than show up to a site where everything is different from the design. Her rule for installers: ask for permission, not forgiveness.\n\nFull episode: {episode}\n\n#septic #septicinstaller #septicdesign"
+   },
+   "captions": {
+    "tiktok": "Insider tip for septic installers: call the engineer before you move dirt. {kate} of {cowc} says she'd much rather field your questions ahead of time than get to a site where someone did whatever they thought was right. Repairs turn up things nobody planned for, so talk first. Her rule is asking for permission rather than forgiveness. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #septicdesign #onsitewastewater",
+    "instagram": "Ask for permission, not forgiveness. {kate} of {cowc} would much rather you call her before the dig than find out on site that everything is different from the design. Repairs turn up things nobody planned for, so she wants the question before the excavator starts. Agree?\n\nFull episode: {episode}\n\n#septic #septicinstaller #septicdesign #onsitewastewater #septicbusiness",
+    "facebook": "Picture an engineer pulling up to a job site where nothing matches the design she drew. {kate} of {cowc} says there's nothing worse, and it's why she tells every installer the same thing: call me ahead of time with any question you have. She would much rather field those calls than find out someone did whatever they thought was right. Repairs turn up things nobody planned for, and if you call for an inspection and she can't get there for a couple of days, she knows the machine sitting on site is costing you money. Her rule is simple: ask for permission, not forgiveness.\n\n#septic #septicinstaller"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.57,
+   "publish_at": "2026-12-16T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 838.8,
+   "fixes": {},
+   "crop_t": [
+    [
+     807.28,
+     0.57
+    ],
+    [
+     813.9,
+     0.487
+    ],
+    [
+     816.3,
+     0.57
+    ],
+    [
+     863.2,
+     0.487
+    ],
+    [
+     865.5,
+     0.57
+    ]
+   ],
+   "end_pad": 0.15,
+   "cover": "07_notes/shorts/covers/call-before-you-dig.jpg"
+  },
+  {
+   "id": "water-fleas",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     207,
+     285
+    ]
+   ],
+   "title": "My master's thesis was on\n*water fleas*",
+   "youtube": {
+    "title": "From water fleas to septic design: how an aquatic biologist became an onsite engineer",
+    "description": "{kate} of {cowc} started out in aquatic toxicology, sampling streams, until winter meant spreadsheets and reports. Hear how she ended up designing septic systems instead.\n\nFull episode: {episode}\n\n#septic #septicdesign #onsitewastewater"
+   },
+   "captions": {
+    "tiktok": "My master's thesis was on water fleas. That's how {kate} of {cowc} starts the story of how she became a septic design engineer. She sampled streams as an aquatic biologist, loved the fieldwork, and then winter hit and it was all spreadsheets and reports. What she did next turned into her whole career.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #onsitewastewater #engineer",
+    "instagram": "Her master's thesis was on water fleas. {kate} of {cowc} spent her first job sampling streams as an aquatic biologist. She loved the fieldwork, but when winter hit it was spreadsheets and reports. Then she found onsite wastewater.\n\nFull episode: {episode}\n\n#septic #septicdesign #onsitewastewater #engineer #womeninindustry",
+    "facebook": "Not many septic careers start with water fleas. {kate} of {cowc} did her master's thesis on them, then took a job as an aquatic biologist sampling streams and doing ecological assessments. She loved being in the field, but when winter hit, she says, you just had to analyze spreadsheets and write reports. She wasn't very happy at her firm, and that's what pushed her toward a very different kind of work. I loved hearing how she got here.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.57,
+   "publish_at": "2026-12-16T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 94.2,
+   "fixes": {},
+   "crop_t": [
+    [
+     77.33,
+     0.487
+    ],
+    [
+     78.1,
+     0.57
+    ]
+   ],
+   "end_pad": 0.08,
+   "cover": "07_notes/shorts/covers/water-fleas.jpg"
+  },
+  {
+   "id": "chisel-a-mountain",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     1812,
+     1911
+    ]
+   ],
+   "title": "They chiseled part of a mountain\nto fit one *drain field*",
+   "youtube": {
+    "title": "A septic drain field under a mountain parking lot: the hardest job Kate Carney designed",
+    "description": "{kate} of {cowc} designed a system where the drain field went under a parking area on a mountainside, strong enough for fire trucks, and part of the mountain had to be chiseled away to make room.\n\nFull episode: {episode}\n\n#septic #drainfield #septicdesign"
+   },
+   "captions": {
+    "tiktok": "The drain field went under a parking area, and it had to hold up to fire trucks. Then there still wasn't enough room, so they chiseled away part of the mountain. {kate} of {cowc} says the other option was building a road up the mountain and pumping the sewage farther up. It was very expensive. Would you have taken this job?\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #septicdesign #onsitewastewater",
+    "instagram": "They had to chisel away part of a mountain to fit one drain field. {kate} of {cowc} put it under a parking area built to hold fire trucks, and it still wasn't big enough. The other option was a road up the mountain. It was very expensive.\n\nFull episode: {episode}\n\n#septic #drainfield #septicdesign #onsitewastewater #septicinstaller",
+    "facebook": "Here's a septic job you don't see every day. {kate} of {cowc} designed a system for a building on a mountainside, with a river on one side and the mountain going straight up on the other. The drain field ended up under the parking area above, built to hold fire trucks, and there still wasn't enough room, so the crew actually chiseled away part of the mountain. The other option was building a road up the mountain and pumping it farther up. It was very expensive, and she says she was lucky to have great excavators to pull it off.\n\n#septic #drainfield"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.57,
+   "publish_at": "2026-12-17T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 702.0,
+   "fixes": {},
+   "crop_t": [
+    [
+     677.17,
+     0.57
+    ],
+    [
+     691.9,
+     0.487
+    ],
+    [
+     694.3,
+     0.57
+    ],
+    [
+     715.6,
+     0.487
+    ],
+    [
+     718.0,
+     0.57
+    ]
+   ],
+   "cover": "07_notes/shorts/covers/chisel-a-mountain.jpg"
+  },
+  {
+   "id": "simplest-first",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     982,
+     1068
+    ]
+   ],
+   "title": "Septic design starts *simple*",
+   "youtube": {
+    "title": "How a septic engineer picks a system: simplest first, then sand filters",
+    "description": "{kate} of {cowc} goes from the simplest septic system to the most complicated. If there's space and good soil, it's gravity flow. Poor clay, small mountain lots and rock soil push her to sand filters or higher level treatment.\n\nFull episode: {episode}\n\n#septic #septicdesign #onsitewastewater"
+   },
+   "captions": {
+    "tiktok": "How does a septic engineer choose a system? {kate} of {cowc} starts with the simplest option. With space and good soil, that's a basic gravity flow system. But as Colorado gets denser, she keeps running into poor clay soils, small lots in the mountains and rock, and those push her to a sand filter or higher level treatment.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #onsitewastewater #septicinstaller",
+    "instagram": "Start simple, then add what the site demands. {kate} of {cowc} uses a gravity flow system when she has the space and good soil. Poor clay, small mountain lots and rock soil push her to a sand filter or higher level treatment.\n\nFull episode: {episode}\n\n#septic #septicdesign #onsitewastewater #septicinstaller #septicsystem",
+    "facebook": "Ever wonder how an engineer decides which septic system a property gets? {kate} of {cowc} says she goes from the simplest to the more complicated. If there's space and good soil, it's a simple gravity flow system. But density keeps growing in Colorado, and she runs into poor clay soils, small lots in the mountains and rock soil. Those conditions push her toward a sand filter or sometimes higher level treatment. It all comes down to the site and the soil.\n\n#septic #septicdesign"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.546,
+   "publish_at": "2026-12-17T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 380.1,
+   "fixes": {},
+   "crop_t": [
+    [
+     361.42,
+     0.487
+    ],
+    [
+     362.3,
+     0.546
+    ]
+   ],
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/simplest-first.jpg"
+  },
+  {
+   "id": "short-term-rental",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     1352,
+     1481
+    ]
+   ],
+   "title": "Tell your septic designer if\nit'll be a *rental*",
+   "youtube": {
+    "title": "Septic design: why owners must tell the engineer about short-term rental use",
+    "description": "{kate} of {cowc} designed a home as a residential system, and right after it went in the owner applied for a short-term rental permit he never mentioned. Now he's adding a brand new system.\n\nFull episode: {episode}\n\n#septic #septicdesign #shorttermrental"
+   },
+   "captions": {
+    "tiktok": "An owner had a septic system designed as a home. Right after it was installed, he went in for a short-term rental permit. {kate} of {cowc} says he never told her, and in Colorado after three bedrooms you only design for one person per bedroom. Now he's adding on to a system that just went into the ground. Be honest with your designer. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #shorttermrental #onsitewastewater",
+    "instagram": "He never told us it would be a short-term rental. {kate} of {cowc} designed a home as residential, and right after the system went in, the owner applied for a rental permit. Now he's adding on to a brand new system. Agree?\n\nFull episode: {episode}\n\n#septic #septicdesign #shorttermrental #onsitewastewater #septicinstaller",
+    "facebook": "Here's what can happen when you leave out one detail. {kate} of {cowc} designed a house as a residential system, and right after it was installed, the owner went in for a short-term rental permit. He never told her that was the plan. In Colorado, after three bedrooms you only design for one person per bedroom, so the system couldn't handle a rental with more people. Now he's looking at adding on to a brand new system that just got put in the ground.\n\n#septic #septicdesign"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.547,
+   "publish_at": "2026-12-18T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 526.1,
+   "fixes": {},
+   "crop_t": [
+    [
+     498.95,
+     0.547
+    ],
+    [
+     510.9,
+     0.487
+    ],
+    [
+     513.3,
+     0.547
+    ],
+    [
+     529.9,
+     0.487
+    ],
+    [
+     537.3,
+     0.547
+    ],
+    [
+     541.9,
+     0.487
+    ]
+   ],
+   "end_pad": 0.05,
+   "cover": "07_notes/shorts/covers/short-term-rental.jpg"
+  },
+  {
+   "id": "riser-handles",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     2653,
+     2780
+    ]
+   ],
+   "title": "Reach the septic filter without\nlying on your *belly*",
+   "youtube": {
+    "title": "Septic riser design: handles within 6 inches of the lid so nobody lies on their belly",
+    "description": "{kate} of {cowc} designs every handle, effluent filter and float tree to sit within six inches of the riser lid, so a maintenance crew can reach in instead of laying on their belly.\n\nFull episode: {episode}\n\n#septic #septicriser #septicmaintenance"
+   },
+   "captions": {
+    "tiktok": "Nobody should have to lie on their belly to reach into a septic tank. {kate} of {cowc} extends every handle, effluent filter and float tree up to within six inches of the riser lid. Cords get wrapped neatly and floats go on a separate float tree, so you can pull it out and test things without reaching way down into the tank.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicriser #septicmaintenance #septicpumper",
+    "instagram": "If you make it hard to maintain, it won't get done. {kate} of {cowc} brings every handle, effluent filter and float tree up to within six inches of the riser lid, and puts the floats on their own float tree. No more laying on your belly to reach into the tank.\n\nFull episode: {episode}\n\n#septic #septicriser #septicmaintenance #septicpumper #septicdesign",
+    "facebook": "Ask anyone who services septic tanks what they hate, and reaching way down into a tank is near the top of the list. {kate} of {cowc} designs around it. Every handle, effluent filter and float tree gets extended up to within six inches of the riser lid, so you can reach your hand in without laying on your belly. The cords are wrapped neatly and attached to the side, and the floats go on a separate float tree you can pull out and test.\n\n#septic #septicmaintenance"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.539,
+   "publish_at": "2026-12-18T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1002.5,
+   "fixes": {},
+   "crop_t": [
+    [
+     979.0,
+     0.539
+    ]
+   ],
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/riser-handles.jpg"
+  },
+  {
+   "id": "design-not-vague",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     4216,
+     4334
+    ]
+   ],
+   "title": "\"Within 50 feet\" isn't a\n*septic design*",
+   "youtube": {
+    "title": "A few boxes on a piece of paper is not a septic design",
+    "description": "{kate} of {cowc} says some designs are a few boxes on a piece of paper. An excavator told her other engineers don't care where he puts it, as long as it's within 50 feet of the test holes. That makes the installer do the design.\n\nFull episode: {episode}\n\n#septic #septicdesign #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "Some septic designs are a few boxes on a piece of paper. {kate} of {cowc} says an excavator told her the other engineers he works with don't care where he puts it, as long as it's within 50 feet of the test holes. Her answer: that's not really a design, that's making the installer do the design. Does that sound familiar?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #septicinstaller #excavator",
+    "instagram": "That's not really a design. {kate} of {cowc} says some designs are a few boxes on a piece of paper, and some engineers don't care where it goes as long as it's within 50 feet of the test holes. That puts the work on the installer.\n\nFull episode: {episode}\n\n#septic #septicdesign #septicinstaller #excavator #onsitewastewater",
+    "facebook": "An excavator told {kate} of {cowc} that the other engineers he works with don't care where he puts the system, as long as it's within 50 feet of the test holes. Her reaction: that's not really a design. She says that's making the installer do the design. She sees plans that are a few boxes on a piece of paper with a tank size and rough dimensions. Hers show installers exactly what she wants, and she thinks that's why they have such a great relationship.\n\n#septic #septicinstaller"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.578,
+   "publish_at": "2026-12-19T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1596.3,
+   "fixes": {},
+   "crop_t": [
+    [
+     1576.49,
+     0.578
+    ]
+   ],
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/design-not-vague.jpg"
+  },
+  {
+   "id": "degrees",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     5190,
+     5307
+    ]
+   ],
+   "title": "My degrees never taught me\nabout *septic* systems",
+   "youtube": {
+    "title": "Why a small septic company should join its state association",
+    "description": "{kate} of {cowc} says her undergrad and graduate degrees never covered onsite wastewater. Now there are courses for soils, design and inspection, and she's seen how excited new pump truck owners get to learn.\n\nFull episode: {episode}\n\n#septic #septictraining #onsitewastewater"
+   },
+   "captions": {
+    "tiktok": "Her undergrad and graduate degrees never taught her anything about onsite wastewater. {kate} of {cowc} says when she started it was all on-the-job training. Now there are courses for soils, design and inspection, and she once taught a class where a guy who had just bought a pump truck wanted to take as many classes as he could. Are you still learning?\n\nFull episode on our YouTube: {episode}\n\n#septic #septictraining #septicpumper #onsitewastewater",
+    "instagram": "Her degrees never covered onsite wastewater. {kate} of {cowc} learned on the job, and now there are courses for soils, design and inspection. She taught one where a guy who just bought a pump truck wanted to take as many classes as he could.\n\nFull episode: {episode}\n\n#septic #septictraining #septicpumper #onsitewastewater #septicbusiness",
+    "facebook": "When {kate} of {cowc} got into the industry, everything was on-the-job training. Her undergrad and graduate degrees never taught her about onsite wastewater. Now there are courses for soils, for design, for inspectors. She told me about teaching an inspector class where a man who had just bought a pump truck was so excited he wanted to take as many classes as he could. She loves that.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.561,
+   "publish_at": "2026-12-19T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1937.7,
+   "fixes": {},
+   "crop_t": [
+    [
+     1919.35,
+     0.561
+    ],
+    [
+     1931.4,
+     0.487
+    ],
+    [
+     1933.8,
+     0.561
+    ]
+   ],
+   "end_pad": 0.05,
+   "cover": "07_notes/shorts/covers/degrees.jpg"
+  },
+  {
+   "id": "title-transfer",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     3513,
+     3694
+    ]
+   ],
+   "title": "Septic problems get caught\nat the *sale*",
+   "youtube": {
+    "title": "Septic inspections at property sale catch failing systems before the buyer moves in",
+    "description": "{kate} of {cowc} says Colorado's title transfer inspection program catches systems in need of repair when the money is available during the sale. Some realtors tell clients to get one even where it isn't required.\n\nFull episode: {episode}\n\n#septic #septicinspection #realestate"
+   },
+   "captions": {
+    "tiktok": "Buying a house and finding sewage on the ground a couple days after you move in? {kate} of {cowc} says the property transfer is the time to find septic problems, because the money is there during the transaction. Colorado counties that adopted title transfer inspections are catching a lot of systems in need of repair. Should every county require it?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinspection #realestate #onsitewastewater",
+    "instagram": "The money is there during the sale to fix the problem. {kate} of {cowc} says Colorado counties that adopted title transfer inspections are catching a lot of septic systems in need of repair. Even in counties that don't require it, some realtors tell their clients to get one.\n\nFull episode: {episode}\n\n#septic #septicinspection #realestate #onsitewastewater #homebuying",
+    "facebook": "You put a good chunk of your money into a down payment on a new house. A couple of days after you move in, there's sewage on the ground. {kate} of {cowc} says that's why the property sale is the time to find these problems: the money is there during that transaction to get it fixed. In Colorado, counties that adopted title transfer inspections are catching a lot of systems in need of repair, and some realtors tell clients to get one even where it's not required.\n\n#septic #septicinspection"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.505,
+   "publish_at": "2026-12-20T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1296.0,
+   "fixes": {},
+   "crop_t": [
+    [
+     1289.16,
+     0.505
+    ],
+    [
+     1315.4,
+     0.487
+    ],
+    [
+     1329.6,
+     0.505
+    ],
+    [
+     1340.9,
+     0.487
+    ],
+    [
+     1343.3,
+     0.505
+    ]
+   ],
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/title-transfer.jpg"
+  },
+  {
+   "id": "yard-drainage",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     3943,
+     4014
+    ]
+   ],
+   "title": "Don't aim yard drainage\nat your *septic* system",
+   "youtube": {
+    "title": "Septic failures: irrigation and yard drainage pointed at the system",
+    "description": "{kate} of {cowc} says some owners irrigate their yard without realizing the septic system is already trying to get water into the ground. She has also seen grading and drainage sent right toward systems.\n\nFull episode: {episode}\n\n#septic #drainfield #septicmaintenance"
+   },
+   "captions": {
+    "tiktok": "People irrigate their yard and forget the septic system is already working to get water into the ground. {kate} of {cowc} says that's one thing she sees. She has also seen surface drainage get directed right toward systems because the designer and the grading contractor never coordinated. Has this happened on one of your jobs?\n\nFull episode on our YouTube: {episode}\n\n#septic #drainfield #septicmaintenance #septicpumper",
+    "instagram": "Your yard irrigation is competing with your septic system. {kate} of {cowc} has seen owners water the yard without realizing the system is already getting water into the ground, and drainage directed toward systems because nobody coordinated the grading.\n\nFull episode: {episode}\n\n#septic #drainfield #septicmaintenance #septicpumper #septicsystem",
+    "facebook": "Not everyone who moves onto a septic system knows how it works. {kate} of {cowc} says some owners just irrigate their yard, not realizing the system is already trying to get water into the ground. She has also seen a few surface drainage problems where the septic designer and the person doing the grading and drainage never talked, so drainage ended up directed toward the system.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.543,
+   "publish_at": "2026-12-20T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1460.3,
+   "fixes": {},
+   "crop_t": [
+    [
+     1444.62,
+     0.543
+    ]
+   ],
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/yard-drainage.jpg"
+  },
+  {
+   "id": "hundred-cheaper",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     4736,
+     4862
+    ]
+   ],
+   "title": "Cheaper install,\nsecond *inspection*",
+   "youtube": {
+    "title": "Hire the cheapest septic installer and you may pay for a second inspection",
+    "description": "{kate} of {cowc} says when someone finds an installer who was a hundred dollars cheaper, she often finds things to correct, a second inspection to charge for and a week of delay for the owner.\n\nFull episode: {episode}\n\n#septic #septicinstaller #septicinspection"
+   },
+   "captions": {
+    "tiktok": "Someone finds a septic installer who is a hundred dollars cheaper. Then {kate} of {cowc} goes out and finds several things that need to be corrected. That means another inspection, another week while the county comes back, and some owners even move out of the house. Her point: when everyone knows what's expected, jobs go quicker and smoother. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #septicinspection #onsitewastewater",
+    "instagram": "A hundred dollars cheaper turns into another inspection. {kate} of {cowc} says when she finds several things that need correcting, she has to charge for a second inspection, the county has to come back, and the owner waits another week.\n\nFull episode: {episode}\n\n#septic #septicinstaller #septicinspection #onsitewastewater #septicbusiness",
+    "facebook": "Picture a homeowner who found an installer who was a hundred dollars cheaper. {kate} of {cowc} goes out to inspect and finds several things that need to be corrected. That means she has to charge for another inspection, the process gets delayed, and the county has to come back out. Some owners even decide to move out of the house while they wait. She says that's why it's better for everyone when installers know what's expected: jobs go quicker and things go way smoother.\n\n#septic #septicinstaller"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.569,
+   "publish_at": "2026-12-21T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1777.7,
+   "fixes": {},
+   "crop_t": [
+    [
+     1757.71,
+     0.487
+    ],
+    [
+     1758.6,
+     0.569
+    ],
+    [
+     1781.6,
+     0.487
+    ],
+    [
+     1784.1,
+     0.569
+    ]
+   ],
+   "end_pad": 0.04,
+   "cover": "07_notes/shorts/covers/hundred-cheaper.jpg"
+  },
+  {
+   "id": "recession",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     5460,
+     5590
+    ]
+   ],
+   "title": "We bought in right\nbefore the *recession*",
+   "youtube": {
+    "title": "Septic design firm owner on buying a business right before the 2007 housing crash",
+    "description": "{kate} of {cowc} bought her business in 2007, just as the housing market declined. There were times there were no paychecks. Here's what it taught her about being grateful for too much work.\n\nFull episode: {episode}\n\n#septic #smallbusiness #onsitewastewater"
+   },
+   "captions": {
+    "tiktok": "We bought our business in 2007, right as the housing market declined. {kate} of {cowc} says there were times they weren't getting paychecks, builders were going out of business and larger engineering firms were laying people off. What it taught her: be grateful when you have too much work, because it's much better than the alternative.\n\nFull episode on our YouTube: {episode}\n\n#septic #smallbusiness #businessowner #onsitewastewater",
+    "instagram": "Be grateful when you have too much work. {kate} of {cowc} bought her business in 2007, right as the housing market declined. There were times they weren't getting paychecks. It's still much better than the alternative.\n\nFull episode: {episode}\n\n#septic #smallbusiness #businessowner #onsitewastewater #septicbusiness",
+    "facebook": "The hardest stretch {kate} of {cowc} has been through as a business owner came right when she bought her business in 2007. The housing market declined, and since they did a lot of residential work, there were times they weren't getting paychecks. Builders were going out of business and even larger engineering firms were laying off people. She says it taught her to be grateful when there's too much work, and to know there will be ebbs and flows and to prepare for them.\n\n#septic #smallbusiness"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.566,
+   "publish_at": "2026-12-21T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2035.3,
+   "fixes": {},
+   "crop_t": [
+    [
+     2009.9,
+     0.566
+    ],
+    [
+     2052.6,
+     0.487
+    ],
+    [
+     2055.0,
+     0.566
+    ]
+   ],
+   "end_pad": 0.04,
+   "cover": "07_notes/shorts/covers/recession.jpg"
+  },
+  {
+   "id": "high-road",
+   "source": "01_footage/zoom-160319-clean.mov",
+   "words": "02_audio/words/160319.json",
+   "keep": [
+    [
+     5707,
+     5800
+    ]
+   ],
+   "title": "You can never go wrong\ntaking the *high road*",
+   "youtube": {
+    "title": "Septic business advice: you can never go wrong taking the high road",
+    "description": "{kate} of {cowc} was frustrated about being undercut by a competitor when a mentor told her you can never go wrong taking the high road. Her price may be higher because she provides what you actually need, and it has worked out.\n\nFull episode: {episode}\n\n#septic #septicbusiness #businessadvice"
+   },
+   "captions": {
+    "tiktok": "Frustrated about being undercut by a competitor? {kate} of {cowc} got this advice from a mentor: you can never go wrong taking the high road. If her price is higher because she's providing the product you actually need and not doing unethical things, so be it. In the end, she says, it works out for her. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #businessadvice #onsitewastewater",
+    "instagram": "You can never go wrong taking the high road. {kate} of {cowc} was frustrated about being undercut by a competitor when a mentor told her that. If her price is higher because she's providing what you actually need, so be it. In the end it works out. Agree?\n\nFull episode: {episode}\n\n#septic #septicbusiness #businessadvice #onsitewastewater #smallbusiness",
+    "facebook": "Getting undercut by a competitor stings. {kate} of {cowc} told me about a mentor of hers, an engineer and distributor, who said something that stuck with her: you can never go wrong taking the high road. If her price is higher because she's providing the product you actually need and not doing unethical things, so be it. And in the end, she says, it works out for her. I got chills when she said it.\n\n#septic #septicbusiness"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.565,
+   "publish_at": "2026-12-22T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 2120.0,
+   "fixes": {},
+   "crop_t": [
+    [
+     2101.63,
+     0.565
+    ]
+   ],
+   "end_pad": 0.04,
+   "cover": "07_notes/shorts/covers/high-road.jpg"
+  }
+ ]
+}

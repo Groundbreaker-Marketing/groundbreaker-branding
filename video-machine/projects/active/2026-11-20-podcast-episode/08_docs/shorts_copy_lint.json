@@ -1,0 +1,68 @@
+{
+  "call-before-you-dig": {
+    "fails": [],
+    "warns": []
+  },
+  "water-fleas": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "chisel-a-mountain": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "simplest-first": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "short-term-rental": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "riser-handles": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "design-not-vague": {
+    "fails": [],
+    "warns": []
+  },
+  "degrees": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "title-transfer": {
+    "fails": [],
+    "warns": [
+      "on-screen title line over 24 chars; it may wrap"
+    ]
+  },
+  "yard-drainage": {
+    "fails": [],
+    "warns": []
+  },
+  "hundred-cheaper": {
+    "fails": [],
+    "warns": []
+  },
+  "recession": {
+    "fails": [],
+    "warns": []
+  },
+  "high-road": {
+    "fails": [],
+    "warns": []
+  }
+}
