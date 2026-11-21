@@ -174,24 +174,28 @@
   "source": "01_footage/zoom-160319.mp4",
   "lines": [
    [
-    "CALL THE",
+    "WHAT A SEPTIC",
     "big"
    ],
    [
-    "SEPTIC ENGINEER",
-    "box"
+    "DESIGN ENGINEER",
+    "big"
    ],
    [
-    "BEFORE YOU DIG",
-    "small"
+    "WISHES EVERY",
+    "big"
+   ],
+   [
+    "INSTALLER KNEW",
+    "box"
    ]
   ],
   "guest": {
-   "at": 1511.3
+   "at": 2196.5
   },
   "out": "07_notes/episode/thumbnail.jpg",
   "headline_w": 470,
-  "note": "Ashley at 2005.9 s (smiling, eyes on camera), Kate at 1511.3 s (smiling); headline is Kate's clip line"
+  "note": "Ashley at 2005.9 s (smiling, eyes on camera). Kate at 2196.5 s (smiling, still, sharpest hair of 3,286 scanned frames). Headline is the episode title, split in 4 lines (Ashley 2026-11-21); the title itself is unchanged."
  },
  "_how": "Recipe for podcast.episode. Guest episode, Kate Carney, PE, of Church Onsite Wastewater Consultants (cowastewater.com, Golden, Colorado; incoming vice president of NOWRA), recorded on Zoom 2026-11-20 (meeting 6620561605, one part, 160319, 1280x720 at 25 fps; no AI upscale at 720p). Booking email domain is cowc.info; Kate said the website is cowastewater.com and that page names the company 'Church Onsite Wastewater Consultants, LLC' (it does not name Kate). One continuous keep from Ashley's retake ('Hey everyone, welcome', word 54) to the last word; the false start (words 0 to 53) is the only cut. Lip sync measured 2026-11-20: Ashley 27 ms early, Kate 11 ms late, nothing to fix. Source = the recording video with audio remixed from the per-person tracks: Ashley track with late-reverb suppression (her room echo, max 6 dB, 60 ms onset, RT60 0.5 s), Kate's track untouched. Kate's dog break is cut as the only internal join (Ashley, 2026-11-21: take out all of it): words 4032 to 4061 (Kate asking to let her dog out, dead air, 'Okay. You good? Yes. Awesome.'), source about 1483.1 to 1516.4 s; both people's own tracks are silent at both edges. Left of the join: Ashley, 'Probably thousands of ways for it to go wrong.' Right: Ashley, 'So on your website, it says...'."
 }
