@@ -1,6 +1,6 @@
 {
- "output_seconds": 2170.16,
- "segments": 1,
+ "output_seconds": 2136.48,
+ "segments": 2,
  "pause": {
   "max_gap": 1000000.0,
   "pre": 0.3,
@@ -13,5 +13,13 @@
  },
  "joins_not_in_silence": [],
  "cut_words": [],
- "joins": []
+ "joins": [
+  {
+   "at": 1459.11,
+   "out_db": -58.6,
+   "in_db": -52.6,
+   "after": "to go wrong.",
+   "before": "So on your"
+  }
+ ]
 }

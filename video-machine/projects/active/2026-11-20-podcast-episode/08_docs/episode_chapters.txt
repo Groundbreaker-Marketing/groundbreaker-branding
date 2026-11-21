@@ -5,6 +5,6 @@
 12:36 What a great working relationship with an installer looks like
 15:00 Design details that make a system easier to pump and maintain
 20:41 How title transfer inspections catch failing systems
-24:52 Why a detailed design beats the cheapest one
-30:39 Why a small septic company should join its state association
-32:57 The hardest stretch, and why you never go wrong taking the high road
+24:19 Why a detailed design beats the cheapest one
+30:05 Why a small septic company should join its state association
+32:23 The hardest stretch, and why you never go wrong taking the high road
