@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 13 clips from Kate Carney's (CHURCH Onsite Wastewater Consultants) guest episode, take 160319 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced, in sync). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-16..12-22, every clip to YouTube + TikTok, two a day at noon and 5 PM CT through 12-21, then one at noon 12-22; the five strongest (call-before-you-dig, chisel-a-mountain, short-term-rental, hundred-cheaper, high-road) also to Instagram and Facebook at noon on weekdays. {kate} tags Kate Carney, {church} CHURCH Onsite Wastewater Consultants (cowastewater.com, no social links on its site; cowc.info did not load), {nowra} NOWRA (nowra.org links only Facebook facebook.com/NOWRAOnsite, plus X and LinkedIn), {cpow} CPOW (cpow.net links only Facebook facebook.com/ColoradoProfessionalsinOnsiteWastewater). No org has an Instagram, TikTok or YouTube account linked from its own site. The two Facebook pages need their numeric ids (Page transparency or view-source userID) before they tag; until then Facebook prints the plain name. The full episode ({episode}) is linked everywhere but Facebook.",
+ "_how": "Recipe for shorts.build (video-machine). 13 clips from Kate Carney's (CHURCH Onsite Wastewater Consultants) guest episode, take 160319 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced, in sync). keep = inclusive word-index ranges; fillers skip automatically; max_gap 1.0. Posting plan: release week 2026-12-16..12-22, every clip to YouTube + TikTok, two a day at noon and 5 PM CT through 12-21, then one at noon 12-22; the five strongest (call-before-you-dig, chisel-a-mountain, short-term-rental, hundred-cheaper, high-road) also to Instagram and Facebook at noon on weekdays. {kate} tags Kate Carney, {church} CHURCH Onsite Wastewater Consultants (cowastewater.com, no social links on its site; cowc.info did not load), {nowra} NOWRA (nowra.org links only Facebook facebook.com/NOWRAOnsite, plus X and LinkedIn), {cpow} CPOW (cpow.net links only Facebook facebook.com/ColoradoProfessionalsinOnsiteWastewater). No org has an Instagram, TikTok or YouTube account linked from its own site. Facebook ids (Ashley, 2026-11-21, looked up through the residential proxy): NOWRA 100070290274596 (facebook.com/NOWRAOnsite), CPOW 100064543848107 (facebook.com/ColoradoProfessionalsinOnsiteWastewater). CHURCH has no known Facebook page, so it stays plain text. The full episode ({episode}) is linked everywhere but Facebook.",
  "fillers": true,
  "max_gap": 1.0,
  "guests": {
@@ -12,15 +12,15 @@
   "nowra": {
    "name": "NOWRA",
    "facebook": {
-    "name": "NOWRA",
-    "url": "https://www.facebook.com/NOWRAOnsite"
+    "id": "100070290274596",
+    "name": "NOWRA"
    }
   },
   "cpow": {
    "name": "CPOW",
    "facebook": {
-    "name": "CPOW",
-    "url": "https://www.facebook.com/ColoradoProfessionalsinOnsiteWastewater"
+    "id": "100064543848107",
+    "name": "Colorado Professionals in Onsite Wastewater"
    }
   }
  },
