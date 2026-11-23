@@ -272,7 +272,43 @@
    "cover_at": 296.0,
    "fixes": {},
    "cover": "07_notes/shorts/covers/lose-customers.jpg",
-   "caption_y": 1506
+   "caption_y": 1506,
+   "metricool": {
+    "post_id": 438977069,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 438977069
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438977089
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 438977110
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/19ef2c896087400a.mp4",
+    "scheduled": "2026-12-29T12:00:00",
+    "caption_sha": "cdaa5aad2bbaab82",
+    "render_sha": "d7f32826fb415d02",
+    "cover": "https://static.metricool.com/video/4530374/202611/510590ee252a47e6.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/4598f1fe8fe24948.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "bZPGYDGc52Q",
+    "url": "https://youtu.be/bZPGYDGc52Q",
+    "scheduled": "2026-12-29T12:00:00",
+    "caption_sha": "cdaa5aad2bbaab82",
+    "render_sha": "d7f32826fb415d02"
+   }
   },
   {
    "id": "invoice-checklist",
@@ -617,7 +653,31 @@
     "6598": ""
    },
    "cover": "07_notes/shorts/covers/terralift.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438977261,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438977261
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/643858b104b34d92.mp4",
+    "scheduled": "2026-12-24T17:00:00",
+    "caption_sha": "e264465d8ef27542",
+    "render_sha": "68aaa7685a7574cb",
+    "cover": "https://static.metricool.com/video/4530374/202611/7ba9415bbc214337.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/f88f6dc402034cb7.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "QNWxSESREcI",
+    "url": "https://youtu.be/QNWxSESREcI",
+    "scheduled": "2026-12-24T17:00:00",
+    "caption_sha": "e264465d8ef27542",
+    "render_sha": "68aaa7685a7574cb"
+   }
   },
   {
    "id": "ninth-grade",
