@@ -513,10 +513,11 @@
    "words": "02_audio/words/160319.json",
    "keep": [
     [
-     4736,
+     4737,
      4862
     ]
    ],
+   "trim_start": 0.65,
    "title": "Cheaper install,\nsecond *inspection*",
    "youtube": {
     "title": "Hire the cheapest septic installer and you may pay for a second inspection",
@@ -540,10 +541,6 @@
    "cover_at": 1777.7,
    "fixes": {},
    "crop_t": [
-    [
-     1757.71,
-     0.487
-    ],
     [
      1758.6,
      0.569

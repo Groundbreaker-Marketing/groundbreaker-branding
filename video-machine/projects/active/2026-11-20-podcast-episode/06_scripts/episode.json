@@ -144,7 +144,8 @@
   "post": 0.45
  },
  "publish": {
-  "approved": false,
+  "approved": true,
+  "publish_at": "2026-12-16T08:00:00",
   "youtube": {
    "title": "What a Septic Design Engineer Wishes Every Installer Knew",
    "description": "Kate Carney is a professional engineer who designs onsite wastewater systems in Colorado, and she is the incoming vice president of NOWRA. She owns CHURCH Onsite Wastewater Consultants, and she joined me to talk about what it takes to get a septic system designed, installed and maintained the right way.\n\nIf you install, pump or maintain septic systems, you will hear why Kate would much rather you call her before the dig than find a surprise on site, how she designs systems so a pumper can reach the filters and floats, and why a detailed design makes inspections go smoother. She also tells the story of a mountain job where the tanks had to be craned over a building, and the best advice she ever got: you can never go wrong taking the high road.\n\nWhat we cover:\n- How an aquatic biologist ended up designing septic systems\n- What a week looks like for a septic design engineer\n- How to pick the right system, and why owners must be honest about use\n- The mountain job that needed a crane to set the tanks\n- What a great working relationship with an installer looks like\n- Design details that make a system easier to pump and maintain\n- How title transfer inspections catch failing systems\n- Why a detailed design beats the cheapest one\n- Why a small septic company should join its state association\n- The hardest stretch, and why you never go wrong taking the high road\n\nFind Kate and CHURCH Onsite Wastewater Consultants at cowastewater.com.",
@@ -165,7 +166,12 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "youtube_upload": {
+   "video_id": "9Yp40gXDqrg",
+   "url": "https://youtu.be/9Yp40gXDqrg",
+   "scheduled": "2026-12-16T08:00:00"
+  }
  },
  "thumbnail": {
   "layout": "cutout",

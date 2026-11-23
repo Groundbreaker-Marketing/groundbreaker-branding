@@ -618,7 +618,7 @@
   ]
  ],
  "publish": {
-  "approved": false,
+  "approved": true,
   "youtube": {
    "title": "Septic Pumping Is a Trucking Business. Run It Like One.",
    "description": "Justin Gamblin, owner of Hendricks Septic Tank Service Inc. in Madisonville, Kentucky, joins me to talk about going back to basics. He bought the company in 2012 from the man who started it, tried installs, repairs, drain cleaning and dewatering, and today he runs a three-person family crew that just pumps septic tanks and grease traps.\n\nA lot of you feel pressure to be full service, so we dig into what he gave up, why the numbers made the decision easy, and how he keeps the phones steady when residential calls come in waves.\n\nWhat we cover:\n- Why he stopped doing installs and repairs and went back to pumping\n- Buying an established septic company, and what he would tell the next buyer\n- Why you only add a new service when the numbers line up first\n- Evening out the roller coaster with reminder lists, outbound calls and neighbor discounts\n- Senior and military discounts, and why people ask for them\n- Helping out after the Dawson Springs tornado\n- Routing trucks for fuel, and raising prices when you are behind\n- Hiring CDL drivers and running a family crew\n- His one piece of advice: be a problem solver\n\nFind Justin at hendricksseptictankservice.com.",
@@ -636,7 +636,13 @@
     "The #2 Septic Podcast"
    ]
   },
-  "thumbnail": "07_notes/episode/thumbnail.jpg"
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "publish_at": "2026-12-09T08:00:00",
+  "youtube_upload": {
+   "video_id": "sc45GN75ebQ",
+   "url": "https://youtu.be/sc45GN75ebQ",
+   "scheduled": "2026-12-09T08:00:00"
+  }
  },
  "thumbnail": {
   "layout": "cutout",
