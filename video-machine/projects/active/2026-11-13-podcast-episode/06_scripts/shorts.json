@@ -73,7 +73,43 @@
     "730": "I"
    },
    "cover": "07_notes/shorts/covers/cheapest.jpg",
-   "caption_y": 1513
+   "caption_y": 1513,
+   "metricool": {
+    "post_id": 438952167,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 438952167
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438952184
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 438952196
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/0b4ce0920ebd4e0c.mp4",
+    "scheduled": "2026-12-23T12:00:00",
+    "caption_sha": "345e6d99011a2716",
+    "render_sha": "21cf2efdc63a5caf",
+    "cover": "https://static.metricool.com/video/4530374/202611/2760ec7e62504fbe.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/7468bead68f2416a.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "fY2OiKl6sik",
+    "url": "https://youtu.be/fY2OiKl6sik",
+    "scheduled": "2026-12-23T12:00:00",
+    "caption_sha": "345e6d99011a2716",
+    "render_sha": "21cf2efdc63a5caf"
+   }
   },
   {
    "id": "pickup-truck",
@@ -104,7 +140,31 @@
    "cover_at": 40.0,
    "fixes": {},
    "cover": "07_notes/shorts/covers/pickup-truck.jpg",
-   "caption_y": 1500
+   "caption_y": 1500,
+   "metricool": {
+    "post_id": 438952383,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438952383
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/d64d1c8b0d56418f.mp4",
+    "scheduled": "2026-12-23T17:00:00",
+    "caption_sha": "8bd7828a39ab21ab",
+    "render_sha": "ef32735219c0be1c",
+    "cover": "https://static.metricool.com/video/4530374/202611/5a2ba7efb937463e.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/461e97cd72264790.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "r7Op-ZYj1iI",
+    "url": "https://youtu.be/r7Op-ZYj1iI",
+    "scheduled": "2026-12-23T17:00:00",
+    "caption_sha": "8bd7828a39ab21ab",
+    "render_sha": "ef32735219c0be1c"
+   }
   },
   {
    "id": "wastewater-plant",
@@ -141,7 +201,43 @@
     "4100": "Gascon,"
    },
    "cover": "07_notes/shorts/covers/wastewater-plant.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438952501,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 438952501
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438952527
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 438952551
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/216b2e3c10b844b7.mp4",
+    "scheduled": "2026-12-24T12:00:00",
+    "caption_sha": "cd472029fa703e1d",
+    "render_sha": "0be186d70ee9a14d",
+    "cover": "https://static.metricool.com/video/4530374/202611/cd4abd205e7e48a3.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/9a25caf761894f34.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "8HeHVrMfw24",
+    "url": "https://youtu.be/8HeHVrMfw24",
+    "scheduled": "2026-12-24T12:00:00",
+    "caption_sha": "cd472029fa703e1d",
+    "render_sha": "0be186d70ee9a14d"
+   }
   },
   {
    "id": "lose-customers",
@@ -159,15 +255,19 @@
     "description": "{jason} of {aas} raised his septic prices and lost customers, and he says those were not the customers he wanted anyway.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
    },
    "captions": {
-    "tiktok": "Jason Harris raised his septic prices and lost customers, just like he feared. But the people who left were the ones always using him, and then going to the next guy. {jason} of {aas} says those are not good customers, and you have to want to be an A-rated company. That was the hardest thing for him to understand.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+    "tiktok": "Jason Harris raised his septic prices and lost customers, just like he feared. But the people who left were the ones always using him, and then going to the next guy. {jason} of {aas} says those are not good customers, and you have to want to be an A-rated company. That was the hardest thing for him to understand.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"I thought, man, I'm going to lose so many customers. And I did.\" {jason} of {aas} raised his septic prices and lost customers, just like he feared. But he says those weren't the customers he wanted. They were always using him, then went to the next guy as soon as he raised his rate. His take: that's not a good customer, and you have to want to be an A-rated company.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #pricing #smallbusiness",
+    "facebook": "You raise your prices, and the customers you were most afraid of losing do exactly what you feared. {jason} of {aas} says he thought, man, I'm going to lose so many customers, and he did. But he says those weren't the customers he wanted. They were the ones always using him, and when he raised his rate they said they'd just go to the next guy. His take: someone who does that is not a good customer, and you have to want your company to be an A-rated company.\n\n#septic"
    },
    "approved": false,
    "layout": "crop",
    "crop_x": 0.5,
-   "publish_at": "2026-12-24T17:00:00",
+   "publish_at": "2026-12-29T12:00:00",
    "networks": [
     "youtube",
-    "tiktok"
+    "tiktok",
+    "instagram",
+    "facebook"
    ],
    "cover_at": 296.0,
    "fixes": {},
@@ -207,7 +307,31 @@
     "2300": "I"
    },
    "cover": "07_notes/shorts/covers/invoice-checklist.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438952704,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438952704
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/d0661e0999af4ba5.mp4",
+    "scheduled": "2026-12-29T17:00:00",
+    "caption_sha": "c9423a0668ba2679",
+    "render_sha": "b612b5c9f6c4cefe",
+    "cover": "https://static.metricool.com/video/4530374/202611/d082f622c035457b.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/ce375b48427d4e8d.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "UNW9YKKPGhg",
+    "url": "https://youtu.be/UNW9YKKPGhg",
+    "scheduled": "2026-12-29T17:00:00",
+    "caption_sha": "c9423a0668ba2679",
+    "render_sha": "b612b5c9f6c4cefe"
+   }
   },
   {
    "id": "rolling-billboard",
@@ -243,7 +367,31 @@
     "2581": "I"
    },
    "cover": "07_notes/shorts/covers/rolling-billboard.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438952868,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438952868
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/f8253038e5f244fe.mp4",
+    "scheduled": "2026-12-26T17:00:00",
+    "caption_sha": "5e078528425aba69",
+    "render_sha": "6a3d59f4404b5e7c",
+    "cover": "https://static.metricool.com/video/4530374/202611/c27d7bd9da704331.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/c6503a831c7c4735.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "ox6Ml3ZzdqY",
+    "url": "https://youtu.be/ox6Ml3ZzdqY",
+    "scheduled": "2026-12-26T17:00:00",
+    "caption_sha": "5e078528425aba69",
+    "render_sha": "6a3d59f4404b5e7c"
+   }
   },
   {
    "id": "phone-lesson",
@@ -279,7 +427,31 @@
     "3213": "I'm"
    },
    "cover": "07_notes/shorts/covers/phone-lesson.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438953012,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438953012
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/6ecb6fa7757a4182.mp4",
+    "scheduled": "2026-12-27T12:00:00",
+    "caption_sha": "e6adf57095410240",
+    "render_sha": "8b2eec0329f2a7ab",
+    "cover": "https://static.metricool.com/video/4530374/202611/a2fa83e5ea8a4ef3.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/326726279b9c42be.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "Gs-7aL5w960",
+    "url": "https://youtu.be/Gs-7aL5w960",
+    "scheduled": "2026-12-27T12:00:00",
+    "caption_sha": "e6adf57095410240",
+    "render_sha": "8b2eec0329f2a7ab"
+   }
   },
   {
    "id": "dont-wear-it",
@@ -314,7 +486,43 @@
    "cover_at": 450.0,
    "fixes": {},
    "cover": "07_notes/shorts/covers/dont-wear-it.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438953129,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 438953129
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438953165
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 438953194
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/69c2bfb88a354cd6.mp4",
+    "scheduled": "2026-12-28T12:00:00",
+    "caption_sha": "32e9630c9ea4dd1f",
+    "render_sha": "bd660b89eab391a9",
+    "cover": "https://static.metricool.com/video/4530374/202611/58c5373129db405c.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/aee1e0d7bc614d52.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "Gog1NKiKtYI",
+    "url": "https://youtu.be/Gog1NKiKtYI",
+    "scheduled": "2026-12-28T12:00:00",
+    "caption_sha": "32e9630c9ea4dd1f",
+    "render_sha": "bd660b89eab391a9"
+   }
   },
   {
    "id": "start-slow",
@@ -345,7 +553,31 @@
    "cover_at": 2450.0,
    "fixes": {},
    "cover": "07_notes/shorts/covers/start-slow.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438953332,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438953332
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/ec6d3f4f4be945c9.mp4",
+    "scheduled": "2026-12-28T17:00:00",
+    "caption_sha": "641b3b9f2cc7d32a",
+    "render_sha": "9613d8dda829e401",
+    "cover": "https://static.metricool.com/video/4530374/202611/c27d588ba2fe42a5.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/db3aa8a012254082.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "LCfZ3VV46W8",
+    "url": "https://youtu.be/LCfZ3VV46W8",
+    "scheduled": "2026-12-28T17:00:00",
+    "caption_sha": "641b3b9f2cc7d32a",
+    "render_sha": "9613d8dda829e401"
+   }
   },
   {
    "id": "terralift",
@@ -363,19 +595,15 @@
     "description": "{jason} of {aas} says a lot of people TerraLift a drain field that is dry. You do it when it is soaking wet. If it is dry, it needs to be jetted.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
    },
    "captions": {
-    "tiktok": "A lot of septic pros are out TerraLifting a drain field because it is dry and not taking water. Jason Harris says that is backwards. You TerraLift when it is soaking wet and has nowhere left to go. If it is dry, it needs to be jetted. {jason} of {aas} has seen pipes that look like the ocean inside. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
-    "instagram": "\"If it's dry, it needs to be jetted.\" {jason} of {aas} says many septic pros TerraLift a dry drain field, and that is the wrong time. You TerraLift when it is soaking wet and the water has no more passages to go to. Get it wrong and it can disrupt the field badly.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater #septicservice",
-    "facebook": "A drain field is not taking water, so the crew shows up with a TerraLift machine. {jason} of {aas} says that is not when you use it. You TerraLift a drain field when it is soaking wet and has no more passages to go to. If it is dry, it needs to be jetted. He has seen pipes that look like the ocean inside from people who got it wrong.\n\n#septic"
+    "tiktok": "A lot of septic pros are out TerraLifting a drain field because it is dry and not taking water. Jason Harris says that is backwards. You TerraLift when it is soaking wet and has nowhere left to go. If it is dry, it needs to be jetted. {jason} of {aas} has seen pipes that look like the ocean inside. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
    },
    "approved": false,
    "layout": "crop",
    "crop_x": 0.5,
-   "publish_at": "2026-12-29T12:00:00",
+   "publish_at": "2026-12-24T17:00:00",
    "networks": [
     "youtube",
-    "tiktok",
-    "instagram",
-    "facebook"
+    "tiktok"
    ],
    "cover_at": 1925.0,
    "fixes": {
@@ -428,7 +656,43 @@
     "6901": "I"
    },
    "cover": "07_notes/shorts/covers/ninth-grade.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438953485,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 438953485
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438953504
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 438953537
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/c741a739e48549a0.mp4",
+    "scheduled": "2026-12-26T12:00:00",
+    "caption_sha": "621af8d12eb42968",
+    "render_sha": "41e382132372db65",
+    "cover": "https://static.metricool.com/video/4530374/202611/c48ec7ea3cad4b2c.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/c5c192ca37b14b8e.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "sV_s5HrsCME",
+    "url": "https://youtu.be/sV_s5HrsCME",
+    "scheduled": "2026-12-26T12:00:00",
+    "caption_sha": "621af8d12eb42968",
+    "render_sha": "41e382132372db65"
+   }
   },
   {
    "id": "flood",
@@ -465,7 +729,43 @@
     "7804": "I"
    },
    "cover": "07_notes/shorts/covers/flood.jpg",
-   "caption_y": 1533
+   "caption_y": 1533,
+   "metricool": {
+    "post_id": 438953657,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 438953657
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438953687
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 438953715
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/eb8d30a504bb43c1.mp4",
+    "scheduled": "2026-12-30T12:00:00",
+    "caption_sha": "9df52b042663f840",
+    "render_sha": "3315040ec71492e7",
+    "cover": "https://static.metricool.com/video/4530374/202611/0304cd9487004d4c.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/84113e1cd0bb45df.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "BYC3zJlosdU",
+    "url": "https://youtu.be/BYC3zJlosdU",
+    "scheduled": "2026-12-30T12:00:00",
+    "caption_sha": "9df52b042663f840",
+    "render_sha": "3315040ec71492e7"
+   }
   },
   {
    "id": "wife-fire",
@@ -499,7 +799,31 @@
     "3743": "Sebring"
    },
    "cover": "07_notes/shorts/covers/wife-fire.jpg",
-   "caption_y": 1540
+   "caption_y": 1540,
+   "metricool": {
+    "post_id": 438953926,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 438953926
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/7494c1b1a60744c1.mp4",
+    "scheduled": "2026-12-27T17:00:00",
+    "caption_sha": "3750f4751abd2968",
+    "render_sha": "2ac292bdea22ef11",
+    "cover": "https://static.metricool.com/video/4530374/202611/6d9ae86b3fad492b.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/726573c9f47e4dce.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "pL4RzMMjNv4",
+    "url": "https://youtu.be/pL4RzMMjNv4",
+    "scheduled": "2026-12-27T17:00:00",
+    "caption_sha": "3750f4751abd2968",
+    "render_sha": "2ac292bdea22ef11"
+   }
   }
  ]
 }
