@@ -1,0 +1,771 @@
+{
+ "slug": "poo-king-prices",
+ "title": "He Raised His Septic Prices and Went From 1 Pump Truck to 11",
+ "title_options": [
+  "He Raised His Septic Prices and Went From 1 Pump Truck to 11",
+  "Florida's Poo King: How to Run 7 Counties and 11 Pump Trucks",
+  "Should You Be the Cheapest Septic Company? Jason Harris Says No",
+  "How a Septic Owner Built His Own Wastewater Treatment Plant",
+  "Why Jason Harris Keeps His Septic Standards High in 7 Counties"
+ ],
+ "takes": {
+  "135607": {
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json"
+  }
+ },
+ "keep": [
+  [
+   0,
+   10610,
+   "135607"
+  ]
+ ],
+ "drop": {},
+ "fixes": {
+  "135607": {
+   "296": "I'm",
+   "312": "I",
+   "332": "I",
+   "365": "I",
+   "372": "I've",
+   "380": "I",
+   "385": "I",
+   "392": "I",
+   "399": "I",
+   "416": "I",
+   "422": "I",
+   "540": "I",
+   "583": "I",
+   "596": "I",
+   "621": "I",
+   "646": "I",
+   "649": "I",
+   "653": "I",
+   "709": "I'm",
+   "711": "I",
+   "716": "I'm",
+   "726": "I",
+   "730": "I",
+   "1192": "I",
+   "1296": "I",
+   "1298": "I",
+   "1299": "I",
+   "1623": "I",
+   "1631": "CRM",
+   "1633": "I",
+   "1634": "I",
+   "1643": "I",
+   "1647": "I'm",
+   "1652": "I",
+   "1686": "I've",
+   "1689": "I",
+   "1692": "I",
+   "1694": "Jobber",
+   "1698": "I",
+   "1702": "ChatGPT",
+   "1703": "",
+   "1715": "I've",
+   "1717": "I've",
+   "1720": "ChatGPT",
+   "1721": "",
+   "1723": "Jobber",
+   "1743": "I'm",
+   "1745": "I",
+   "1755": "ChatGPT",
+   "1756": "",
+   "1775": "ChatGPT",
+   "1776": "",
+   "1785": "I'm",
+   "1788": "I",
+   "1790": "I",
+   "1800": "AI",
+   "1974": "I",
+   "1995": "ChatGPT",
+   "1996": "",
+   "2000": "I've",
+   "2003": "ChatGPT",
+   "2004": "",
+   "2008": "I",
+   "2012": "ChatGPT",
+   "2013": "",
+   "2022": "Jobber",
+   "2025": "I",
+   "2040": "I'm",
+   "2042": "I'm",
+   "2050": "I",
+   "2067": "ChatGPT",
+   "2068": "",
+   "2075": "Jobber",
+   "2093": "ChatGPT",
+   "2094": "",
+   "2095": "I'm",
+   "2102": "I",
+   "2113": "Jobber",
+   "2115": "I",
+   "2132": "Jobber",
+   "2134": "I",
+   "2136": "ChatGPT",
+   "2137": "",
+   "2141": "I",
+   "2146": "I",
+   "2154": "Jobber",
+   "2176": "ChatGPT",
+   "2177": "",
+   "2204": "I",
+   "2233": "I",
+   "2300": "I",
+   "2404": "I",
+   "2415": "I",
+   "2445": "I",
+   "2452": "I",
+   "2453": "I",
+   "2483": "I",
+   "2489": "I",
+   "2494": "I",
+   "2554": "I",
+   "2559": "I",
+   "2577": "I",
+   "2581": "I",
+   "2660": "Jobber",
+   "2666": "Jobber",
+   "2734": "I",
+   "2751": "I'm",
+   "2753": "I",
+   "2761": "I",
+   "2782": "I",
+   "2929": "Jobber",
+   "3006": "Hardee,",
+   "3038": "Hardee",
+   "3039": "County",
+   "3109": "I",
+   "3178": "I've",
+   "3192": "I'll",
+   "3210": "I'm",
+   "3213": "I'm",
+   "3301": "I",
+   "3302": "I",
+   "3309": "Florida",
+   "3320": "I",
+   "3660": "I",
+   "3670": "I'm",
+   "3672": "I",
+   "3696": "I'm",
+   "3701": "I",
+   "3706": "I",
+   "3710": "I",
+   "3719": "Sebring",
+   "3721": "I",
+   "3729": "I",
+   "3739": "I'm",
+   "3743": "Sebring",
+   "3946": "I",
+   "3952": "Highlands",
+   "3953": "County",
+   "3966": "Highlands",
+   "3967": "County",
+   "3969": "I'm",
+   "3972": "I",
+   "3979": "I",
+   "4225": "I",
+   "4245": "I",
+   "4252": "I'm",
+   "4271": "",
+   "4272": "",
+   "4347": "I",
+   "4350": "I",
+   "4351": "I",
+   "4357": "I",
+   "4363": "I",
+   "4368": "I'll",
+   "4376": "I",
+   "4389": "I",
+   "4455": "I'm",
+   "4464": "I",
+   "4475": "I",
+   "4664": "Highlands",
+   "4665": "County",
+   "4832": "St.",
+   "4833": "Lucie",
+   "4834": "County",
+   "4835": "I",
+   "4840": "I",
+   "4843": "I",
+   "4851": "Fort",
+   "4852": "Pierce",
+   "4894": "I'm",
+   "4898": "I",
+   "5025": "I",
+   "5028": "I",
+   "5040": "I",
+   "5068": "I",
+   "5135": "I",
+   "5146": "I",
+   "5212": "I'm",
+   "5245": "I",
+   "5312": "Indiana",
+   "5316": "Daytona",
+   "5321": "I've",
+   "5328": "Indiana",
+   "5330": "I've",
+   "5335": "I'm",
+   "5339": "I",
+   "5372": "I",
+   "5377": "I",
+   "5382": "I",
+   "5399": "I",
+   "5409": "I",
+   "5415": "Alabama",
+   "5418": "I",
+   "5422": "I",
+   "5427": "I",
+   "5445": "I",
+   "5447": "I'm",
+   "5492": "I",
+   "5494": "I'm",
+   "5503": "Florida",
+   "5514": "Alabama",
+   "5516": "I",
+   "5519": "I",
+   "5523": "I",
+   "5525": "I",
+   "5528": "I'm",
+   "5530": "I",
+   "5532": "I'm",
+   "5540": "Florida",
+   "5543": "I",
+   "5556": "Alabama",
+   "5559": "I",
+   "5575": "Alabama",
+   "5631": "I",
+   "5645": "I",
+   "5869": "Crust",
+   "5870": "Busters",
+   "5881": "Crust",
+   "5882": "Busters",
+   "5889": "I",
+   "5898": "I",
+   "5899": "I",
+   "5900": "I",
+   "5908": "I",
+   "5931": "I",
+   "5939": "I'll",
+   "5972": "I",
+   "5979": "I",
+   "6012": "I",
+   "6018": "Pensacola",
+   "6033": "I'm",
+   "6039": "I've",
+   "6072": "I'm",
+   "6074": "I've",
+   "6082": "I",
+   "6084": "I've",
+   "6088": "ATU",
+   "6108": "I",
+   "6129": "I'm",
+   "6131": "I",
+   "6138": "I",
+   "6147": "I",
+   "6149": "I",
+   "6156": "I",
+   "6168": "I",
+   "6185": "I",
+   "6205": "I'm",
+   "6207": "I",
+   "6209": "I",
+   "6219": "I",
+   "6221": "I",
+   "6228": "I've",
+   "6235": "I'm",
+   "6242": "I",
+   "6252": "I",
+   "6266": "I",
+   "6281": "I",
+   "6291": "I",
+   "6350": "I",
+   "6489": "TerraLift",
+   "6490": "",
+   "6492": "TerraLift",
+   "6493": "",
+   "6523": "TerraLifting",
+   "6524": "",
+   "6542": "TerraLift",
+   "6543": "",
+   "6550": "TerraLift",
+   "6551": "",
+   "6597": "TerraLifting",
+   "6598": "",
+   "6886": "I",
+   "6897": "I",
+   "6901": "I",
+   "6972": "Sebring",
+   "6976": "I",
+   "6997": "I",
+   "7003": "I",
+   "7011": "I",
+   "7015": "I'm",
+   "7021": "I",
+   "7036": "I",
+   "7047": "I",
+   "7061": "I",
+   "7062": "I",
+   "7081": "I'm",
+   "7085": "I",
+   "7098": "I",
+   "7106": "I",
+   "7112": "I",
+   "7120": "Peterbilts",
+   "7122": "Kenworths",
+   "7151": "Peterbilt",
+   "7193": "I'm",
+   "7196": "I",
+   "7219": "I",
+   "7221": "I",
+   "7222": "I",
+   "7228": "I",
+   "7234": "I",
+   "7240": "I",
+   "7251": "I",
+   "7299": "I",
+   "7305": "I",
+   "7306": "I",
+   "7328": "I",
+   "7382": "I'm",
+   "7386": "I",
+   "7390": "I",
+   "7413": "I",
+   "7414": "I",
+   "7417": "I",
+   "7460": "I",
+   "7475": "I",
+   "7482": "I",
+   "7484": "I",
+   "7567": "I",
+   "7626": "Highlands",
+   "7627": "County",
+   "7630": "Fort",
+   "7631": "Pierce",
+   "7648": "I",
+   "7804": "I",
+   "8004": "Hardee",
+   "8103": "I",
+   "8131": "I",
+   "8335": "Jobber",
+   "8380": "Avon",
+   "8393": "Placid",
+   "8454": "ChatGPT",
+   "8455": "",
+   "8519": "I'm",
+   "8543": "AI",
+   "8548": "CRM",
+   "8597": "I",
+   "8610": "I",
+   "8614": "I",
+   "8616": "I",
+   "8623": "I",
+   "8654": "I",
+   "8658": "OCD",
+   "8665": "I",
+   "8688": "I",
+   "8691": "I",
+   "8735": "I",
+   "8757": "I",
+   "9143": "ChatGPT",
+   "9144": "",
+   "9283": "I",
+   "9298": "I",
+   "9311": "AI",
+   "9317": "AI",
+   "9348": "AI",
+   "9352": "AI",
+   "9371": "I'll",
+   "9646": "Lehigh",
+   "9651": "I",
+   "9653": "I'm",
+   "9657": "I'm",
+   "10025": "I",
+   "10030": "I'm",
+   "10044": "I",
+   "10046": "I",
+   "10058": "I'm",
+   "10083": "I",
+   "10096": "I",
+   "10097": "I",
+   "10103": "I",
+   "10107": "I",
+   "10132": "I",
+   "10134": "I",
+   "10141": "I",
+   "10218": "I",
+   "10268": "I",
+   "10348": "I",
+   "10364": "I",
+   "10409": "I",
+   "10416": "I",
+   "10422": "I",
+   "10424": "I",
+   "10430": "I",
+   "10432": "I",
+   "4100": "Gascon,"
+  }
+ },
+ "fillers": false,
+ "lower_third": {
+  "y": 970,
+  "people": [
+   {
+    "name": "Ashley Christian",
+    "org": "Groundbreaker Marketing",
+    "at": 12.0
+   },
+   {
+    "name": "Jason Harris",
+    "org": "All About Septic Services Inc.",
+    "at": 40.0
+   }
+  ]
+ },
+ "chapters": [
+  [
+   0,
+   "135607",
+   "How Jason started with a pickup truck and shoe polish"
+  ],
+  [
+   582,
+   "135607",
+   "Why he raised his prices and went from 1 pump truck to 11"
+  ],
+  [
+   1072,
+   "135607",
+   "Why an A-rated company beats being the cheapest"
+  ],
+  [
+   1659,
+   "135607",
+   "How ChatGPT and Jobber run his septic company"
+  ],
+  [
+   2167,
+   "135607",
+   "The tank checklist on every invoice"
+  ],
+  [
+   3265,
+   "135607",
+   "Running 7 counties from 2 offices"
+  ],
+  [
+   3940,
+   "135607",
+   "How he built his own wastewater treatment plant"
+  ],
+  [
+   5386,
+   "135607",
+   "Why he never stops learning"
+  ],
+  [
+   7555,
+   "135607",
+   "Keeping rates fair after a flood"
+  ],
+  [
+   7945,
+   "135607",
+   "How to expand into a new county without burning out"
+  ],
+  [
+   9580,
+   "135607",
+   "What's next, and his one piece of advice"
+  ]
+ ],
+ "thumbnail": {
+  "layout": "cutout",
+  "bg": "black",
+  "at": 3209.0,
+  "source": "01_footage/zoom-135607.mp4",
+  "photo_crop": [
+   525,
+   0,
+   1125,
+   1080
+  ],
+  "lines": [
+   [
+    "HE RAISED HIS",
+    "big"
+   ],
+   [
+    "SEPTIC PRICES",
+    "box"
+   ],
+   [
+    "AND WENT FROM",
+    "big"
+   ],
+   [
+    "1 PUMP TRUCK",
+    "box"
+   ],
+   [
+    "TO 11",
+    "box"
+   ]
+  ],
+  "guest": {
+   "at": 2211.9,
+   "photo_crop": [
+    694,
+    0,
+    1294,
+    1080
+   ],
+   "mirror": true
+  },
+  "out": "07_notes/episode/thumbnail.jpg",
+  "headline_w": 440,
+  "variants": {
+   "option-1": {
+    "out": "08_docs/thumbnail-options/option-1.jpg",
+    "guest": {
+     "at": 1248.0
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   },
+   "option-2": {
+    "out": "08_docs/thumbnail-options/option-2.jpg",
+    "guest": {
+     "at": 1542.0
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   },
+   "option-3": {
+    "out": "08_docs/thumbnail-options/option-3.jpg",
+    "guest": {
+     "at": 2038.0
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   },
+   "option-4": {
+    "out": "08_docs/thumbnail-options/option-4.jpg",
+    "guest": {
+     "at": 40.0
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   },
+   "option-5": {
+    "out": "08_docs/thumbnail-options/option-5.jpg",
+    "guest": {
+     "at": 1298.0
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   },
+   "option-6": {
+    "out": "08_docs/thumbnail-options/option-6.jpg",
+    "guest": {
+     "at": 346.0
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   },
+   "option-7": {
+    "out": "08_docs/thumbnail-options/option-7.jpg",
+    "guest": {
+     "at": 2211.9,
+     "mirror": true
+    },
+    "headline_w": 440,
+    "lines": [
+     [
+      "HE RAISED HIS",
+      "big"
+     ],
+     [
+      "SEPTIC PRICES",
+      "box"
+     ],
+     [
+      "AND WENT FROM",
+      "big"
+     ],
+     [
+      "1 PUMP TRUCK",
+      "box"
+     ],
+     [
+      "TO 11",
+      "box"
+     ]
+    ]
+   }
+  }
+ },
+ "pause": {
+  "max_gap": 1000000.0,
+  "pre": 0.3,
+  "post": 0.45
+ },
+ "publish": {
+  "approved": true,
+  "publish_at": "2026-12-23T08:00:00",
+  "thumbnail": "07_notes/episode/thumbnail.jpg",
+  "youtube": {
+   "title": "He Raised His Septic Prices and Went From 1 Pump Truck to 11",
+   "description": "Jason Harris of All About Septic Services joins me to talk about what happened when he stopped being the cheapest septic company in town. He started in 2011 with a pickup truck and shoe polish on the side. After he raised his prices, he went from one pump truck to eleven, and now he serves seven counties in Florida from offices in Fort Pierce and Sebring.\n\nJason, who goes by Florida's Poo King, shares how he holds his crews to an A-rated standard, why every invoice carries a tank checklist, how ChatGPT and Jobber run the back office, and why he built his own wastewater treatment plant when he ran out of places to dump. We also talk about keeping rates fair after a flood and how to expand into a new county without burning out.\n\nWhat we cover:\n- How Jason started with a pickup truck and shoe polish in 2011\n- Why he raised his prices and went from 1 pump truck to 11\n- Why an A-rated company beats being the cheapest\n- How ChatGPT and Jobber run his septic company\n- The tank checklist his drivers fill out on every invoice\n- Running 7 counties from 2 offices\n- How he built his own wastewater treatment plant\n- Why he never stops learning\n- Keeping rates fair after a flood\n- How to expand into a new county without burning out\n\nFind All About Septic Services at allaboutsepticservices.com.",
+   "playlist_id": "PLCj0Nkh3V00C-S17nnEE4psF-DgefPWh4",
+   "category": "EDUCATION",
+   "tags": [
+    "septic",
+    "septic business",
+    "septic pricing",
+    "septic company growth",
+    "wastewater treatment plant",
+    "Jobber",
+    "septic pumping",
+    "All About Septic Services",
+    "Jason Harris",
+    "The #2 Septic Podcast"
+   ]
+  },
+  "youtube_upload": {
+   "video_id": "KLIV6LTfIY8",
+   "url": "https://youtu.be/KLIV6LTfIY8",
+   "scheduled": "2026-12-23T08:00:00"
+  }
+ },
+ "_how": "Recipe for podcast.episode. Guest episode, Jason Harris of All About Septic Services Inc. (allaboutsepticservices.com, Fort Pierce and Sebring, Florida), recorded on Zoom 2026-11-13 (meeting 6620561605, one part, 135607, 1280x720 at 25 fps; no AI upscale at 720p). One continuous keep, first word to last, no drops, fillers off. Caption fixes: word 4100 Grayson to Gascon (Ryan Gascon, confirmed by Ryan); words 4271 and 4272 (Zoom heard TNJD Watering, unconfirmed) are hidden from captions, the audio still says it. Lowercase Whisper words (I, Florida, Jobber, ChatGPT, county names) fixed in fixes."
+}

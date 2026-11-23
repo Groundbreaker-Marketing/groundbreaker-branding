@@ -1,0 +1,17 @@
+{
+ "output_seconds": 3209.88,
+ "segments": 1,
+ "pause": {
+  "max_gap": 1000000.0,
+  "pre": 0.3,
+  "post": 0.45
+ },
+ "loudness_in": {
+  "input_i": "-19.09",
+  "input_tp": "1.64",
+  "input_lra": "2.90"
+ },
+ "joins_not_in_silence": [],
+ "cut_words": [],
+ "joins": []
+}
