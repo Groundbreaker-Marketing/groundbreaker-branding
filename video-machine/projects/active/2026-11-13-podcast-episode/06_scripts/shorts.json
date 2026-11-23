@@ -6,7 +6,11 @@
   "jason": {
    "name": "Jason Harris",
    "tiktok": "poo.king6",
-   "no_account": ["instagram", "youtube", "facebook"]
+   "no_account": [
+    "instagram",
+    "youtube",
+    "facebook"
+   ]
   },
   "aas": {
    "name": "All About Septic Services",
@@ -14,7 +18,11 @@
     "id": "100063520874739",
     "name": "All About Septic Services"
    },
-   "no_account": ["instagram", "tiktok", "youtube"]
+   "no_account": [
+    "instagram",
+    "tiktok",
+    "youtube"
+   ]
   }
  },
  "cover_with": "with Jason Harris of All About Septic Services",
@@ -64,7 +72,8 @@
     "726": "I",
     "730": "I"
    },
-   "cover": "07_notes/shorts/covers/cheapest.jpg"
+   "cover": "07_notes/shorts/covers/cheapest.jpg",
+   "caption_y": 1513
   },
   {
    "id": "pickup-truck",
@@ -94,7 +103,8 @@
    ],
    "cover_at": 40.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/pickup-truck.jpg"
+   "cover": "07_notes/shorts/covers/pickup-truck.jpg",
+   "caption_y": 1500
   },
   {
    "id": "wastewater-plant",
@@ -130,7 +140,8 @@
    "fixes": {
     "4100": "Gascon,"
    },
-   "cover": "07_notes/shorts/covers/wastewater-plant.jpg"
+   "cover": "07_notes/shorts/covers/wastewater-plant.jpg",
+   "caption_y": 1540
   },
   {
    "id": "lose-customers",
@@ -160,7 +171,8 @@
    ],
    "cover_at": 296.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/lose-customers.jpg"
+   "cover": "07_notes/shorts/covers/lose-customers.jpg",
+   "caption_y": 1506
   },
   {
    "id": "invoice-checklist",
@@ -183,7 +195,7 @@
    "approved": false,
    "layout": "crop",
    "crop_x": 0.5,
-   "publish_at": "2026-12-26T12:00:00",
+   "publish_at": "2026-12-29T17:00:00",
    "networks": [
     "youtube",
     "tiktok"
@@ -194,7 +206,8 @@
     "2233": "I",
     "2300": "I"
    },
-   "cover": "07_notes/shorts/covers/invoice-checklist.jpg"
+   "cover": "07_notes/shorts/covers/invoice-checklist.jpg",
+   "caption_y": 1540
   },
   {
    "id": "rolling-billboard",
@@ -229,7 +242,8 @@
     "2577": "I",
     "2581": "I"
    },
-   "cover": "07_notes/shorts/covers/rolling-billboard.jpg"
+   "cover": "07_notes/shorts/covers/rolling-billboard.jpg",
+   "caption_y": 1540
   },
   {
    "id": "phone-lesson",
@@ -264,7 +278,8 @@
     "3210": "I'm",
     "3213": "I'm"
    },
-   "cover": "07_notes/shorts/covers/phone-lesson.jpg"
+   "cover": "07_notes/shorts/covers/phone-lesson.jpg",
+   "caption_y": 1540
   },
   {
    "id": "dont-wear-it",
@@ -298,7 +313,8 @@
    ],
    "cover_at": 450.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/dont-wear-it.jpg"
+   "cover": "07_notes/shorts/covers/dont-wear-it.jpg",
+   "caption_y": 1540
   },
   {
    "id": "start-slow",
@@ -328,7 +344,8 @@
    ],
    "cover_at": 2450.0,
    "fixes": {},
-   "cover": "07_notes/shorts/covers/start-slow.jpg"
+   "cover": "07_notes/shorts/covers/start-slow.jpg",
+   "caption_y": 1540
   },
   {
    "id": "terralift",
@@ -371,7 +388,8 @@
     "6597": "TerraLifting",
     "6598": ""
    },
-   "cover": "07_notes/shorts/covers/terralift.jpg"
+   "cover": "07_notes/shorts/covers/terralift.jpg",
+   "caption_y": 1540
   },
   {
    "id": "ninth-grade",
@@ -389,15 +407,19 @@
     "description": "{jason} of {aas} dropped out in 9th grade and got his GED. His dad said he would never amount to anything, and that is what pushes him.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
    },
    "captions": {
-    "tiktok": "Jason Harris dropped out of high school in 9th grade and got his GED. His dad told him he was never going to amount to anything. That is what pushes him. {jason} of {aas} also has some advice on business partners, based on how his dad's went: do not recommend them.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+    "tiktok": "Jason Harris dropped out of high school in 9th grade and got his GED. His dad told him he was never going to amount to anything. That is what pushes him. {jason} of {aas} also has some advice on business partners, based on how his dad's went: do not recommend them.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"My dad's like, you're never gonna amount to nothing.\" {jason} of {aas} dropped out of high school in 9th grade and got his GED. He says that's what pushes him, and he likes to be pushed. And on business partners, going by how his dad's went: do not recommend them.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #motivation #entrepreneur",
+    "facebook": "Imagine hearing from your own dad that you're never going to amount to anything. {jason} of {aas} dropped out of high school in 9th grade and got his GED, and his dad, who worked in septic too, told him exactly that. Jason says that's what pushes him, and he likes to be pushed. His dad started three separate septic companies over the years, one of them with a business partner. Jason's take on that one: do not recommend business partners.\n\n#septic"
    },
    "approved": false,
    "layout": "crop",
    "crop_x": 0.5,
-   "publish_at": "2026-12-29T17:00:00",
+   "publish_at": "2026-12-26T12:00:00",
    "networks": [
     "youtube",
-    "tiktok"
+    "tiktok",
+    "instagram",
+    "facebook"
    ],
    "cover_at": 2030.0,
    "fixes": {
@@ -405,7 +427,8 @@
     "6897": "I",
     "6901": "I"
    },
-   "cover": "07_notes/shorts/covers/ninth-grade.jpg"
+   "cover": "07_notes/shorts/covers/ninth-grade.jpg",
+   "caption_y": 1540
   },
   {
    "id": "flood",
@@ -441,7 +464,8 @@
    "fixes": {
     "7804": "I"
    },
-   "cover": "07_notes/shorts/covers/flood.jpg"
+   "cover": "07_notes/shorts/covers/flood.jpg",
+   "caption_y": 1533
   },
   {
    "id": "wife-fire",
@@ -474,7 +498,8 @@
     "3739": "I'm",
     "3743": "Sebring"
    },
-   "cover": "07_notes/shorts/covers/wife-fire.jpg"
+   "cover": "07_notes/shorts/covers/wife-fire.jpg",
+   "caption_y": 1540
   }
  ]
 }
