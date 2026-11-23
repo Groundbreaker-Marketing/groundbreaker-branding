@@ -1,0 +1,83 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:26.84,Title,,0,0,0,,{\an5\pos(540,250)}Expanding to a new septic\Ncounty? Start {\c&H0060ECCD}slow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.05,0:00:00.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Don't{\c&H00FFFFFF&} jump feet
+Dialogue: 1,0:00:00.33,0:00:00.59,Cap,,0,0,0,,{\pos(540,1400)}Don't {\c&H0060ECCD}jump{\c&H00FFFFFF&} feet
+Dialogue: 1,0:00:00.59,0:00:00.87,Cap,,0,0,0,,{\pos(540,1400)}Don't jump {\c&H0060ECCD}feet{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.87,0:00:01.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}deep{\c&H00FFFFFF&} into it
+Dialogue: 1,0:00:01.15,0:00:01.33,Cap,,0,0,0,,{\pos(540,1400)}deep {\c&H0060ECCD}into{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:01.33,0:00:01.57,Cap,,0,0,0,,{\pos(540,1400)}deep into {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.59,0:00:01.69,Cap,,0,0,0,,{\pos(540,1400)}If {\c&H0060ECCD}you{\c&H00FFFFFF&} want to
+Dialogue: 1,0:00:01.69,0:00:01.89,Cap,,0,0,0,,{\pos(540,1400)}If you {\c&H0060ECCD}want{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:01.89,0:00:01.97,Cap,,0,0,0,,{\pos(540,1400)}If you want {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.97,0:00:02.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}expand{\c&H00FFFFFF&} to another
+Dialogue: 1,0:00:02.29,0:00:02.51,Cap,,0,0,0,,{\pos(540,1400)}expand {\c&H0060ECCD}to{\c&H00FFFFFF&} another
+Dialogue: 1,0:00:02.51,0:00:02.81,Cap,,0,0,0,,{\pos(540,1400)}expand to {\c&H0060ECCD}another{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.81,0:00:03.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}county{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.41,0:00:03.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}start{\c&H00FFFFFF&} slow
+Dialogue: 1,0:00:03.97,0:00:04.59,Cap,,0,0,0,,{\pos(540,1400)}start {\c&H0060ECCD}slow{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.23,0:00:05.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Start{\c&H00FFFFFF&} slow into
+Dialogue: 1,0:00:05.79,0:00:06.19,Cap,,0,0,0,,{\pos(540,1400)}Start {\c&H0060ECCD}slow{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:06.19,0:00:06.51,Cap,,0,0,0,,{\pos(540,1400)}Start slow {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.51,0:00:07.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.41,0:00:07.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Feel{\c&H00FFFFFF&} for the
+Dialogue: 1,0:00:07.97,0:00:08.31,Cap,,0,0,0,,{\pos(540,1400)}Feel {\c&H0060ECCD}for{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:08.31,0:00:08.47,Cap,,0,0,0,,{\pos(540,1400)}Feel for {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.47,0:00:08.91,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}market{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.03,0:00:09.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Don't{\c&H00FFFFFF&} put
+Dialogue: 1,0:00:09.29,0:00:09.57,Cap,,0,0,0,,{\pos(540,1400)}Don't {\c&H0060ECCD}put{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.57,0:00:10.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everything{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:10.03,0:00:10.31,Cap,,0,0,0,,{\pos(540,1400)}everything {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.31,0:00:10.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}got{\c&H00FFFFFF&} into that
+Dialogue: 1,0:00:10.57,0:00:10.77,Cap,,0,0,0,,{\pos(540,1400)}got {\c&H0060ECCD}into{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:10.77,0:00:10.99,Cap,,0,0,0,,{\pos(540,1400)}got into {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.99,0:00:11.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}County{\c&H00FFFFFF&} and learn
+Dialogue: 1,0:00:11.41,0:00:12.11,Cap,,0,0,0,,{\pos(540,1400)}County {\c&H0060ECCD}and{\c&H00FFFFFF&} learn
+Dialogue: 1,0:00:12.11,0:00:12.55,Cap,,0,0,0,,{\pos(540,1400)}County and {\c&H0060ECCD}learn{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.55,0:00:12.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}your{\c&H00FFFFFF&} spacing
+Dialogue: 1,0:00:12.81,0:00:13.45,Cap,,0,0,0,,{\pos(540,1400)}your {\c&H0060ECCD}spacing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.56,0:00:14.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}My{\c&H00FFFFFF&} spacing right
+Dialogue: 1,0:00:14.12,0:00:14.66,Cap,,0,0,0,,{\pos(540,1400)}My {\c&H0060ECCD}spacing{\c&H00FFFFFF&} right
+Dialogue: 1,0:00:14.66,0:00:14.96,Cap,,0,0,0,,{\pos(540,1400)}My spacing {\c&H0060ECCD}right{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.96,0:00:15.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}now{\c&H00FFFFFF&} from office
+Dialogue: 1,0:00:15.42,0:00:16.28,Cap,,0,0,0,,{\pos(540,1400)}now {\c&H0060ECCD}from{\c&H00FFFFFF&} office
+Dialogue: 1,0:00:16.28,0:00:16.86,Cap,,0,0,0,,{\pos(540,1400)}now from {\c&H0060ECCD}office{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.86,0:00:17.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} office is an
+Dialogue: 1,0:00:17.04,0:00:17.34,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}office{\c&H00FFFFFF&} is an
+Dialogue: 1,0:00:17.34,0:00:17.66,Cap,,0,0,0,,{\pos(540,1400)}to office {\c&H0060ECCD}is{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:17.66,0:00:17.84,Cap,,0,0,0,,{\pos(540,1400)}to office is {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.84,0:00:18.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hour{\c&H00FFFFFF&} and hour and
+Dialogue: 1,0:00:18.12,0:00:18.36,Cap,,0,0,0,,{\pos(540,1400)}hour {\c&H0060ECCD}and{\c&H00FFFFFF&} hour and
+Dialogue: 1,0:00:18.36,0:00:18.82,Cap,,0,0,0,,{\pos(540,1400)}hour and {\c&H0060ECCD}hour{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:18.82,0:00:19.14,Cap,,0,0,0,,{\pos(540,1400)}hour and hour {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.14,0:00:19.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}20{\c&H00FFFFFF&} minutes apart
+Dialogue: 1,0:00:19.38,0:00:19.68,Cap,,0,0,0,,{\pos(540,1400)}20 {\c&H0060ECCD}minutes{\c&H00FFFFFF&} apart
+Dialogue: 1,0:00:19.68,0:00:20.02,Cap,,0,0,0,,{\pos(540,1400)}20 minutes {\c&H0060ECCD}apart{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.02,0:00:20.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} each office
+Dialogue: 1,0:00:20.64,0:00:21.08,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}each{\c&H00FFFFFF&} office
+Dialogue: 1,0:00:21.08,0:00:21.74,Cap,,0,0,0,,{\pos(540,1400)}from each {\c&H0060ECCD}office{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.35,0:00:23.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Okeechobee{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.07,0:00:23.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} center point
+Dialogue: 1,0:00:23.13,0:00:23.35,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}center{\c&H00FFFFFF&} point
+Dialogue: 1,0:00:23.35,0:00:23.81,Cap,,0,0,0,,{\pos(540,1400)}the center {\c&H0060ECCD}point{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.97,0:00:24.29,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}30{\c&H00FFFFFF&} minutes
+Dialogue: 1,0:00:24.29,0:00:24.81,Cap,,0,0,0,,{\pos(540,1400)}30 {\c&H0060ECCD}minutes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.95,0:00:25.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}30{\c&H00FFFFFF&} to 40 minutes
+Dialogue: 1,0:00:25.13,0:00:25.31,Cap,,0,0,0,,{\pos(540,1400)}30 {\c&H0060ECCD}to{\c&H00FFFFFF&} 40 minutes
+Dialogue: 1,0:00:25.31,0:00:25.53,Cap,,0,0,0,,{\pos(540,1400)}30 to {\c&H0060ECCD}40{\c&H00FFFFFF&} minutes
+Dialogue: 1,0:00:25.53,0:00:25.87,Cap,,0,0,0,,{\pos(540,1400)}30 to 40 {\c&H0060ECCD}minutes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.87,0:00:26.53,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}each{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:26.53,0:00:26.89,Cap,,0,0,0,,{\pos(540,1400)}each {\c&H0060ECCD}way{\c&H00FFFFFF&}

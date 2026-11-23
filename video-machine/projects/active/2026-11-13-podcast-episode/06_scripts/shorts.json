@@ -1,0 +1,480 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 13 clips (fire-first dropped: only 18 s) from Jason Harris (All About Septic Services Inc.) guest episode, take 135607 (Zoom HD 1280x720, speaker view, no upscale, lip-synced: Jason 40 ms earlier). keep = inclusive word-index ranges; per-clip fixes are the episode fixes inside the clip (Ryan Gascon in wastewater-plant). Posting plan: release week from 2026-12-23, every clip to YouTube + TikTok, two a day at noon and 5 PM CT, skipping Christmas Day (12-25), through 12-30; the five strongest (cheapest, wastewater-plant, dont-wear-it, terralift, flood) also to Instagram and Facebook at noon on weekdays (12-23, 12-24, 12-28, 12-29, 12-30). {jason} tags Jason Harris, {aas} tags All About Septic Services; no handles or Facebook page id yet (see final message), the full episode linked ({episode}) everywhere but Facebook.",
+ "fillers": true,
+ "max_gap": 1.0,
+ "guests": {
+  "jason": {
+   "name": "Jason Harris",
+   "tiktok": "poo.king6",
+   "no_account": ["instagram", "youtube", "facebook"]
+  },
+  "aas": {
+   "name": "All About Septic Services",
+   "facebook": {
+    "id": "100063520874739",
+    "name": "All About Septic Services"
+   },
+   "no_account": ["instagram", "tiktok", "youtube"]
+  }
+ },
+ "cover_with": "with Jason Harris of All About Septic Services",
+ "title_y": 250,
+ "title_size": 58,
+ "clips": [
+  {
+   "id": "cheapest",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     596,
+     809
+    ]
+   ],
+   "title": "Don't be the *cheapest*\nseptic company in town",
+   "youtube": {
+    "title": "Why the cheapest septic company in town is the one losing money",
+    "description": "{jason} of {aas} was the cheapest septic guy around, and his trucks were falling apart. Then a competitor told him to stop. He raised his prices, and he went from one pump truck to eleven.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "A competitor told Jason Harris: you don't have to be the cheapest. His trucks were broken down and he was always working on them. He sat on that advice for two years, then raised his prices. He went from one pump truck to eleven. {jason} of {aas} says he was tired of working for nothing. Ever been there?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"I'm just tired of working for nothing.\" {jason} of {aas} was the cheapest septic guy around, with trucks that were always broken down. A competitor told him to stay in the middle. Two years later he raised his prices, and one pump truck turned into eleven.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater #septicservice",
+    "facebook": "A septic owner is buried in calls, and his trucks are falling apart. Another septic company calls a meeting and tells him to stop being the cheapest. {jason} of {aas} says he thought he would lose all his customers, so the advice sat in his head for two years. Then he got tired of working for nothing and raised his prices. He went from one pump truck to eleven.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-23T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 190.0,
+   "fixes": {
+    "596": "I",
+    "621": "I",
+    "646": "I",
+    "649": "I",
+    "653": "I",
+    "709": "I'm",
+    "711": "I",
+    "716": "I'm",
+    "726": "I",
+    "730": "I"
+   },
+   "cover": "07_notes/shorts/covers/cheapest.jpg"
+  },
+  {
+   "id": "pickup-truck",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     71,
+     171
+    ]
+   ],
+   "title": "I started my septic company\nwith *shoe polish* on a pickup",
+   "youtube": {
+    "title": "He started a septic company with shoe polish on a pickup truck",
+    "description": "{jason} of {aas} started his septic company in 2011 with a pickup truck and shoe polish on the side. Within two months he bought his first pump truck.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Jason Harris started his septic company in 2011 with a pickup truck and the words septic contractor written on the side in shoe polish. He drove around parking lots hoping customers would call. People remembered him from his old job, and within two months he bought his first pump truck. {jason} of {aas} tells the whole story.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-23T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 40.0,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/pickup-truck.jpg"
+  },
+  {
+   "id": "wastewater-plant",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     3990,
+     4161
+    ]
+   ],
+   "title": "I built my own septic\n*wastewater plant* from scratch",
+   "youtube": {
+    "title": "A septic owner built his own wastewater treatment plant from scratch",
+    "description": "{jason} of {aas} ran out of places to dump his trucks, so he built a wastewater treatment plant from scratch with help from his friend Ryan Gascon.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Where are you going to dump your trucks? Jason Harris kept getting more calls in Highlands County, but the dump site closed by 10 in the morning. So he built his own wastewater treatment plant from scratch. A friend, Ryan Gascon, helped him set it up. {jason} of {aas} says it took a lot of learning. Would you do it?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"Where are we going to dump our trucks?\" {jason} of {aas} had more septic calls than he could handle, and the local dump closed by 10 in the morning. So he built his own wastewater treatment plant from scratch, with help from his friend Ryan Gascon. It took a lot of learning.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater #septicservice",
+    "facebook": "More septic calls than you can handle sounds like a good problem, until you ask where all that waste is going. {jason} of {aas} ran into it in Highlands County. The local dump site told him to come first thing in the morning because they closed by 10. So he jumped in knee-deep and built his own wastewater treatment plant from scratch, with advice from his friend Ryan Gascon.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-24T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1204.0,
+   "fixes": {
+    "4100": "Gascon,"
+   },
+   "cover": "07_notes/shorts/covers/wastewater-plant.jpg"
+  },
+  {
+   "id": "lose-customers",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     924,
+     1071
+    ]
+   ],
+   "title": "Raise your septic prices and\n*lose* the wrong customers",
+   "youtube": {
+    "title": "Raise your septic prices and lose the wrong customers",
+    "description": "{jason} of {aas} raised his septic prices and lost customers, and he says those were not the customers he wanted anyway.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Jason Harris raised his septic prices and lost customers, just like he feared. But the people who left were the ones always using him, and then going to the next guy. {jason} of {aas} says those are not good customers, and you have to want to be an A-rated company. That was the hardest thing for him to understand.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-24T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 296.0,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/lose-customers.jpg"
+  },
+  {
+   "id": "invoice-checklist",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     2204,
+     2333
+    ]
+   ],
+   "title": "The septic tank *checklist*\non every invoice",
+   "youtube": {
+    "title": "The septic tank checklist this company puts on every invoice",
+    "description": "{jason} of {aas} has his pump truck drivers fill out a checklist on every invoice: the tank, the outlet tee, the baffle, the drain field and more.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Jason Harris does not want his drivers to just pump 1,000 gallons and hand over an invoice. Every invoice has a checklist. What did the tank look like? Was there an outlet tee and a baffle? Were baby wipes in there? Was the drain field working? How was the level? {jason} of {aas} wants to know it all.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-26T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 680.0,
+   "fixes": {
+    "2204": "I",
+    "2233": "I",
+    "2300": "I"
+   },
+   "cover": "07_notes/shorts/covers/invoice-checklist.jpg"
+  },
+  {
+   "id": "rolling-billboard",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     2545,
+     2630
+    ]
+   ],
+   "title": "A clean septic truck is\na *rolling billboard*",
+   "youtube": {
+    "title": "A clean septic truck is free advertising, says a Florida septic owner",
+    "description": "{jason} of {aas} keeps parts and toolboxes off his trucks so the space can be advertising. A clean truck is a rolling billboard.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Jason Harris does not hang a bunch of toolboxes and parts off his septic trucks. The space on the truck is advertisement. A clean truck is a rolling billboard driving down the road, and it is free. {jason} of {aas} says if your trucks are not clean, you will not get the A-rated customers you want.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-26T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 770.0,
+   "fixes": {
+    "2554": "I",
+    "2559": "I",
+    "2577": "I",
+    "2581": "I"
+   },
+   "cover": "07_notes/shorts/covers/rolling-billboard.jpg"
+  },
+  {
+   "id": "phone-lesson",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     3178,
+     3272
+    ]
+   ],
+   "title": "My septic drivers teach customers\nhow to use their *phone*",
+   "youtube": {
+    "title": "His septic drivers teach customers how to use their phones",
+    "description": "{jason} of {aas} has customers who tell him his driver taught them how to use their phone. He says it is worth it for customer satisfaction.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Customers call Jason Harris to say their septic driver taught them how to use their phone. His first thought: I am not paying my drivers to do that. But it is customer satisfaction. {jason} of {aas} says the days of paper invoices are obsolete, and some customers need a little help getting set up.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-27T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 960.0,
+   "fixes": {
+    "3178": "I've",
+    "3192": "I'll",
+    "3210": "I'm",
+    "3213": "I'm"
+   },
+   "cover": "07_notes/shorts/covers/phone-lesson.jpg"
+  },
+  {
+   "id": "dont-wear-it",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     1426,
+     1544
+    ]
+   ],
+   "title": "Just because we're in septic\ndoesn't mean we *wear* it",
+   "youtube": {
+    "title": "Just because you are in the septic business does not mean you wear it",
+    "description": "{jason} of {aas} on how to hire in the septic business: you see how I come to work? This is how I leave work.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Everybody thinks the septic business means you get covered in poop. Jason Harris tells people: you see how I come to work? This is how I leave work. Just because we are in the septic business does not mean we need to wear it. {jason} of {aas} on why finding drivers starts with education. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"You see how I come to work? This is how I leave work.\" {jason} of {aas} says everyone thinks the septic business means getting covered in poop. His answer: just because we are in septic does not mean we need to wear it. Finding good drivers starts with education.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater #septicservice",
+    "facebook": "Why is it so hard to find people who will drive a pump truck? {jason} of {aas} says it begins with education. Everybody thinks you will get covered in poop. He tells them: see how I come to work? This is how I leave work. Just because we are in the septic business does not mean we need to wear it.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-28T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 450.0,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/dont-wear-it.jpg"
+  },
+  {
+   "id": "start-slow",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     8201,
+     8268
+    ]
+   ],
+   "title": "Expanding to a new septic\ncounty? Start *slow*",
+   "youtube": {
+    "title": "Expanding your septic company into a new county? Start slow",
+    "description": "{jason} of {aas} serves seven counties from two offices. His advice for expanding into a new one: do not jump in feet deep. Start slow and feel out the market.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Thinking about expanding your septic company into another county? Jason Harris says do not jump in feet deep. Start slow, feel for the market, and do not put everything you have into that county. Learn your spacing. {jason} of {aas} keeps his two offices about an hour and 20 minutes apart.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-28T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2450.0,
+   "fixes": {},
+   "cover": "07_notes/shorts/covers/start-slow.jpg"
+  },
+  {
+   "id": "terralift",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     6504,
+     6614
+    ]
+   ],
+   "title": "When to *TerraLift* a drain field\n(and when to jet it)",
+   "youtube": {
+    "title": "When to TerraLift a drain field and when to jet it instead",
+    "description": "{jason} of {aas} says a lot of people TerraLift a drain field that is dry. You do it when it is soaking wet. If it is dry, it needs to be jetted.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "A lot of septic pros are out TerraLifting a drain field because it is dry and not taking water. Jason Harris says that is backwards. You TerraLift when it is soaking wet and has nowhere left to go. If it is dry, it needs to be jetted. {jason} of {aas} has seen pipes that look like the ocean inside. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"If it's dry, it needs to be jetted.\" {jason} of {aas} says many septic pros TerraLift a dry drain field, and that is the wrong time. You TerraLift when it is soaking wet and the water has no more passages to go to. Get it wrong and it can disrupt the field badly.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater #septicservice",
+    "facebook": "A drain field is not taking water, so the crew shows up with a TerraLift machine. {jason} of {aas} says that is not when you use it. You TerraLift a drain field when it is soaking wet and has no more passages to go to. If it is dry, it needs to be jetted. He has seen pipes that look like the ocean inside from people who got it wrong.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-29T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1925.0,
+   "fixes": {
+    "6523": "TerraLifting",
+    "6524": "",
+    "6542": "TerraLift",
+    "6543": "",
+    "6550": "TerraLift",
+    "6551": "",
+    "6597": "TerraLifting",
+    "6598": ""
+   },
+   "cover": "07_notes/shorts/covers/terralift.jpg"
+  },
+  {
+   "id": "ninth-grade",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     6850,
+     6933
+    ]
+   ],
+   "title": "My dad said I'd never\n*amount* to anything",
+   "youtube": {
+    "title": "A septic owner who dropped out in 9th grade and kept learning",
+    "description": "{jason} of {aas} dropped out in 9th grade and got his GED. His dad said he would never amount to anything, and that is what pushes him.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Jason Harris dropped out of high school in 9th grade and got his GED. His dad told him he was never going to amount to anything. That is what pushes him. {jason} of {aas} also has some advice on business partners, based on how his dad's went: do not recommend them.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-29T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2030.0,
+   "fixes": {
+    "6886": "I",
+    "6897": "I",
+    "6901": "I"
+   },
+   "cover": "07_notes/shorts/covers/ninth-grade.jpg"
+  },
+  {
+   "id": "flood",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     7700,
+     7872
+    ]
+   ],
+   "title": "We charged *normal rates*\nduring the flood",
+   "youtube": {
+    "title": "Septic company kept normal rates during a flood and served 300 customers",
+    "description": "{jason} of {aas} says competitors charged emergency rates during the flood. His crews charged the same rate as any weekday, and not one tank popped out of the ground.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "After a flood, a lot of septic companies charged emergency rates. Jason Harris did not. His crews did about 300 customers at the same rate as a regular Monday through Friday. And out of all of them, not one broken tank and not one that popped out of the ground. {jason} of {aas} says storms are not the time to make money.\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater",
+    "instagram": "\"It's not the time to make money in a crisis.\" After a flood, {jason} of {aas} moved his trucks to help out. His crews charged the same rate as a normal weekday. Out of all the customers they did, not one tank popped out of the ground.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater #septicservice",
+    "facebook": "When the neighborhoods flood, the calls come in left and right. A lot of septic companies called it an emergency and charged emergency rates. {jason} of {aas} did the opposite. His crews did around 300 customers at the same rate as any Monday through Friday, and out of all of them, not one broken tank and not one that popped out of the ground.\n\n#septic"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-30T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 2290.0,
+   "fixes": {
+    "7804": "I"
+   },
+   "cover": "07_notes/shorts/covers/flood.jpg"
+  },
+  {
+   "id": "wife-fire",
+   "source": "01_footage/zoom-135607-synced.mov",
+   "words": "02_audio/words/135607-synced.json",
+   "keep": [
+    [
+     3739,
+     3842
+    ]
+   ],
+   "title": "How my wife got my septic\ndrivers to *respect* her",
+   "youtube": {
+    "title": "How a septic owner's wife got her drivers to respect her",
+    "description": "{jason} of {aas} was running one office while his wife ran the other, and her drivers were not listening. His advice: find the one who will not listen and fire them.\n\nFull episode: {episode}\n\n#septic #septicbusiness #septicpumper"
+   },
+   "captions": {
+    "tiktok": "Jason Harris was running one septic office while his wife ran the other. Her drivers were not listening. His advice: find the one person who does not listen and fire them in front of everybody. She did that, and everybody started respecting her. {jason} of {aas} says it set the ground. Would you?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #septicpumper #wastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.5,
+   "publish_at": "2026-12-27T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1115.0,
+   "fixes": {
+    "3739": "I'm",
+    "3743": "Sebring"
+   },
+   "cover": "07_notes/shorts/covers/wife-fire.jpg"
+  }
+ ]
+}
