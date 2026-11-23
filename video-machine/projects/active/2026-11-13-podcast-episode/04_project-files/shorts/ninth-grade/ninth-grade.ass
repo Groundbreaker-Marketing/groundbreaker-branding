@@ -14,87 +14,87 @@ Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 2,0:00:00.00,0:00:24.60,Title,,0,0,0,,{\an5\pos(540,250)}My dad said I'd never\N{\c&H0060ECCD}amount{\c&H00FFFFFF&} to anything
-Dialogue: 1,0:00:00.07,0:00:00.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Education{\c&H00FFFFFF&} is key
-Dialogue: 1,0:00:00.55,0:00:00.81,Cap,,0,0,0,,{\pos(540,1400)}Education {\c&H0060ECCD}is{\c&H00FFFFFF&} key
-Dialogue: 1,0:00:00.81,0:00:01.13,Cap,,0,0,0,,{\pos(540,1400)}Education is {\c&H0060ECCD}key{\c&H00FFFFFF&}
-Dialogue: 1,0:00:01.21,0:00:01.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Like{\c&H00FFFFFF&} I dropped
-Dialogue: 1,0:00:01.35,0:00:01.57,Cap,,0,0,0,,{\pos(540,1400)}Like {\c&H0060ECCD}I{\c&H00FFFFFF&} dropped
-Dialogue: 1,0:00:01.57,0:00:01.89,Cap,,0,0,0,,{\pos(540,1400)}Like I {\c&H0060ECCD}dropped{\c&H00FFFFFF&}
-Dialogue: 1,0:00:01.89,0:00:02.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}out{\c&H00FFFFFF&} of
-Dialogue: 1,0:00:02.13,0:00:02.43,Cap,,0,0,0,,{\pos(540,1400)}out {\c&H0060ECCD}of{\c&H00FFFFFF&}
-Dialogue: 1,0:00:02.47,0:00:02.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} dropped out of
-Dialogue: 1,0:00:02.83,0:00:03.05,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}dropped{\c&H00FFFFFF&} out of
-Dialogue: 1,0:00:03.05,0:00:03.25,Cap,,0,0,0,,{\pos(540,1400)}I dropped {\c&H0060ECCD}out{\c&H00FFFFFF&} of
-Dialogue: 1,0:00:03.25,0:00:03.33,Cap,,0,0,0,,{\pos(540,1400)}I dropped out {\c&H0060ECCD}of{\c&H00FFFFFF&}
-Dialogue: 1,0:00:03.33,0:00:03.49,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}high{\c&H00FFFFFF&} school in
-Dialogue: 1,0:00:03.49,0:00:03.75,Cap,,0,0,0,,{\pos(540,1400)}high {\c&H0060ECCD}school{\c&H00FFFFFF&} in
-Dialogue: 1,0:00:03.75,0:00:03.91,Cap,,0,0,0,,{\pos(540,1400)}high school {\c&H0060ECCD}in{\c&H00FFFFFF&}
-Dialogue: 1,0:00:03.91,0:00:04.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ninth{\c&H00FFFFFF&} grade
-Dialogue: 1,0:00:04.15,0:00:04.59,Cap,,0,0,0,,{\pos(540,1400)}ninth {\c&H0060ECCD}grade{\c&H00FFFFFF&}
-Dialogue: 1,0:00:04.81,0:00:05.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}got{\c&H00FFFFFF&} my GED and
-Dialogue: 1,0:00:05.03,0:00:05.35,Cap,,0,0,0,,{\pos(540,1400)}got {\c&H0060ECCD}my{\c&H00FFFFFF&} GED and
-Dialogue: 1,0:00:05.35,0:00:05.81,Cap,,0,0,0,,{\pos(540,1400)}got my {\c&H0060ECCD}GED{\c&H00FFFFFF&} and
-Dialogue: 1,0:00:05.81,0:00:06.53,Cap,,0,0,0,,{\pos(540,1400)}got my GED {\c&H0060ECCD}and{\c&H00FFFFFF&}
-Dialogue: 1,0:00:06.53,0:00:06.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} told myself
-Dialogue: 1,0:00:06.63,0:00:06.81,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}told{\c&H00FFFFFF&} myself
-Dialogue: 1,0:00:06.81,0:00:07.31,Cap,,0,0,0,,{\pos(540,1400)}I told {\c&H0060ECCD}myself{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.39,0:00:07.45,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} dad was like
-Dialogue: 1,0:00:07.45,0:00:07.59,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}dad{\c&H00FFFFFF&} was like
-Dialogue: 1,0:00:07.59,0:00:07.71,Cap,,0,0,0,,{\pos(540,1400)}my dad {\c&H0060ECCD}was{\c&H00FFFFFF&} like
-Dialogue: 1,0:00:07.71,0:00:07.97,Cap,,0,0,0,,{\pos(540,1400)}my dad was {\c&H0060ECCD}like{\c&H00FFFFFF&}
-Dialogue: 1,0:00:07.97,0:00:08.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} never
-Dialogue: 1,0:00:08.05,0:00:08.25,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}never{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.25,0:00:08.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to amount
-Dialogue: 1,0:00:08.47,0:00:08.57,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} amount
-Dialogue: 1,0:00:08.57,0:00:08.91,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}amount{\c&H00FFFFFF&}
-Dialogue: 1,0:00:08.91,0:00:09.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} nothing like I
-Dialogue: 1,0:00:09.07,0:00:09.37,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}nothing{\c&H00FFFFFF&} like I
-Dialogue: 1,0:00:09.37,0:00:09.75,Cap,,0,0,0,,{\pos(540,1400)}to nothing {\c&H0060ECCD}like{\c&H00FFFFFF&} I
-Dialogue: 1,0:00:09.75,0:00:10.09,Cap,,0,0,0,,{\pos(540,1400)}to nothing like {\c&H0060ECCD}I{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.09,0:00:10.31,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}said{\c&H00FFFFFF&} that just
-Dialogue: 1,0:00:10.31,0:00:10.49,Cap,,0,0,0,,{\pos(540,1400)}said {\c&H0060ECCD}that{\c&H00FFFFFF&} just
-Dialogue: 1,0:00:10.49,0:00:10.71,Cap,,0,0,0,,{\pos(540,1400)}said that {\c&H0060ECCD}just{\c&H00FFFFFF&}
-Dialogue: 1,0:00:10.71,0:00:11.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} what
-Dialogue: 1,0:00:11.17,0:00:11.29,Cap,,0,0,0,,{\pos(540,1400)}that's {\c&H0060ECCD}what{\c&H00FFFFFF&}
-Dialogue: 1,0:00:11.29,0:00:11.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}pushes{\c&H00FFFFFF&} me yeah
-Dialogue: 1,0:00:11.65,0:00:12.01,Cap,,0,0,0,,{\pos(540,1400)}pushes {\c&H0060ECCD}me{\c&H00FFFFFF&} yeah
-Dialogue: 1,0:00:12.01,0:00:12.23,Cap,,0,0,0,,{\pos(540,1400)}pushes me {\c&H0060ECCD}yeah{\c&H00FFFFFF&}
-Dialogue: 1,0:00:12.23,0:00:12.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know I like
-Dialogue: 1,0:00:12.67,0:00:12.83,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} I like
-Dialogue: 1,0:00:12.83,0:00:13.25,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}I{\c&H00FFFFFF&} like
-Dialogue: 1,0:00:13.25,0:00:13.43,Cap,,0,0,0,,{\pos(540,1400)}you know I {\c&H0060ECCD}like{\c&H00FFFFFF&}
-Dialogue: 1,0:00:13.43,0:00:13.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} be I like
-Dialogue: 1,0:00:13.65,0:00:13.77,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}be{\c&H00FFFFFF&} I like
-Dialogue: 1,0:00:13.77,0:00:14.21,Cap,,0,0,0,,{\pos(540,1400)}to be {\c&H0060ECCD}I{\c&H00FFFFFF&} like
-Dialogue: 1,0:00:14.21,0:00:14.43,Cap,,0,0,0,,{\pos(540,1400)}to be I {\c&H0060ECCD}like{\c&H00FFFFFF&}
-Dialogue: 1,0:00:14.43,0:00:14.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} be pushed you
-Dialogue: 1,0:00:14.57,0:00:14.73,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}be{\c&H00FFFFFF&} pushed you
-Dialogue: 1,0:00:14.73,0:00:15.15,Cap,,0,0,0,,{\pos(540,1400)}to be {\c&H0060ECCD}pushed{\c&H00FFFFFF&} you
-Dialogue: 1,0:00:15.15,0:00:15.67,Cap,,0,0,0,,{\pos(540,1400)}to be pushed {\c&H0060ECCD}you{\c&H00FFFFFF&}
-Dialogue: 1,0:00:15.67,0:00:15.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} my dad my
-Dialogue: 1,0:00:15.75,0:00:15.97,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}my{\c&H00FFFFFF&} dad my
-Dialogue: 1,0:00:15.97,0:00:16.27,Cap,,0,0,0,,{\pos(540,1400)}know my {\c&H0060ECCD}dad{\c&H00FFFFFF&} my
-Dialogue: 1,0:00:16.27,0:00:16.81,Cap,,0,0,0,,{\pos(540,1400)}know my dad {\c&H0060ECCD}my{\c&H00FFFFFF&}
-Dialogue: 1,0:00:16.81,0:00:17.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}dad{\c&H00FFFFFF&} had like
-Dialogue: 1,0:00:17.07,0:00:17.31,Cap,,0,0,0,,{\pos(540,1400)}dad {\c&H0060ECCD}had{\c&H00FFFFFF&} like
-Dialogue: 1,0:00:17.31,0:00:17.49,Cap,,0,0,0,,{\pos(540,1400)}dad had {\c&H0060ECCD}like{\c&H00FFFFFF&}
-Dialogue: 1,0:00:17.49,0:00:17.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}three{\c&H00FFFFFF&} separate
-Dialogue: 1,0:00:17.75,0:00:18.17,Cap,,0,0,0,,{\pos(540,1400)}three {\c&H0060ECCD}separate{\c&H00FFFFFF&}
-Dialogue: 1,0:00:18.17,0:00:18.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}separate{\c&H00FFFFFF&} septic
-Dialogue: 1,0:00:18.79,0:00:19.55,Cap,,0,0,0,,{\pos(540,1400)}separate {\c&H0060ECCD}septic{\c&H00FFFFFF&}
-Dialogue: 1,0:00:19.55,0:00:19.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}companies{\c&H00FFFFFF&} that he
-Dialogue: 1,0:00:19.89,0:00:20.15,Cap,,0,0,0,,{\pos(540,1400)}companies {\c&H0060ECCD}that{\c&H00FFFFFF&} he
-Dialogue: 1,0:00:20.15,0:00:20.29,Cap,,0,0,0,,{\pos(540,1400)}companies that {\c&H0060ECCD}he{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.29,0:00:20.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}started{\c&H00FFFFFF&} he had
-Dialogue: 1,0:00:20.61,0:00:20.81,Cap,,0,0,0,,{\pos(540,1400)}started {\c&H0060ECCD}he{\c&H00FFFFFF&} had
-Dialogue: 1,0:00:20.81,0:00:20.97,Cap,,0,0,0,,{\pos(540,1400)}started he {\c&H0060ECCD}had{\c&H00FFFFFF&}
-Dialogue: 1,0:00:20.97,0:00:21.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}one{\c&H00FFFFFF&} with a
-Dialogue: 1,0:00:21.17,0:00:21.35,Cap,,0,0,0,,{\pos(540,1400)}one {\c&H0060ECCD}with{\c&H00FFFFFF&} a
-Dialogue: 1,0:00:21.35,0:00:21.45,Cap,,0,0,0,,{\pos(540,1400)}one with {\c&H0060ECCD}a{\c&H00FFFFFF&}
-Dialogue: 1,0:00:21.45,0:00:21.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} partner
-Dialogue: 1,0:00:21.75,0:00:22.25,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}partner{\c&H00FFFFFF&}
-Dialogue: 1,0:00:22.25,0:00:22.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}do{\c&H00FFFFFF&} not recommend
-Dialogue: 1,0:00:22.87,0:00:23.23,Cap,,0,0,0,,{\pos(540,1400)}do {\c&H0060ECCD}not{\c&H00FFFFFF&} recommend
-Dialogue: 1,0:00:23.23,0:00:23.69,Cap,,0,0,0,,{\pos(540,1400)}do not {\c&H0060ECCD}recommend{\c&H00FFFFFF&}
-Dialogue: 1,0:00:23.69,0:00:24.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}business{\c&H00FFFFFF&} partners
-Dialogue: 1,0:00:24.13,0:00:24.71,Cap,,0,0,0,,{\pos(540,1400)}business {\c&H0060ECCD}partners{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.07,0:00:00.55,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}Education{\c&H00FFFFFF&} is key
+Dialogue: 1,0:00:00.55,0:00:00.81,Cap,,0,0,0,,{\pos(540,1540)}Education {\c&H0060ECCD}is{\c&H00FFFFFF&} key
+Dialogue: 1,0:00:00.81,0:00:01.13,Cap,,0,0,0,,{\pos(540,1540)}Education is {\c&H0060ECCD}key{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.21,0:00:01.35,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}Like{\c&H00FFFFFF&} I dropped
+Dialogue: 1,0:00:01.35,0:00:01.57,Cap,,0,0,0,,{\pos(540,1540)}Like {\c&H0060ECCD}I{\c&H00FFFFFF&} dropped
+Dialogue: 1,0:00:01.57,0:00:01.89,Cap,,0,0,0,,{\pos(540,1540)}Like I {\c&H0060ECCD}dropped{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.89,0:00:02.13,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}out{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:02.13,0:00:02.43,Cap,,0,0,0,,{\pos(540,1540)}out {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.47,0:00:02.83,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}I{\c&H00FFFFFF&} dropped out of
+Dialogue: 1,0:00:02.83,0:00:03.05,Cap,,0,0,0,,{\pos(540,1540)}I {\c&H0060ECCD}dropped{\c&H00FFFFFF&} out of
+Dialogue: 1,0:00:03.05,0:00:03.25,Cap,,0,0,0,,{\pos(540,1540)}I dropped {\c&H0060ECCD}out{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:03.25,0:00:03.33,Cap,,0,0,0,,{\pos(540,1540)}I dropped out {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.33,0:00:03.49,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}high{\c&H00FFFFFF&} school in
+Dialogue: 1,0:00:03.49,0:00:03.75,Cap,,0,0,0,,{\pos(540,1540)}high {\c&H0060ECCD}school{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:03.75,0:00:03.91,Cap,,0,0,0,,{\pos(540,1540)}high school {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.91,0:00:04.15,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}ninth{\c&H00FFFFFF&} grade
+Dialogue: 1,0:00:04.15,0:00:04.59,Cap,,0,0,0,,{\pos(540,1540)}ninth {\c&H0060ECCD}grade{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.81,0:00:05.03,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}got{\c&H00FFFFFF&} my GED and
+Dialogue: 1,0:00:05.03,0:00:05.35,Cap,,0,0,0,,{\pos(540,1540)}got {\c&H0060ECCD}my{\c&H00FFFFFF&} GED and
+Dialogue: 1,0:00:05.35,0:00:05.81,Cap,,0,0,0,,{\pos(540,1540)}got my {\c&H0060ECCD}GED{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:05.81,0:00:06.53,Cap,,0,0,0,,{\pos(540,1540)}got my GED {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.53,0:00:06.63,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}I{\c&H00FFFFFF&} told myself
+Dialogue: 1,0:00:06.63,0:00:06.81,Cap,,0,0,0,,{\pos(540,1540)}I {\c&H0060ECCD}told{\c&H00FFFFFF&} myself
+Dialogue: 1,0:00:06.81,0:00:07.31,Cap,,0,0,0,,{\pos(540,1540)}I told {\c&H0060ECCD}myself{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.39,0:00:07.45,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}my{\c&H00FFFFFF&} dad was like
+Dialogue: 1,0:00:07.45,0:00:07.59,Cap,,0,0,0,,{\pos(540,1540)}my {\c&H0060ECCD}dad{\c&H00FFFFFF&} was like
+Dialogue: 1,0:00:07.59,0:00:07.71,Cap,,0,0,0,,{\pos(540,1540)}my dad {\c&H0060ECCD}was{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:07.71,0:00:07.97,Cap,,0,0,0,,{\pos(540,1540)}my dad was {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.97,0:00:08.05,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} never
+Dialogue: 1,0:00:08.05,0:00:08.25,Cap,,0,0,0,,{\pos(540,1540)}you're {\c&H0060ECCD}never{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.25,0:00:08.47,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to amount
+Dialogue: 1,0:00:08.47,0:00:08.57,Cap,,0,0,0,,{\pos(540,1540)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} amount
+Dialogue: 1,0:00:08.57,0:00:08.91,Cap,,0,0,0,,{\pos(540,1540)}going to {\c&H0060ECCD}amount{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.91,0:00:09.07,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}to{\c&H00FFFFFF&} nothing like I
+Dialogue: 1,0:00:09.07,0:00:09.37,Cap,,0,0,0,,{\pos(540,1540)}to {\c&H0060ECCD}nothing{\c&H00FFFFFF&} like I
+Dialogue: 1,0:00:09.37,0:00:09.75,Cap,,0,0,0,,{\pos(540,1540)}to nothing {\c&H0060ECCD}like{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:09.75,0:00:10.09,Cap,,0,0,0,,{\pos(540,1540)}to nothing like {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.09,0:00:10.31,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}said{\c&H00FFFFFF&} that just
+Dialogue: 1,0:00:10.31,0:00:10.49,Cap,,0,0,0,,{\pos(540,1540)}said {\c&H0060ECCD}that{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:10.49,0:00:10.71,Cap,,0,0,0,,{\pos(540,1540)}said that {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.71,0:00:11.17,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} what
+Dialogue: 1,0:00:11.17,0:00:11.29,Cap,,0,0,0,,{\pos(540,1540)}that's {\c&H0060ECCD}what{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.29,0:00:11.65,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}pushes{\c&H00FFFFFF&} me yeah
+Dialogue: 1,0:00:11.65,0:00:12.01,Cap,,0,0,0,,{\pos(540,1540)}pushes {\c&H0060ECCD}me{\c&H00FFFFFF&} yeah
+Dialogue: 1,0:00:12.01,0:00:12.23,Cap,,0,0,0,,{\pos(540,1540)}pushes me {\c&H0060ECCD}yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.23,0:00:12.67,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know I like
+Dialogue: 1,0:00:12.67,0:00:12.83,Cap,,0,0,0,,{\pos(540,1540)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} I like
+Dialogue: 1,0:00:12.83,0:00:13.25,Cap,,0,0,0,,{\pos(540,1540)}you know {\c&H0060ECCD}I{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:13.25,0:00:13.43,Cap,,0,0,0,,{\pos(540,1540)}you know I {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.43,0:00:13.65,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}to{\c&H00FFFFFF&} be I like
+Dialogue: 1,0:00:13.65,0:00:13.77,Cap,,0,0,0,,{\pos(540,1540)}to {\c&H0060ECCD}be{\c&H00FFFFFF&} I like
+Dialogue: 1,0:00:13.77,0:00:14.21,Cap,,0,0,0,,{\pos(540,1540)}to be {\c&H0060ECCD}I{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:14.21,0:00:14.43,Cap,,0,0,0,,{\pos(540,1540)}to be I {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.43,0:00:14.57,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}to{\c&H00FFFFFF&} be pushed you
+Dialogue: 1,0:00:14.57,0:00:14.73,Cap,,0,0,0,,{\pos(540,1540)}to {\c&H0060ECCD}be{\c&H00FFFFFF&} pushed you
+Dialogue: 1,0:00:14.73,0:00:15.15,Cap,,0,0,0,,{\pos(540,1540)}to be {\c&H0060ECCD}pushed{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:15.15,0:00:15.67,Cap,,0,0,0,,{\pos(540,1540)}to be pushed {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.67,0:00:15.75,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}know{\c&H00FFFFFF&} my dad my
+Dialogue: 1,0:00:15.75,0:00:15.97,Cap,,0,0,0,,{\pos(540,1540)}know {\c&H0060ECCD}my{\c&H00FFFFFF&} dad my
+Dialogue: 1,0:00:15.97,0:00:16.27,Cap,,0,0,0,,{\pos(540,1540)}know my {\c&H0060ECCD}dad{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:16.27,0:00:16.81,Cap,,0,0,0,,{\pos(540,1540)}know my dad {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.81,0:00:17.07,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}dad{\c&H00FFFFFF&} had like
+Dialogue: 1,0:00:17.07,0:00:17.31,Cap,,0,0,0,,{\pos(540,1540)}dad {\c&H0060ECCD}had{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:17.31,0:00:17.49,Cap,,0,0,0,,{\pos(540,1540)}dad had {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.49,0:00:17.75,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}three{\c&H00FFFFFF&} separate
+Dialogue: 1,0:00:17.75,0:00:18.17,Cap,,0,0,0,,{\pos(540,1540)}three {\c&H0060ECCD}separate{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.17,0:00:18.79,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}separate{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:18.79,0:00:19.55,Cap,,0,0,0,,{\pos(540,1540)}separate {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.55,0:00:19.89,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}companies{\c&H00FFFFFF&} that he
+Dialogue: 1,0:00:19.89,0:00:20.15,Cap,,0,0,0,,{\pos(540,1540)}companies {\c&H0060ECCD}that{\c&H00FFFFFF&} he
+Dialogue: 1,0:00:20.15,0:00:20.29,Cap,,0,0,0,,{\pos(540,1540)}companies that {\c&H0060ECCD}he{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.29,0:00:20.61,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}started{\c&H00FFFFFF&} he had
+Dialogue: 1,0:00:20.61,0:00:20.81,Cap,,0,0,0,,{\pos(540,1540)}started {\c&H0060ECCD}he{\c&H00FFFFFF&} had
+Dialogue: 1,0:00:20.81,0:00:20.97,Cap,,0,0,0,,{\pos(540,1540)}started he {\c&H0060ECCD}had{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.97,0:00:21.17,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}one{\c&H00FFFFFF&} with a
+Dialogue: 1,0:00:21.17,0:00:21.35,Cap,,0,0,0,,{\pos(540,1540)}one {\c&H0060ECCD}with{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:21.35,0:00:21.45,Cap,,0,0,0,,{\pos(540,1540)}one with {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.45,0:00:21.75,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}business{\c&H00FFFFFF&} partner
+Dialogue: 1,0:00:21.75,0:00:22.25,Cap,,0,0,0,,{\pos(540,1540)}business {\c&H0060ECCD}partner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.25,0:00:22.87,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}do{\c&H00FFFFFF&} not recommend
+Dialogue: 1,0:00:22.87,0:00:23.23,Cap,,0,0,0,,{\pos(540,1540)}do {\c&H0060ECCD}not{\c&H00FFFFFF&} recommend
+Dialogue: 1,0:00:23.23,0:00:23.69,Cap,,0,0,0,,{\pos(540,1540)}do not {\c&H0060ECCD}recommend{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.69,0:00:24.13,Cap,,0,0,0,,{\pos(540,1540)}{\c&H0060ECCD}business{\c&H00FFFFFF&} partners
+Dialogue: 1,0:00:24.13,0:00:24.71,Cap,,0,0,0,,{\pos(540,1540)}business {\c&H0060ECCD}partners{\c&H00FFFFFF&}
