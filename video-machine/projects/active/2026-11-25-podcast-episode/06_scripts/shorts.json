@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 14 clips from Bryer Manwell's guest episode (Bryer Manwell, CaulWell Engineering and Geoscience Ltd., Salmon Arm, British Columbia), take 160150 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced and Bryer's voice moved 86 ms earlier, in sync). keep = inclusive word-index ranges. Posting plan: release week 2026-12-30..2027-01-05, every clip to YouTube + TikTok, two a day at noon and 5 PM CT; the five strongest (treatment-nitrate, school-and-deep-wells, test-your-well, installer-skipped-recipe, five-pillars), all at noon on a weekday, also to Instagram and Facebook. {bryer} tags Bryer Manwell and {caulwell} CaulWell Engineering and Geoscience. Neither has an Instagram, TikTok, YouTube or Facebook account that a web search, Equip Training's instructor page or public directories show (caulwell.ca had an expired certificate and could not be read; Bryer says people reach her on LinkedIn, which Shorts never post to). The full episode ({episode}) is linked everywhere but Facebook. Dec 30 noon already has three Metricool posts (Jason Harris, TikTok, Instagram, Facebook), so this week starts at 3 PM and 7 PM CT that day.",
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Bryer Manwell's guest episode (Bryer Manwell, CaulWell Engineering and Geoscience Ltd., Salmon Arm, British Columbia), take 160150 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced and Bryer's voice moved 86 ms earlier, in sync). keep = inclusive word-index ranges. Posting plan: release week 2026-12-30..2027-01-05, every clip to YouTube + TikTok, two a day at noon and 5 PM CT; the five strongest (treatment-nitrate, school-and-deep-wells, test-your-well, installer-skipped-recipe, five-pillars), all at noon on a weekday, also to Instagram and Facebook. {bryer} tags Bryer Manwell and {caulwell} CaulWell Engineering and Geoscience. Neither has an Instagram, TikTok, YouTube or Facebook account that a web search, Equip Training's instructor page or public directories show (caulwell.ca had an expired certificate and could not be read; Bryer says people reach her on LinkedIn, which Shorts never post to). The full episode ({episode}) is linked everywhere but Facebook. Dec 30 noon already has three Metricool posts (Jason Harris, TikTok, Instagram, Facebook), so this week starts at 3 PM and 7 PM CT that day. {equip} Equip Training (equiptraining.ca) and {cotra} COTRA, the Canadian Onsite Technical Resource Association (onsitetechnicalresource.com): neither site links a social account and web searches found no Instagram, TikTok, YouTube or Facebook page for either (checked 2026-11-25, so there was no Facebook page to look up). None of the 14 clips talks about training or COTRA, so no caption names them. Bryer is on LinkedIn only (https://www.linkedin.com/in/bryer-manwell-19430838) and nothing posts there.",
  "fillers": true,
  "max_gap": 1.0,
  "guests": {
@@ -14,6 +14,24 @@
   },
   "caulwell": {
    "name": "CaulWell Engineering and Geoscience",
+   "no_account": [
+    "instagram",
+    "tiktok",
+    "youtube",
+    "facebook"
+   ]
+  },
+  "equip": {
+   "name": "Equip Training",
+   "no_account": [
+    "instagram",
+    "tiktok",
+    "youtube",
+    "facebook"
+   ]
+  },
+  "cotra": {
+   "name": "COTRA",
    "no_account": [
     "instagram",
     "tiktok",
