@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:35.98,Title,,0,0,0,,{\an5\pos(540,250)}The septic installer who\Nskipped my {\c&H0060ECCD}recipe{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} we went back
+Dialogue: 1,0:00:00.10,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}we{\c&H00FFFFFF&} went back
+Dialogue: 1,0:00:00.26,0:00:00.46,Cap,,0,0,0,,{\pos(540,1400)}so we {\c&H0060ECCD}went{\c&H00FFFFFF&} back
+Dialogue: 1,0:00:00.46,0:00:00.68,Cap,,0,0,0,,{\pos(540,1400)}so we went {\c&H0060ECCD}back{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.68,0:00:01.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} we took out
+Dialogue: 1,0:00:01.70,0:00:02.06,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}we{\c&H00FFFFFF&} took out
+Dialogue: 1,0:00:02.06,0:00:02.50,Cap,,0,0,0,,{\pos(540,1400)}in we {\c&H0060ECCD}took{\c&H00FFFFFF&} out
+Dialogue: 1,0:00:02.50,0:00:02.76,Cap,,0,0,0,,{\pos(540,1400)}in we took {\c&H0060ECCD}out{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.76,0:00:02.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} two first two
+Dialogue: 1,0:00:02.96,0:00:03.12,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}two{\c&H00FFFFFF&} first two
+Dialogue: 1,0:00:03.12,0:00:03.40,Cap,,0,0,0,,{\pos(540,1400)}the two {\c&H0060ECCD}first{\c&H00FFFFFF&} two
+Dialogue: 1,0:00:03.40,0:00:03.60,Cap,,0,0,0,,{\pos(540,1400)}the two first {\c&H0060ECCD}two{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.60,0:00:04.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}cells{\c&H00FFFFFF&} and lined
+Dialogue: 1,0:00:04.00,0:00:04.32,Cap,,0,0,0,,{\pos(540,1400)}cells {\c&H0060ECCD}and{\c&H00FFFFFF&} lined
+Dialogue: 1,0:00:04.32,0:00:04.62,Cap,,0,0,0,,{\pos(540,1400)}cells and {\c&H0060ECCD}lined{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.62,0:00:05.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it{\c&H00FFFFFF&} and then the
+Dialogue: 1,0:00:05.58,0:00:05.94,Cap,,0,0,0,,{\pos(540,1400)}it {\c&H0060ECCD}and{\c&H00FFFFFF&} then the
+Dialogue: 1,0:00:05.94,0:00:06.68,Cap,,0,0,0,,{\pos(540,1400)}it and {\c&H0060ECCD}then{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:06.68,0:00:06.96,Cap,,0,0,0,,{\pos(540,1400)}it and then {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.96,0:00:07.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installer{\c&H00FFFFFF&} didn't
+Dialogue: 1,0:00:07.50,0:00:08.16,Cap,,0,0,0,,{\pos(540,1400)}installer {\c&H0060ECCD}didn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.16,0:00:08.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}use{\c&H00FFFFFF&} my recipe but
+Dialogue: 1,0:00:08.44,0:00:08.60,Cap,,0,0,0,,{\pos(540,1400)}use {\c&H0060ECCD}my{\c&H00FFFFFF&} recipe but
+Dialogue: 1,0:00:08.60,0:00:09.00,Cap,,0,0,0,,{\pos(540,1400)}use my {\c&H0060ECCD}recipe{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:09.00,0:00:09.54,Cap,,0,0,0,,{\pos(540,1400)}use my recipe {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.54,0:00:09.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} think just
+Dialogue: 1,0:00:09.68,0:00:09.82,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}think{\c&H00FFFFFF&} just
+Dialogue: 1,0:00:09.82,0:00:10.04,Cap,,0,0,0,,{\pos(540,1400)}I think {\c&H0060ECCD}just{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.04,0:00:11.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}installed{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.10,0:00:11.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}primarily{\c&H00FFFFFF&} sand
+Dialogue: 1,0:00:11.82,0:00:12.30,Cap,,0,0,0,,{\pos(540,1400)}primarily {\c&H0060ECCD}sand{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.30,0:00:12.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} gravel and so
+Dialogue: 1,0:00:12.94,0:00:13.28,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}gravel{\c&H00FFFFFF&} and so
+Dialogue: 1,0:00:13.28,0:00:14.22,Cap,,0,0,0,,{\pos(540,1400)}and gravel {\c&H0060ECCD}and{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:14.22,0:00:14.50,Cap,,0,0,0,,{\pos(540,1400)}and gravel and {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.50,0:00:14.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} sampling this
+Dialogue: 1,0:00:14.68,0:00:15.12,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}sampling{\c&H00FFFFFF&} this
+Dialogue: 1,0:00:15.12,0:00:15.48,Cap,,0,0,0,,{\pos(540,1400)}my sampling {\c&H0060ECCD}this{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.48,0:00:15.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}year{\c&H00FFFFFF&} showed that
+Dialogue: 1,0:00:15.82,0:00:16.62,Cap,,0,0,0,,{\pos(540,1400)}year {\c&H0060ECCD}showed{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:16.62,0:00:17.02,Cap,,0,0,0,,{\pos(540,1400)}year showed {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.02,0:00:17.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} I'm not getting
+Dialogue: 1,0:00:17.58,0:00:18.02,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}I'm{\c&H00FFFFFF&} not getting
+Dialogue: 1,0:00:18.02,0:00:18.14,Cap,,0,0,0,,{\pos(540,1400)}I I'm {\c&H0060ECCD}not{\c&H00FFFFFF&} getting
+Dialogue: 1,0:00:18.14,0:00:18.40,Cap,,0,0,0,,{\pos(540,1400)}I I'm not {\c&H0060ECCD}getting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.40,0:00:18.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}any{\c&H00FFFFFF&} treatment
+Dialogue: 1,0:00:18.70,0:00:19.18,Cap,,0,0,0,,{\pos(540,1400)}any {\c&H0060ECCD}treatment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.18,0:00:19.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}unless{\c&H00FFFFFF&} in that
+Dialogue: 1,0:00:19.73,0:00:20.01,Cap,,0,0,0,,{\pos(540,1400)}unless {\c&H0060ECCD}in{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:20.01,0:00:20.08,Cap,,0,0,0,,{\pos(540,1400)}unless in {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.08,0:00:21.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}zero{\c&H00FFFFFF&} like like so
+Dialogue: 1,0:00:21.32,0:00:21.74,Cap,,0,0,0,,{\pos(540,1400)}zero {\c&H0060ECCD}like{\c&H00FFFFFF&} like so
+Dialogue: 1,0:00:21.74,0:00:21.98,Cap,,0,0,0,,{\pos(540,1400)}zero like {\c&H0060ECCD}like{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:21.98,0:00:22.46,Cap,,0,0,0,,{\pos(540,1400)}zero like like {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.46,0:00:22.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} come out I
+Dialogue: 1,0:00:22.58,0:00:22.80,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}come{\c&H00FFFFFF&} out I
+Dialogue: 1,0:00:22.80,0:00:23.00,Cap,,0,0,0,,{\pos(540,1400)}I come {\c&H0060ECCD}out{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:23.00,0:00:23.16,Cap,,0,0,0,,{\pos(540,1400)}I come out {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.16,0:00:23.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}come{\c&H00FFFFFF&} out of my
+Dialogue: 1,0:00:23.32,0:00:23.46,Cap,,0,0,0,,{\pos(540,1400)}come {\c&H0060ECCD}out{\c&H00FFFFFF&} of my
+Dialogue: 1,0:00:23.46,0:00:23.56,Cap,,0,0,0,,{\pos(540,1400)}come out {\c&H0060ECCD}of{\c&H00FFFFFF&} my
+Dialogue: 1,0:00:23.56,0:00:23.68,Cap,,0,0,0,,{\pos(540,1400)}come out of {\c&H0060ECCD}my{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.68,0:00:24.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}atu{\c&H00FFFFFF&} at 35
+Dialogue: 1,0:00:24.26,0:00:24.54,Cap,,0,0,0,,{\pos(540,1400)}atu {\c&H0060ECCD}at{\c&H00FFFFFF&} 35
+Dialogue: 1,0:00:24.54,0:00:24.84,Cap,,0,0,0,,{\pos(540,1400)}atu at {\c&H0060ECCD}35{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.84,0:00:25.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}milligrams{\c&H00FFFFFF&} per
+Dialogue: 1,0:00:25.16,0:00:25.44,Cap,,0,0,0,,{\pos(540,1400)}milligrams {\c&H0060ECCD}per{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.44,0:00:25.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}liter{\c&H00FFFFFF&} I go
+Dialogue: 1,0:00:25.66,0:00:25.98,Cap,,0,0,0,,{\pos(540,1400)}liter {\c&H0060ECCD}I{\c&H00FFFFFF&} go
+Dialogue: 1,0:00:25.98,0:00:26.14,Cap,,0,0,0,,{\pos(540,1400)}liter I {\c&H0060ECCD}go{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.14,0:00:26.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}through{\c&H00FFFFFF&} my you
+Dialogue: 1,0:00:26.32,0:00:26.56,Cap,,0,0,0,,{\pos(540,1400)}through {\c&H0060ECCD}my{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:26.56,0:00:26.86,Cap,,0,0,0,,{\pos(540,1400)}through my {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.86,0:00:26.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} my my now
+Dialogue: 1,0:00:26.94,0:00:27.18,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}my{\c&H00FFFFFF&} my now
+Dialogue: 1,0:00:27.18,0:00:27.80,Cap,,0,0,0,,{\pos(540,1400)}know my {\c&H0060ECCD}my{\c&H00FFFFFF&} now
+Dialogue: 1,0:00:27.80,0:00:28.62,Cap,,0,0,0,,{\pos(540,1400)}know my my {\c&H0060ECCD}now{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.62,0:00:28.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lined{\c&H00FFFFFF&} excuse me
+Dialogue: 1,0:00:28.90,0:00:29.98,Cap,,0,0,0,,{\pos(540,1400)}lined {\c&H0060ECCD}excuse{\c&H00FFFFFF&} me
+Dialogue: 1,0:00:29.98,0:00:30.16,Cap,,0,0,0,,{\pos(540,1400)}lined excuse {\c&H0060ECCD}me{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.16,0:00:30.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}cell{\c&H00FFFFFF&} number one
+Dialogue: 1,0:00:30.36,0:00:30.58,Cap,,0,0,0,,{\pos(540,1400)}cell {\c&H0060ECCD}number{\c&H00FFFFFF&} one
+Dialogue: 1,0:00:30.58,0:00:30.76,Cap,,0,0,0,,{\pos(540,1400)}cell number {\c&H0060ECCD}one{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.76,0:00:30.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} number two
+Dialogue: 1,0:00:30.88,0:00:31.04,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}number{\c&H00FFFFFF&} two
+Dialogue: 1,0:00:31.04,0:00:31.42,Cap,,0,0,0,,{\pos(540,1400)}and number {\c&H0060ECCD}two{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.42,0:00:31.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} then I I
+Dialogue: 1,0:00:31.86,0:00:32.04,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}then{\c&H00FFFFFF&} I I
+Dialogue: 1,0:00:32.04,0:00:32.18,Cap,,0,0,0,,{\pos(540,1400)}and then {\c&H0060ECCD}I{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:32.18,0:00:32.54,Cap,,0,0,0,,{\pos(540,1400)}and then I {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.54,0:00:32.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wrap{\c&H00FFFFFF&} down and I
+Dialogue: 1,0:00:32.94,0:00:33.22,Cap,,0,0,0,,{\pos(540,1400)}wrap {\c&H0060ECCD}down{\c&H00FFFFFF&} and I
+Dialogue: 1,0:00:33.22,0:00:33.46,Cap,,0,0,0,,{\pos(540,1400)}wrap down {\c&H0060ECCD}and{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:33.46,0:00:33.56,Cap,,0,0,0,,{\pos(540,1400)}wrap down and {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.56,0:00:33.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}actually{\c&H00FFFFFF&} am not
+Dialogue: 1,0:00:33.96,0:00:34.14,Cap,,0,0,0,,{\pos(540,1400)}actually {\c&H0060ECCD}am{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:34.14,0:00:34.34,Cap,,0,0,0,,{\pos(540,1400)}actually am {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.34,0:00:34.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}getting{\c&H00FFFFFF&} treatment
+Dialogue: 1,0:00:34.58,0:00:34.92,Cap,,0,0,0,,{\pos(540,1400)}getting {\c&H0060ECCD}treatment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.92,0:00:35.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}until{\c&H00FFFFFF&} cell number
+Dialogue: 1,0:00:35.18,0:00:35.40,Cap,,0,0,0,,{\pos(540,1400)}until {\c&H0060ECCD}cell{\c&H00FFFFFF&} number
+Dialogue: 1,0:00:35.40,0:00:35.60,Cap,,0,0,0,,{\pos(540,1400)}until cell {\c&H0060ECCD}number{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.60,0:00:36.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}six{\c&H00FFFFFF&}

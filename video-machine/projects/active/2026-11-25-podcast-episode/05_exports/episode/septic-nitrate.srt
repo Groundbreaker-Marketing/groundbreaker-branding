@@ -1,0 +1,6735 @@
+1
+00:00:00,000 --> 00:00:01,210
+Hey everyone and welcome to the
+
+2
+00:00:01,210 --> 00:00:02,550
+#2 Septic Podcast
+
+3
+00:00:02,550 --> 00:00:04,820
+Today we have Bryer Manwell on
+
+4
+00:00:04,830 --> 00:00:06,750
+She is an environmental engineer and
+
+5
+00:00:06,750 --> 00:00:07,710
+geoscientist
+
+6
+00:00:07,710 --> 00:00:10,150
+So be prepared to leave this podcast
+
+7
+00:00:10,150 --> 00:00:11,890
+We're all going to be smarter and
+
+8
+00:00:11,890 --> 00:00:13,550
+we're going to have a greater passion
+
+9
+00:00:13,550 --> 00:00:16,290
+for the environment and how what each
+
+10
+00:00:16,290 --> 00:00:18,900
+one of us does affects each other
+
+11
+00:00:18,930 --> 00:00:20,760
+So Bryer welcome to the podcast
+
+12
+00:00:20,790 --> 00:00:21,840
+So glad to have you on
+
+13
+00:00:22,064 --> 00:00:22,764
+Thanks for having me
+
+14
+00:00:22,764 --> 00:00:23,134
+Ashley
+
+15
+00:00:24,010 --> 00:00:25,530
+So why don't you start by just
+
+16
+00:00:25,530 --> 00:00:27,640
+telling us who you are
+
+17
+00:00:27,690 --> 00:00:28,570
+what you do
+
+18
+00:00:28,570 --> 00:00:29,720
+what your business is?
+
+19
+00:00:29,924 --> 00:00:30,554
+Right
+
+20
+00:00:30,824 --> 00:00:31,454
+Yeah
+
+21
+00:00:31,504 --> 00:00:33,024
+So I think you introduced it well
+
+22
+00:00:33,024 --> 00:00:34,284
+I have a master's degree in
+
+23
+00:00:34,284 --> 00:00:36,584
+environmental engineering and I've
+
+24
+00:00:36,584 --> 00:00:38,784
+I specialized in or specialize in
+
+25
+00:00:38,784 --> 00:00:41,294
+hydrogeology and geoscience
+
+26
+00:00:41,544 --> 00:00:43,864
+So as I was mentioning to you
+
+27
+00:00:43,864 --> 00:00:46,604
+but when we were speaking here off
+
+28
+00:00:46,604 --> 00:00:48,824
+off recording I
+
+29
+00:00:48,824 --> 00:00:51,704
+I focus primarily in three different
+
+30
+00:00:51,704 --> 00:00:52,024
+areas
+
+31
+00:00:52,024 --> 00:00:54,274
+I do groundwater supply development
+
+32
+00:00:54,344 --> 00:00:56,934
+I do contaminant hydrogeology
+
+33
+00:00:57,184 --> 00:01:00,294
+And then I do wastewater design
+
+34
+00:01:00,644 --> 00:01:04,534
+So it actually covers quite a bit
+
+35
+00:01:04,824 --> 00:01:07,724
+But my area of focus is risk
+
+36
+00:01:07,724 --> 00:01:10,124
+assessment with respect to groundwater
+
+37
+00:01:10,124 --> 00:01:10,894
+resources
+
+38
+00:01:12,730 --> 00:01:14,650
+Yeah that does cover a lot of
+
+39
+00:01:14,650 --> 00:01:15,724
+ground for sure
+
+40
+00:01:15,724 --> 00:01:19,380
+And so you have a consulting business
+
+41
+00:01:19,530 --> 00:01:20,910
+correct that you do all this and
+
+42
+00:01:20,910 --> 00:01:22,120
+you consult with
+
+43
+00:01:22,250 --> 00:01:23,250
+you do the design
+
+44
+00:01:23,250 --> 00:01:24,410
+but then you also consult with
+
+45
+00:01:24,410 --> 00:01:26,670
+regulators and kind of tell us how
+
+46
+00:01:26,670 --> 00:01:28,730
+you're connected in the industry and
+
+47
+00:01:28,730 --> 00:01:29,444
+who you work with
+
+48
+00:01:29,444 --> 00:01:30,474
+Sure
+
+49
+00:01:30,664 --> 00:01:32,244
+So I support the on -site wastewater
+
+50
+00:01:32,244 --> 00:01:34,884
+industry with respect to risk
+
+51
+00:01:34,884 --> 00:01:37,464
+assessment to groundwater and surface
+
+52
+00:01:37,464 --> 00:01:38,244
+water resources
+
+53
+00:01:38,244 --> 00:01:39,834
+We call it the receiving environment
+
+54
+00:01:40,184 --> 00:01:43,964
+So I get involved in design
+
+55
+00:01:43,964 --> 00:01:47,404
+but also in hydrogeologic support
+
+56
+00:01:47,404 --> 00:01:49,434
+So even if there are other designers
+
+57
+00:01:49,784 --> 00:01:51,964
+I'll get involved when there are
+
+58
+00:01:51,964 --> 00:01:54,104
+groundwater wells or surface waters
+
+59
+00:01:54,104 --> 00:01:54,754
+nearby
+
+60
+00:01:55,024 --> 00:01:57,454
+So I'm based here in British Columbia
+
+61
+00:01:57,704 --> 00:02:01,904
+Canada and we have regulation that
+
+62
+00:02:01,904 --> 00:02:04,484
+specifies that septic systems are not
+
+63
+00:02:04,484 --> 00:02:06,374
+to be installed within a 30 meter
+
+64
+00:02:06,384 --> 00:02:09,204
+That's about 100 feet setback of
+
+65
+00:02:09,204 --> 00:02:11,044
+surface waters or wells
+
+66
+00:02:11,044 --> 00:02:14,904
+And so when we have old properties
+
+67
+00:02:14,904 --> 00:02:16,884
+that are that tend to be limited
+
+68
+00:02:16,884 --> 00:02:19,614
+in area then I get involved
+
+69
+00:02:19,684 --> 00:02:21,964
+So I don't typically get to do
+
+70
+00:02:21,964 --> 00:02:24,694
+regular type one gravity fed systems
+
+71
+00:02:24,904 --> 00:02:27,324
+I I get called when things are
+
+72
+00:02:27,324 --> 00:02:28,034
+complicated
+
+73
+00:02:28,424 --> 00:02:29,644
+And so that's
+
+74
+00:02:29,644 --> 00:02:31,224
+that's my role or how I support
+
+75
+00:02:31,224 --> 00:02:33,134
+the onsite wastewater industry
+
+76
+00:02:33,544 --> 00:02:35,224
+And and I think
+
+77
+00:02:35,224 --> 00:02:36,704
+as I was mentioning before we started
+
+78
+00:02:36,704 --> 00:02:37,934
+recording this I really
+
+79
+00:02:38,064 --> 00:02:39,344
+I really enjoy working with people in
+
+80
+00:02:39,344 --> 00:02:39,884
+this industry
+
+81
+00:02:39,884 --> 00:02:42,464
+I like boots on the ground I
+
+82
+00:02:42,464 --> 00:02:45,504
+like supporting uh people that are are
+
+83
+00:02:45,504 --> 00:02:47,524
+um yeah just getting the job done
+
+84
+00:02:47,524 --> 00:02:49,144
+and you know need some help with
+
+85
+00:02:49,144 --> 00:02:50,824
+respect to risk assessment with
+
+86
+00:02:50,824 --> 00:02:52,344
+respect to groundwater and surface
+
+87
+00:02:52,344 --> 00:02:54,870
+water bodies yeah and it's we talked
+
+88
+00:02:54,870 --> 00:02:56,570
+about this before but it's a very
+
+89
+00:02:56,570 --> 00:02:58,610
+genuine group of people the on -site
+
+90
+00:02:58,610 --> 00:03:01,070
+industry I think there's sort of this
+
+91
+00:03:01,070 --> 00:03:02,830
+perception that they have from
+
+92
+00:03:02,830 --> 00:03:04,390
+everyone around them that what they do
+
+93
+00:03:04,390 --> 00:03:06,350
+is like sort of gross and a
+
+94
+00:03:06,350 --> 00:03:08,370
+dirty job and so I think it
+
+95
+00:03:08,370 --> 00:03:09,850
+just brings about this sort of down
+
+96
+00:03:09,850 --> 00:03:11,840
+-to -earth humility
+
+97
+00:03:12,150 --> 00:03:13,810
+hard works sort of these like
+
+98
+00:03:13,810 --> 00:03:15,190
+character qualities that I think we
+
+99
+00:03:15,190 --> 00:03:17,190
+both have seen in the onsite industry
+
+100
+00:03:17,190 --> 00:03:18,310
+that just makes them a joy to
+
+101
+00:03:18,310 --> 00:03:18,920
+work with
+
+102
+00:03:19,464 --> 00:03:20,984
+Yeah and I look at it from
+
+103
+00:03:20,984 --> 00:03:22,624
+the perspective of the potential risk
+
+104
+00:03:22,624 --> 00:03:24,574
+of onsite and what it
+
+105
+00:03:24,764 --> 00:03:26,484
+you know the risk that it can
+
+106
+00:03:26,484 --> 00:03:29,664
+bring to groundwater resources and
+
+107
+00:03:29,664 --> 00:03:31,224
+that you know
+
+108
+00:03:31,224 --> 00:03:32,084
+my you know
+
+109
+00:03:32,084 --> 00:03:34,394
+I see it as our ability to
+
+110
+00:03:34,404 --> 00:03:35,944
+you know and I like now
+
+111
+00:03:35,944 --> 00:03:37,104
+I like that they call it recycling
+
+112
+00:03:37,104 --> 00:03:39,464
+right um as opposed to seeing
+
+113
+00:03:39,464 --> 00:03:41,364
+something as waste or or a potential
+
+114
+00:03:41,364 --> 00:03:44,264
+contaminant uh see it as a you
+
+115
+00:03:44,264 --> 00:03:47,024
+know um beneficial reuse uh of a
+
+116
+00:03:47,024 --> 00:03:49,284
+resource and so um yeah I've never
+
+117
+00:03:49,284 --> 00:03:50,404
+I I know I get you know
+
+118
+00:03:50,404 --> 00:03:51,804
+I get made fun of or whatever
+
+119
+00:03:51,804 --> 00:03:54,604
+for focusing on uh on site but
+
+120
+00:03:54,604 --> 00:03:58,004
+um you know whatever it like I
+
+121
+00:03:58,004 --> 00:03:59,304
+think it's some of the most important
+
+122
+00:03:59,304 --> 00:04:01,184
+work that we do uh I think
+
+123
+00:04:01,184 --> 00:04:04,164
+uh wastewater yeah wastewater industry
+
+124
+00:04:04,164 --> 00:04:05,844
+is is really critical to environmental
+
+125
+00:04:05,844 --> 00:04:08,164
+protection and doing it right is
+
+126
+00:04:08,164 --> 00:04:09,654
+is is quite critical
+
+127
+00:04:10,424 --> 00:04:11,174
+Yeah
+
+128
+00:04:11,224 --> 00:04:11,424
+Yeah
+
+129
+00:04:11,424 --> 00:04:12,764
+So that's that's sort of where I'm
+
+130
+00:04:12,764 --> 00:04:13,134
+at
+
+131
+00:04:14,384 --> 00:04:16,204
+I I work for everybody
+
+132
+00:04:16,204 --> 00:04:16,924
+As I mentioned
+
+133
+00:04:16,924 --> 00:04:19,024
+I work for homeowners
+
+134
+00:04:19,024 --> 00:04:20,224
+I work for
+
+135
+00:04:20,224 --> 00:04:24,134
+I get brought in by other designers
+
+136
+00:04:24,244 --> 00:04:24,864
+installers
+
+137
+00:04:24,864 --> 00:04:28,244
+I get I get commandeered by the
+
+138
+00:04:28,244 --> 00:04:31,584
+regulators themselves to consult to um
+
+139
+00:04:31,584 --> 00:04:33,584
+regional governments provincial
+
+140
+00:04:33,584 --> 00:04:34,970
+governments and federal government
+
+141
+00:04:34,970 --> 00:04:37,210
+yeah that's really neat you really get
+
+142
+00:04:37,210 --> 00:04:39,470
+to kind of be this little this
+
+143
+00:04:39,470 --> 00:04:40,970
+piece of glue that can kind of
+
+144
+00:04:40,970 --> 00:04:42,750
+just connect interconnect everybody
+
+145
+00:04:42,750 --> 00:04:44,810
+which is it gives you a lot
+
+146
+00:04:44,810 --> 00:04:47,750
+of ability to make real change when
+
+147
+00:04:47,750 --> 00:04:49,370
+you're able to to speak to people
+
+148
+00:04:49,370 --> 00:04:52,090
+at all these different levels so where
+
+149
+00:04:52,090 --> 00:04:55,090
+you're at in british columbia there's
+
+150
+00:04:55,090 --> 00:04:57,550
+some algae blooms I understand that
+
+151
+00:04:57,550 --> 00:04:59,710
+have been a problem so talk to
+
+152
+00:04:59,710 --> 00:05:01,570
+us about some of the specific issues
+
+153
+00:05:01,570 --> 00:05:04,590
+that you've had um with those in
+
+154
+00:05:04,590 --> 00:05:06,470
+your area and what are you seeing
+
+155
+00:05:06,470 --> 00:05:08,790
+how do you trace that back to
+
+156
+00:05:08,790 --> 00:05:10,490
+a septic system and know that it's
+
+157
+00:05:10,490 --> 00:05:13,964
+coming from a septic system yeah so
+
+158
+00:05:13,964 --> 00:05:15,724
+I'll just I will step back and
+
+159
+00:05:15,724 --> 00:05:18,144
+explain that I've um I did my
+
+160
+00:05:18,144 --> 00:05:20,304
+master's thesis on ground and surface
+
+161
+00:05:20,304 --> 00:05:22,764
+water interaction uh and the effects
+
+162
+00:05:22,764 --> 00:05:25,544
+of on -site wastewater into a drinking
+
+163
+00:05:25,544 --> 00:05:27,644
+water supply for a very large uh
+
+164
+00:05:27,644 --> 00:05:29,584
+well the city of calgary so a
+
+165
+00:05:29,584 --> 00:05:32,384
+large municipality uh they were there
+
+166
+00:05:32,384 --> 00:05:34,044
+was concern the regulators were really
+
+167
+00:05:34,044 --> 00:05:36,844
+concerned about uh onsite's impact on
+
+168
+00:05:36,844 --> 00:05:38,524
+the elbow river uh as a water
+
+169
+00:05:38,524 --> 00:05:42,024
+supply for this um large city uh
+
+170
+00:05:42,024 --> 00:05:44,604
+so I've been involved in this for
+
+171
+00:05:44,604 --> 00:05:47,584
+well over 25 years uh assessing the
+
+172
+00:05:47,584 --> 00:05:49,704
+the risk of of operating onsite
+
+173
+00:05:49,704 --> 00:05:52,564
+wastewater systems uh and the effects
+
+174
+00:05:52,564 --> 00:05:54,084
+they have on on drinking water
+
+175
+00:05:54,084 --> 00:05:57,784
+supplies um so in that context um
+
+176
+00:05:57,784 --> 00:06:00,124
+I studied that system for about five
+
+177
+00:06:00,124 --> 00:06:02,224
+years uh had a had a baby
+
+178
+00:06:02,224 --> 00:06:04,764
+in the process and uh and uh
+
+179
+00:06:04,764 --> 00:06:06,504
+was was uh ready to have another
+
+180
+00:06:06,504 --> 00:06:08,624
+one um when I defended my thesis
+
+181
+00:06:08,624 --> 00:06:11,124
+um but that was it was a
+
+182
+00:06:11,124 --> 00:06:13,144
+that was that really got me involved
+
+183
+00:06:13,144 --> 00:06:15,164
+and and has kept me involved uh
+
+184
+00:06:15,164 --> 00:06:16,984
+in in the effects of on -site
+
+185
+00:06:16,984 --> 00:06:20,204
+uh so it's density is a big
+
+186
+00:06:20,204 --> 00:06:22,884
+factor uh with respect to those you
+
+187
+00:06:22,884 --> 00:06:24,584
+know the reference to algal blooms
+
+188
+00:06:24,584 --> 00:06:26,564
+that relates back to nitrate
+
+189
+00:06:26,564 --> 00:06:30,284
+contamination which is or can be a
+
+190
+00:06:30,284 --> 00:06:32,364
+really big problem from a lot of
+
+191
+00:06:32,364 --> 00:06:34,484
+different sources a lot of different
+
+192
+00:06:34,484 --> 00:06:36,224
+land uses but septic is one of
+
+193
+00:06:36,224 --> 00:06:36,574
+them
+
+194
+00:06:37,204 --> 00:06:39,644
+Agriculture also can be a huge
+
+195
+00:06:39,644 --> 00:06:41,384
+contributing factor to nutrient
+
+196
+00:06:41,384 --> 00:06:43,484
+loading into the receiving
+
+197
+00:06:43,484 --> 00:06:45,624
+environment and that looks like
+
+198
+00:06:45,624 --> 00:06:47,374
+phosphorus but nitrogen
+
+199
+00:06:47,444 --> 00:06:49,164
+and nitrogen in the form of nitrate
+
+200
+00:06:49,164 --> 00:06:51,864
+um the issues that we find are
+
+201
+00:06:51,864 --> 00:06:54,744
+that uh once the once a plume
+
+202
+00:06:54,744 --> 00:06:58,104
+from a septic system or many uh
+
+203
+00:06:58,104 --> 00:07:00,024
+enter into the groundwater system
+
+204
+00:07:00,024 --> 00:07:02,224
+their highly nitrate is highly mobile
+
+205
+00:07:02,224 --> 00:07:04,344
+uh and there is very little renovation
+
+206
+00:07:04,344 --> 00:07:06,584
+after that so I've actually tracked
+
+207
+00:07:06,584 --> 00:07:09,584
+septic plumes uh over five kilometers
+
+208
+00:07:09,584 --> 00:07:12,544
+uh in in an alluvial system yeah
+
+209
+00:07:12,544 --> 00:07:15,504
+um so that you know that's therein
+
+210
+00:07:15,504 --> 00:07:18,004
+lies the the um the concern that
+
+211
+00:07:18,004 --> 00:07:19,644
+we can have so a couple of
+
+212
+00:07:19,644 --> 00:07:21,504
+systems here there and everywhere are
+
+213
+00:07:21,504 --> 00:07:23,384
+spread out uh can even in a
+
+214
+00:07:23,384 --> 00:07:25,444
+sensitive environment uh can be okay
+
+215
+00:07:25,444 --> 00:07:27,624
+but as we increase that population
+
+216
+00:07:27,624 --> 00:07:29,744
+density or the density of on -site
+
+217
+00:07:29,744 --> 00:07:33,044
+uh and in a sensitive environment that
+
+218
+00:07:33,044 --> 00:07:34,684
+being an environment where we have
+
+219
+00:07:34,684 --> 00:07:37,164
+high groundwater table uh close
+
+220
+00:07:37,164 --> 00:07:39,224
+proximity to wells and surface water
+
+221
+00:07:39,224 --> 00:07:41,184
+bodies that's where we increase the
+
+222
+00:07:41,184 --> 00:07:43,704
+risk uh or the the risk of
+
+223
+00:07:43,704 --> 00:07:46,304
+nutrient loading into surface water
+
+224
+00:07:46,304 --> 00:07:47,784
+bodies and then those algal blooms
+
+225
+00:07:47,784 --> 00:07:50,284
+that we've spoken about or that we've
+
+226
+00:07:50,284 --> 00:07:52,004
+identified in many different
+
+227
+00:07:52,004 --> 00:07:52,594
+locations
+
+228
+00:07:52,684 --> 00:07:54,164
+Now Canada you know
+
+229
+00:07:54,164 --> 00:07:56,424
+our population density is an order of
+
+230
+00:07:56,424 --> 00:07:57,724
+magnitude lower than the United
+
+231
+00:07:57,724 --> 00:07:58,394
+States
+
+232
+00:07:58,424 --> 00:08:00,524
+So you guys on the West or
+
+233
+00:08:00,524 --> 00:08:02,124
+on your East Coast have done a
+
+234
+00:08:02,124 --> 00:08:04,384
+lot of work with respect to nitrate
+
+235
+00:08:04,384 --> 00:08:06,354
+loading into surface water bodies
+
+236
+00:08:06,844 --> 00:08:10,144
+Long Island has been an area of
+
+237
+00:08:10,144 --> 00:08:11,744
+focus for you where there's been a
+
+238
+00:08:11,744 --> 00:08:14,504
+lot of work done in understanding the
+
+239
+00:08:14,504 --> 00:08:17,724
+technology and how to treat at the
+
+240
+00:08:17,724 --> 00:08:20,584
+source and reduce loading of nitrate
+
+241
+00:08:20,584 --> 00:08:22,114
+into those surface water bodies
+
+242
+00:08:23,224 --> 00:08:26,734
+Out here about 10 years ago
+
+243
+00:08:26,784 --> 00:08:29,164
+I was again supporting or doing risk
+
+244
+00:08:29,164 --> 00:08:30,564
+assessment for on -site wastewater
+
+245
+00:08:30,564 --> 00:08:33,684
+systems in BC and found that even
+
+246
+00:08:33,684 --> 00:08:35,024
+though we were going to higher levels
+
+247
+00:08:35,024 --> 00:08:35,694
+of treatment
+
+248
+00:08:35,924 --> 00:08:38,994
+So we were treating BOD
+
+249
+00:08:39,024 --> 00:08:42,764
+TSS we were actually creating more
+
+250
+00:08:42,764 --> 00:08:45,054
+intense nitrate plumes
+
+251
+00:08:45,104 --> 00:08:47,724
+So it's an interesting balance between
+
+252
+00:08:47,724 --> 00:08:50,504
+what we consider success in the
+
+253
+00:08:50,504 --> 00:08:52,804
+advanced treatment unit versus what we
+
+254
+00:08:52,804 --> 00:08:55,094
+see as happening in the environment
+
+255
+00:08:55,984 --> 00:08:57,894
+Yeah yeah it is
+
+256
+00:08:58,004 --> 00:09:03,184
+And your your questions about nitrate
+
+257
+00:09:03,184 --> 00:09:05,114
+and the significance of it
+
+258
+00:09:05,264 --> 00:09:08,244
+really that relates back to aquatic
+
+259
+00:09:08,244 --> 00:09:12,304
+waters and how nitrogen moves into the
+
+260
+00:09:12,304 --> 00:09:14,024
+receiving environment both into
+
+261
+00:09:14,024 --> 00:09:16,904
+wells which can affect health
+
+262
+00:09:16,904 --> 00:09:19,784
+as well as surface water bodies
+
+263
+00:09:19,784 --> 00:09:22,424
+and at much lower concentrations can
+
+264
+00:09:22,424 --> 00:09:25,314
+affect the aquatic life
+
+265
+00:09:25,704 --> 00:09:27,054
+And then also
+
+266
+00:09:27,144 --> 00:09:29,044
+you know with respect to surface
+
+267
+00:09:29,044 --> 00:09:31,144
+waters being drinking water sources
+
+268
+00:09:31,144 --> 00:09:33,334
+and algal blooms within those sources
+
+269
+00:09:33,424 --> 00:09:35,184
+So yeah that's
+
+270
+00:09:35,184 --> 00:09:36,244
+that's you know
+
+271
+00:09:36,244 --> 00:09:38,684
+where I sort of developed into this
+
+272
+00:09:38,684 --> 00:09:40,144
+idea of using permeable reactive
+
+273
+00:09:40,144 --> 00:09:42,824
+barriers or passive in ground
+
+274
+00:09:42,824 --> 00:09:45,434
+treatment to manage nitrate
+
+275
+00:09:45,464 --> 00:09:47,404
+So I've looked at it as or
+
+276
+00:09:47,404 --> 00:09:49,064
+generally looked at it as supplemental
+
+277
+00:09:49,064 --> 00:09:50,974
+to an advanced treatment unit
+
+278
+00:09:51,504 --> 00:09:52,704
+Um so yeah
+
+279
+00:09:52,704 --> 00:09:54,264
+so we we have a system
+
+280
+00:09:54,264 --> 00:09:55,724
+there's an advanced treatment unit
+
+281
+00:09:55,724 --> 00:09:56,754
+we end up with
+
+282
+00:09:56,804 --> 00:09:57,734
+you know decent
+
+283
+00:09:57,764 --> 00:10:00,604
+uh or acceptable effluent quality
+
+284
+00:10:00,604 --> 00:10:02,614
+with respect to BOD and TSS
+
+285
+00:10:03,024 --> 00:10:05,314
+Um however and I
+
+286
+00:10:05,364 --> 00:10:06,784
+you know with respect to the
+
+287
+00:10:06,784 --> 00:10:10,984
+the um NSF 245 standard of 50
+
+288
+00:10:10,984 --> 00:10:12,604
+% reduction if we come in at
+
+289
+00:10:12,604 --> 00:10:15,244
+75 milligrams per liter of
+
+290
+00:10:15,244 --> 00:10:17,784
+of nitrate and we end up coming
+
+291
+00:10:17,784 --> 00:10:18,694
+out at 35
+
+292
+00:10:19,004 --> 00:10:21,194
+that meets that standard
+
+293
+00:10:21,264 --> 00:10:23,824
+but that's nowhere near low enough to
+
+294
+00:10:23,824 --> 00:10:26,484
+be acceptable to loading the receiving
+
+295
+00:10:26,484 --> 00:10:27,274
+environment
+
+296
+00:10:27,644 --> 00:10:29,064
+Here in British Columbia
+
+297
+00:10:29,064 --> 00:10:31,424
+our guidelines are three milligrams
+
+298
+00:10:31,424 --> 00:10:34,514
+per liter for aquatic waters
+
+299
+00:10:34,644 --> 00:10:36,464
+So that would be the groundwater
+
+300
+00:10:36,464 --> 00:10:38,424
+that's migrating into a surface water
+
+301
+00:10:38,424 --> 00:10:38,974
+body
+
+302
+00:10:39,144 --> 00:10:41,484
+And on a 30 -day average
+
+303
+00:10:41,484 --> 00:10:43,004
+we want it to be less than
+
+304
+00:10:43,004 --> 00:10:44,984
+three milligrams per liter of nitrate
+
+305
+00:10:44,984 --> 00:10:47,044
+so that it doesn't adversely affect
+
+306
+00:10:47,044 --> 00:10:48,614
+aquatic life
+
+307
+00:10:48,644 --> 00:10:50,494
+So that would be fish spawning
+
+308
+00:10:51,164 --> 00:10:53,834
+also the contribution to algal growth
+
+309
+00:10:54,624 --> 00:10:57,564
+And then with respect to the drinking
+
+310
+00:10:57,564 --> 00:11:00,284
+water standard we're at 10 milligrams
+
+311
+00:11:00,284 --> 00:11:00,864
+per liter
+
+312
+00:11:00,864 --> 00:11:02,044
+I think that's pretty much across the
+
+313
+00:11:02,044 --> 00:11:04,104
+board throughout Canada and then the
+
+314
+00:11:04,104 --> 00:11:04,894
+US as well
+
+315
+00:11:05,044 --> 00:11:07,104
+So we wanna be below that or
+
+316
+00:11:07,104 --> 00:11:08,574
+we start adversely affecting
+
+317
+00:11:08,984 --> 00:11:10,764
+One of the issues is blue baby
+
+318
+00:11:10,764 --> 00:11:11,254
+syndrome
+
+319
+00:11:11,624 --> 00:11:13,784
+The other thing to consider is that
+
+320
+00:11:13,784 --> 00:11:15,644
+as we see that increase in nitrate
+
+321
+00:11:15,644 --> 00:11:18,304
+concentration in an aquifer it's a
+
+322
+00:11:18,304 --> 00:11:20,784
+tracer it also tells us that there
+
+323
+00:11:20,784 --> 00:11:23,844
+are other or can be other septic
+
+324
+00:11:23,844 --> 00:11:26,464
+associated parameters of concern so
+
+325
+00:11:26,464 --> 00:11:28,044
+that could look like pharmaceuticals
+
+326
+00:11:28,044 --> 00:11:30,324
+it could look like pathogens it could
+
+327
+00:11:30,324 --> 00:11:31,014
+look like
+
+328
+00:11:31,564 --> 00:11:34,024
+yeah other other things that that you
+
+329
+00:11:34,024 --> 00:11:36,500
+know go with on site okay go
+
+330
+00:11:36,500 --> 00:11:38,480
+back to blue baby syndrome explain to
+
+331
+00:11:38,480 --> 00:11:40,474
+me what that is uh blue baby
+
+332
+00:11:40,474 --> 00:11:43,394
+syndrome is my understanding I can't
+
+333
+00:11:43,394 --> 00:11:44,274
+tell you about the physiological
+
+334
+00:11:44,274 --> 00:11:46,634
+aspect of it uh but it it's
+
+335
+00:11:46,634 --> 00:11:48,574
+the the elevated nitrate
+
+336
+00:11:48,574 --> 00:11:49,894
+concentrations in a drinking water
+
+337
+00:11:49,894 --> 00:11:52,514
+source uh can harm or kill babies
+
+338
+00:11:52,514 --> 00:11:54,254
+in essence if if that nitrate
+
+339
+00:11:54,254 --> 00:11:56,994
+concentration is too high so that's
+
+340
+00:11:56,994 --> 00:11:58,494
+you know that's why it's a it's
+
+341
+00:11:58,494 --> 00:12:00,194
+considered a we call it a maximum
+
+342
+00:12:00,194 --> 00:12:02,734
+acceptable concentration we designate
+
+343
+00:12:02,734 --> 00:12:05,354
+here in canada max and aesthetic
+
+344
+00:12:05,354 --> 00:12:07,314
+objectives so iron even though you of
+
+345
+00:12:07,314 --> 00:12:08,964
+elevated iron in water
+
+346
+00:12:09,014 --> 00:12:10,654
+that's an aesthetic objective
+
+347
+00:12:10,654 --> 00:12:12,924
+or chloride is an aesthetic objective
+
+348
+00:12:13,254 --> 00:12:15,794
+whereas nitrate at 10 milligrams per
+
+349
+00:12:15,794 --> 00:12:17,564
+liter is a health -based guideline
+
+350
+00:12:18,160 --> 00:12:18,950
+Yeah
+
+351
+00:12:19,440 --> 00:12:20,130
+absolutely
+
+352
+00:12:20,320 --> 00:12:23,140
+So it basically causes huge problems
+
+353
+00:12:23,140 --> 00:12:24,990
+for the environment
+
+354
+00:12:25,160 --> 00:12:26,460
+for the aquatic life
+
+355
+00:12:26,460 --> 00:12:27,630
+for humans
+
+356
+00:12:27,760 --> 00:12:29,200
+And when you say that it's in
+
+357
+00:12:29,200 --> 00:12:30,070
+the drinking water
+
+358
+00:12:30,560 --> 00:12:32,720
+is that the well usually coming from
+
+359
+00:12:32,720 --> 00:12:34,480
+the well water that's where it's it's
+
+360
+00:12:34,480 --> 00:12:37,014
+being traced back to yeah yeah you
+
+361
+00:12:37,014 --> 00:12:39,834
+asked about uh how I actually uh
+
+362
+00:12:39,834 --> 00:12:41,874
+trace back to I can I can
+
+363
+00:12:41,874 --> 00:12:44,214
+actually trace septic plumes like to
+
+364
+00:12:44,214 --> 00:12:47,534
+individual systems wow and yeah yeah
+
+365
+00:12:47,534 --> 00:12:50,214
+it's or or if they're uh there's
+
+366
+00:12:50,214 --> 00:12:52,994
+enough density in an area um I
+
+367
+00:12:52,994 --> 00:12:54,654
+can't necessarily track back to the to
+
+368
+00:12:54,654 --> 00:12:56,674
+one single system but I can see
+
+369
+00:12:56,674 --> 00:12:58,534
+overall what's like a plume entering
+
+370
+00:12:58,534 --> 00:13:00,684
+in from numerous systems
+
+371
+00:13:00,954 --> 00:13:03,014
+So I do foreshore assessments
+
+372
+00:13:03,014 --> 00:13:05,934
+So I literally walk the shoreline and
+
+373
+00:13:05,934 --> 00:13:07,744
+dig holes
+
+374
+00:13:07,874 --> 00:13:09,534
+And we can do it in a
+
+375
+00:13:09,534 --> 00:13:12,494
+fancy way putting in mini-piezometers
+
+376
+00:13:12,494 --> 00:13:15,034
+that are pounded into the ground and
+
+377
+00:13:15,034 --> 00:13:16,034
+then you sample the water
+
+378
+00:13:16,034 --> 00:13:17,524
+or we just dig holes
+
+379
+00:13:17,554 --> 00:13:18,734
+And I find that to be the
+
+380
+00:13:18,734 --> 00:13:21,684
+most effective is that I'm looking at
+
+381
+00:13:22,034 --> 00:13:24,134
+So interaction between groundwater and
+
+382
+00:13:24,134 --> 00:13:27,174
+surface water is driven by the
+
+383
+00:13:27,174 --> 00:13:29,234
+hydraulic head dynamics right so if
+
+384
+00:13:29,234 --> 00:13:30,934
+groundwater if this is a surface water
+
+385
+00:13:30,934 --> 00:13:32,854
+this is groundwater if it's above then
+
+386
+00:13:32,854 --> 00:13:34,194
+that groundwater is pushing into the
+
+387
+00:13:34,194 --> 00:13:36,174
+surface water and vice versa if
+
+388
+00:13:36,174 --> 00:13:37,754
+surface water is higher then it's
+
+389
+00:13:37,754 --> 00:13:38,634
+going to push back into the
+
+390
+00:13:38,634 --> 00:13:40,554
+groundwater so this and this can
+
+391
+00:13:40,554 --> 00:13:43,574
+fluctuate over a season right so when
+
+392
+00:13:43,574 --> 00:13:46,074
+when high water comes you know we
+
+393
+00:13:46,074 --> 00:13:47,794
+can it's called bank storage and we
+
+394
+00:13:47,794 --> 00:13:50,394
+push back in and then over the
+
+395
+00:13:50,394 --> 00:13:53,614
+the course of the the season we
+
+396
+00:13:53,614 --> 00:13:55,794
+end up in in base flow and
+
+397
+00:13:55,794 --> 00:13:57,214
+that's where surface water body is
+
+398
+00:13:57,214 --> 00:13:58,934
+taking entirely from the groundwater
+
+399
+00:13:58,934 --> 00:14:01,094
+so when I'm doing these assessments
+
+400
+00:14:01,094 --> 00:14:03,954
+I'll tend to to lakes are a
+
+401
+00:14:03,954 --> 00:14:05,914
+little different than rivers sometimes
+
+402
+00:14:05,914 --> 00:14:07,654
+in late in a lake system we
+
+403
+00:14:07,654 --> 00:14:09,334
+can end up flooding entire septic
+
+404
+00:14:09,334 --> 00:14:11,114
+systems so I can end up seeing
+
+405
+00:14:11,114 --> 00:14:13,934
+these plumes come in during uh during
+
+406
+00:14:13,934 --> 00:14:16,074
+freshet or during high high high water
+
+407
+00:14:16,074 --> 00:14:18,394
+um but typically it'll be in the
+
+408
+00:14:18,394 --> 00:14:20,274
+fall when when we have base flow
+
+409
+00:14:20,274 --> 00:14:22,774
+conditions that I'll investigate and
+
+410
+00:14:22,774 --> 00:14:24,814
+again I've walked I've walked hundreds
+
+411
+00:14:24,814 --> 00:14:26,874
+of I guess hundreds of miles of
+
+412
+00:14:26,874 --> 00:14:29,714
+shorelines and rivers and creeks doing
+
+413
+00:14:29,714 --> 00:14:32,414
+these types of assessments where in
+
+414
+00:14:32,414 --> 00:14:34,074
+the field I assess for electrical
+
+415
+00:14:34,074 --> 00:14:37,514
+conductivity temperature pH and
+
+416
+00:14:37,514 --> 00:14:39,654
+oxidation reduction potential as well
+
+417
+00:14:39,654 --> 00:14:42,634
+as dissolved oxygen content and so
+
+418
+00:14:42,634 --> 00:14:45,234
+from those field parameters or those
+
+419
+00:14:45,234 --> 00:14:47,994
+feet that field assessment I can get
+
+420
+00:14:47,994 --> 00:14:49,774
+a baseline of what the groundwater
+
+421
+00:14:49,774 --> 00:14:51,284
+looks like without impact
+
+422
+00:14:51,494 --> 00:14:53,254
+And then I can find where I
+
+423
+00:14:53,254 --> 00:14:56,394
+can find those individual plumes where
+
+424
+00:14:56,394 --> 00:14:57,874
+I see elevated electrical
+
+425
+00:14:57,874 --> 00:14:58,664
+conductivity
+
+426
+00:14:59,334 --> 00:15:00,694
+Temperature is really an interesting
+
+427
+00:15:00,694 --> 00:15:02,394
+one with respect to ground and surface
+
+428
+00:15:02,394 --> 00:15:03,344
+water interaction
+
+429
+00:15:03,394 --> 00:15:05,734
+And I've been able to show through
+
+430
+00:15:05,734 --> 00:15:09,094
+temperature measurements along a
+
+431
+00:15:09,094 --> 00:15:11,354
+shoreline where I actually have a
+
+432
+00:15:11,354 --> 00:15:13,874
+creek coming into a lake and the
+
+433
+00:15:13,874 --> 00:15:15,124
+influence of that creek
+
+434
+00:15:15,194 --> 00:15:16,354
+It's been pretty interesting in that
+
+435
+00:15:16,354 --> 00:15:16,614
+way
+
+436
+00:15:16,614 --> 00:15:17,174
+I use you know
+
+437
+00:15:17,174 --> 00:15:18,114
+temperature seems like
+
+438
+00:15:18,114 --> 00:15:20,194
+you know sort of a um a
+
+439
+00:15:20,194 --> 00:15:23,234
+benign parameter to uh to assess but
+
+440
+00:15:23,234 --> 00:15:25,194
+it's been really effective for me um
+
+441
+00:15:25,194 --> 00:15:26,854
+so yeah the it's that electrical
+
+442
+00:15:26,854 --> 00:15:29,854
+conductivity and uh understanding
+
+443
+00:15:29,854 --> 00:15:32,274
+background and then understanding or
+
+444
+00:15:32,274 --> 00:15:33,654
+seeing where I see a plume come
+
+445
+00:15:33,654 --> 00:15:35,074
+in and I can literally narrow it
+
+446
+00:15:35,074 --> 00:15:36,894
+down to the you know to the
+
+447
+00:15:36,894 --> 00:15:39,534
+um the dispersal area uh and you
+
+448
+00:15:39,534 --> 00:15:40,894
+can I can track it right back
+
+449
+00:15:40,894 --> 00:15:42,374
+to see where it's coming from wow
+
+450
+00:15:42,374 --> 00:15:44,800
+yeah okay so you've done hundreds of
+
+451
+00:15:44,800 --> 00:15:46,240
+miles of this it sounds like you
+
+452
+00:15:46,240 --> 00:15:48,480
+found a lot of problems over the
+
+453
+00:15:48,480 --> 00:15:50,760
+years so what happens when you find
+
+454
+00:15:50,760 --> 00:15:52,794
+or maybe you haven't yeah I mean
+
+455
+00:15:52,794 --> 00:15:55,494
+that's an it is a I find
+
+456
+00:15:55,494 --> 00:15:58,854
+problems again population density like
+
+457
+00:15:58,854 --> 00:16:01,214
+density of on -site and hydrogeologic
+
+458
+00:16:01,214 --> 00:16:02,734
+setting those are the two primary
+
+459
+00:16:02,734 --> 00:16:06,154
+factors that influence the you know
+
+460
+00:16:06,154 --> 00:16:07,234
+where we end up seeing a problem
+
+461
+00:16:07,234 --> 00:16:09,834
+in terms of algal growth or you
+
+462
+00:16:09,834 --> 00:16:11,114
+know nitrate plumes entering into
+
+463
+00:16:11,114 --> 00:16:14,034
+surface water bodies so you know I'd
+
+464
+00:16:14,034 --> 00:16:15,934
+say of those hundreds of of miles
+
+465
+00:16:15,934 --> 00:16:18,534
+of of shoreline and and uh you
+
+466
+00:16:18,534 --> 00:16:20,594
+know banks that I've I've walked the
+
+467
+00:16:20,594 --> 00:16:22,174
+majority of them are okay the majority
+
+468
+00:16:22,174 --> 00:16:24,294
+of them are are um look you
+
+469
+00:16:24,294 --> 00:16:26,054
+know pretty good but I definitely run
+
+470
+00:16:26,054 --> 00:16:28,014
+into what I call hot spots and
+
+471
+00:16:28,014 --> 00:16:30,514
+those hot spots are are um communities
+
+472
+00:16:30,514 --> 00:16:32,474
+that are you know that are have
+
+473
+00:16:32,474 --> 00:16:35,514
+high density uh and are on uh
+
+474
+00:16:35,514 --> 00:16:38,574
+on site um yep and and um
+
+475
+00:16:38,574 --> 00:16:40,914
+have again it's that hydrogeologic
+
+476
+00:16:40,914 --> 00:16:42,894
+setting so the you know there's not
+
+477
+00:16:42,894 --> 00:16:45,394
+a lot of room between groundwater or
+
+478
+00:16:45,394 --> 00:16:48,234
+a flow restrictive layer and uh the
+
+479
+00:16:48,234 --> 00:16:49,314
+you know the what we call the
+
+480
+00:16:49,314 --> 00:16:51,514
+point of application uh which would be
+
+481
+00:16:51,514 --> 00:16:54,194
+the you know the where where where
+
+482
+00:16:54,194 --> 00:16:56,054
+effluent is moving down so it's that
+
+483
+00:16:56,054 --> 00:16:57,954
+vertical separation is really a
+
+484
+00:16:57,954 --> 00:16:59,714
+critical factor and then distance to
+
+485
+00:16:59,714 --> 00:17:02,434
+the uh to a surface water body
+
+486
+00:17:02,434 --> 00:17:04,354
+or a well uh those are the
+
+487
+00:17:04,354 --> 00:17:06,534
+the hydrogeologic factors and then
+
+488
+00:17:06,534 --> 00:17:08,714
+we've got the the density so those
+
+489
+00:17:08,714 --> 00:17:11,054
+two things um you know when when
+
+490
+00:17:11,054 --> 00:17:14,074
+combined uh can create issues so I've
+
+491
+00:17:14,074 --> 00:17:17,334
+seen um I've seen scenarios where even
+
+492
+00:17:17,334 --> 00:17:19,434
+an elementary school was impacted by
+
+493
+00:17:19,434 --> 00:17:21,334
+the on -site wastewater systems nearby
+
+494
+00:17:21,334 --> 00:17:24,454
+I've seen deep uh fractured bedrock
+
+495
+00:17:24,454 --> 00:17:27,254
+aquifers uh so very deep like 300
+
+496
+00:17:27,254 --> 00:17:30,134
+foot wells be contaminated by nitrate
+
+497
+00:17:30,134 --> 00:17:32,974
+from septic systems because there's uh
+
+498
+00:17:32,974 --> 00:17:34,714
+you know fracture flow there isn't
+
+499
+00:17:34,714 --> 00:17:39,194
+like a competent bedrock as a as
+
+500
+00:17:39,194 --> 00:17:43,874
+a means of of confining the migration
+
+501
+00:17:43,874 --> 00:17:48,494
+from from surface so mostly the at
+
+502
+00:17:48,494 --> 00:17:51,974
+-risk aquifers are unconfined so the
+
+503
+00:17:51,974 --> 00:17:53,914
+you know that again that water table
+
+504
+00:17:53,914 --> 00:17:56,254
+is high within a sand and gravel
+
+505
+00:17:56,254 --> 00:17:58,714
+but I've also seen contamination of
+
+506
+00:17:58,714 --> 00:18:01,380
+deeper bedrock aquifers from on site
+
+507
+00:18:01,380 --> 00:18:04,200
+and you measure that contamination
+
+508
+00:18:04,200 --> 00:18:07,840
+actually by testing the well water how
+
+509
+00:18:07,840 --> 00:18:08,940
+do you do it when it's the
+
+510
+00:18:08,940 --> 00:18:12,074
+drinking water or the yeah yeah so
+
+511
+00:18:12,074 --> 00:18:13,294
+when it's the drinking water we would
+
+512
+00:18:13,294 --> 00:18:16,414
+be sampling wells so taking samples of
+
+513
+00:18:16,414 --> 00:18:18,514
+people's well water or putting in
+
+514
+00:18:18,514 --> 00:18:20,734
+monitoring wells and and sampling in
+
+515
+00:18:20,734 --> 00:18:22,394
+that way so a lot of what
+
+516
+00:18:22,394 --> 00:18:24,594
+I do in terms of characterization of
+
+517
+00:18:24,594 --> 00:18:26,534
+aquifers I do environmental impact
+
+518
+00:18:26,534 --> 00:18:28,814
+studies and so that involves putting
+
+519
+00:18:28,814 --> 00:18:30,934
+monitoring wells in in a given area
+
+520
+00:18:30,934 --> 00:18:33,534
+here in british columbia we have a
+
+521
+00:18:33,534 --> 00:18:36,294
+it's a it's a designation so septic
+
+522
+00:18:36,294 --> 00:18:40,054
+or on -site falls below 22 .7
+
+523
+00:18:40,054 --> 00:18:42,494
+cubic meters per day so anything below
+
+524
+00:18:42,494 --> 00:18:44,714
+that is regulated by the by the
+
+525
+00:18:44,714 --> 00:18:46,354
+sewage system regulation and anything
+
+526
+00:18:46,354 --> 00:18:48,574
+above that is regulated by the the
+
+527
+00:18:48,574 --> 00:18:51,594
+municipal wastewater regulation excuse
+
+528
+00:18:51,594 --> 00:18:53,514
+me and so there's there's a really
+
+529
+00:18:53,514 --> 00:18:55,514
+big difference in in in British
+
+530
+00:18:55,514 --> 00:18:58,734
+Columbia in terms of the the degree
+
+531
+00:18:58,734 --> 00:19:00,974
+of environmental impact study that's
+
+532
+00:19:00,974 --> 00:19:03,094
+required so for those smaller and and
+
+533
+00:19:03,094 --> 00:19:04,474
+this is something I've been working on
+
+534
+00:19:04,474 --> 00:19:06,714
+with COTRA which is a like a
+
+535
+00:19:06,714 --> 00:19:09,674
+nationwide technical resource group
+
+536
+00:19:09,674 --> 00:19:11,654
+we've been developing out guidelines
+
+537
+00:19:11,654 --> 00:19:15,054
+on environmental impact study and yeah
+
+538
+00:19:15,054 --> 00:19:18,334
+to apply within the you know the
+
+539
+00:19:18,334 --> 00:19:21,014
+under 22 .7 because it really it
+
+540
+00:19:21,014 --> 00:19:22,354
+doesn't make sense you know you you
+
+541
+00:19:22,354 --> 00:19:23,914
+draw this line in the sand okay
+
+542
+00:19:23,914 --> 00:19:25,354
+now we're going to do you know
+
+543
+00:19:25,354 --> 00:19:26,434
+now we're going to do this big
+
+544
+00:19:26,434 --> 00:19:28,294
+assessment but under that we're not
+
+545
+00:19:28,294 --> 00:19:31,394
+and so what happens there is um
+
+546
+00:19:31,394 --> 00:19:35,234
+you'll have uh like loophole in terms
+
+547
+00:19:35,234 --> 00:19:37,854
+of of again um avoiding environmental
+
+548
+00:19:37,854 --> 00:19:40,114
+impact study uh you'll have designers
+
+549
+00:19:40,114 --> 00:19:44,714
+do um you know multiple systems on
+
+550
+00:19:44,714 --> 00:19:46,294
+the same property but because they're
+
+551
+00:19:46,294 --> 00:19:48,894
+duplex they're independent uh they
+
+552
+00:19:48,894 --> 00:19:51,674
+don't have to undergo that level of
+
+553
+00:19:51,674 --> 00:19:54,064
+environmental impact study
+
+554
+00:19:54,474 --> 00:19:56,354
+And so you end up with cumulative
+
+555
+00:19:56,354 --> 00:19:56,854
+effects
+
+556
+00:19:56,854 --> 00:19:58,914
+And that's been my focus in the
+
+557
+00:19:58,914 --> 00:20:01,174
+last couple of years here is
+
+558
+00:20:01,174 --> 00:20:02,534
+cumulative effects assessment
+
+559
+00:20:02,534 --> 00:20:05,074
+specifically for on -site as well as
+
+560
+00:20:05,074 --> 00:20:07,334
+on -site along with agriculture and
+
+561
+00:20:07,334 --> 00:20:09,854
+industry all of these other factors
+
+562
+00:20:09,854 --> 00:20:12,434
+or land uses that affect both
+
+563
+00:20:12,434 --> 00:20:13,824
+surfacing groundwater quality
+
+564
+00:20:14,260 --> 00:20:16,240
+So when you're finding these hot
+
+565
+00:20:16,240 --> 00:20:18,390
+spots are you part
+
+566
+00:20:18,400 --> 00:20:19,360
+are you able to be part of
+
+567
+00:20:19,360 --> 00:20:19,920
+the solution?
+
+568
+00:20:19,920 --> 00:20:21,540
+It sounds like you have been able
+
+569
+00:20:21,540 --> 00:20:23,900
+to create some solutions for this
+
+570
+00:20:23,900 --> 00:20:25,300
+So talk to us about what those
+
+571
+00:20:25,300 --> 00:20:27,240
+solutions are and what that process
+
+572
+00:20:27,240 --> 00:20:30,050
+looks like to get things healthier
+
+573
+00:20:30,854 --> 00:20:31,484
+Yeah
+
+574
+00:20:31,694 --> 00:20:32,754
+So um again
+
+575
+00:20:32,754 --> 00:20:33,954
+about 10 years ago or so
+
+576
+00:20:33,954 --> 00:20:35,934
+I was supporting the onsite
+
+577
+00:20:35,934 --> 00:20:38,894
+uh uh practitioners here and
+
+578
+00:20:38,894 --> 00:20:40,434
+um doing you know
+
+579
+00:20:40,434 --> 00:20:42,194
+the these sort of small scale risk
+
+580
+00:20:42,194 --> 00:20:44,534
+assessments when these onsite
+
+581
+00:20:44,534 --> 00:20:46,634
+wastewater systems needed to be put in
+
+582
+00:20:46,634 --> 00:20:48,774
+within a 30 meter setback of a
+
+583
+00:20:48,774 --> 00:20:50,814
+well or 30 meter setback of a
+
+584
+00:20:50,814 --> 00:20:52,814
+surface water body and when I first
+
+585
+00:20:52,814 --> 00:20:55,094
+started to look at baseline compared
+
+586
+00:20:55,094 --> 00:20:57,854
+to when we made an improvement right
+
+587
+00:20:57,854 --> 00:20:59,934
+because that's how we justify it to
+
+588
+00:20:59,934 --> 00:21:02,474
+the regulators we say well you know
+
+589
+00:21:02,474 --> 00:21:04,594
+the existing system it could be like
+
+590
+00:21:04,594 --> 00:21:06,294
+a cesspool as you call them in
+
+591
+00:21:06,294 --> 00:21:07,734
+the states uh we call them like
+
+592
+00:21:07,734 --> 00:21:10,334
+an italian dry well up here um
+
+593
+00:21:10,334 --> 00:21:12,474
+you know similar idea of of very
+
+594
+00:21:12,474 --> 00:21:15,694
+little treatment and um yeah moving
+
+595
+00:21:15,694 --> 00:21:18,054
+into the environment fairly quickly um
+
+596
+00:21:18,054 --> 00:21:20,534
+so we say okay well we're we're
+
+597
+00:21:20,534 --> 00:21:22,454
+going to be putting this more complex
+
+598
+00:21:22,454 --> 00:21:24,254
+system in that has advanced treatment
+
+599
+00:21:24,254 --> 00:21:26,834
+uh that will be monitored over time
+
+600
+00:21:26,834 --> 00:21:28,634
+uh when I first started to do
+
+601
+00:21:28,634 --> 00:21:31,334
+that I saw that in some cases
+
+602
+00:21:31,334 --> 00:21:34,334
+we were actually creating um more
+
+603
+00:21:34,334 --> 00:21:37,754
+nitrate more nitrate plumes yeah so
+
+604
+00:21:37,754 --> 00:21:38,954
+that's where I was like well what's
+
+605
+00:21:38,954 --> 00:21:41,034
+the solution to this uh to this
+
+606
+00:21:41,034 --> 00:21:43,474
+issue and that's where I came up
+
+607
+00:21:43,474 --> 00:21:44,754
+with the idea well I didn't come
+
+608
+00:21:44,754 --> 00:21:45,894
+up with it but I started to
+
+609
+00:21:45,894 --> 00:21:48,094
+do my research and found permeable
+
+610
+00:21:48,094 --> 00:21:50,394
+reactive barriers which are a passive
+
+611
+00:21:50,394 --> 00:21:53,574
+in -ground treatment uh and again I've
+
+612
+00:21:53,574 --> 00:21:55,654
+been using those uh to supplement
+
+613
+00:21:55,654 --> 00:21:57,774
+advanced treatment so advanced
+
+614
+00:21:57,774 --> 00:21:59,334
+treatments required I'm not saying
+
+615
+00:21:59,334 --> 00:22:00,994
+that it's it's you know it shouldn't
+
+616
+00:22:00,994 --> 00:22:02,214
+be done it definitely needs to be
+
+617
+00:22:02,214 --> 00:22:04,094
+done but then you end up with
+
+618
+00:22:04,094 --> 00:22:07,994
+a high nitrate uh effluent and um
+
+619
+00:22:07,994 --> 00:22:11,314
+I I guess I've gone to this
+
+620
+00:22:11,314 --> 00:22:13,374
+idea of passive in -ground treatment
+
+621
+00:22:13,374 --> 00:22:15,814
+uh to avoid the use of reagents
+
+622
+00:22:15,814 --> 00:22:18,214
+right like there are other ways above
+
+623
+00:22:18,214 --> 00:22:20,254
+ground or within the treatment system
+
+624
+00:22:20,254 --> 00:22:22,194
+to address nitrate there's the
+
+625
+00:22:22,194 --> 00:22:24,654
+recirculation um of sludge
+
+626
+00:22:24,654 --> 00:22:28,274
+recirculation and and um you know I've
+
+627
+00:22:28,274 --> 00:22:29,934
+spoke with the manufacturers of these
+
+628
+00:22:29,934 --> 00:22:32,254
+advanced treatment units and uh you
+
+629
+00:22:32,254 --> 00:22:33,214
+know they'll tell me oh five
+
+630
+00:22:33,214 --> 00:22:34,854
+milligrams per liter and I've been
+
+631
+00:22:34,854 --> 00:22:37,094
+monitoring these systems over the past
+
+632
+00:22:37,094 --> 00:22:39,054
+10 years and I haven't seen anything
+
+633
+00:22:39,054 --> 00:22:40,754
+lower than 30 milligrams per liter
+
+634
+00:22:40,754 --> 00:22:42,394
+coming out of these systems and I
+
+635
+00:22:42,394 --> 00:22:43,754
+think the reason for that it's just
+
+636
+00:22:43,754 --> 00:22:45,994
+it flow interruptions and flow I think
+
+637
+00:22:45,994 --> 00:22:48,054
+if you had a system you know
+
+638
+00:22:48,054 --> 00:22:52,514
+um working as intended uh and it
+
+639
+00:22:52,514 --> 00:22:54,434
+and it you know had really reliable
+
+640
+00:22:54,434 --> 00:22:57,514
+um source you know uh then then
+
+641
+00:22:57,514 --> 00:22:59,014
+maybe you could meet that that five
+
+642
+00:22:59,014 --> 00:23:00,554
+I can't speak to that but I
+
+643
+00:23:00,554 --> 00:23:01,774
+can speak to what I've actually
+
+644
+00:23:01,774 --> 00:23:04,154
+measured in the field so empirical I
+
+645
+00:23:04,154 --> 00:23:06,834
+have empirical data and what I found
+
+646
+00:23:06,834 --> 00:23:09,144
+is that um although yes meeting BOD
+
+647
+00:23:09,154 --> 00:23:10,864
+TSS even pathogen reduction
+
+648
+00:23:11,034 --> 00:23:13,014
+These these permeable reactive
+
+649
+00:23:13,014 --> 00:23:16,194
+barriers provide incredibly effective
+
+650
+00:23:16,194 --> 00:23:18,134
+passive treatment of nitrate and
+
+651
+00:23:18,134 --> 00:23:18,744
+pathogens
+
+652
+00:23:19,294 --> 00:23:21,134
+And I've just been really impressed
+
+653
+00:23:21,134 --> 00:23:22,364
+with with the
+
+654
+00:23:22,494 --> 00:23:24,214
+you know that this as a solution
+
+655
+00:23:24,214 --> 00:23:25,574
+and not just for onsite
+
+656
+00:23:25,574 --> 00:23:27,674
+but for any wastewater stream that can
+
+657
+00:23:27,674 --> 00:23:29,044
+be from mine
+
+658
+00:23:29,094 --> 00:23:30,364
+you know mine contact water
+
+659
+00:23:30,414 --> 00:23:32,534
+it could be from industrial derived
+
+660
+00:23:32,534 --> 00:23:34,314
+water it could be from landfills um
+
+661
+00:23:34,314 --> 00:23:37,374
+any any any land use that that
+
+662
+00:23:37,374 --> 00:23:40,534
+increases um nutrients or specifically
+
+663
+00:23:40,534 --> 00:23:42,754
+uh nutrients in the form of nitrogen
+
+664
+00:23:42,754 --> 00:23:45,014
+which inevitably as it migrates into
+
+665
+00:23:45,014 --> 00:23:47,544
+the environment turns into nitrate um
+
+666
+00:23:47,544 --> 00:23:50,384
+yeah the permeable active barriers
+
+667
+00:23:50,384 --> 00:23:52,990
+have been just incredibly effective so
+
+668
+00:23:52,990 --> 00:23:55,010
+can you explain more about the
+
+669
+00:23:55,010 --> 00:23:57,710
+permeable reactive barriers and um
+
+670
+00:23:57,710 --> 00:24:00,370
+kind of like the technicalities of it
+
+671
+00:24:00,370 --> 00:24:02,810
+if an installer wanted to put one
+
+672
+00:24:02,810 --> 00:24:04,510
+in how would they go about it
+
+673
+00:24:04,510 --> 00:24:06,430
+are they sort of you know is
+
+674
+00:24:06,430 --> 00:24:08,090
+there manufacturers are going to for
+
+675
+00:24:08,090 --> 00:24:09,090
+these parts are they building
+
+676
+00:24:09,090 --> 00:24:11,290
+themselves kind of dive into how
+
+677
+00:24:11,290 --> 00:24:14,524
+someone would put that in yeah so
+
+678
+00:24:14,524 --> 00:24:18,044
+um I uh yeah I was asked
+
+679
+00:24:18,044 --> 00:24:20,104
+by a former business partner to patent
+
+680
+00:24:20,104 --> 00:24:23,144
+the you know the recipe um and
+
+681
+00:24:23,144 --> 00:24:25,004
+and um because it is especially it
+
+682
+00:24:25,004 --> 00:24:26,464
+ends up being an engineered material
+
+683
+00:24:26,464 --> 00:24:29,144
+specification okay um and in essence
+
+684
+00:24:29,144 --> 00:24:31,944
+it's it's um it's the use of
+
+685
+00:24:31,944 --> 00:24:33,504
+there are a lot of different materials
+
+686
+00:24:33,504 --> 00:24:35,444
+that can be used I focused on
+
+687
+00:24:35,444 --> 00:24:37,624
+carbon a carbon source or carbon a
+
+688
+00:24:37,624 --> 00:24:39,684
+highly carbonaceous source of of uh
+
+689
+00:24:39,684 --> 00:24:41,744
+material so that could look like hog
+
+690
+00:24:41,744 --> 00:24:43,624
+fuel it could look like wood chips
+
+691
+00:24:43,624 --> 00:24:46,464
+um yeah wood chips I don't like
+
+692
+00:24:46,464 --> 00:24:49,124
+um sawdust is it's it's goldilocks
+
+693
+00:24:49,124 --> 00:24:51,184
+thing wood chips are too coarse uh
+
+694
+00:24:51,184 --> 00:24:54,204
+the the the um yeah uh the
+
+695
+00:24:54,204 --> 00:24:56,564
+the the sawdust is too fine so
+
+696
+00:24:56,564 --> 00:24:59,264
+hog fuel has this ideal texture to
+
+697
+00:24:59,264 --> 00:25:02,744
+then uh impregnate into a sand or
+
+698
+00:25:02,744 --> 00:25:04,524
+a sand and gravel but um an
+
+699
+00:25:04,524 --> 00:25:06,904
+engineered material uh the risks you
+
+700
+00:25:06,904 --> 00:25:08,604
+the risks you run in using too
+
+701
+00:25:08,604 --> 00:25:10,604
+much uh carbonaceous material that you
+
+702
+00:25:10,604 --> 00:25:12,044
+create you end up creating a bod
+
+703
+00:25:12,044 --> 00:25:14,924
+plume and uh and you you also
+
+704
+00:25:14,924 --> 00:25:16,724
+can end up clogging you know getting
+
+705
+00:25:16,724 --> 00:25:20,404
+clogging or um uh uh yeah that
+
+706
+00:25:20,404 --> 00:25:21,584
+can be a really big issue so
+
+707
+00:25:21,584 --> 00:25:23,324
+there's this there's a sweet spot in
+
+708
+00:25:23,324 --> 00:25:25,544
+terms of the recipe um I was
+
+709
+00:25:25,544 --> 00:25:27,424
+initially trying to use uh native
+
+710
+00:25:27,424 --> 00:25:29,284
+materials I've gone away from that and
+
+711
+00:25:29,284 --> 00:25:31,464
+I use now just I like a
+
+712
+00:25:31,464 --> 00:25:34,224
+um a uh sand like a like
+
+713
+00:25:34,224 --> 00:25:36,404
+a graded sand or a sieved sand
+
+714
+00:25:36,404 --> 00:25:38,884
+uh like a clean coarse sand uh
+
+715
+00:25:38,884 --> 00:25:41,084
+and the hog fuel is my uh
+
+716
+00:25:41,084 --> 00:25:43,284
+recipe of choice um I look at
+
+717
+00:25:43,284 --> 00:25:45,624
+it more from a site specific and
+
+718
+00:25:45,624 --> 00:25:47,864
+and design perspective
+
+719
+00:25:47,864 --> 00:25:49,094
+as opposed to
+
+720
+00:25:49,184 --> 00:25:50,264
+I mean yeah
+
+721
+00:25:50,264 --> 00:25:51,664
+like like everyone wants to put
+
+722
+00:25:51,664 --> 00:25:52,864
+to put a box around it
+
+723
+00:25:52,864 --> 00:25:54,124
+patent it make all their money
+
+724
+00:25:54,124 --> 00:25:55,994
+whatever all the power to you
+
+725
+00:25:56,084 --> 00:25:57,834
+But I look at this as more
+
+726
+00:25:57,924 --> 00:25:59,064
+again like like a principled
+
+727
+00:25:59,064 --> 00:25:59,674
+approach
+
+728
+00:26:00,224 --> 00:26:03,124
+and and then what's available in your
+
+729
+00:26:03,124 --> 00:26:03,914
+given area
+
+730
+00:26:04,824 --> 00:26:06,024
+So so you know
+
+731
+00:26:06,024 --> 00:26:06,544
+yeah what is
+
+732
+00:26:06,544 --> 00:26:08,844
+what can Can you use what is
+
+733
+00:26:08,844 --> 00:26:10,404
+what are these materials that that
+
+734
+00:26:10,404 --> 00:26:13,564
+you know are effective at reducing
+
+735
+00:26:13,564 --> 00:26:14,514
+nitrate?
+
+736
+00:26:14,524 --> 00:26:15,244
+Again has been my
+
+737
+00:26:15,244 --> 00:26:18,144
+you know my my my primary parameter
+
+738
+00:26:18,144 --> 00:26:18,914
+of concern
+
+739
+00:26:19,324 --> 00:26:21,264
+But what I have found is that
+
+740
+00:26:21,264 --> 00:26:22,744
+the use of the permeable reactive
+
+741
+00:26:22,744 --> 00:26:24,304
+barrier does an incredibly good job of
+
+742
+00:26:24,304 --> 00:26:25,854
+reducing pathogens as well
+
+743
+00:26:26,584 --> 00:26:28,034
+And and over time
+
+744
+00:26:28,044 --> 00:26:29,344
+So I have a system that's been
+
+745
+00:26:29,344 --> 00:26:30,934
+in place now for 10 years
+
+746
+00:26:30,944 --> 00:26:33,064
+services 35 homes
+
+747
+00:26:33,064 --> 00:26:35,904
+and um yeah and has it was
+
+748
+00:26:35,904 --> 00:26:38,644
+it's a big system um and and
+
+749
+00:26:38,644 --> 00:26:40,664
+it is seasonal use and so again
+
+750
+00:26:40,664 --> 00:26:42,804
+I think that contributes to the the
+
+751
+00:26:42,804 --> 00:26:44,444
+interruption in the advanced treatment
+
+752
+00:26:44,444 --> 00:26:46,704
+unit um and what it can how
+
+753
+00:26:46,704 --> 00:26:48,484
+it can perform because it you know
+
+754
+00:26:48,484 --> 00:26:49,784
+it can take three months for the
+
+755
+00:26:49,784 --> 00:26:51,744
+for the bugs to you know get
+
+756
+00:26:51,744 --> 00:26:53,984
+going set up be happy and and
+
+757
+00:26:53,984 --> 00:26:56,344
+do their job and uh just when
+
+758
+00:26:56,344 --> 00:26:57,804
+that's happening you know then
+
+759
+00:26:57,804 --> 00:26:59,784
+everybody's leaving and and then you
+
+760
+00:26:59,784 --> 00:27:01,504
+know the bugs starve and they have
+
+761
+00:27:01,504 --> 00:27:03,804
+to wait another another long period of
+
+762
+00:27:03,804 --> 00:27:05,684
+time um over the winter before they
+
+763
+00:27:05,684 --> 00:27:08,304
+they get their food again um so
+
+764
+00:27:08,304 --> 00:27:11,844
+uh yeah again always always around
+
+765
+00:27:11,844 --> 00:27:13,864
+that 30 35 milligrams per liter coming
+
+766
+00:27:13,864 --> 00:27:16,364
+out of the advanced treatment unit and
+
+767
+00:27:16,364 --> 00:27:18,964
+um what's super interesting about this
+
+768
+00:27:18,964 --> 00:27:20,804
+one is that for eight years I
+
+769
+00:27:20,804 --> 00:27:22,404
+have monitoring data over an eight
+
+770
+00:27:22,404 --> 00:27:26,004
+-year period and then um last year
+
+771
+00:27:26,004 --> 00:27:29,224
+uh we um we were seeing some
+
+772
+00:27:29,224 --> 00:27:31,464
+breakout so when I originally uh
+
+773
+00:27:31,464 --> 00:27:33,084
+designed this I didn't use a liner
+
+774
+00:27:33,084 --> 00:27:35,204
+I my site had a lot of
+
+775
+00:27:35,204 --> 00:27:38,164
+clay was predominantly clay and so I
+
+776
+00:27:38,164 --> 00:27:39,364
+was like okay we'll just you know
+
+777
+00:27:39,364 --> 00:27:40,604
+we'll we'll avoid the use of a
+
+778
+00:27:40,604 --> 00:27:43,544
+liner um and and so this one
+
+779
+00:27:43,544 --> 00:27:45,504
+in particular is done as a subsurface
+
+780
+00:27:45,504 --> 00:27:47,604
+wetland uh is what I call it
+
+781
+00:27:47,604 --> 00:27:49,964
+and um it's a subsurface wetland that
+
+782
+00:27:49,964 --> 00:27:51,744
+uses this engineered material and I
+
+783
+00:27:51,744 --> 00:27:53,324
+think the engineered material is far
+
+784
+00:27:53,324 --> 00:27:55,884
+more effective at uh contaminant
+
+785
+00:27:55,884 --> 00:27:58,684
+reduction or renovation uh than than
+
+786
+00:27:58,684 --> 00:28:01,284
+the phytoremediation piece that would
+
+787
+00:28:01,284 --> 00:28:02,884
+that comes from planting you know
+
+788
+00:28:02,884 --> 00:28:05,284
+planting uh plants within these these
+
+789
+00:28:05,284 --> 00:28:07,024
+treatment cells so the system has
+
+790
+00:28:07,024 --> 00:28:10,484
+seven treatment cells and um
+
+791
+00:28:10,484 --> 00:28:12,924
+previously like for the first eight
+
+792
+00:28:12,924 --> 00:28:15,984
+years of operation um I was getting
+
+793
+00:28:15,984 --> 00:28:18,204
+really great nitrate reduction like
+
+794
+00:28:18,204 --> 00:28:19,204
+that like the permeable reactive
+
+795
+00:28:19,204 --> 00:28:21,264
+barrier within the first two treatment
+
+796
+00:28:21,264 --> 00:28:23,884
+cells reduced from 35 milligrams per
+
+797
+00:28:23,884 --> 00:28:26,054
+liter down to below detection limits
+
+798
+00:28:26,210 --> 00:28:26,704
+Wow
+
+799
+00:28:26,704 --> 00:28:28,564
+And by pathogen reduction was
+
+800
+00:28:28,564 --> 00:28:29,944
+was orders of magnitude
+
+801
+00:28:29,944 --> 00:28:31,684
+So I'd come in at hundreds of
+
+802
+00:28:31,684 --> 00:28:33,554
+thousands I'd leave it non -detect
+
+803
+00:28:33,584 --> 00:28:34,924
+It was it was really
+
+804
+00:28:34,924 --> 00:28:35,594
+really effective
+
+805
+00:28:35,844 --> 00:28:37,314
+But but again
+
+806
+00:28:37,404 --> 00:28:39,034
+I last year
+
+807
+00:28:39,164 --> 00:28:40,224
+still the the
+
+808
+00:28:40,224 --> 00:28:42,144
+the treatment the in -ground passive
+
+809
+00:28:42,144 --> 00:28:43,544
+treatment was working really well
+
+810
+00:28:43,544 --> 00:28:45,564
+but I started getting issues with
+
+811
+00:28:45,564 --> 00:28:46,074
+breakout
+
+812
+00:28:46,124 --> 00:28:47,384
+And so I had to address that
+
+813
+00:28:47,384 --> 00:28:49,624
+so we went back in uh we
+
+814
+00:28:49,624 --> 00:28:51,564
+took out the two first two cells
+
+815
+00:28:51,564 --> 00:28:54,244
+and lined it uh and then uh
+
+816
+00:28:54,244 --> 00:28:57,104
+the installer didn't use my recipe but
+
+817
+00:28:57,104 --> 00:28:59,384
+I think just installed um primarily
+
+818
+00:28:59,384 --> 00:29:02,244
+sand and gravel and uh so my
+
+819
+00:29:02,244 --> 00:29:05,144
+sampling this year showed that I um
+
+820
+00:29:05,144 --> 00:29:07,290
+I'm not getting any treatment unless
+
+821
+00:29:07,290 --> 00:29:10,144
+in that zero like like so I
+
+822
+00:29:10,144 --> 00:29:11,244
+come out I come out of my
+
+823
+00:29:11,244 --> 00:29:13,544
+atu at 35 milligrams per liter I
+
+824
+00:29:13,544 --> 00:29:15,364
+go through my you know my my
+
+825
+00:29:15,364 --> 00:29:18,144
+now uh lined excuse me cell number
+
+826
+00:29:18,144 --> 00:29:19,744
+one and number two and then I
+
+827
+00:29:19,744 --> 00:29:21,704
+I wrap down and I actually am
+
+828
+00:29:21,704 --> 00:29:22,964
+not getting treatment until cell
+
+829
+00:29:22,964 --> 00:29:25,224
+number six which is which and I
+
+830
+00:29:25,224 --> 00:29:27,384
+again I was alternating those cells um
+
+831
+00:29:27,384 --> 00:29:28,904
+in terms of the recipe for my
+
+832
+00:29:28,904 --> 00:29:30,044
+permeable reactive barrier it was a
+
+833
+00:29:30,044 --> 00:29:32,184
+bit of a a um pilot study
+
+834
+00:29:32,184 --> 00:29:33,684
+on on right you know what what
+
+835
+00:29:33,684 --> 00:29:34,704
+this looks like I mean that's how
+
+836
+00:29:34,704 --> 00:29:36,864
+I came up with my understanding that
+
+837
+00:29:36,864 --> 00:29:39,144
+of what too much is uh and
+
+838
+00:29:39,144 --> 00:29:40,564
+how we can end up creating a
+
+839
+00:29:40,564 --> 00:29:44,324
+a um a a BOD plume if
+
+840
+00:29:44,324 --> 00:29:45,304
+we use too much
+
+841
+00:29:45,304 --> 00:29:46,764
+So I think 50 -50 is far
+
+842
+00:29:46,764 --> 00:29:47,354
+too much
+
+843
+00:29:47,364 --> 00:29:49,904
+And I know other researchers have have
+
+844
+00:29:49,904 --> 00:29:50,384
+said oh yeah
+
+845
+00:29:50,384 --> 00:29:51,494
+we're trying the 50 -50
+
+846
+00:29:51,664 --> 00:29:53,544
+And then they end up getting clogging
+
+847
+00:29:53,544 --> 00:29:55,664
+and they end up getting a BOD
+
+848
+00:29:55,664 --> 00:29:56,194
+plume
+
+849
+00:29:57,024 --> 00:29:59,184
+So so that was really interesting
+
+850
+00:29:59,184 --> 00:30:00,054
+data right?
+
+851
+00:30:00,270 --> 00:30:01,154
+Yeah for sure
+
+852
+00:30:01,224 --> 00:30:02,384
+What I'm going to be recommending is
+
+853
+00:30:02,384 --> 00:30:05,144
+that in in like I'll leave
+
+854
+00:30:05,144 --> 00:30:06,624
+you know that the cell number one
+
+855
+00:30:06,624 --> 00:30:08,234
+with the liner
+
+856
+00:30:08,344 --> 00:30:09,934
+that's okay
+
+857
+00:30:10,104 --> 00:30:12,724
+I don't want to change anything with
+
+858
+00:30:12,724 --> 00:30:13,404
+respect to it
+
+859
+00:30:13,404 --> 00:30:14,404
+but I do want to
+
+860
+00:30:14,404 --> 00:30:16,514
+I want to
+
+861
+00:30:16,704 --> 00:30:18,784
+yeah redo a couple of the more
+
+862
+00:30:18,784 --> 00:30:21,104
+downgradient cells and
+
+863
+00:30:21,104 --> 00:30:22,284
+and just make sure we're getting
+
+864
+00:30:22,284 --> 00:30:22,734
+treatment
+
+865
+00:30:22,764 --> 00:30:24,404
+So by the time I reach cell
+
+866
+00:30:24,404 --> 00:30:25,864
+number seven I still
+
+867
+00:30:25,864 --> 00:30:26,664
+it looks good
+
+868
+00:30:26,664 --> 00:30:28,224
+but I'm I'm at five milligrams per
+
+869
+00:30:28,224 --> 00:30:28,904
+liter now
+
+870
+00:30:28,904 --> 00:30:31,454
+And previously I was at detection
+
+871
+00:30:31,504 --> 00:30:34,124
+under detection limits when I uh when
+
+872
+00:30:34,124 --> 00:30:36,064
+I assess the receiving environment I'm
+
+873
+00:30:36,064 --> 00:30:38,324
+still well below I'm I think I'm
+
+874
+00:30:38,324 --> 00:30:41,724
+at um 0 .1 milligrams per liter
+
+875
+00:30:41,724 --> 00:30:42,984
+of nitrate so that's great you know
+
+876
+00:30:42,984 --> 00:30:45,604
+as as that plume migrates into the
+
+877
+00:30:45,604 --> 00:30:49,264
+um into the lake that's about what
+
+878
+00:30:49,264 --> 00:30:51,014
+would that be in about um
+
+879
+00:30:51,634 --> 00:30:56,154
+well 350 meters uh so about 900
+
+880
+00:30:56,154 --> 00:31:00,544
+feet um that that plume um is
+
+881
+00:31:00,544 --> 00:31:02,864
+is treated it's renovated uh it looks
+
+882
+00:31:02,864 --> 00:31:04,984
+good before it gets into the to
+
+883
+00:31:04,984 --> 00:31:07,744
+the surface water because again I
+
+884
+00:31:07,744 --> 00:31:08,944
+think you would ask like like what
+
+885
+00:31:08,944 --> 00:31:10,784
+does it look like like when wet
+
+886
+00:31:10,784 --> 00:31:12,344
+what does it look like when effluent
+
+887
+00:31:12,344 --> 00:31:14,844
+migrates uh through the dispersal area
+
+888
+00:31:14,844 --> 00:31:17,484
+and then through I call it you
+
+889
+00:31:17,484 --> 00:31:18,324
+know and I know it's a technical
+
+890
+00:31:18,324 --> 00:31:19,804
+term but it's called the vadose zone
+
+891
+00:31:19,804 --> 00:31:22,624
+so that's the unsaturated zone that's
+
+892
+00:31:22,624 --> 00:31:24,564
+the you know the um the dry
+
+893
+00:31:24,564 --> 00:31:27,444
+you know dry zone um above the
+
+894
+00:31:27,444 --> 00:31:30,984
+groundwater layer or um or level um
+
+895
+00:31:30,984 --> 00:31:33,904
+and so um effluent migrates down
+
+896
+00:31:33,904 --> 00:31:35,244
+through it that's where a lot of
+
+897
+00:31:35,244 --> 00:31:36,884
+of nitrate renovations actually
+
+898
+00:31:36,884 --> 00:31:39,504
+happening um you know the the bigger
+
+899
+00:31:39,504 --> 00:31:42,384
+the separation the better um now I
+
+900
+00:31:42,384 --> 00:31:44,204
+know it it is an oxic zone
+
+901
+00:31:44,204 --> 00:31:47,064
+or or typically oxic but uh within
+
+902
+00:31:47,064 --> 00:31:48,864
+that zone if you have highly like
+
+903
+00:31:48,864 --> 00:31:50,524
+like naturally highly carbonaceous
+
+904
+00:31:50,524 --> 00:31:52,424
+material so you know a biomat or
+
+905
+00:31:52,424 --> 00:31:54,864
+whatnot um that that's the workhorse
+
+906
+00:31:54,864 --> 00:31:56,604
+the you know the it's the microbes
+
+907
+00:31:56,604 --> 00:31:59,464
+that do the the um the renovation
+
+908
+00:31:59,464 --> 00:32:02,024
+of nitrogen they make their bodies out
+
+909
+00:32:02,024 --> 00:32:03,764
+of the nitrogen and they eat the
+
+910
+00:32:03,764 --> 00:32:07,204
+carbon um and so that you know
+
+911
+00:32:07,204 --> 00:32:09,264
+the again the you know the more
+
+912
+00:32:09,264 --> 00:32:11,144
+you vertical separation you have from
+
+913
+00:32:11,144 --> 00:32:13,584
+uh the bottom of the the dispersal
+
+914
+00:32:13,584 --> 00:32:15,444
+area to the top of the the
+
+915
+00:32:15,444 --> 00:32:17,884
+groundwater table the more renovation
+
+916
+00:32:17,884 --> 00:32:19,844
+can occur and then like I said
+
+917
+00:32:19,844 --> 00:32:21,944
+when you know when that plume enters
+
+918
+00:32:21,944 --> 00:32:23,644
+into the groundwater and starts
+
+919
+00:32:23,644 --> 00:32:25,024
+migrating through it's called
+
+920
+00:32:25,024 --> 00:32:27,664
+advective flow there's different you
+
+921
+00:32:27,664 --> 00:32:29,824
+know migration like contaminants can
+
+922
+00:32:29,824 --> 00:32:31,944
+move in groundwater in different ways
+
+923
+00:32:31,944 --> 00:32:33,584
+but primarily they're going to move
+
+924
+00:32:33,584 --> 00:32:35,464
+through advective flow so that's the
+
+925
+00:32:35,464 --> 00:32:38,344
+natural groundwater flow system so you
+
+926
+00:32:38,344 --> 00:32:39,624
+know where that groundwater is moving
+
+927
+00:32:39,624 --> 00:32:41,084
+it will then take that plume with
+
+928
+00:32:41,084 --> 00:32:42,804
+it uh and then that's how it
+
+929
+00:32:42,804 --> 00:32:44,404
+ends up in people's wells or in
+
+930
+00:32:44,404 --> 00:32:47,364
+surface water bodies yeah um yeah so
+
+931
+00:32:47,364 --> 00:32:48,964
+you were again you were asking like
+
+932
+00:32:48,964 --> 00:32:50,444
+like you know what's what is the
+
+933
+00:32:50,444 --> 00:32:51,924
+fate of the effluent uh the fate
+
+934
+00:32:51,924 --> 00:32:53,804
+of the effluent is into you know
+
+935
+00:32:53,804 --> 00:32:56,464
+like like uh water moves downhill so
+
+936
+00:32:56,464 --> 00:32:58,384
+uh you know it migrates through the
+
+937
+00:32:58,384 --> 00:33:00,664
+vadose zone and then it becomes part
+
+938
+00:33:00,664 --> 00:33:02,004
+of the groundwater table or
+
+939
+00:33:02,004 --> 00:33:04,684
+groundwater uh system uh nitrate
+
+940
+00:33:04,684 --> 00:33:06,904
+doesn't really move that deep like it
+
+941
+00:33:06,904 --> 00:33:08,744
+you know like what I've I've seen
+
+942
+00:33:08,744 --> 00:33:12,144
+from um much larger plumes of nitrate
+
+943
+00:33:12,144 --> 00:33:15,804
+coming from manure application uh in a
+
+944
+00:33:15,804 --> 00:33:18,544
+in a rural area um are and
+
+945
+00:33:18,544 --> 00:33:20,464
+and having um they're called nested
+
+946
+00:33:20,464 --> 00:33:22,064
+wells groundwater wells so you know
+
+947
+00:33:22,064 --> 00:33:24,164
+monitoring the upper part of the
+
+948
+00:33:24,164 --> 00:33:25,384
+aquifer and then the lower part of
+
+949
+00:33:25,384 --> 00:33:27,984
+the aquifer nitrate tends to stay in
+
+950
+00:33:27,984 --> 00:33:29,524
+like fairly shallow and it doesn't
+
+951
+00:33:29,524 --> 00:33:31,824
+tend to go any deeper especially if
+
+952
+00:33:31,824 --> 00:33:33,104
+you have a vertical hydraulic gradient
+
+953
+00:33:33,104 --> 00:33:34,764
+upward which is acts as like a
+
+954
+00:33:34,764 --> 00:33:36,924
+natural barrier uh to you know to
+
+955
+00:33:36,924 --> 00:33:39,804
+the migration downward of of nitrate
+
+956
+00:33:39,804 --> 00:33:43,604
+laden yeah yeah um effluent so um
+
+957
+00:33:43,604 --> 00:33:46,084
+what we typically see are are much
+
+958
+00:33:46,084 --> 00:33:47,844
+higher concentrations of nitrate in
+
+959
+00:33:47,844 --> 00:33:50,524
+that upper few feet of the aquifer
+
+960
+00:33:50,524 --> 00:33:53,364
+compared to uh lower down I had
+
+961
+00:33:53,364 --> 00:33:55,984
+one situation where I had um I
+
+962
+00:33:55,984 --> 00:33:59,104
+had arsenic uh coming through the
+
+963
+00:33:59,104 --> 00:34:01,344
+bedrock of a you know bedrock system
+
+964
+00:34:01,344 --> 00:34:02,864
+and migrating up into a sand and
+
+965
+00:34:02,864 --> 00:34:04,444
+gravel aquifer and the nitrate coming
+
+966
+00:34:04,444 --> 00:34:06,924
+down from septic and I was doing
+
+967
+00:34:06,924 --> 00:34:09,124
+it was a like groundwater exploration
+
+968
+00:34:09,124 --> 00:34:11,404
+for a community and it ended up
+
+969
+00:34:11,404 --> 00:34:13,924
+finding a sweet spot uh where where
+
+970
+00:34:13,924 --> 00:34:15,984
+the you know the migration of that
+
+971
+00:34:15,984 --> 00:34:18,884
+groundwater um didn't have elevated
+
+972
+00:34:18,884 --> 00:34:20,344
+nitrate it didn't have the elevated
+
+973
+00:34:20,344 --> 00:34:22,644
+arsenic but it uh that was a
+
+974
+00:34:22,644 --> 00:34:23,884
+tricky one like you know when you
+
+975
+00:34:23,884 --> 00:34:25,284
+had contamination you know natural
+
+976
+00:34:25,284 --> 00:34:27,644
+contamination uh coming from the
+
+977
+00:34:27,644 --> 00:34:29,924
+parent rock material and then surface
+
+978
+00:34:29,924 --> 00:34:33,134
+contamination of nitrogen from septic?
+
+979
+00:34:33,960 --> 00:34:35,860
+I mean it honestly can be a
+
+980
+00:34:35,860 --> 00:34:37,560
+little frightening when you think
+
+981
+00:34:37,560 --> 00:34:39,760
+about what can be in our water
+
+982
+00:34:39,760 --> 00:34:42,500
+everywhere and who is really watching
+
+983
+00:34:42,500 --> 00:34:43,430
+out for it
+
+984
+00:34:43,620 --> 00:34:44,700
+where are the regulations
+
+985
+00:34:44,700 --> 00:34:46,200
+have they caught up to what the
+
+986
+00:34:46,200 --> 00:34:48,340
+problem is are people following it
+
+987
+00:34:48,340 --> 00:34:50,820
+I was in Florida at their on
+
+988
+00:34:50,820 --> 00:34:52,480
+-site conference and was listening to
+
+989
+00:34:52,480 --> 00:34:53,880
+a speaker that highly recommended
+
+990
+00:34:53,880 --> 00:34:56,710
+reverse osmosis um
+
+991
+00:34:57,000 --> 00:34:58,500
+systems at the sink for the drinking
+
+992
+00:34:58,500 --> 00:35:00,260
+water just as a
+
+993
+00:35:00,260 --> 00:35:02,280
+you know kind of make sure you
+
+994
+00:35:02,280 --> 00:35:04,260
+cover all your bases because the work
+
+995
+00:35:04,260 --> 00:35:05,610
+you're doing is so incredible
+
+996
+00:35:05,840 --> 00:35:08,840
+Um but it's not being done everywhere
+
+997
+00:35:08,840 --> 00:35:10,280
+consistently all the time
+
+998
+00:35:10,280 --> 00:35:10,480
+right?
+
+999
+00:35:10,440 --> 00:35:12,360
+There's there's lots of problems all
+
+1000
+00:35:12,360 --> 00:35:12,750
+over
+
+1001
+00:35:12,760 --> 00:35:14,360
+So how do you agree with that
+
+1002
+00:35:14,360 --> 00:35:16,480
+of just reverse osmosis for your
+
+1003
+00:35:16,480 --> 00:35:18,740
+drinking water in general is a good
+
+1004
+00:35:18,740 --> 00:35:19,470
+idea?
+
+1005
+00:35:19,854 --> 00:35:21,114
+If you talk to my dad
+
+1006
+00:35:21,114 --> 00:35:21,924
+he would agree with that
+
+1007
+00:35:21,934 --> 00:35:24,054
+He's been drinking RO water we grew
+
+1008
+00:35:24,054 --> 00:35:25,674
+up on ro water um you know
+
+1009
+00:35:25,674 --> 00:35:27,274
+he comes from the mining and and
+
+1010
+00:35:27,274 --> 00:35:29,274
+oil industry and uh was concerned
+
+1011
+00:35:29,274 --> 00:35:33,054
+about contamination yeah yeah um I I
+
+1012
+00:35:33,054 --> 00:35:35,774
+personally personally I don't I I
+
+1013
+00:35:35,774 --> 00:35:38,614
+because you um you take out the
+
+1014
+00:35:38,614 --> 00:35:40,154
+minerals that are in the water so
+
+1015
+00:35:40,154 --> 00:35:42,294
+I mean like okay so so I'll
+
+1016
+00:35:42,294 --> 00:35:44,074
+step back and and say um ro
+
+1017
+00:35:44,074 --> 00:35:47,634
+probably for for um that hydrogeologic
+
+1018
+00:35:47,634 --> 00:35:49,194
+setting in florida makes a lot of
+
+1019
+00:35:49,194 --> 00:35:51,554
+sense and you can always remineralize
+
+1020
+00:35:51,554 --> 00:35:52,734
+the water you know just put a
+
+1021
+00:35:52,734 --> 00:35:56,894
+squirt of of like a mineralizing agent
+
+1022
+00:35:56,894 --> 00:35:58,754
+back into the water the concern I
+
+1023
+00:35:58,754 --> 00:36:00,354
+have though about RO water in general
+
+1024
+00:36:00,354 --> 00:36:01,954
+this kind of more on a health
+
+1025
+00:36:01,954 --> 00:36:05,894
+perspective is that it can it can
+
+1026
+00:36:05,894 --> 00:36:08,194
+demineralize your your body right like
+
+1027
+00:36:08,194 --> 00:36:10,994
+like it's it's all about osmosis or
+
+1028
+00:36:10,994 --> 00:36:13,214
+or yeah so if you're taking in
+
+1029
+00:36:13,214 --> 00:36:15,494
+pure water then your body is going
+
+1030
+00:36:15,494 --> 00:36:17,854
+to be equilibrating uh you know with
+
+1031
+00:36:17,854 --> 00:36:20,234
+with your own minerals um so I
+
+1032
+00:36:20,234 --> 00:36:21,614
+don't personally I don't I don't like
+
+1033
+00:36:21,614 --> 00:36:23,834
+ro water um but in an area
+
+1034
+00:36:23,834 --> 00:36:25,434
+like that and in a scenario like
+
+1035
+00:36:25,434 --> 00:36:26,534
+that yeah it makes a lot of
+
+1036
+00:36:26,534 --> 00:36:28,814
+sense interesting um but what I'd say
+
+1037
+00:36:28,814 --> 00:36:30,614
+is more important is is sampling your
+
+1038
+00:36:30,614 --> 00:36:33,534
+raw water prior to treatment um and
+
+1039
+00:36:33,534 --> 00:36:35,294
+understand and understanding it so if
+
+1040
+00:36:35,294 --> 00:36:36,994
+if you if you have a wet
+
+1041
+00:36:36,994 --> 00:36:38,774
+like if you are operating an onsite
+
+1042
+00:36:38,774 --> 00:36:40,534
+wastewater system and you have a well
+
+1043
+00:36:40,534 --> 00:36:42,874
+you should be sampling that that well
+
+1044
+00:36:42,874 --> 00:36:44,854
+water on the on an annual basis
+
+1045
+00:36:44,854 --> 00:36:47,314
+typically in the spring uh that way
+
+1046
+00:36:47,314 --> 00:36:49,154
+you're getting you know the higher
+
+1047
+00:36:49,154 --> 00:36:51,674
+water level and yeah like anyway I
+
+1048
+00:36:51,674 --> 00:36:53,134
+I would I would be sampling it
+
+1049
+00:36:53,134 --> 00:36:54,654
+twice a year for the first three
+
+1050
+00:36:54,654 --> 00:36:55,914
+years that you're that you're living
+
+1051
+00:36:55,914 --> 00:36:58,314
+in a location and then um you
+
+1052
+00:36:58,314 --> 00:37:00,354
+know annually after that uh and then
+
+1053
+00:37:00,354 --> 00:37:01,834
+you should be shot chlorinating so
+
+1054
+00:37:01,834 --> 00:37:03,894
+that you're not um you're not creating
+
+1055
+00:37:03,894 --> 00:37:05,934
+biofilms with in your own distribution
+
+1056
+00:37:05,934 --> 00:37:09,094
+system and then potentially um you
+
+1057
+00:37:09,094 --> 00:37:11,374
+know like dealing with contamination
+
+1058
+00:37:11,374 --> 00:37:14,694
+that way um so again I'd say
+
+1059
+00:37:14,694 --> 00:37:16,134
+the the most critical thing if you're
+
+1060
+00:37:16,134 --> 00:37:17,574
+operating a well or if you're a
+
+1061
+00:37:17,574 --> 00:37:19,234
+property owner with a well is that
+
+1062
+00:37:19,234 --> 00:37:20,714
+you should be getting a comprehensive
+
+1063
+00:37:20,714 --> 00:37:22,714
+potability assessment on an annual
+
+1064
+00:37:22,714 --> 00:37:24,794
+basis and in that way you'll
+
+1065
+00:37:24,794 --> 00:37:26,734
+understand how your chemistry is
+
+1066
+00:37:26,734 --> 00:37:29,154
+changing over time so for instance I
+
+1067
+00:37:29,154 --> 00:37:31,294
+just did a risk assessment uh for
+
+1068
+00:37:31,294 --> 00:37:33,174
+an on -site wastewater system that
+
+1069
+00:37:33,174 --> 00:37:35,154
+needs to be put in within a
+
+1070
+00:37:35,154 --> 00:37:36,854
+30 meter setback of three different
+
+1071
+00:37:36,854 --> 00:37:39,334
+groundwater wells and I was looking at
+
+1072
+00:37:39,334 --> 00:37:39,624
+the
+
+1073
+00:37:40,334 --> 00:37:42,934
+baseline uh chemistry of that aquifer
+
+1074
+00:37:42,934 --> 00:37:44,114
+and I could see how it was
+
+1075
+00:37:44,114 --> 00:37:46,454
+shifting like I have uh data from
+
+1076
+00:37:46,454 --> 00:37:49,434
+the province in this aquifer from 1989
+
+1077
+00:37:49,434 --> 00:37:53,434
+2020 uh I don't know to like
+
+1078
+00:37:53,434 --> 00:37:55,160
+over a period of time here that's
+
+1079
+00:37:55,160 --> 00:37:56,974
+great and well what's interesting
+
+1080
+00:37:56,974 --> 00:37:58,574
+about is you can see that that
+
+1081
+00:37:58,574 --> 00:38:00,034
+the operation of on -site wastewater
+
+1082
+00:38:00,034 --> 00:38:01,914
+systems in this aquifer is definitely
+
+1083
+00:38:01,914 --> 00:38:04,154
+contaminating it you know we go from
+
+1084
+00:38:04,154 --> 00:38:06,684
+uh less than one milligram per liter
+
+1085
+00:38:06,694 --> 00:38:08,904
+less than 0 .1 milligram per liter
+
+1086
+00:38:09,054 --> 00:38:10,594
+Now we're up almost at two milligrams
+
+1087
+00:38:10,594 --> 00:38:11,284
+per liter
+
+1088
+00:38:11,334 --> 00:38:13,154
+So well over an order of magnitude
+
+1089
+00:38:13,154 --> 00:38:14,784
+increased in the past 20 years
+
+1090
+00:38:15,634 --> 00:38:16,844
+So and again
+
+1091
+00:38:16,934 --> 00:38:18,294
+pathogens from these
+
+1092
+00:38:18,294 --> 00:38:19,674
+these three wells that have
+
+1093
+00:38:19,674 --> 00:38:22,594
+so this is another scenario where the
+
+1094
+00:38:22,594 --> 00:38:25,234
+proposed new onsite wastewater system
+
+1095
+00:38:25,234 --> 00:38:27,634
+will be a very advanced level of
+
+1096
+00:38:27,634 --> 00:38:28,124
+treatment
+
+1097
+00:38:28,174 --> 00:38:30,014
+It's going to be markable
+
+1098
+00:38:30,014 --> 00:38:31,654
+a markable improvement over what's
+
+1099
+00:38:31,654 --> 00:38:32,704
+there which is
+
+1100
+00:38:32,714 --> 00:38:34,424
+you know really there's
+
+1101
+00:38:34,434 --> 00:38:34,954
+yeah it's very
+
+1102
+00:38:34,954 --> 00:38:39,094
+it's an undersized and and not meeting
+
+1103
+00:38:39,094 --> 00:38:41,054
+the standard of the day to say
+
+1104
+00:38:41,054 --> 00:38:42,454
+the least so that's in that way
+
+1105
+00:38:42,454 --> 00:38:44,414
+I can justify this and I'm also
+
+1106
+00:38:44,414 --> 00:38:45,594
+putting in a permeable reactive
+
+1107
+00:38:45,594 --> 00:38:47,954
+barrier and treating and and then
+
+1108
+00:38:47,954 --> 00:38:50,854
+ongoing monitoring to ensure that the
+
+1109
+00:38:50,854 --> 00:38:52,604
+system is operating as intended
+
+1110
+00:38:53,534 --> 00:38:57,354
+but yeah the the the crux of
+
+1111
+00:38:57,354 --> 00:39:00,304
+it is is is a lot of
+
+1112
+00:39:00,304 --> 00:39:03,204
+times areas don't really know you know
+
+1113
+00:39:03,204 --> 00:39:03,984
+everyone's like well we've been
+
+1114
+00:39:03,984 --> 00:39:05,504
+drinking the water for years or I've
+
+1115
+00:39:05,504 --> 00:39:07,184
+been on this this this water for
+
+1116
+00:39:07,184 --> 00:39:08,944
+you know I had a um it
+
+1117
+00:39:08,944 --> 00:39:09,844
+was a you know friend of the
+
+1118
+00:39:09,844 --> 00:39:11,864
+family who'd been drinking the
+
+1119
+00:39:11,864 --> 00:39:14,344
+groundwater uh at from his well um
+
+1120
+00:39:14,344 --> 00:39:16,104
+you know well over 20 years and
+
+1121
+00:39:16,104 --> 00:39:17,404
+and was like oh well we should
+
+1122
+00:39:17,404 --> 00:39:18,744
+get you to test it so I
+
+1123
+00:39:18,744 --> 00:39:20,164
+did and you know uranium
+
+1124
+00:39:20,164 --> 00:39:22,804
+concentrations that were two orders of
+
+1125
+00:39:22,804 --> 00:39:24,264
+magnitude above the drinking water
+
+1126
+00:39:24,264 --> 00:39:27,844
+guidelines you know and it's it's um
+
+1127
+00:39:27,844 --> 00:39:30,994
+you know we in canada here we
+
+1128
+00:39:30,994 --> 00:39:34,194
+had walkerton that was a uh a
+
+1129
+00:39:34,194 --> 00:39:36,254
+feedlot that ended up contaminating a
+
+1130
+00:39:36,254 --> 00:39:40,054
+water supply people died um but more
+
+1131
+00:39:40,054 --> 00:39:42,554
+often what happens well I'll bring up
+
+1132
+00:39:42,554 --> 00:39:44,434
+the Bragg creek uh which again was
+
+1133
+00:39:44,434 --> 00:39:46,454
+where I I um did my master's
+
+1134
+00:39:46,454 --> 00:39:48,994
+thesis about 50 percent of the wells
+
+1135
+00:39:48,994 --> 00:39:50,614
+that were operating in Bragg creek
+
+1136
+00:39:50,614 --> 00:39:52,694
+were contaminated by their or their
+
+1137
+00:39:52,694 --> 00:39:56,094
+neighbor septic systems uh and um you
+
+1138
+00:39:56,094 --> 00:39:58,474
+know that my master's thesis was used
+
+1139
+00:39:58,474 --> 00:40:00,394
+by the local government to justify
+
+1140
+00:40:00,394 --> 00:40:03,074
+putting in big pipe uh with respect
+
+1141
+00:40:03,074 --> 00:40:04,814
+to both groundwater like groundwater
+
+1142
+00:40:04,814 --> 00:40:07,414
+supply and then and then wastewater um
+
+1143
+00:40:07,414 --> 00:40:09,674
+so important yeah really important
+
+1144
+00:40:09,674 --> 00:40:13,474
+work um sometimes what can happen uh
+
+1145
+00:40:13,474 --> 00:40:16,434
+is people develop tolerances their
+
+1146
+00:40:16,434 --> 00:40:18,394
+bodies develop a tolerance to drinking
+
+1147
+00:40:18,394 --> 00:40:20,894
+contaminated water uh but then you
+
+1148
+00:40:20,894 --> 00:40:23,134
+know cousin joe comes and visits and
+
+1149
+00:40:23,134 --> 00:40:24,834
+is like dang you know my my
+
+1150
+00:40:24,834 --> 00:40:26,414
+you know that comes from the city
+
+1151
+00:40:26,414 --> 00:40:28,254
+is used to drinking chlorinated water
+
+1152
+00:40:28,254 --> 00:40:31,254
+and has some guttural gi issues you
+
+1153
+00:40:31,254 --> 00:40:33,314
+know well whatever you know leaves not
+
+1154
+00:40:33,314 --> 00:40:35,334
+not a big deal but um yeah
+
+1155
+00:40:35,334 --> 00:40:37,594
+the more you know right so uh
+
+1156
+00:40:37,594 --> 00:40:39,114
+going back to the the idea of
+
+1157
+00:40:39,114 --> 00:40:42,734
+ro um for those those um potentially
+
+1158
+00:40:42,734 --> 00:40:45,394
+at risk uh or highly vulnerable
+
+1159
+00:40:45,394 --> 00:40:47,774
+aquifers is not a bad idea um
+
+1160
+00:40:47,774 --> 00:40:50,094
+but again do you really need to
+
+1161
+00:40:50,094 --> 00:40:51,494
+do it and the way you're going
+
+1162
+00:40:51,494 --> 00:40:52,474
+to know if you need to do
+
+1163
+00:40:52,474 --> 00:40:54,594
+that is by sampling your your raw
+
+1164
+00:40:54,594 --> 00:40:56,700
+water your watch raw drinking water
+
+1165
+00:40:56,700 --> 00:40:59,080
+yeah that's some really good advice
+
+1166
+00:40:59,080 --> 00:41:01,880
+and insight so I want to pull
+
+1167
+00:41:01,880 --> 00:41:04,140
+this back into the engineers
+
+1168
+00:41:04,140 --> 00:41:05,720
+installers and maintenance providers
+
+1169
+00:41:05,720 --> 00:41:07,320
+that are listening to this because
+
+1170
+00:41:07,320 --> 00:41:11,800
+this level this depth of detail and
+
+1171
+00:41:11,800 --> 00:41:14,200
+science into what how what they do
+
+1172
+00:41:14,200 --> 00:41:16,440
+affects things is is probably more
+
+1173
+00:41:16,440 --> 00:41:18,340
+than they're used to encountering
+
+1174
+00:41:18,340 --> 00:41:19,720
+unless they're they're real big into
+
+1175
+00:41:19,720 --> 00:41:21,420
+going a lot of conferences and doing
+
+1176
+00:41:21,420 --> 00:41:24,020
+a lot of education so just speaking
+
+1177
+00:41:24,020 --> 00:41:25,740
+to them what are what's the things
+
+1178
+00:41:25,740 --> 00:41:26,800
+that you could say to those
+
+1179
+00:41:26,800 --> 00:41:28,560
+maintenance providers installers and
+
+1180
+00:41:28,560 --> 00:41:32,260
+engineers kind of some best practices
+
+1181
+00:41:32,260 --> 00:41:33,900
+that they can take away from this
+
+1182
+00:41:33,900 --> 00:41:36,140
+and apply to the work that they
+
+1183
+00:41:36,140 --> 00:41:38,500
+do and to help improve the outcomes
+
+1184
+00:41:38,500 --> 00:41:41,334
+for everybody so yeah it's a great
+
+1185
+00:41:41,334 --> 00:41:43,614
+question um I've spoke with my
+
+1186
+00:41:43,614 --> 00:41:45,394
+colleagues and in general they say if
+
+1187
+00:41:45,394 --> 00:41:47,494
+a septic system goes in according to
+
+1188
+00:41:47,494 --> 00:41:49,734
+standard practice that uh that it's
+
+1189
+00:41:49,734 --> 00:41:51,674
+likely not going to create
+
+1190
+00:41:51,674 --> 00:41:55,074
+contamination um and and um I think
+
+1191
+00:41:55,074 --> 00:41:56,994
+generally that that is the case uh
+
+1192
+00:41:56,994 --> 00:41:58,814
+that that is the uh you know
+
+1193
+00:41:58,814 --> 00:42:02,134
+the um yeah that that's that is
+
+1194
+00:42:02,134 --> 00:42:04,214
+I I don't disagree with that again
+
+1195
+00:42:04,214 --> 00:42:06,354
+it's when we get into these um
+
+1196
+00:42:06,354 --> 00:42:09,014
+I call them sensitive environments so
+
+1197
+00:42:09,014 --> 00:42:12,734
+um again shallow groundwater table uh
+
+1198
+00:42:12,734 --> 00:42:15,074
+proximity to surface water bodies
+
+1199
+00:42:15,074 --> 00:42:18,434
+that's when you know the the like
+
+1200
+00:42:18,434 --> 00:42:21,114
+people in industry uh whether the the
+
+1201
+00:42:21,114 --> 00:42:24,154
+regulation uh requires them to or not
+
+1202
+00:42:24,154 --> 00:42:26,634
+uh should involve people in in my
+
+1203
+00:42:26,634 --> 00:42:28,914
+area of practice uh to to assess
+
+1204
+00:42:28,914 --> 00:42:30,814
+the you know the risk associated with
+
+1205
+00:42:30,814 --> 00:42:32,524
+what they're doing
+
+1206
+00:42:33,554 --> 00:42:34,274
+So that you know
+
+1207
+00:42:34,274 --> 00:42:35,444
+that's and again
+
+1208
+00:42:35,534 --> 00:42:36,084
+typically
+
+1209
+00:42:36,794 --> 00:42:40,254
+that involvement is dictated by the
+
+1210
+00:42:40,254 --> 00:42:40,904
+regulator
+
+1211
+00:42:41,274 --> 00:42:42,784
+But if it's not
+
+1212
+00:42:42,874 --> 00:42:45,084
+I'd say again
+
+1213
+00:42:45,094 --> 00:42:48,194
+just sampling water quality and
+
+1214
+00:42:48,194 --> 00:42:51,884
+recognizing that boots on the ground
+
+1215
+00:42:52,014 --> 00:42:53,894
+so planners installers
+
+1216
+00:42:53,894 --> 00:42:57,594
+maintenance providers um have like are
+
+1217
+00:42:57,594 --> 00:42:59,714
+in a great position to understand
+
+1218
+00:42:59,714 --> 00:43:02,834
+empirically or or in real life what's
+
+1219
+00:43:02,834 --> 00:43:04,694
+going on and I think the biggest
+
+1220
+00:43:04,694 --> 00:43:06,414
+thing that that can be done is
+
+1221
+00:43:06,414 --> 00:43:09,694
+um sampling well water you know of
+
+1222
+00:43:09,694 --> 00:43:11,534
+the so if if if a property
+
+1223
+00:43:11,534 --> 00:43:13,974
+owner is on well water um you
+
+1224
+00:43:13,974 --> 00:43:16,574
+know ask for their water quality and
+
+1225
+00:43:16,574 --> 00:43:18,614
+uh do you know like I was
+
+1226
+00:43:18,614 --> 00:43:20,154
+gonna I'm gonna give a shameless plug
+
+1227
+00:43:20,154 --> 00:43:22,754
+but um I'm developing a course for
+
+1228
+00:43:22,754 --> 00:43:25,514
+maintenance providers on how to do
+
+1229
+00:43:25,514 --> 00:43:28,034
+environmental sampling according to
+
+1230
+00:43:28,034 --> 00:43:30,514
+standard practices yeah and it's with
+
+1231
+00:43:30,514 --> 00:43:34,994
+Equip Training and it's although we
+
+1232
+00:43:34,994 --> 00:43:37,054
+have a BC focus it can be
+
+1233
+00:43:37,054 --> 00:43:40,554
+applied anywhere in in the world I've
+
+1234
+00:43:40,554 --> 00:43:42,674
+developed out a course with respect to
+
+1235
+00:43:42,674 --> 00:43:43,774
+the use of permeable or active
+
+1236
+00:43:43,774 --> 00:43:46,494
+barriers or nitrate
+
+1237
+00:43:46,494 --> 00:43:50,024
+nitrate and nutrients
+
+1238
+00:43:50,734 --> 00:43:53,334
+So understanding better how they move
+
+1239
+00:43:53,334 --> 00:43:54,974
+through the system and how to treat
+
+1240
+00:43:54,974 --> 00:43:55,844
+them passively
+
+1241
+00:43:56,514 --> 00:43:58,014
+But this is a new course that
+
+1242
+00:43:58,014 --> 00:43:59,554
+I'm developing specifically for the
+
+1243
+00:43:59,554 --> 00:44:00,444
+maintenance providers
+
+1244
+00:44:00,534 --> 00:44:02,894
+So this is when the maintenance plan
+
+1245
+00:44:02,894 --> 00:44:04,384
+involves maintenance and monitoring
+
+1246
+00:44:04,834 --> 00:44:06,394
+Monitoring again I've mentioned
+
+1247
+00:44:06,394 --> 00:44:08,934
+success and what success looks like
+
+1248
+00:44:08,934 --> 00:44:10,494
+from an advanced treatment unit with
+
+1249
+00:44:10,494 --> 00:44:13,294
+respect to reduction in BOD and TSS
+
+1250
+00:44:13,294 --> 00:44:15,974
+is very different than our success
+
+1251
+00:44:15,974 --> 00:44:18,674
+measures in in that effluent migration
+
+1252
+00:44:18,674 --> 00:44:20,794
+to the receiving environment and so
+
+1253
+00:44:20,794 --> 00:44:22,754
+those parameters look more like
+
+1254
+00:44:22,754 --> 00:44:26,054
+nitrate pathogens those are the
+
+1255
+00:44:26,054 --> 00:44:28,594
+primary parameters of concern I also
+
+1256
+00:44:28,594 --> 00:44:30,734
+like to look at chloride sulfate
+
+1257
+00:44:30,734 --> 00:44:35,274
+electrical conductivity and alkalinity
+
+1258
+00:44:35,274 --> 00:44:38,154
+those can also be associated with a
+
+1259
+00:44:38,154 --> 00:44:38,954
+septic plume
+
+1260
+00:44:38,954 --> 00:44:40,144
+They're more indicators
+
+1261
+00:44:40,354 --> 00:44:44,154
+and they're very cheap parameters to
+
+1262
+00:44:44,154 --> 00:44:44,534
+look at
+
+1263
+00:44:44,534 --> 00:44:46,034
+People like to use caffeine as a
+
+1264
+00:44:46,034 --> 00:44:46,624
+tracer
+
+1265
+00:44:46,674 --> 00:44:48,204
+I think it's really expensive
+
+1266
+00:44:48,294 --> 00:44:50,854
+$200 a sample versus chloride
+
+1267
+00:44:50,854 --> 00:44:52,194
+which is $5 a sample
+
+1268
+00:44:52,194 --> 00:44:56,024
+and can give you similar information
+
+1269
+00:44:56,414 --> 00:44:59,854
+We get into sources of those different
+
+1270
+00:44:59,854 --> 00:45:00,844
+contaminants
+
+1271
+00:45:00,954 --> 00:45:03,194
+So nitrate and chloride can come from
+
+1272
+00:45:03,194 --> 00:45:04,374
+different sources land
+
+1273
+00:45:04,374 --> 00:45:05,364
+different land uses
+
+1274
+00:45:05,914 --> 00:45:07,874
+Chloride can be coming from road
+
+1275
+00:45:07,874 --> 00:45:08,484
+salts
+
+1276
+00:45:08,514 --> 00:45:10,304
+It can also be coming from septic
+
+1277
+00:45:10,974 --> 00:45:12,294
+So we you know
+
+1278
+00:45:12,294 --> 00:45:13,194
+I guess what I
+
+1279
+00:45:13,194 --> 00:45:14,534
+what I I call it the
+
+1280
+00:45:14,534 --> 00:45:17,024
+the rifle versus the shotgun approach
+
+1281
+00:45:17,494 --> 00:45:19,874
+So the the shotgun approach is to
+
+1282
+00:45:19,874 --> 00:45:21,034
+is to do that sort of broad
+
+1283
+00:45:21,034 --> 00:45:22,574
+assessment use those
+
+1284
+00:45:22,574 --> 00:45:24,214
+those less expensive indicator
+
+1285
+00:45:24,214 --> 00:45:26,374
+parameters to you know
+
+1286
+00:45:26,374 --> 00:45:28,084
+to to focus in on hotspots
+
+1287
+00:45:28,154 --> 00:45:29,374
+Then when we focus in on the
+
+1288
+00:45:29,374 --> 00:45:31,174
+hotspot that's where we can put more
+
+1289
+00:45:31,174 --> 00:45:34,094
+money into um evaluating what is the
+
+1290
+00:45:34,094 --> 00:45:36,234
+source of contamination so is that are
+
+1291
+00:45:36,234 --> 00:45:37,974
+we looking or or it's a combination
+
+1292
+00:45:37,974 --> 00:45:41,534
+of agricultural um you know road salts
+
+1293
+00:45:41,534 --> 00:45:44,574
+industry all sorts of things uh along
+
+1294
+00:45:44,574 --> 00:45:47,174
+with septic um so yeah the the
+
+1295
+00:45:47,174 --> 00:45:49,994
+the biggest I think the biggest um
+
+1296
+00:45:49,994 --> 00:45:53,114
+and most impactful thing that um us
+
+1297
+00:45:53,114 --> 00:45:55,574
+as as practitioners within the on
+
+1298
+00:45:55,574 --> 00:45:57,234
+-site industry can do is encourage
+
+1299
+00:45:57,234 --> 00:45:59,094
+homeowners to sample their well water
+
+1300
+00:45:59,094 --> 00:46:03,034
+and uh and then um how like
+
+1301
+00:46:03,034 --> 00:46:05,794
+allow them to be educated or um
+
+1302
+00:46:05,794 --> 00:46:08,354
+promote education with respect to what
+
+1303
+00:46:08,354 --> 00:46:09,994
+the what the results of that water
+
+1304
+00:46:09,994 --> 00:46:12,654
+quality sampling look like um and and
+
+1305
+00:46:12,654 --> 00:46:15,294
+yeah that looks like again just that
+
+1306
+00:46:15,294 --> 00:46:17,534
+difference between success in from the
+
+1307
+00:46:17,534 --> 00:46:20,780
+atu and the environment right do you
+
+1308
+00:46:20,780 --> 00:46:22,900
+have any maintenance providers you've
+
+1309
+00:46:22,900 --> 00:46:24,800
+worked with or trained that are doing
+
+1310
+00:46:24,800 --> 00:46:27,580
+that well sampling as part of their
+
+1311
+00:46:27,580 --> 00:46:28,574
+ongoing service?
+
+1312
+00:46:28,574 --> 00:46:29,604
+Yeah absolutely
+
+1313
+00:46:30,134 --> 00:46:31,834
+So again here in British Columbia
+
+1314
+00:46:31,834 --> 00:46:33,854
+when we design what's called a type
+
+1315
+00:46:33,854 --> 00:46:36,874
+three system that has to that has
+
+1316
+00:46:36,874 --> 00:46:38,544
+to be overseen by an engineer
+
+1317
+00:46:38,854 --> 00:46:40,574
+And and so I have
+
+1318
+00:46:40,574 --> 00:46:42,494
+you know when I run into these
+
+1319
+00:46:42,494 --> 00:46:44,634
+situations where I have neighboring
+
+1320
+00:46:44,634 --> 00:46:47,574
+wells within a 30 meter setback
+
+1321
+00:46:47,574 --> 00:46:50,894
+I need the maintenance provider to be
+
+1322
+00:46:50,894 --> 00:46:54,174
+able to be competent and understand
+
+1323
+00:46:54,174 --> 00:46:56,914
+and be able to execute the the
+
+1324
+00:46:56,914 --> 00:46:58,294
+maintenance and monitoring program
+
+1325
+00:46:58,294 --> 00:47:00,714
+that I prescribe and so yeah I
+
+1326
+00:47:00,714 --> 00:47:02,274
+um I yeah one of your questions
+
+1327
+00:47:02,274 --> 00:47:04,294
+was uh you know what what what
+
+1328
+00:47:04,294 --> 00:47:05,234
+uh what am I what am I
+
+1329
+00:47:05,234 --> 00:47:06,854
+looking for uh from maintenance
+
+1330
+00:47:06,854 --> 00:47:09,254
+providers or installers uh that in and
+
+1331
+00:47:09,254 --> 00:47:12,434
+it's attention to detail uh and um
+
+1332
+00:47:12,434 --> 00:47:14,234
+I mean that's a that's a really
+
+1333
+00:47:14,234 --> 00:47:16,394
+big factor and a willingness to learn
+
+1334
+00:47:16,394 --> 00:47:19,514
+uh you know again you're not you
+
+1335
+00:47:19,514 --> 00:47:21,734
+you may not have an understanding of
+
+1336
+00:47:21,734 --> 00:47:23,554
+of environmental impacts when you when
+
+1337
+00:47:23,554 --> 00:47:24,774
+you you know you come at it
+
+1338
+00:47:24,774 --> 00:47:25,854
+more from um
+
+1339
+00:47:25,854 --> 00:47:27,894
+an equipment operating perspective
+
+1340
+00:47:27,894 --> 00:47:29,974
+Um but it doesn't mean that you
+
+1341
+00:47:29,974 --> 00:47:30,974
+can't or or
+
+1342
+00:47:30,974 --> 00:47:33,614
+um you can't learn or understand or
+
+1343
+00:47:33,614 --> 00:47:34,564
+or um
+
+1344
+00:47:35,314 --> 00:47:37,184
+uh or educate those homeowners
+
+1345
+00:47:37,254 --> 00:47:37,544
+Right
+
+1346
+00:47:37,914 --> 00:47:39,664
+Um so uh
+
+1347
+00:47:39,794 --> 00:47:40,784
+yeah that's the
+
+1348
+00:47:41,054 --> 00:47:42,890
+that's really good
+
+1349
+00:47:42,900 --> 00:47:44,720
+So you said you're working on a
+
+1350
+00:47:44,720 --> 00:47:46,180
+course or several courses
+
+1351
+00:47:46,180 --> 00:47:47,470
+Those are in the works
+
+1352
+00:47:47,480 --> 00:47:48,590
+They're not ready yet
+
+1353
+00:47:48,680 --> 00:47:50,120
+Like tell us more about that
+
+1354
+00:47:50,120 --> 00:47:50,994
+And where can people
+
+1355
+00:47:50,994 --> 00:47:53,240
+where can people find you and follow
+
+1356
+00:47:53,240 --> 00:47:54,880
+you so that when those courses are
+
+1357
+00:47:54,880 --> 00:47:56,150
+ready and they want to take it
+
+1358
+00:47:56,200 --> 00:47:56,690
+they can
+
+1359
+00:47:56,974 --> 00:47:57,324
+Yeah
+
+1360
+00:47:57,454 --> 00:47:58,574
+So uh Equip Training
+
+1361
+00:47:58,574 --> 00:47:59,944
+uh dot com
+
+1362
+00:47:59,974 --> 00:48:00,784
+I believe it is
+
+1363
+00:48:00,794 --> 00:48:01,574
+And uh so
+
+1364
+00:48:01,574 --> 00:48:03,954
+uh Jim Anderson has developed out
+
+1365
+00:48:03,954 --> 00:48:05,944
+uh Equip Training and then had
+
+1366
+00:48:05,954 --> 00:48:08,354
+uh had asked me to develop some
+
+1367
+00:48:08,354 --> 00:48:09,764
+um there I guess the
+
+1368
+00:48:09,794 --> 00:48:11,274
+you know I more advanced
+
+1369
+00:48:11,274 --> 00:48:11,874
+but I don't
+
+1370
+00:48:11,874 --> 00:48:13,934
+I don't I'm a little bit non
+
+1371
+00:48:13,934 --> 00:48:15,854
+-hierarchical uh it
+
+1372
+00:48:15,854 --> 00:48:17,414
+you know just more curious
+
+1373
+00:48:17,414 --> 00:48:18,204
+if you're more curious
+
+1374
+00:48:18,234 --> 00:48:18,704
+how about that?
+
+1375
+00:48:18,894 --> 00:48:20,344
+Um so the
+
+1376
+00:48:20,454 --> 00:48:22,034
+yeah I have developed a course
+
+1377
+00:48:22,034 --> 00:48:23,214
+I'm going to be offering it again
+
+1378
+00:48:23,214 --> 00:48:24,774
+because I understand the audio on the
+
+1379
+00:48:24,774 --> 00:48:26,214
+first time that I did it uh
+
+1380
+00:48:26,214 --> 00:48:28,074
+it was a little bit off so
+
+1381
+00:48:28,074 --> 00:48:29,814
+I'm going to be offering uh or
+
+1382
+00:48:29,814 --> 00:48:32,354
+or doing redoing my permeable reactive
+
+1383
+00:48:32,354 --> 00:48:34,674
+barrier course I believe we're going
+
+1384
+00:48:34,674 --> 00:48:35,894
+to be doing that the first week
+
+1385
+00:48:35,894 --> 00:48:37,774
+of january and then the first week
+
+1386
+00:48:37,774 --> 00:48:40,814
+of february I'll be doing um do
+
+1387
+00:48:40,814 --> 00:48:44,834
+offering online uh this class for um
+
+1388
+00:48:44,834 --> 00:48:46,674
+the maintenance providers and so this
+
+1389
+00:48:46,674 --> 00:48:48,654
+is going to be specific to standard
+
+1390
+00:48:48,654 --> 00:48:51,154
+operating procedures for environmental
+
+1391
+00:48:51,154 --> 00:48:53,254
+monitoring so what's required what
+
+1392
+00:48:53,254 --> 00:48:56,014
+what is a chain of custody you
+
+1393
+00:48:56,014 --> 00:48:57,494
+know what are the standard practices
+
+1394
+00:48:57,494 --> 00:49:00,194
+that being wearing gloves putting your
+
+1395
+00:49:00,194 --> 00:49:02,254
+samples on ice labeling the bottles
+
+1396
+00:49:02,254 --> 00:49:05,874
+what parameters are are of interest
+
+1397
+00:49:05,874 --> 00:49:07,174
+and what you know how do you
+
+1398
+00:49:07,174 --> 00:49:09,394
+interpret those results also sampling
+
+1399
+00:49:09,394 --> 00:49:12,814
+techniques so are we using monitoring
+
+1400
+00:49:12,814 --> 00:49:15,154
+wells you know observation wells pan
+
+1401
+00:49:15,154 --> 00:49:17,014
+lysimeters the various different
+
+1402
+00:49:17,014 --> 00:49:19,374
+methods that we're trying to get a
+
+1403
+00:49:19,374 --> 00:49:23,054
+representative sample from what we
+
+1404
+00:49:23,054 --> 00:49:25,174
+call the point of application for for
+
+1405
+00:49:25,174 --> 00:49:25,984
+a given
+
+1406
+00:49:26,474 --> 00:49:29,714
+type of effluent treatment along with
+
+1407
+00:49:29,714 --> 00:49:30,754
+yeah what are we using are we
+
+1408
+00:49:30,754 --> 00:49:32,354
+going to use a peristaltic pump are
+
+1409
+00:49:32,354 --> 00:49:34,674
+we going to use bailers that type
+
+1410
+00:49:34,674 --> 00:49:36,314
+of thing so just really pragmatic
+
+1411
+00:49:36,314 --> 00:49:37,874
+boots on the ground And I have
+
+1412
+00:49:37,874 --> 00:49:41,194
+done this training for a select number
+
+1413
+00:49:41,194 --> 00:49:43,374
+of maintenance providers that work in
+
+1414
+00:49:43,374 --> 00:49:46,064
+my local area and are doing
+
+1415
+00:49:46,134 --> 00:49:48,734
+or we have ongoing work on these
+
+1416
+00:49:48,734 --> 00:49:50,874
+sites that are type 3 or type
+
+1417
+00:49:50,874 --> 00:49:53,384
+2 that are with still
+
+1418
+00:49:53,514 --> 00:49:54,694
+you know we call it here
+
+1419
+00:49:54,694 --> 00:49:56,034
+we have a provision
+
+1420
+00:49:56,034 --> 00:49:58,034
+it's called performance -based
+
+1421
+00:49:58,034 --> 00:49:58,594
+monitoring
+
+1422
+00:49:58,594 --> 00:50:00,234
+it's a bit different like british
+
+1423
+00:50:00,234 --> 00:50:03,174
+columbia we rely on on uh professional
+
+1424
+00:50:03,174 --> 00:50:06,014
+liability uh so the the regulators
+
+1425
+00:50:06,014 --> 00:50:09,014
+take no responsibility whatsoever so
+
+1426
+00:50:09,014 --> 00:50:13,074
+as of 2005 uh our health authorities
+
+1427
+00:50:13,074 --> 00:50:15,834
+have put all of that liability onto
+
+1428
+00:50:15,834 --> 00:50:18,794
+the art what are called rowps here
+
+1429
+00:50:18,794 --> 00:50:20,414
+so registered on -site wastewater
+
+1430
+00:50:20,414 --> 00:50:24,474
+practitioners and engineers and so we
+
+1431
+00:50:24,474 --> 00:50:26,874
+we are entirely responsible uh for
+
+1432
+00:50:26,874 --> 00:50:29,074
+what yeah for what happens us and
+
+1433
+00:50:29,074 --> 00:50:31,034
+the homeowner the way that our our
+
+1434
+00:50:31,034 --> 00:50:32,854
+regulations are written uh the
+
+1435
+00:50:32,854 --> 00:50:34,454
+homeowner and then we call it the
+
+1436
+00:50:34,454 --> 00:50:37,094
+ap or the authorized person uh take
+
+1437
+00:50:37,094 --> 00:50:39,574
+responsibility for the potential uh
+
+1438
+00:50:39,574 --> 00:50:42,374
+you know contamination into into the
+
+1439
+00:50:42,374 --> 00:50:44,414
+receiving environment I have worked
+
+1440
+00:50:44,414 --> 00:50:46,574
+with um so we we have a
+
+1441
+00:50:46,574 --> 00:50:48,594
+um well I I'm a registered
+
+1442
+00:50:48,594 --> 00:50:50,554
+professional with uh engineers and
+
+1443
+00:50:50,554 --> 00:50:52,934
+geoscientists of british columbia uh
+
+1444
+00:50:52,934 --> 00:50:55,684
+but we also have ASTTBC
+
+1445
+00:50:55,834 --> 00:50:57,974
+which is the equivalent in terms of
+
+1446
+00:50:57,974 --> 00:50:59,444
+the regulator
+
+1447
+00:50:59,674 --> 00:51:01,604
+We used to be members
+
+1448
+00:51:01,654 --> 00:51:02,764
+now we're registrants
+
+1449
+00:51:02,874 --> 00:51:06,234
+And that all occurs under what we
+
+1450
+00:51:06,234 --> 00:51:08,304
+call the Professional Governance Act
+
+1451
+00:51:08,374 --> 00:51:12,854
+And so if there are complaints from
+
+1452
+00:51:12,854 --> 00:51:16,034
+homeowners or neighbors that are
+
+1453
+00:51:16,034 --> 00:51:18,014
+concerned about contamination of their
+
+1454
+00:51:18,014 --> 00:51:21,094
+property or their wells um from
+
+1455
+00:51:21,094 --> 00:51:22,994
+operation of upgrading on -site
+
+1456
+00:51:22,994 --> 00:51:24,954
+wastewater systems they can contact
+
+1457
+00:51:24,954 --> 00:51:28,874
+egbc or asttbc and lodge complaints
+
+1458
+00:51:28,874 --> 00:51:31,634
+and I have done um investigations
+
+1459
+00:51:31,634 --> 00:51:33,834
+under the professional governance act
+
+1460
+00:51:33,834 --> 00:51:38,714
+of against rowps uh that have had
+
+1461
+00:51:38,714 --> 00:51:40,754
+complaints registered especially when
+
+1462
+00:51:40,754 --> 00:51:42,514
+they get when it gets a little
+
+1463
+00:51:42,514 --> 00:51:44,434
+bit more serious and um there's
+
+1464
+00:51:44,434 --> 00:51:46,114
+concern about contamination of wells
+
+1465
+00:51:46,114 --> 00:51:49,054
+and And yeah
+
+1466
+00:51:49,054 --> 00:51:53,374
+for us the regulators define a health
+
+1467
+00:51:53,374 --> 00:51:59,074
+order on if effluent is found or
+
+1468
+00:51:59,074 --> 00:52:00,734
+pathogen I should say pathogens are
+
+1469
+00:52:00,734 --> 00:52:02,184
+found to be at surface
+
+1470
+00:52:03,134 --> 00:52:04,294
+That's the you know
+
+1471
+00:52:04,294 --> 00:52:05,194
+that's the big flag
+
+1472
+00:52:05,194 --> 00:52:07,684
+So yeah again
+
+1473
+00:52:07,854 --> 00:52:08,904
+different areas have
+
+1474
+00:52:09,194 --> 00:52:10,654
+you know in terms of regulation
+
+1475
+00:52:10,654 --> 00:52:11,814
+they have different ways of
+
+1476
+00:52:11,814 --> 00:52:13,754
+approaching this in terms of
+
+1477
+00:52:13,754 --> 00:52:15,064
+you know potential contamination
+
+1478
+00:52:15,634 --> 00:52:17,064
+dye tracer tests
+
+1479
+00:52:17,274 --> 00:52:19,114
+but dye tracer tests along with
+
+1480
+00:52:19,114 --> 00:52:20,664
+pathogen confirmation
+
+1481
+00:52:20,934 --> 00:52:23,054
+A dye tracer test can show hydraulic
+
+1482
+00:52:23,054 --> 00:52:26,544
+connection between a breakout and
+
+1483
+00:52:26,674 --> 00:52:28,034
+you know an on -site wastewater
+
+1484
+00:52:28,034 --> 00:52:30,194
+system but it doesn't necessarily
+
+1485
+00:52:30,194 --> 00:52:33,474
+mean that that effluent has not been
+
+1486
+00:52:33,474 --> 00:52:33,834
+treated
+
+1487
+00:52:33,834 --> 00:52:37,534
+So the pathogens or the sampling and
+
+1488
+00:52:37,534 --> 00:52:39,194
+the confirmation that there is
+
+1489
+00:52:39,194 --> 00:52:41,234
+pathogens in that breakout water is
+
+1490
+00:52:41,234 --> 00:52:44,934
+essential to understanding and proving
+
+1491
+00:52:44,934 --> 00:52:47,234
+that an onsite wastewater system is
+
+1492
+00:52:47,234 --> 00:52:49,874
+causing harm to human health or the
+
+1493
+00:52:49,874 --> 00:52:50,384
+environment
+
+1494
+00:52:50,800 --> 00:52:53,020
+Wow that's really good
+
+1495
+00:52:53,020 --> 00:52:55,260
+I've just really enjoyed the deep dive
+
+1496
+00:52:55,260 --> 00:52:57,390
+of learning all about this
+
+1497
+00:52:57,480 --> 00:52:59,910
+And you said equiptraining.ca
+
+1498
+00:53:00,000 --> 00:53:01,380
+So I will make sure to link
+
+1499
+00:53:01,380 --> 00:53:02,634
+that in the show notes
+
+1500
+00:53:02,634 --> 00:53:03,804
+Yeah that would be great
+
+1501
+00:53:03,834 --> 00:53:05,494
+And then in terms of getting a
+
+1502
+00:53:05,494 --> 00:53:06,124
+hold of me
+
+1503
+00:53:06,194 --> 00:53:09,774
+I I have a website
+
+1504
+00:53:09,774 --> 00:53:10,784
+but I I
+
+1505
+00:53:10,894 --> 00:53:15,384
+yeah I'm typically pretty maxed out
+
+1506
+00:53:15,494 --> 00:53:16,124
+Yeah
+
+1507
+00:53:16,314 --> 00:53:17,814
+Not not to say I don't want
+
+1508
+00:53:17,814 --> 00:53:19,034
+I don't want more work
+
+1509
+00:53:19,034 --> 00:53:19,484
+I do
+
+1510
+00:53:19,654 --> 00:53:20,864
+I always do
+
+1511
+00:53:21,274 --> 00:53:24,824
+However I I don't advertise in any
+
+1512
+00:53:24,974 --> 00:53:28,154
+you know typically work comes to me
+
+1513
+00:53:28,154 --> 00:53:30,594
+from champions that I have within
+
+1514
+00:53:30,594 --> 00:53:34,454
+local governments and and then on
+
+1515
+00:53:34,454 --> 00:53:36,094
+-site wastewater practitioners that
+
+1516
+00:53:36,094 --> 00:53:38,134
+have worked with me or or again
+
+1517
+00:53:38,134 --> 00:53:40,794
+know of me because I take on
+
+1518
+00:53:40,794 --> 00:53:44,274
+the hard stuff so I I have
+
+1519
+00:53:44,274 --> 00:53:45,974
+to I've got to update my my
+
+1520
+00:53:45,974 --> 00:53:47,294
+website but the best way to get
+
+1521
+00:53:47,294 --> 00:53:48,854
+a hold of me is on LinkedIn
+
+1522
+00:53:48,854 --> 00:53:51,274
+just with my name and or my
+
+1523
+00:53:51,274 --> 00:53:53,594
+company name so my phone number and
+
+1524
+00:53:53,594 --> 00:53:57,014
+my my email address are provided yeah
+
+1525
+00:53:57,014 --> 00:53:59,974
+and anybody regulators or on -site
+
+1526
+00:53:59,974 --> 00:54:02,274
+wastewater professionals and
+
+1527
+00:54:02,274 --> 00:54:05,614
+practitioners that have concerns about
+
+1528
+00:54:05,614 --> 00:54:06,444
+contamination
+
+1529
+00:54:07,214 --> 00:54:09,784
+I'm always willing to speak with them
+
+1530
+00:54:09,994 --> 00:54:11,924
+Cumulative effects specifically
+
+1531
+00:54:12,294 --> 00:54:13,894
+land use and cumulative effects are
+
+1532
+00:54:13,894 --> 00:54:14,724
+where I'm at
+
+1533
+00:54:15,194 --> 00:54:17,014
+And then the use of the permeable
+
+1534
+00:54:17,014 --> 00:54:19,894
+reactive barriers as well as training
+
+1535
+00:54:19,894 --> 00:54:21,424
+in environmental sampling
+
+1536
+00:54:21,694 --> 00:54:23,094
+Those are sort of the
+
+1537
+00:54:23,094 --> 00:54:26,414
+you know if your audience has
+
+1538
+00:54:26,414 --> 00:54:28,634
+concerns or questions about those
+
+1539
+00:54:28,634 --> 00:54:31,754
+particular areas I'm here to answer
+
+1540
+00:54:31,754 --> 00:54:32,444
+those questions
+
+1541
+00:54:32,680 --> 00:54:34,110
+Thank you so much for that
+
+1542
+00:54:34,120 --> 00:54:35,590
+So as we close
+
+1543
+00:54:35,800 --> 00:54:37,840
+what would be your piece of million
+
+1544
+00:54:37,840 --> 00:54:39,680
+dollar advice to someone running a
+
+1545
+00:54:39,680 --> 00:54:41,180
+septic installation pumping
+
+1546
+00:54:41,180 --> 00:54:42,410
+or service business?
+
+1547
+00:54:42,440 --> 00:54:43,610
+What advice would you give them?
+
+1548
+00:54:44,384 --> 00:54:46,544
+Tenacity just you know
+
+1549
+00:54:46,544 --> 00:54:48,414
+being tenacious being organized
+
+1550
+00:54:49,044 --> 00:54:50,254
+I think though
+
+1551
+00:54:50,524 --> 00:54:51,964
+I'd probably step back and say it's
+
+1552
+00:54:51,964 --> 00:54:52,524
+more of a
+
+1553
+00:54:52,524 --> 00:54:54,194
+um more of a general
+
+1554
+00:54:54,384 --> 00:54:55,744
+I have my five pillars of
+
+1555
+00:54:55,744 --> 00:54:56,354
+of health
+
+1556
+00:54:56,424 --> 00:54:57,924
+Uh I think that
+
+1557
+00:54:57,924 --> 00:54:59,964
+you know when we rely on ourselves
+
+1558
+00:54:59,964 --> 00:55:01,084
+um you know
+
+1559
+00:55:01,084 --> 00:55:02,424
+for work which we do
+
+1560
+00:55:02,424 --> 00:55:03,274
+um
+
+1561
+00:55:03,784 --> 00:55:05,644
+it's really important to manage or
+
+1562
+00:55:05,644 --> 00:55:07,314
+balance um our
+
+1563
+00:55:07,384 --> 00:55:08,824
+our our you know
+
+1564
+00:55:08,824 --> 00:55:10,254
+our health uh
+
+1565
+00:55:10,404 --> 00:55:12,304
+so that we can continue to
+
+1566
+00:55:12,304 --> 00:55:14,384
+uh have capacity and
+
+1567
+00:55:14,384 --> 00:55:15,264
+and work at our
+
+1568
+00:55:15,264 --> 00:55:17,384
+our our fullest capacity for us
+
+1569
+00:55:17,384 --> 00:55:18,114
+fullest capabilities
+
+1570
+00:55:18,164 --> 00:55:19,874
+So my five pillars of health
+
+1571
+00:55:20,144 --> 00:55:24,754
+My million dollar advice are sleep
+
+1572
+00:55:25,484 --> 00:55:26,994
+Sleep is the most critical
+
+1573
+00:55:27,484 --> 00:55:29,654
+Hydration keeping yourself hydrated
+
+1574
+00:55:29,944 --> 00:55:31,214
+eating good food
+
+1575
+00:55:31,464 --> 00:55:33,394
+exercise and then stress management
+
+1576
+00:55:33,524 --> 00:55:34,844
+That's my you know
+
+1577
+00:55:34,844 --> 00:55:36,044
+my million dollar advice is
+
+1578
+00:55:36,044 --> 00:55:37,774
+I think if
+
+1579
+00:55:37,864 --> 00:55:38,844
+like you know
+
+1580
+00:55:38,844 --> 00:55:40,094
+they sound so simple
+
+1581
+00:55:40,544 --> 00:55:42,144
+But when we step back and we
+
+1582
+00:55:42,144 --> 00:55:42,954
+see oh we're getting
+
+1583
+00:55:42,984 --> 00:55:43,964
+you know we keep getting sick
+
+1584
+00:55:43,964 --> 00:55:45,584
+or you know
+
+1585
+00:55:45,584 --> 00:55:47,594
+we feel so stressed or whatever
+
+1586
+00:55:47,724 --> 00:55:49,024
+I think if we go back to
+
+1587
+00:55:49,024 --> 00:55:50,304
+those simple principles
+
+1588
+00:55:50,304 --> 00:55:52,034
+that we can just
+
+1589
+00:55:52,124 --> 00:55:53,844
+yeah we can perform at our highest
+
+1590
+00:55:53,844 --> 00:55:56,484
+capacity regardless of the industry
+
+1591
+00:55:56,484 --> 00:55:57,624
+that we work in or the work
+
+1592
+00:55:57,624 --> 00:55:58,374
+that we do
+
+1593
+00:55:58,704 --> 00:56:00,054
+And again I agree with you
+
+1594
+00:56:00,144 --> 00:56:01,504
+like like you know
+
+1595
+00:56:01,504 --> 00:56:04,374
+the operators and onsite wastewater
+
+1596
+00:56:05,484 --> 00:56:07,184
+practitioners and professionals are
+
+1597
+00:56:07,184 --> 00:56:09,354
+salt of the earth people
+
+1598
+00:56:09,684 --> 00:56:10,744
+And you know
+
+1599
+00:56:10,744 --> 00:56:11,614
+they get it done
+
+1600
+00:56:11,904 --> 00:56:12,924
+especially when we're dealing with
+
+1601
+00:56:12,924 --> 00:56:14,724
+emergency situations you know
+
+1602
+00:56:14,724 --> 00:56:15,254
+you got to
+
+1603
+00:56:15,324 --> 00:56:16,364
+you got to be out there you
+
+1604
+00:56:16,364 --> 00:56:18,464
+gotta solve the problem you know got
+
+1605
+00:56:18,464 --> 00:56:20,644
+a problem solve a problem um but
+
+1606
+00:56:20,644 --> 00:56:22,124
+yeah that can that can take you
+
+1607
+00:56:22,124 --> 00:56:23,544
+know take out of you so um
+
+1608
+00:56:23,544 --> 00:56:24,324
+you got to be able to put
+
+1609
+00:56:24,324 --> 00:56:27,680
+back that's such great advice
+
+1610
+00:56:28,204 --> 00:56:31,204
+my five pillars no it's it's really
+
+1611
+00:56:31,204 --> 00:56:33,230
+great and it's it's simple but it's
+
+1612
+00:56:33,230 --> 00:56:35,570
+not easy right it's it's just five
+
+1613
+00:56:35,570 --> 00:56:37,410
+simple things but it's it's harder to
+
+1614
+00:56:37,410 --> 00:56:40,270
+to implement those habits but yeah
+
+1615
+00:56:40,270 --> 00:56:41,670
+there are so many people especially
+
+1616
+00:56:41,670 --> 00:56:44,190
+that listen that they're still they're
+
+1617
+00:56:44,190 --> 00:56:45,410
+still in the track they're still doing
+
+1618
+00:56:45,410 --> 00:56:46,430
+the work and they're running a
+
+1619
+00:56:46,430 --> 00:56:49,330
+business and um taking care of their
+
+1620
+00:56:49,330 --> 00:56:51,710
+health really is the bottom priority
+
+1621
+00:56:51,710 --> 00:56:53,910
+and then when you when you do
+
+1622
+00:56:53,910 --> 00:56:55,090
+that for years and years and you
+
+1623
+00:56:55,090 --> 00:56:56,950
+compound that it causes a lot of
+
+1624
+00:56:56,950 --> 00:56:59,910
+problems so it's just excellent advice
+
+1625
+00:56:59,910 --> 00:57:01,930
+there so that and tenacity we all
+
+1626
+00:57:01,930 --> 00:57:04,864
+need tenacity in our lives so um
+
+1627
+00:57:04,864 --> 00:57:06,724
+and adaptation that's what my parents
+
+1628
+00:57:06,724 --> 00:57:08,144
+would tell me uh you know as
+
+1629
+00:57:08,144 --> 00:57:10,984
+we age uh adapting to the new
+
+1630
+00:57:10,984 --> 00:57:12,464
+scenarios that we have to deal with
+
+1631
+00:57:12,464 --> 00:57:14,624
+um you know the new fun things
+
+1632
+00:57:14,624 --> 00:57:18,264
+that age the challenges that age
+
+1633
+00:57:18,264 --> 00:57:19,534
+brings to us
+
+1634
+00:57:19,904 --> 00:57:21,124
+I mean you know
+
+1635
+00:57:21,124 --> 00:57:22,154
+wisdom is incredible
+
+1636
+00:57:22,284 --> 00:57:22,574
+And
+
+1637
+00:57:23,124 --> 00:57:24,664
+you know you can't gain it any
+
+1638
+00:57:24,664 --> 00:57:26,014
+other way than experience
+
+1639
+00:57:26,164 --> 00:57:28,454
+But the more years you have
+
+1640
+00:57:28,904 --> 00:57:32,264
+the more the five principles of health
+
+1641
+00:57:32,264 --> 00:57:33,594
+become important
+
+1642
+00:57:33,624 --> 00:57:35,524
+You know I talked to people in
+
+1643
+00:57:35,524 --> 00:57:36,784
+all different walks of life
+
+1644
+00:57:36,784 --> 00:57:37,374
+And I think we
+
+1645
+00:57:37,424 --> 00:57:38,344
+you know through life
+
+1646
+00:57:38,344 --> 00:57:39,204
+we come to those
+
+1647
+00:57:39,204 --> 00:57:40,674
+you know those five pillars
+
+1648
+00:57:41,124 --> 00:57:44,304
+naturally you know but it is funny
+
+1649
+00:57:44,304 --> 00:57:46,264
+when I'm chatting with my friends and
+
+1650
+00:57:46,264 --> 00:57:47,624
+you know we're talking I'm like well
+
+1651
+00:57:47,624 --> 00:57:48,764
+have you you know did you drink
+
+1652
+00:57:48,764 --> 00:57:50,644
+water have you have you eaten it
+
+1653
+00:57:50,644 --> 00:57:51,924
+have you got enough salt in your
+
+1654
+00:57:51,924 --> 00:57:53,684
+diet good quality salt I know it
+
+1655
+00:57:53,684 --> 00:57:55,824
+seems so silly but good quality salt
+
+1656
+00:57:55,824 --> 00:57:59,224
+goes a long way and yeah just
+
+1657
+00:57:59,224 --> 00:58:00,284
+taking care of yourself and your
+
+1658
+00:58:00,284 --> 00:58:03,764
+family balance all of it but go
+
+1659
+00:58:03,764 --> 00:58:05,964
+back to the five principles and those
+
+1660
+00:58:05,964 --> 00:58:07,404
+five pillars and I just think
+
+1661
+00:58:07,404 --> 00:58:10,464
+everything happens a lot smoother over
+
+1662
+00:58:10,464 --> 00:58:12,344
+time I know you know that like
+
+1663
+00:58:12,344 --> 00:58:14,564
+uh the operators are just incredible
+
+1664
+00:58:14,564 --> 00:58:17,284
+um running businesses quote you know
+
+1665
+00:58:17,284 --> 00:58:19,304
+putting out quotes keeping the the
+
+1666
+00:58:19,304 --> 00:58:22,884
+ball rolling um I'm I'm amazed by
+
+1667
+00:58:22,884 --> 00:58:24,644
+them you know I uh yeah I'm
+
+1668
+00:58:24,644 --> 00:58:27,204
+constantly amazed by just just their
+
+1669
+00:58:27,204 --> 00:58:29,544
+their capacity uh to keep the ball
+
+1670
+00:58:29,544 --> 00:58:31,664
+rolling and and do good quality work
+
+1671
+00:58:31,664 --> 00:58:35,154
+yeah good on them yeah well prior
+
+1672
+00:58:35,154 --> 00:58:36,334
+thank you so much for being on
+
+1673
+00:58:36,334 --> 00:58:37,224
+yeah thank you
+
+1674
+00:58:37,294 --> 00:58:38,574
+Thanks for the opportunity to chit
+
+1675
+00:58:38,574 --> 00:58:38,934
+chat
+
+1676
+00:58:38,934 --> 00:58:40,014
+And I think the work you're doing
+
+1677
+00:58:40,014 --> 00:58:41,144
+is really important
+
+1678
+00:58:41,574 --> 00:58:44,434
+Just just the importance of on site
+
+1679
+00:58:44,434 --> 00:58:46,814
+and and keeping it in the forefront
+
+1680
+00:58:46,814 --> 00:58:48,164
+education
+
+1681
+00:58:49,354 --> 00:58:51,054
+you know all of it
+
+1682
+00:58:51,054 --> 00:58:52,434
+It's it's it's really great work
+
+1683
+00:58:52,434 --> 00:58:53,124
+So thanks Ashley
+
+1684
+00:58:53,600 --> 00:58:54,550
+Yeah thank you

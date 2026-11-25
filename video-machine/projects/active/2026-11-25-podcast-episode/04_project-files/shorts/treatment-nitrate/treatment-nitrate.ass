@@ -1,0 +1,87 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:32.27,Title,,0,0,0,,{\an5\pos(540,250)}Advanced septic units\Ncan make {\c&H0060ECCD}more nitrate{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.20,0:00:00.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}Out{\c&H00FFFFFF&} here
+Dialogue: 1,0:00:00.84,0:00:01.38,Cap,,0,0,0,,{\pos(540,1400)}Out {\c&H0060ECCD}here{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.58,0:00:02.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}about{\c&H00FFFFFF&} 10 years
+Dialogue: 1,0:00:02.76,0:00:02.96,Cap,,0,0,0,,{\pos(540,1400)}about {\c&H0060ECCD}10{\c&H00FFFFFF&} years
+Dialogue: 1,0:00:02.96,0:00:03.20,Cap,,0,0,0,,{\pos(540,1400)}about 10 {\c&H0060ECCD}years{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.20,0:00:03.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}ago{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.76,0:00:04.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I{\c&H00FFFFFF&} was again
+Dialogue: 1,0:00:04.48,0:00:04.70,Cap,,0,0,0,,{\pos(540,1400)}I {\c&H0060ECCD}was{\c&H00FFFFFF&} again
+Dialogue: 1,0:00:04.70,0:00:05.02,Cap,,0,0,0,,{\pos(540,1400)}I was {\c&H0060ECCD}again{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.02,0:00:05.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}supporting{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:05.54,0:00:05.72,Cap,,0,0,0,,{\pos(540,1400)}supporting {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.72,0:00:05.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doing{\c&H00FFFFFF&} risk
+Dialogue: 1,0:00:05.86,0:00:06.14,Cap,,0,0,0,,{\pos(540,1400)}doing {\c&H0060ECCD}risk{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.14,0:00:06.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}assessment{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:06.62,0:00:06.92,Cap,,0,0,0,,{\pos(540,1400)}assessment {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.92,0:00:07.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on-site{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.28,0:00:07.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wastewater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.54,0:00:08.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}systems{\c&H00FFFFFF&} in BC and
+Dialogue: 1,0:00:08.12,0:00:08.46,Cap,,0,0,0,,{\pos(540,1400)}systems {\c&H0060ECCD}in{\c&H00FFFFFF&} BC and
+Dialogue: 1,0:00:08.46,0:00:08.74,Cap,,0,0,0,,{\pos(540,1400)}systems in {\c&H0060ECCD}BC{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:08.74,0:00:09.30,Cap,,0,0,0,,{\pos(540,1400)}systems in BC {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.30,0:00:09.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}found{\c&H00FFFFFF&} that even
+Dialogue: 1,0:00:09.70,0:00:10.02,Cap,,0,0,0,,{\pos(540,1400)}found {\c&H0060ECCD}that{\c&H00FFFFFF&} even
+Dialogue: 1,0:00:10.02,0:00:10.66,Cap,,0,0,0,,{\pos(540,1400)}found that {\c&H0060ECCD}even{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.66,0:00:10.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}though{\c&H00FFFFFF&} we were
+Dialogue: 1,0:00:10.90,0:00:11.04,Cap,,0,0,0,,{\pos(540,1400)}though {\c&H0060ECCD}we{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:11.04,0:00:11.16,Cap,,0,0,0,,{\pos(540,1400)}though we {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.16,0:00:11.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}going{\c&H00FFFFFF&} to higher
+Dialogue: 1,0:00:11.34,0:00:11.48,Cap,,0,0,0,,{\pos(540,1400)}going {\c&H0060ECCD}to{\c&H00FFFFFF&} higher
+Dialogue: 1,0:00:11.48,0:00:11.72,Cap,,0,0,0,,{\pos(540,1400)}going to {\c&H0060ECCD}higher{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.72,0:00:12.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}levels{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:12.00,0:00:12.16,Cap,,0,0,0,,{\pos(540,1400)}levels {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.16,0:00:12.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}treatment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.90,0:00:13.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} we were
+Dialogue: 1,0:00:13.58,0:00:13.68,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}we{\c&H00FFFFFF&} were
+Dialogue: 1,0:00:13.68,0:00:13.78,Cap,,0,0,0,,{\pos(540,1400)}So we {\c&H0060ECCD}were{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.78,0:00:14.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}treating{\c&H00FFFFFF&} BOD
+Dialogue: 1,0:00:14.26,0:00:15.94,Cap,,0,0,0,,{\pos(540,1400)}treating {\c&H0060ECCD}BOD{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.00,0:00:16.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}TSS{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.66,0:00:17.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} were actually
+Dialogue: 1,0:00:17.18,0:00:17.30,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}were{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:17.30,0:00:17.74,Cap,,0,0,0,,{\pos(540,1400)}we were {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.74,0:00:18.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}creating{\c&H00FFFFFF&} more
+Dialogue: 1,0:00:18.28,0:00:19.74,Cap,,0,0,0,,{\pos(540,1400)}creating {\c&H0060ECCD}more{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.74,0:00:20.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}intense{\c&H00FFFFFF&} nitrate
+Dialogue: 1,0:00:20.32,0:00:21.46,Cap,,0,0,0,,{\pos(540,1400)}intense {\c&H0060ECCD}nitrate{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.46,0:00:22.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plumes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.08,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}So{\c&H00FFFFFF&} it's an
+Dialogue: 1,0:00:22.76,0:00:23.16,Cap,,0,0,0,,{\pos(540,1400)}So {\c&H0060ECCD}it's{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:23.16,0:00:23.26,Cap,,0,0,0,,{\pos(540,1400)}So it's {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.26,0:00:23.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}interesting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.64,0:00:24.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}balance{\c&H00FFFFFF&} between
+Dialogue: 1,0:00:24.22,0:00:24.70,Cap,,0,0,0,,{\pos(540,1400)}balance {\c&H0060ECCD}between{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.70,0:00:25.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} we consider
+Dialogue: 1,0:00:25.90,0:00:26.02,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}we{\c&H00FFFFFF&} consider
+Dialogue: 1,0:00:26.02,0:00:26.34,Cap,,0,0,0,,{\pos(540,1400)}what we {\c&H0060ECCD}consider{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.34,0:00:26.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}success{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:26.80,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}success {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:27.28,0:00:27.48,Cap,,0,0,0,,{\pos(540,1400)}success in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.48,0:00:27.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}advanced{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.82,0:00:28.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}treatment{\c&H00FFFFFF&} unit
+Dialogue: 1,0:00:28.16,0:00:28.56,Cap,,0,0,0,,{\pos(540,1400)}treatment {\c&H0060ECCD}unit{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.56,0:00:28.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}versus{\c&H00FFFFFF&} what we
+Dialogue: 1,0:00:28.96,0:00:29.66,Cap,,0,0,0,,{\pos(540,1400)}versus {\c&H0060ECCD}what{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:29.66,0:00:29.78,Cap,,0,0,0,,{\pos(540,1400)}versus what {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.78,0:00:29.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}see{\c&H00FFFFFF&} as happening
+Dialogue: 1,0:00:29.98,0:00:30.20,Cap,,0,0,0,,{\pos(540,1400)}see {\c&H0060ECCD}as{\c&H00FFFFFF&} happening
+Dialogue: 1,0:00:30.20,0:00:31.04,Cap,,0,0,0,,{\pos(540,1400)}see as {\c&H0060ECCD}happening{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.04,0:00:31.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:31.26,0:00:31.38,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.38,0:00:32.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environment{\c&H00FFFFFF&}

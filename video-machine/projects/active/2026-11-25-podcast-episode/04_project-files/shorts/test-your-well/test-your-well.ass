@@ -1,0 +1,203 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:59.49,Title,,0,0,0,,{\an5\pos(540,250)}Septic owners: test\Nyour {\c&H0060ECCD}well water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.02,0:00:00.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'd{\c&H00FFFFFF&} say is more
+Dialogue: 1,0:00:00.20,0:00:00.40,Cap,,0,0,0,,{\pos(540,1400)}I'd {\c&H0060ECCD}say{\c&H00FFFFFF&} is more
+Dialogue: 1,0:00:00.40,0:00:00.60,Cap,,0,0,0,,{\pos(540,1400)}I'd say {\c&H0060ECCD}is{\c&H00FFFFFF&} more
+Dialogue: 1,0:00:00.60,0:00:00.80,Cap,,0,0,0,,{\pos(540,1400)}I'd say is {\c&H0060ECCD}more{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.80,0:00:01.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}important{\c&H00FFFFFF&} is is
+Dialogue: 1,0:00:01.14,0:00:01.40,Cap,,0,0,0,,{\pos(540,1400)}important {\c&H0060ECCD}is{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:01.40,0:00:01.66,Cap,,0,0,0,,{\pos(540,1400)}important is {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.66,0:00:01.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sampling{\c&H00FFFFFF&} your raw
+Dialogue: 1,0:00:01.96,0:00:02.20,Cap,,0,0,0,,{\pos(540,1400)}sampling {\c&H0060ECCD}your{\c&H00FFFFFF&} raw
+Dialogue: 1,0:00:02.20,0:00:02.68,Cap,,0,0,0,,{\pos(540,1400)}sampling your {\c&H0060ECCD}raw{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.68,0:00:03.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} prior to
+Dialogue: 1,0:00:03.04,0:00:03.40,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}prior{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:03.40,0:00:03.68,Cap,,0,0,0,,{\pos(540,1400)}water prior {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.68,0:00:04.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}treatment{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:04.86,0:00:05.12,Cap,,0,0,0,,{\pos(540,1400)}treatment {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.12,0:00:05.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}understand{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:05.52,0:00:05.88,Cap,,0,0,0,,{\pos(540,1400)}understand {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.88,0:00:06.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}understanding{\c&H00FFFFFF&} it
+Dialogue: 1,0:00:06.28,0:00:06.42,Cap,,0,0,0,,{\pos(540,1400)}understanding {\c&H0060ECCD}it{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.42,0:00:06.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} if if you
+Dialogue: 1,0:00:06.58,0:00:06.88,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}if{\c&H00FFFFFF&} if you
+Dialogue: 1,0:00:06.88,0:00:07.14,Cap,,0,0,0,,{\pos(540,1400)}so if {\c&H0060ECCD}if{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:07.14,0:00:07.40,Cap,,0,0,0,,{\pos(540,1400)}so if if {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.40,0:00:07.72,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}if{\c&H00FFFFFF&} you have a
+Dialogue: 1,0:00:07.72,0:00:07.92,Cap,,0,0,0,,{\pos(540,1400)}if {\c&H0060ECCD}you{\c&H00FFFFFF&} have a
+Dialogue: 1,0:00:07.92,0:00:08.32,Cap,,0,0,0,,{\pos(540,1400)}if you {\c&H0060ECCD}have{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:08.32,0:00:08.42,Cap,,0,0,0,,{\pos(540,1400)}if you have {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.42,0:00:08.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wet{\c&H00FFFFFF&} like if you
+Dialogue: 1,0:00:08.58,0:00:08.82,Cap,,0,0,0,,{\pos(540,1400)}wet {\c&H0060ECCD}like{\c&H00FFFFFF&} if you
+Dialogue: 1,0:00:08.82,0:00:09.00,Cap,,0,0,0,,{\pos(540,1400)}wet like {\c&H0060ECCD}if{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:09.00,0:00:09.28,Cap,,0,0,0,,{\pos(540,1400)}wet like if {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.28,0:00:09.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} operating an
+Dialogue: 1,0:00:09.50,0:00:09.94,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}operating{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:09.94,0:00:10.12,Cap,,0,0,0,,{\pos(540,1400)}are operating {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.12,0:00:10.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}onsite{\c&H00FFFFFF&} wastewater
+Dialogue: 1,0:00:10.36,0:00:10.62,Cap,,0,0,0,,{\pos(540,1400)}onsite {\c&H0060ECCD}wastewater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.62,0:00:11.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&} and you
+Dialogue: 1,0:00:11.06,0:00:11.48,Cap,,0,0,0,,{\pos(540,1400)}system {\c&H0060ECCD}and{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:11.48,0:00:11.62,Cap,,0,0,0,,{\pos(540,1400)}system and {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.62,0:00:11.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} a well you
+Dialogue: 1,0:00:11.74,0:00:11.84,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}a{\c&H00FFFFFF&} well you
+Dialogue: 1,0:00:11.84,0:00:12.12,Cap,,0,0,0,,{\pos(540,1400)}have a {\c&H0060ECCD}well{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:12.12,0:00:12.86,Cap,,0,0,0,,{\pos(540,1400)}have a well {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.86,0:00:13.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}should{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:13.06,0:00:13.18,Cap,,0,0,0,,{\pos(540,1400)}should {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.18,0:00:13.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sampling{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:13.58,0:00:13.86,Cap,,0,0,0,,{\pos(540,1400)}sampling {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.86,0:00:14.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} well water
+Dialogue: 1,0:00:14.24,0:00:14.46,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}well{\c&H00FFFFFF&} water
+Dialogue: 1,0:00:14.46,0:00:14.78,Cap,,0,0,0,,{\pos(540,1400)}that well {\c&H0060ECCD}water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.78,0:00:15.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on{\c&H00FFFFFF&} the on an
+Dialogue: 1,0:00:15.18,0:00:15.28,Cap,,0,0,0,,{\pos(540,1400)}on {\c&H0060ECCD}the{\c&H00FFFFFF&} on an
+Dialogue: 1,0:00:15.28,0:00:15.48,Cap,,0,0,0,,{\pos(540,1400)}on the {\c&H0060ECCD}on{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:15.48,0:00:15.62,Cap,,0,0,0,,{\pos(540,1400)}on the on {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.62,0:00:15.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}annual{\c&H00FFFFFF&} basis
+Dialogue: 1,0:00:15.94,0:00:16.44,Cap,,0,0,0,,{\pos(540,1400)}annual {\c&H0060ECCD}basis{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.44,0:00:17.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}typically{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:17.04,0:00:17.38,Cap,,0,0,0,,{\pos(540,1400)}typically {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:17.38,0:00:17.50,Cap,,0,0,0,,{\pos(540,1400)}typically in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.50,0:00:18.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spring{\c&H00FFFFFF&} that way
+Dialogue: 1,0:00:18.36,0:00:18.76,Cap,,0,0,0,,{\pos(540,1400)}spring {\c&H0060ECCD}that{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:18.76,0:00:18.90,Cap,,0,0,0,,{\pos(540,1400)}spring that {\c&H0060ECCD}way{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.90,0:00:19.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} getting
+Dialogue: 1,0:00:19.06,0:00:19.30,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}getting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.30,0:00:19.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know the
+Dialogue: 1,0:00:19.70,0:00:19.82,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:19.82,0:00:20.46,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.46,0:00:20.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}higher{\c&H00FFFFFF&} water
+Dialogue: 1,0:00:20.74,0:00:21.00,Cap,,0,0,0,,{\pos(540,1400)}higher {\c&H0060ECCD}water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.00,0:00:21.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}level{\c&H00FFFFFF&} and yeah
+Dialogue: 1,0:00:21.34,0:00:21.76,Cap,,0,0,0,,{\pos(540,1400)}level {\c&H0060ECCD}and{\c&H00FFFFFF&} yeah
+Dialogue: 1,0:00:21.76,0:00:22.06,Cap,,0,0,0,,{\pos(540,1400)}level and {\c&H0060ECCD}yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.06,0:00:22.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} anyway I I
+Dialogue: 1,0:00:22.28,0:00:23.02,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}anyway{\c&H00FFFFFF&} I I
+Dialogue: 1,0:00:23.02,0:00:23.26,Cap,,0,0,0,,{\pos(540,1400)}like anyway {\c&H0060ECCD}I{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:23.26,0:00:23.46,Cap,,0,0,0,,{\pos(540,1400)}like anyway I {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.46,0:00:23.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}would{\c&H00FFFFFF&} I would be
+Dialogue: 1,0:00:23.78,0:00:23.98,Cap,,0,0,0,,{\pos(540,1400)}would {\c&H0060ECCD}I{\c&H00FFFFFF&} would be
+Dialogue: 1,0:00:23.98,0:00:24.14,Cap,,0,0,0,,{\pos(540,1400)}would I {\c&H0060ECCD}would{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:24.14,0:00:24.28,Cap,,0,0,0,,{\pos(540,1400)}would I would {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.28,0:00:24.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sampling{\c&H00FFFFFF&} it twice
+Dialogue: 1,0:00:24.56,0:00:24.72,Cap,,0,0,0,,{\pos(540,1400)}sampling {\c&H0060ECCD}it{\c&H00FFFFFF&} twice
+Dialogue: 1,0:00:24.72,0:00:24.98,Cap,,0,0,0,,{\pos(540,1400)}sampling it {\c&H0060ECCD}twice{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.98,0:00:25.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} year for the
+Dialogue: 1,0:00:25.16,0:00:25.36,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}year{\c&H00FFFFFF&} for the
+Dialogue: 1,0:00:25.36,0:00:25.70,Cap,,0,0,0,,{\pos(540,1400)}a year {\c&H0060ECCD}for{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:25.70,0:00:25.84,Cap,,0,0,0,,{\pos(540,1400)}a year for {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.84,0:00:26.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}first{\c&H00FFFFFF&} three years
+Dialogue: 1,0:00:26.04,0:00:26.24,Cap,,0,0,0,,{\pos(540,1400)}first {\c&H0060ECCD}three{\c&H00FFFFFF&} years
+Dialogue: 1,0:00:26.24,0:00:26.46,Cap,,0,0,0,,{\pos(540,1400)}first three {\c&H0060ECCD}years{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.46,0:00:26.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} you're that
+Dialogue: 1,0:00:26.66,0:00:26.86,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}you're{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:26.86,0:00:27.06,Cap,,0,0,0,,{\pos(540,1400)}that you're {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.06,0:00:27.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} living in
+Dialogue: 1,0:00:27.28,0:00:27.50,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}living{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:27.50,0:00:27.68,Cap,,0,0,0,,{\pos(540,1400)}you're living {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.68,0:00:27.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} location and
+Dialogue: 1,0:00:27.90,0:00:28.46,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}location{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:28.46,0:00:28.96,Cap,,0,0,0,,{\pos(540,1400)}a location {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.96,0:00:29.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} you know
+Dialogue: 1,0:00:29.58,0:00:29.90,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:29.90,0:00:29.96,Cap,,0,0,0,,{\pos(540,1400)}then you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.96,0:00:30.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}annually{\c&H00FFFFFF&} after
+Dialogue: 1,0:00:30.40,0:00:30.70,Cap,,0,0,0,,{\pos(540,1400)}annually {\c&H0060ECCD}after{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.70,0:00:31.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} and then you
+Dialogue: 1,0:00:31.62,0:00:31.84,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}and{\c&H00FFFFFF&} then you
+Dialogue: 1,0:00:31.84,0:00:31.94,Cap,,0,0,0,,{\pos(540,1400)}that and {\c&H0060ECCD}then{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:31.94,0:00:32.08,Cap,,0,0,0,,{\pos(540,1400)}that and then {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.08,0:00:32.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}should{\c&H00FFFFFF&} be shot
+Dialogue: 1,0:00:32.22,0:00:32.34,Cap,,0,0,0,,{\pos(540,1400)}should {\c&H0060ECCD}be{\c&H00FFFFFF&} shot
+Dialogue: 1,0:00:32.34,0:00:32.54,Cap,,0,0,0,,{\pos(540,1400)}should be {\c&H0060ECCD}shot{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.54,0:00:33.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}chlorinating{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:33.02,0:00:33.42,Cap,,0,0,0,,{\pos(540,1400)}chlorinating {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.42,0:00:33.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} you're not
+Dialogue: 1,0:00:33.56,0:00:33.74,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}you're{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:33.74,0:00:34.44,Cap,,0,0,0,,{\pos(540,1400)}that you're {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.44,0:00:35.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you're{\c&H00FFFFFF&} not
+Dialogue: 1,0:00:35.12,0:00:35.22,Cap,,0,0,0,,{\pos(540,1400)}you're {\c&H0060ECCD}not{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.22,0:00:35.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}creating{\c&H00FFFFFF&} biofilms
+Dialogue: 1,0:00:35.48,0:00:36.12,Cap,,0,0,0,,{\pos(540,1400)}creating {\c&H0060ECCD}biofilms{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.12,0:00:36.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} in your own
+Dialogue: 1,0:00:36.28,0:00:36.64,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}in{\c&H00FFFFFF&} your own
+Dialogue: 1,0:00:36.64,0:00:36.80,Cap,,0,0,0,,{\pos(540,1400)}with in {\c&H0060ECCD}your{\c&H00FFFFFF&} own
+Dialogue: 1,0:00:36.80,0:00:37.00,Cap,,0,0,0,,{\pos(540,1400)}with in your {\c&H0060ECCD}own{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.00,0:00:37.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}distribution{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.52,0:00:38.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&} and then
+Dialogue: 1,0:00:38.00,0:00:38.78,Cap,,0,0,0,,{\pos(540,1400)}system {\c&H0060ECCD}and{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:38.78,0:00:39.16,Cap,,0,0,0,,{\pos(540,1400)}system and {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.16,0:00:40.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}potentially{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:40.32,0:00:40.68,Cap,,0,0,0,,{\pos(540,1400)}potentially {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.68,0:00:40.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} like dealing
+Dialogue: 1,0:00:40.80,0:00:41.48,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}like{\c&H00FFFFFF&} dealing
+Dialogue: 1,0:00:41.48,0:00:42.32,Cap,,0,0,0,,{\pos(540,1400)}know like {\c&H0060ECCD}dealing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.32,0:00:42.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.48,0:00:42.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}contamination{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.96,0:00:43.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} way so again
+Dialogue: 1,0:00:43.38,0:00:44.50,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}way{\c&H00FFFFFF&} so again
+Dialogue: 1,0:00:44.50,0:00:45.18,Cap,,0,0,0,,{\pos(540,1400)}that way {\c&H0060ECCD}so{\c&H00FFFFFF&} again
+Dialogue: 1,0:00:45.18,0:00:45.70,Cap,,0,0,0,,{\pos(540,1400)}that way so {\c&H0060ECCD}again{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.70,0:00:46.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I'd{\c&H00FFFFFF&} say the the
+Dialogue: 1,0:00:46.10,0:00:46.28,Cap,,0,0,0,,{\pos(540,1400)}I'd {\c&H0060ECCD}say{\c&H00FFFFFF&} the the
+Dialogue: 1,0:00:46.28,0:00:46.48,Cap,,0,0,0,,{\pos(540,1400)}I'd say {\c&H0060ECCD}the{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:46.48,0:00:46.70,Cap,,0,0,0,,{\pos(540,1400)}I'd say the {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.70,0:00:46.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}most{\c&H00FFFFFF&} critical
+Dialogue: 1,0:00:46.92,0:00:47.22,Cap,,0,0,0,,{\pos(540,1400)}most {\c&H0060ECCD}critical{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.22,0:00:47.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thing{\c&H00FFFFFF&} if you're
+Dialogue: 1,0:00:47.44,0:00:47.60,Cap,,0,0,0,,{\pos(540,1400)}thing {\c&H0060ECCD}if{\c&H00FFFFFF&} you're
+Dialogue: 1,0:00:47.60,0:00:47.72,Cap,,0,0,0,,{\pos(540,1400)}thing if {\c&H0060ECCD}you're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.72,0:00:48.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}operating{\c&H00FFFFFF&} a well
+Dialogue: 1,0:00:48.12,0:00:48.30,Cap,,0,0,0,,{\pos(540,1400)}operating {\c&H0060ECCD}a{\c&H00FFFFFF&} well
+Dialogue: 1,0:00:48.30,0:00:48.48,Cap,,0,0,0,,{\pos(540,1400)}operating a {\c&H0060ECCD}well{\c&H00FFFFFF&}
+Dialogue: 1,0:00:48.48,0:00:48.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} if you're a
+Dialogue: 1,0:00:48.66,0:00:48.80,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}if{\c&H00FFFFFF&} you're a
+Dialogue: 1,0:00:48.80,0:00:48.92,Cap,,0,0,0,,{\pos(540,1400)}or if {\c&H0060ECCD}you're{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:48.92,0:00:49.16,Cap,,0,0,0,,{\pos(540,1400)}or if you're {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:49.16,0:00:49.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}property{\c&H00FFFFFF&} owner
+Dialogue: 1,0:00:49.36,0:00:49.68,Cap,,0,0,0,,{\pos(540,1400)}property {\c&H0060ECCD}owner{\c&H00FFFFFF&}
+Dialogue: 1,0:00:49.68,0:00:50.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} a well is
+Dialogue: 1,0:00:50.14,0:00:50.26,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}a{\c&H00FFFFFF&} well is
+Dialogue: 1,0:00:50.26,0:00:50.46,Cap,,0,0,0,,{\pos(540,1400)}with a {\c&H0060ECCD}well{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:50.46,0:00:50.70,Cap,,0,0,0,,{\pos(540,1400)}with a well {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:50.70,0:00:50.82,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} you should
+Dialogue: 1,0:00:50.82,0:00:50.96,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}you{\c&H00FFFFFF&} should
+Dialogue: 1,0:00:50.96,0:00:51.12,Cap,,0,0,0,,{\pos(540,1400)}that you {\c&H0060ECCD}should{\c&H00FFFFFF&}
+Dialogue: 1,0:00:51.12,0:00:51.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} getting a
+Dialogue: 1,0:00:51.26,0:00:51.46,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}getting{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:51.46,0:00:51.72,Cap,,0,0,0,,{\pos(540,1400)}be getting {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:51.72,0:00:52.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}comprehensive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:52.30,0:00:52.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}potability{\c&H00FFFFFF&}
+Dialogue: 1,0:00:52.94,0:00:53.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}assessment{\c&H00FFFFFF&} on an
+Dialogue: 1,0:00:53.52,0:00:53.86,Cap,,0,0,0,,{\pos(540,1400)}assessment {\c&H0060ECCD}on{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:53.86,0:00:54.00,Cap,,0,0,0,,{\pos(540,1400)}assessment on {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:54.00,0:00:54.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}annual{\c&H00FFFFFF&} basis and
+Dialogue: 1,0:00:54.30,0:00:54.72,Cap,,0,0,0,,{\pos(540,1400)}annual {\c&H0060ECCD}basis{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:54.72,0:00:55.50,Cap,,0,0,0,,{\pos(540,1400)}annual basis {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:55.50,0:00:55.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}in{\c&H00FFFFFF&} that way
+Dialogue: 1,0:00:55.66,0:00:55.88,Cap,,0,0,0,,{\pos(540,1400)}in {\c&H0060ECCD}that{\c&H00FFFFFF&} way
+Dialogue: 1,0:00:55.88,0:00:56.12,Cap,,0,0,0,,{\pos(540,1400)}in that {\c&H0060ECCD}way{\c&H00FFFFFF&}
+Dialogue: 1,0:00:56.12,0:00:56.38,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you'll{\c&H00FFFFFF&} understand
+Dialogue: 1,0:00:56.38,0:00:56.86,Cap,,0,0,0,,{\pos(540,1400)}you'll {\c&H0060ECCD}understand{\c&H00FFFFFF&}
+Dialogue: 1,0:00:56.86,0:00:57.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}how{\c&H00FFFFFF&} your
+Dialogue: 1,0:00:57.34,0:00:57.64,Cap,,0,0,0,,{\pos(540,1400)}how {\c&H0060ECCD}your{\c&H00FFFFFF&}
+Dialogue: 1,0:00:57.64,0:00:58.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}chemistry{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:58.08,0:00:58.32,Cap,,0,0,0,,{\pos(540,1400)}chemistry {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:58.32,0:00:58.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}changing{\c&H00FFFFFF&} over
+Dialogue: 1,0:00:58.66,0:00:58.98,Cap,,0,0,0,,{\pos(540,1400)}changing {\c&H0060ECCD}over{\c&H00FFFFFF&}
+Dialogue: 1,0:00:58.98,0:00:59.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}time{\c&H00FFFFFF&}

@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:36.31,Title,,0,0,0,,{\an5\pos(540,250)}Hundreds of miles to\Nfind {\c&H0060ECCD}septic plumes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.00,0:00:00.25,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}again{\c&H00FFFFFF&} I've walked
+Dialogue: 1,0:00:00.25,0:00:00.77,Cap,,0,0,0,,{\pos(540,1400)}again {\c&H0060ECCD}I've{\c&H00FFFFFF&} walked
+Dialogue: 1,0:00:00.77,0:00:01.09,Cap,,0,0,0,,{\pos(540,1400)}again I've {\c&H0060ECCD}walked{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.09,0:00:01.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I've{\c&H00FFFFFF&} walked
+Dialogue: 1,0:00:01.35,0:00:01.63,Cap,,0,0,0,,{\pos(540,1400)}I've {\c&H0060ECCD}walked{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.63,0:00:01.99,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}hundreds{\c&H00FFFFFF&} of I
+Dialogue: 1,0:00:01.99,0:00:02.37,Cap,,0,0,0,,{\pos(540,1400)}hundreds {\c&H0060ECCD}of{\c&H00FFFFFF&} I
+Dialogue: 1,0:00:02.37,0:00:02.71,Cap,,0,0,0,,{\pos(540,1400)}hundreds of {\c&H0060ECCD}I{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.71,0:00:02.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}guess{\c&H00FFFFFF&} hundreds of
+Dialogue: 1,0:00:02.85,0:00:03.11,Cap,,0,0,0,,{\pos(540,1400)}guess {\c&H0060ECCD}hundreds{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:03.11,0:00:03.29,Cap,,0,0,0,,{\pos(540,1400)}guess hundreds {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.29,0:00:03.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}miles{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:03.63,0:00:04.05,Cap,,0,0,0,,{\pos(540,1400)}miles {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.05,0:00:04.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}shorelines{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:04.65,0:00:04.83,Cap,,0,0,0,,{\pos(540,1400)}shorelines {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.83,0:00:05.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}rivers{\c&H00FFFFFF&} and creeks
+Dialogue: 1,0:00:05.11,0:00:05.47,Cap,,0,0,0,,{\pos(540,1400)}rivers {\c&H0060ECCD}and{\c&H00FFFFFF&} creeks
+Dialogue: 1,0:00:05.47,0:00:05.87,Cap,,0,0,0,,{\pos(540,1400)}rivers and {\c&H0060ECCD}creeks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.87,0:00:06.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}doing{\c&H00FFFFFF&} these types
+Dialogue: 1,0:00:06.89,0:00:07.23,Cap,,0,0,0,,{\pos(540,1400)}doing {\c&H0060ECCD}these{\c&H00FFFFFF&} types
+Dialogue: 1,0:00:07.23,0:00:07.43,Cap,,0,0,0,,{\pos(540,1400)}doing these {\c&H0060ECCD}types{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.43,0:00:07.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} assessments
+Dialogue: 1,0:00:07.73,0:00:08.25,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}assessments{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.25,0:00:08.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}where{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:08.83,0:00:09.59,Cap,,0,0,0,,{\pos(540,1400)}where {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:09.59,0:00:09.71,Cap,,0,0,0,,{\pos(540,1400)}where in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.71,0:00:10.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}field{\c&H00FFFFFF&} I assess
+Dialogue: 1,0:00:10.03,0:00:10.25,Cap,,0,0,0,,{\pos(540,1400)}field {\c&H0060ECCD}I{\c&H00FFFFFF&} assess
+Dialogue: 1,0:00:10.25,0:00:10.57,Cap,,0,0,0,,{\pos(540,1400)}field I {\c&H0060ECCD}assess{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.57,0:00:10.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}for{\c&H00FFFFFF&} electrical
+Dialogue: 1,0:00:10.79,0:00:11.25,Cap,,0,0,0,,{\pos(540,1400)}for {\c&H0060ECCD}electrical{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.25,0:00:11.93,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}conductivity{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.93,0:00:13.09,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}temperature{\c&H00FFFFFF&} pH
+Dialogue: 1,0:00:13.09,0:00:13.95,Cap,,0,0,0,,{\pos(540,1400)}temperature {\c&H0060ECCD}pH{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.95,0:00:14.69,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} oxidation
+Dialogue: 1,0:00:14.69,0:00:15.21,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}oxidation{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.21,0:00:15.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}reduction{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.65,0:00:16.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}potential{\c&H00FFFFFF&} as well
+Dialogue: 1,0:00:16.13,0:00:16.67,Cap,,0,0,0,,{\pos(540,1400)}potential {\c&H0060ECCD}as{\c&H00FFFFFF&} well
+Dialogue: 1,0:00:16.67,0:00:16.83,Cap,,0,0,0,,{\pos(540,1400)}potential as {\c&H0060ECCD}well{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.83,0:00:17.11,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} dissolved
+Dialogue: 1,0:00:17.11,0:00:17.89,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}dissolved{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.89,0:00:18.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}oxygen{\c&H00FFFFFF&} content
+Dialogue: 1,0:00:18.35,0:00:18.73,Cap,,0,0,0,,{\pos(540,1400)}oxygen {\c&H0060ECCD}content{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.73,0:00:19.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} so from those
+Dialogue: 1,0:00:19.63,0:00:19.81,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}so{\c&H00FFFFFF&} from those
+Dialogue: 1,0:00:19.81,0:00:20.03,Cap,,0,0,0,,{\pos(540,1400)}and so {\c&H0060ECCD}from{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:20.03,0:00:20.61,Cap,,0,0,0,,{\pos(540,1400)}and so from {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.61,0:00:21.33,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}field{\c&H00FFFFFF&} parameters
+Dialogue: 1,0:00:21.33,0:00:21.97,Cap,,0,0,0,,{\pos(540,1400)}field {\c&H0060ECCD}parameters{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.97,0:00:22.23,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}or{\c&H00FFFFFF&} those feet
+Dialogue: 1,0:00:22.23,0:00:22.41,Cap,,0,0,0,,{\pos(540,1400)}or {\c&H0060ECCD}those{\c&H00FFFFFF&} feet
+Dialogue: 1,0:00:22.41,0:00:22.67,Cap,,0,0,0,,{\pos(540,1400)}or those {\c&H0060ECCD}feet{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.67,0:00:22.87,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} field
+Dialogue: 1,0:00:22.87,0:00:23.15,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}field{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.15,0:00:23.65,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}assessment{\c&H00FFFFFF&} I can
+Dialogue: 1,0:00:23.65,0:00:24.73,Cap,,0,0,0,,{\pos(540,1400)}assessment {\c&H0060ECCD}I{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:24.73,0:00:24.99,Cap,,0,0,0,,{\pos(540,1400)}assessment I {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.99,0:00:25.17,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}get{\c&H00FFFFFF&} a baseline of
+Dialogue: 1,0:00:25.17,0:00:25.27,Cap,,0,0,0,,{\pos(540,1400)}get {\c&H0060ECCD}a{\c&H00FFFFFF&} baseline of
+Dialogue: 1,0:00:25.27,0:00:25.65,Cap,,0,0,0,,{\pos(540,1400)}get a {\c&H0060ECCD}baseline{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:25.65,0:00:26.11,Cap,,0,0,0,,{\pos(540,1400)}get a baseline {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.11,0:00:26.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}what{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:26.41,0:00:26.61,Cap,,0,0,0,,{\pos(540,1400)}what {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.61,0:00:26.95,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}groundwater{\c&H00FFFFFF&} looks
+Dialogue: 1,0:00:26.95,0:00:27.37,Cap,,0,0,0,,{\pos(540,1400)}groundwater {\c&H0060ECCD}looks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.37,0:00:27.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} without
+Dialogue: 1,0:00:27.59,0:00:27.87,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}without{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.87,0:00:28.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}impact{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.67,0:00:28.79,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}then{\c&H00FFFFFF&} I can
+Dialogue: 1,0:00:28.79,0:00:28.93,Cap,,0,0,0,,{\pos(540,1400)}And then {\c&H0060ECCD}I{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:28.93,0:00:29.13,Cap,,0,0,0,,{\pos(540,1400)}And then I {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.13,0:00:29.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}find{\c&H00FFFFFF&} where I can
+Dialogue: 1,0:00:29.73,0:00:30.03,Cap,,0,0,0,,{\pos(540,1400)}find {\c&H0060ECCD}where{\c&H00FFFFFF&} I can
+Dialogue: 1,0:00:30.03,0:00:30.43,Cap,,0,0,0,,{\pos(540,1400)}find where {\c&H0060ECCD}I{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:30.43,0:00:30.97,Cap,,0,0,0,,{\pos(540,1400)}find where I {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.97,0:00:31.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}find{\c&H00FFFFFF&} those
+Dialogue: 1,0:00:31.21,0:00:31.39,Cap,,0,0,0,,{\pos(540,1400)}find {\c&H0060ECCD}those{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.39,0:00:31.89,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}individual{\c&H00FFFFFF&} plumes
+Dialogue: 1,0:00:31.89,0:00:32.43,Cap,,0,0,0,,{\pos(540,1400)}individual {\c&H0060ECCD}plumes{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.43,0:00:33.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}where{\c&H00FFFFFF&} I see
+Dialogue: 1,0:00:33.57,0:00:33.71,Cap,,0,0,0,,{\pos(540,1400)}where {\c&H0060ECCD}I{\c&H00FFFFFF&} see
+Dialogue: 1,0:00:33.71,0:00:33.99,Cap,,0,0,0,,{\pos(540,1400)}where I {\c&H0060ECCD}see{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.99,0:00:34.57,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}elevated{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.57,0:00:35.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}electrical{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.05,0:00:35.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}conductivity{\c&H00FFFFFF&}

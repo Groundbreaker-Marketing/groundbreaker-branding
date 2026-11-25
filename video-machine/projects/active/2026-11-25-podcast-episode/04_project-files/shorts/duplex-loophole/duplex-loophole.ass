@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:45.30,Title,,0,0,0,,{\an5\pos(540,250)}The septic {\c&H0060ECCD}loophole{\c&H00FFFFFF&}\Nskipping impact studies
+Dialogue: 1,0:00:00.00,0:00:00.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} what happens
+Dialogue: 1,0:00:00.19,0:00:00.77,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}what{\c&H00FFFFFF&} happens
+Dialogue: 1,0:00:00.77,0:00:01.17,Cap,,0,0,0,,{\pos(540,1400)}so what {\c&H0060ECCD}happens{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.17,0:00:01.51,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&} is you'll
+Dialogue: 1,0:00:01.51,0:00:02.67,Cap,,0,0,0,,{\pos(540,1400)}there {\c&H0060ECCD}is{\c&H00FFFFFF&} you'll
+Dialogue: 1,0:00:02.67,0:00:03.19,Cap,,0,0,0,,{\pos(540,1400)}there is {\c&H0060ECCD}you'll{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.19,0:00:04.83,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}have{\c&H00FFFFFF&} like
+Dialogue: 1,0:00:04.83,0:00:05.29,Cap,,0,0,0,,{\pos(540,1400)}have {\c&H0060ECCD}like{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.29,0:00:05.79,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}loophole{\c&H00FFFFFF&} in terms
+Dialogue: 1,0:00:05.79,0:00:06.33,Cap,,0,0,0,,{\pos(540,1400)}loophole {\c&H0060ECCD}in{\c&H00FFFFFF&} terms
+Dialogue: 1,0:00:06.33,0:00:06.51,Cap,,0,0,0,,{\pos(540,1400)}loophole in {\c&H0060ECCD}terms{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.51,0:00:06.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}of{\c&H00FFFFFF&} of again
+Dialogue: 1,0:00:06.85,0:00:07.15,Cap,,0,0,0,,{\pos(540,1400)}of {\c&H0060ECCD}of{\c&H00FFFFFF&} again
+Dialogue: 1,0:00:07.15,0:00:07.93,Cap,,0,0,0,,{\pos(540,1400)}of of {\c&H0060ECCD}again{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.93,0:00:08.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}avoiding{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.59,0:00:09.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environmental{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.13,0:00:09.55,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}impact{\c&H00FFFFFF&} study
+Dialogue: 1,0:00:09.55,0:00:10.53,Cap,,0,0,0,,{\pos(540,1400)}impact {\c&H0060ECCD}study{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.53,0:00:10.75,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you'll{\c&H00FFFFFF&} have
+Dialogue: 1,0:00:10.75,0:00:10.89,Cap,,0,0,0,,{\pos(540,1400)}you'll {\c&H0060ECCD}have{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.89,0:00:11.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}designers{\c&H00FFFFFF&} do you
+Dialogue: 1,0:00:11.39,0:00:12.63,Cap,,0,0,0,,{\pos(540,1400)}designers {\c&H0060ECCD}do{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:12.63,0:00:13.27,Cap,,0,0,0,,{\pos(540,1400)}designers do {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.27,0:00:13.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} multiple
+Dialogue: 1,0:00:13.41,0:00:14.15,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}multiple{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.15,0:00:14.85,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}systems{\c&H00FFFFFF&} on the
+Dialogue: 1,0:00:14.85,0:00:15.99,Cap,,0,0,0,,{\pos(540,1400)}systems {\c&H0060ECCD}on{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:15.99,0:00:16.13,Cap,,0,0,0,,{\pos(540,1400)}systems on {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.13,0:00:16.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}same{\c&H00FFFFFF&} property but
+Dialogue: 1,0:00:16.35,0:00:16.83,Cap,,0,0,0,,{\pos(540,1400)}same {\c&H0060ECCD}property{\c&H00FFFFFF&} but
+Dialogue: 1,0:00:16.83,0:00:17.09,Cap,,0,0,0,,{\pos(540,1400)}same property {\c&H0060ECCD}but{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.09,0:00:17.37,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:17.37,0:00:17.57,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.57,0:00:18.05,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}duplex{\c&H00FFFFFF&} they're
+Dialogue: 1,0:00:18.05,0:00:18.35,Cap,,0,0,0,,{\pos(540,1400)}duplex {\c&H0060ECCD}they're{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.35,0:00:19.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}independent{\c&H00FFFFFF&} they
+Dialogue: 1,0:00:19.73,0:00:20.17,Cap,,0,0,0,,{\pos(540,1400)}independent {\c&H0060ECCD}they{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.17,0:00:20.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}don't{\c&H00FFFFFF&} have to
+Dialogue: 1,0:00:20.35,0:00:20.53,Cap,,0,0,0,,{\pos(540,1400)}don't {\c&H0060ECCD}have{\c&H00FFFFFF&} to
+Dialogue: 1,0:00:20.53,0:00:20.75,Cap,,0,0,0,,{\pos(540,1400)}don't have {\c&H0060ECCD}to{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.75,0:00:21.27,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}undergo{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:21.27,0:00:21.59,Cap,,0,0,0,,{\pos(540,1400)}undergo {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.59,0:00:22.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}level{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:22.67,0:00:22.95,Cap,,0,0,0,,{\pos(540,1400)}level {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.95,0:00:23.73,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environmental{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.73,0:00:24.77,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}impact{\c&H00FFFFFF&} study
+Dialogue: 1,0:00:24.77,0:00:25.31,Cap,,0,0,0,,{\pos(540,1400)}impact {\c&H0060ECCD}study{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.75,0:00:26.39,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} so you end
+Dialogue: 1,0:00:26.39,0:00:26.53,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}so{\c&H00FFFFFF&} you end
+Dialogue: 1,0:00:26.53,0:00:26.67,Cap,,0,0,0,,{\pos(540,1400)}And so {\c&H0060ECCD}you{\c&H00FFFFFF&} end
+Dialogue: 1,0:00:26.67,0:00:26.89,Cap,,0,0,0,,{\pos(540,1400)}And so you {\c&H0060ECCD}end{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.89,0:00:27.03,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}up{\c&H00FFFFFF&} with
+Dialogue: 1,0:00:27.03,0:00:27.17,Cap,,0,0,0,,{\pos(540,1400)}up {\c&H0060ECCD}with{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.17,0:00:27.63,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}cumulative{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.63,0:00:28.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}effects{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.13,0:00:28.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}And{\c&H00FFFFFF&} that's been
+Dialogue: 1,0:00:28.19,0:00:28.41,Cap,,0,0,0,,{\pos(540,1400)}And {\c&H0060ECCD}that's{\c&H00FFFFFF&} been
+Dialogue: 1,0:00:28.41,0:00:28.51,Cap,,0,0,0,,{\pos(540,1400)}And that's {\c&H0060ECCD}been{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.51,0:00:28.67,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}my{\c&H00FFFFFF&} focus in the
+Dialogue: 1,0:00:28.67,0:00:29.09,Cap,,0,0,0,,{\pos(540,1400)}my {\c&H0060ECCD}focus{\c&H00FFFFFF&} in the
+Dialogue: 1,0:00:29.09,0:00:29.81,Cap,,0,0,0,,{\pos(540,1400)}my focus {\c&H0060ECCD}in{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:29.81,0:00:30.19,Cap,,0,0,0,,{\pos(540,1400)}my focus in {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.19,0:00:30.41,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}last{\c&H00FFFFFF&} couple of
+Dialogue: 1,0:00:30.41,0:00:30.63,Cap,,0,0,0,,{\pos(540,1400)}last {\c&H0060ECCD}couple{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:30.63,0:00:30.77,Cap,,0,0,0,,{\pos(540,1400)}last couple {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.77,0:00:30.97,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}years{\c&H00FFFFFF&} here is
+Dialogue: 1,0:00:30.97,0:00:31.33,Cap,,0,0,0,,{\pos(540,1400)}years {\c&H0060ECCD}here{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:31.33,0:00:32.45,Cap,,0,0,0,,{\pos(540,1400)}years here {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.45,0:00:32.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}cumulative{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.81,0:00:33.21,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}effects{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.21,0:00:33.81,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}assessment{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.81,0:00:34.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}specifically{\c&H00FFFFFF&} for
+Dialogue: 1,0:00:34.43,0:00:34.99,Cap,,0,0,0,,{\pos(540,1400)}specifically {\c&H0060ECCD}for{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.99,0:00:35.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on-site{\c&H00FFFFFF&} as well
+Dialogue: 1,0:00:35.61,0:00:35.91,Cap,,0,0,0,,{\pos(540,1400)}on-site {\c&H0060ECCD}as{\c&H00FFFFFF&} well
+Dialogue: 1,0:00:35.91,0:00:36.09,Cap,,0,0,0,,{\pos(540,1400)}on-site as {\c&H0060ECCD}well{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.09,0:00:36.35,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}as{\c&H00FFFFFF&} on-site along
+Dialogue: 1,0:00:36.35,0:00:36.87,Cap,,0,0,0,,{\pos(540,1400)}as {\c&H0060ECCD}on-site{\c&H00FFFFFF&} along
+Dialogue: 1,0:00:36.87,0:00:37.17,Cap,,0,0,0,,{\pos(540,1400)}as on-site {\c&H0060ECCD}along{\c&H00FFFFFF&}
+Dialogue: 1,0:00:37.17,0:00:37.47,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}with{\c&H00FFFFFF&} agriculture
+Dialogue: 1,0:00:37.47,0:00:38.09,Cap,,0,0,0,,{\pos(540,1400)}with {\c&H0060ECCD}agriculture{\c&H00FFFFFF&}
+Dialogue: 1,0:00:38.09,0:00:38.61,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} industry
+Dialogue: 1,0:00:38.61,0:00:39.23,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}industry{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.33,0:00:40.01,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}all{\c&H00FFFFFF&} of these
+Dialogue: 1,0:00:40.01,0:00:40.09,Cap,,0,0,0,,{\pos(540,1400)}all {\c&H0060ECCD}of{\c&H00FFFFFF&} these
+Dialogue: 1,0:00:40.09,0:00:40.35,Cap,,0,0,0,,{\pos(540,1400)}all of {\c&H0060ECCD}these{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.35,0:00:40.59,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}other{\c&H00FFFFFF&} factors or
+Dialogue: 1,0:00:40.59,0:00:41.13,Cap,,0,0,0,,{\pos(540,1400)}other {\c&H0060ECCD}factors{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:41.13,0:00:41.85,Cap,,0,0,0,,{\pos(540,1400)}other factors {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.85,0:00:42.13,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}land{\c&H00FFFFFF&} uses that
+Dialogue: 1,0:00:42.13,0:00:42.47,Cap,,0,0,0,,{\pos(540,1400)}land {\c&H0060ECCD}uses{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:42.47,0:00:42.79,Cap,,0,0,0,,{\pos(540,1400)}land uses {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.79,0:00:43.19,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}affect{\c&H00FFFFFF&} both
+Dialogue: 1,0:00:43.19,0:00:43.71,Cap,,0,0,0,,{\pos(540,1400)}affect {\c&H0060ECCD}both{\c&H00FFFFFF&}
+Dialogue: 1,0:00:43.71,0:00:44.15,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}surfacing{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.15,0:00:44.43,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}groundwater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.43,0:00:45.07,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}quality{\c&H00FFFFFF&}
