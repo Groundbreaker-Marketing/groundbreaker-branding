@@ -1,0 +1,102 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:33.11,Title,,0,0,0,,{\an5\pos(540,250)}The {\c&H0060ECCD}Goldilocks{\c&H00FFFFFF&} recipe\Nfor septic nitrate
+Dialogue: 1,0:00:00.00,0:00:00.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}it's{\c&H00FFFFFF&} goldilocks
+Dialogue: 1,0:00:00.26,0:00:00.82,Cap,,0,0,0,,{\pos(540,1400)}it's {\c&H0060ECCD}goldilocks{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.82,0:00:01.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}thing{\c&H00FFFFFF&} wood chips
+Dialogue: 1,0:00:01.08,0:00:01.28,Cap,,0,0,0,,{\pos(540,1400)}thing {\c&H0060ECCD}wood{\c&H00FFFFFF&} chips
+Dialogue: 1,0:00:01.28,0:00:01.48,Cap,,0,0,0,,{\pos(540,1400)}thing wood {\c&H0060ECCD}chips{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.48,0:00:01.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}are{\c&H00FFFFFF&} too coarse
+Dialogue: 1,0:00:01.68,0:00:01.92,Cap,,0,0,0,,{\pos(540,1400)}are {\c&H0060ECCD}too{\c&H00FFFFFF&} coarse
+Dialogue: 1,0:00:01.92,0:00:02.88,Cap,,0,0,0,,{\pos(540,1400)}are too {\c&H0060ECCD}coarse{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.88,0:00:03.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} the the yeah
+Dialogue: 1,0:00:03.46,0:00:03.96,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}the{\c&H00FFFFFF&} the yeah
+Dialogue: 1,0:00:03.96,0:00:04.60,Cap,,0,0,0,,{\pos(540,1400)}the the {\c&H0060ECCD}the{\c&H00FFFFFF&} yeah
+Dialogue: 1,0:00:04.60,0:00:05.52,Cap,,0,0,0,,{\pos(540,1400)}the the the {\c&H0060ECCD}yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.52,0:00:05.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} the the
+Dialogue: 1,0:00:05.90,0:00:06.20,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}the{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:06.20,0:00:06.48,Cap,,0,0,0,,{\pos(540,1400)}the the {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.48,0:00:06.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sawdust{\c&H00FFFFFF&} is too
+Dialogue: 1,0:00:06.96,0:00:07.14,Cap,,0,0,0,,{\pos(540,1400)}sawdust {\c&H0060ECCD}is{\c&H00FFFFFF&} too
+Dialogue: 1,0:00:07.14,0:00:07.42,Cap,,0,0,0,,{\pos(540,1400)}sawdust is {\c&H0060ECCD}too{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.42,0:00:07.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fine{\c&H00FFFFFF&} so hog fuel
+Dialogue: 1,0:00:07.98,0:00:08.26,Cap,,0,0,0,,{\pos(540,1400)}fine {\c&H0060ECCD}so{\c&H00FFFFFF&} hog fuel
+Dialogue: 1,0:00:08.26,0:00:08.58,Cap,,0,0,0,,{\pos(540,1400)}fine so {\c&H0060ECCD}hog{\c&H00FFFFFF&} fuel
+Dialogue: 1,0:00:08.58,0:00:08.84,Cap,,0,0,0,,{\pos(540,1400)}fine so hog {\c&H0060ECCD}fuel{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.84,0:00:09.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}has{\c&H00FFFFFF&} this ideal
+Dialogue: 1,0:00:09.18,0:00:09.36,Cap,,0,0,0,,{\pos(540,1400)}has {\c&H0060ECCD}this{\c&H00FFFFFF&} ideal
+Dialogue: 1,0:00:09.36,0:00:09.80,Cap,,0,0,0,,{\pos(540,1400)}has this {\c&H0060ECCD}ideal{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.80,0:00:10.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}texture{\c&H00FFFFFF&} to then
+Dialogue: 1,0:00:10.30,0:00:10.96,Cap,,0,0,0,,{\pos(540,1400)}texture {\c&H0060ECCD}to{\c&H00FFFFFF&} then
+Dialogue: 1,0:00:10.96,0:00:11.60,Cap,,0,0,0,,{\pos(540,1400)}texture to {\c&H0060ECCD}then{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.60,0:00:12.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}impregnate{\c&H00FFFFFF&} into a
+Dialogue: 1,0:00:12.42,0:00:12.78,Cap,,0,0,0,,{\pos(540,1400)}impregnate {\c&H0060ECCD}into{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:12.78,0:00:13.24,Cap,,0,0,0,,{\pos(540,1400)}impregnate into {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.24,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sand{\c&H00FFFFFF&} or a sand
+Dialogue: 1,0:00:13.66,0:00:14.44,Cap,,0,0,0,,{\pos(540,1400)}sand {\c&H0060ECCD}or{\c&H00FFFFFF&} a sand
+Dialogue: 1,0:00:14.44,0:00:14.60,Cap,,0,0,0,,{\pos(540,1400)}sand or {\c&H0060ECCD}a{\c&H00FFFFFF&} sand
+Dialogue: 1,0:00:14.60,0:00:14.74,Cap,,0,0,0,,{\pos(540,1400)}sand or a {\c&H0060ECCD}sand{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.74,0:00:14.90,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}and{\c&H00FFFFFF&} gravel but an
+Dialogue: 1,0:00:14.90,0:00:15.08,Cap,,0,0,0,,{\pos(540,1400)}and {\c&H0060ECCD}gravel{\c&H00FFFFFF&} but an
+Dialogue: 1,0:00:15.08,0:00:15.90,Cap,,0,0,0,,{\pos(540,1400)}and gravel {\c&H0060ECCD}but{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:15.90,0:00:16.22,Cap,,0,0,0,,{\pos(540,1400)}and gravel but {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.22,0:00:16.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}engineered{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.62,0:00:17.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}material{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:17.86,0:00:18.14,Cap,,0,0,0,,{\pos(540,1400)}material {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.14,0:00:18.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}risks{\c&H00FFFFFF&} you the
+Dialogue: 1,0:00:18.40,0:00:18.60,Cap,,0,0,0,,{\pos(540,1400)}risks {\c&H0060ECCD}you{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:18.60,0:00:19.04,Cap,,0,0,0,,{\pos(540,1400)}risks you {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.04,0:00:19.30,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}risks{\c&H00FFFFFF&} you run in
+Dialogue: 1,0:00:19.30,0:00:19.46,Cap,,0,0,0,,{\pos(540,1400)}risks {\c&H0060ECCD}you{\c&H00FFFFFF&} run in
+Dialogue: 1,0:00:19.46,0:00:19.68,Cap,,0,0,0,,{\pos(540,1400)}risks you {\c&H0060ECCD}run{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:19.68,0:00:19.80,Cap,,0,0,0,,{\pos(540,1400)}risks you run {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.80,0:00:20.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}using{\c&H00FFFFFF&} too much
+Dialogue: 1,0:00:20.04,0:00:20.30,Cap,,0,0,0,,{\pos(540,1400)}using {\c&H0060ECCD}too{\c&H00FFFFFF&} much
+Dialogue: 1,0:00:20.30,0:00:20.96,Cap,,0,0,0,,{\pos(540,1400)}using too {\c&H0060ECCD}much{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.96,0:00:21.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}carbonaceous{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.56,0:00:21.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}material{\c&H00FFFFFF&} that you
+Dialogue: 1,0:00:21.92,0:00:22.18,Cap,,0,0,0,,{\pos(540,1400)}material {\c&H0060ECCD}that{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:22.18,0:00:22.30,Cap,,0,0,0,,{\pos(540,1400)}material that {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.30,0:00:22.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}create{\c&H00FFFFFF&} you end up
+Dialogue: 1,0:00:22.58,0:00:22.76,Cap,,0,0,0,,{\pos(540,1400)}create {\c&H0060ECCD}you{\c&H00FFFFFF&} end up
+Dialogue: 1,0:00:22.76,0:00:22.88,Cap,,0,0,0,,{\pos(540,1400)}create you {\c&H0060ECCD}end{\c&H00FFFFFF&} up
+Dialogue: 1,0:00:22.88,0:00:22.98,Cap,,0,0,0,,{\pos(540,1400)}create you end {\c&H0060ECCD}up{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.98,0:00:23.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}creating{\c&H00FFFFFF&} a bod
+Dialogue: 1,0:00:23.22,0:00:23.40,Cap,,0,0,0,,{\pos(540,1400)}creating {\c&H0060ECCD}a{\c&H00FFFFFF&} bod
+Dialogue: 1,0:00:23.40,0:00:23.74,Cap,,0,0,0,,{\pos(540,1400)}creating a {\c&H0060ECCD}bod{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.74,0:00:24.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plume{\c&H00FFFFFF&} and and you
+Dialogue: 1,0:00:24.18,0:00:25.12,Cap,,0,0,0,,{\pos(540,1400)}plume {\c&H0060ECCD}and{\c&H00FFFFFF&} and you
+Dialogue: 1,0:00:25.12,0:00:25.68,Cap,,0,0,0,,{\pos(540,1400)}plume and {\c&H0060ECCD}and{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:25.68,0:00:25.84,Cap,,0,0,0,,{\pos(540,1400)}plume and and {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.84,0:00:26.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} also can end
+Dialogue: 1,0:00:26.20,0:00:26.62,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}also{\c&H00FFFFFF&} can end
+Dialogue: 1,0:00:26.62,0:00:26.98,Cap,,0,0,0,,{\pos(540,1400)}you also {\c&H0060ECCD}can{\c&H00FFFFFF&} end
+Dialogue: 1,0:00:26.98,0:00:27.20,Cap,,0,0,0,,{\pos(540,1400)}you also can {\c&H0060ECCD}end{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.20,0:00:27.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}up{\c&H00FFFFFF&} clogging you
+Dialogue: 1,0:00:27.36,0:00:27.82,Cap,,0,0,0,,{\pos(540,1400)}up {\c&H0060ECCD}clogging{\c&H00FFFFFF&} you
+Dialogue: 1,0:00:27.82,0:00:28.14,Cap,,0,0,0,,{\pos(540,1400)}up clogging {\c&H0060ECCD}you{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.14,0:00:28.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}know{\c&H00FFFFFF&} getting
+Dialogue: 1,0:00:28.22,0:00:28.42,Cap,,0,0,0,,{\pos(540,1400)}know {\c&H0060ECCD}getting{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.42,0:00:28.94,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}clogging{\c&H00FFFFFF&} or yeah
+Dialogue: 1,0:00:28.94,0:00:31.38,Cap,,0,0,0,,{\pos(540,1400)}clogging {\c&H0060ECCD}or{\c&H00FFFFFF&} yeah
+Dialogue: 1,0:00:31.38,0:00:31.66,Cap,,0,0,0,,{\pos(540,1400)}clogging or {\c&H0060ECCD}yeah{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.66,0:00:32.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} can be a
+Dialogue: 1,0:00:32.10,0:00:32.24,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}can{\c&H00FFFFFF&} be a
+Dialogue: 1,0:00:32.24,0:00:32.34,Cap,,0,0,0,,{\pos(540,1400)}that can {\c&H0060ECCD}be{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:32.34,0:00:32.42,Cap,,0,0,0,,{\pos(540,1400)}that can be {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.42,0:00:32.56,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}really{\c&H00FFFFFF&} big issue
+Dialogue: 1,0:00:32.56,0:00:32.68,Cap,,0,0,0,,{\pos(540,1400)}really {\c&H0060ECCD}big{\c&H00FFFFFF&} issue
+Dialogue: 1,0:00:32.68,0:00:33.10,Cap,,0,0,0,,{\pos(540,1400)}really big {\c&H0060ECCD}issue{\c&H00FFFFFF&}

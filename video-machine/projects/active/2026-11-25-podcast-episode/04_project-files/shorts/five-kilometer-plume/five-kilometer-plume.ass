@@ -1,0 +1,166 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:01:00.21,Title,,0,0,0,,{\an5\pos(540,250)}Septic plumes can travel\N{\c&H0060ECCD}five kilometers{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.16,0:00:00.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}once{\c&H00FFFFFF&} the once a
+Dialogue: 1,0:00:00.96,0:00:01.28,Cap,,0,0,0,,{\pos(540,1400)}once {\c&H0060ECCD}the{\c&H00FFFFFF&} once a
+Dialogue: 1,0:00:01.28,0:00:01.62,Cap,,0,0,0,,{\pos(540,1400)}once the {\c&H0060ECCD}once{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:01.62,0:00:01.76,Cap,,0,0,0,,{\pos(540,1400)}once the once {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.76,0:00:02.18,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plume{\c&H00FFFFFF&} from a
+Dialogue: 1,0:00:02.18,0:00:02.52,Cap,,0,0,0,,{\pos(540,1400)}plume {\c&H0060ECCD}from{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:02.52,0:00:02.74,Cap,,0,0,0,,{\pos(540,1400)}plume from {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.74,0:00:03.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} system or
+Dialogue: 1,0:00:03.08,0:00:03.50,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}system{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:03.50,0:00:04.06,Cap,,0,0,0,,{\pos(540,1400)}septic system {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.06,0:00:05.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}many{\c&H00FFFFFF&} enter into
+Dialogue: 1,0:00:05.54,0:00:06.00,Cap,,0,0,0,,{\pos(540,1400)}many {\c&H0060ECCD}enter{\c&H00FFFFFF&} into
+Dialogue: 1,0:00:06.00,0:00:06.36,Cap,,0,0,0,,{\pos(540,1400)}many enter {\c&H0060ECCD}into{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.36,0:00:06.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} groundwater
+Dialogue: 1,0:00:06.64,0:00:06.92,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}groundwater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.92,0:00:07.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&} their
+Dialogue: 1,0:00:07.46,0:00:07.62,Cap,,0,0,0,,{\pos(540,1400)}system {\c&H0060ECCD}their{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.62,0:00:07.92,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}highly{\c&H00FFFFFF&} nitrate is
+Dialogue: 1,0:00:07.92,0:00:08.76,Cap,,0,0,0,,{\pos(540,1400)}highly {\c&H0060ECCD}nitrate{\c&H00FFFFFF&} is
+Dialogue: 1,0:00:08.76,0:00:08.94,Cap,,0,0,0,,{\pos(540,1400)}highly nitrate {\c&H0060ECCD}is{\c&H00FFFFFF&}
+Dialogue: 1,0:00:08.94,0:00:09.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}highly{\c&H00FFFFFF&} mobile and
+Dialogue: 1,0:00:09.20,0:00:10.30,Cap,,0,0,0,,{\pos(540,1400)}highly {\c&H0060ECCD}mobile{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:10.30,0:00:10.56,Cap,,0,0,0,,{\pos(540,1400)}highly mobile {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.56,0:00:10.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}there{\c&H00FFFFFF&} is very
+Dialogue: 1,0:00:10.68,0:00:10.84,Cap,,0,0,0,,{\pos(540,1400)}there {\c&H0060ECCD}is{\c&H00FFFFFF&} very
+Dialogue: 1,0:00:10.84,0:00:11.02,Cap,,0,0,0,,{\pos(540,1400)}there is {\c&H0060ECCD}very{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.02,0:00:11.24,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}little{\c&H00FFFFFF&} renovation
+Dialogue: 1,0:00:11.24,0:00:11.78,Cap,,0,0,0,,{\pos(540,1400)}little {\c&H0060ECCD}renovation{\c&H00FFFFFF&}
+Dialogue: 1,0:00:11.78,0:00:12.34,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}after{\c&H00FFFFFF&} that so
+Dialogue: 1,0:00:12.34,0:00:12.58,Cap,,0,0,0,,{\pos(540,1400)}after {\c&H0060ECCD}that{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:12.58,0:00:12.80,Cap,,0,0,0,,{\pos(540,1400)}after that {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.80,0:00:12.98,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I've{\c&H00FFFFFF&} actually
+Dialogue: 1,0:00:12.98,0:00:13.28,Cap,,0,0,0,,{\pos(540,1400)}I've {\c&H0060ECCD}actually{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.28,0:00:14.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}tracked{\c&H00FFFFFF&} septic
+Dialogue: 1,0:00:14.02,0:00:14.62,Cap,,0,0,0,,{\pos(540,1400)}tracked {\c&H0060ECCD}septic{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.62,0:00:15.48,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}plumes{\c&H00FFFFFF&} over five
+Dialogue: 1,0:00:15.48,0:00:16.06,Cap,,0,0,0,,{\pos(540,1400)}plumes {\c&H0060ECCD}over{\c&H00FFFFFF&} five
+Dialogue: 1,0:00:16.06,0:00:16.52,Cap,,0,0,0,,{\pos(540,1400)}plumes over {\c&H0060ECCD}five{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.52,0:00:17.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}kilometers{\c&H00FFFFFF&} in in
+Dialogue: 1,0:00:17.84,0:00:18.44,Cap,,0,0,0,,{\pos(540,1400)}kilometers {\c&H0060ECCD}in{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:18.44,0:00:18.70,Cap,,0,0,0,,{\pos(540,1400)}kilometers in {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:18.70,0:00:18.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}an{\c&H00FFFFFF&} alluvial
+Dialogue: 1,0:00:18.84,0:00:19.16,Cap,,0,0,0,,{\pos(540,1400)}an {\c&H0060ECCD}alluvial{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.16,0:00:19.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}system{\c&H00FFFFFF&} yeah so
+Dialogue: 1,0:00:19.58,0:00:20.78,Cap,,0,0,0,,{\pos(540,1400)}system {\c&H0060ECCD}yeah{\c&H00FFFFFF&} so
+Dialogue: 1,0:00:20.78,0:00:21.34,Cap,,0,0,0,,{\pos(540,1400)}system yeah {\c&H0060ECCD}so{\c&H00FFFFFF&}
+Dialogue: 1,0:00:21.34,0:00:21.58,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} you know
+Dialogue: 1,0:00:21.58,0:00:21.94,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}you{\c&H00FFFFFF&} know
+Dialogue: 1,0:00:21.94,0:00:22.00,Cap,,0,0,0,,{\pos(540,1400)}that you {\c&H0060ECCD}know{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.00,0:00:22.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that's{\c&H00FFFFFF&} therein
+Dialogue: 1,0:00:22.32,0:00:22.94,Cap,,0,0,0,,{\pos(540,1400)}that's {\c&H0060ECCD}therein{\c&H00FFFFFF&}
+Dialogue: 1,0:00:22.94,0:00:23.14,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}lies{\c&H00FFFFFF&} the the the
+Dialogue: 1,0:00:23.14,0:00:23.40,Cap,,0,0,0,,{\pos(540,1400)}lies {\c&H0060ECCD}the{\c&H00FFFFFF&} the the
+Dialogue: 1,0:00:23.40,0:00:24.14,Cap,,0,0,0,,{\pos(540,1400)}lies the {\c&H0060ECCD}the{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:24.14,0:00:24.50,Cap,,0,0,0,,{\pos(540,1400)}lies the the {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:24.50,0:00:24.96,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}concern{\c&H00FFFFFF&} that we
+Dialogue: 1,0:00:24.96,0:00:25.44,Cap,,0,0,0,,{\pos(540,1400)}concern {\c&H0060ECCD}that{\c&H00FFFFFF&} we
+Dialogue: 1,0:00:25.44,0:00:25.54,Cap,,0,0,0,,{\pos(540,1400)}concern that {\c&H0060ECCD}we{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.54,0:00:25.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}can{\c&H00FFFFFF&} have so a
+Dialogue: 1,0:00:25.68,0:00:25.98,Cap,,0,0,0,,{\pos(540,1400)}can {\c&H0060ECCD}have{\c&H00FFFFFF&} so a
+Dialogue: 1,0:00:25.98,0:00:26.28,Cap,,0,0,0,,{\pos(540,1400)}can have {\c&H0060ECCD}so{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:26.28,0:00:26.64,Cap,,0,0,0,,{\pos(540,1400)}can have so {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.64,0:00:26.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}couple{\c&H00FFFFFF&} of systems
+Dialogue: 1,0:00:26.88,0:00:27.08,Cap,,0,0,0,,{\pos(540,1400)}couple {\c&H0060ECCD}of{\c&H00FFFFFF&} systems
+Dialogue: 1,0:00:27.08,0:00:27.54,Cap,,0,0,0,,{\pos(540,1400)}couple of {\c&H0060ECCD}systems{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.54,0:00:28.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}here{\c&H00FFFFFF&} there and
+Dialogue: 1,0:00:28.00,0:00:28.14,Cap,,0,0,0,,{\pos(540,1400)}here {\c&H0060ECCD}there{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:28.14,0:00:28.34,Cap,,0,0,0,,{\pos(540,1400)}here there {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.34,0:00:28.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}everywhere{\c&H00FFFFFF&} are
+Dialogue: 1,0:00:28.66,0:00:28.94,Cap,,0,0,0,,{\pos(540,1400)}everywhere {\c&H0060ECCD}are{\c&H00FFFFFF&}
+Dialogue: 1,0:00:28.94,0:00:29.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spread{\c&H00FFFFFF&} out can
+Dialogue: 1,0:00:29.10,0:00:29.66,Cap,,0,0,0,,{\pos(540,1400)}spread {\c&H0060ECCD}out{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:29.66,0:00:30.08,Cap,,0,0,0,,{\pos(540,1400)}spread out {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.08,0:00:30.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}even{\c&H00FFFFFF&} in a
+Dialogue: 1,0:00:30.46,0:00:30.66,Cap,,0,0,0,,{\pos(540,1400)}even {\c&H0060ECCD}in{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:30.66,0:00:30.82,Cap,,0,0,0,,{\pos(540,1400)}even in {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.82,0:00:31.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sensitive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:31.10,0:00:32.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environment{\c&H00FFFFFF&} can
+Dialogue: 1,0:00:32.32,0:00:32.40,Cap,,0,0,0,,{\pos(540,1400)}environment {\c&H0060ECCD}can{\c&H00FFFFFF&}
+Dialogue: 1,0:00:32.40,0:00:32.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}be{\c&H00FFFFFF&} okay but as
+Dialogue: 1,0:00:32.52,0:00:32.88,Cap,,0,0,0,,{\pos(540,1400)}be {\c&H0060ECCD}okay{\c&H00FFFFFF&} but as
+Dialogue: 1,0:00:32.88,0:00:33.50,Cap,,0,0,0,,{\pos(540,1400)}be okay {\c&H0060ECCD}but{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:33.50,0:00:33.64,Cap,,0,0,0,,{\pos(540,1400)}be okay but {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:33.64,0:00:33.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} increase that
+Dialogue: 1,0:00:33.78,0:00:34.24,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}increase{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:34.24,0:00:34.48,Cap,,0,0,0,,{\pos(540,1400)}we increase {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:34.48,0:00:35.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}population{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.06,0:00:35.52,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}density{\c&H00FFFFFF&} or the
+Dialogue: 1,0:00:35.52,0:00:35.76,Cap,,0,0,0,,{\pos(540,1400)}density {\c&H0060ECCD}or{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:35.76,0:00:35.88,Cap,,0,0,0,,{\pos(540,1400)}density or {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:35.88,0:00:36.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}density{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:36.26,0:00:36.44,Cap,,0,0,0,,{\pos(540,1400)}density {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:36.44,0:00:37.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}on-site{\c&H00FFFFFF&} and in a
+Dialogue: 1,0:00:37.84,0:00:38.36,Cap,,0,0,0,,{\pos(540,1400)}on-site {\c&H0060ECCD}and{\c&H00FFFFFF&} in a
+Dialogue: 1,0:00:38.36,0:00:38.80,Cap,,0,0,0,,{\pos(540,1400)}on-site and {\c&H0060ECCD}in{\c&H00FFFFFF&} a
+Dialogue: 1,0:00:38.80,0:00:39.06,Cap,,0,0,0,,{\pos(540,1400)}on-site and in {\c&H0060ECCD}a{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.06,0:00:39.50,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}sensitive{\c&H00FFFFFF&}
+Dialogue: 1,0:00:39.50,0:00:40.08,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environment{\c&H00FFFFFF&} that
+Dialogue: 1,0:00:40.08,0:00:40.48,Cap,,0,0,0,,{\pos(540,1400)}environment {\c&H0060ECCD}that{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.48,0:00:40.68,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}being{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:40.68,0:00:40.88,Cap,,0,0,0,,{\pos(540,1400)}being {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:40.88,0:00:41.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}environment{\c&H00FFFFFF&} where
+Dialogue: 1,0:00:41.28,0:00:41.64,Cap,,0,0,0,,{\pos(540,1400)}environment {\c&H0060ECCD}where{\c&H00FFFFFF&}
+Dialogue: 1,0:00:41.64,0:00:41.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}we{\c&H00FFFFFF&} have high
+Dialogue: 1,0:00:41.78,0:00:42.12,Cap,,0,0,0,,{\pos(540,1400)}we {\c&H0060ECCD}have{\c&H00FFFFFF&} high
+Dialogue: 1,0:00:42.12,0:00:42.40,Cap,,0,0,0,,{\pos(540,1400)}we have {\c&H0060ECCD}high{\c&H00FFFFFF&}
+Dialogue: 1,0:00:42.40,0:00:42.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}groundwater{\c&H00FFFFFF&} table
+Dialogue: 1,0:00:42.78,0:00:44.00,Cap,,0,0,0,,{\pos(540,1400)}groundwater {\c&H0060ECCD}table{\c&H00FFFFFF&}
+Dialogue: 1,0:00:44.00,0:00:44.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}close{\c&H00FFFFFF&} proximity
+Dialogue: 1,0:00:44.60,0:00:45.16,Cap,,0,0,0,,{\pos(540,1400)}close {\c&H0060ECCD}proximity{\c&H00FFFFFF&}
+Dialogue: 1,0:00:45.16,0:00:45.44,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}to{\c&H00FFFFFF&} wells and
+Dialogue: 1,0:00:45.44,0:00:45.74,Cap,,0,0,0,,{\pos(540,1400)}to {\c&H0060ECCD}wells{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:45.74,0:00:46.12,Cap,,0,0,0,,{\pos(540,1400)}to wells {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.12,0:00:46.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}surface{\c&H00FFFFFF&} water
+Dialogue: 1,0:00:46.40,0:00:46.66,Cap,,0,0,0,,{\pos(540,1400)}surface {\c&H0060ECCD}water{\c&H00FFFFFF&}
+Dialogue: 1,0:00:46.66,0:00:47.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bodies{\c&H00FFFFFF&} that's
+Dialogue: 1,0:00:47.06,0:00:47.64,Cap,,0,0,0,,{\pos(540,1400)}bodies {\c&H0060ECCD}that's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:47.64,0:00:47.78,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}where{\c&H00FFFFFF&} we increase
+Dialogue: 1,0:00:47.78,0:00:47.98,Cap,,0,0,0,,{\pos(540,1400)}where {\c&H0060ECCD}we{\c&H00FFFFFF&} increase
+Dialogue: 1,0:00:47.98,0:00:48.46,Cap,,0,0,0,,{\pos(540,1400)}where we {\c&H0060ECCD}increase{\c&H00FFFFFF&}
+Dialogue: 1,0:00:48.46,0:00:48.62,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} risk or the
+Dialogue: 1,0:00:48.62,0:00:49.54,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}risk{\c&H00FFFFFF&} or the
+Dialogue: 1,0:00:49.54,0:00:49.90,Cap,,0,0,0,,{\pos(540,1400)}the risk {\c&H0060ECCD}or{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:49.90,0:00:50.14,Cap,,0,0,0,,{\pos(540,1400)}the risk or {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:50.14,0:00:50.40,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} risk of
+Dialogue: 1,0:00:50.40,0:00:50.68,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}risk{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:50.68,0:00:51.14,Cap,,0,0,0,,{\pos(540,1400)}the risk {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:51.14,0:00:52.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}nutrient{\c&H00FFFFFF&} loading
+Dialogue: 1,0:00:52.54,0:00:52.94,Cap,,0,0,0,,{\pos(540,1400)}nutrient {\c&H0060ECCD}loading{\c&H00FFFFFF&}
+Dialogue: 1,0:00:52.94,0:00:53.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}into{\c&H00FFFFFF&} surface
+Dialogue: 1,0:00:53.22,0:00:53.54,Cap,,0,0,0,,{\pos(540,1400)}into {\c&H0060ECCD}surface{\c&H00FFFFFF&}
+Dialogue: 1,0:00:53.54,0:00:53.74,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}water{\c&H00FFFFFF&} bodies and
+Dialogue: 1,0:00:53.74,0:00:54.08,Cap,,0,0,0,,{\pos(540,1400)}water {\c&H0060ECCD}bodies{\c&H00FFFFFF&} and
+Dialogue: 1,0:00:54.08,0:00:54.34,Cap,,0,0,0,,{\pos(540,1400)}water bodies {\c&H0060ECCD}and{\c&H00FFFFFF&}
+Dialogue: 1,0:00:54.34,0:00:54.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}then{\c&H00FFFFFF&} those algal
+Dialogue: 1,0:00:54.42,0:00:54.62,Cap,,0,0,0,,{\pos(540,1400)}then {\c&H0060ECCD}those{\c&H00FFFFFF&} algal
+Dialogue: 1,0:00:54.62,0:00:54.98,Cap,,0,0,0,,{\pos(540,1400)}then those {\c&H0060ECCD}algal{\c&H00FFFFFF&}
+Dialogue: 1,0:00:54.98,0:00:55.22,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}blooms{\c&H00FFFFFF&} that we've
+Dialogue: 1,0:00:55.22,0:00:55.36,Cap,,0,0,0,,{\pos(540,1400)}blooms {\c&H0060ECCD}that{\c&H00FFFFFF&} we've
+Dialogue: 1,0:00:55.36,0:00:55.86,Cap,,0,0,0,,{\pos(540,1400)}blooms that {\c&H0060ECCD}we've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:55.86,0:00:56.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}spoken{\c&H00FFFFFF&} about or
+Dialogue: 1,0:00:56.16,0:00:56.54,Cap,,0,0,0,,{\pos(540,1400)}spoken {\c&H0060ECCD}about{\c&H00FFFFFF&} or
+Dialogue: 1,0:00:56.54,0:00:57.42,Cap,,0,0,0,,{\pos(540,1400)}spoken about {\c&H0060ECCD}or{\c&H00FFFFFF&}
+Dialogue: 1,0:00:57.42,0:00:57.54,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}that{\c&H00FFFFFF&} we've
+Dialogue: 1,0:00:57.54,0:00:57.72,Cap,,0,0,0,,{\pos(540,1400)}that {\c&H0060ECCD}we've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:57.72,0:00:58.12,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}identified{\c&H00FFFFFF&} in
+Dialogue: 1,0:00:58.12,0:00:58.46,Cap,,0,0,0,,{\pos(540,1400)}identified {\c&H0060ECCD}in{\c&H00FFFFFF&}
+Dialogue: 1,0:00:58.46,0:00:59.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}many{\c&H00FFFFFF&} different
+Dialogue: 1,0:00:59.16,0:00:59.44,Cap,,0,0,0,,{\pos(540,1400)}many {\c&H0060ECCD}different{\c&H00FFFFFF&}
+Dialogue: 1,0:00:59.44,0:00:60.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}locations{\c&H00FFFFFF&}

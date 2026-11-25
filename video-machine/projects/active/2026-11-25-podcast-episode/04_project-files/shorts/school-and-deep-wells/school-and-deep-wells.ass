@@ -1,0 +1,80 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Montserrat,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
+Style: Title,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H002B351C,&H002B351C,-1,0,0,0,100,100,0,0,3,24,0,2,70,70,0,1
+Style: Name,Montserrat,30,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:31.32,Title,,0,0,0,,{\an5\pos(540,250)}Septic nitrate reached\N{\c&H0060ECCD}300 foot{\c&H00FFFFFF&} wells
+Dialogue: 1,0:00:00.00,0:00:00.06,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}so{\c&H00FFFFFF&} I've seen I've
+Dialogue: 1,0:00:00.06,0:00:00.22,Cap,,0,0,0,,{\pos(540,1400)}so {\c&H0060ECCD}I've{\c&H00FFFFFF&} seen I've
+Dialogue: 1,0:00:00.22,0:00:00.94,Cap,,0,0,0,,{\pos(540,1400)}so I've {\c&H0060ECCD}seen{\c&H00FFFFFF&} I've
+Dialogue: 1,0:00:00.94,0:00:01.68,Cap,,0,0,0,,{\pos(540,1400)}so I've seen {\c&H0060ECCD}I've{\c&H00FFFFFF&}
+Dialogue: 1,0:00:01.68,0:00:01.88,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}seen{\c&H00FFFFFF&} scenarios
+Dialogue: 1,0:00:01.88,0:00:02.38,Cap,,0,0,0,,{\pos(540,1400)}seen {\c&H0060ECCD}scenarios{\c&H00FFFFFF&}
+Dialogue: 1,0:00:02.38,0:00:03.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}where{\c&H00FFFFFF&} even an
+Dialogue: 1,0:00:03.00,0:00:03.48,Cap,,0,0,0,,{\pos(540,1400)}where {\c&H0060ECCD}even{\c&H00FFFFFF&} an
+Dialogue: 1,0:00:03.48,0:00:03.64,Cap,,0,0,0,,{\pos(540,1400)}where even {\c&H0060ECCD}an{\c&H00FFFFFF&}
+Dialogue: 1,0:00:03.64,0:00:04.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}elementary{\c&H00FFFFFF&} school
+Dialogue: 1,0:00:04.04,0:00:04.44,Cap,,0,0,0,,{\pos(540,1400)}elementary {\c&H0060ECCD}school{\c&H00FFFFFF&}
+Dialogue: 1,0:00:04.44,0:00:04.80,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}was{\c&H00FFFFFF&} impacted by
+Dialogue: 1,0:00:04.80,0:00:05.16,Cap,,0,0,0,,{\pos(540,1400)}was {\c&H0060ECCD}impacted{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:05.16,0:00:05.58,Cap,,0,0,0,,{\pos(540,1400)}was impacted {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.58,0:00:05.84,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}the{\c&H00FFFFFF&} on-site
+Dialogue: 1,0:00:05.84,0:00:06.12,Cap,,0,0,0,,{\pos(540,1400)}the {\c&H0060ECCD}on-site{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.12,0:00:06.46,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}wastewater{\c&H00FFFFFF&}
+Dialogue: 1,0:00:06.46,0:00:07.10,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}systems{\c&H00FFFFFF&} nearby
+Dialogue: 1,0:00:07.10,0:00:07.48,Cap,,0,0,0,,{\pos(540,1400)}systems {\c&H0060ECCD}nearby{\c&H00FFFFFF&}
+Dialogue: 1,0:00:07.48,0:00:08.32,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}I've{\c&H00FFFFFF&} seen deep
+Dialogue: 1,0:00:08.32,0:00:08.56,Cap,,0,0,0,,{\pos(540,1400)}I've {\c&H0060ECCD}seen{\c&H00FFFFFF&} deep
+Dialogue: 1,0:00:08.56,0:00:09.38,Cap,,0,0,0,,{\pos(540,1400)}I've seen {\c&H0060ECCD}deep{\c&H00FFFFFF&}
+Dialogue: 1,0:00:09.38,0:00:10.00,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}fractured{\c&H00FFFFFF&} bedrock
+Dialogue: 1,0:00:10.00,0:00:10.60,Cap,,0,0,0,,{\pos(540,1400)}fractured {\c&H0060ECCD}bedrock{\c&H00FFFFFF&}
+Dialogue: 1,0:00:10.60,0:00:12.04,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}aquifers{\c&H00FFFFFF&} so very
+Dialogue: 1,0:00:12.04,0:00:12.38,Cap,,0,0,0,,{\pos(540,1400)}aquifers {\c&H0060ECCD}so{\c&H00FFFFFF&} very
+Dialogue: 1,0:00:12.38,0:00:12.62,Cap,,0,0,0,,{\pos(540,1400)}aquifers so {\c&H0060ECCD}very{\c&H00FFFFFF&}
+Dialogue: 1,0:00:12.62,0:00:12.86,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}deep{\c&H00FFFFFF&} like 300
+Dialogue: 1,0:00:12.86,0:00:13.04,Cap,,0,0,0,,{\pos(540,1400)}deep {\c&H0060ECCD}like{\c&H00FFFFFF&} 300
+Dialogue: 1,0:00:13.04,0:00:13.40,Cap,,0,0,0,,{\pos(540,1400)}deep like {\c&H0060ECCD}300{\c&H00FFFFFF&}
+Dialogue: 1,0:00:13.40,0:00:13.66,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}foot{\c&H00FFFFFF&} wells be
+Dialogue: 1,0:00:13.66,0:00:14.06,Cap,,0,0,0,,{\pos(540,1400)}foot {\c&H0060ECCD}wells{\c&H00FFFFFF&} be
+Dialogue: 1,0:00:14.06,0:00:14.66,Cap,,0,0,0,,{\pos(540,1400)}foot wells {\c&H0060ECCD}be{\c&H00FFFFFF&}
+Dialogue: 1,0:00:14.66,0:00:15.16,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}contaminated{\c&H00FFFFFF&} by
+Dialogue: 1,0:00:15.16,0:00:15.70,Cap,,0,0,0,,{\pos(540,1400)}contaminated {\c&H0060ECCD}by{\c&H00FFFFFF&}
+Dialogue: 1,0:00:15.70,0:00:16.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}nitrate{\c&H00FFFFFF&} from
+Dialogue: 1,0:00:16.28,0:00:16.96,Cap,,0,0,0,,{\pos(540,1400)}nitrate {\c&H0060ECCD}from{\c&H00FFFFFF&}
+Dialogue: 1,0:00:16.96,0:00:17.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}septic{\c&H00FFFFFF&} systems
+Dialogue: 1,0:00:17.28,0:00:17.66,Cap,,0,0,0,,{\pos(540,1400)}septic {\c&H0060ECCD}systems{\c&H00FFFFFF&}
+Dialogue: 1,0:00:17.66,0:00:18.28,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}because{\c&H00FFFFFF&} there's
+Dialogue: 1,0:00:18.28,0:00:19.12,Cap,,0,0,0,,{\pos(540,1400)}because {\c&H0060ECCD}there's{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.12,0:00:19.36,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}you{\c&H00FFFFFF&} know fracture
+Dialogue: 1,0:00:19.36,0:00:19.42,Cap,,0,0,0,,{\pos(540,1400)}you {\c&H0060ECCD}know{\c&H00FFFFFF&} fracture
+Dialogue: 1,0:00:19.42,0:00:19.84,Cap,,0,0,0,,{\pos(540,1400)}you know {\c&H0060ECCD}fracture{\c&H00FFFFFF&}
+Dialogue: 1,0:00:19.84,0:00:20.20,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}flow{\c&H00FFFFFF&} there isn't
+Dialogue: 1,0:00:20.20,0:00:20.52,Cap,,0,0,0,,{\pos(540,1400)}flow {\c&H0060ECCD}there{\c&H00FFFFFF&} isn't
+Dialogue: 1,0:00:20.52,0:00:20.86,Cap,,0,0,0,,{\pos(540,1400)}flow there {\c&H0060ECCD}isn't{\c&H00FFFFFF&}
+Dialogue: 1,0:00:20.86,0:00:21.26,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}like{\c&H00FFFFFF&} a competent
+Dialogue: 1,0:00:21.26,0:00:21.72,Cap,,0,0,0,,{\pos(540,1400)}like {\c&H0060ECCD}a{\c&H00FFFFFF&} competent
+Dialogue: 1,0:00:21.72,0:00:23.24,Cap,,0,0,0,,{\pos(540,1400)}like a {\c&H0060ECCD}competent{\c&H00FFFFFF&}
+Dialogue: 1,0:00:23.24,0:00:24.64,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}bedrock{\c&H00FFFFFF&} as a as
+Dialogue: 1,0:00:24.64,0:00:24.92,Cap,,0,0,0,,{\pos(540,1400)}bedrock {\c&H0060ECCD}as{\c&H00FFFFFF&} a as
+Dialogue: 1,0:00:24.92,0:00:25.12,Cap,,0,0,0,,{\pos(540,1400)}bedrock as {\c&H0060ECCD}a{\c&H00FFFFFF&} as
+Dialogue: 1,0:00:25.12,0:00:25.34,Cap,,0,0,0,,{\pos(540,1400)}bedrock as a {\c&H0060ECCD}as{\c&H00FFFFFF&}
+Dialogue: 1,0:00:25.34,0:00:25.60,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}a{\c&H00FFFFFF&} means of of
+Dialogue: 1,0:00:25.60,0:00:26.48,Cap,,0,0,0,,{\pos(540,1400)}a {\c&H0060ECCD}means{\c&H00FFFFFF&} of of
+Dialogue: 1,0:00:26.48,0:00:26.74,Cap,,0,0,0,,{\pos(540,1400)}a means {\c&H0060ECCD}of{\c&H00FFFFFF&} of
+Dialogue: 1,0:00:26.74,0:00:27.16,Cap,,0,0,0,,{\pos(540,1400)}a means of {\c&H0060ECCD}of{\c&H00FFFFFF&}
+Dialogue: 1,0:00:27.16,0:00:28.42,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}confining{\c&H00FFFFFF&} the
+Dialogue: 1,0:00:28.42,0:00:29.60,Cap,,0,0,0,,{\pos(540,1400)}confining {\c&H0060ECCD}the{\c&H00FFFFFF&}
+Dialogue: 1,0:00:29.60,0:00:30.02,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}migration{\c&H00FFFFFF&} from
+Dialogue: 1,0:00:30.02,0:00:30.42,Cap,,0,0,0,,{\pos(540,1400)}migration {\c&H0060ECCD}from{\c&H00FFFFFF&}
+Dialogue: 1,0:00:30.42,0:00:30.70,Cap,,0,0,0,,{\pos(540,1400)}{\c&H0060ECCD}from{\c&H00FFFFFF&} surface
+Dialogue: 1,0:00:30.70,0:00:31.28,Cap,,0,0,0,,{\pos(540,1400)}from {\c&H0060ECCD}surface{\c&H00FFFFFF&}

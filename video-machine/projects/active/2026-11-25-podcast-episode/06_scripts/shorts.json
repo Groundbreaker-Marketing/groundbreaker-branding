@@ -1,0 +1,488 @@
+{
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Bryer Manwell's guest episode (Bryer Manwell, CaulWell Engineering and Geoscience Ltd., Salmon Arm, British Columbia), take 160150 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced and Bryer's voice moved 86 ms earlier, in sync). keep = inclusive word-index ranges. Posting plan: release week 2026-12-30..2027-01-05, every clip to YouTube + TikTok, two a day at noon and 5 PM CT; the five strongest (treatment-nitrate, school-and-deep-wells, test-your-well, installer-skipped-recipe, five-pillars), all at noon on a weekday, also to Instagram and Facebook. {bryer} tags Bryer Manwell and {caulwell} CaulWell Engineering and Geoscience. Neither has an Instagram, TikTok, YouTube or Facebook account that a web search, Equip Training's instructor page or public directories show (caulwell.ca had an expired certificate and could not be read; Bryer says people reach her on LinkedIn, which Shorts never post to). The full episode ({episode}) is linked everywhere but Facebook. Dec 30 noon already has three Metricool posts (Jason Harris, TikTok, Instagram, Facebook), so this week starts at 3 PM and 7 PM CT that day.",
+ "fillers": true,
+ "max_gap": 1.0,
+ "guests": {
+  "bryer": {
+   "name": "Bryer Manwell",
+   "no_account": [
+    "instagram",
+    "tiktok",
+    "youtube",
+    "facebook"
+   ]
+  },
+  "caulwell": {
+   "name": "CaulWell Engineering and Geoscience",
+   "no_account": [
+    "instagram",
+    "tiktok",
+    "youtube",
+    "facebook"
+   ]
+  }
+ },
+ "cover_with": "with Bryer Manwell, hydrogeologist",
+ "title_y": 250,
+ "title_size": 58,
+ "clips": [
+  {
+   "id": "treatment-nitrate",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     1372,
+     1443
+    ]
+   ],
+   "title": "Advanced septic units\ncan make *more nitrate*",
+   "youtube": {
+    "title": "Advanced septic treatment can create more intense nitrate plumes",
+    "description": "{bryer} of {caulwell} was doing risk assessments on septic systems in British Columbia when she found that higher levels of treatment were creating more intense nitrate plumes. Passing on BOD and TSS is not the same as protecting the water.\n\nFull episode: {episode}\n\n#septic #nitrate #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "Better treatment, worse plume. About ten years ago {bryer} of {caulwell} was doing risk assessments for septic systems in British Columbia and found that even with higher levels of treatment, some sites were creating more intense nitrate plumes. What counts as success for the treatment unit and what's happening in the environment aren't the same thing. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater",
+    "instagram": "Success for the treatment unit isn't the same as success for the environment. {bryer} of {caulwell} was doing risk assessments on septic systems in British Columbia about ten years ago when she found that higher levels of treatment were creating more intense nitrate plumes. Treating BOD and TSS is only part of the picture. Agree?\n\nFull episode: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater #septicbusiness",
+    "facebook": "Imagine doing everything right on a septic upgrade and still making the groundwater problem worse. About ten years ago, {bryer} of {caulwell} was doing risk assessments for onsite systems in British Columbia when she saw exactly that. Properties were moving to a higher level of treatment, and in some cases they were actually creating more intense nitrate plumes. She says it's an interesting balance between what counts as success for the treatment unit and what is really happening in the environment. I learned a lot from this one.\n\n#septic #nitrate"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2026-12-30T15:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 513.0,
+   "fixes": {},
+   "end_pad": 0.15,
+   "cover": "07_notes/shorts/covers/treatment-nitrate.jpg"
+  },
+  {
+   "id": "thirty-milligrams",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     3640,
+     3756
+    ]
+   ],
+   "title": "Septic units I measured\nnever beat *30 mg/L*",
+   "youtube": {
+    "title": "Treatment unit makers say 5 mg/L of nitrate. This engineer measured 30.",
+    "description": "{bryer} of {caulwell} has monitored advanced septic treatment units for ten years. Manufacturers tell her five milligrams per liter of nitrate. In the field, she hasn't seen anything lower than 30.\n\nFull episode: {episode}\n\n#septic #nitrate #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "The manufacturer says 5. The field says 30. {bryer} of {caulwell} has been monitoring advanced treatment units for ten years and hasn't seen nitrate come out lower than 30 milligrams per liter. Her guess is flow interruptions, and she says she can only speak to what she has actually measured. Does that match what you see?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2026-12-30T19:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1356.0,
+   "fixes": {},
+   "end_pad": 0.08,
+   "trim_start": -0.04,
+   "cover": "07_notes/shorts/covers/thirty-milligrams.jpg"
+  },
+  {
+   "id": "school-and-deep-wells",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     2799,
+     2867
+    ]
+   ],
+   "title": "Septic nitrate reached\n*300 foot* wells",
+   "youtube": {
+    "title": "Septic nitrate in 300 foot wells and near an elementary school",
+    "description": "{bryer} of {caulwell} has seen an elementary school affected by nearby septic systems, and nitrate from septic in wells 300 feet deep. Density and the ground under the system decide where the problems show up.\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater"
+   },
+   "captions": {
+    "tiktok": "Nitrate from septic systems reached 300 foot wells. {bryer} of {caulwell} has seen an elementary school affected by nearby onsite systems too. In fractured bedrock there's no solid layer to confine the water coming from the surface, so even very deep wells can pick it up. Most of the shoreline she's walked looks fine. The trouble shows up where density and the wrong ground meet. Surprised?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #wellwater #onsitewastewater",
+    "instagram": "Even a 300 foot well can pick up septic nitrate. {bryer} of {caulwell} has seen an elementary school affected by onsite systems nearby, and deep wells in fractured bedrock contaminated because nothing confines the water from the surface. Most of what she has walked is fine. The trouble shows up where density and the ground work against each other.\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater #onsitewastewater #septicbusiness",
+    "facebook": "It's easy to assume a deep well is safe. {bryer} of {caulwell} says that isn't always true. She has seen an elementary school affected by the onsite wastewater systems near it, and she has seen very deep wells, around 300 feet, contaminated by nitrate from septic systems, because fractured bedrock doesn't confine what comes down from the surface. Most places she has looked are okay. The problems show up where there are a lot of systems packed together and the ground gives the water an easy path.\n\n#septic #wellwater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2026-12-31T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1050.0,
+   "fixes": {},
+   "end_pad": 0.15,
+   "cover": "07_notes/shorts/covers/school-and-deep-wells.jpg"
+  },
+  {
+   "id": "blue-baby",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     1846,
+     1950
+    ]
+   ],
+   "title": "Septic nitrate and\n*blue baby syndrome*",
+   "youtube": {
+    "title": "Blue baby syndrome: why nitrate in well water has a 10 mg/L limit",
+    "description": "{bryer} of {caulwell} explains why nitrate in drinking water has a health-based limit of 10 milligrams per liter: too much can harm or kill babies. Iron and chloride are aesthetic. Nitrate is not.\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater"
+   },
+   "captions": {
+    "tiktok": "Why 10 milligrams per liter of nitrate matters. {bryer} of {caulwell} explains blue baby syndrome: elevated nitrate in a drinking water source can harm or kill babies if the concentration is too high. In Canada it's a maximum acceptable concentration, a health-based guideline, where iron and chloride are only aesthetic. Did you know that?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #wellwater #drinkingwater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2026-12-31T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 712.0,
+   "fixes": {},
+   "end_pad": 0.08,
+   "trim_start": -0.04,
+   "cover": "07_notes/shorts/covers/blue-baby.jpg"
+  },
+  {
+   "id": "test-your-well",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     6128,
+     6321
+    ]
+   ],
+   "title": "Septic owners: test\nyour *well water*",
+   "youtube": {
+    "title": "How often should you test well water if you have a septic system?",
+    "description": "{bryer} of {caulwell} says the most useful thing a septic owner with a well can do is test the raw water: twice a year for the first three years, then every year, ideally in the spring.\n\nFull episode: {episode}\n\n#septic #wellwater #septicowner"
+   },
+   "captions": {
+    "tiktok": "Got a septic system and a well? Test your raw water. {bryer} of {caulwell} says to sample it every spring, when the water level is higher, and twice a year for the first three years you live there. She also says to shock chlorinate so you're not building biofilms in your own distribution system, and to get a full potability assessment every year so you can watch how your chemistry changes. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #wellwater #septicowner #onsitewastewater",
+    "instagram": "If you have a septic system and a well, test your raw water. {bryer} of {caulwell} says to sample it every spring, twice a year for the first three years you live there, then once a year after that. Add shock chlorination so you aren't building biofilms in your own pipes, and a full potability assessment every year so you can watch how your chemistry changes over time. Agree?\n\nFull episode: {episode}\n\n#septic #wellwater #septicowner #onsitewastewater #septicbusiness",
+    "facebook": "A lot of people drink from the same well for years and never test it. {bryer} of {caulwell} says that's where trouble hides. If you run a septic system and you have a well, she says to sample the raw water every spring, when the water level is higher, and twice a year for the first three years you live in a place, then yearly after that. She also recommends shock chlorinating so you don't build biofilms in your own distribution system, and a comprehensive potability assessment every year so you can see how your chemistry is changing. It's simple, and it tells you what's really in your water.\n\n#septic #wellwater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-01T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 2205.0,
+   "fixes": {},
+   "end_pad": 0.12,
+   "trim_start": -0.04,
+   "cover": "07_notes/shorts/covers/test-your-well.jpg"
+  },
+  {
+   "id": "five-kilometer-plume",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     1127,
+     1289
+    ]
+   ],
+   "title": "Septic plumes can travel\n*five kilometers*",
+   "youtube": {
+    "title": "Nitrate from septic is highly mobile: a plume tracked over five kilometers",
+    "description": "{bryer} of {caulwell} has tracked septic plumes over five kilometers. Once nitrate gets into groundwater it moves easily, and there is very little renovation after that.\n\nFull episode: {episode}\n\n#septic #nitrate #groundwater"
+   },
+   "captions": {
+    "tiktok": "I've tracked septic plumes over five kilometers. That's {bryer} of {caulwell} on what happens once nitrate enters the groundwater: it's highly mobile, and there's very little renovation after that. A couple of systems spread out can be okay. Where the density goes up and the water table is high, the risk of nutrient loading, and algal blooms, goes up with it.\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #groundwater #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-01T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 428.0,
+   "fixes": {},
+   "end_pad": 0.15,
+   "cover": "07_notes/shorts/covers/five-kilometer-plume.jpg"
+  },
+  {
+   "id": "hundreds-of-miles",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     2307,
+     2393
+    ]
+   ],
+   "title": "Hundreds of miles to\nfind *septic plumes*",
+   "youtube": {
+    "title": "How a hydrogeologist finds septic plumes: hundreds of miles of shoreline",
+    "description": "{bryer} of {caulwell} has walked hundreds of miles of shorelines, rivers and creeks. She measures electrical conductivity, temperature, pH and dissolved oxygen to find the spot where a septic plume comes in.\n\nFull episode: {episode}\n\n#septic #groundwater #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "How do you find a septic plume? You walk. {bryer} of {caulwell} has walked hundreds of miles of shoreline, rivers and creeks, testing electrical conductivity, temperature, pH, oxidation reduction potential and dissolved oxygen. She sets a baseline for clean groundwater first, then looks for the spot where conductivity jumps. Would you have guessed it's that simple?\n\nFull episode on our YouTube: {episode}\n\n#septic #groundwater #septicinstaller #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-02T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 880.0,
+   "fixes": {},
+   "end_pad": 0.25,
+   "trim_start": -0.04,
+   "cover": "07_notes/shorts/covers/hundreds-of-miles.jpg"
+  },
+  {
+   "id": "duplex-loophole",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     3149,
+     3253
+    ]
+   ],
+   "title": "The septic *loophole*\nskipping impact studies",
+   "youtube": {
+    "title": "The septic loophole: multiple systems on one lot can skip an impact study",
+    "description": "{bryer} of {caulwell} describes a loophole in British Columbia: designers put several systems on the same property, call them independent, and avoid an environmental impact study. The result is cumulative effects.\n\nFull episode: {episode}\n\n#septic #septicdesign #groundwater"
+   },
+   "captions": {
+    "tiktok": "There's a loophole in how septic systems get reviewed in British Columbia. {bryer} of {caulwell} says that below a set flow, a designer can put multiple systems on the same property and, because each one is technically independent, none of them needs an environmental impact study. Add them up and you get cumulative effects. That's where she has focused for the last couple of years. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicdesign #groundwater #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-02T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1190.0,
+   "fixes": {},
+   "end_pad": 0.1,
+   "cover": "07_notes/shorts/covers/duplex-loophole.jpg"
+  },
+  {
+   "id": "goldilocks-recipe",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     4045,
+     4141
+    ]
+   ],
+   "title": "The *Goldilocks* recipe\nfor septic nitrate",
+   "youtube": {
+    "title": "Hog fuel, wood chips or sawdust? A Goldilocks fix for septic nitrate",
+    "description": "{bryer} of {caulwell} uses a carbon source mixed into sand to treat nitrate in the ground. Wood chips are too coarse, sawdust is too fine, and too much carbon creates its own problems.\n\nFull episode: {episode}\n\n#septic #nitrate #septicdesign"
+   },
+   "captions": {
+    "tiktok": "Wood chips are too coarse. Sawdust is too fine. {bryer} of {caulwell} says hog fuel has the right texture to mix into sand for a passive nitrate treatment barrier. Use too much carbon and you create a BOD plume and risk clogging, so she says there's a sweet spot in the recipe. Ever seen hog fuel used for this?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicdesign #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-03T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 1500.0,
+   "fixes": {},
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/goldilocks-recipe.jpg"
+  },
+  {
+   "id": "caffeine-vs-chloride",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     7489,
+     7627
+    ]
+   ],
+   "title": "Trace septic plumes for\n*$5* a sample",
+   "youtube": {
+    "title": "Caffeine tracer costs $200 a sample. Chloride costs $5.",
+    "description": "{bryer} of {caulwell} calls it the rifle versus the shotgun approach: use cheap indicators like chloride to find the hot spots first, then spend money finding the source.\n\nFull episode: {episode}\n\n#septic #groundwater #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "People like to use caffeine as a septic tracer. {bryer} of {caulwell} says it runs about $200 a sample, while chloride is $5 and can give you similar information. Her approach is the shotgun first: cheap indicator parameters to find the hot spots, then the rifle to work out the source. Chloride can come from road salt too, so the second step matters. Would you do it this way?\n\nFull episode on our YouTube: {episode}\n\n#septic #groundwater #septicinstaller #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-03T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2700.0,
+   "fixes": {},
+   "end_pad": 0.1,
+   "cover": "07_notes/shorts/covers/caffeine-vs-chloride.jpg"
+  },
+  {
+   "id": "installer-skipped-recipe",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     4750,
+     4859
+    ]
+   ],
+   "title": "The septic installer who\nskipped my *recipe*",
+   "youtube": {
+    "title": "What happened when an installer didn't use the engineer's recipe",
+    "description": "{bryer} of {caulwell} went back into a treatment system to fix a breakout. The installer didn't use her recipe, and her sampling this year showed no treatment until cell six.\n\nFull episode: {episode}\n\n#septic #septicinstaller #nitrate"
+   },
+   "captions": {
+    "tiktok": "What happens when an installer skips the engineer's recipe? {bryer} of {caulwell} went back into one of her systems to fix a breakout, took out the first two cells and lined them. The installer didn't use her recipe and put in mostly sand and gravel. Her sampling this year showed no treatment until cell number six. Have you seen this on a job?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicinstaller #nitrate #onsitewastewater",
+    "instagram": "What happens when the recipe doesn't get followed. {bryer} of {caulwell} went back into one of her treatment systems to fix a breakout, took out the first two cells and lined them. The installer didn't use her recipe and put in mostly sand and gravel. Her sampling this year showed she wasn't getting treatment until cell number six. Have you seen this on a job?\n\nFull episode: {episode}\n\n#septic #septicinstaller #nitrate #onsitewastewater #septicbusiness",
+    "facebook": "Here's a story every installer might recognize. {bryer} of {caulwell} designed a treatment system with a special recipe, and last year it started having a breakout. She went back in, took out the first two cells and lined them. The installer didn't use her recipe and put in mostly sand and gravel instead. When she sampled this year, the water coming out of the treatment unit at 35 milligrams per liter of nitrate wasn't being treated at all until cell number six. She says it taught her a lot about what too much carbon, and too little, can do.\n\n#septic #septicinstaller"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-04T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 1745.0,
+   "fixes": {},
+   "end_pad": 0.08,
+   "cover": "07_notes/shorts/covers/installer-skipped-recipe.jpg"
+  },
+  {
+   "id": "bragg-creek-wells",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     6620,
+     6783
+    ]
+   ],
+   "title": "Bragg Creek: half the\nwells hit by *septic*",
+   "youtube": {
+    "title": "Half the wells in Bragg Creek were hit by septic contamination",
+    "description": "{bryer} of {caulwell} did her master's thesis on Bragg Creek, where about 50 percent of the wells were contaminated by their own or a neighbor's septic system. The local government used her thesis to justify a big pipe.\n\nFull episode: {episode}\n\n#septic #wellwater #groundwater"
+   },
+   "captions": {
+    "tiktok": "A family friend drank from his well for over 20 years. {bryer} of {caulwell} tested it and found uranium two orders of magnitude over the guideline. In Bragg Creek, where she did her master's thesis, about 50 percent of the wells were contaminated by their own or a neighbor's septic system, and the local government used her work to justify putting in a big pipe. Would you test your well after hearing that?\n\nFull episode on our YouTube: {episode}\n\n#septic #wellwater #groundwater #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-04T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 2385.0,
+   "fixes": {},
+   "end_pad": 0.3,
+   "cover": "07_notes/shorts/covers/bragg-creek-wells.jpg"
+  },
+  {
+   "id": "five-pillars",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     9134,
+     9243
+    ]
+   ],
+   "title": "A septic pro's\n*million dollar* advice",
+   "youtube": {
+    "title": "Million dollar advice for septic business owners: sleep, water, food, exercise",
+    "description": "{bryer} of {caulwell} shares her five pillars of health for people who run their own work: sleep, hydration, good food, exercise and stress management.\n\nFull episode: {episode}\n\n#septic #septicbusiness #businessowner"
+   },
+   "captions": {
+    "tiktok": "Her million dollar advice for septic business owners isn't about business. {bryer} of {caulwell} says to start with five pillars of health: sleep, hydration, good food, exercise and stress management. When we rely on ourselves for work, she says, our health is what gives us the capacity to do it. Simple, but is it easy?\n\nFull episode on our YouTube: {episode}\n\n#septic #septicbusiness #businessowner #health",
+    "instagram": "My million dollar advice: sleep, hydration, good food, exercise, stress management. {bryer} of {caulwell} calls them her five pillars of health. When you rely on yourself for work, she says, your health is the capacity you work with. They sound simple, but they're what keep you performing at your highest, whatever industry you're in. Agree?\n\nFull episode: {episode}\n\n#septic #septicbusiness #businessowner #health #smallbusiness",
+    "facebook": "I asked {bryer} of {caulwell} for her million dollar advice for someone running a septic installation, pumping or service business, and the answer surprised me. It wasn't about marketing or pricing. She said it's her five pillars of health: sleep, hydration, good food, exercise and stress management. When you rely on yourself for work, she says, you have to balance your health so you can keep working at your fullest capability. They sound so simple, but we can all forget them when we're busy.\n\n#septic #septicbusiness"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-05T12:00:00",
+   "networks": [
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook"
+   ],
+   "cover_at": 3335.0,
+   "fixes": {},
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/five-pillars.jpg"
+  },
+  {
+   "id": "nsf-standard",
+   "source": "01_footage/zoom-160150-clean.mov",
+   "words": "02_audio/words/160150-synced.json",
+   "keep": [
+    [
+     1606,
+     1747
+    ]
+   ],
+   "title": "A 50% nitrate cut can\nstill be *too much*",
+   "youtube": {
+    "title": "The septic treatment standard says 50% less nitrate. Is that enough?",
+    "description": "{bryer} of {caulwell} explains how a system can meet the NSF 245 standard by cutting nitrate in half and still be nowhere near low enough for the water it ends up in.\n\nFull episode: {episode}\n\n#septic #nitrate #septicinstaller"
+   },
+   "captions": {
+    "tiktok": "Passing the standard isn't the same as protecting the water. {bryer} of {caulwell} says a unit that takes nitrate from 75 down to 35 milligrams per liter meets the NSF 245 standard for 50 percent reduction, but that's nowhere near low enough. British Columbia's guideline for aquatic waters is 3 milligrams per liter, and drinking water is 10. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater"
+   },
+   "approved": false,
+   "layout": "crop",
+   "crop_x": 0.49,
+   "publish_at": "2027-01-05T17:00:00",
+   "networks": [
+    "youtube",
+    "tiktok"
+   ],
+   "cover_at": 640.0,
+   "fixes": {},
+   "end_pad": 0.12,
+   "cover": "07_notes/shorts/covers/nsf-standard.jpg"
+  }
+ ]
+}
