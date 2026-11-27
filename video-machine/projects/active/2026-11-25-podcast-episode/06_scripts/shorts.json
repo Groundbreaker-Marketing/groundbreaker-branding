@@ -1,5 +1,5 @@
 {
- "_how": "Recipe for shorts.build (video-machine). 14 clips from Bryer Manwell's guest episode (Bryer Manwell, CaulWell Engineering and Geoscience Ltd., Salmon Arm, British Columbia), take 160150 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced and Bryer's voice moved 86 ms earlier, in sync). keep = inclusive word-index ranges. Posting plan: release week 2026-12-30..2027-01-05, every clip to YouTube + TikTok, two a day at noon and 5 PM CT; the five strongest (treatment-nitrate, school-and-deep-wells, test-your-well, installer-skipped-recipe, five-pillars), all at noon on a weekday, also to Instagram and Facebook. {bryer} tags Bryer Manwell and {caulwell} CaulWell Engineering and Geoscience. Neither has an Instagram, TikTok, YouTube or Facebook account that a web search, Equip Training's instructor page or public directories show (caulwell.ca had an expired certificate and could not be read; Bryer says people reach her on LinkedIn, which Shorts never post to). The full episode ({episode}) is linked everywhere but Facebook. Dec 30 noon already has three Metricool posts (Jason Harris, TikTok, Instagram, Facebook), so this week starts at 3 PM and 7 PM CT that day. {equip} Equip Training (equiptraining.ca) and {cotra} COTRA, the Canadian Onsite Technical Resource Association (onsitetechnicalresource.com): neither site links a social account and web searches found no Instagram, TikTok, YouTube or Facebook page for either (checked 2026-11-25, so there was no Facebook page to look up). None of the 14 clips talks about training or COTRA, so no caption names them. Bryer is on LinkedIn only (https://www.linkedin.com/in/bryer-manwell-19430838) and nothing posts there.",
+ "_how": "Recipe for shorts.build (video-machine). 14 clips from Bryer Manwell's guest episode (Bryer Manwell, CaulWell Engineering and Geoscience Ltd., Salmon Arm, British Columbia), take 160150 (Zoom HD 1280x720, speaker view, no upscale; source = the clean remix with Ashley's room echo reduced and Bryer's voice moved 86 ms earlier, in sync). keep = inclusive word-index ranges. Posting plan: release week 2026-12-30..2027-01-05, every clip to YouTube + TikTok, two a day at noon and 5 PM CT; also to Instagram and Facebook: treatment-nitrate, thirty-milligrams, blue-baby, goldilocks-recipe, installer-skipped-recipe and five-pillars (Ashley, 2026-11-27: add thirty-milligrams, goldilocks-recipe and blue-baby; school-and-deep-wells and test-your-well stay on YouTube and TikTok only). {bryer} tags Bryer Manwell and {caulwell} CaulWell Engineering and Geoscience. Neither has an Instagram, TikTok, YouTube or Facebook account that a web search, Equip Training's instructor page or public directories show (caulwell.ca had an expired certificate and could not be read; Bryer says people reach her on LinkedIn, which Shorts never post to). The full episode ({episode}) is linked everywhere but Facebook. Dec 30 noon already has three Metricool posts (Jason Harris, TikTok, Instagram, Facebook), so this week starts at 3 PM and 7 PM CT that day. {equip} Equip Training (equiptraining.ca) and {cotra} COTRA, the Canadian Onsite Technical Resource Association (onsitetechnicalresource.com): neither site links a social account and web searches found no Instagram, TikTok, YouTube or Facebook page for either (checked 2026-11-25, so there was no Facebook page to look up). None of the 14 clips talks about training or COTRA, so no caption names them. Bryer is on LinkedIn only (https://www.linkedin.com/in/bryer-manwell-19430838) and nothing posts there.",
  "fillers": true,
  "max_gap": 1.0,
  "guests": {
@@ -95,7 +95,9 @@
     "description": "{bryer} of {caulwell} has monitored advanced septic treatment units for ten years. Manufacturers tell her five milligrams per liter of nitrate. In the field, she hasn't seen anything lower than 30.\n\nFull episode: {episode}\n\n#septic #nitrate #septicinstaller"
    },
    "captions": {
-    "tiktok": "The manufacturer says 5. The field says 30. {bryer} of {caulwell} has been monitoring advanced treatment units for ten years and hasn't seen nitrate come out lower than 30 milligrams per liter. Her guess is flow interruptions, and she says she can only speak to what she has actually measured. Does that match what you see?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater"
+    "tiktok": "The manufacturer says 5. The field says 30. {bryer} of {caulwell} has been monitoring advanced treatment units for ten years and hasn't seen nitrate come out lower than 30 milligrams per liter. Her guess is flow interruptions, and she says she can only speak to what she has actually measured. Does that match what you see?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater",
+    "instagram": "The manufacturer says 5 milligrams per liter of nitrate. The field says 30. {bryer} of {caulwell} has monitored advanced treatment units for ten years and hasn't seen anything lower than 30 coming out of them. Her guess is flow interruptions, and she says she can only speak to what she has actually measured. Does that match what you see?\n\nFull episode: {episode}\n\n#septic #nitrate #septicinstaller #onsitewastewater #septicbusiness",
+    "facebook": "Here's a number that might surprise you. Treatment unit manufacturers told {bryer} of {caulwell} that their advanced units get nitrate down to 5 milligrams per liter. She has been monitoring these systems for ten years, and she hasn't seen anything lower than 30 milligrams per liter coming out of them. Her guess is flow interruptions, and she's careful to say she can only speak to what she has actually measured in the field. I'm glad she shares the real numbers.\n\n#septic #nitrate"
    },
    "approved": false,
    "layout": "crop",
@@ -103,7 +105,9 @@
    "publish_at": "2026-12-30T19:00:00",
    "networks": [
     "youtube",
-    "tiktok"
+    "tiktok",
+    "instagram",
+    "facebook"
    ],
    "cover_at": 1356.0,
    "fixes": {},
@@ -127,9 +131,7 @@
     "description": "{bryer} of {caulwell} has seen an elementary school affected by nearby septic systems, and nitrate from septic in wells 300 feet deep. Density and the ground under the system decide where the problems show up.\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater"
    },
    "captions": {
-    "tiktok": "Nitrate from septic systems reached 300 foot wells. {bryer} of {caulwell} has seen an elementary school affected by nearby onsite systems too. In fractured bedrock there's no solid layer to confine the water coming from the surface, so even very deep wells can pick it up. Most of the shoreline she's walked looks fine. The trouble shows up where density and the wrong ground meet. Surprised?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #wellwater #onsitewastewater",
-    "instagram": "Even a 300 foot well can pick up septic nitrate. {bryer} of {caulwell} has seen an elementary school affected by onsite systems nearby, and deep wells in fractured bedrock contaminated because nothing confines the water from the surface. Most of what she has walked is fine. The trouble shows up where density and the ground work against each other.\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater #onsitewastewater #septicbusiness",
-    "facebook": "It's easy to assume a deep well is safe. {bryer} of {caulwell} says that isn't always true. She has seen an elementary school affected by the onsite wastewater systems near it, and she has seen very deep wells, around 300 feet, contaminated by nitrate from septic systems, because fractured bedrock doesn't confine what comes down from the surface. Most places she has looked are okay. The problems show up where there are a lot of systems packed together and the ground gives the water an easy path.\n\n#septic #wellwater"
+    "tiktok": "Nitrate from septic systems reached 300 foot wells. {bryer} of {caulwell} has seen an elementary school affected by nearby onsite systems too. In fractured bedrock there's no solid layer to confine the water coming from the surface, so even very deep wells can pick it up. Most of the shoreline she's walked looks fine. The trouble shows up where density and the wrong ground meet. Surprised?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #wellwater #onsitewastewater"
    },
    "approved": false,
    "layout": "crop",
@@ -137,9 +139,7 @@
    "publish_at": "2026-12-31T12:00:00",
    "networks": [
     "youtube",
-    "tiktok",
-    "instagram",
-    "facebook"
+    "tiktok"
    ],
    "cover_at": 1050.0,
    "fixes": {},
@@ -162,7 +162,9 @@
     "description": "{bryer} of {caulwell} explains why nitrate in drinking water has a health-based limit of 10 milligrams per liter: too much can harm or kill babies. Iron and chloride are aesthetic. Nitrate is not.\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater"
    },
    "captions": {
-    "tiktok": "Why 10 milligrams per liter of nitrate matters. {bryer} of {caulwell} explains blue baby syndrome: elevated nitrate in a drinking water source can harm or kill babies if the concentration is too high. In Canada it's a maximum acceptable concentration, a health-based guideline, where iron and chloride are only aesthetic. Did you know that?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #wellwater #drinkingwater"
+    "tiktok": "Why 10 milligrams per liter of nitrate matters. {bryer} of {caulwell} explains blue baby syndrome: elevated nitrate in a drinking water source can harm or kill babies if the concentration is too high. In Canada it's a maximum acceptable concentration, a health-based guideline, where iron and chloride are only aesthetic. Did you know that?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #wellwater #drinkingwater",
+    "instagram": "Why 10 milligrams per liter of nitrate matters. {bryer} of {caulwell} explains blue baby syndrome: elevated nitrate in a drinking water source can harm or kill babies if the concentration is too high. In Canada it's a maximum acceptable concentration, a health-based guideline, where iron and chloride are only aesthetic. Did you know that?\n\nFull episode: {episode}\n\n#septic #nitrate #wellwater #drinkingwater #septicbusiness",
+    "facebook": "A lot of us have heard of blue baby syndrome without knowing what it means for a well, so I asked {bryer} of {caulwell} to explain it. She says she can't speak to the physiology, but elevated nitrate in a drinking water source can harm or kill babies if the concentration is too high. That's why, in Canada, nitrate has a maximum acceptable concentration of 10 milligrams per liter, a health-based guideline, while things like iron and chloride are only aesthetic objectives.\n\n#septic #wellwater"
    },
    "approved": false,
    "layout": "crop",
@@ -170,7 +172,9 @@
    "publish_at": "2026-12-31T17:00:00",
    "networks": [
     "youtube",
-    "tiktok"
+    "tiktok",
+    "instagram",
+    "facebook"
    ],
    "cover_at": 712.0,
    "fixes": {},
@@ -194,9 +198,7 @@
     "description": "{bryer} of {caulwell} says the most useful thing a septic owner with a well can do is test the raw water: twice a year for the first three years, then every year, ideally in the spring.\n\nFull episode: {episode}\n\n#septic #wellwater #septicowner"
    },
    "captions": {
-    "tiktok": "Got a septic system and a well? Test your raw water. {bryer} of {caulwell} says to sample it every spring, when the water level is higher, and twice a year for the first three years you live there. She also says to shock chlorinate so you're not building biofilms in your own distribution system, and to get a full potability assessment every year so you can watch how your chemistry changes. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #wellwater #septicowner #onsitewastewater",
-    "instagram": "If you have a septic system and a well, test your raw water. {bryer} of {caulwell} says to sample it every spring, twice a year for the first three years you live there, then once a year after that. Add shock chlorination so you aren't building biofilms in your own pipes, and a full potability assessment every year so you can watch how your chemistry changes over time. Agree?\n\nFull episode: {episode}\n\n#septic #wellwater #septicowner #onsitewastewater #septicbusiness",
-    "facebook": "A lot of people drink from the same well for years and never test it. {bryer} of {caulwell} says that's where trouble hides. If you run a septic system and you have a well, she says to sample the raw water every spring, when the water level is higher, and twice a year for the first three years you live in a place, then yearly after that. She also recommends shock chlorinating so you don't build biofilms in your own distribution system, and a comprehensive potability assessment every year so you can see how your chemistry is changing. It's simple, and it tells you what's really in your water.\n\n#septic #wellwater"
+    "tiktok": "Got a septic system and a well? Test your raw water. {bryer} of {caulwell} says to sample it every spring, when the water level is higher, and twice a year for the first three years you live there. She also says to shock chlorinate so you're not building biofilms in your own distribution system, and to get a full potability assessment every year so you can watch how your chemistry changes. Agree?\n\nFull episode on our YouTube: {episode}\n\n#septic #wellwater #septicowner #onsitewastewater"
    },
    "approved": false,
    "layout": "crop",
@@ -204,9 +206,7 @@
    "publish_at": "2027-01-01T12:00:00",
    "networks": [
     "youtube",
-    "tiktok",
-    "instagram",
-    "facebook"
+    "tiktok"
    ],
    "cover_at": 2205.0,
    "fixes": {},
@@ -324,7 +324,9 @@
     "description": "{bryer} of {caulwell} uses a carbon source mixed into sand to treat nitrate in the ground. Wood chips are too coarse, sawdust is too fine, and too much carbon creates its own problems.\n\nFull episode: {episode}\n\n#septic #nitrate #septicdesign"
    },
    "captions": {
-    "tiktok": "Wood chips are too coarse. Sawdust is too fine. {bryer} of {caulwell} says hog fuel has the right texture to mix into sand for a passive nitrate treatment barrier. Use too much carbon and you create a BOD plume and risk clogging, so she says there's a sweet spot in the recipe. Ever seen hog fuel used for this?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicdesign #onsitewastewater"
+    "tiktok": "Wood chips are too coarse. Sawdust is too fine. {bryer} of {caulwell} says hog fuel has the right texture to mix into sand for a passive nitrate treatment barrier. Use too much carbon and you create a BOD plume and risk clogging, so she says there's a sweet spot in the recipe. Ever seen hog fuel used for this?\n\nFull episode on our YouTube: {episode}\n\n#septic #nitrate #septicdesign #onsitewastewater",
+    "instagram": "Wood chips are too coarse. Sawdust is too fine. {bryer} of {caulwell} says hog fuel has the ideal texture to mix into sand for a passive nitrate treatment barrier. Use too much carbon and you create a BOD plume and risk clogging, so there's a sweet spot in the recipe. Have you ever seen hog fuel used for this?\n\nFull episode: {episode}\n\n#septic #nitrate #septicdesign #onsitewastewater #septicbusiness",
+    "facebook": "Goldilocks showed up in an unexpected place: septic nitrate treatment. {bryer} of {caulwell} uses a carbon source mixed into sand, or sand and gravel, to treat nitrate in the ground. She says wood chips are too coarse and sawdust is too fine, and hog fuel has just the right texture. Use too much carbon and you create a BOD plume and can end up clogging, so she says there's a sweet spot in the recipe. I love how specific she gets.\n\n#septic #nitrate"
    },
    "approved": false,
    "layout": "crop",
@@ -332,7 +334,9 @@
    "publish_at": "2027-01-03T12:00:00",
    "networks": [
     "youtube",
-    "tiktok"
+    "tiktok",
+    "instagram",
+    "facebook"
    ],
    "cover_at": 1500.0,
    "fixes": {},
