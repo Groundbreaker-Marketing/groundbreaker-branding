@@ -77,7 +77,43 @@
    "cover_at": 513.0,
    "fixes": {},
    "end_pad": 0.15,
-   "cover": "07_notes/shorts/covers/treatment-nitrate.jpg"
+   "cover": "07_notes/shorts/covers/treatment-nitrate.jpg",
+   "metricool": {
+    "post_id": 444604703,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 444604703
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444604730
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 444604754
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/40317e89cd5c47ac.mp4",
+    "scheduled": "2026-12-30T15:00:00",
+    "caption_sha": "daa52ed9769e59af",
+    "render_sha": "d43c6beee8cb4dea",
+    "cover": "https://static.metricool.com/video/4530374/202611/2c55b891387c4d10.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/5bd8c81205844dc0.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "cu_oY4pUGdk",
+    "url": "https://youtu.be/cu_oY4pUGdk",
+    "scheduled": "2026-12-30T15:00:00",
+    "caption_sha": "daa52ed9769e59af",
+    "render_sha": "d43c6beee8cb4dea"
+   }
   },
   {
    "id": "thirty-milligrams",
@@ -113,7 +149,43 @@
    "fixes": {},
    "end_pad": 0.08,
    "trim_start": -0.04,
-   "cover": "07_notes/shorts/covers/thirty-milligrams.jpg"
+   "cover": "07_notes/shorts/covers/thirty-milligrams.jpg",
+   "metricool": {
+    "post_id": 444604882,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 444604882
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444604897
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 444604913
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/f63b4d573ef64721.mp4",
+    "scheduled": "2026-12-30T19:00:00",
+    "caption_sha": "f06889841dcab0c5",
+    "render_sha": "f67ee8fdbab8a98a",
+    "cover": "https://static.metricool.com/video/4530374/202611/d638ba9b3e234d1b.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/d3c28a2e219a4994.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "d03zSI7UaIM",
+    "url": "https://youtu.be/d03zSI7UaIM",
+    "scheduled": "2026-12-30T19:00:00",
+    "caption_sha": "f06889841dcab0c5",
+    "render_sha": "f67ee8fdbab8a98a"
+   }
   },
   {
    "id": "school-and-deep-wells",
@@ -144,7 +216,31 @@
    "cover_at": 1050.0,
    "fixes": {},
    "end_pad": 0.15,
-   "cover": "07_notes/shorts/covers/school-and-deep-wells.jpg"
+   "cover": "07_notes/shorts/covers/school-and-deep-wells.jpg",
+   "metricool": {
+    "post_id": 444605033,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605033
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/57c7419914104be8.mp4",
+    "scheduled": "2026-12-31T12:00:00",
+    "caption_sha": "e0716a784d274a12",
+    "render_sha": "1d7c198ae36eb4c0",
+    "cover": "https://static.metricool.com/video/4530374/202611/a13b6747b9104b02.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/b57eff99d52d4032.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "FN-HzMrmOl4",
+    "url": "https://youtu.be/FN-HzMrmOl4",
+    "scheduled": "2026-12-31T12:00:00",
+    "caption_sha": "e0716a784d274a12",
+    "render_sha": "1d7c198ae36eb4c0"
+   }
   },
   {
    "id": "blue-baby",
@@ -180,7 +276,43 @@
    "fixes": {},
    "end_pad": 0.08,
    "trim_start": -0.04,
-   "cover": "07_notes/shorts/covers/blue-baby.jpg"
+   "cover": "07_notes/shorts/covers/blue-baby.jpg",
+   "metricool": {
+    "post_id": 444605114,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 444605114
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605129
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 444605144
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/aa12f5a839dc4cc2.mp4",
+    "scheduled": "2026-12-31T17:00:00",
+    "caption_sha": "b60905611be3b7c5",
+    "render_sha": "d2077f93f567d4a5",
+    "cover": "https://static.metricool.com/video/4530374/202611/5a53313f446449dc.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/01c9fb8b4c234348.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "xU87skiOboU",
+    "url": "https://youtu.be/xU87skiOboU",
+    "scheduled": "2026-12-31T17:00:00",
+    "caption_sha": "b60905611be3b7c5",
+    "render_sha": "d2077f93f567d4a5"
+   }
   },
   {
    "id": "test-your-well",
@@ -212,7 +344,31 @@
    "fixes": {},
    "end_pad": 0.12,
    "trim_start": -0.04,
-   "cover": "07_notes/shorts/covers/test-your-well.jpg"
+   "cover": "07_notes/shorts/covers/test-your-well.jpg",
+   "metricool": {
+    "post_id": 444605276,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605276
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/bf9428b36ac14925.mp4",
+    "scheduled": "2027-01-01T12:00:00",
+    "caption_sha": "3b07f4ae46b1c609",
+    "render_sha": "51566d04ff317419",
+    "cover": "https://static.metricool.com/video/4530374/202611/02c1dd7387b34119.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/3e95b91e8ccd40ae.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "j41LNxowYIE",
+    "url": "https://youtu.be/j41LNxowYIE",
+    "scheduled": "2027-01-01T12:00:00",
+    "caption_sha": "3b07f4ae46b1c609",
+    "render_sha": "51566d04ff317419"
+   }
   },
   {
    "id": "five-kilometer-plume",
@@ -243,7 +399,31 @@
    "cover_at": 428.0,
    "fixes": {},
    "end_pad": 0.15,
-   "cover": "07_notes/shorts/covers/five-kilometer-plume.jpg"
+   "cover": "07_notes/shorts/covers/five-kilometer-plume.jpg",
+   "metricool": {
+    "post_id": 444605391,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605391
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/3d2019036c294a2b.mp4",
+    "scheduled": "2027-01-01T17:00:00",
+    "caption_sha": "6d53ceeb5f000471",
+    "render_sha": "7e549fbb70484222",
+    "cover": "https://static.metricool.com/video/4530374/202611/3b13628c296841ce.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/da87430f9c2b4067.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "_RE4G0J4c5Q",
+    "url": "https://youtu.be/_RE4G0J4c5Q",
+    "scheduled": "2027-01-01T17:00:00",
+    "caption_sha": "6d53ceeb5f000471",
+    "render_sha": "7e549fbb70484222"
+   }
   },
   {
    "id": "hundreds-of-miles",
@@ -275,7 +455,31 @@
    "fixes": {},
    "end_pad": 0.25,
    "trim_start": -0.04,
-   "cover": "07_notes/shorts/covers/hundreds-of-miles.jpg"
+   "cover": "07_notes/shorts/covers/hundreds-of-miles.jpg",
+   "metricool": {
+    "post_id": 444605495,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605495
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/dc980b6b10854a87.mp4",
+    "scheduled": "2027-01-02T12:00:00",
+    "caption_sha": "484d4e90e52059a3",
+    "render_sha": "29274384fbbe938e",
+    "cover": "https://static.metricool.com/video/4530374/202611/277e3f11cc034dd0.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/1758604cc2d3424c.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "kwMpMWvHw1c",
+    "url": "https://youtu.be/kwMpMWvHw1c",
+    "scheduled": "2027-01-02T12:00:00",
+    "caption_sha": "484d4e90e52059a3",
+    "render_sha": "29274384fbbe938e"
+   }
   },
   {
    "id": "duplex-loophole",
@@ -306,7 +510,31 @@
    "cover_at": 1190.0,
    "fixes": {},
    "end_pad": 0.1,
-   "cover": "07_notes/shorts/covers/duplex-loophole.jpg"
+   "cover": "07_notes/shorts/covers/duplex-loophole.jpg",
+   "metricool": {
+    "post_id": 444605613,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605613
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/be7e760932654dda.mp4",
+    "scheduled": "2027-01-02T17:00:00",
+    "caption_sha": "ff6f935cdeba398f",
+    "render_sha": "3edcef8ed746009e",
+    "cover": "https://static.metricool.com/video/4530374/202611/a9b36a33f56c4b24.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/36a01790cda1460d.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "t4oTnXXVRxw",
+    "url": "https://youtu.be/t4oTnXXVRxw",
+    "scheduled": "2027-01-02T17:00:00",
+    "caption_sha": "ff6f935cdeba398f",
+    "render_sha": "3edcef8ed746009e"
+   }
   },
   {
    "id": "goldilocks-recipe",
@@ -341,7 +569,43 @@
    "cover_at": 1500.0,
    "fixes": {},
    "end_pad": 0.12,
-   "cover": "07_notes/shorts/covers/goldilocks-recipe.jpg"
+   "cover": "07_notes/shorts/covers/goldilocks-recipe.jpg",
+   "metricool": {
+    "post_id": 444605726,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 444605726
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605743
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 444605753
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/1f611a3b93ce42ad.mp4",
+    "scheduled": "2027-01-03T12:00:00",
+    "caption_sha": "9b1b35c6ad6e9cfb",
+    "render_sha": "84d659aeeba83133",
+    "cover": "https://static.metricool.com/video/4530374/202611/79b7dd64071a4463.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/2b2fb5a8bb854e8a.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "t-Wg6_CAu34",
+    "url": "https://youtu.be/t-Wg6_CAu34",
+    "scheduled": "2027-01-03T12:00:00",
+    "caption_sha": "9b1b35c6ad6e9cfb",
+    "render_sha": "84d659aeeba83133"
+   }
   },
   {
    "id": "caffeine-vs-chloride",
@@ -372,7 +636,31 @@
    "cover_at": 2700.0,
    "fixes": {},
    "end_pad": 0.1,
-   "cover": "07_notes/shorts/covers/caffeine-vs-chloride.jpg"
+   "cover": "07_notes/shorts/covers/caffeine-vs-chloride.jpg",
+   "metricool": {
+    "post_id": 444605864,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444605864
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/a2d711bc54f04b8d.mp4",
+    "scheduled": "2027-01-03T17:00:00",
+    "caption_sha": "e99388a90fd69232",
+    "render_sha": "12b1872b15683108",
+    "cover": "https://static.metricool.com/video/4530374/202611/b4db4497f82d4beb.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/32f02c40931c4903.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "NqFLa6BtG8k",
+    "url": "https://youtu.be/NqFLa6BtG8k",
+    "scheduled": "2027-01-03T17:00:00",
+    "caption_sha": "e99388a90fd69232",
+    "render_sha": "12b1872b15683108"
+   }
   },
   {
    "id": "installer-skipped-recipe",
@@ -407,7 +695,43 @@
    "cover_at": 1745.0,
    "fixes": {},
    "end_pad": 0.08,
-   "cover": "07_notes/shorts/covers/installer-skipped-recipe.jpg"
+   "cover": "07_notes/shorts/covers/installer-skipped-recipe.jpg",
+   "metricool": {
+    "post_id": 444605990,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 444605990
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444606014
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 444606033
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/26420ea9e435485e.mp4",
+    "scheduled": "2027-01-04T12:00:00",
+    "caption_sha": "a1103206b8a9b005",
+    "render_sha": "888b8c54633ef56b",
+    "cover": "https://static.metricool.com/video/4530374/202611/db0248acc8b24594.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/301b082063af4cc4.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "8Jm3CM7WkGU",
+    "url": "https://youtu.be/8Jm3CM7WkGU",
+    "scheduled": "2027-01-04T12:00:00",
+    "caption_sha": "a1103206b8a9b005",
+    "render_sha": "888b8c54633ef56b"
+   }
   },
   {
    "id": "bragg-creek-wells",
@@ -438,7 +762,31 @@
    "cover_at": 2385.0,
    "fixes": {},
    "end_pad": 0.3,
-   "cover": "07_notes/shorts/covers/bragg-creek-wells.jpg"
+   "cover": "07_notes/shorts/covers/bragg-creek-wells.jpg",
+   "metricool": {
+    "post_id": 444606115,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444606115
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/91da674ea2f14223.mp4",
+    "scheduled": "2027-01-04T17:00:00",
+    "caption_sha": "72114b98fc9e5a17",
+    "render_sha": "3c1d9781ae1e2be6",
+    "cover": "https://static.metricool.com/video/4530374/202611/e06477c605ff4880.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/35471c0d96734d7c.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "2l03sJYNq9s",
+    "url": "https://youtu.be/2l03sJYNq9s",
+    "scheduled": "2027-01-04T17:00:00",
+    "caption_sha": "72114b98fc9e5a17",
+    "render_sha": "3c1d9781ae1e2be6"
+   }
   },
   {
    "id": "five-pillars",
@@ -473,7 +821,43 @@
    "cover_at": 3335.0,
    "fixes": {},
    "end_pad": 0.12,
-   "cover": "07_notes/shorts/covers/five-pillars.jpg"
+   "cover": "07_notes/shorts/covers/five-pillars.jpg",
+   "metricool": {
+    "post_id": 444606277,
+    "posts": [
+     {
+      "networks": [
+       "facebook"
+      ],
+      "post_id": 444606277
+     },
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444606293
+     },
+     {
+      "networks": [
+       "instagram"
+      ],
+      "post_id": 444606314
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/4db38686c0fe485f.mp4",
+    "scheduled": "2027-01-05T12:00:00",
+    "caption_sha": "f07abe8a6b5d7d59",
+    "render_sha": "db60ded4a7fcca86",
+    "cover": "https://static.metricool.com/video/4530374/202611/382fee92c0d141e1.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/d946b49bbb464b0f.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "STQvwsmKH9k",
+    "url": "https://youtu.be/STQvwsmKH9k",
+    "scheduled": "2027-01-05T12:00:00",
+    "caption_sha": "f07abe8a6b5d7d59",
+    "render_sha": "db60ded4a7fcca86"
+   }
   },
   {
    "id": "nsf-standard",
@@ -504,7 +888,31 @@
    "cover_at": 640.0,
    "fixes": {},
    "end_pad": 0.12,
-   "cover": "07_notes/shorts/covers/nsf-standard.jpg"
+   "cover": "07_notes/shorts/covers/nsf-standard.jpg",
+   "metricool": {
+    "post_id": 444606454,
+    "posts": [
+     {
+      "networks": [
+       "tiktok"
+      ],
+      "post_id": 444606454
+     }
+    ],
+    "media": "https://static.metricool.com/video/4530374/202611/02b5ddc747fb43d4.mp4",
+    "scheduled": "2027-01-05T17:00:00",
+    "caption_sha": "1f3e1229cc4c6d63",
+    "render_sha": "ea12975736dd4678",
+    "cover": "https://static.metricool.com/video/4530374/202611/68ebbf9dd21e4868.jpg",
+    "tiktok_media": "https://static.metricool.com/video/4530374/202611/1c3764a89920417b.mp4"
+   },
+   "youtube_upload": {
+    "video_id": "0rukpWKi08A",
+    "url": "https://youtu.be/0rukpWKi08A",
+    "scheduled": "2027-01-05T17:00:00",
+    "caption_sha": "1f3e1229cc4c6d63",
+    "render_sha": "ea12975736dd4678"
+   }
   }
  ]
 }
