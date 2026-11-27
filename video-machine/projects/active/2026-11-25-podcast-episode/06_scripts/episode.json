@@ -165,6 +165,308 @@
    "at": 3536.0
   },
   "out": "07_notes/episode/thumbnail.jpg",
-  "headline_w": 470
+  "headline_w": 470,
+  "variants": {
+   "opt1": {
+    "at": 2.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-1.jpg",
+    "headline_w": 440
+   },
+   "opt2": {
+    "at": 4.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-2.jpg",
+    "headline_w": 440
+   },
+   "opt3": {
+    "at": 23.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-3.jpg",
+    "headline_w": 440
+   },
+   "opt4": {
+    "at": 200.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-4.jpg",
+    "headline_w": 440
+   },
+   "opt5": {
+    "at": 300.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-5.jpg",
+    "headline_w": 440
+   },
+   "opt6": {
+    "at": 2120.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-6.jpg",
+    "headline_w": 440
+   },
+   "opt7": {
+    "at": 2870.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-7.jpg",
+    "headline_w": 440
+   },
+   "opt8": {
+    "at": 3425.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/option-8.jpg",
+    "headline_w": 440
+   },
+   "pair30": {
+    "at": 23.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.25,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/pair-30.jpg",
+    "headline_w": 440
+   },
+   "pair0": {
+    "at": 23.0,
+    "lines": [
+     [
+      "WHY ADVANCED",
+      "big"
+     ],
+     [
+      "SEPTIC TREATMENT",
+      "big"
+     ],
+     [
+      "STILL LEAVES",
+      "big"
+     ],
+     [
+      "NITRATE IN",
+      "box"
+     ],
+     [
+      "THE WATER",
+      "box"
+     ]
+    ],
+    "host_restore": 0.0,
+    "host_sharpen": 25,
+    "host_natural": 0.4,
+    "out": "08_docs/thumbnail-options/pair-0.jpg",
+    "headline_w": 440
+   }
+  }
  }
 }
