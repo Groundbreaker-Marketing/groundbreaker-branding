@@ -176,6 +176,56 @@
   "host_sharpen": 25,
   "host_natural": 0.4,
   "note": "Ashley picked option 7 (her frame at 2870 s) at 0% face retouch on 2026-11-27; Bryer's frame, crop and treatment are unchanged (guest at 3536 s, restore 70%). Headline is the episode title, Ashley 2026-11-27: 'Use \"Why Septic ATUs Can Make Nitrate Worse\" for both'. 2026-11-27: Ashley's cut-out edge is cleaned (host_edge_clean: the room's light is taken off the matte edge, a pale rim on top of her hair); Bryer's side is built with edge_clean off, so it is unchanged.",
-  "host_edge_clean": true
+  "host_edge_clean": true,
+  "variants": {
+   "opt1": {
+    "at": 2.0,
+    "out": "08_docs/thumbnail-options/option-1.jpg"
+   },
+   "opt2": {
+    "at": 4.0,
+    "out": "08_docs/thumbnail-options/option-2.jpg"
+   },
+   "opt3": {
+    "at": 23.0,
+    "out": "08_docs/thumbnail-options/option-3.jpg"
+   },
+   "opt4": {
+    "at": 200.0,
+    "out": "08_docs/thumbnail-options/option-4.jpg"
+   },
+   "opt5": {
+    "at": 300.0,
+    "out": "08_docs/thumbnail-options/option-5.jpg"
+   },
+   "opt6": {
+    "at": 2120.0,
+    "out": "08_docs/thumbnail-options/option-6.jpg"
+   },
+   "opt7": {
+    "at": 2870.0,
+    "out": "08_docs/thumbnail-options/option-7.jpg"
+   },
+   "opt8": {
+    "at": 3425.0,
+    "out": "08_docs/thumbnail-options/option-8.jpg"
+   },
+   "opt9": {
+    "at": 6.0,
+    "out": "08_docs/thumbnail-options/option-9.jpg"
+   },
+   "opt10": {
+    "at": 77.0,
+    "out": "08_docs/thumbnail-options/option-10.jpg"
+   },
+   "opt11": {
+    "at": 3180.0,
+    "out": "08_docs/thumbnail-options/option-11.jpg"
+   },
+   "opt12": {
+    "at": 3410.0,
+    "out": "08_docs/thumbnail-options/option-12.jpg"
+   }
+  }
  }
 }
